@@ -785,8 +785,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f1tnsm.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241101223000 +0000" stop="20241101230000 +0000">
-		<title>Newsnight - 01/11/2024</title>
-		<desc>The day's important national and international news stories. With Katie Razzall.</desc>
+		<title>Newsnight - Harris v Trump on 'violent rhetoric'</title>
+		<desc>Newsnight hears from one of Trump's most high-profile supporters. With Katie Razzall.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241101230000 +0000" stop="20241101230500 +0000">
@@ -5369,7 +5369,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20241103233000 +0000" stop="20241104000000 +0000">
 		<title>The Sunday Show - Series 4: 03/11/2024</title>
-		<desc>Martin Geissler brings you all the main issues from the world of politics and beyond. </desc>
+		<desc>Martin Geissler is joined by Anas Sarwar MSP.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0965tth.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20241104000000 +0000" stop="20241104060000 +0000">
@@ -5653,8 +5653,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241101223000 +0000" stop="20241101230000 +0000">
-		<title>Newsnight - 01/11/2024</title>
-		<desc>The day's important national and international news stories. With Katie Razzall.</desc>
+		<title>Newsnight - Harris v Trump on 'violent rhetoric'</title>
+		<desc>Newsnight hears from one of Trump's most high-profile supporters. With Katie Razzall.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241101230000 +0000" stop="20241101233000 +0000">
@@ -6737,100 +6737,70 @@
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 31 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1gy0m.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241103060000 +0000" stop="20241103110000 +0000">
+	<programme channel="bbcparliament" start="20241103061000 +0000" stop="20241103102500 +0000">
 		<title>Westminster Hall - 30/10/2024</title>
 		<desc>House of Commons proceedings in Westminster Hall from Wednesday 30 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241103110000 +0000" stop="20241103114500 +0000">
-		<title>House of Lords - 02/11/2024</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20241103102500 +0000" stop="20241103133000 +0000">
+		<title>House of Commons - Remembrance and Veterans</title>
+		<desc>Debate in the House of Commons on Remembrance and the contribution of veterans.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0wd97.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241103114500 +0000" stop="20241103124500 +0000">
-		<title>Scottish Parliament - 02/11/2024</title>
-		<desc>Coverage of a debate in the Scottish Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	<programme channel="bbcparliament" start="20241103133000 +0000" stop="20241103140000 +0000">
+		<title>Scottish Parliament - Tributes to Alex Salmond</title>
+		<desc>Tributes in the Scottish Parliament to former first minister Alex Salmond.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1flr2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241103124500 +0000" stop="20241103134500 +0000">
-		<title>House of Commons - 02/11/2024</title>
-		<desc>Coverage of a debate in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20241103140000 +0000" stop="20241103184000 +0000">
+		<title>House of Commons - Budget Debate: Day 2</title>
+		<desc>Second day of debate on the measures announced in the Budget, from Thursday 31 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1n5c0.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241103134500 +0000" stop="20241103142000 +0000">
-		<title>House of Lords - 02/11/2024</title>
-		<desc>Coverage of an urgent question in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241103142000 +0000" stop="20241103150500 +0000">
-		<title>Scottish Parliament - 02/11/2024</title>
-		<desc>Coverage of a debate in the Scottish Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241103150500 +0000" stop="20241103154000 +0000">
-		<title>House of Commons - 02/11/2024</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241103154000 +0000" stop="20241103164000 +0000">
-		<title>House of Lords - 02/11/2024</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241103164000 +0000" stop="20241103171500 +0000">
+	<programme channel="bbcparliament" start="20241103184000 +0000" stop="20241103191000 +0000">
 		<title>Prime Minister's Questions - 30/10/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 30 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k15mx6.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241103171500 +0000" stop="20241103180000 +0000">
+	<programme channel="bbcparliament" start="20241103191000 +0000" stop="20241103195500 +0000">
 		<title>Scottish First Minister's Questions - 31/10/2024</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 31 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1n6rm.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241103180000 +0000" stop="20241103210000 +0000">
-		<title>Select Committees - 03/11/2024 Part 1</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20241103195500 +0000" stop="20241103215000 +0000">
+		<title>Select Committees - Lords Financial Services Regulation Committee</title>
+		<desc>Coverage of the Lords Financial Services Regulation committee on Wednesday 30 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k16ml3.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241103215000 +0000" stop="20241103231000 +0000">
+		<title>Select Committees - Economic Inactivity Inquiry</title>
+		<desc>The Economic Affairs select committee session on economic inactivity, from 29 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241103210000 +0000" stop="20241104001000 +0000">
-		<title>Select Committees - 03/11/2024 Part 2</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241104001000 +0000" stop="20241104011000 +0000">
-		<title>House of Commons - Business and Trade Questions</title>
-		<desc>Coverage of questions to the business and trade ministers on Thursday 31 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1gw2y.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241104011000 +0000" stop="20241104021000 +0000">
-		<title>House of Commons - Commons Business Questions</title>
-		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 31 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1gy0m.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241104021000 +0000" stop="20241104024000 +0000">
-		<title>House of Commons - Scotland Office Questions</title>
-		<desc>Coverage of questions to Ian Murray on Wednesday 30 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k16p9l.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241104024000 +0000" stop="20241104034000 +0000">
-		<title>House of Commons - Treasury Questions</title>
-		<desc>Coverage of questions to Rachel Reeves on Tuesday 29 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0wyc6.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241104034000 +0000" stop="20241104044000 +0000">
+	<programme channel="bbcparliament" start="20241103231000 +0000" stop="20241104001000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Angela Rayner on Monday 28 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0rpf4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241104044000 +0000" stop="20241104052500 +0000">
+	<programme channel="bbcparliament" start="20241104001000 +0000" stop="20241104022500 +0000">
+		<title>House of Commons - Budget Statement</title>
+		<desc>The Budget statement by Rachel Reeves and the responses, from Wednesday 30 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k14zgq.png" />
+	</programme>
+	<programme channel="bbcparliament" start="20241104022500 +0000" stop="20241104033500 +0000">
+		<title>House of Commons - Middle East Statement</title>
+		<desc>Debate in the Commons on a ministerial statement on the Middle East, on Monday 28 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0rrwx.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241104033500 +0000" stop="20241104045000 +0000">
+		<title>House of Commons - Unrwa Urgent Question</title>
+		<desc>An urgent question on the government's assessment of Israel's ban on UNRWA from operating.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k10b4z.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241104045000 +0000" stop="20241104053500 +0000">
 		<title>Scottish First Minister's Questions - 31/10/2024</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 31 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1n6rm.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241104052500 +0000" stop="20241104060000 +0000">
-		<title>Prime Minister's Questions - 30/10/2024</title>
-		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 30 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k15mx6.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241104053500 +0000" stop="20241104060500 +0000">
 		<title>Prime Minister's Questions - 30/10/2024</title>
@@ -6907,11 +6877,6 @@
 		<desc>Business in the House of Lords on Monday 4 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241105040000 +0000" stop="20241105063000 +0000">
-		<title>House of Lords - 04/11/2024 Part 5</title>
-		<desc>Business in the House of Lords on Monday 4 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
 	<programme channel="bbcparliament" start="20241105063000 +0000" stop="20241105073000 +0000">
 		<title>House of Commons - Education Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Monday 4 November.</desc>
@@ -6933,7 +6898,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241105123000 +0000" stop="20241105193000 +0000">
-		<title>House of Commons - Budget Debate, Day 4</title>
+		<title>House of Commons - Budget Debate: Day 4</title>
 		<desc>Coverage of day four of the budget debate in the House of Commons on Tuesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
