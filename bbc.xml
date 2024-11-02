@@ -5260,20 +5260,15 @@
 		<desc>On the Isle of Skye, experienced climber Frank has gone missing in the mountains.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jyms1m.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20241102210000 +0000" stop="20241102212500 +0000">
+	<programme channel="bbcscotland" start="20241102210000 +0000" stop="20241102220000 +0000">
+		<title>Janey</title>
+		<desc>Janey Godley on her 2023 Not Dead Yet tour following her cancer diagnosis.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hwr6nk.jpg" />
+	</programme>
+	<programme channel="bbcscotland" start="20241102220000 +0000" stop="20241102222500 +0000">
 		<title>Stevens &amp; McCarthy - Series 1: Episode 4</title>
 		<desc>Doorbell cameras come in handy for an opinion, and the jail buddies chat about life.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jt4z16.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20241102212500 +0000" stop="20241102215500 +0000">
-		<title>Scot Squad - Series 7: Episode 1</title>
-		<desc>The Chief uses all of his faculties to reinvent himself. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bbnsh5.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20241102215500 +0000" stop="20241102222500 +0000">
-		<title>Scot Squad - Series 7: Episode 2</title>
-		<desc>Traffic officer Hugh McKirdy shares his expertise on all things deep-fried.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bbrcqb.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20241102222500 +0000" stop="20241102232500 +0000">
 		<title>Scotland's Big Night Out</title>
@@ -5571,9 +5566,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07hp9l7.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241102113000 +0000" stop="20241102120000 +0000">
-		<title>The Global Story - 3. America and... the Middle East</title>
-		<desc>How could Kamala Harris or Donald Trump affect Israel, Gaza and the wider region?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jspnfv.jpg" />
+		<title>BBC News - 02/11/2024</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241102120000 +0000" stop="20241102123000 +0000">
 		<title>BBC News - 02/11/2024</title>
