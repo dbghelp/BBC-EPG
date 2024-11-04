@@ -829,32 +829,32 @@
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241104231500 +0000" stop="20241105001500 +0000">
+	<programme channel="bbctwo" start="20241104231500 +0000" stop="20241105012000 +0000">
+		<title>BBC Proms - 2016: Quincy Jones Prom</title>
+		<desc>Celebrating the career of composer, arranger, producer and conductor Quincy Jones.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p045lxd9.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20241105012000 +0000" stop="20241105022000 +0000">
 		<title>Highland Cops - Series 2: Episode 1</title>
 		<desc>On the Isle of Skye, experienced climber Frank has gone missing in the mountains.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jyms1m.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241105001500 +0000" stop="20241105011000 +0000">
+	<programme channel="bbctwo" start="20241105022000 +0000" stop="20241105031500 +0000">
 		<title>Countryfile - Rare Crop Harvest</title>
 		<desc>Charlotte meets pioneering farmer David Mwanaka, who grows crops from his native Zimbabwe.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k04qtx.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241105011000 +0000" stop="20241105021000 +0000">
-		<title>MasterChef: The Professionals - Series 17: Episode 1</title>
-		<desc>Thirty-two ambitious chefs battle it out to become the 2024 champion.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jzck80.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20241105021000 +0000" stop="20241105031000 +0000">
+	<programme channel="bbctwo" start="20241105031500 +0000" stop="20241105041500 +0000">
 		<title>Waterloo Road - Series 14: Episode 8</title>
 		<desc>A familiar face returns to restore order as Nicky and Donte’s relationship is tested.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jnhg94.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241105031000 +0000" stop="20241105034000 +0000">
+	<programme channel="bbctwo" start="20241105041500 +0000" stop="20241105044500 +0000">
 		<title>Our Lives - Series 8: 9. Secrets of the Lost Mines</title>
 		<desc>Two friends with a passion for the past explore the abandoned metal mines of mid Wales.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jh18wt.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241105034000 +0000" stop="20241105063000 +0000">
+	<programme channel="bbctwo" start="20241105044500 +0000" stop="20241105063000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -975,16 +975,21 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0m66b.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241106010000 +0000" stop="20241106020000 +0000">
+		<title>MasterChef: The Professionals - Series 17: Episode 1</title>
+		<desc>Thirty-two ambitious chefs battle it out to become the 2024 champion.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jzck80.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20241106020000 +0000" stop="20241106030000 +0000">
 		<title>Celebrity Antiques Road Trip - Series 10: Episode 10</title>
 		<desc>Stand-up comedians Zoe Lyons and Noreen Khan go antiquing in the Shropshire countryside.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b4c57r.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241106020000 +0000" stop="20241106030000 +0000">
+	<programme channel="bbctwo" start="20241106030000 +0000" stop="20241106040000 +0000">
 		<title>Ludwig - Series 1: Episode 6</title>
 		<desc>A cryptic call sees Lucy lured into danger. Will John’s cover finally be blown?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jr8403.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241106030000 +0000" stop="20241106063000 +0000">
+	<programme channel="bbctwo" start="20241106040000 +0000" stop="20241106063000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -1075,8 +1080,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06t2prt.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241106210000 +0000" stop="20241106220000 +0000">
-		<title>Lucan - Series 1: Episode 1</title>
-		<desc>A builder discovers he is the son of the nanny murdered by Lord Lucan.</desc>
+		<title>Lucan - Series 1: 1. The Evidence</title>
+		<desc>Neil pieces together the evidence on the murder of his mother, Sandra Rivett.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1f1xd.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241106220000 +0000" stop="20241106223000 +0000">
@@ -1205,8 +1210,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jx3xv5.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241107210000 +0000" stop="20241107220000 +0000">
-		<title>Lucan - Series 1: Episode 2</title>
-		<desc>Investigator Neil turns his attention to a possible sighting of Lucan in Australia.</desc>
+		<title>Lucan - Series 1: 2. The Trail</title>
+		<desc>Neil’s investigation leads him to Australia. Will he find the truth?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1nkdf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241107220000 +0000" stop="20241107223000 +0000">
@@ -1330,8 +1335,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1qhcx.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241108210000 +0000" stop="20241108220000 +0000">
-		<title>Lucan - Series 1: Episode 3</title>
-		<desc>Sandra Rivett’s son Neil goes face to face with the man he believes killed his mother.</desc>
+		<title>Lucan - Series 1: 3. Revelations</title>
+		<desc>Neil and his mother's ex prepare to face the man they believe murdered Sandra.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1f30j.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241108220000 +0000" stop="20241108223000 +0000">
@@ -1396,7 +1401,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20241104195800 +0000" stop="20241104200000 +0000">
 		<title>The Catch Up - 04/11/2024</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Lucy Elsie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20241104200000 +0000" stop="20241104210000 +0000">
@@ -5847,7 +5852,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20241104183000 +0000" stop="20241104190000 +0000">
 		<title>Sportsday - 04/11/2024</title>
-		<desc>A round-up of the day's sporting action.</desc>
+		<desc>Amorim prepares to face Manchester City. Plus, Verstappen on the brink of F1 glory.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241104190000 +0000" stop="20241104193000 +0000">
@@ -6830,8 +6835,18 @@
 		<desc>Coverage of questions to Bridget Phillipson on Monday 4 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241104153000 +0000" stop="20241104223000 +0000">
-		<title>House of Commons - Budget Debate: Day 3</title>
+	<programme channel="bbcparliament" start="20241104153000 +0000" stop="20241104161500 +0000">
+		<title>House of Commons - Urgent Question on the Budget and Farmers</title>
+		<desc>Question on the implications of the Budget for farming communities, on Monday 4 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241104161500 +0000" stop="20241104171500 +0000">
+		<title>House of Commons - Higher Education Reform Statement</title>
+		<desc>Statement by education secretary Bridget Phillipson, on Monday 4 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241104171500 +0000" stop="20241104223000 +0000">
+		<title>House of Commons - Budget Debate</title>
 		<desc>Coverage of day three of the budget debate in the House of Commons on Monday 4 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -7946,7 +7961,7 @@
 	</programme>
 	<programme channel="s4c" start="20241104200000 +0000" stop="20241104202500 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2024: Llanast llwyr?</title>
-		<desc>Cyfres materion cyfoes gyda straeon o Gymru a'r byd. Current affairs with stories from ...</desc>
+		<desc>Clywn am bryderon yn Sir Ddinbych fod y system wastraff yno yn llanast llwyr. With many...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k24s4w.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241104202500 +0000" stop="20241104205500 +0000">
@@ -7961,7 +7976,7 @@
 	</programme>
 	<programme channel="s4c" start="20241104210000 +0000" stop="20241104213000 +0000">
 		<title>Ffermio - Mon, 04 Nov 2024</title>
-		<desc>Cyfres gylchgrawn am faterion cefn gwlad. Weekly countryside and farming magazine.</desc>
+		<desc>Gyda llai o ddefaid a gwartheg wedi cael eu cofrestru llynedd, Alun sy'n darganfod effa...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dvbqb6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241104213000 +0000" stop="20241104220000 +0000">
@@ -8156,7 +8171,7 @@
 	</programme>
 	<programme channel="s4c" start="20241105133000 +0000" stop="20241105140000 +0000">
 		<title>Ffermio - Mon, 04 Nov 2024</title>
-		<desc>Cyfres gylchgrawn am faterion cefn gwlad. Weekly countryside and farming magazine.</desc>
+		<desc>Gyda llai o ddefaid a gwartheg wedi cael eu cofrestru llynedd, Alun sy'n darganfod effa...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dvbqb6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241105140000 +0000" stop="20241105140500 +0000">
@@ -8266,7 +8281,7 @@
 	</programme>
 	<programme channel="s4c" start="20241105220000 +0000" stop="20241105223000 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2024: Llanast llwyr?</title>
-		<desc>Cyfres materion cyfoes gyda straeon o Gymru a'r byd. Current affairs with stories from ...</desc>
+		<desc>Clywn am bryderon yn Sir Ddinbych fod y system wastraff yno yn llanast llwyr. With many...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k24s4w.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241105223000 +0000" stop="20241105233500 +0000">
@@ -8741,7 +8756,7 @@
 	</programme>
 	<programme channel="s4c" start="20241107133000 +0000" stop="20241107140000 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2024: Llanast llwyr?</title>
-		<desc>Cyfres materion cyfoes gyda straeon o Gymru a'r byd. Current affairs with stories from ...</desc>
+		<desc>Clywn am bryderon yn Sir Ddinbych fod y system wastraff yno yn llanast llwyr. With many...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k24s4w.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241107140000 +0000" stop="20241107140500 +0000">
