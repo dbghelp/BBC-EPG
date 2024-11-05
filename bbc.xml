@@ -162,12 +162,12 @@
 	<programme channel="bbcone" start="20241105224000 +0000" stop="20241106020000 +0000">
 		<title>US Election 2024 - Election Night - Part 1</title>
 		<desc>Live coverage of the race to be the next president of the United States.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k05vpt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2l68k.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241106020000 +0000" stop="20241106060000 +0000">
 		<title>US Election 2024 - Election Night - Part 2</title>
 		<desc>Live coverage of the race to be the next president of the United States.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k05vpt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2l836.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241106060000 +0000" stop="20241106093000 +0000">
 		<title>Breakfast - 06/11/2024</title>
@@ -5780,12 +5780,12 @@
 	<programme channel="bbcnews" start="20241105224000 +0000" stop="20241106020000 +0000">
 		<title>US Election 2024 - Election Night - Part 1</title>
 		<desc>Live coverage of the race to be the next president of the United States.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k05vpt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2l68k.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241106020000 +0000" stop="20241106060000 +0000">
 		<title>US Election 2024 - Election Night - Part 2</title>
 		<desc>Live coverage of the race to be the next president of the United States.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k05vpt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2l836.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241106060000 +0000" stop="20241106090000 +0000">
 		<title>US Election 2024 - 06/11/2024</title>
@@ -6672,20 +6672,50 @@
 		<desc>Coverage of day four of the budget debate in the House of Commons, on Tuesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241105193000 +0000" stop="20241105220000 +0000">
-		<title>House of Lords - 05/11/2024</title>
-		<desc>Coverage of the day's proceedings in the House of Lords, on Tuesday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20241105193000 +0000" stop="20241105214000 +0000">
+		<title>Select Committees - Treasury Committee</title>
+		<desc>Coverage of the treasury select committee session on the October 2024 Budget.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241105220000 +0000" stop="20241105225000 +0000">
+	<programme channel="bbcparliament" start="20241105214000 +0000" stop="20241105220000 +0000">
+		<title>Scottish Parliament - Finance Questions</title>
+		<desc>Questions in the Scottish Parliament to Shona Robison, from Wednesday 30 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k251p4.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241105220000 +0000" stop="20241105230000 +0000">
 		<title>Welsh First Minister's Questions - 05/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241105225000 +0000" stop="20241105233500 +0000">
+	<programme channel="bbcparliament" start="20241105230000 +0000" stop="20241105234500 +0000">
 		<title>Lords Questions - 05/11/2024</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241105234500 +0000" stop="20241105235500 +0000">
+		<title>House of Lords - Farming and the Budget Statement</title>
+		<desc>Debate on a statement on the implications of the Budget for farming communities.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241105235500 +0000" stop="20241106030500 +0000">
+		<title>House of Lords - Crown Estate Bill</title>
+		<desc>Report stage debate in the Lords on the Crown Estate Bill, from Tuesday 5 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241106030500 +0000" stop="20241106040000 +0000">
+		<title>House of Lords - Hezbollah Debate</title>
+		<desc>Debate on the government's assessment of the threat posed by Hezbollah to the UK.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241106040000 +0000" stop="20241106044000 +0000">
+		<title>House of Lords - Higher Education Reform Statement</title>
+		<desc>Debate on a ministerial statement on higher education reform, from Tuesday 5 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241106044000 +0000" stop="20241106064500 +0000">
+		<title>Select Committees - Treasury Committee</title>
+		<desc>Coverage of the treasury select committee session on the October 2024 Budget.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241105233500 +0000" stop="20241106063000 +0000">
 		<title>House of Lords - 05/11/2024</title>
