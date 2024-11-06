@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20241106093000 +0000" stop="20241106104500 +0000">
 		<title>Morning Live - Series 6: 06/11/2024</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Gethin Jones and Helen Skelton talk to Rebecca Wilcox on ways to lower water bills.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jybqmg.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241106104500 +0000" stop="20241106111500 +0000">
@@ -114,17 +114,17 @@
 		<desc>Contestants score points by coming up with the answers no-one else could think of.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0grr37s.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241106180000 +0000" stop="20241106183000 +0000">
+	<programme channel="bbcone" start="20241106180000 +0000" stop="20241106184000 +0000">
 		<title>BBC News at Six - 06/11/2024</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241106183000 +0000" stop="20241106190000 +0000">
+	<programme channel="bbcone" start="20241106184000 +0000" stop="20241106190500 +0000">
 		<title>BBC London - Evening News: 06/11/2024</title>
 		<desc>The latest news, sport and weather from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241106190000 +0000" stop="20241106193000 +0000">
+	<programme channel="bbcone" start="20241106190500 +0000" stop="20241106193000 +0000">
 		<title>The One Show - 06/11/2024</title>
 		<desc>Ashley Jensen and JK Simmons join Alex Jones and Vernon Kay on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jn9yj0.jpg" />
@@ -144,32 +144,32 @@
 		<desc>When a woman goes missing with her young son, Tosh and Calder set out to find them.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1h09x.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241106220000 +0000" stop="20241106223000 +0000">
+	<programme channel="bbcone" start="20241106220000 +0000" stop="20241106224000 +0000">
 		<title>BBC News at Ten - 06/11/2024</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241106223000 +0000" stop="20241106224000 +0000">
+	<programme channel="bbcone" start="20241106224000 +0000" stop="20241106225000 +0000">
 		<title>BBC London - Late News: 06/11/2024</title>
 		<desc>The latest news, sport and weather from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241106224000 +0000" stop="20241107000000 +0000">
+	<programme channel="bbcone" start="20241106225000 +0000" stop="20241107001000 +0000">
 		<title>UEFA Champions League - 2024/25: Matchday 4 Highlights</title>
 		<desc>Highlights from the latest round of fixtures of Europe’s elite club competition.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jt7f8r.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241107000000 +0000" stop="20241107010000 +0000">
+	<programme channel="bbcone" start="20241107001000 +0000" stop="20241107011000 +0000">
 		<title>Ambulance - Series 13: 3. Hoax Caller</title>
 		<desc>In the control room, dispatchers tackle a persistent hoax caller.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jzddm7.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241107010000 +0000" stop="20241107010500 +0000">
+	<programme channel="bbcone" start="20241107011000 +0000" stop="20241107011500 +0000">
 		<title>Weather for the Week Ahead - 07/11/2024</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241107010500 +0000" stop="20241107060000 +0000">
+	<programme channel="bbcone" start="20241107011500 +0000" stop="20241107060000 +0000">
 		<title>Joins BBC News - 07/11/2024</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -734,30 +734,15 @@
 		<desc>Rick Edwards hosts the quiz where players must avoid the Impossible answers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04lwpn2.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241106134500 +0000" stop="20241106143000 +0000">
-		<title>The Tournament - Series 2: Episode 7</title>
-		<desc>Eight players do battle in the ultimate knockout quiz. Hosted by Alex Scott.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d18b4f.jpg" />
+	<programme channel="bbctwo" start="20241106134500 +0000" stop="20241106140000 +0000">
+		<title>The Best Dishes Ever - Series 1: 7. Cheap and Cheerful</title>
+		<desc>The menu includes a Bake Off masterclass featuring Sussex suet pond pudding.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03hbzn2.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241106143000 +0000" stop="20241106151500 +0000">
-		<title>The Boss - Series 1: Episode 17</title>
-		<desc>Susan Calman hosts the quiz show of tactics, knowledge and nerve.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0grkb3r.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20241106151500 +0000" stop="20241106154500 +0000">
-		<title>Blitz Cities - 3. Norwich</title>
-		<desc>Myleene Klass looks into the story of the Baedeker Blitz on Norwich.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0319754.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20241106154500 +0000" stop="20241106161500 +0000">
-		<title>Life in a Cottage Garden with Carol Klein - Series 1 (Shortened Versions): 3. Winter</title>
-		<desc>Carol prepares her garlic for spring planting and prunes the late-flowering clematis.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p092d332.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20241106161500 +0000" stop="20241106171500 +0000">
-		<title>This Farming Life - Series 4: Episode 11</title>
-		<desc>Helen and Graham are forced to make a decision with devastating consequences.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p096d59k.jpg" />
+	<programme channel="bbctwo" start="20241106140000 +0000" stop="20241106171500 +0000">
+		<title>US Election 2024 - 06/11/2024</title>
+		<desc>Live coverage of reaction to the 2024 US presidential election.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k05vpt.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241106171500 +0000" stop="20241106180000 +0000">
 		<title>Flog It! - Series 14: 21. Basingstoke 1</title>
@@ -880,14 +865,14 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p032krdp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241107154500 +0000" stop="20241107161500 +0000">
-		<title>Life in a Cottage Garden with Carol Klein - Series 1 (Shortened Versions): 4. Spring</title>
-		<desc>Carol clears away the winter debris and prepares the garden for spring's renewal.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p092d388.jpg" />
+		<title>Life in a Cottage Garden with Carol Klein - Series 1 (Shortened Versions): 3. Winter</title>
+		<desc>Carol prepares her garlic for spring planting and prunes the late-flowering clematis.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p092d332.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241107161500 +0000" stop="20241107171500 +0000">
-		<title>This Farming Life - Series 4: Episode 12</title>
-		<desc>It’s the height of summer, and the farmers figure out ways to adapt in changing times.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0977jcb.jpg" />
+		<title>This Farming Life - Series 4: Episode 11</title>
+		<desc>Helen and Graham are forced to make a decision with devastating consequences.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p096d59k.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241107171500 +0000" stop="20241107180000 +0000">
 		<title>Flog It! - Series 14: 22. Falmouth 12</title>
@@ -1005,14 +990,14 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p031ckxj.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241108154500 +0000" stop="20241108161500 +0000">
-		<title>The Wonder of Animals - 12. Birds of Prey</title>
-		<desc>How a bird of prey's anatomical and physiological adaptations help it dominate the skies.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0295jnz.jpg" />
+		<title>Life in a Cottage Garden with Carol Klein - Series 1 (Shortened Versions): 4. Spring</title>
+		<desc>Carol clears away the winter debris and prepares the garden for spring's renewal.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p092d388.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241108161500 +0000" stop="20241108171500 +0000">
-		<title>Super Small Animals</title>
-		<desc>Patrick Aryee investigates what makes super small animals so successful</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hjc3vk.jpg" />
+		<title>This Farming Life - Series 4: Episode 12</title>
+		<desc>It’s the height of summer, and the farmers figure out ways to adapt in changing times.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0977jcb.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241108171500 +0000" stop="20241108180000 +0000">
 		<title>Flog It! - Series 14: 31. Ragley Hall 6</title>
@@ -1065,7 +1050,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h9c298.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241109004500 +0000" stop="20241109014000 +0000">
-		<title>Panorama - The Chris Kaba Shooting</title>
+		<title>Panorama - The Chris Kaba Shooting </title>
 		<desc>An investigation into what happened on the night of the fatal shooting of Chris Kaba.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1n28n.jpg" />
 	</programme>
@@ -1122,7 +1107,7 @@
 	<programme channel="bbctwo" start="20241109083000 +0000" stop="20241109085500 +0000">
 		<title>Blue Peter - Joel Joins the Marines and Paddy's Cycle Challenge</title>
 		<desc>Joel takes on his toughest test yet as he attempts a Royal Marines Endurance Course.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h60km3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r316.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241109085500 +0000" stop="20241109090500 +0000">
 		<title>Newsround - 09/11/2024</title>
@@ -1311,7 +1296,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20241110220000 +0000" stop="20241110234500 +0000">
 		<title>Deliverance</title>
-		<desc>Thriller film.</desc>
+		<desc>Four friends from the city take a canoeing trip downriver to see the wilderness.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2qqj5.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241110234500 +0000" stop="20241111004500 +0000">
@@ -1366,7 +1351,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20241106195800 +0000" stop="20241106200000 +0000">
 		<title>The Catch Up - 06/11/2024</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Lola Schroer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20241106200000 +0000" stop="20241106210000 +0000">
@@ -2880,7 +2865,7 @@
 	<programme channel="cbbc" start="20241108170000 +0000" stop="20241108173000 +0000">
 		<title>Blue Peter - Joel Joins the Marines and Paddy's Cycle Challenge</title>
 		<desc>Joel takes on his toughest test yet as he attempts a Royal Marines Endurance Course.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h60km3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r316.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20241108173000 +0000" stop="20241108175000 +0000">
 		<title>One Zoo Three - Series 1: 5. The Health Check</title>
@@ -2975,7 +2960,7 @@
 	<programme channel="cbbc" start="20241109113000 +0000" stop="20241109120000 +0000">
 		<title>Blue Peter - Joel Joins the Marines and Paddy's Cycle Challenge</title>
 		<desc>Joel takes on his toughest test yet as he attempts a Royal Marines Endurance Course.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h60km3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r316.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20241109120000 +0000" stop="20241109122000 +0000">
 		<title>Cooking Buddies - Series 1: 6. Cracking Egg Tortilla</title>
@@ -3181,7 +3166,7 @@
 	<programme channel="cbbc" start="20241110090000 +0000" stop="20241110093000 +0000">
 		<title>Blue Peter - Joel Joins the Marines and Paddy's Cycle Challenge</title>
 		<desc>Joel takes on his toughest test yet as he attempts a Royal Marines Endurance Course.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h60km3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r316.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20241110093000 +0000" stop="20241110095000 +0000">
 		<title>Game on Grandparents - Series 2: 8. Worms</title>
@@ -4415,22 +4400,22 @@
 		<desc>Mr Tumble takes a family photograph, while Justin spends the day with a family.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03f6fpv.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108140500 +0000" stop="20241108142000 +0000">
+	<programme channel="cbeebies" start="20241108140500 +0000" stop="20241108141500 +0000">
 		<title>Teletubbies - Series 1: 56. Twinkle Twinkle</title>
 		<desc>Tinky Winky sees a star in the sky which sings Twinkle Twinkle.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04xnq58.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108142000 +0000" stop="20241108143000 +0000">
+	<programme channel="cbeebies" start="20241108141500 +0000" stop="20241108143000 +0000">
 		<title>Vida the Vet - Series 1: 47. The Vida the Vet Book</title>
 		<desc>Sunny tags along on house calls to interview Vida for his book… about her. It’s a musical!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j01s0p.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108143000 +0000" stop="20241108144500 +0000">
+	<programme channel="cbeebies" start="20241108143000 +0000" stop="20241108144000 +0000">
 		<title>Mojo Swoptops - Series 1: 2. Mojo Rocks</title>
 		<desc>Big rocks block Ted’s way, but Mojo’s mighty dozer top can save the day!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jszcj7.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108144500 +0000" stop="20241108145000 +0000">
+	<programme channel="cbeebies" start="20241108144000 +0000" stop="20241108145000 +0000">
 		<title>Supertato - Series 2: 6. Tin Can Games</title>
 		<desc>Evil Pea is determined to win the Tin Can trophy, even if it means cheating.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmwtv.jpg" />
@@ -4455,37 +4440,37 @@
 		<desc>The Game Catchers meet cactus aliens, who teach them to play seek and find.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gbkpf7.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108153000 +0000" stop="20241108154000 +0000">
+	<programme channel="cbeebies" start="20241108153000 +0000" stop="20241108153500 +0000">
 		<title>Big Lizard - Series 1: 10. When We Lost D.O.R.I.S.'s Brain</title>
 		<desc>A creature takes D.O.R.I.S.'s brain, so Cosima and Big Lizard chase it into the forest...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jycdm1.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108154000 +0000" stop="20241108154500 +0000">
+	<programme channel="cbeebies" start="20241108153500 +0000" stop="20241108154500 +0000">
 		<title>Hey Duggee - Series 4: 19. The Delivery Badge</title>
 		<desc>When Chipmunk’s trike breaks down, the Squirrels help deliver his packages.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0czw50t.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108154500 +0000" stop="20241108160000 +0000">
+	<programme channel="cbeebies" start="20241108154500 +0000" stop="20241108155500 +0000">
 		<title>Peter Rabbit - Series 2: 19. The Tale of the Seed Snatch</title>
 		<desc>Squirrel Nutkin becomes dangerously obsessed with raiding Mr McGregor's bird table.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02x76d5.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108160000 +0000" stop="20241108161500 +0000">
+	<programme channel="cbeebies" start="20241108155500 +0000" stop="20241108161000 +0000">
 		<title>Andy's Global Adventures - Series 2: 10. Andy and the Scarlet Macaws</title>
 		<desc>Andy, Jen and Scout head to the Amazon on a global adventure in search of scarlet macaws.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h5255g.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108161500 +0000" stop="20241108162500 +0000">
+	<programme channel="cbeebies" start="20241108161000 +0000" stop="20241108162500 +0000">
 		<title>Mojo Swoptops - Series 1: 12. Be Brave Bryan</title>
 		<desc>Is there a monster in Lake Swoppiton? Mojo and Bo help Bryan be brave to find out!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jszcs9.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108162500 +0000" stop="20241108163500 +0000">
+	<programme channel="cbeebies" start="20241108162500 +0000" stop="20241108163000 +0000">
 		<title>Bluey - Series 3: 26. Fairy Tale</title>
 		<desc>Dad tells the kids a real-life fairy tale about growing up in a wild place called the 80s!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jl80zq.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108163500 +0000" stop="20241108164000 +0000">
+	<programme channel="cbeebies" start="20241108163000 +0000" stop="20241108164000 +0000">
 		<title>Bluey - Series 2: 43. Duck Cake</title>
 		<desc>Bluey wants to help Dad make Bingo's birthday cake, but first she must put away her toys.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dxdc1j.jpg" />
@@ -4500,22 +4485,22 @@
 		<desc>Vida’s the vet, but she twists an ankle and becomes the patient. All of Sweetwood helps!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hyptd4.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108170000 +0000" stop="20241108171500 +0000">
+	<programme channel="cbeebies" start="20241108170000 +0000" stop="20241108171000 +0000">
 		<title>Dog Squad - Series 3: 5. Mission: Hobby Fair</title>
 		<desc>Disability assistance dog Tinks helps her owner Charli at the Woofton Hobby Fair.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0w3kj.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108171500 +0000" stop="20241108172500 +0000">
+	<programme channel="cbeebies" start="20241108171000 +0000" stop="20241108172500 +0000">
 		<title>Dodge's Pup School - Series 1: 4. Teamwork Trouble</title>
 		<desc>The pups have to learn to work together to achieve a task.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jrll0w.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108172500 +0000" stop="20241108173500 +0000">
+	<programme channel="cbeebies" start="20241108172500 +0000" stop="20241108173000 +0000">
 		<title>Sarah &amp; Duck - Series 2: 27. Wool on Wheels</title>
 		<desc>Scarf Lady holds a knitted treats sale in the park, but the weather causes a problem...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02rp2wl.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20241108173500 +0000" stop="20241108174500 +0000">
+	<programme channel="cbeebies" start="20241108173000 +0000" stop="20241108174500 +0000">
 		<title>JoJo &amp; Gran Gran - Series 1 - Autumn: 4. It's Time to Play Football</title>
 		<desc>JoJo meets Ezra’s grandson Jaxon and friends for a football match in the park.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08tv7h4.jpg" />
@@ -4536,9 +4521,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tcp3g.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20241108185000 +0000" stop="20241108185800 +0000">
-		<title>CBeebies Bedtime Stories - A-E: Gaz Coombes - Ella May Does It Her Way</title>
-		<desc>Join Gaz Coombes for tonight's Bedtime Story about a girl who tries something new.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h09cbc.jpg" />
+		<title>CBeebies Bedtime Stories - New and Trending: 08/11/2024</title>
+		<desc>A different story read each night just before bedtime.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2rxm3.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20241108185800 +0000" stop="20241109053000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -5374,7 +5359,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20241107200000 +0000" stop="20241107203000 +0000">
 		<title>The Entertainment Mix  - Series 1: Episode 3</title>
-		<desc>Michelle McManus presents the biggest news in entertainment and culture across Scotland.</desc>
+		<desc>Karen Dunbar, Rhod Gilbert, Rag'n'Bone Man and Jodi Picoult join Michelle and Zara.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k27693.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20241107203000 +0000" stop="20241107210000 +0000">
@@ -5569,7 +5554,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20241110230000 +0000" stop="20241110233000 +0000">
 		<title>The Entertainment Mix  - Series 1: Episode 3</title>
-		<desc>Michelle McManus presents the biggest news in entertainment and culture across Scotland.</desc>
+		<desc>Karen Dunbar, Rhod Gilbert, Rag'n'Bone Man and Jodi Picoult join Michelle and Zara.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k27693.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20241110233000 +0000" stop="20241111000000 +0000">
@@ -5632,52 +5617,12 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20241106140000 +0000" stop="20241106143000 +0000">
-		<title>BBC News Now - 06/11/2024</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	<programme channel="bbcnews" start="20241106140000 +0000" stop="20241106171500 +0000">
+		<title>US Election 2024 - 06/11/2024</title>
+		<desc>Live coverage of reaction to the 2024 US presidential election.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k05vpt.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20241106143000 +0000" stop="20241106144500 +0000">
-		<title>Business Today - NYSE Opening Bell - 06/11/2024</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20241106144500 +0000" stop="20241106150000 +0000">
-		<title>BBC News Now - 06/11/2024</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20241106150000 +0000" stop="20241106153000 +0000">
-		<title>Verified Live - 06/11/2024</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20241106153000 +0000" stop="20241106160000 +0000">
-		<title>Verified Live - 06/11/2024</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20241106160000 +0000" stop="20241106163000 +0000">
-		<title>Verified Live - 06/11/2024</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20241106163000 +0000" stop="20241106164500 +0000">
-		<title>Business Today - 06/11/2024</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20241106164500 +0000" stop="20241106170000 +0000">
-		<title>Verified Live - 06/11/2024</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20241106170000 +0000" stop="20241106173000 +0000">
-		<title>Verified Live - 06/11/2024</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20241106173000 +0000" stop="20241106180000 +0000">
+	<programme channel="bbcnews" start="20241106171500 +0000" stop="20241106180000 +0000">
 		<title>BBC News - 06/11/2024</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
@@ -5689,7 +5634,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20241106183000 +0000" stop="20241106190000 +0000">
 		<title>Sportsday - 06/11/2024</title>
-		<desc>A round-up of the day's sporting action.</desc>
+		<desc>What impact will Donald Trump have on sport?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241106190000 +0000" stop="20241106193000 +0000">
@@ -6675,7 +6620,7 @@
 	<programme channel="bbcparliament" start="20241106120000 +0000" stop="20241106123500 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241106123500 +0000" stop="20241106132000 +0000">
 		<title>House of Commons - Small Boats Urgent Question</title>
@@ -6696,7 +6641,7 @@
 	<programme channel="bbcparliament" start="20241106220000 +0000" stop="20241106223500 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241106223500 +0000" stop="20241106232000 +0000">
 		<title>Lords Questions - 06/11/2024</title>
@@ -6716,7 +6661,7 @@
 	<programme channel="bbcparliament" start="20241107063000 +0000" stop="20241107070500 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241107070500 +0000" stop="20241107093000 +0000">
 		<title>House of Commons - 06/11/2024</title>
@@ -6971,7 +6916,7 @@
 	<programme channel="bbcparliament" start="20241110150500 +0000" stop="20241110154000 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241110154000 +0000" stop="20241110162500 +0000">
 		<title>Scottish First Minister's Questions - 07/11/2024</title>
@@ -7026,7 +6971,7 @@
 	<programme channel="bbcparliament" start="20241111052500 +0000" stop="20241111060000 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20241106060000 +0000" stop="20241106170000 +0000">
 		<title>Alba Today - Alba Today</title>
@@ -7709,7 +7654,7 @@
 	</programme>
 	<programme channel="s4c" start="20241106140500 +0000" stop="20241106150000 +0000">
 		<title>Prynhawn Da - Wed, 06 Nov 2024</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Angharad Samuel sy'n edrych ymlaen at steil y Nadolig, a Catrin Stephens yw'n gwestai. ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241106150000 +0000" stop="20241106150500 +0000">
@@ -7779,7 +7724,7 @@
 	</programme>
 	<programme channel="s4c" start="20241106190000 +0000" stop="20241106193000 +0000">
 		<title>Heno - Wed, 06 Nov 2024</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Heno, byddwn yn edrych ymlaen at her elusennol Aled Hughes, ac mae'r Panto yn dod i'r s...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241106193000 +0000" stop="20241106202500 +0000">
@@ -7800,7 +7745,7 @@
 	<programme channel="s4c" start="20241106210000 +0000" stop="20241106220000 +0000">
 		<title>Gogglebocs Cymru - Cyfres 3: Wed, 06 Nov 2024</title>
 		<desc>Mae Gogglebocs Cymru nôl ar y soffa. Ymunwch â Tudur Owen a ffrindiau hen a newydd i ch...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gsnphg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2sxbm.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241106220000 +0000" stop="20241106223000 +0000">
 		<title>Y Ty Gwyrdd - Pennod 5</title>
@@ -7979,7 +7924,7 @@
 	</programme>
 	<programme channel="s4c" start="20241107123000 +0000" stop="20241107130000 +0000">
 		<title>Heno - Wed, 06 Nov 2024</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Heno, byddwn yn edrych ymlaen at her elusennol Aled Hughes, ac mae'r Panto yn dod i'r s...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241107130000 +0000" stop="20241107133000 +0000">
@@ -8390,7 +8335,7 @@
 	<programme channel="s4c" start="20241108210000 +0000" stop="20241108213000 +0000">
 		<title>Pen Petrol - Cyfres 3: Pennod 1</title>
 		<desc>Ma' Pen Petrol nôl, a ma' pethau wedi newid dipyn bach. Ym mhennod 1, ma' Nathan yn gos...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dmjgbm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r7rx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241108213000 +0000" stop="20241108223500 +0000">
 		<title>Canu Gyda Fy Arwr - Cyfres 3: Mike Peters</title>
