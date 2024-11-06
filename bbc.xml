@@ -157,7 +157,7 @@
 	<programme channel="bbcone" start="20241106225000 +0000" stop="20241107001000 +0000">
 		<title>UEFA Champions League - 2024/25: Matchday 4 Highlights</title>
 		<desc>Highlights from the latest round of fixtures of Europe’s elite club competition.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jt7f8r.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2tbwp.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241107001000 +0000" stop="20241107011000 +0000">
 		<title>Ambulance - Series 13: 3. Hoax Caller</title>
@@ -286,7 +286,7 @@
 	</programme>
 	<programme channel="bbcone" start="20241107224000 +0000" stop="20241107234000 +0000">
 		<title>Question Time - 2024: 07/11/2024</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of live debate from Hartlepool in County Durham. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241107234000 +0000" stop="20241108001000 +0000">
@@ -1306,7 +1306,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20241111004500 +0000" stop="20241111014500 +0000">
 		<title>Question Time - 2024: 07/11/2024</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of live debate from Hartlepool in County Durham. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241111014500 +0000" stop="20241111023000 +0000">
@@ -2807,15 +2807,15 @@
 		<desc>Dog competes in a figure-skating tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jds1cg.jpg" />
 	</programme>
-	<programme channel="cbbc" start="20241108142500 +0000" stop="20241108145500 +0000">
+	<programme channel="cbbc" start="20241108142500 +0000" stop="20241108145000 +0000">
 		<title>Operation Ouch! - Series 2: Episode 5</title>
 		<desc>Dr Xand meets a pioneering professor who makes body parts.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01l9z2b.jpg" />
 	</programme>
-	<programme channel="cbbc" start="20241108145500 +0000" stop="20241108150000 +0000">
-		<title>Deadly 60 - Series 4 - Shorts: 3. Exotic Pet Trade</title>
-		<desc>Steve Backshall shares his tips to stop the illegal trade in exotic pets.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p086jpqt.jpg" />
+	<programme channel="cbbc" start="20241108145000 +0000" stop="20241108150000 +0000">
+		<title>Blue Peter Challenges - Top Challenges: Baking</title>
+		<desc>Lindsey and Adam take on a baking challenge to find out who is the best BP baker.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dgmgbk.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20241108150000 +0000" stop="20241108153000 +0000">
 		<title>The Dengineers - Series 5: 8. Crazy Golf Den</title>
@@ -4521,8 +4521,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tcp3g.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20241108185000 +0000" stop="20241108185800 +0000">
-		<title>CBeebies Bedtime Stories - New and Trending: 08/11/2024</title>
-		<desc>A different story read each night just before bedtime.</desc>
+		<title>CBeebies Bedtime Stories - New and Trending: Olivia Colman - The Gruffalo's Child</title>
+		<desc>Olivia Colman tells the classic tale of the Gruffalo's Child in a Bedtime Story.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2rxm3.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20241108185800 +0000" stop="20241109053000 +0000">
@@ -5324,7 +5324,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20241106223000 +0000" stop="20241106233000 +0000">
 		<title>Debate Night - Series 6: 06/11/2024</title>
-		<desc>Topical debate on the big issues affecting Scotland and beyond.</desc>
+		<desc>Debate Night comes from Aberdeen. Hosted by Stephen Jardine.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0brnqkq.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20241106233000 +0000" stop="20241107000000 +0000">
@@ -5677,20 +5677,35 @@
 		<desc>Live coverage of the race to be the next president of the United States.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k05vpt.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20241107020000 +0000" stop="20241107030000 +0000">
-		<title>US Election 2024 - 07/11/2024</title>
-		<desc>Live coverage of the race to be the next president of the United States.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k05vpt.jpg" />
+	<programme channel="bbcnews" start="20241107020000 +0000" stop="20241107024500 +0000">
+		<title>Newsday - 07/11/2024</title>
+		<desc>Live from Singapore, the latest international news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hwqglj.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20241107030000 +0000" stop="20241107040000 +0000">
-		<title>US Election 2024 - 07/11/2024</title>
-		<desc>Live coverage of the race to be the next president of the United States.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k05vpt.jpg" />
+	<programme channel="bbcnews" start="20241107024500 +0000" stop="20241107030000 +0000">
+		<title>Sportsday - 07/11/2024</title>
+		<desc>A round-up of the day's sporting action.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20241107040000 +0000" stop="20241107050000 +0000">
-		<title>US Election 2024 - 07/11/2024</title>
-		<desc>Live coverage of the race to be the next president of the United States.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k05vpt.jpg" />
+	<programme channel="bbcnews" start="20241107030000 +0000" stop="20241107034500 +0000">
+		<title>Newsday - 07/11/2024</title>
+		<desc>Live from Singapore, the latest international news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hwqglj.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20241107034500 +0000" stop="20241107040000 +0000">
+		<title>Sportsday - 07/11/2024</title>
+		<desc>A round-up of the day's sporting action.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20241107040000 +0000" stop="20241107044500 +0000">
+		<title>Newsday - 07/11/2024</title>
+		<desc>Live from Singapore, the latest international news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hwqglj.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20241107044500 +0000" stop="20241107050000 +0000">
+		<title>Sportsday - 07/11/2024</title>
+		<desc>A round-up of the day's sporting action.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241107050000 +0000" stop="20241107053000 +0000">
 		<title>BBC News - 07/11/2024</title>
@@ -6580,7 +6595,7 @@
 	<programme channel="bbcparliament" start="20241106044000 +0000" stop="20241106064500 +0000">
 		<title>Select Committees - Treasury Committee</title>
 		<desc>Coverage of the treasury select committee session on the October 2024 Budget.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2tvx4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241106064500 +0000" stop="20241106075000 +0000">
 		<title>House of Commons - Justice Questions</title>
@@ -6615,7 +6630,7 @@
 	<programme channel="bbcparliament" start="20241106113000 +0000" stop="20241106120000 +0000">
 		<title>House of Commons - Wales Office Questions</title>
 		<desc>Coverage of questions to Jo Stevens on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2syg8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241106120000 +0000" stop="20241106123500 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
@@ -6624,9 +6639,8 @@
 	</programme>
 	<programme channel="bbcparliament" start="20241106123500 +0000" stop="20241106132000 +0000">
 		<title>House of Commons - Small Boats Urgent Question</title>
-		<desc>An urgent question on illegal channel crossings by small boats, on Wednesday 6 November.
-</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<desc>An urgent question on illegal channel crossings by small boats, on Wednesday 6 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2tpb9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241106132000 +0000" stop="20241106193000 +0000">
 		<title>House of Commons - Budget Debate: Day 5</title>
@@ -6656,7 +6670,7 @@
 	<programme channel="bbcparliament" start="20241107060000 +0000" stop="20241107063000 +0000">
 		<title>House of Commons - Wales Office Questions</title>
 		<desc>Coverage of questions to Jo Stevens on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2syg8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241107063000 +0000" stop="20241107070500 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
@@ -6696,7 +6710,7 @@
 	<programme channel="bbcparliament" start="20241107140000 +0000" stop="20241107143000 +0000">
 		<title>House of Commons - Wales Office Questions</title>
 		<desc>Coverage of questions to Jo Stevens on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2syg8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241107143000 +0000" stop="20241107173000 +0000">
 		<title>Scottish Parliament - 07/11/2024</title>
@@ -6801,7 +6815,7 @@
 	<programme channel="bbcparliament" start="20241109110000 +0000" stop="20241109113500 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241109113500 +0000" stop="20241109122000 +0000">
 		<title>Scottish First Minister's Questions - 07/11/2024</title>
@@ -6856,7 +6870,7 @@
 	<programme channel="bbcparliament" start="20241110012000 +0000" stop="20241110015500 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241110015500 +0000" stop="20241110024000 +0000">
 		<title>Scottish First Minister's Questions - 07/11/2024</title>
@@ -6881,7 +6895,7 @@
 	<programme channel="bbcparliament" start="20241110053000 +0000" stop="20241110060000 +0000">
 		<title>House of Commons - Wales Office Questions</title>
 		<desc>Coverage of questions to Jo Stevens on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2syg8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241110060000 +0000" stop="20241110110000 +0000">
 		<title>Westminster Hall - 06/11/2024</title>
@@ -6946,7 +6960,7 @@
 	<programme channel="bbcparliament" start="20241111012000 +0000" stop="20241111015000 +0000">
 		<title>House of Commons - Wales Office Questions</title>
 		<desc>Coverage of questions to Jo Stevens on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2syg8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241111015000 +0000" stop="20241111025000 +0000">
 		<title>House of Commons - Justice Questions</title>
@@ -8335,7 +8349,7 @@
 	<programme channel="s4c" start="20241108210000 +0000" stop="20241108213000 +0000">
 		<title>Pen Petrol - Cyfres 3: Pennod 1</title>
 		<desc>Ma' Pen Petrol nôl, a ma' pethau wedi newid dipyn bach. Ym mhennod 1, ma' Nathan yn gos...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r7rx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2syq6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241108213000 +0000" stop="20241108223500 +0000">
 		<title>Canu Gyda Fy Arwr - Cyfres 3: Mike Peters</title>
@@ -8630,7 +8644,7 @@
 	<programme channel="s4c" start="20241110220000 +0000" stop="20241110230500 +0000">
 		<title>Gogglebocs Cymru - Cyfres 3: Wed, 06 Nov 2024</title>
 		<desc>Mae Gogglebocs Cymru nôl ar y soffa. Ymunwch â Tudur Owen a ffrindiau hen a newydd i ch...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gsnphg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2sxbm.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241110230500 +0000" stop="20241110234000 +0000">
 		<title>Ffilmiau Ddoe - Cyfres 1: Emma Walford</title>
