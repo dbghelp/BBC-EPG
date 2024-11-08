@@ -5867,7 +5867,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241109143000 +0000" stop="20241109150000 +0000">
-		<title>The Media Show - 32. Trump's Winning Media Strategy</title>
+		<title>The Media Show - Trump's Winning Media Strategy</title>
 		<desc>The pundits and pollsters who got the election wrong.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
@@ -5883,7 +5883,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20241109154500 +0000" stop="20241109160000 +0000">
 		<title>Newswatch - 09/11/2024</title>
-		<desc>Your views on the coverage of events by BBC News.</desc>
+		<desc>The BBC’s coverage of the US presidential election under the spotlight.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gbk3ng.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241109160000 +0000" stop="20241109163000 +0000">
@@ -6023,7 +6023,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20241110090000 +0000" stop="20241110101500 +0000">
 		<title>Sunday with Laura Kuenssberg - 10/11/2024</title>
-		<desc>Interviews with key politicians and public figures.</desc>
+		<desc>With Darren Jones, Priti Patel, Kristen Michal, Admiral Sir Tony Radakin and Damian Lewis.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cx8pct.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241110101500 +0000" stop="20241110103000 +0000">
@@ -6816,215 +6816,205 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 4 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2tsf5.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241109060000 +0000" stop="20241109110000 +0000">
+	<programme channel="bbcparliament" start="20241109060000 +0000" stop="20241109091500 +0000">
 		<title>Westminster Hall - 05/11/2024</title>
 		<desc>House of Commons proceedings in Westminster Hall from Tuesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241109110000 +0000" stop="20241109113500 +0000">
+	<programme channel="bbcparliament" start="20241109091500 +0000" stop="20241109095000 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241109113500 +0000" stop="20241109122000 +0000">
+	<programme channel="bbcparliament" start="20241109095000 +0000" stop="20241109104000 +0000">
 		<title>Scottish First Minister's Questions - 07/11/2024</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 7 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k33zcs.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241109122000 +0000" stop="20241109131000 +0000">
+	<programme channel="bbcparliament" start="20241109104000 +0000" stop="20241109114000 +0000">
 		<title>Welsh First Minister's Questions - 05/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k33zg3.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241109131000 +0000" stop="20241109135500 +0000">
-		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
-		<desc>Coverage of questions in Stormont to Andrew Muir, on Monday 4 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k296kf.jpg" />
+	<programme channel="bbcparliament" start="20241109114000 +0000" stop="20241109173000 +0000">
+		<title>House of Commons - Budget Debate: Day 4</title>
+		<desc>Coverage of day four of the budget debate in the House of Commons, on Tuesday 5 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2n1wr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241109135500 +0000" stop="20241109143500 +0000">
-		<title>House of Commons - 09/11/2024</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20241109173000 +0000" stop="20241109194000 +0000">
+		<title>Select Committees - Budget and OBR Inquiry</title>
+		<desc>Coverage of the treasury select committee session on the October 2024 Budget.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2tvx4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241109143500 +0000" stop="20241109152000 +0000">
-		<title>Scottish Parliament - 09/11/2024</title>
-		<desc>Coverage of a debate in the Scottish Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241109152000 +0000" stop="20241109160000 +0000">
-		<title>House of Lords - 09/11/2024</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241109160000 +0000" stop="20241109171500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 09/11/2024</title>
-		<desc>Coverage of a debate in the Welsh Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241109171500 +0000" stop="20241109180000 +0000">
-		<title>House of Lords - 09/11/2024</title>
-		<desc>Coverage of an urgent question in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241109180000 +0000" stop="20241109214000 +0000">
-		<title>Select Committees - 09/11/2024 Part 1</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241109214000 +0000" stop="20241110012000 +0000">
+	<programme channel="bbcparliament" start="20241109194000 +0000" stop="20241109214000 +0000">
 		<title>Select Committees - Budget and Economists Inquiry</title>
 		<desc>Treasury select committee session on the October 2024 Budget, from Tuesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241110012000 +0000" stop="20241110015500 +0000">
-		<title>Prime Minister's Questions - 06/11/2024</title>
-		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
+	<programme channel="bbcparliament" start="20241109214000 +0000" stop="20241109234000 +0000">
+		<title>Select Committees - Financial Services Regulation Inquiry</title>
+		<desc>Coverage of the Lords Financial Services Regulation committee on Wednesday 6 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k3785d.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241110015500 +0000" stop="20241110024000 +0000">
-		<title>Scottish First Minister's Questions - 07/11/2024</title>
-		<desc>Questions to John Swinney, the first minister, on Thursday 7 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k33zcs.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241110024000 +0000" stop="20241110033000 +0000">
-		<title>Welsh First Minister's Questions - 05/11/2024</title>
-		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k33zg3.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241110033000 +0000" stop="20241110043000 +0000">
-		<title>House of Commons - Education Questions</title>
-		<desc>Coverage of questions to Bridget Phillipson on Monday 4 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2957j.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241110043000 +0000" stop="20241110053000 +0000">
-		<title>House of Commons - Justice Questions</title>
-		<desc>Coverage of questions to Shabana Mahmood on Tuesday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2j8d9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241110053000 +0000" stop="20241110060000 +0000">
+	<programme channel="bbcparliament" start="20241109234000 +0000" stop="20241110000500 +0000">
 		<title>House of Commons - Wales Office Questions</title>
 		<desc>Coverage of questions to Jo Stevens on Wednesday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2syg8.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241110060000 +0000" stop="20241110110000 +0000">
+	<programme channel="bbcparliament" start="20241110000500 +0000" stop="20241110004000 +0000">
+		<title>Prime Minister's Questions - 06/11/2024</title>
+		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241110004000 +0000" stop="20241110013500 +0000">
+		<title>Scottish First Minister's Questions - 07/11/2024</title>
+		<desc>Questions to John Swinney, the first minister, on Thursday 7 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k33zcs.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241110013500 +0000" stop="20241110023000 +0000">
+		<title>Welsh First Minister's Questions - 05/11/2024</title>
+		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 5 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k33zg3.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241110023000 +0000" stop="20241110033500 +0000">
+		<title>House of Commons - Education Questions</title>
+		<desc>Coverage of questions to Bridget Phillipson on Monday 4 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2957j.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241110033500 +0000" stop="20241110043500 +0000">
+		<title>House of Commons - Justice Questions</title>
+		<desc>Coverage of questions to Shabana Mahmood on Tuesday 5 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2j8d9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241110043500 +0000" stop="20241110050000 +0000">
+		<title>House of Commons - Wales Office Questions</title>
+		<desc>Coverage of questions to Jo Stevens on Wednesday 6 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2syg8.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241110050000 +0000" stop="20241110061000 +0000">
+		<title>House of Commons - Budget and Farmers Urgent Question</title>
+		<desc>Question on the implications of the budget for farming communities, on Monday 4 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k29688.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241110061000 +0000" stop="20241110103500 +0000">
 		<title>Westminster Hall - 06/11/2024</title>
 		<desc>House of Commons proceedings in Westminster Hall from Wednesday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241110110000 +0000" stop="20241110114500 +0000">
-		<title>House of Lords - 09/11/2024</title>
-		<desc>Coverage of an urgent question in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20241110103500 +0000" stop="20241110160000 +0000">
+		<title>House of Commons - Budget Debate: Day 5</title>
+		<desc>Coverage of the final day of the budget debate on Wednesday 6 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2zxm6.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241110114500 +0000" stop="20241110130000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 09/11/2024</title>
-		<desc>Coverage of a debate in the Welsh Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241110130000 +0000" stop="20241110134500 +0000">
-		<title>Scottish Parliament - 09/11/2024</title>
-		<desc>Coverage of a debate in the Scottish Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241110134500 +0000" stop="20241110142500 +0000">
-		<title>House of Commons - 09/11/2024</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241110142500 +0000" stop="20241110150500 +0000">
-		<title>House of Lords - 09/11/2024</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241110150500 +0000" stop="20241110154000 +0000">
+	<programme channel="bbcparliament" start="20241110160000 +0000" stop="20241110163500 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241110154000 +0000" stop="20241110162500 +0000">
+	<programme channel="bbcparliament" start="20241110163500 +0000" stop="20241110173000 +0000">
 		<title>Scottish First Minister's Questions - 07/11/2024</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 7 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k33zcs.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241110162500 +0000" stop="20241110171500 +0000">
+	<programme channel="bbcparliament" start="20241110173000 +0000" stop="20241110182500 +0000">
 		<title>Welsh First Minister's Questions - 05/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k33zg3.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241110171500 +0000" stop="20241110180000 +0000">
+	<programme channel="bbcparliament" start="20241110182500 +0000" stop="20241110191000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Coverage of questions in Stormont to Andrew Muir, on Monday 4 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k296kf.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241110180000 +0000" stop="20241110214000 +0000">
+	<programme channel="bbcparliament" start="20241110191000 +0000" stop="20241110212500 +0000">
 		<title>Select Committees - Budget and the Chancellor Inquiry</title>
 		<desc>Treasury select committee session on the October 2024 budget, from Wednesday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k37n2f.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241110214000 +0000" stop="20241111012000 +0000">
-		<title>Select Committees - 10/11/2024 Part 2</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20241110212500 +0000" stop="20241110235500 +0000">
+		<title>Select Committees - Post Office Horizon Redress Inquiry</title>
+		<desc>Business and Trade Committee on redress for victims of the Post Office Horizon scandal.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111012000 +0000" stop="20241111015000 +0000">
-		<title>House of Commons - Wales Office Questions</title>
-		<desc>Coverage of questions to Jo Stevens on Wednesday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2syg8.jpg" />
+	<programme channel="bbcparliament" start="20241110235500 +0000" stop="20241111012000 +0000">
+		<title>Select Committees - Defence Spending Inquiry</title>
+		<desc>Defence Committee session on UK defence spending, from Tuesday 5 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k37nqk.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111015000 +0000" stop="20241111025000 +0000">
+	<programme channel="bbcparliament" start="20241111012000 +0000" stop="20241111022000 +0000">
 		<title>House of Commons - Justice Questions</title>
 		<desc>Coverage of questions to Shabana Mahmood on Tuesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2j8d9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111025000 +0000" stop="20241111035000 +0000">
-		<title>House of Commons - Education Questions</title>
-		<desc>Coverage of questions to Bridget Phillipson on Monday 4 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2957j.jpg" />
+	<programme channel="bbcparliament" start="20241111022000 +0000" stop="20241111031000 +0000">
+		<title>House of Commons - Higher Education Reform Statement</title>
+		<desc>Statement by education secretary Bridget Phillipson, on Monday 4 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k295wv.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111035000 +0000" stop="20241111044000 +0000">
+	<programme channel="bbcparliament" start="20241111031000 +0000" stop="20241111033500 +0000">
+		<title>House of Commons - Urgent Question on Flight Cancellations</title>
+		<desc>An urgent question on issues caused by belatedly announced cancellations of flights.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2jjxt.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241111033500 +0000" stop="20241111041500 +0000">
+		<title>House of Commons - Small Boats Urgent Question</title>
+		<desc>An urgent question on illegal channel crossings by small boats, on Wednesday 6 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2tpb9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241111041500 +0000" stop="20241111051500 +0000">
 		<title>Welsh First Minister's Questions - 05/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k33zg3.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111044000 +0000" stop="20241111052500 +0000">
+	<programme channel="bbcparliament" start="20241111051500 +0000" stop="20241111061000 +0000">
 		<title>Scottish First Minister's Questions - 07/11/2024</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 7 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k33zcs.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111052500 +0000" stop="20241111060000 +0000">
+	<programme channel="bbcparliament" start="20241111061000 +0000" stop="20241111065000 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111060000 +0000" stop="20241111090500 +0000">
-		<title>Westminster Hall - 07/11/2024</title>
-		<desc>House of Commons proceedings in Westminster Hall from Thursday 7 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	<programme channel="bbcparliament" start="20241111065000 +0000" stop="20241111073500 +0000">
+		<title>Lords Questions - 05/11/2024</title>
+		<desc>Questions in the House of Lords to government ministers on Tuesday 5 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k376m4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111090500 +0000" stop="20241111095000 +0000">
+	<programme channel="bbcparliament" start="20241111073500 +0000" stop="20241111081500 +0000">
+		<title>Lords Questions - 06/11/2024</title>
+		<desc>Questions in the House of Lords to government ministers on Wednesday 6 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k37m3m.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241111081500 +0000" stop="20241111090000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Coverage of questions in Stormont to Andrew Muir, on Monday 4 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k296kf.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111095000 +0000" stop="20241111104000 +0000">
+	<programme channel="bbcparliament" start="20241111090000 +0000" stop="20241111100000 +0000">
 		<title>Welsh First Minister's Questions - 05/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k33zg3.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111104000 +0000" stop="20241111112500 +0000">
+	<programme channel="bbcparliament" start="20241111100000 +0000" stop="20241111105000 +0000">
 		<title>Scottish First Minister's Questions - 07/11/2024</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 7 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k33zcs.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111112500 +0000" stop="20241111120000 +0000">
+	<programme channel="bbcparliament" start="20241111105000 +0000" stop="20241111113000 +0000">
 		<title>Prime Minister's Questions - 06/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2r6t9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111120000 +0000" stop="20241111140000 +0000">
-		<title>Northern Ireland Assembly - 11/11/2024</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 11 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20241111113000 +0000" stop="20241111122000 +0000">
+		<title>House of Lords - Hezbollah Debate</title>
+		<desc>Debate on the government's assessment of the threat posed by Hezbollah to the UK.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2npf5.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241111122000 +0000" stop="20241111140000 +0000">
+		<title>Select Committees - Science, Innovation and Technology Inquiry</title>
+		<desc>A committee session on the work of the Department for Science, Innovation and Technology.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241111140000 +0000" stop="20241111143000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
@@ -7036,23 +7026,8 @@
 		<desc>Coverage of questions to Liz Kendall on Monday 11 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241111153000 +0000" stop="20241111163000 +0000">
-		<title>House of Commons - 11/11/2024 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 11 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241111163000 +0000" stop="20241111173000 +0000">
-		<title>House of Commons - 11/11/2024 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 11 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241111173000 +0000" stop="20241111183000 +0000">
-		<title>House of Commons - 11/11/2024 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 11 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241111183000 +0000" stop="20241111223000 +0000">
-		<title>House of Commons - 11/11/2024 Part 4</title>
+	<programme channel="bbcparliament" start="20241111153000 +0000" stop="20241111223000 +0000">
+		<title>House of Commons - 11/11/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 11 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -7066,28 +7041,8 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 11 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241112000000 +0000" stop="20241112010000 +0000">
-		<title>House of Lords - 11/11/2024 Part 1</title>
-		<desc>Business in the House of Lords on Monday 11 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241112010000 +0000" stop="20241112020000 +0000">
-		<title>House of Lords - 11/11/2024 Part 2</title>
-		<desc>Business in the House of Lords on Monday 11 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241112020000 +0000" stop="20241112030000 +0000">
-		<title>House of Lords - 11/11/2024 Part 3</title>
-		<desc>Business in the House of Lords on Monday 11 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241112030000 +0000" stop="20241112040000 +0000">
-		<title>House of Lords - 11/11/2024 Part 4</title>
-		<desc>Business in the House of Lords on Monday 11 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241112040000 +0000" stop="20241112063000 +0000">
-		<title>House of Lords - 11/11/2024 Part 5</title>
+	<programme channel="bbcparliament" start="20241112000000 +0000" stop="20241112063000 +0000">
+		<title>House of Lords - 11/11/2024</title>
 		<desc>Business in the House of Lords on Monday 11 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -7096,38 +7051,18 @@
 		<desc>Coverage of questions to Liz Kendall on Monday 11 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241112073000 +0000" stop="20241112093000 +0000">
+	<programme channel="bbcparliament" start="20241112073000 +0000" stop="20241112113000 +0000">
 		<title>House of Commons - 11/11/2024</title>
 		<desc>Highlights of proceedings in the House of Commons from Monday 11 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241112093000 +0000" stop="20241112113000 +0000">
-		<title>Select Committees - 12/11/2024</title>
-		<desc>Coverage of select committee proceedings on Tuesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241112113000 +0000" stop="20241112123000 +0000">
 		<title>House of Commons - Energy Security and Net Zero Questions</title>
 		<desc>Coverage of questions to Ed Miliband on Tuesday 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241112123000 +0000" stop="20241112133000 +0000">
+	<programme channel="bbcparliament" start="20241112123000 +0000" stop="20241112193000 +0000">
 		<title>House of Commons - 12/11/2024</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241112133000 +0000" stop="20241112143000 +0000">
-		<title>House of Commons - 12/11/2024 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241112143000 +0000" stop="20241112153000 +0000">
-		<title>House of Commons - 12/11/2024 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241112153000 +0000" stop="20241112193000 +0000">
-		<title>House of Commons - 12/11/2024 Part 4</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -7146,23 +7081,8 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241112233500 +0000" stop="20241113003500 +0000">
+	<programme channel="bbcparliament" start="20241112233500 +0000" stop="20241113063000 +0000">
 		<title>House of Lords - 12/11/2024</title>
-		<desc>Business in the House of Lords on Tuesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241113003500 +0000" stop="20241113013500 +0000">
-		<title>House of Lords - 12/11/2024 Part 2</title>
-		<desc>Business in the House of Lords on Tuesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241113013500 +0000" stop="20241113023500 +0000">
-		<title>House of Lords - 12/11/2024 Part 3</title>
-		<desc>Business in the House of Lords on Tuesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241113023500 +0000" stop="20241113063000 +0000">
-		<title>House of Lords - 12/11/2024 Part 4</title>
 		<desc>Business in the House of Lords on Tuesday 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
