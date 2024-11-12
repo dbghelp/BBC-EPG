@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20241112093000 +0000" stop="20241112104500 +0000">
 		<title>Morning Live - Series 6: 12/11/2024</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Finance expert Laura Pomfret discusses the changes to inheritance tax.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jybqmg.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241112104500 +0000" stop="20241112113000 +0000">
@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="bbcone" start="20241112190000 +0000" stop="20241112193000 +0000">
 		<title>The One Show - 12/11/2024</title>
-		<desc>Roman Kemp and Clara Amfo bring you the stories that matter from across the country.</desc>
+		<desc>Denzel Washington, Paul Mescal, Connie Nielsen and Katarina Johnson-Thompson are guests.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jn9yj0.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241112193000 +0000" stop="20241112200000 +0000">
@@ -627,7 +627,7 @@
 	<programme channel="bbcone" start="20241116211500 +0000" stop="20241116220000 +0000">
 		<title>Moonflower Murders - Series 1: Episode 1</title>
 		<desc>Susan Ryeland is brought back to England to help with the case of a missing woman.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k41c2c.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241116220000 +0000" stop="20241116221500 +0000">
 		<title>BBC Weekend News - Late News: 16/11/2024</title>
@@ -642,7 +642,7 @@
 	<programme channel="bbcone" start="20241116222000 +0000" stop="20241116231000 +0000">
 		<title>Moonflower Murders - Series 1: Episode 2</title>
 		<desc>Susan learns that the Trehernes own the hotel where Frank Parris was murdered.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k41c2c.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241116231000 +0000" stop="20241117010000 +0000">
 		<title>Atonement</title>
@@ -691,7 +691,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20241112121500 +0000" stop="20241112130000 +0000">
 		<title>Politics Live - 12/11/2024</title>
-		<desc>The big political issues of the day.</desc>
+		<desc>What impact will Cop29 have, and will MPs vote for assisted dying?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09819qp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241112130000 +0000" stop="20241112134500 +0000">
@@ -1287,7 +1287,7 @@
 	<programme channel="bbctwo" start="20241116232000 +0000" stop="20241117000500 +0000">
 		<title>Later... with Jools Holland - Series 65: Episode 5</title>
 		<desc>With Gary Clark Jr, Courteeners, Rosie Lowe, Biig Piig and David Gray with Talia Rae.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k3v8g0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k41yz9.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241117000500 +0000" stop="20241117003000 +0000">
 		<title>TOTP2 - Boybands</title>
@@ -6716,7 +6716,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20241112093000 +0000" stop="20241112113000 +0000">
 		<title>Select Committees - Science, Innovation and Technology Committee</title>
-		<desc>The Science, Innovation and Technology select committee on the Budget, on 12 November.</desc>
+		<desc>The Science, Innovation and Technology select committee on the budget, on 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241112113000 +0000" stop="20241112123000 +0000">
@@ -6724,7 +6724,17 @@
 		<desc>Coverage of questions to Ed Miliband on Tuesday 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241112123000 +0000" stop="20241112193000 +0000">
+	<programme channel="bbcparliament" start="20241112123000 +0000" stop="20241112131500 +0000">
+		<title>House of Commons - Social Security Urgent Question</title>
+		<desc>Urgent question on the Social Security Advisory Committee, tabled by Helen Whately.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241112131500 +0000" stop="20241112141500 +0000">
+		<title>House of Commons - National Youth Strategy Statement</title>
+		<desc>Debate on a statement on co-production of the National Youth Strategy, with Lisa Nandy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241112141500 +0000" stop="20241112193000 +0000">
 		<title>House of Commons - 12/11/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7853,7 +7863,7 @@
 	<programme channel="s4c" start="20241112210000 +0000" stop="20241112220000 +0000">
 		<title>Plant y Streic - Alex Jones: Plant y Streic</title>
 		<desc>I gofnodi 40ml ers Streic y Glowyr, Alex Jones sy'n ymweld a chymunedau glofaol i ddarg...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k423nv.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241112220000 +0000" stop="20241112223000 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2024: Marwolaeth Mared Foulkes</title>
@@ -8103,7 +8113,7 @@
 	<programme channel="s4c" start="20241113172500 +0000" stop="20241113175000 +0000">
 		<title>Plant y Streic - Streic: Teulu Ni</title>
 		<desc>Rhaglen ffeithiol a lliwgar i blant, i gofnodi 40 ml ers streic y glowyr; gyda'r gyflwy...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k4237t.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241113175000 +0000" stop="20241113180000 +0000">
 		<title>Newyddion Ni - 2024: Wed, 13 Nov 2024</title>
@@ -8658,7 +8668,7 @@
 	<programme channel="s4c" start="20241115150500 +0000" stop="20241115160000 +0000">
 		<title>Plant y Streic - Alex Jones: Plant y Streic</title>
 		<desc>I gofnodi 40ml ers Streic y Glowyr, Alex Jones sy'n ymweld a chymunedau glofaol i ddarg...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k423nv.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241115160000 +0000" stop="20241115160500 +0000">
 		<title>Blociau Rhif - Cyfres 1: Pennod 14</title>
@@ -8838,7 +8848,7 @@
 	<programme channel="s4c" start="20241116123000 +0000" stop="20241116133000 +0000">
 		<title>Plant y Streic - Alex Jones: Plant y Streic</title>
 		<desc>I gofnodi 40ml ers Streic y Glowyr, Alex Jones sy'n ymweld a chymunedau glofaol i ddarg...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k423nv.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241116133000 +0000" stop="20241116140000 +0000">
 		<title>Cais Quinnell - Cyfres 2: Pennod 2</title>
