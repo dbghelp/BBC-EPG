@@ -6569,8 +6569,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241113000500 +0000" stop="20241113070500 +0000">
-		<title>House of Lords - 12/11/2024</title>
-		<desc>Business in the House of Lords on Tuesday 12 November.</desc>
+		<title>House of Lords - House of Lords Reform</title>
+		<desc>Coverage of the debate on House of Lords reform, on Tuesday 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k4crqy.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241113070500 +0000" stop="20241113081000 +0000">
@@ -6618,30 +6618,60 @@
 		<desc>A statement on the future of the Post Office, with Gareth Thomas, on 13 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k4cngx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241113142000 +0000" stop="20241113193000 +0000">
+	<programme channel="bbcparliament" start="20241113142000 +0000" stop="20241113175000 +0000">
 		<title>House of Commons - 13/11/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 13 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241113193000 +0000" stop="20241113220000 +0000">
+	<programme channel="bbcparliament" start="20241113175000 +0000" stop="20241113212500 +0000">
 		<title>House of Lords - 13/11/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Lords on Wednesday 13 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241113220000 +0000" stop="20241113223500 +0000">
+	<programme channel="bbcparliament" start="20241113212500 +0000" stop="20241113215500 +0000">
+		<title>House of Commons - Women and Equalities Questions</title>
+		<desc>Coverage of questions to ministers for Women and Equalities on Wednesday 13 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k4c4qv.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241113215500 +0000" stop="20241113220500 +0000">
+		<title>Ten Minute Rule Bill - Debt Relief for Developing Countries</title>
+		<desc>Introduction of a bill on debt relief for developing countries, on Wednesday 13 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241113220500 +0000" stop="20241113224500 +0000">
 		<title>Prime Minister's Questions - 13/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 13 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k49phz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241113223500 +0000" stop="20241113232000 +0000">
+	<programme channel="bbcparliament" start="20241113224500 +0000" stop="20241113231500 +0000">
 		<title>Lords Questions - 13/11/2024</title>
 		<desc>Questions in the House of Lords to government ministers on Wednesday 13 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241113232000 +0000" stop="20241114060000 +0000">
+	<programme channel="bbcparliament" start="20241113231500 +0000" stop="20241113235000 +0000">
 		<title>House of Lords - 13/11/2024</title>
 		<desc>Business in the House of Lords on Wednesday 13 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241113235000 +0000" stop="20241114000000 +0000">
+		<title>House of Lords - Illegal Channel Crossings Statement</title>
+		<desc>The statement by Home Office minister Lord Hanson of Flint, on Wednesday 13 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241114000000 +0000" stop="20241114001500 +0000">
+		<title>House of Lords - Passenger Railway Services Bill</title>
+		<desc>Third reading of the Passenger Railway Services (Public Ownership) Bill, on 13 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241114001500 +0000" stop="20241114050500 +0000">
+		<title>House of Lords - Football Governance Bill</title>
+		<desc>Second reading of the Football Governance Bill, on Wednesday 13 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241114050500 +0000" stop="20241114060000 +0000">
+		<title>Select Committees - Advanced Research and Invention Agency Inquiry</title>
+		<desc>Lords science and technology select committee session on ARIA, from Tuesday 12 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241114060000 +0000" stop="20241114063000 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
@@ -6756,7 +6786,7 @@
 	<programme channel="bbcparliament" start="20241116015000 +0000" stop="20241116024000 +0000">
 		<title>Welsh First Minister's Questions - 12/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k4cv5p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241116024000 +0000" stop="20241116060000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - 15/11/2024 Part 1</title>
@@ -6781,7 +6811,7 @@
 	<programme channel="bbcparliament" start="20241116122000 +0000" stop="20241116131000 +0000">
 		<title>Welsh First Minister's Questions - 12/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k4cv5p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241116131000 +0000" stop="20241116135500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
@@ -6836,7 +6866,7 @@
 	<programme channel="bbcparliament" start="20241117014000 +0000" stop="20241117023000 +0000">
 		<title>Welsh First Minister's Questions - 12/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k4cv5p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241117023000 +0000" stop="20241117033000 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
@@ -6850,7 +6880,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20241117043000 +0000" stop="20241117050000 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
-		<desc>Coverage of questions to Anneliese Dodds on Wednesday 13 November.</desc>
+		<desc>Coverage of questions to ministers for Women and Equalities on Wednesday 13 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k4c4qv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241117050000 +0000" stop="20241117054000 +0000">
