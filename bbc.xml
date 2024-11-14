@@ -1255,7 +1255,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jrgv1l.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241118190000 +0000" stop="20241118193000 +0000">
-		<title>Villages by the Sea - Series 5: 3. St Margarets</title>
+		<title>Villages by the Sea - Series 5: 3. St Margaret's</title>
 		<desc>In Kent, Ben learns how an exclusive retreat became 'Hellfire Corner' during WWII.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k3vrtd.jpg" />
 	</programme>
@@ -1425,12 +1425,12 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jzv78t.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20241115220000 +0000" stop="20241115224000 +0000">
-		<title>Suits - Series 3: 5. Shadow of a Doubt</title>
+		<title>Suits - Series 3 : 5. Shadow of a Doubt</title>
 		<desc>Mike and Rachel handle their first case together as a couple.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0htbc5d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20241115224000 +0000" stop="20241115232500 +0000">
-		<title>Suits - Series 3: 6. The Other Time</title>
+		<title>Suits - Series 3 : 6. The Other Time</title>
 		<desc>Mike looks back on the events that stopped him going to Harvard.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0htbc6f.jpg" />
 	</programme>
@@ -1976,7 +1976,7 @@
 	</programme>
 	<programme channel="bbcfour" start="20241117210000 +0000" stop="20241117220000 +0000">
 		<title>The Read - Series 3: 1984</title>
-		<desc>Sacha Dhawan narrates George Orwell’s 1984, in this chilling cautionary classic.</desc>
+		<desc>Sacha Dhawan narrates George Orwell’s 1984 in this chilling, cautionary classic.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k3stqp.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20241117220000 +0000" stop="20241117235500 +0000">
@@ -1996,7 +1996,7 @@
 	</programme>
 	<programme channel="bbcfour" start="20241118024500 +0000" stop="20241118034500 +0000">
 		<title>The Read - Series 3: 1984</title>
-		<desc>Sacha Dhawan narrates George Orwell’s 1984, in this chilling cautionary classic.</desc>
+		<desc>Sacha Dhawan narrates George Orwell’s 1984 in this chilling, cautionary classic.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k3stqp.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20241118034500 +0000" stop="20241118053000 +0000">
@@ -4048,8 +4048,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tcx3b.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20241115185000 +0000" stop="20241115185800 +0000">
-		<title>CBeebies Bedtime Stories - New and Trending: 15/11/2024</title>
-		<desc>A different story read each night just before bedtime.</desc>
+		<title>CBeebies Bedtime Stories - New and Trending: Paddy McGuinness - The Stompysaurus</title>
+		<desc>Paddy McGuinness reads a special Bedtime Story for Children in Need.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k434k3.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20241115185800 +0000" stop="20241116053000 +0000">
@@ -5581,7 +5581,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20241114183000 +0000" stop="20241114190000 +0000">
 		<title>Sportsday - 14/11/2024</title>
-		<desc>A round-up of the day's sporting action.</desc>
+		<desc>Live in Athens ahead of Greece v England.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241114190000 +0000" stop="20241114193000 +0000">
@@ -5905,7 +5905,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241116033000 +0000" stop="20241116040000 +0000">
-		<title>The Media Show - US election and its impact on media</title>
+		<title>The Media Show - US election and its Impact on Media</title>
 		<desc>Discussion of the diversification of media sources and the struggle for relevance.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
@@ -5985,7 +5985,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241116143000 +0000" stop="20241116150000 +0000">
-		<title>The Media Show - US election and its impact on media</title>
+		<title>The Media Show - US election and its Impact on Media</title>
 		<desc>Discussion of the diversification of media sources and the struggle for relevance.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
@@ -6634,15 +6634,30 @@
 		<desc>Impact of changed employer’s national insurance contributions on primary care providers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241114114000 +0000" stop="20241114124000 +0000">
+	<programme channel="bbcparliament" start="20241114114000 +0000" stop="20241114125500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 14 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241114124000 +0000" stop="20241114173000 +0000">
+	<programme channel="bbcparliament" start="20241114125500 +0000" stop="20241114141500 +0000">
 		<title>House of Commons - 14/11/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 14 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241114141500 +0000" stop="20241114170000 +0000">
+		<title>Scottish Parliament - 14/11/2024</title>
+		<desc>Coverage of the afternoon's proceedings in Holyrood on Thursday 14 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241114170000 +0000" stop="20241114171000 +0000">
+		<title>Ten Minute Rule Bill - Power of Attorney</title>
+		<desc>The introduction of a ten minute rule bill on power of attorney on Tuesday 12 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k4bcds.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241114171000 +0000" stop="20241114173000 +0000">
+		<title>Scottish Parliament - General Questions</title>
+		<desc>General question session in Holyrood to Scottish government ministers, from 14 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241114173000 +0000" stop="20241114181500 +0000">
 		<title>Scottish First Minister's Questions - 14/11/2024</title>
@@ -7936,12 +7951,12 @@
 		<desc>Mae Gwesty Sigldigwt ar agor! Heddiw cawn gwrdd â Dilys y cocyrpw ac Aneira a'i chrwban...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07z0x3j.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241115100000 +0000" stop="20241115100500 +0000">
+	<programme channel="s4c" start="20241115100000 +0000" stop="20241115101000 +0000">
 		<title>Nos Da Cyw - Cyfres 2019: Triog a'r Botel Sos Coch</title>
 		<desc>Sh! Mae'r haul yn mynd i'w wely ac mae'n amser i ni gael stori fach cyn cysgu. Shh! The...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x36bd.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241115100500 +0000" stop="20241115102000 +0000">
+	<programme channel="s4c" start="20241115101000 +0000" stop="20241115102000 +0000">
 		<title>Og Y Draenog Hapus - Cyfres 1: Y Picinic Perffaith</title>
 		<desc>Beth sy'n digwydd ym myd Og a'i ffrindiau heddiw? What's happening in the world of Og a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4jl7b.jpg" />
@@ -8276,17 +8291,17 @@
 		<desc>Mae Storm Dewi wedi cyrraedd y dyffryn, ac mae Cadi'n cael galwad yn dweud fod coeden w...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd7hxx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241117063000 +0000" stop="20241117064500 +0000">
+	<programme channel="s4c" start="20241117063000 +0000" stop="20241117065000 +0000">
 		<title>Cacamwnci - Cyfres 3: Pennod 7</title>
 		<desc>Mae Cacamwnci nôl efo mwy o sgetsys dwl a doniol, gyda chymeriadau newydd sbon fel Clem...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05vqt69.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241117064500 +0000" stop="20241117065000 +0000">
+	<programme channel="s4c" start="20241117065000 +0000" stop="20241117065500 +0000">
 		<title>Y Tralalas - Cyfres 1: Yr Ysbyty</title>
 		<desc>Mae'r Tralalas yn mynd i'r ysbyty i ddysgu sut mae doctoriaid a nyrsus yn edrych ar eic...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hr2z2q.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241117065000 +0000" stop="20241117070000 +0000">
+	<programme channel="s4c" start="20241117065500 +0000" stop="20241117070000 +0000">
 		<title>Nos Da Cyw - Cyfres 2019: Bolgi a'r Matres Caled</title>
 		<desc>Sh! Mae'r haul yn mynd i'w wely ac mae'n amser i ni gael stori fach cyn cysgu. Shh! The...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x36bd.jpg" />
@@ -8311,32 +8326,32 @@
 		<desc>Mae Pablo wrth ei fodd yn gwrando ar gerddoriaeth. Pan mae'n clywed ei hoff gân ar y ra...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09f9333.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241117075500 +0000" stop="20241117081000 +0000">
+	<programme channel="s4c" start="20241117075500 +0000" stop="20241117081500 +0000">
 		<title>Ahoi! - Cyfres 2022: Ysgol Llwyncelyn #1</title>
 		<desc>A fydd criw o forladron bach Ysgol Llwyncelyn yn llwyddo i helpu Ben Dant a Cadi i drec...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05s641v.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241117081000 +0000" stop="20241117082000 +0000">
+	<programme channel="s4c" start="20241117081500 +0000" stop="20241117082500 +0000">
 		<title>Pentre Papur Pop - Howdi Huwcyn</title>
 		<desc>Ar yr antur popwych heddiw mae Huwcyn yn cael bod yn Sheriff Pentref Papur Pop. On toda...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241117082000 +0000" stop="20241117083000 +0000">
+	<programme channel="s4c" start="20241117082500 +0000" stop="20241117083500 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Stomp y Bardd</title>
 		<desc>Mae Gwich yn trio dysgu rheolau barddoniaeth i Dan, Pigog a Crawc ond mae cerdd Pigog y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241117083000 +0000" stop="20241117084000 +0000">
+	<programme channel="s4c" start="20241117083500 +0000" stop="20241117084500 +0000">
 		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 38</title>
 		<desc>Dewch ar antur efo ni i gwrdd ag anifeiliaid bach y byd. Yn y rhaglen hon cawn ddysgu m...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241117084000 +0000" stop="20241117085000 +0000">
+	<programme channel="s4c" start="20241117084500 +0000" stop="20241117085500 +0000">
 		<title>Joni Jet - Joni Jet: Pen-blwydd Perffaith</title>
 		<desc>Mae Jini eisiau pen-blwydd ei mam fod yn berffaith, ond gall yr amherffaith fod yn ddig...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241117085000 +0000" stop="20241117090000 +0000">
+	<programme channel="s4c" start="20241117085500 +0000" stop="20241117090000 +0000">
 		<title>Penblwyddi Cyw - Sun, 17 Nov 2024</title>
 		<desc>Os wyt ti'n dathlu dy ben-blwydd, dyma gyfle i ti weld dy lun ar Cyw. If you're celebra...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09g8pl3.jpg" />
@@ -8456,22 +8471,22 @@
 		<desc>Hwyl a sbri i blant ifanc gyda'r blociau rhif. Fun and games for young children with th...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241118070500 +0000" stop="20241118072000 +0000">
+	<programme channel="s4c" start="20241118070500 +0000" stop="20241118071500 +0000">
 		<title>Sion y Chef - Cyfres 1: Pi-po Pwdin</title>
 		<desc>Mae Siôn a'i ffrindiau'n ceisio eu gorau glas i guddio buwch rhag Magi. Siôn and his fr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p076hrfm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241118072000 +0000" stop="20241118073000 +0000">
+	<programme channel="s4c" start="20241118071500 +0000" stop="20241118073000 +0000">
 		<title>Tomos a'i Ffrindiau - Cyfres 4: Dirgelwch y Deinosor</title>
 		<desc>Anturiaethau Tomos a'i ffrindiau. The adventures of Tomos and friends.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fg029b.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241118073000 +0000" stop="20241118074500 +0000">
+	<programme channel="s4c" start="20241118073000 +0000" stop="20241118074000 +0000">
 		<title>Joni Jet - Joni Jet: Sut I Fod Yn Arwr</title>
 		<desc>Mae Joni wrth ei fodd â'i rôl fel arwr. Ond rhaid cofio beth mae'n olygu i fod yn arwr ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241118074500 +0000" stop="20241118080000 +0000">
+	<programme channel="s4c" start="20241118074000 +0000" stop="20241118080000 +0000">
 		<title>Amser Maith Maith yn Ôl - Cyfres 3: Cytuno</title>
 		<desc>Heddiw, mae Ednyfed Fychan, un o bobol pwysicaf Llywelyn wedi dod i'r Llys. Today in Am...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06sjjvg.jpg" />
@@ -8531,12 +8546,12 @@
 		<desc>Brwsh gwallt, brwsh llawr, brwsh dannedd. Ie 'brwsh' yw'r gair heddiw. Dere ar antur ge...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdb1cx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241118101000 +0000" stop="20241118101500 +0000">
+	<programme channel="s4c" start="20241118101000 +0000" stop="20241118102000 +0000">
 		<title>Og Y Draenog Hapus - Cyfres 1: Teimladau Hapus Og</title>
 		<desc>Beth sy'n digwydd ym myd Og a'i ffrindiau heddiw? What's happening in the world of Og a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8v65j.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241118101500 +0000" stop="20241118103000 +0000">
+	<programme channel="s4c" start="20241118102000 +0000" stop="20241118103000 +0000">
 		<title>Gwdihw - Cyfres 1: Pennod 26</title>
 		<desc>Mae'r milfeddyg yn ymweld â walabi a chawn gwrdd â sebras, ieir a moch cwta. Rhaglen ol...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tvzx8.jpg" />
@@ -8704,7 +8719,7 @@
 	<programme channel="s4c" start="20241118213000 +0000" stop="20241118220000 +0000">
 		<title>Sgorio - Cyfres 2024: Pennod 15</title>
 		<desc>Cyfres llawn cyffro pêl-droed y pyramid Cymreig. All the action and excitement of the J...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jg3gcd.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k4kprj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241118220000 +0000" stop="20241118222500 +0000">
 		<title>Pen Petrol - Cyfres 3: Pennod 2</title>
