@@ -785,8 +785,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jy1z9y.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241119223000 +0000" stop="20241119230000 +0000">
-		<title>Newsnight - 19/11/2024</title>
-		<desc>The day's important national and international news stories. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Starmer v Farmers</title>
+		<desc>Farmers bring Westminster to a standstill with their march against government tax plans.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241119230000 +0000" stop="20241119230500 +0000">
@@ -5645,8 +5645,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241119223000 +0000" stop="20241119230000 +0000">
-		<title>Newsnight - 19/11/2024</title>
-		<desc>The day's important national and international news stories. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Starmer v Farmers</title>
+		<desc>Farmers bring Westminster to a standstill with their march against government tax plans.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241119230000 +0000" stop="20241120000000 +0000">
@@ -6445,9 +6445,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241123113000 +0000" stop="20241123120000 +0000">
-		<title>Unspun World with John Simpson - Series 4: 20/11/2024</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
+		<title>I Was There - The Birmingham Pub Bombs</title>
+		<desc>A night out turns to horror. Britain’s biggest unsolved mass murder.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k42pdd.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241123120000 +0000" stop="20241123123000 +0000">
 		<title>BBC News - 23/11/2024</title>
@@ -6560,9 +6560,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241123233000 +0000" stop="20241124000000 +0000">
-		<title>Talking Business - 22/11/2024</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
+		<title>I Was There - The Birmingham Pub Bombs</title>
+		<desc>A night out turns to horror. Britain’s biggest unsolved mass murder.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k42pdd.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241124000000 +0000" stop="20241124003000 +0000">
 		<title>BBC News - 24/11/2024</title>
@@ -6669,30 +6669,70 @@
 		<desc>A statement marking 1,000 days since the Russian invasion of Ukraine, on 19 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241119141500 +0000" stop="20241119193000 +0000">
+	<programme channel="bbcparliament" start="20241119141500 +0000" stop="20241119182000 +0000">
 		<title>House of Commons - 19/11/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 19 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241119193000 +0000" stop="20241119220000 +0000">
+	<programme channel="bbcparliament" start="20241119182000 +0000" stop="20241119204000 +0000">
 		<title>House of Lords - 19/11/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Lords on Tuesday 19 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241119220000 +0000" stop="20241119225000 +0000">
+	<programme channel="bbcparliament" start="20241119204000 +0000" stop="20241119212000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Health Statement</title>
+		<desc>Debate in the Senedd on a ministerial statement on waiting times in Wales, on 19 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241119212000 +0000" stop="20241119215500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Electoral Reform Statement</title>
+		<desc>Debate on electoral administration and electoral reform in Wales, on Tuesday 19 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241119215500 +0000" stop="20241119223000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Creative Industries Statement</title>
+		<desc>Debate on a ministerial statement on the creative industries in Wales, on 19 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241119223000 +0000" stop="20241119232000 +0000">
 		<title>Welsh First Minister's Questions - 19/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 19 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241119225000 +0000" stop="20241119233500 +0000">
+	<programme channel="bbcparliament" start="20241119232000 +0000" stop="20241120000500 +0000">
 		<title>Lords Questions - 19/11/2024</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 19 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241119233500 +0000" stop="20241120060000 +0000">
-		<title>House of Lords - 19/11/2024</title>
-		<desc>Business in the House of Lords on Tuesday 19 November.</desc>
+	<programme channel="bbcparliament" start="20241120000500 +0000" stop="20241120002000 +0000">
+		<title>House of Lords - Council Tax Statement</title>
+		<desc>Debate on a statement on the government’s policy on council tax referendum thresholds.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241120002000 +0000" stop="20241120003000 +0000">
+		<title>House of Lords - National Insurance Statement</title>
+		<desc>Debate on the impact of changes to Employer’s NI Contributions on primary care providers.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241120003000 +0000" stop="20241120010500 +0000">
+		<title>House of Lords - Bus Funding Statement</title>
+		<desc>Debate on a ministerial statement on bus funding in England, from Tuesday 19 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241120010500 +0000" stop="20241120014500 +0000">
+		<title>House of Lords - Children's Social Care Statement</title>
+		<desc>Debate on a ministerial statement on children's social care, from Tuesday 19 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241120014500 +0000" stop="20241120052500 +0000">
+		<title>House of Lords - Data (Use and Access) Bill</title>
+		<desc>Second reading debate in the Lords on the Data (Use and Access) Bill, from 19 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241120052500 +0000" stop="20241120060000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Health Statement</title>
+		<desc>Debate in the Senedd on a ministerial statement on waiting times in Wales, on 19 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241120060000 +0000" stop="20241120070000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
