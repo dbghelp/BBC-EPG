@@ -565,7 +565,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241125093000 +0000" stop="20241125104500 +0000">
-		<title>Morning Live - Series 6: 116. Scam Special</title>
+		<title>Morning Live - Series 6: 25/11/2024: Scam Special</title>
 		<desc>Join Morning Live for a week of Scam Specials, with live roadshows from across the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jybqmg.jpg" />
 	</programme>
@@ -1046,7 +1046,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20241123212500 +0000" stop="20241123223000 +0000">
 		<title>Boybands Forever - Series 1: Episode 3</title>
-		<desc>The new millennium and a finely tuned boyband industry gives rise to Blue and Westlife.</desc>
+		<desc>The new millennium, and a finely tuned boyband industry gives rise to Blue and Westlife.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2f2x8.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241123223000 +0000" stop="20241123231500 +0000">
@@ -6025,7 +6025,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20241124053000 +0000" stop="20241124060000 +0000">
 		<title>Talking Business - 22/11/2024</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Can the world afford the climate change bill? Experts says it going to cost $2.4tn a year.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241124060000 +0000" stop="20241124090000 +0000">
@@ -6511,12 +6511,12 @@
 	<programme channel="bbcparliament" start="20241121103000 +0000" stop="20241121113000 +0000">
 		<title>House of Commons - G20 and COP29 Summits Statement</title>
 		<desc>The statement by Keir Starmer on the G20 and COP29 summits, on Thursday 21 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k64fln.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241121113000 +0000" stop="20241121123000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 21 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k64gmq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241121123000 +0000" stop="20241121173000 +0000">
 		<title>House of Commons - 21/11/2024</title>
@@ -6533,35 +6533,45 @@
 		<desc>Questions in the House of Lords to government ministers on Thursday 21 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241121190000 +0000" stop="20241121213000 +0000">
-		<title>House of Lords - Ukraine and the EU</title>
-		<desc>Debate on the impact of Russia's invasion of Ukraine on the UK-EU relationship.</desc>
+	<programme channel="bbcparliament" start="20241121190000 +0000" stop="20241121193000 +0000">
+		<title>House of Lords - Financial Services Statement</title>
+		<desc>Debate on a statement on financial services and the chancellor's Mansion House speech.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241121213000 +0000" stop="20241121223000 +0000">
+	<programme channel="bbcparliament" start="20241121193000 +0000" stop="20241121202500 +0000">
 		<title>House of Lords - Farming Families</title>
 		<desc>The House of Lords debate on the continuity of farming families, on Thursday 21 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241121223000 +0000" stop="20241122021500 +0000">
+	<programme channel="bbcparliament" start="20241121202500 +0000" stop="20241121232000 +0000">
+		<title>House of Lords - Ukraine and the EU</title>
+		<desc>Debate on the impact of Russia's invasion of Ukraine on the UK-EU relationship.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241121232000 +0000" stop="20241122015000 +0000">
 		<title>House of Lords - Artificial Intelligence</title>
 		<desc>Debate in the House of Lords on 'Large language models and generative AI', on 21 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241122021500 +0000" stop="20241122031500 +0000">
+	<programme channel="bbcparliament" start="20241122015000 +0000" stop="20241122025000 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Louise Haigh on Thursday 21 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k62tfr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241122031500 +0000" stop="20241122041500 +0000">
+	<programme channel="bbcparliament" start="20241122025000 +0000" stop="20241122041000 +0000">
+		<title>House of Commons - G20 and COP29 Summits Statement</title>
+		<desc>The statement by Keir Starmer on the G20 and COP29 summits, on Thursday 21 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k64fln.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241122041000 +0000" stop="20241122051500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 21 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k64gmq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241122041500 +0000" stop="20241122070000 +0000">
-		<title>House of Commons - 21/11/2024</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 21 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20241122051500 +0000" stop="20241122070000 +0000">
+		<title>Lords Questions - 21/11/2024</title>
+		<desc>Questions in the House of Lords to government ministers on Thursday 21 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241122070000 +0000" stop="20241122100000 +0000">
 		<title>Westminster Hall - 18/11/2024</title>
@@ -7654,9 +7664,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241121140500 +0000" stop="20241121150000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+		<title>Prynhawn Da - Thu, 21 Nov 2024</title>
+		<desc>Mae Huw yn y gornel ffasiwn ac mi fydd Beti Griffiths yn ymweld â'r Clwb Llyfrau. Huw i...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241121150000 +0000" stop="20241121150500 +0000">
 		<title>Newyddion S4C - Thu, 21 Nov 2024 15:00</title>
