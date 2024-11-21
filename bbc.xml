@@ -160,8 +160,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241121234000 +0000" stop="20241122001000 +0000">
-		<title>Newscast - Series 5: 21/11/2024</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
+		<title>Newscast - Series 5: 20. Ukraine, Israel and Remembering John Prescott</title>
+		<desc>Adam, Alex, Chris and Henry discuss Ukraine firing British missiles on Russia.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241122001000 +0000" stop="20241122001500 +0000">
@@ -6548,32 +6548,37 @@
 		<desc>Debate on the impact of Russia's invasion of Ukraine on the UK-EU relationship.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241121232000 +0000" stop="20241122015000 +0000">
+	<programme channel="bbcparliament" start="20241121232000 +0000" stop="20241122011500 +0000">
 		<title>House of Lords - Artificial Intelligence</title>
 		<desc>Debate in the House of Lords on 'Large language models and generative AI', on 21 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241122015000 +0000" stop="20241122025000 +0000">
+	<programme channel="bbcparliament" start="20241122011500 +0000" stop="20241122021500 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Louise Haigh on Thursday 21 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k62tfr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241122025000 +0000" stop="20241122041000 +0000">
+	<programme channel="bbcparliament" start="20241122021500 +0000" stop="20241122033000 +0000">
 		<title>House of Commons - G20 and COP29 Summits Statement</title>
 		<desc>The statement by Keir Starmer on the G20 and COP29 summits, on Thursday 21 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k64fln.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241122041000 +0000" stop="20241122051500 +0000">
+	<programme channel="bbcparliament" start="20241122033000 +0000" stop="20241122044000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 21 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k64gmq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241122051500 +0000" stop="20241122070000 +0000">
+	<programme channel="bbcparliament" start="20241122044000 +0000" stop="20241122052500 +0000">
 		<title>Lords Questions - 21/11/2024</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 21 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241122070000 +0000" stop="20241122100000 +0000">
+	<programme channel="bbcparliament" start="20241122052500 +0000" stop="20241122060000 +0000">
+		<title>House of Lords - Post Office Statement</title>
+		<desc>Debate on a ministerial statement on the future of the Post Office, on Monday 18 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k5xr8y.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241122060000 +0000" stop="20241122100000 +0000">
 		<title>Westminster Hall - 18/11/2024</title>
 		<desc>House of Commons proceedings in Westminster Hall from Monday 18 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
@@ -6606,7 +6611,7 @@
 	<programme channel="bbcparliament" start="20241123015000 +0000" stop="20241123024000 +0000">
 		<title>Welsh First Minister's Questions - 19/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 19 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k64r3y.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241123024000 +0000" stop="20241123060000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - 22/11/2024</title>
@@ -6631,7 +6636,7 @@
 	<programme channel="bbcparliament" start="20241123122000 +0000" stop="20241123131000 +0000">
 		<title>Welsh First Minister's Questions - 19/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 19 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k64r3y.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241123131000 +0000" stop="20241123135500 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
@@ -6686,7 +6691,7 @@
 	<programme channel="bbcparliament" start="20241124014000 +0000" stop="20241124023000 +0000">
 		<title>Welsh First Minister's Questions - 19/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 19 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k64r3y.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241124023000 +0000" stop="20241124033000 +0000">
 		<title>House of Commons - Defence Questions</title>
@@ -6751,7 +6756,7 @@
 	<programme channel="bbcparliament" start="20241124162500 +0000" stop="20241124171500 +0000">
 		<title>Welsh First Minister's Questions - 19/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 19 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k64r3y.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241124171500 +0000" stop="20241124180000 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
@@ -6791,7 +6796,7 @@
 	<programme channel="bbcparliament" start="20241125035000 +0000" stop="20241125044000 +0000">
 		<title>Welsh First Minister's Questions - 19/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 19 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k64r3y.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241125044000 +0000" stop="20241125052500 +0000">
 		<title>Scottish First Minister's Questions - 21/11/2024</title>
@@ -6816,7 +6821,7 @@
 	<programme channel="bbcparliament" start="20241125095000 +0000" stop="20241125104000 +0000">
 		<title>Welsh First Minister's Questions - 19/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 19 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k64r3y.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241125104000 +0000" stop="20241125112500 +0000">
 		<title>Scottish First Minister's Questions - 21/11/2024</title>
