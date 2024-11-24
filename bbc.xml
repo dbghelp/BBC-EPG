@@ -769,19 +769,19 @@
 		<desc>Classic Ealing comedy about a scotch-laden ship that runs aground off the Hebridean coast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02g6lj0.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241124125000 +0000" stop="20241124171000 +0000">
+	<programme channel="bbctwo" start="20241124125000 +0000" stop="20241124173500 +0000">
 		<title>Snooker: UK Championship - 2024: Day 2, Afternoon</title>
 		<desc>Live coverage from day two of the 2024 UK Snooker Championship.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k6mnh1.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241124171000 +0000" stop="20241124180000 +0000">
+	<programme channel="bbctwo" start="20241124173500 +0000" stop="20241124182500 +0000">
 		<title>Eden: Untamed Planet - Series 1: 5. Patagonia: The Ends of the Earth</title>
 		<desc>At the far tip of South America lies a magical realm that seems frozen in time.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c4lwxj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241124180000 +0000" stop="20241124190000 +0000">
-		<title>Flog It! - Series 15 Reversions: Episode 9</title>
-		<desc>Members of the public bring their antiques to be viewed and valued.</desc>
+	<programme channel="bbctwo" start="20241124182500 +0000" stop="20241124190000 +0000">
+		<title>Flog It! - Series 13 (30-Minute Versions): Episode 4</title>
+		<desc>Members of the public try to make money out of their antiques by taking a risk at auction.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241124190000 +0000" stop="20241124200000 +0000">
@@ -5477,15 +5477,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20241124160000 +0000" stop="20241124163000 +0000">
+	<programme channel="bbcnews" start="20241124160000 +0000" stop="20241124170000 +0000">
 		<title>BBC News - 24/11/2024</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20241124163000 +0000" stop="20241124170000 +0000">
-		<title>Newscast - 24/11/2024</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241124170000 +0000" stop="20241124180000 +0000">
 		<title>BBC News - 24/11/2024</title>
