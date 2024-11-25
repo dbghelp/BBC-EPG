@@ -929,27 +929,27 @@
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241126230500 +0000" stop="20241126234000 +0000">
+	<programme channel="bbctwo" start="20241126230500 +0000" stop="20241126234500 +0000">
 		<title>Have I Got News for You US - Series 1: Episode 10</title>
 		<desc>Dissection of the post-election US news coverage with Roy Wood Jr and guests.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jsybnk.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241126234000 +0000" stop="20241127014000 +0000">
+	<programme channel="bbctwo" start="20241126234500 +0000" stop="20241127014500 +0000">
 		<title>Snooker: UK Championship - 2024 Extra: Day 4</title>
 		<desc>Further highlights from day four of the 2024 UK Snooker Championship.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k6qvpv.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241127014000 +0000" stop="20241127024000 +0000">
+	<programme channel="bbctwo" start="20241127014500 +0000" stop="20241127024500 +0000">
 		<title>MasterChef: The Professionals - Series 17: Episode 10</title>
 		<desc>It’s the final week of the heats, and four more chefs confront two demanding tasks.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k40mwt.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241127024000 +0000" stop="20241127035500 +0000">
+	<programme channel="bbctwo" start="20241127024500 +0000" stop="20241127040000 +0000">
 		<title>Britain's Nuclear Bomb Scandal: Our Story</title>
 		<desc>The shocking tale of Britain’s nuclear tests, the human cost and allegations of cover-up.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k3vsk3.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241127035500 +0000" stop="20241127060000 +0000">
+	<programme channel="bbctwo" start="20241127040000 +0000" stop="20241127060000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -6702,17 +6702,22 @@
 		<desc>Coverage of questions to Yvette Cooper on Monday 25 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k6w6qg.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241125153000 +0000" stop="20241125163000 +0000">
+	<programme channel="bbcparliament" start="20241125153000 +0000" stop="20241125162500 +0000">
+		<title>House of Commons - Tributes to John Prescott</title>
+		<desc>Tributes to the former Labour MP and deputy prime minister John Prescott.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241125162500 +0000" stop="20241125173000 +0000">
 		<title>House of Commons - Israel-Gaza Urgent Question</title>
 		<desc>Debate on the ICC issuing arrest warrants in respect of the Israel-Gaza conflict.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241125163000 +0000" stop="20241125173000 +0000">
+	<programme channel="bbcparliament" start="20241125173000 +0000" stop="20241125184000 +0000">
 		<title>House of Commons - Storm Bert Statement</title>
 		<desc>A statement updating MPs on the impact of Storm Bert, on Monday 25 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241125173000 +0000" stop="20241125223000 +0000">
+	<programme channel="bbcparliament" start="20241125184000 +0000" stop="20241125223000 +0000">
 		<title>House of Commons - 25/11/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 25 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
