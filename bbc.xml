@@ -160,9 +160,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241128234000 +0000" stop="20241129001000 +0000">
-		<title>Newscast - Series 5: 28/11/2024</title>
+		<title>Newscast - Series 5: 21. Migration, People Smuggling and Assisted Dying</title>
 		<desc>Lighthearted discussion of the week's political events.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7nr36.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241129001000 +0000" stop="20241129001500 +0000">
 		<title>Weather for the Week Ahead - 29/11/2024</title>
@@ -6482,39 +6482,84 @@
 		<desc>Debate on a ministerial statement on UK leadership on Sudan, on Thursday 28 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7kv2p.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241129052000 +0000" stop="20241129063000 +0000">
+	<programme channel="bbcparliament" start="20241129052000 +0000" stop="20241129061500 +0000">
 		<title>House of Commons - Anti-Social Behaviour Statement</title>
 		<desc>Debate on respect orders and anti-social behaviour, on Wednesday 27 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7cn34.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241129063000 +0000" stop="20241129093000 +0000">
+	<programme channel="bbcparliament" start="20241129061500 +0000" stop="20241129071000 +0000">
 		<title>Westminster Hall - 25/11/2024</title>
 		<desc>House of Commons proceedings in Westminster Hall from Monday 25 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241129071000 +0000" stop="20241129093000 +0000">
+		<title>Select Committees - Business and Trade Committee</title>
+		<desc>Evidence from secretary of state for business Jonathan Reynolds, from Tuesday 26 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241129093000 +0000" stop="20241129150000 +0000">
 		<title>House of Commons - 29/11/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Friday 29 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241129150000 +0000" stop="20241129180000 +0000">
-		<title>House of Lords - 29/11/2024</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20241129150000 +0000" stop="20241129155000 +0000">
+		<title>House of Lords - G20 and COP29 Summit Statements</title>
+		<desc>Business in the House of Lords on Monday 25 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k737l8.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241129180000 +0000" stop="20241129210000 +0000">
-		<title>Select Committees - 29/11/2024</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	<programme channel="bbcparliament" start="20241129155000 +0000" stop="20241129162000 +0000">
+		<title>House of Lords - Defence Programmes Developments Statement</title>
+		<desc>Statement by Lord Coaker on the closure of six defence programmes, on Monday 25 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k738y8.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241129162000 +0000" stop="20241129165000 +0000">
+		<title>House of Lords - Storm Bert Update Statement</title>
+		<desc>Debates on a government statement updating peers on the impact of Storm Bert, 26 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7c3sn.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241129165000 +0000" stop="20241129180000 +0000">
+		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
+		<desc>Coverage of questions to David Lammy on Tuesday 26 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k73f2b.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241129180000 +0000" stop="20241129200000 +0000">
+		<title>Select Committees - Environment, Food and Rural Affairs Committee</title>
+		<desc>Coverage of the Environment, Food and Rural Affairs select committee on the work of Ofwat.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k73dgm.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241129200000 +0000" stop="20241129210000 +0000">
+		<title>House of Commons - Home Office Questions</title>
+		<desc>Coverage of questions to Yvette Cooper on Monday 25 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k6w6qg.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241129210000 +0000" stop="20241129214500 +0000">
 		<title>Scottish First Minister's Questions - 28/11/2024</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 28 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241129214500 +0000" stop="20241130015000 +0000">
-		<title>Scottish Parliament - 29/11/2024</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20241129214500 +0000" stop="20241129221500 +0000">
+		<title>Scottish Parliament - Winter Fuel Support Statement</title>
+		<desc>The statement by the cabinet secretary for social justice, Shirley-Anne Somerville.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241129221500 +0000" stop="20241129223500 +0000">
+		<title>Scottish Parliament - General Questions</title>
+		<desc>General questions to ministers in the Scottish government, from Thursday 28 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241129223500 +0000" stop="20241129231500 +0000">
+		<title>Scottish Parliament - A96 Corridor Review Statement</title>
+		<desc>The statement on the review of the A96 corridor, from Thursday 28 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241129231500 +0000" stop="20241130003000 +0000">
+		<title>Scottish Parliament - Housing (Scotland) Bill</title>
+		<desc>The debate on Stage 1 of the Housing (Scotland) Bill, from Thursday 28 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241130003000 +0000" stop="20241130015000 +0000">
+		<title>Scottish Parliament - Social Care</title>
+		<desc>The debate tabled by Scottish Labour on social care, from Wednesday 27 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241130015000 +0000" stop="20241130024000 +0000">
@@ -6522,10 +6567,25 @@
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 26 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7cptt.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241130024000 +0000" stop="20241130060000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 29/11/2024</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20241130024000 +0000" stop="20241130033000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Visitor Accommodation (Register and Levy) Bill</title>
+		<desc>Statement by Mark Drakeford on the Visitor Accommodation (Register and Levy) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7bs79.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241130033000 +0000" stop="20241130042000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Sustainable Farming Scheme</title>
+		<desc>The statement on the sustainable farming scheme, from Tuesday 26 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241130042000 +0000" stop="20241130045500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Ambulance Response Times</title>
+		<desc>The statement on the review of ambulance response times, from Tuesday 26 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241130045500 +0000" stop="20241130060000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Storm Bert Statement</title>
+		<desc>Statement by deputy first minister Huw Irranca-Davies on Storm Bert, from 26 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7brv9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241130060000 +0000" stop="20241130110000 +0000">
 		<title>Westminster Hall - 26/11/2024</title>
