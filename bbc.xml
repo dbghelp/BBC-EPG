@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20241128093000 +0000" stop="20241128104500 +0000">
 		<title>Morning Live - Series 6: 28/11/2024: Scam Special</title>
-		<desc>Join Morning Live for a week of Scam Specials, with live roadshows from across the UK.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jybqmg.jpg" />
+		<desc>Helen Skelton and Michelle Ackerley talk to Rav Wilding live from the Scam Safe roadshow.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7jgct.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241128104500 +0000" stop="20241128113000 +0000">
 		<title>Rip Off Britain - Series 16: 29. Fake weight-loss drug almost killed me</title>
@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="bbcone" start="20241128190000 +0000" stop="20241128193000 +0000">
 		<title>The One Show - 28/11/2024</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Anne-Marie Duff and Mark Bonnar join Alex Jones and Roman Kemp. Plus, Dwayne Johnson.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jn9yj0.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241128193000 +0000" stop="20241128200000 +0000">
@@ -732,7 +732,7 @@
 	<programme channel="bbctwo" start="20241128130000 +0000" stop="20241128171500 +0000">
 		<title>Snooker: UK Championship - 2024: Day 6, Afternoon</title>
 		<desc>Live coverage from day six of the 2024 UK Snooker Championship.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k70dn4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7jv99.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241128171500 +0000" stop="20241128180000 +0000">
 		<title>Flog It! - Series 12: 18. Oxford 18</title>
@@ -1769,7 +1769,7 @@
 	<programme channel="bbcfour" start="20241129221500 +0000" stop="20241129234500 +0000">
 		<title>Country Music Awards - 2024</title>
 		<desc>Highlights from the 58th annual Country Music Awards.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k4bzqr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7jlgv.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20241129234500 +0000" stop="20241130003500 +0000">
 		<title>In Concert - Kenny Rogers</title>
@@ -2573,9 +2573,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07xpcdl.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20241130090000 +0000" stop="20241130113000 +0000">
-		<title>Saturday Mash-Up! Live - Series 7: Episode 21</title>
-		<desc>Live Saturday morning fun, filled with mayhem and celebrity guests.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j9b2by.jpg" />
+		<title>Saturday Mash-Up! Live - Series 7: 21. Moana, Strictly &amp; Lionesses</title>
+		<desc>Stanley meets Auli’i Cravalho, the star of Moana 2, to find out all about the new movie.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7jt7n.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20241130113000 +0000" stop="20241130120000 +0000">
 		<title>Blue Peter - Match of the Day, WSL, Kyle Thomas and Moana 2</title>
@@ -2813,19 +2813,22 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jsj8mm.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20241201141000 +0000" stop="20241201143000 +0000">
-		<title>Dragons: The Nine Realms - Series 1: 21. Cold Open</title>
-		<desc>Tom and the riders discover the Ice Realm and find Buzzsaw inside.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0df9db4.jpg" />
+		<title>Miraculous: Tales of Ladybug &amp; Cat Noir - Series 5: 1. Evolution</title>
+		<desc>Ladybug and Cat Noir face their enemy through time.
+</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8qps2.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20241201143000 +0000" stop="20241201145500 +0000">
-		<title>Dragons: The Nine Realms - Series 1: 22. Uncharted Territory</title>
-		<desc>Feathers and Webmaster go missing during a blizzard in the Ice Realm.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0df9gmh.jpg" />
+		<title>Miraculous: Tales of Ladybug &amp; Cat Noir - Series 5: 2. Multiplication</title>
+		<desc>For the first time, the heroes have no-one to face!
+</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8qps2.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20241201145500 +0000" stop="20241201151500 +0000">
-		<title>Dragons: The Nine Realms - Series 1: 23. Journey to the Snowcano</title>
-		<desc>The dragon riders venture to a place the Book of Dragons seems to say is dangerous.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0df9hpn.jpg" />
+		<title>Miraculous: Tales of Ladybug &amp; Cat Noir - Series 5: 3. Destruction</title>
+		<desc>What if Monarch showed up at Marinette’s home?
+</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8qps2.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20241201151500 +0000" stop="20241201154000 +0000">
 		<title>Dragons: The Nine Realms - Series 1: 25. The Night Lights: Part 1</title>
@@ -5104,7 +5107,7 @@
 	<programme channel="bbcscotland" start="20241130211500 +0000" stop="20241130223000 +0000">
 		<title>Bill Douglas: My Best Friend</title>
 		<desc>The films and friendship of director Bill Douglas and collaborator Peter Jewell.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs7b9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7hrk5.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20241130223000 +0000" stop="20241201000000 +0000">
 		<title>Songs of Modern Scotland: Celtic Connections</title>
@@ -5312,9 +5315,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241128143000 +0000" stop="20241128144500 +0000">
-		<title>Business Today - NYSE Opening Bell - 28/11/2024</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
+		<title>Business Today - 28/11/2024</title>
+		<desc>The latest business news from London and around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241128144500 +0000" stop="20241128150000 +0000">
 		<title>BBC News Now - 28/11/2024</title>
@@ -5547,9 +5550,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241129143000 +0000" stop="20241129144500 +0000">
-		<title>Business Today - NYSE Opening Bell - 29/11/2024</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
+		<title>Business Today - 29/11/2024</title>
+		<desc>The latest business news from London and around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241129144500 +0000" stop="20241129150000 +0000">
 		<title>BBC News Now - 29/11/2024</title>
@@ -5682,8 +5685,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241130033000 +0000" stop="20241130040000 +0000">
-		<title>The Media Show - 30/11/2024</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - BBC Presenter Defection, Drake vs Kendrick Lamar Lawsuit, Christmas Ads Analysed</title>
+		<desc>Mishal Husain leaves the BBC after 26 years to join Bloomberg </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241130040000 +0000" stop="20241130043000 +0000">
@@ -5762,8 +5765,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241130143000 +0000" stop="20241130150000 +0000">
-		<title>The Media Show - 30/11/2024</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - BBC Presenter Defection, Drake vs Kendrick Lamar Lawsuit, Christmas Ads Analysed</title>
+		<desc>Mishal Husain leaves the BBC after 26 years to join Bloomberg </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241130150000 +0000" stop="20241130153000 +0000">
@@ -5848,7 +5851,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20241130233000 +0000" stop="20241201000000 +0000">
 		<title>Talking Business - 29/11/2024</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Mark Lobel looks at the proposed ban on under-16s using social media in Australia.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241201000000 +0000" stop="20241201003000 +0000">
@@ -5908,7 +5911,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20241201053000 +0000" stop="20241201060000 +0000">
 		<title>Talking Business - 29/11/2024</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Mark Lobel looks at the proposed ban on under-16s using social media in Australia.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241201060000 +0000" stop="20241201090000 +0000">
@@ -5937,8 +5940,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241201113000 +0000" stop="20241201120000 +0000">
-		<title>The Media Show - 30/11/2024</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - BBC Presenter Defection, Drake vs Kendrick Lamar Lawsuit, Christmas Ads Analysed</title>
+		<desc>Mishal Husain leaves the BBC after 26 years to join Bloomberg </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241201120000 +0000" stop="20241201123000 +0000">
@@ -6396,17 +6399,22 @@
 		<desc>Coverage of questions to Lisa Nandy on Thursday 28 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241128101000 +0000" stop="20241128103000 +0000">
+	<programme channel="bbcparliament" start="20241128101000 +0000" stop="20241128103500 +0000">
 		<title>House of Commons - Commissioners Questions</title>
 		<desc>Coverage of Commissioners Questions in the House of Commons, on Thursday 28 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241128103000 +0000" stop="20241128113000 +0000">
+	<programme channel="bbcparliament" start="20241128103500 +0000" stop="20241128113500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 28 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241128113000 +0000" stop="20241128173000 +0000">
+	<programme channel="bbcparliament" start="20241128113500 +0000" stop="20241128123000 +0000">
+		<title>House of Commons - Sudan Statement</title>
+		<desc>Debate on a ministerial statement on UK leadership on Sudan, on Thursday 28 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241128123000 +0000" stop="20241128173000 +0000">
 		<title>House of Commons - 28/11/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 28 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7104,7 +7112,7 @@
 	<programme channel="bbcalba" start="20241130210000 +0000" stop="20241130231500 +0000">
 		<title>Na Trads - 2024: 30/11/2024</title>
 		<desc>Duaisean ceòl traidiseanta na h-Alba, 2024. Scotland’s traditional music awards, 2024.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k5v09p.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dlxjw3.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20241130231500 +0000" stop="20241130234500 +0000">
 		<title>Cuirm @ Celtic - 2023/24: 2. Valtos &amp; Caraidean</title>
@@ -7664,7 +7672,7 @@
 	<programme channel="s4c" start="20241128220000 +0000" stop="20241128230000 +0000">
 		<title>Sgorio - Cyfres 2024: Y Seintiau Newydd v Djurgården</title>
 		<desc>Uchafbwyntiau estynedig o Gyngres UEFA wrth i'r Seintiau Newydd groesawu Djurgården o S...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jg3gcd.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7hng1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241128230000 +0000" stop="20241128233500 +0000">
 		<title>Cymru, Dad a Fi - Pennod 4</title>
