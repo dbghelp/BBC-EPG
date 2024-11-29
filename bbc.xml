@@ -5706,7 +5706,7 @@ handkerchief game.</desc>
 	</programme>
 	<programme channel="bbcnews" start="20241201090000 +0000" stop="20241201100000 +0000">
 		<title>Sunday with Laura Kuenssberg - 01/12/2024</title>
-		<desc>Interviews with key politicians and public figures.</desc>
+		<desc>With Pat McFadden MP, Victoria Atkins MP, Cate Blanchett and Guy Maddin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cx8pct.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241201100000 +0000" stop="20241201103000 +0000">
@@ -6675,27 +6675,27 @@ handkerchief game.</desc>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 27 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k78zkk.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241202060500 +0000" stop="20241202090500 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="bbcparliament" start="20241202060500 +0000" stop="20241202090000 +0000">
+		<title>Westminster Hall - 28/11/2024</title>
+		<desc>House of Commons proceedings in Westminster Hall from Thursday 28 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241202090500 +0000" stop="20241202095000 +0000">
+	<programme channel="bbcparliament" start="20241202090000 +0000" stop="20241202094500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions to the NI executive, with deputy first minister Emma Little-Pengelly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k6w5l7.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241202095000 +0000" stop="20241202104000 +0000">
+	<programme channel="bbcparliament" start="20241202094500 +0000" stop="20241202103500 +0000">
 		<title>Welsh First Minister's Questions - 26/11/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 26 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7cptt.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241202104000 +0000" stop="20241202112500 +0000">
+	<programme channel="bbcparliament" start="20241202103500 +0000" stop="20241202112000 +0000">
 		<title>Scottish First Minister's Questions - 28/11/2024</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 28 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7tkjv.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241202112500 +0000" stop="20241202120000 +0000">
+	<programme channel="bbcparliament" start="20241202112000 +0000" stop="20241202120000 +0000">
 		<title>Prime Minister's Questions - 27/11/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 27 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k78zkk.jpg" />
@@ -6715,23 +6715,8 @@ handkerchief game.</desc>
 		<desc>Coverage of questions to Angela Rayner on Monday 2 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241202153000 +0000" stop="20241202163000 +0000">
-		<title>House of Commons - 02/12/2024 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 2 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241202163000 +0000" stop="20241202173000 +0000">
-		<title>House of Commons - 02/12/2024 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 2 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241202173000 +0000" stop="20241202183000 +0000">
-		<title>House of Commons - 02/12/2024 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 2 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241202183000 +0000" stop="20241202223000 +0000">
-		<title>House of Commons - 02/12/2024 Part 4</title>
+	<programme channel="bbcparliament" start="20241202153000 +0000" stop="20241202223000 +0000">
+		<title>House of Commons - 02/12/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 2 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6745,28 +6730,8 @@ handkerchief game.</desc>
 		<desc>Questions in the House of Lords to government ministers on Monday 2 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241203000000 +0000" stop="20241203010000 +0000">
-		<title>House of Lords - 02/12/2024 Part 1</title>
-		<desc>Business in the House of Lords on Monday 2 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241203010000 +0000" stop="20241203020000 +0000">
-		<title>House of Lords - 02/12/2024 Part 2</title>
-		<desc>Business in the House of Lords on Monday 2 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241203020000 +0000" stop="20241203030000 +0000">
-		<title>House of Lords - 02/12/2024 Part 3</title>
-		<desc>Business in the House of Lords on Monday 2 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241203030000 +0000" stop="20241203040000 +0000">
-		<title>House of Lords - 02/12/2024 Part 4</title>
-		<desc>Business in the House of Lords on Monday 2 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241203040000 +0000" stop="20241203060000 +0000">
-		<title>House of Lords - 02/12/2024 Part 5</title>
+	<programme channel="bbcparliament" start="20241203000000 +0000" stop="20241203060000 +0000">
+		<title>House of Lords - 03/12/2024</title>
 		<desc>Business in the House of Lords on Monday 2 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -6775,14 +6740,14 @@ handkerchief game.</desc>
 		<desc>Coverage of questions to Angela Rayner on Monday 2 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241203070000 +0000" stop="20241203093000 +0000">
+	<programme channel="bbcparliament" start="20241203070000 +0000" stop="20241203103000 +0000">
 		<title>House of Commons - 02/12/2024</title>
 		<desc>Highlights of proceedings in the House of Commons from Monday 2 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241203093000 +0000" stop="20241203113000 +0000">
-		<title>Select Committees - 03/12/2024</title>
-		<desc>Coverage of select committee proceedings on Tuesday 3 December.</desc>
+	<programme channel="bbcparliament" start="20241203103000 +0000" stop="20241203113000 +0000">
+		<title>Select Committees - Defence Committee</title>
+		<desc>Coverage of the Defence select committee session on the Strategic Defence Review.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241203113000 +0000" stop="20241203123000 +0000">
@@ -6790,23 +6755,8 @@ handkerchief game.</desc>
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 3 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241203123000 +0000" stop="20241203133000 +0000">
-		<title>House of Commons - 03/12/2024 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 3 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241203133000 +0000" stop="20241203143000 +0000">
-		<title>House of Commons - 03/12/2024 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 3 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241203143000 +0000" stop="20241203153000 +0000">
-		<title>House of Commons - 03/12/2024 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 3 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241203153000 +0000" stop="20241203193000 +0000">
-		<title>House of Commons - 03/12/2024 Part 4</title>
+	<programme channel="bbcparliament" start="20241203123000 +0000" stop="20241203193000 +0000">
+		<title>House of Commons - 03/12/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 3 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6825,23 +6775,8 @@ handkerchief game.</desc>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 3 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241203233500 +0000" stop="20241204003500 +0000">
-		<title>House of Lords - 03/12/2024 Part 1</title>
-		<desc>Business in the House of Lords on Tuesday 3 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241204003500 +0000" stop="20241204013500 +0000">
-		<title>House of Lords - 03/12/2024 Part 2</title>
-		<desc>Business in the House of Lords on Tuesday 3 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241204013500 +0000" stop="20241204023500 +0000">
-		<title>House of Lords - 03/12/2024 Part 3</title>
-		<desc>Business in the House of Lords on Tuesday 3 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20241204023500 +0000" stop="20241204060000 +0000">
-		<title>House of Lords - 03/12/2024 Part 4</title>
+	<programme channel="bbcparliament" start="20241203233500 +0000" stop="20241204060000 +0000">
+		<title>House of Lords - 03/12/2024</title>
 		<desc>Business in the House of Lords on Tuesday 3 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -7642,7 +7577,7 @@ handkerchief game.</desc>
 	</programme>
 	<programme channel="s4c" start="20241129190000 +0000" stop="20241129193000 +0000">
 		<title>Heno - Fri, 29 Nov 2024</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mi fydd y Welsh Whisperer yn dod â chân Nadolig i ni, a byddwn yn sgwrsio gyda'r Brodyr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241129193000 +0000" stop="20241129200000 +0000">
@@ -8147,7 +8082,7 @@ handkerchief game.</desc>
 	</programme>
 	<programme channel="s4c" start="20241202123000 +0000" stop="20241202130000 +0000">
 		<title>Heno - Fri, 29 Nov 2024</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mi fydd y Welsh Whisperer yn dod â chân Nadolig i ni, a byddwn yn sgwrsio gyda'r Brodyr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241202130000 +0000" stop="20241202140000 +0000">
