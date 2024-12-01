@@ -714,6 +714,11 @@
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
 	</programme>
+	<programme channel="bbctwo" start="20241201045500 +0000" stop="20241201063500 +0000">
+		<title>This is BBC Two - This is BBC Two</title>
+		<desc>Highlights of programmes on BBC Two.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
+	</programme>
 	<programme channel="bbctwo" start="20241201063500 +0000" stop="20241201073500 +0000">
 		<title>Countryfile - Northumberland Coast in Autumn</title>
 		<desc>Hamza and Charlotte meet the people – and a dog – helping to protect precious seabirds.</desc>
