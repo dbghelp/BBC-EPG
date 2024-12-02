@@ -547,7 +547,7 @@
 	<programme channel="bbcone" start="20241205210000 +0000" stop="20241205220000 +0000">
 		<title>Why...? - Why Bridges Collapse: The Baltimore Disaster</title>
 		<desc>How did a cargo ship lose control and destroy the Francis Scott Key Bridge in Baltimore?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k5l94r.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k8clxn.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241205220000 +0000" stop="20241205223000 +0000">
 		<title>BBC News at Ten - 05/12/2024</title>
@@ -1346,7 +1346,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20241202195800 +0000" stop="20241202200000 +0000">
 		<title>The Catch Up - 02/12/2024</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Aisling Taylor.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20241202200000 +0000" stop="20241202210000 +0000">
@@ -6805,9 +6805,29 @@ Things.</desc>
 		<desc>Coverage of questions to Angela Rayner on Monday 2 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241202153000 +0000" stop="20241202223000 +0000">
+	<programme channel="bbcparliament" start="20241202153000 +0000" stop="20241202161500 +0000">
+		<title>House of Commons - Chagos Islands Urgent Question</title>
+		<desc>Urgent question tabled by shadow defence secretary James Cartlidge, on Monday 2 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241202161500 +0000" stop="20241202170000 +0000">
+		<title>House of Commons - Violence in Bangladesh Urgent Question</title>
+		<desc>Coverage of the urgent question tabled by Labour MP Barry Gardiner, on Monday 2 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241202170000 +0000" stop="20241202180000 +0000">
+		<title>House of Commons - Net Migration and Border Security Statement</title>
+		<desc>Coverage of the statement by home secretary Yvette Cooper, on Monday 2 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241202180000 +0000" stop="20241202190000 +0000">
+		<title>House of Commons - North West Syria Statement</title>
+		<desc>Statement by Foreign Office minister Hamish Falconer, on Monday 2 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241202190000 +0000" stop="20241202223000 +0000">
 		<title>House of Commons - 02/12/2024</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 2 December.</desc>
+		<desc>Coverage of the day's proceedings in the House of Commons, on Monday 2 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241202223000 +0000" stop="20241202231500 +0000">
