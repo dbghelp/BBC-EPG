@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20241204093000 +0000" stop="20241204104500 +0000">
 		<title>Morning Live - Series 6: 04/12/2024</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jybqmg.jpg" />
+		<desc>Vet Dr James Greenwood talks about how to keep pets safe at Christmas.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k8wjfr.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241204104500 +0000" stop="20241204111500 +0000">
 		<title>Caught Red Handed - Series 11: Episode 6</title>
@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="bbcone" start="20241204190000 +0000" stop="20241204193000 +0000">
 		<title>The One Show - 04/12/2024</title>
-		<desc>Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+		<desc>Jamie Oliver and Lennie James join Alex Jones and Lauren Laverne on the sofa. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jn9yj0.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241204193000 +0000" stop="20241204200000 +0000">
@@ -286,7 +286,7 @@
 	</programme>
 	<programme channel="bbcone" start="20241205224000 +0000" stop="20241205234000 +0000">
 		<title>Question Time - 2024: 05/12/2024</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Lincoln, in the east Midlands.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241205234000 +0000" stop="20241206001000 +0000">
@@ -1286,7 +1286,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20241209010000 +0000" stop="20241209020000 +0000">
 		<title>Question Time - 2024: 05/12/2024</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Lincoln, in the east Midlands.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241209020000 +0000" stop="20241209024500 +0000">
@@ -3199,7 +3199,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jwcgq2.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20241208172500 +0000" stop="20241208185500 +0000">
-		<title>The Famous Five - Movies: 1. The Curse of Kirrin Island</title>
+		<title>The Famous Five - Films: 1. The Curse of Kirrin Island</title>
 		<desc>George Barnard and her cousins embark on a treasure hunt that could prove deadly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h08wkr.jpg" />
 	</programme>
@@ -5513,7 +5513,7 @@
 	<programme channel="bbcnews" start="20241205003000 +0000" stop="20241205010000 +0000">
 		<title>HARDtalk - Arab Barghouthi - Palestinian Activist</title>
 		<desc>Stephen Sackur speaks to Arab Barghouthi, whose father Marwan is in an Israeli jail.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k8wkz1.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241205010000 +0000" stop="20241205013000 +0000">
 		<title>BBC News - 05/12/2024</title>
@@ -6500,7 +6500,12 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 4 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241204123500 +0000" stop="20241204193000 +0000">
+	<programme channel="bbcparliament" start="20241204123500 +0000" stop="20241204133500 +0000">
+		<title>House of Commons - Northern Ireland Legacy Statement</title>
+		<desc>A statement by Northern Ireland secretary Hilary Benn, on Wednesday 4 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241204133500 +0000" stop="20241204193000 +0000">
 		<title>House of Commons - 04/12/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 4 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
