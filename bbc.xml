@@ -160,8 +160,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241205234000 +0000" stop="20241206001000 +0000">
-		<title>Newscast - Series 5: 05/12/2024</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
+		<title>Newscast - Series 5: 22. Milestones, Michel Barnier and Immigration</title>
+		<desc>Adam Fleming and Chris Mason are joined by Tim Shipman.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241206001000 +0000" stop="20241206001500 +0000">
@@ -800,8 +800,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05lpzj3.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241205223000 +0000" stop="20241205230000 +0000">
-		<title>Newsnight - 05/12/2024</title>
-		<desc>The day's important national and international news stories. With Adam Fleming.</desc>
+		<title>Newsnight - Starmer vs. Whitehall?</title>
+		<desc>The prime minister sets out his Plan for Change. With Adam Fleming.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241205230000 +0000" stop="20241205230500 +0000">
@@ -1326,7 +1326,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20241205195800 +0000" stop="20241205200000 +0000">
 		<title>The Catch Up - 05/12/2024</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Julia Belle.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20241205200000 +0000" stop="20241205203000 +0000">
@@ -5533,8 +5533,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241205223000 +0000" stop="20241205230000 +0000">
-		<title>Newsnight - 05/12/2024</title>
-		<desc>The day's important national and international news stories. With Adam Fleming.</desc>
+		<title>Newsnight - Starmer vs. Whitehall?</title>
+		<desc>The prime minister sets out his Plan for Change. With Adam Fleming.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241205230000 +0000" stop="20241206000000 +0000">
@@ -6523,19 +6523,24 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k94yq9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241205103000 +0000" stop="20241205113000 +0000">
-		<title>House of Commons - Commons Business Questions</title>
+		<title>House of Commons - Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 5 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k94yxm.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241205113000 +0000" stop="20241205123000 +0000">
+	<programme channel="bbcparliament" start="20241205113000 +0000" stop="20241205121000 +0000">
 		<title>House of Commons - Milestones for a Mission-led Government Statement</title>
 		<desc>Statement by the chancellor of the Duchy of Lancaster Pat McFadden on Thursday 5 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k951lq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241205123000 +0000" stop="20241205173000 +0000">
+	<programme channel="bbcparliament" start="20241205121000 +0000" stop="20241205171500 +0000">
 		<title>House of Commons - 05/12/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 5 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241205171500 +0000" stop="20241205173000 +0000">
+		<title>Ten Minute Rule Bill - Public Body Ethnicity Data</title>
+		<desc>Debate on the Public Body Ethnicity Data (Inclusion of Jewish and Sikh Categories) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241205173000 +0000" stop="20241205181500 +0000">
 		<title>Scottish First Minister's Questions - 05/12/2024</title>
@@ -6547,37 +6552,67 @@
 		<desc>Questions in the House of Lords to government ministers on Thursday 5 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241205190000 +0000" stop="20241205213000 +0000">
+	<programme channel="bbcparliament" start="20241205190000 +0000" stop="20241205191000 +0000">
+		<title>House of Lords - Chagos Islands Statement</title>
+		<desc>Impact of the government's Chagos Islands negotiations on the UK-US defence relationship.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241205191000 +0000" stop="20241205192500 +0000">
+		<title>House of Lords - Ukraine Statement</title>
+		<desc>Debate on a ministerial statement on the current situation in Russia's war on Ukraine.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241205192500 +0000" stop="20241205201000 +0000">
+		<title>House of Lords - Northern Ireland Legacy Statement</title>
+		<desc>Debate on the Northern Ireland Troubles (Legacy and Reconciliation) Act 2023.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241205201000 +0000" stop="20241205204000 +0000">
+		<title>House of Lords - Tackling Stalking Statement</title>
+		<desc>Debate in the Lords on a ministerial statement on new measures to tackle stalking.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241205204000 +0000" stop="20241205233500 +0000">
 		<title>House of Lords - Housing Supply and Homelessness</title>
 		<desc>The debate on increasing the housing supply and tackling homelessness.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241205213000 +0000" stop="20241205223000 +0000">
+	<programme channel="bbcparliament" start="20241205233500 +0000" stop="20241206003000 +0000">
 		<title>House of Lords - Physician Associates</title>
 		<desc>The debate on the review of physician associate and anaesthetist associate roles.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241205223000 +0000" stop="20241206021500 +0000">
+	<programme channel="bbcparliament" start="20241206003000 +0000" stop="20241206021000 +0000">
 		<title>House of Lords - Retail Crime</title>
 		<desc>The debate on retail crime and its effects on workers, the community and local economies.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241206021500 +0000" stop="20241206031500 +0000">
+	<programme channel="bbcparliament" start="20241206021000 +0000" stop="20241206031000 +0000">
 		<title>House of Commons - Cabinet Office Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Thursday 5 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k94yq9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241206031500 +0000" stop="20241206041500 +0000">
-		<title>House of Commons - Commons Business Questions</title>
+	<programme channel="bbcparliament" start="20241206031000 +0000" stop="20241206035000 +0000">
+		<title>House of Commons - Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 5 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k94yxm.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241206041500 +0000" stop="20241206063000 +0000">
-		<title>House of Commons - 05/12/2024</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 5 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20241206035000 +0000" stop="20241206045000 +0000">
+		<title>House of Commons - Milestones for a Mission-led Government Statement</title>
+		<desc>Statement by the chancellor of the Duchy of Lancaster Pat McFadden on Thursday 5 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k951lq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241206063000 +0000" stop="20241206093000 +0000">
+	<programme channel="bbcparliament" start="20241206045000 +0000" stop="20241206053500 +0000">
+		<title>Lords Questions - 05/12/2024</title>
+		<desc>Questions in the House of Lords to government ministers on Thursday 5 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241206053500 +0000" stop="20241206061000 +0000">
+		<title>House of Lords - Sudan Statement</title>
+		<desc>Debate on a statement on UK leadership on Sudan, with Lord Collins of Highbury.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k8yf2h.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241206061000 +0000" stop="20241206093000 +0000">
 		<title>Westminster Hall - 02/12/2024</title>
 		<desc>House of Commons proceedings in Westminster Hall from Monday 2 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
