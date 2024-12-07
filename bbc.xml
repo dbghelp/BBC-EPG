@@ -5121,7 +5121,7 @@
 	<programme channel="bbcscotland" start="20241207191500 +0000" stop="20241207203000 +0000">
 		<title>Sportscene - Premiership Highlights 2024/25: 07/12/2024</title>
 		<desc>Highlights from the day's fixtures in the Scottish Premiership.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfvl6m.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k9m0qf.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20241207203000 +0000" stop="20241207213000 +0000">
 		<title>Highland Cops - Series 2: Episode 6</title>
@@ -5479,9 +5479,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241207183000 +0000" stop="20241207190000 +0000">
-		<title>Sportsday - 07/12/2024</title>
-		<desc>A round-up of the day's sporting action.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
+		<title>BBC News - 07/12/2024</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241207190000 +0000" stop="20241207193000 +0000">
 		<title>BBC News - 07/12/2024</title>
@@ -5489,9 +5489,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241207193000 +0000" stop="20241207200000 +0000">
-		<title>Sportsday - 07/12/2024</title>
-		<desc>A round-up of the day's sporting action.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
+		<title>BBC News - 07/12/2024</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241207200000 +0000" stop="20241207203000 +0000">
 		<title>BBC News - 07/12/2024</title>
@@ -5499,9 +5499,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241207203000 +0000" stop="20241207210000 +0000">
-		<title>Newscast - 07/12/2024</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
+		<title>BBC News - 07/12/2024</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241207210000 +0000" stop="20241207220000 +0000">
 		<title>BBC News - 07/12/2024</title>
@@ -7578,22 +7578,27 @@
 		<desc>Newyddion a chwaraeon y penwythnos. Weekend news and sport.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d02wnm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241207183000 +0000" stop="20241207213000 +0000">
+	<programme channel="s4c" start="20241207183000 +0000" stop="20241207204000 +0000">
 		<title>Seiclo - Cyfres 2024: Seiclo Trac: Cynghrair y Pencampwyr</title>
 		<desc>Darllediad byw o gystadleuaeth Cynghrair y Pencampwyr, sy'n cymryd rhan dros Ewrop. Liv...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k5jh30.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241207213000 +0000" stop="20241207231500 +0000">
+	<programme channel="s4c" start="20241207204000 +0000" stop="20241207213500 +0000">
+		<title>Geraint Thomas - Vive le Tour - Geraint Thomas: Vive le Tour!</title>
+		<desc>Yn y rhaglen hon bydd Geraint Thomas yn edrych nôl ar y ras a'i flwyddyn fythgofiadwy, ...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06w2pn2.jpg" />
+	</programme>
+	<programme channel="s4c" start="20241207213500 +0000" stop="20241207232000 +0000">
 		<title>Clwb Rygbi - Cwpan Her Ewrop: Clwb Rygbi: Bayonne v Scarlets</title>
 		<desc>Pigion gêm Cwpan Her Rygbi Ewrop Bayonne v Scarlets a chwaraewyd yn gynharach ar Stade ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k9b5ws.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241207231500 +0000" stop="20241208002000 +0000">
+	<programme channel="s4c" start="20241207232000 +0000" stop="20241208002500 +0000">
 		<title>Marw gyda Kris - Mecsico</title>
 		<desc>Kris Hughes sy'n teithio'r byd i weld sut ma eraill yn delio â marwolaeth. Oes ffyrdd g...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jvrq81.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241208002000 +0000" stop="20241208060000 +0000">
+	<programme channel="s4c" start="20241208002500 +0000" stop="20241208060000 +0000">
 		<title>Watch Live</title>
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
