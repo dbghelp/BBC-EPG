@@ -132,7 +132,7 @@
 	<programme channel="bbcone" start="20241209200000 +0000" stop="20241209203000 +0000">
 		<title>Panorama - The Water Company’s Murky Business</title>
 		<desc>Is Severn Trent's record really as good as it appears? Reporter Joe Crowley investigates.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj6nwx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k9vlqn.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241209203000 +0000" stop="20241209210000 +0000">
 		<title>Miranda - Series 2: 6. The Perfect Christmas</title>
@@ -1292,7 +1292,7 @@
 	<programme channel="bbctwo" start="20241214015000 +0000" stop="20241214022000 +0000">
 		<title>Panorama - The Water Company’s Murky Business</title>
 		<desc>Is Severn Trent's record really as good as it appears? Reporter Joe Crowley investigates.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj6nwx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k9vlqn.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241214022000 +0000" stop="20241214064000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
@@ -1316,7 +1316,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20241209195800 +0000" stop="20241209200000 +0000">
 		<title>The Catch Up - 09/12/2024</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Betty Douglas.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20241209200000 +0000" stop="20241209203000 +0000">
@@ -5721,7 +5721,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20241209183000 +0000" stop="20241209190000 +0000">
 		<title>Sportsday - 09/12/2024</title>
-		<desc>A round-up of the day's sporting action.</desc>
+		<desc>Ex-player fears over heading footballs. And Man Utd lose sporting director.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241209190000 +0000" stop="20241209193000 +0000">
@@ -6814,7 +6814,17 @@
 		<desc>Coverage of questions to Bridget Phillipson on Monday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241209153000 +0000" stop="20241209223000 +0000">
+	<programme channel="bbcparliament" start="20241209153000 +0000" stop="20241209161500 +0000">
+		<title>House of Commons - Planning Committees Reform</title>
+		<desc>Debate in the Commons on an urgent question on the future of planning committees.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241209161500 +0000" stop="20241209171500 +0000">
+		<title>House of Commons - Syria Statement</title>
+		<desc>Debate on a ministerial statement on developments in Syria, with David Lammy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241209171500 +0000" stop="20241209223000 +0000">
 		<title>House of Commons - 09/12/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7791,7 +7801,7 @@
 	</programme>
 	<programme channel="s4c" start="20241209140500 +0000" stop="20241209150000 +0000">
 		<title>Prynhawn Da - Mon, 09 Dec 2024</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mae Catrin yn y gegin yn coginio Pwdin Sticky Toffee ac mi fydd Megan Samuel yn ymuno â...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241209150000 +0000" stop="20241209150500 +0000">
@@ -7861,7 +7871,7 @@
 	</programme>
 	<programme channel="s4c" start="20241209190000 +0000" stop="20241209193000 +0000">
 		<title>Heno - Mon, 09 Dec 2024</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mi fyddwn ni'n fyw o wasanaeth garolau arbennig iawn ac mi fydd Sioned Terry yn ymuno a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241209193000 +0000" stop="20241209200000 +0000">
@@ -7872,7 +7882,7 @@
 	<programme channel="s4c" start="20241209200000 +0000" stop="20241209202500 +0000">
 		<title>Sgwrs Dan y Lloer - Sgwrs Dan y Lloer: Jenny Ogwen</title>
 		<desc>Y tro hwn: Sgwrsio dan olau'r lloer gyda'r fytholwyrdd, Jenny Ogwen. This time we chat ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09z408p.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k9xf5s.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241209202500 +0000" stop="20241209205500 +0000">
 		<title>Bwrdd i Dri - Cyfres 3: Newyddion a Tywydd</title>
@@ -8076,7 +8086,7 @@
 	</programme>
 	<programme channel="s4c" start="20241210123000 +0000" stop="20241210130000 +0000">
 		<title>Heno - Mon, 09 Dec 2024</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mi fyddwn ni'n fyw o wasanaeth garolau arbennig iawn ac mi fydd Sioned Terry yn ymuno a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241210130000 +0000" stop="20241210133000 +0000">
