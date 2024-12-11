@@ -1296,7 +1296,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20241211204300 +0000" stop="20241211204500 +0000">
 		<title>The Catch Up - 11/12/2024</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Lucy Elsie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20241211204500 +0000" stop="20241211211500 +0000">
@@ -5335,21 +5335,16 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241211130000 +0000" stop="20241211140000 +0000">
-		<title>BBC News at One - 11/12/2024</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+		<title>BBC News - 11/12/2024</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241211140000 +0000" stop="20241211143000 +0000">
 		<title>BBC News Now - 11/12/2024</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20241211143000 +0000" stop="20241211144500 +0000">
-		<title>Business Today - NYSE Opening Bell - 11/12/2024</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20241211144500 +0000" stop="20241211150000 +0000">
+	<programme channel="bbcnews" start="20241211143000 +0000" stop="20241211150000 +0000">
 		<title>BBC News Now - 11/12/2024</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
@@ -6116,7 +6111,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20241214233000 +0000" stop="20241215000000 +0000">
 		<title>Talking Business - 13/12/2024</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>How the drug industry has been shaken up by the success of drugs like Ozempic and Wegovy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241215000000 +0000" stop="20241215003000 +0000">
@@ -6176,7 +6171,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20241215053000 +0000" stop="20241215060000 +0000">
 		<title>Talking Business - 13/12/2024</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>How the drug industry has been shaken up by the success of drugs like Ozempic and Wegovy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241215060000 +0000" stop="20241215090000 +0000">
@@ -6427,14 +6422,14 @@
 	<programme channel="bbcparliament" start="20241211120000 +0000" stop="20241211123500 +0000">
 		<title>Prime Minister's Questions - 11/12/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbb6d7.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241211123500 +0000" stop="20241211133500 +0000">
+	<programme channel="bbcparliament" start="20241211123500 +0000" stop="20241211133000 +0000">
 		<title>House of Commons - Border Security Statement</title>
 		<desc>Statement on international collaboration on border security, on Wednesday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241211133500 +0000" stop="20241211143500 +0000">
+	<programme channel="bbcparliament" start="20241211133000 +0000" stop="20241211143500 +0000">
 		<title>House of Commons - Puberty Suppressing Hormones Statement</title>
 		<desc>Statement in the Commons on puberty suppressing hormones, on Wednesday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6452,7 +6447,7 @@
 	<programme channel="bbcparliament" start="20241211220000 +0000" stop="20241211223500 +0000">
 		<title>Prime Minister's Questions - 11/12/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbb6d7.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241211223500 +0000" stop="20241211232000 +0000">
 		<title>Lords Questions - 11/12/2024</title>
@@ -6472,7 +6467,7 @@
 	<programme channel="bbcparliament" start="20241212085500 +0000" stop="20241212093000 +0000">
 		<title>Prime Minister's Questions - 11/12/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbb6d7.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241212093000 +0000" stop="20241212103000 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
@@ -6572,7 +6567,7 @@
 	<programme channel="bbcparliament" start="20241214110000 +0000" stop="20241214113500 +0000">
 		<title>Prime Minister's Questions - 11/12/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbb6d7.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241214113500 +0000" stop="20241214122000 +0000">
 		<title>Scottish First Minister's Questions - 12/12/2024</title>
@@ -6627,7 +6622,7 @@
 	<programme channel="bbcparliament" start="20241215002000 +0000" stop="20241215005500 +0000">
 		<title>Prime Minister's Questions - 11/12/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbb6d7.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241215005500 +0000" stop="20241215014000 +0000">
 		<title>Scottish First Minister's Questions - 12/12/2024</title>
@@ -6692,7 +6687,7 @@
 	<programme channel="bbcparliament" start="20241215150500 +0000" stop="20241215154000 +0000">
 		<title>Prime Minister's Questions - 11/12/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbb6d7.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241215154000 +0000" stop="20241215162500 +0000">
 		<title>Scottish First Minister's Questions - 12/12/2024</title>
@@ -6752,7 +6747,7 @@
 	<programme channel="bbcparliament" start="20241216052500 +0000" stop="20241216060000 +0000">
 		<title>Prime Minister's Questions - 11/12/2024</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbb6d7.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20241211060000 +0000" stop="20241211170000 +0000">
 		<title>Alba Today - Alba Today</title>
@@ -7496,7 +7491,7 @@
 	</programme>
 	<programme channel="s4c" start="20241211140500 +0000" stop="20241211150000 +0000">
 		<title>Prynhawn Da - Wed, 11 Dec 2024</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mae Angharad yn y gornel steil gydag anrhegion ac addurniadau cartre, ac ma Lowri'r Fet...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241211150000 +0000" stop="20241211150500 +0000">
@@ -7566,7 +7561,7 @@
 	</programme>
 	<programme channel="s4c" start="20241211190000 +0000" stop="20241211193000 +0000">
 		<title>Heno - Wed, 11 Dec 2024</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae rhaglen Jonathan yn dathlu'r 20 ac mi fydd Margred Pryce yn westai ar y soffa. The ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241211193000 +0000" stop="20241211200000 +0000">
@@ -7771,7 +7766,7 @@
 	</programme>
 	<programme channel="s4c" start="20241212123000 +0000" stop="20241212130000 +0000">
 		<title>Heno - Wed, 11 Dec 2024</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae rhaglen Jonathan yn dathlu'r 20 ac mi fydd Margred Pryce yn westai ar y soffa. The ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241212130000 +0000" stop="20241212133000 +0000">
