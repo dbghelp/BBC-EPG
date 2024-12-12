@@ -155,8 +155,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241212234000 +0000" stop="20241213001000 +0000">
-		<title>Newscast - Series 5: 12/12/2024</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
+		<title>Newscast - Series 5: 23. Sandwiches, Planning and the EU</title>
+		<desc>Newscast discusses sandwiches, planning reforms and the chancellor's trip to Brussels.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241213001000 +0000" stop="20241213001500 +0000">
@@ -780,8 +780,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05lpzlj.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241212223000 +0000" stop="20241212230000 +0000">
-		<title>Newsnight - 12/12/2024</title>
-		<desc>The day's important national and international news stories. With Faisal Islam.</desc>
+		<title>Newsnight - Reset on Brexit?</title>
+		<desc>Is the PM's plan for closer relations with the EU more far-reaching than we thought?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241212230000 +0000" stop="20241212230500 +0000">
@@ -5496,8 +5496,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241212223000 +0000" stop="20241212230000 +0000">
-		<title>Newsnight - 12/12/2024</title>
-		<desc>The day's important national and international news stories. With Faisal Islam.</desc>
+		<title>Newsnight - Reset on Brexit?</title>
+		<desc>Is the PM's plan for closer relations with the EU more far-reaching than we thought?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241212230000 +0000" stop="20241213000000 +0000">
@@ -6575,12 +6575,22 @@
 		<desc>Debate on a statement on new house building, on Thursday 12 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmhz9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241213053500 +0000" stop="20241213070000 +0000">
+	<programme channel="bbcparliament" start="20241213053500 +0000" stop="20241213060500 +0000">
 		<title>House of Commons - Qualifications Reform Statement</title>
 		<desc>Debate on a ministerial statement on the outcomes of the qualifications reform review.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmxxg.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241213070000 +0000" stop="20241213100000 +0000">
+	<programme channel="bbcparliament" start="20241213060500 +0000" stop="20241213063500 +0000">
+		<title>House of Commons - Prison Capacity Statement</title>
+		<desc>Debate on a statement on the 10-year prison capacity strategy and annual statement.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241213063500 +0000" stop="20241213073000 +0000">
+		<title>House of Commons - Justice Questions</title>
+		<desc>Coverage of questions to Shabana Mahmood on Tuesday 10 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb6dl9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241213073000 +0000" stop="20241213100000 +0000">
 		<title>Westminster Hall - 09/12/2024</title>
 		<desc>House of Commons proceedings in Westminster Hall from Monday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
@@ -6590,35 +6600,75 @@
 		<desc>Coverage of the day's proceedings in the House of Lords on Friday 13 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241213150000 +0000" stop="20241213180000 +0000">
-		<title>House of Lords - 13/12/2024</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
+	<programme channel="bbcparliament" start="20241213150000 +0000" stop="20241213155500 +0000">
+		<title>House of Lords - SEND Support</title>
+		<desc>The debate on support for children with special educational needs and disabilities.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241213180000 +0000" stop="20241213210000 +0000">
-		<title>Select Committees - 13/12/2024</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20241213155500 +0000" stop="20241213172500 +0000">
+		<title>House of Lords - Support for Opera</title>
+		<desc>A debate on support for opera, on Tuesday 10 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241213172500 +0000" stop="20241213180000 +0000">
+		<title>House of Lords - Net Migration Statement</title>
+		<desc>A statement on net migration and border security, on Tuesday 10 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbdm4q.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241213180000 +0000" stop="20241213192500 +0000">
+		<title>Select Committees - Summer 2024 Disorder Inquiry</title>
+		<desc>The Home Affairs select committee session on the Summer 2024 disorder, from 10 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241213192500 +0000" stop="20241213204500 +0000">
+		<title>Select Committees - UK Arms Exports to Israel Inquiry</title>
+		<desc>The Business and Trade select committee session on UK arms exports to Israel.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241213204500 +0000" stop="20241213210000 +0000">
+		<title>Ten Minute Rule Bill - Marriage (Prohibited Degrees of Relationship)</title>
+		<desc>The introduction of the Marriage (Prohibited Degrees of Relationship) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbp16p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241213210000 +0000" stop="20241213214500 +0000">
 		<title>Scottish First Minister's Questions - 12/12/2024</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 12 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241213214500 +0000" stop="20241214015000 +0000">
-		<title>Scottish Parliament - 13/12/2024</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20241213214500 +0000" stop="20241214001000 +0000">
+		<title>Scottish Parliament - Budget Debate</title>
+		<desc>The debate in the Scottish Parliament on the Scottish Budget, from Wednesday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241214015000 +0000" stop="20241214024000 +0000">
+	<programme channel="bbcparliament" start="20241214001000 +0000" stop="20241214003000 +0000">
+		<title>Scottish Parliament - Economy Questions</title>
+		<desc>Questions to the Deputy First Minister Kate Forbes, on Wednesday 11 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241214003000 +0000" stop="20241214005500 +0000">
+		<title>Scottish Parliament - Finance and Local Government Questions</title>
+		<desc>Questions to the cabinet secretary for finance and local government, Shona Robison.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmlw1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241214005500 +0000" stop="20241214030000 +0000">
+		<title>Scottish Parliament - Remote and Rural Healthcare</title>
+		<desc>Debate on remote and rural healthcare, from Thursday 12 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241214030000 +0000" stop="20241214032000 +0000">
+		<title>Scottish Parliament - General Questions</title>
+		<desc>General questions to ministers in the Scottish government, from Thursday 12 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241214032000 +0000" stop="20241214042000 +0000">
 		<title>Welsh First Minister's Questions - 10/12/2024</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 10 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241214024000 +0000" stop="20241214060000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 14/12/2024</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	<programme channel="bbcparliament" start="20241214042000 +0000" stop="20241214060000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Draft Budget 2025-26</title>
+		<desc>A statement on the Welsh government's draft budget for 2025-26, on Tuesday 10 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbdjcv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241214060000 +0000" stop="20241214110000 +0000">
 		<title>Westminster Hall - 10/12/2024</title>
@@ -8647,7 +8697,7 @@
 	</programme>
 	<programme channel="s4c" start="20241216223000 +0000" stop="20241216230000 +0000">
 		<title>Sgorio - Cyfres 2024: Pennod 19</title>
-		<desc>Description Coming Soon...</desc>
+		<desc>Cyfres llawn cyffro pêl-droed y pyramid Cymreig. JD Welsh Cup 4th round highlights: Con...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jg3gcd.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241216230000 +0000" stop="20241216233500 +0000">
