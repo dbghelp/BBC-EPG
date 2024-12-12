@@ -1306,7 +1306,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20241212195800 +0000" stop="20241212200000 +0000">
 		<title>The Catch Up - 12/12/2024</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Lucy Elsie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20241212200000 +0000" stop="20241212203000 +0000">
@@ -3959,9 +3959,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07td06r.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20241213185000 +0000" stop="20241213185800 +0000">
-		<title>CBeebies Bedtime Stories - K-O: Olly Murs - The Christmas Selfie Contest</title>
-		<desc>Olly Murs tells a delightful story about an elf who wants to take the perfect selfie.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06tv1x6.jpg" />
+		<title>CBeebies Bedtime Stories - New and Trending: Shirley Ballas - Big Dance</title>
+		<desc>Join Shirley Ballas on the CBeebies Bedtime Story dance floor.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20241213185800 +0000" stop="20241214053000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -5776,8 +5776,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241214033000 +0000" stop="20241214040000 +0000">
-		<title>The Media Show - 14/12/2024</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - Reporting Syria</title>
+		<desc>Syria enters a new era for journalists after the fall of the Assad regime.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241214040000 +0000" stop="20241214043000 +0000">
@@ -6485,7 +6485,22 @@
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 12 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241212113000 +0000" stop="20241212173000 +0000">
+	<programme channel="bbcparliament" start="20241212113000 +0000" stop="20241212125000 +0000">
+		<title>House of Commons - House Building Statement</title>
+		<desc>Debate on a statement on new house building, on Thursday 12 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241212125000 +0000" stop="20241212132000 +0000">
+		<title>House of Commons - Qualifications Reform Statement</title>
+		<desc>Debate on a ministerial statement on the outcomes of the qualifications reform review.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241212132000 +0000" stop="20241212135000 +0000">
+		<title>House of Commons - Prison Capacity Statement</title>
+		<desc>Debate on a statement on the 10-year prison capacity strategy and annual statement.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241212135000 +0000" stop="20241212173000 +0000">
 		<title>House of Commons - 12/12/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 12 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -8125,12 +8140,12 @@
 		<desc>Gêm fyw Cwpan Her Ewropeaidd Caerdydd yn erbyn y Cheetahs. Parc yr Arfau. C/G 20.00. Li...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k9b5xf.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241214220000 +0000" stop="20241214234500 +0000">
+	<programme channel="s4c" start="20241214220000 +0000" stop="20241214235000 +0000">
 		<title>Clwb Rygbi - Cwpan Her Ewrop: Clwb Rygbi: Montpellier v Gweilch</title>
 		<desc>Cyfle i weld gêm Cwpan Her Ewropeaidd Montpellier v Gweilch, a chwaraewyd yn y GGL Stad...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k9b5y4.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241214234500 +0000" stop="20241215060000 +0000">
+	<programme channel="s4c" start="20241214235000 +0000" stop="20241215060000 +0000">
 		<title>Watch Live</title>
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
@@ -8140,12 +8155,12 @@
 		<desc>Heddiw mae'r Cywion Bach yn dysgu'r gair 'esgidiau' ac mae Bop yn cael hwyl wrth ddawns...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdb1cx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241215061000 +0000" stop="20241215062000 +0000">
+	<programme channel="s4c" start="20241215061000 +0000" stop="20241215062500 +0000">
 		<title>Pentre Papur Pop - Trafferthion Trysor</title>
 		<desc>Ar yr antur popwych heddiw mae Help Llaw wedi trefnu helfa drysor! All Capten Twm arwai...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241215062000 +0000" stop="20241215063500 +0000">
+	<programme channel="s4c" start="20241215062500 +0000" stop="20241215063500 +0000">
 		<title>Dreigiau Cadi - Cyfres 2: Yr Artist</title>
 		<desc>Mae peintiwr tirwedd adnabyddus wedi dewis y dyffryn a'r rheilffordd fel pwnc ar gyfer ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd7hxx.jpg" />
@@ -8160,22 +8175,22 @@
 		<desc>Ameer Davies-Rana sy'n darllen stori hyfryd am antur Triog efo pengwin a glôb eira arbe...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gwwplh.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241215070000 +0000" stop="20241215071000 +0000">
+	<programme channel="s4c" start="20241215070000 +0000" stop="20241215071500 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 1: Ocido yn ei Blodau</title>
 		<desc>Ar ôl i gawod drom ddinistrio ei gastell tywod, mae Blero'n ystyried pam bod rhaid iddi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2nn2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241215071000 +0000" stop="20241215072000 +0000">
+	<programme channel="s4c" start="20241215071500 +0000" stop="20241215072000 +0000">
 		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 50</title>
 		<desc>Awn i'r goedwig law i gwrdd â'r Broga Dart Gwenwynig ac i waelod y mor i gwrdd â'r Chwy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241215072000 +0000" stop="20241215073000 +0000">
+	<programme channel="s4c" start="20241215072000 +0000" stop="20241215073500 +0000">
 		<title>Octonots - Cyfres 2016: a'r Crwbanod Môr Bach</title>
 		<desc>Wrth i grwbanod môr newydd-anedig anelu am y cefnfor, mae'n rhaid i'r Octonots eu hamdd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04n9vrz.jpg" />
 	</programme>
-	<programme channel="s4c" start="20241215073000 +0000" stop="20241215075000 +0000">
+	<programme channel="s4c" start="20241215073500 +0000" stop="20241215075000 +0000">
 		<title>Ahoi! - Cyfres 2018: Ysgol y Ffwrnes, Llanelli</title>
 		<desc>Môr-ladron o Ysgol y Ffwrnes, Llanelli sy'n ymuno â Ben Dant a Cadi i herio Capten Cnec...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05s641v.jpg" />
@@ -8312,7 +8327,7 @@
 	</programme>
 	<programme channel="s4c" start="20241216060000 +0000" stop="20241216061000 +0000">
 		<title>Cywion Bach - Cywion Bach: Mwnci</title>
-		<desc>Description Coming Soon...</desc>
+		<desc>Mae'r Cywion Bach wrth eu bodd gyda gair heddiw, 'mwnci'. Dere i chwarae, chwerthin a d...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdb1cx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241216061000 +0000" stop="20241216062000 +0000">
