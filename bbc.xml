@@ -1039,32 +1039,32 @@
 		<desc>The story of how Wham! turned one song into a cultural phenomenon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k9fdp4.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241214213500 +0000" stop="20241214223500 +0000">
+	<programme channel="bbctwo" start="20241214213500 +0000" stop="20241214224500 +0000">
 		<title>Wham! at the BBC</title>
 		<desc>Andrew Ridgeley, Pepsi DeMacque and Shirlie Kemp present Wham!’s biggest performances.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k79hwh.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241214223500 +0000" stop="20241215000500 +0000">
+	<programme channel="bbctwo" start="20241214224500 +0000" stop="20241215001500 +0000">
 		<title>George Michael at the BBC</title>
 		<desc>A collection of George Michael's best-loved and most acclaimed solo performances.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fv458z.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241215000500 +0000" stop="20241215014500 +0000">
+	<programme channel="bbctwo" start="20241215001500 +0000" stop="20241215015500 +0000">
 		<title>Last Christmas</title>
 		<desc>When Kate meets Tom, her life takes an upward turn. But is it too good to be true?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b8jysr.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241215014500 +0000" stop="20241215024500 +0000">
+	<programme channel="bbctwo" start="20241215015500 +0000" stop="20241215025500 +0000">
 		<title>Wolf Hall - The Mirror and the Light: 5. Mirror</title>
 		<desc>Cromwell’s marital diplomacy brings the Rhenish princess Anne of Cleves to Henry’s court.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k89mhn.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241215024500 +0000" stop="20241215025000 +0000">
+	<programme channel="bbctwo" start="20241215025500 +0000" stop="20241215030500 +0000">
 		<title>Lifeline - Anna Freud</title>
 		<desc>Dr Alex George presents an appeal on behalf of Anna Freud.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k8b3jl.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20241215025000 +0000" stop="20241215065000 +0000">
+	<programme channel="bbctwo" start="20241215030500 +0000" stop="20241215065000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -5511,9 +5511,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241213003000 +0000" stop="20241213010000 +0000">
-		<title>HARDtalk - Ian Goldin – Professor of Globalisation at Oxford University</title>
-		<desc>Stephen Sackur speaks to Ian Goldin, who wants to reframe the debate about migration.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jgjdll.jpg" />
+		<title>HARDtalk - Farah Nabulsi - Film-maker</title>
+		<desc>British-Palestinian film-maker Farah Nabulsi talks about her latest film, The Teacher.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k47qnq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241213010000 +0000" stop="20241213013000 +0000">
 		<title>BBC News - 13/12/2024</title>
@@ -6463,7 +6463,7 @@
 	<programme channel="bbcparliament" start="20241212080000 +0000" stop="20241212082500 +0000">
 		<title>Scottish Parliament - Finance and Local Government Questions</title>
 		<desc>Questions to the cabinet secretary for finance and local government, Shona Robison.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmlw1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241212082500 +0000" stop="20241212085500 +0000">
 		<title>House of Commons - Wales Office Questions</title>
@@ -6478,32 +6478,42 @@
 	<programme channel="bbcparliament" start="20241212093000 +0000" stop="20241212103000 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to Jonathan Reynolds on Thursday 12 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmw85.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241212103000 +0000" stop="20241212113000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 12 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmx3w.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241212113000 +0000" stop="20241212125000 +0000">
 		<title>House of Commons - House Building Statement</title>
 		<desc>Debate on a statement on new house building, on Thursday 12 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmhz9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241212125000 +0000" stop="20241212132000 +0000">
 		<title>House of Commons - Qualifications Reform Statement</title>
 		<desc>Debate on a ministerial statement on the outcomes of the qualifications reform review.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmxxg.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241212132000 +0000" stop="20241212135000 +0000">
 		<title>House of Commons - Prison Capacity Statement</title>
 		<desc>Debate on a statement on the 10-year prison capacity strategy and annual statement.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241212135000 +0000" stop="20241212173000 +0000">
+	<programme channel="bbcparliament" start="20241212135000 +0000" stop="20241212164500 +0000">
 		<title>House of Commons - 12/12/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 12 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241212164500 +0000" stop="20241212171000 +0000">
+		<title>Scottish Parliament - General Questions</title>
+		<desc>General questions to ministers in the Scottish government, from Thursday 12 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241212171000 +0000" stop="20241212173000 +0000">
+		<title>Scottish Parliament - Economy Questions</title>
+		<desc>Questions to the Deputy First Minister Kate Forbes, on Wednesday 11 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241212173000 +0000" stop="20241212181500 +0000">
 		<title>Scottish First Minister's Questions - 12/12/2024</title>
@@ -6515,30 +6525,60 @@
 		<desc>Questions in the House of Lords to government ministers on Thursday 12 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241212190000 +0000" stop="20241212213000 +0000">
+	<programme channel="bbcparliament" start="20241212190000 +0000" stop="20241212204000 +0000">
 		<title>House of Lords - Domestic Abuse</title>
 		<desc>Business in the House of Lords on Thursday 12 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241212213000 +0000" stop="20241213021500 +0000">
-		<title>House of Lords - Small Farms and Family Businesses</title>
-		<desc>Business in the House of Lords on Thursday 12 December.</desc>
+	<programme channel="bbcparliament" start="20241212204000 +0000" stop="20241212212000 +0000">
+		<title>House of Lords - Plan for Change Statement</title>
+		<desc>The statement in the Lords by Baroness Smith on the government's plan for change.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241213021500 +0000" stop="20241213031500 +0000">
+	<programme channel="bbcparliament" start="20241212212000 +0000" stop="20241213001500 +0000">
+		<title>House of Lords - Small Farms and Family Businesses</title>
+		<desc>The debate on the impact of government proposals on the future of small farms.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241213001500 +0000" stop="20241213002500 +0000">
+		<title>House of Lords - Planning Committees Statement</title>
+		<desc>The statement on the future of planning committees, on Thursday 12 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241213002500 +0000" stop="20241213010000 +0000">
+		<title>House of Lords - Syria Statement</title>
+		<desc>The statement in the House of Lords on developments in Syria, on Thursday 12 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241213010000 +0000" stop="20241213021000 +0000">
+		<title>House of Commons - Education Questions</title>
+		<desc>Coverage of questions to Bridget Phillipson on Monday 9 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k9xy9q.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241213021000 +0000" stop="20241213022000 +0000">
+		<title>Ten Minute Rule Bill - Theft of Trade Tools</title>
+		<desc>The introduction of a Bill on the theft of trade tools, from Wednesday 11 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241213022000 +0000" stop="20241213032000 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to Jonathan Reynolds on Thursday 12 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmw85.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241213031500 +0000" stop="20241213041500 +0000">
+	<programme channel="bbcparliament" start="20241213032000 +0000" stop="20241213042000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 12 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmx3w.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241213041500 +0000" stop="20241213070000 +0000">
-		<title>House of Commons - 12/12/2024</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 12 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20241213042000 +0000" stop="20241213053500 +0000">
+		<title>House of Commons - House Building Statement</title>
+		<desc>Debate on a statement on new house building, on Thursday 12 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmhz9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241213053500 +0000" stop="20241213070000 +0000">
+		<title>House of Commons - Qualifications Reform Statement</title>
+		<desc>Debate on a ministerial statement on the outcomes of the qualifications reform review.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmxxg.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241213070000 +0000" stop="20241213100000 +0000">
 		<title>Westminster Hall - 09/12/2024</title>
@@ -6673,7 +6713,7 @@
 	<programme channel="bbcparliament" start="20241215050000 +0000" stop="20241215060000 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to Jonathan Reynolds on Thursday 12 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmw85.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241215060000 +0000" stop="20241215110000 +0000">
 		<title>Westminster Hall - 11/12/2024</title>
@@ -6738,7 +6778,7 @@
 	<programme channel="bbcparliament" start="20241216002000 +0000" stop="20241216012000 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to Jonathan Reynolds on Thursday 12 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbmw85.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241216012000 +0000" stop="20241216015000 +0000">
 		<title>House of Commons - Wales Office Questions</title>
