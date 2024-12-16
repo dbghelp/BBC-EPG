@@ -872,7 +872,7 @@
 	<programme channel="bbctwo" start="20241217210000 +0000" stop="20241217214500 +0000">
 		<title>QI XL - Series V: 9. Christmas Special</title>
 		<desc>Gyles Brandreth, Lulu and Emmanuel Sonubi join Sandi and Alan for a QI Christmas special.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gz55yt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb59rg.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241217214500 +0000" stop="20241217223000 +0000">
 		<title>Live at the Apollo - Series 19: 1. Christmas Special</title>
@@ -1251,7 +1251,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20241216192300 +0000" stop="20241216192500 +0000">
 		<title>The Catch Up - 16/12/2024</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Jack Surfleet.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20241216192500 +0000" stop="20241216210000 +0000">
@@ -5582,10 +5582,15 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20241216130000 +0000" stop="20241216140000 +0000">
+	<programme channel="bbcnews" start="20241216130000 +0000" stop="20241216135000 +0000">
 		<title>BBC News at One - 16/12/2024</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20241216135000 +0000" stop="20241216140000 +0000">
+		<title>BBC News - 16/12/2024</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241216140000 +0000" stop="20241216143000 +0000">
 		<title>BBC News Now - 16/12/2024</title>
@@ -6747,7 +6752,22 @@
 		<desc>Coverage of questions to Liz Kendall on Monday 16 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241216153000 +0000" stop="20241216223000 +0000">
+	<programme channel="bbcparliament" start="20241216153000 +0000" stop="20241216163000 +0000">
+		<title>House of Commons - China Spying Urgent Question</title>
+		<desc>Urgent question on the extent of China's United Front Work Department operations in the UK</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241216163000 +0000" stop="20241216173000 +0000">
+		<title>House of Commons - Devolution White Paper Statement</title>
+		<desc>Statement on English devolution and the publication of the white paper on local government</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241216173000 +0000" stop="20241216183000 +0000">
+		<title>House of Commons - Royal Mail Takeover Statement</title>
+		<desc>Statement by Justin Madders on the takeover of Royal Mail by EP Group.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241216183000 +0000" stop="20241216223000 +0000">
 		<title>House of Commons - 16/12/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 16 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7790,7 +7810,7 @@
 	<programme channel="s4c" start="20241216210000 +0000" stop="20241216213000 +0000">
 		<title>Cefn Gwlad - Cyfres 2024: Teulu Penlanwynt</title>
 		<desc>Ifan sy'n mynd i Gwm Gwaun i gwrdd â tri cenhedlaeth o'r un teulu yn ffermio gyda'i gil...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08jbrhg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kccpbd.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241216213000 +0000" stop="20241216223000 +0000">
 		<title>Yr Hawl i Chwarae</title>
@@ -7995,7 +8015,7 @@
 	<programme channel="s4c" start="20241217133000 +0000" stop="20241217140000 +0000">
 		<title>Cefn Gwlad - Cyfres 2024: Teulu Penlanwynt</title>
 		<desc>Ifan sy'n mynd i Gwm Gwaun i gwrdd â tri cenhedlaeth o'r un teulu yn ffermio gyda'i gil...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08jbrhg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kccpbd.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241217140000 +0000" stop="20241217140500 +0000">
 		<title>Newyddion S4C - Tue, 17 Dec 2024 14:00</title>
@@ -8958,7 +8978,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2syfm.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241220213000 +0000" stop="20241220220000 +0000">
-		<title>Curadur - Curadur: Pennod 3</title>
+		<title>Curadur - Curadur: Lleuwen</title>
 		<desc>Cyfres sy'n adlewyrchu'r sin gerddoriaeth Gymraeg amrywiol. Series reflecting the Welsh...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxvbcw.jpg" />
 	</programme>
