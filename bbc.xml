@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20241217093000 +0000" stop="20241217104500 +0000">
 		<title>Morning Live - Series 6: 17/12/2024</title>
 		<desc>Helen Skelton and Rav Wilding talk to Nick Stapleton about the top three scams of 2024</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kcm37r.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20241217104500 +0000" stop="20241217113000 +0000">
 		<title>Animal Park - Christmas 2024: Episode 2</title>
@@ -830,7 +830,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05mx202.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241218190000 +0000" stop="20241218200000 +0000">
-		<title>Grand Tours of Scotland's Lochs - Series 4 Compilations: 1. Where Myths Are Made and A Fyne Tour</title>
+		<title>Grand Tours of Scotland's Lochs - Series 4 Compilations: 1. Where Myths are Made and a Fyne Tour</title>
 		<desc>Paul explores the lochs and mountains of Skye and then heads to Scotland’s longest loch.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05d762d.jpg" />
 	</programme>
@@ -1261,7 +1261,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20241217195800 +0000" stop="20241217200000 +0000">
 		<title>The Catch Up - 17/12/2024</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Lucy Elsie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20241217200000 +0000" stop="20241217203000 +0000">
@@ -5372,10 +5372,15 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20241217130000 +0000" stop="20241217140000 +0000">
-		<title>BBC News at One - 17/12/2024</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	<programme channel="bbcnews" start="20241217130000 +0000" stop="20241217133000 +0000">
+		<title>BBC News - 17/12/2024</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20241217133000 +0000" stop="20241217140000 +0000">
+		<title>BBC News Now - 17/12/2024</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241217140000 +0000" stop="20241217143000 +0000">
 		<title>BBC News Now - 17/12/2024</title>
@@ -6470,22 +6475,22 @@
 	<programme channel="bbcparliament" start="20241217063500 +0000" stop="20241217073500 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Liz Kendall on Monday 16 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kcljw1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241217073500 +0000" stop="20241217082000 +0000">
 		<title>House of Commons - China Spying Urgent Question</title>
 		<desc>Urgent question on the extent of China's United Front Work Department operations in the UK</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kclhx7.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241217082000 +0000" stop="20241217095000 +0000">
 		<title>House of Commons - Devolution White Paper Statement</title>
 		<desc>Statement on English devolution and the publication of the white paper on local government</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kcll2s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241217095000 +0000" stop="20241217103000 +0000">
 		<title>House of Commons - Royal Mail Takeover Statement</title>
 		<desc>Statement by Justin Madders on the takeover of Royal Mail by EP Group.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kclllg.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241217103000 +0000" stop="20241217113000 +0000">
 		<title>Select Committees - Lords Justice and Home Affairs Committee</title>
@@ -6497,7 +6502,12 @@
 		<desc>Coverage of questions to Ed Miliband on Tuesday 17 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241217123000 +0000" stop="20241217193000 +0000">
+	<programme channel="bbcparliament" start="20241217123000 +0000" stop="20241217134500 +0000">
+		<title>House of Commons - Waspi Women Report Statement</title>
+		<desc>Statement by Liz Kendall on the report on communications to the Waspi women.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241217134500 +0000" stop="20241217193000 +0000">
 		<title>House of Commons - 17/12/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 17 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7160,7 +7170,7 @@
 	<programme channel="bbcalba" start="20241221164000 +0000" stop="20241221165500 +0000">
 		<title>Cleasan Ataidh &amp; Tilidh/The Adventures of Abney &amp; Teal  - Series 1: 27. Latha Puinnseanta Fuar/The Very Cold Day</title>
 		<desc>It is a very cold day. Abney, Teal, Neep &amp; the Poc-Pocs are playing wintry games.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jj0f76.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kcm4zy.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20241221165500 +0000" stop="20241221170000 +0000">
 		<title>CBBC ALBA Panto - 2024 - Little Red Riding Hood</title>
@@ -7679,7 +7689,7 @@
 	</programme>
 	<programme channel="s4c" start="20241218123000 +0000" stop="20241218130000 +0000">
 		<title>Heno - Tue, 17 Dec 2024</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Wynne Evans sy'n ymuno gyda ni ar y soffa, a chawn sgwrs gydag un o sêr y sioe gerdd, H...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241218130000 +0000" stop="20241218140000 +0000">
@@ -7795,7 +7805,7 @@
 	<programme channel="s4c" start="20241218210000 +0000" stop="20241218220000 +0000">
 		<title>Gwesty Aduniad - Cyfres 3: Pennod 16</title>
 		<desc>Y bennod olaf erioed. Caiff Susan cyfle ola' i wybod pwy yw ei thad gwaed. Final episod...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cxzgbr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kclvw3.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241218220000 +0000" stop="20241218230000 +0000">
 		<title>Wil ac Aeron - Gwlad y Ceirw</title>
@@ -8005,7 +8015,7 @@
 	<programme channel="s4c" start="20241219150500 +0000" stop="20241219160000 +0000">
 		<title>Gwesty Aduniad - Cyfres 3: Pennod 14</title>
 		<desc>Mae Helen a'i theulu yn dod i'r Gwesty i ddatgelu cyfrinach tra ma Elin yn paratoi sypr...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cxzgbr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kclthb.jpg" />
 	</programme>
 	<programme channel="s4c" start="20241219160000 +0000" stop="20241219160500 +0000">
 		<title>Y Pitws Bychain - Y Pitws Bychain: Cyrraedd y Traeth</title>
