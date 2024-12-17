@@ -119,37 +119,37 @@
 		<desc>The latest news, sport and weather from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241217190000 +0000" stop="20241217210000 +0000">
+	<programme channel="bbcone" start="20241217190000 +0000" stop="20241217210500 +0000">
 		<title>BBC Sports Personality of the Year - 2024</title>
 		<desc>Gabby Logan, Clare Balding and Alex Scott present the annual celebration of sport.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb55gp.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241217210000 +0000" stop="20241217220000 +0000">
+	<programme channel="bbcone" start="20241217210500 +0000" stop="20241217220500 +0000">
 		<title>Strike - The Ink Black Heart: Episode 2</title>
 		<desc>Strike faces terrorists, Robin goes undercover, and Barclay lands in danger.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k93h2q.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241217220000 +0000" stop="20241217223000 +0000">
+	<programme channel="bbcone" start="20241217220500 +0000" stop="20241217223500 +0000">
 		<title>BBC News at Ten - 17/12/2024</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241217223000 +0000" stop="20241217224000 +0000">
+	<programme channel="bbcone" start="20241217223500 +0000" stop="20241217224500 +0000">
 		<title>BBC London - Late News: 17/12/2024</title>
 		<desc>The latest news, sport and weather from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241217224000 +0000" stop="20241218005000 +0000">
+	<programme channel="bbcone" start="20241217224500 +0000" stop="20241218005500 +0000">
 		<title>Avengers: Age of Ultron</title>
 		<desc>The Avengers act when a rogue Stark Industries experiment threatens to destroy the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09jknmd.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241218005000 +0000" stop="20241218005500 +0000">
+	<programme channel="bbcone" start="20241218005500 +0000" stop="20241218010000 +0000">
 		<title>Weather for the Week Ahead - 18/12/2024</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20241218005500 +0000" stop="20241218060000 +0000">
+	<programme channel="bbcone" start="20241218010000 +0000" stop="20241218060000 +0000">
 		<title>Joins BBC News - 18/12/2024</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -745,8 +745,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7m1ct.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241217223000 +0000" stop="20241217230000 +0000">
-		<title>Newsnight - 17/12/2024</title>
-		<desc>The day's important national and international news stories. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Backlash to Starmer's Waspi decision</title>
+		<desc>Sir Keir Starmer says women who lost out by state pension changes won't get compensation.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20241217230000 +0000" stop="20241217230500 +0000">
@@ -5478,8 +5478,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241217223000 +0000" stop="20241217230000 +0000">
-		<title>Newsnight - 17/12/2024</title>
-		<desc>The day's important national and international news stories. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Backlash to Starmer's Waspi decision</title>
+		<desc>Sir Keir Starmer says women who lost out by state pension changes won't get compensation.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241217230000 +0000" stop="20241218000000 +0000">
@@ -6512,25 +6512,65 @@
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 17 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241217193000 +0000" stop="20241217220000 +0000">
-		<title>House of Lords - 17/12/2024</title>
-		<desc>Coverage of the day's proceedings in the House of Lords on Tuesday 17 December.</desc>
+	<programme channel="bbcparliament" start="20241217193000 +0000" stop="20241217205500 +0000">
+		<title>Select Committees - Lords Justice and Home Affairs Committee</title>
+		<desc>Coverage of the Lords Justice and Home Affairs select committee session on 17 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kcn7cl.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241217205500 +0000" stop="20241217213000 +0000">
+		<title>House of Lords - Puberty Suppressing Hormones Statement</title>
+		<desc>Debate on a statement on the use of puberty suppressing hormones, on Monday 16 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241217213000 +0000" stop="20241217220000 +0000">
+		<title>House of Commons - Wales Office Questions</title>
+		<desc>Coverage of questions to Jo Stevens on Wednesday 11 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbdp1t.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241217220000 +0000" stop="20241217224500 +0000">
 		<title>Lords Questions - 17/12/2024</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 17 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241217224500 +0000" stop="20241218060000 +0000">
-		<title>House of Lords - 17/12/2024</title>
-		<desc>Business in the House of Lords on Tuesday 17 December.</desc>
+	<programme channel="bbcparliament" start="20241217224500 +0000" stop="20241218020500 +0000">
+		<title>House of Lords - Great British Energy Bill</title>
+		<desc>Second day of debate in the Lords on the Great British Energy Bill on Tuesday 17 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241218060000 +0000" stop="20241218070000 +0000">
-		<title>House of Commons - Energy Security and Net Zero Questions</title>
-		<desc>Coverage of questions to Ed Miliband on Tuesday 17 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kcn9j5.jpg" />
+	<programme channel="bbcparliament" start="20241218020500 +0000" stop="20241218021500 +0000">
+		<title>House of Lords - China Spying Statement</title>
+		<desc>Debate on a statement on China's "United Front Work Department" operations in the UK.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241218021500 +0000" stop="20241218025000 +0000">
+		<title>House of Lords - Prison Capacity Statement</title>
+		<desc>Debate on a ministerial statement on the prison capacity review, on Tuesday 17 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241218025000 +0000" stop="20241218033000 +0000">
+		<title>House of Lords - Housebuilding Statement</title>
+		<desc>Debate on a statement on proposals for housebuilding and planning, on Tuesday 17 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241218033000 +0000" stop="20241218034500 +0000">
+		<title>House of Lords - Border Security Statement</title>
+		<desc>Debate on a statement on international cooperation on border security, on 17 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241218034500 +0000" stop="20241218042000 +0000">
+		<title>House of Lords - WASPI Statement</title>
+		<desc>Debate on a statement on the report on communications to the WASPI women, on 17 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241218042000 +0000" stop="20241218063000 +0000">
+		<title>Select Committees - Tax Evasion in Retail Inquiry</title>
+		<desc>Commons Public Accounts Committee on tax evasion in the retail sector, from 16 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241218063000 +0000" stop="20241218070000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241218070000 +0000" stop="20241218093000 +0000">
 		<title>House of Commons - 17/12/2024</title>
