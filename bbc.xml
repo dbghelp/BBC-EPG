@@ -6291,67 +6291,97 @@
 	<programme channel="bbcparliament" start="20241219130000 +0000" stop="20241219135000 +0000">
 		<title>House of Commons - Ukraine Statement</title>
 		<desc>A statement updating MPs on the war in Ukraine, on Thursday 19 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kd58jb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241219135000 +0000" stop="20241219143000 +0000">
 		<title>House of Commons - Syria Statement</title>
 		<desc>A statement updating MPs on the situation in Syria, on Thursday 19 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kd590w.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241219143000 +0000" stop="20241219173000 +0000">
+	<programme channel="bbcparliament" start="20241219143000 +0000" stop="20241219172000 +0000">
 		<title>House of Commons - 19/12/2024</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 19 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kd598w.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241219173000 +0000" stop="20241219190000 +0000">
+	<programme channel="bbcparliament" start="20241219172000 +0000" stop="20241219190000 +0000">
 		<title>Select Committees - Liaison Committee with the Prime Minister</title>
 		<desc>Commons Liaison Committee session with evidence from the prime minister, Keir Starmer.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kd4l5d.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241219190000 +0000" stop="20241219194500 +0000">
 		<title>Scottish First Minister's Questions - 19/12/2024</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 19 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kd59s3.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241219194500 +0000" stop="20241219203000 +0000">
 		<title>Lords Questions - 19/12/2024</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 19 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241219203000 +0000" stop="20241219233000 +0000">
-		<title>House of Lords - The Rural Economy</title>
+	<programme channel="bbcparliament" start="20241219203000 +0000" stop="20241219222500 +0000">
+		<title>House of Lords - Rural Economy</title>
 		<desc>Business in the House of Lords on Thursday 19 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241219233000 +0000" stop="20241220001500 +0000">
+	<programme channel="bbcparliament" start="20241219222500 +0000" stop="20241219225500 +0000">
+		<title>House of Lords - Tributes</title>
+		<desc>Tributes to peers that have passed away during the year, on Thursday 19 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241219225500 +0000" stop="20241219230500 +0000">
+		<title>House of Lords - Chagos Islands Statement</title>
+		<desc>The statement by Foreign Office minister Baroness Chapman of Darlington, on 19 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241219230500 +0000" stop="20241219235000 +0000">
+		<title>House of Lords - English Devolution Statement</title>
+		<desc>The statement by local government minister Baroness Taylor of Stevenage, on 19 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241219235000 +0000" stop="20241220020500 +0000">
 		<title>House of Lords - Policy Towards China</title>
-		<desc>Business in the House of Lords on Thursday 19 December.</desc>
+		<desc>Debate in the House of Lords on government policy towards China, on Thursday 19 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241220001500 +0000" stop="20241220031500 +0000">
+	<programme channel="bbcparliament" start="20241220020500 +0000" stop="20241220024000 +0000">
+		<title>House of Lords - Local Government Finance Settlement Statement</title>
+		<desc>The statement by local government minister Baroness Taylor of Stevenage, on 19 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241220024000 +0000" stop="20241220032500 +0000">
+		<title>House of Lords - Syria Statement</title>
+		<desc>Statement by Foreign Office minister Lord Collins of Highbury on Syria, on 19 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241220032500 +0000" stop="20241220054500 +0000">
 		<title>Westminster Hall - 16/12/2024</title>
 		<desc>Proceedings in Westminster Hall, including debate on two e-petitions, from 16 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241220031500 +0000" stop="20241220081500 +0000">
-		<title>Westminster Hall - 20/12/2024</title>
+	<programme channel="bbcparliament" start="20241220054500 +0000" stop="20241220061000 +0000">
+		<title>House of Commons - Commons Defence Committee Statement</title>
+		<desc>Debate on a Defence Committee statement on their report on service accommodation.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kd598w.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20241220061000 +0000" stop="20241220102500 +0000">
+		<title>Westminster Hall - 17/12/2024</title>
 		<desc>House of Commons proceedings in Westminster Hall from Tuesday 17 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241220081500 +0000" stop="20241220131500 +0000">
+	<programme channel="bbcparliament" start="20241220102500 +0000" stop="20241220151000 +0000">
 		<title>Westminster Hall - 18/12/2024</title>
 		<desc>House of Commons proceedings in Westminster Hall from Wednesday 18 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241220131500 +0000" stop="20241220161500 +0000">
-		<title>Westminster Hall - 19/12/2024</title>
-		<desc>House of Commons proceedings in Westminster Hall from Thursday 19 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	<programme channel="bbcparliament" start="20241220151000 +0000" stop="20241220162000 +0000">
+		<title>House of Commons - Waspi Women Report Statement</title>
+		<desc>Statement by Liz Kendall on the report on communications to the Waspi women.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kcnb93.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20241220161500 +0000" stop="20241220170000 +0000">
-		<title>Scottish Parliament - 20/12/2024</title>
-		<desc>A highlight from the Scottish Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	<programme channel="bbcparliament" start="20241220162000 +0000" stop="20241220170000 +0000">
+		<title>Prime Minister's Questions - 18/12/2024</title>
+		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 18 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kcsxxx.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20241220170000 +0000" stop="20241220180000 +0000">
 		<title>Joins BBC News - 20/12/2024</title>
