@@ -5314,20 +5314,26 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20241230060000 +0000" stop="20241230090000 +0000">
-		<title>Breakfast - 30/12/2024</title>
-		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20241230090000 +0000" stop="20241230093000 +0000">
+	<programme channel="bbcnews" start="20241230060000 +0000" stop="20241230063000 +0000">
 		<title>BBC News - 30/12/2024</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20241230093000 +0000" stop="20241230100000 +0000">
-		<title>100 Women - 2024: Iceland: A Women's Paradise?</title>
-		<desc>The country aims to close the gender gap by 2030 - but women still face unresolved issues.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k8wqqx.jpg" />
+	<programme channel="bbcnews" start="20241230063000 +0000" stop="20241230070000 +0000">
+		<title>HARDtalk - President Jimmy Carter</title>
+		<desc>From 2002. Tim Sebastian talks to former US President Jimmy Carter.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20241230070000 +0000" stop="20241230090000 +0000">
+		<title>BBC News - 30/12/2024</title>
+		<desc>The latest news from the BBC.
+</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20241230090000 +0000" stop="20241230100000 +0000">
+		<title>BBC News - 30/12/2024</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20241230100000 +0000" stop="20241230103000 +0000">
 		<title>BBC News - 30/12/2024</title>
