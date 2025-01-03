@@ -5040,10 +5040,20 @@
 		<desc>All the national, UK-wide and international news that matters to you.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p095jnyt.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250103191500 +0000" stop="20250103214500 +0000">
-		<title>Sportscene - Championship Live 2024/25: Airdrie v Falkirk</title>
-		<desc>Live coverage as Airdrie host Falkirk in the Scottish Championship.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb2qvh.jpg" />
+	<programme channel="bbcscotland" start="20250103191500 +0000" stop="20250103194500 +0000">
+		<title>Icons of Football - Series 1: 4. Archie Macpherson</title>
+		<desc>How Archie Macpherson became the face and voice of Scottish football.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fsykyl.jpg" />
+	</programme>
+	<programme channel="bbcscotland" start="20250103194500 +0000" stop="20250103204500 +0000">
+		<title>Eilish McColgan: Running in the Family</title>
+		<desc>Eilish McColgan chases her mum Liz’s marathon record.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gspwb0.jpg" />
+	</programme>
+	<programme channel="bbcscotland" start="20250103204500 +0000" stop="20250103214500 +0000">
+		<title>My Epic Camel Adventure with Gordon Buchanan</title>
+		<desc>Gordon Buchanan takes an epic camel ride across Mongolia’s harsh Gobi Desert.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k8cvbv.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250103214500 +0000" stop="20250103220000 +0000">
 		<title>Growing Up Scottish - Series 2 (15-Minute Versions): 2. Food</title>
@@ -5612,7 +5622,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250104154500 +0000" stop="20250104160000 +0000">
 		<title>Newswatch - 04/01/2025</title>
-		<desc>Your views on the coverage of events by BBC News.</desc>
+		<desc>What challenges does BBC News face over the coming year?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gbk3ng.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250104160000 +0000" stop="20250104163000 +0000">
