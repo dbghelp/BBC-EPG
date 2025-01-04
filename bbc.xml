@@ -5422,15 +5422,10 @@
 		<desc>The latest news from the BBC including sport.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250104153000 +0000" stop="20250104154500 +0000">
+	<programme channel="bbcnews" start="20250104153000 +0000" stop="20250104160000 +0000">
 		<title>BBC News - 04/01/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250104154500 +0000" stop="20250104160000 +0000">
-		<title>Newswatch - 04/01/2025</title>
-		<desc>What challenges does BBC News face over the coming year?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gbk3ng.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250104160000 +0000" stop="20250104163000 +0000">
 		<title>BBC News - 04/01/2025</title>
@@ -7394,10 +7389,20 @@ Saving Scotland's wildcats.
 		<desc>Mae'r cyflwynydd, Lara Catrin, a'r trefnydd proffesiynol, Gwenan Rosser, yn rhoi trefn ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dv3g1s.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250104170000 +0000" stop="20250104192000 +0000">
-		<title>Clwb Rygbi - Tymor 2024/25: Pontypwl v Cwins Caerfyrddin</title>
-		<desc>Gêm fyw wrth i Glwb Rygbi Pont-y-pwl chwarae Cwins Caerfyrddin yng Nghynghrair Super Ry...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k9b877.jpg" />
+	<programme channel="s4c" start="20250104170000 +0000" stop="20250104180000 +0000">
+		<title>Clwb Rygbi - Clwb Rygbi: Llanelli v Awstralia 92</title>
+		<desc>Rhaglen sydd yn bwrw golwg yn ôl dros y gêm rygbi chwedlonol a chwaraewyd rhwng Llanell...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08ggs7t.jpg" />
+	</programme>
+	<programme channel="s4c" start="20250104180000 +0000" stop="20250104182500 +0000">
+		<title>Y Gêm - Cyfres 2: Jonathan Davies</title>
+		<desc>Yn y rhaglen yma Owain Tudur Jones fydd yn holi y cyn-chwaraewr rygbi a'r darlledwr, Jo...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gm6dv3.jpg" />
+	</programme>
+	<programme channel="s4c" start="20250104182500 +0000" stop="20250104192000 +0000">
+		<title>Taith Iolo a Dewi - Iolo a Dewi: Y Tad a'r Mab a Zambia</title>
+		<desc>Iolo Williams a'i fab Dewi sy'n rhedeg taith saffari ar gyfer grwp o ymwelwyr, ym Mharc...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kd8zvm.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250104192000 +0000" stop="20250104193000 +0000">
 		<title>Newyddion a Chwaraeon - Sat, 04 Jan 2025</title>
