@@ -1321,7 +1321,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250106195800 +0000" stop="20250106200000 +0000">
 		<title>The Catch Up - 06/01/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Betty Douglas.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250106200000 +0000" stop="20250106202000 +0000">
@@ -1530,9 +1530,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbvgkg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250108204000 +0000" stop="20250108210000 +0000">
-		<title>The Simple Life - Series 1: 8. The Simple Life Reunion</title>
-		<desc>Paris and Nicole are reunited with the Leding family in front of a live studio audience.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kgw2sx.jpg" />
+		<title>The Simple Life - Series 1: 8. The Lost Episode</title>
+		<desc>Paris and Nicole are feeling homesick, prompting Paris's parents to send them comfort food</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kgw46j.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250108210000 +0000" stop="20250108225000 +0000">
 		<title>Wedding Crashers</title>
@@ -1625,9 +1625,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250109202000 +0000" stop="20250109210000 +0000">
-		<title>The Simple Life - Series 1: 9. The Lost Episode</title>
-		<desc>Paris and Nicole are feeling homesick, prompting Paris's parents to send them comfort food</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kgw46j.jpg" />
+		<title>The Simple Life - Series 1: 9. The Reunion</title>
+		<desc>Paris and Nicole are reunited with the Leding family in front of a live audience.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kgw2sx.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250109210000 +0000" stop="20250109213000 +0000">
 		<title>Dubai Hustle - Series 3: 1. Set to Make Millions</title>
@@ -5346,8 +5346,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f0sxhl.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250106200000 +0000" stop="20250106204500 +0000">
-		<title>The Repair Shop - On the Road: 7. Ayrshire</title>
-		<desc>The team restores a unique piece of Scottish history, a window signed by Robert Burns.</desc>
+		<title>The Repair Shop - On the Road: Ayrshire</title>
+		<desc>The team restores a unique piece of Scottish history - a window signed by Robert Burns.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kg7n4v.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250106204500 +0000" stop="20250106210000 +0000">
@@ -5466,8 +5466,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdtr90.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250108193000 +0000" stop="20250108201500 +0000">
-		<title>The Repair Shop - On the Road: 7. Ayrshire</title>
-		<desc>The team restores a unique piece of Scottish history, a window signed by Robert Burns.</desc>
+		<title>The Repair Shop - On the Road: Ayrshire</title>
+		<desc>The team restores a unique piece of Scottish history - a window signed by Robert Burns.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kg7n4v.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250108201500 +0000" stop="20250108210000 +0000">
@@ -5717,7 +5717,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250106183000 +0000" stop="20250106190000 +0000">
 		<title>Sportsday - 06/01/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
+		<desc>Sportsday previews Wolves’s game against surprise package Nottingham Forest.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250106190000 +0000" stop="20250106193000 +0000">
@@ -6781,18 +6781,23 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250106153000 +0000" stop="20250106163000 +0000">
-		<title>House of Commons - 06/01/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 6 January.</desc>
+		<title>House of Commons - Health and Adult Social Care Reform Statement</title>
+		<desc>Coverage of a statement on health and social care reform in England, on Monday 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250106163000 +0000" stop="20250106173000 +0000">
-		<title>House of Commons - 06/01/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 6 January.</desc>
+		<title>House of Commons - Flooding Update Statement</title>
+		<desc>Coverage of the statement on the recent flooding across the UK, on Monday 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250106173000 +0000" stop="20250106223000 +0000">
-		<title>House of Commons - 06/01/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 6 January.</desc>
+	<programme channel="bbcparliament" start="20250106173000 +0000" stop="20250106183000 +0000">
+		<title>House of Commons - Child Sexual Exploitation and Abuse Statement</title>
+		<desc>The statement on child sexual exploitation and abuse, from Monday 6 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250106183000 +0000" stop="20250106223000 +0000">
+		<title>House of Commons - 06/01/2025</title>
+		<desc>Business in the Commons including a debate on backlogs in the NHS, on Monday 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250106223000 +0000" stop="20250106231000 +0000">
@@ -6800,39 +6805,19 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250106231000 +0000" stop="20250107001000 +0000">
-		<title>House of Lords - 06/01/2025 Part 1</title>
-		<desc>Business in the House of Lords on Monday 6 January.</desc>
+	<programme channel="bbcparliament" start="20250106231000 +0000" stop="20250106232500 +0000">
+		<title>House of Lords - Humanitarian Aid to Gaza Question</title>
+		<desc>The question on plans to help the delivery of humanitarian aid to Gaza, on 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250107001000 +0000" stop="20250107011000 +0000">
-		<title>House of Lords - 06/01/2025 Part 2</title>
-		<desc>Business in the House of Lords on Monday 6 January.</desc>
+	<programme channel="bbcparliament" start="20250106232500 +0000" stop="20250106233500 +0000">
+		<title>House of Lords - Hospice Funding Statement</title>
+		<desc>The statement on hospice funding, on Monday 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250107011000 +0000" stop="20250107021000 +0000">
-		<title>House of Lords - 06/01/2025 Part 3</title>
-		<desc>Business in the House of Lords on Monday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250107021000 +0000" stop="20250107031000 +0000">
-		<title>House of Lords - 06/01/2025 Part 4</title>
-		<desc>Business in the House of Lords on Monday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250107031000 +0000" stop="20250107041000 +0000">
-		<title>House of Lords - 06/01/2025 Part 5</title>
-		<desc>Business in the House of Lords on Monday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250107041000 +0000" stop="20250107051000 +0000">
-		<title>House of Lords - 06/01/2025 Part 6</title>
-		<desc>Business in the House of Lords on Monday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250107051000 +0000" stop="20250107060000 +0000">
-		<title>House of Lords - 06/01/2025 Part 7</title>
-		<desc>Business in the House of Lords on Monday 6 January.</desc>
+	<programme channel="bbcparliament" start="20250106233500 +0000" stop="20250107060000 +0000">
+		<title>House of Lords - National Insurance Contributions</title>
+		<desc>Business in the Lords including debate on the National Insurance Contributions Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250107060000 +0000" stop="20250107070000 +0000">
@@ -7990,7 +7975,7 @@ lifeboat.</desc>
 	</programme>
 	<programme channel="s4c" start="20250106202500 +0000" stop="20250106205500 +0000">
 		<title>Y Ci Perffaith - Y Ci Perffaith: Pennod 1</title>
-		<desc>Cyfres wedi'i gyflwyno gan Heledd Cynwal, gyda llu o arbenigwyr wrth gefn. Cawn helpu 4...</desc>
+		<desc>Cyfres wedi'i chyflwyno gan Heledd Cynwal, gyda llu o arbenigwyr wrth gefn. Cawn helpu ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kftbrj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250106205500 +0000" stop="20250106210000 +0000">
@@ -8318,12 +8303,12 @@ lifeboat.</desc>
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250108060000 +0000" stop="20250108060500 +0000">
+	<programme channel="s4c" start="20250108060000 +0000" stop="20250108061000 +0000">
 		<title>Blociau Lliw - Cyfres 1: Porffor</title>
 		<desc>Mae Porffor llawn dychymyg yn cyrraedd Gwlad y lliwiau. Imaginative Purple arrives in C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gnj1q5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250108060500 +0000" stop="20250108062000 +0000">
+	<programme channel="s4c" start="20250108061000 +0000" stop="20250108062000 +0000">
 		<title>Pentre Papur Pop - Gwlad Gwychyn Huwcyn</title>
 		<desc>Ar yr antur popwych heddiw mae Huwcyn a Help Llaw yn adeiladu parc themau anhygoel! On ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
@@ -8403,12 +8388,12 @@ lifeboat.</desc>
 		<desc>Cyfres newydd! Ymunwch â Jam ar daith llawn synau, cerddoriaeth a lluniau lliwgar - gyd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x6yw7.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250108092000 +0000" stop="20250108092500 +0000">
+	<programme channel="s4c" start="20250108092000 +0000" stop="20250108093000 +0000">
 		<title>Timpo - Cyfres 1: Y Ty Perffaith</title>
 		<desc>Mae'r Rhwystrwyr wedi adeiladu ty od iawn! Tybed a 'all y criw helpu Po i wireddu ty ei...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07yrjl2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250108092500 +0000" stop="20250108094000 +0000">
+	<programme channel="s4c" start="20250108093000 +0000" stop="20250108094000 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Gwencwn Ahoi</title>
 		<desc>Mae'r gwencwn yn dwyn cwch Gwich ond cyn bo hir ma' nhw mewn trafferth ar afon wyllt. T...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
@@ -8490,7 +8475,7 @@ lifeboat.</desc>
 	</programme>
 	<programme channel="s4c" start="20250108133000 +0000" stop="20250108140000 +0000">
 		<title>Y Ci Perffaith - Y Ci Perffaith: Pennod 1</title>
-		<desc>Cyfres wedi'i gyflwyno gan Heledd Cynwal, gyda llu o arbenigwyr wrth gefn. Cawn helpu 4...</desc>
+		<desc>Cyfres wedi'i chyflwyno gan Heledd Cynwal, gyda llu o arbenigwyr wrth gefn. Cawn helpu ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kftbrj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250108140000 +0000" stop="20250108140500 +0000">
