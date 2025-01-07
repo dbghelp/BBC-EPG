@@ -5653,12 +5653,7 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250107163000 +0000" stop="20250107164500 +0000">
-		<title>Business Today - 07/01/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250107164500 +0000" stop="20250107170000 +0000">
+	<programme channel="bbcnews" start="20250107163000 +0000" stop="20250107170000 +0000">
 		<title>Verified Live - 07/01/2025</title>
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
@@ -5969,8 +5964,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250109003000 +0000" stop="20250109010000 +0000">
-		<title>HARDtalk - 09/01/2025</title>
-		<desc>In-depth interviews with key figures from politics, culture, business and sport.</desc>
+		<title>HARDtalk - Alice Edwards - UN Special Rapporteur on Torture</title>
+		<desc>Sarah Montague speaks to the UN Special Rapporteur on Torture, Alice Edwards. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250109010000 +0000" stop="20250109013000 +0000">
@@ -6164,8 +6159,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250110003000 +0000" stop="20250110010000 +0000">
-		<title>HARDtalk - 09/01/2025</title>
-		<desc>In-depth interviews with key figures from politics, culture, business and sport.</desc>
+		<title>HARDtalk - Alice Edwards - UN Special Rapporteur on Torture</title>
+		<desc>Sarah Montague speaks to the UN Special Rapporteur on Torture, Alice Edwards. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250110010000 +0000" stop="20250110013000 +0000">
@@ -6686,42 +6681,57 @@
 	<programme channel="bbcparliament" start="20250107123500 +0000" stop="20250107141500 +0000">
 		<title>House of Commons - Northern Gaza Urgent Question</title>
 		<desc>Urgent question on the situation in northern Gaza, on Tuesday 7 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh5pfc.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250107141500 +0000" stop="20250107150000 +0000">
 		<title>House of Commons - Hong Kong Police Urgent Question</title>
 		<desc>Question on Hong Kong police offering rewards for the arrest of pro-democracy campaigners.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh5rj4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250107150000 +0000" stop="20250107193000 +0000">
+	<programme channel="bbcparliament" start="20250107150000 +0000" stop="20250107181500 +0000">
 		<title>House of Commons - 07/01/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 7 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250107193000 +0000" stop="20250107220000 +0000">
+	<programme channel="bbcparliament" start="20250107181500 +0000" stop="20250107203000 +0000">
 		<title>House of Lords - 07/01/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Lords on Tuesday 7 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250107220000 +0000" stop="20250107225000 +0000">
+	<programme channel="bbcparliament" start="20250107203000 +0000" stop="20250107220500 +0000">
+		<title>House of Commons - Northern Gaza Urgent Question</title>
+		<desc>Urgent question on the situation in northern Gaza, on Tuesday 7 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh5pfc.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250107220500 +0000" stop="20250107231000 +0000">
 		<title>Welsh First Minister's Questions - 07/01/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 7 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250107225000 +0000" stop="20250107233000 +0000">
+	<programme channel="bbcparliament" start="20250107231000 +0000" stop="20250107235500 +0000">
 		<title>Lords Questions - 07/01/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 7 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250107233000 +0000" stop="20250108060000 +0000">
+	<programme channel="bbcparliament" start="20250107235500 +0000" stop="20250108003500 +0000">
 		<title>House of Lords - 07/01/2025</title>
 		<desc>Business in the House of Lords on Tuesday 7 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250108003500 +0000" stop="20250108011000 +0000">
+		<title>House of Lords - Flooding Statement</title>
+		<desc>A statement on the recent floods across the UK, on Tuesday 7 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250108011000 +0000" stop="20250108060000 +0000">
+		<title>House of Lords - Terrorism (Protection of Premises) Bill</title>
+		<desc>A debate on the second reading of the Terrorism (Protection of Premises) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250108060000 +0000" stop="20250108070000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 7 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh5jfs.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250108070000 +0000" stop="20250108093000 +0000">
 		<title>House of Commons - 07/01/2025</title>
@@ -6729,8 +6739,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250108093000 +0000" stop="20250108113000 +0000">
-		<title>Select Committees - 08/01/2025</title>
-		<desc>Coverage of select committee proceedings on Wednesday 8 January.</desc>
+		<title>Select Committees - Health and Social Care Committee</title>
+		<desc>The Health and Social Care committee on adult social care reform and the cost of inaction.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250108113000 +0000" stop="20250108120000 +0000">
@@ -6911,7 +6921,7 @@
 	<programme channel="bbcparliament" start="20250110060000 +0000" stop="20250110090000 +0000">
 		<title>Westminster Hall - 06/01/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Monday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh5kbl.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250110090000 +0000" stop="20250110113000 +0000">
 		<title>Select Committees - 10/01/2025 Part 1</title>
@@ -7071,7 +7081,7 @@
 	<programme channel="bbcparliament" start="20250112033000 +0000" stop="20250112043000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 7 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh5jfs.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250112043000 +0000" stop="20250112050000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
@@ -8079,7 +8089,7 @@ lifeboat.</desc>
 	<programme channel="s4c" start="20250108150500 +0000" stop="20250108160000 +0000">
 		<title>Noson Lawen - Cyfres 2024: Pennod 3</title>
 		<desc>Ffion Emyr a rhai o gantorion a cherddorion gorau Cymru sy'n dathlu talent yr actor, ca...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07ys00l.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh5h3c.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250108160000 +0000" stop="20250108160500 +0000">
 		<title>Blociau Lliw - Cyfres 1: Gwyrdd yn Golygu Ewch!</title>
@@ -8739,7 +8749,7 @@ lifeboat.</desc>
 	<programme channel="s4c" start="20250110200000 +0000" stop="20250110205500 +0000">
 		<title>Noson Lawen - Cyfres 2024: Pennod 3</title>
 		<desc>Ffion Emyr a rhai o gantorion a cherddorion gorau Cymru sy'n dathlu talent yr actor, ca...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07ys00l.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh5h3c.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250110205500 +0000" stop="20250110210000 +0000">
 		<title>Newyddion S4C - Fri, 10 Jan 2025 20:55</title>
@@ -8919,7 +8929,7 @@ lifeboat.</desc>
 	<programme channel="s4c" start="20250111200000 +0000" stop="20250111210000 +0000">
 		<title>Noson Lawen - Cyfres 2024: Pennod 5</title>
 		<desc>Mari Lovgreen sy'n cyflwyno o Arfon. Efo/With: Mei Gwynedd, Côr Dre, Dylan a Neil, Mein...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07ys00l.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh5hnl.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250111210000 +0000" stop="20250111224500 +0000">
 		<title>Clwb Rygbi - Cwpan Her Ewrop: Clwb Rygbi: Perpignan v Caerdydd</title>
