@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250107093000 +0000" stop="20250107104500 +0000">
 		<title>Morning Live - Series 6: 07/01/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Gethin and Helen talk to former detective Rav Wilding about the impact of fly-tipping.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250107104500 +0000" stop="20250107113000 +0000">
@@ -126,7 +126,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250107190000 +0000" stop="20250107193000 +0000">
 		<title>The One Show - 07/01/2025</title>
-		<desc>Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+		<desc>Pete Wicks, Richard Armitage and Rosalind Eleazar join Lauren Laverne and Gabby Logan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jn9yj0.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250107193000 +0000" stop="20250107200000 +0000">
@@ -627,7 +627,7 @@
 	<programme channel="bbcone" start="20250111173000 +0000" stop="20250111195000 +0000">
 		<title>The FA Cup - 2024/25: Third Round: Manchester City v Salford City</title>
 		<desc>Live coverage of League Two Salford City away to Premier League champions Manchester City.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09xgrj8.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh31k9.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250111195000 +0000" stop="20250111203500 +0000">
 		<title>The Weakest Link - Series 4: Episode 7</title>
@@ -680,7 +680,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250107063000 +0000" stop="20250107071500 +0000">
-		<title>The Bidding Room - Series 6: Episode 1</title>
+		<title>The Bidding Room - Series 6: 1. Mannequin, Teddies and Magic</title>
 		<desc>Nigel and the dealers return to buy curious items, including a mannequin and a magic set.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kd0y9w.jpg" />
 	</programme>
@@ -1201,7 +1201,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250111082500 +0000" stop="20250111085000 +0000">
 		<title>Blue Peter - Joel in Japan</title>
-		<desc>Joel in Japan</desc>
+		<desc>Joel takes a trip to Tokyo to go behind the scenes at the world-famous Pokémon studios.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h60km3.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250111085000 +0000" stop="20250111090000 +0000">
@@ -3062,7 +3062,7 @@
 	</programme>
 	<programme channel="cbbc" start="20250110170000 +0000" stop="20250110173000 +0000">
 		<title>Blue Peter - Joel in Japan</title>
-		<desc>Joel in Japan</desc>
+		<desc>Joel takes a trip to Tokyo to go behind the scenes at the world-famous Pokémon studios.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h60km3.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20250110173000 +0000" stop="20250110175000 +0000">
@@ -3164,7 +3164,7 @@
 	<programme channel="cbbc" start="20250111092500 +0000" stop="20250111101000 +0000">
 		<title>Miraculous: Tales of Ladybug &amp; Cat Noir - Miraculous World Paris – Tales of Shadybug &amp; Claw Noir</title>
 		<desc>Ladybug and Cat Noir meet heroes from a parallel world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k7lkqc.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh2d1m.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20250111101000 +0000" stop="20250111101500 +0000">
 		<title>Grizzy and the Lemmings - Series 4: 5. Desired Orientation</title>
@@ -3203,7 +3203,7 @@
 	</programme>
 	<programme channel="cbbc" start="20250111113000 +0000" stop="20250111120000 +0000">
 		<title>Blue Peter - Joel in Japan</title>
-		<desc>Joel in Japan</desc>
+		<desc>Joel takes a trip to Tokyo to go behind the scenes at the world-famous Pokémon studios.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h60km3.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20250111120000 +0000" stop="20250111121000 +0000">
@@ -6088,55 +6088,15 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250109130000 +0000" stop="20250109140000 +0000">
+	<programme channel="bbcnews" start="20250109130000 +0000" stop="20250109133000 +0000">
 		<title>BBC News at One - 09/01/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250109140000 +0000" stop="20250109143000 +0000">
-		<title>BBC News Now - 09/01/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250109143000 +0000" stop="20250109144500 +0000">
-		<title>Business Today - NYSE Opening Bell - 09/01/2025</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250109144500 +0000" stop="20250109150000 +0000">
-		<title>BBC News Now - 09/01/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250109150000 +0000" stop="20250109153000 +0000">
-		<title>Verified Live - 09/01/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250109153000 +0000" stop="20250109160000 +0000">
-		<title>Verified Live - 09/01/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250109160000 +0000" stop="20250109163000 +0000">
-		<title>Verified Live - 09/01/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250109163000 +0000" stop="20250109164500 +0000">
-		<title>Business Today - 09/01/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250109164500 +0000" stop="20250109170000 +0000">
-		<title>Verified Live - 09/01/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250109170000 +0000" stop="20250109173000 +0000">
-		<title>Verified Live - 09/01/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
+	<programme channel="bbcnews" start="20250109133000 +0000" stop="20250109173000 +0000">
+		<title>Former US President Jimmy Carter's Funeral</title>
+		<desc>Live coverage of the funeral of former US President Jimmy Carter.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250109173000 +0000" stop="20250109180000 +0000">
 		<title>BBC News - 09/01/2025</title>
@@ -6430,7 +6390,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250110233000 +0000" stop="20250111000000 +0000">
 		<title>Path to the Presidency - 10/01/2025</title>
-		<desc>A weekly discussion on the US election.</desc>
+		<desc>A weekly discussion on the US presidency.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jqfff1.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250111000000 +0000" stop="20250111003000 +0000">
@@ -6539,9 +6499,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250111133000 +0000" stop="20250111140000 +0000">
-		<title>Americast - 11/01/2025</title>
-		<desc>The latest analysis on American politics. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j72y80.jpg" />
+		<title>The Travel Show - 11/01/2025</title>
+		<desc>Forty years after the death of the dictator Enver Hoxha, Qasa Alom explores Albania.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250111140000 +0000" stop="20250111143000 +0000">
 		<title>BBC News - 11/01/2025</title>
@@ -6664,9 +6624,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250112023000 +0000" stop="20250112030000 +0000">
-		<title>Americast - 11/01/2025</title>
-		<desc>The latest analysis on American politics. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j72y80.jpg" />
+		<title>The Media Show - 11/01/2025</title>
+		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250112030000 +0000" stop="20250112033000 +0000">
 		<title>BBC News - 12/01/2025</title>
@@ -6716,7 +6676,7 @@
 	<programme channel="bbcparliament" start="20250107100500 +0000" stop="20250107113000 +0000">
 		<title>House of Commons - Child Sexual Exploitation and Abuse Statement</title>
 		<desc>The statement on child sexual exploitation and abuse, from Monday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh3pdl.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250107113000 +0000" stop="20250107123000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
@@ -7869,7 +7829,7 @@ lifeboat.</desc>
 	<programme channel="s4c" start="20250107183000 +0000" stop="20250107190000 +0000">
 		<title>Sgorio - Cyfres 2024: Pennod 21</title>
 		<desc>Cyfres llawn cyffro pêl-droed y pyramid Cymreig. Haverfordwest County v Briton Ferry Ll...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jg3gcd.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh380c.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250107190000 +0000" stop="20250107193000 +0000">
 		<title>Heno - Tue, 07 Jan 2025</title>
@@ -7898,7 +7858,7 @@ lifeboat.</desc>
 	</programme>
 	<programme channel="s4c" start="20250107210000 +0000" stop="20250107220000 +0000">
 		<title>Ty Ffit - Pennod 1</title>
-		<desc>Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos sy'n ceisio gwella'u i...</desc>
+		<desc>Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwell...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kg7x5m.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250107220000 +0000" stop="20250107223000 +0000">
@@ -8698,7 +8658,7 @@ lifeboat.</desc>
 	</programme>
 	<programme channel="s4c" start="20250110150500 +0000" stop="20250110160000 +0000">
 		<title>Ty Ffit - Pennod 1</title>
-		<desc>Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos sy'n ceisio gwella'u i...</desc>
+		<desc>Cyfres trawsnewid iechyd newydd yn dilyn 5 o bobl dros 8 wythnos wrth iddynt drio gwell...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kg7x5m.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250110160000 +0000" stop="20250110160500 +0000">
