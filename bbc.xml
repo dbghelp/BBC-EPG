@@ -775,8 +775,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khmswb.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250109223000 +0000" stop="20250109230000 +0000">
-		<title>Newsnight - 09/01/2025</title>
-		<desc>The day's important national and international news stories. With Faisal Islam.</desc>
+		<title>Newsnight - The inferno that woke the world</title>
+		<desc>As the worst-ever Los Angeles fires continue to burn, the political blame game has begun.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250109230000 +0000" stop="20250109230500 +0000">
@@ -5584,8 +5584,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250109223000 +0000" stop="20250109230000 +0000">
-		<title>Newsnight - 09/01/2025</title>
-		<desc>The day's important national and international news stories. With Faisal Islam.</desc>
+		<title>Newsnight - The inferno that woke the world</title>
+		<desc>As the worst-ever Los Angeles fires continue to burn, the political blame game has begun.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250109230000 +0000" stop="20250110000000 +0000">
@@ -6643,85 +6643,90 @@
 		<desc>Coverage of questions to Peter Kyle on Wednesday 8 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khh959.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250110060000 +0000" stop="20250110090000 +0000">
+	<programme channel="bbcparliament" start="20250110060000 +0000" stop="20250110082500 +0000">
 		<title>Westminster Hall - 06/01/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Monday 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh5kbl.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250110090000 +0000" stop="20250110113000 +0000">
-		<title>Select Committees - 10/01/2025 Part 1</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250110113000 +0000" stop="20250110140000 +0000">
-		<title>Select Committees - 10/01/2025 Part 2</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250110140000 +0000" stop="20250110180000 +0000">
-		<title>House of Lords - 10/01/2025</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250110180000 +0000" stop="20250110210000 +0000">
-		<title>Select Committees - 10/01/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250110210000 +0000" stop="20250110214500 +0000">
+	<programme channel="bbcparliament" start="20250110082500 +0000" stop="20250110091000 +0000">
 		<title>Scottish First Minister's Questions - 09/01/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 9 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250110214500 +0000" stop="20250110224500 +0000">
-		<title>Scottish Parliament - 10/01/2025 Part 1</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20250110091000 +0000" stop="20250110104000 +0000">
+		<title>Select Committees - BBC Scotland Inquiry</title>
+		<desc>Coverage of the Scottish Affairs select committee session on the work of BBC Scotland.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250110104000 +0000" stop="20250110125000 +0000">
+		<title>Select Committees - Work of Ofsted Inquiry</title>
+		<desc>The Education select committee session on the work of the Ofsted, from Tuesday 7 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250110125000 +0000" stop="20250110180000 +0000">
+		<title>House of Lords - National Insurance Contributions</title>
+		<desc>Business in the Lords including debate on the National Insurance Contributions Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh43z1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250110180000 +0000" stop="20250110205000 +0000">
+		<title>Select Committees - Employment Rights Inquiry</title>
+		<desc>Business and Trade committee session on employment rights and the Employment Rights Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250110205000 +0000" stop="20250110210000 +0000">
+		<title>Ten Minute Rule Bill - Safe Leave for Victims of Domestic Abuse</title>
+		<desc>A bill on rights for safe leave for victims of domestic abuse, from Tuesday 7 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250110210000 +0000" stop="20250110215000 +0000">
+		<title>Scottish First Minister's Questions - 09/01/2025</title>
+		<desc>Questions to John Swinney, the first minister, on Thursday 9 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250110215000 +0000" stop="20250110221000 +0000">
+		<title>Scottish Parliament - General Questions</title>
+		<desc>General questions in the Scottish Parliament to ministers in the Scottish government.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250110224500 +0000" stop="20250110234500 +0000">
-		<title>Scottish Parliament - 10/01/2025 Part 2</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20250110221000 +0000" stop="20250110223500 +0000">
+		<title>Scottish Parliament - Constitution, Culture and External Affairs Questions</title>
+		<desc>Questions to the constitution, culture and external affairs secretary Angus Robertson.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250110234500 +0000" stop="20250111004500 +0000">
-		<title>Scottish Parliament - 10/01/2025 Part 3</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20250110223500 +0000" stop="20250111001500 +0000">
+		<title>Scottish Parliament - National Performance Framework</title>
+		<desc>Debate on the National Performance Framework, which sets out the aims of the government.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250111004500 +0000" stop="20250111014500 +0000">
-		<title>Scottish Parliament - 10/01/2025 Part 4</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20250111001500 +0000" stop="20250111021500 +0000">
+		<title>Scottish Parliament - Migration</title>
+		<desc>The debate in the Scottish Parliament on migration, from Thursday 9 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250111014500 +0000" stop="20250111023500 +0000">
+	<programme channel="bbcparliament" start="20250111021500 +0000" stop="20250111031500 +0000">
 		<title>Welsh First Minister's Questions - 07/01/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 7 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khh166.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250111023500 +0000" stop="20250111031500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 10/01/2025 Part 1</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20250111031500 +0000" stop="20250111040500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Legislative Plans for the Welsh Government</title>
+		<desc>A statement by Eluned Morgan on her legislative plans for the Welsh government.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khmqdw.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250111040500 +0000" stop="20250111044500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Port of Holyhead</title>
+		<desc>Statement by the transport and north Wales secretary Ken Skates, on the Port of Holyhead.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250111031500 +0000" stop="20250111035500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 10/01/2025 Part 2</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20250111044500 +0000" stop="20250111052000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - NHS Winter Pressures</title>
+		<desc>Statement by the health and social care secretary Jeremy Miles on NHS winter pressures.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250111035500 +0000" stop="20250111043500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 10/01/2025 Part 3</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250111043500 +0000" stop="20250111051500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 10/01/2025 Part 4</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250111051500 +0000" stop="20250111060000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 10/01/2025 Part 5</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	<programme channel="bbcparliament" start="20250111052000 +0000" stop="20250111060000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Economy Statement</title>
+		<desc>A statement by cabinet secretary for economy, energy and planning Rebecca Evans.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khmsg9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250111060000 +0000" stop="20250111110000 +0000">
 		<title>Westminster Hall - 07/01/2025</title>
