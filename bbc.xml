@@ -367,7 +367,7 @@
 	<programme channel="bbcone" start="20250111173000 +0000" stop="20250111195000 +0000">
 		<title>The FA Cup - 2024/25: Third Round: Manchester City v Salford City</title>
 		<desc>Live coverage of League Two Salford City away to Premier League champions Manchester City.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh31k9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khp9y7.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250111195000 +0000" stop="20250111203500 +0000">
 		<title>The Weakest Link - Series 4: Episode 7</title>
@@ -472,7 +472,7 @@
 	<programme channel="bbcone" start="20250112143500 +0000" stop="20250112171500 +0000">
 		<title>The FA Cup - 2024/25: Third Round: Arsenal v Manchester United</title>
 		<desc>The two most successful sides in the FA Cup battle it out for a place in the fourth round.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh31db.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khp99m.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250112171500 +0000" stop="20250112174500 +0000">
 		<title>Garden Rescue - Series 6 (Shortened Versions): 4. Droitwich Spa</title>
@@ -757,7 +757,7 @@
 	<programme channel="bbctwo" start="20250109190000 +0000" stop="20250109200000 +0000">
 		<title>Los Angeles Wildfires</title>
 		<desc>As wildfires rip across parts of Los Angeles, BBC News is live with the latest.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khpt1c.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250109200000 +0000" stop="20250109210000 +0000">
 		<title>Digging for Britain - Series 12: 3. Island Treasures</title>
@@ -5543,15 +5543,20 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250109180000 +0000" stop="20250109190000 +0000">
+	<programme channel="bbcnews" start="20250109180000 +0000" stop="20250109183000 +0000">
 		<title>BBC News at Six - 09/01/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
+	<programme channel="bbcnews" start="20250109183000 +0000" stop="20250109190000 +0000">
+		<title>Sportsday - 09/01/2025</title>
+		<desc>Reaction to Everton’s sacking of Sean Dyche and Graham Potter’s arrival at West Ham.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
+	</programme>
 	<programme channel="bbcnews" start="20250109190000 +0000" stop="20250109200000 +0000">
 		<title>Los Angeles Wildfires</title>
 		<desc>As wildfires rip across parts of Los Angeles, BBC News is live with the latest.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khpt1c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250109200000 +0000" stop="20250109203000 +0000">
 		<title>The Context - 09/01/2025</title>
@@ -5871,7 +5876,7 @@
 	<programme channel="bbcnews" start="20250111043000 +0000" stop="20250111050000 +0000">
 		<title>The Travel Show - Albania: Reclaiming the Past</title>
 		<desc>Forty years after the death of the dictator Enver Hoxha, Qasa Alom explores Albania.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khppz2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250111050000 +0000" stop="20250111053000 +0000">
 		<title>BBC News - 11/01/2025</title>
@@ -5931,7 +5936,7 @@
 	<programme channel="bbcnews" start="20250111133000 +0000" stop="20250111140000 +0000">
 		<title>The Travel Show - Albania: Reclaiming the Past</title>
 		<desc>Forty years after the death of the dictator Enver Hoxha, Qasa Alom explores Albania.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khppz2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250111140000 +0000" stop="20250111143000 +0000">
 		<title>BBC News - 11/01/2025</title>
@@ -6578,55 +6583,65 @@
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 9 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250109125000 +0000" stop="20250109173000 +0000">
+	<programme channel="bbcparliament" start="20250109125000 +0000" stop="20250109172500 +0000">
 		<title>House of Commons - 09/01/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 9 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250109173000 +0000" stop="20250109181500 +0000">
+	<programme channel="bbcparliament" start="20250109172500 +0000" stop="20250109181000 +0000">
 		<title>Scottish First Minister's Questions - 09/01/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 9 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250109181500 +0000" stop="20250109185500 +0000">
+	<programme channel="bbcparliament" start="20250109181000 +0000" stop="20250109185500 +0000">
 		<title>Lords Questions - 09/01/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 9 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250109185500 +0000" stop="20250109202500 +0000">
+	<programme channel="bbcparliament" start="20250109185500 +0000" stop="20250109212500 +0000">
 		<title>House of Lords - Energy Storage</title>
 		<desc>Debate on the report on 'Long-duration energy storage: get on with it'.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250109202500 +0000" stop="20250109212500 +0000">
+	<programme channel="bbcparliament" start="20250109212500 +0000" stop="20250109222500 +0000">
 		<title>House of Lords - The Civil Service</title>
 		<desc>Debate on requirements for civil servants to work in government offices.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250109212500 +0000" stop="20250109235500 +0000">
+	<programme channel="bbcparliament" start="20250109222500 +0000" stop="20250110005500 +0000">
 		<title>House of Lords - The UK's Arctic Strategy</title>
 		<desc>Business in the House of Lords on Thursday 9 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250109235500 +0000" stop="20250110021500 +0000">
+	<programme channel="bbcparliament" start="20250110005500 +0000" stop="20250110011000 +0000">
 		<title>House of Lords - Public Finances Statement</title>
 		<desc>Statement on the impact of borrowing costs on the public finances, on Thursday 9 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250110021500 +0000" stop="20250110031500 +0000">
+	<programme channel="bbcparliament" start="20250110011000 +0000" stop="20250110021500 +0000">
+		<title>House of Commons - Health and Social Care Questions</title>
+		<desc>Coverage of questions to Wes Streeting on Tuesday 7 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh5jfs.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250110021500 +0000" stop="20250110032000 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 9 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250110031500 +0000" stop="20250110041500 +0000">
+	<programme channel="bbcparliament" start="20250110032000 +0000" stop="20250110041000 +0000">
+		<title>House of Commons - Public Finances Urgent Question</title>
+		<desc>Urgent question on the impact of borrowing costs on public finances on Thursday 9 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250110041000 +0000" stop="20250110053500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 9 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250110041500 +0000" stop="20250110060000 +0000">
-		<title>House of Commons - 09/01/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 9 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250110053500 +0000" stop="20250110060000 +0000">
+		<title>House of Commons - Science, Innovation and Technology Questions</title>
+		<desc>Coverage of questions to Peter Kyle on Wednesday 8 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khh959.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250110060000 +0000" stop="20250110090000 +0000">
 		<title>Westminster Hall - 06/01/2025</title>
@@ -8679,7 +8694,7 @@ Saving Scotland's wildcats.
 	<programme channel="s4c" start="20250113210000 +0000" stop="20250113213000 +0000">
 		<title>Cefn Gwlad - Cyfres 2024: Non a Trystan</title>
 		<desc>Mari Lovgreen sy'n ymweld â chwpwl ifanc a fentrodd i ardal estron er mwyn gwireddu'i b...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08jbrhg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khp333.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250113213000 +0000" stop="20250113220000 +0000">
 		<title>Sgorio - Cyfres 2024: Pennod 22</title>
