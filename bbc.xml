@@ -5465,10 +5465,15 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250112060000 +0000" stop="20250112090000 +0000">
+	<programme channel="bbcnews" start="20250112060000 +0000" stop="20250112080000 +0000">
 		<title>Breakfast - 12/01/2025</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250112080000 +0000" stop="20250112090000 +0000">
+		<title>BBC News - 12/01/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250112090000 +0000" stop="20250112100000 +0000">
 		<title>Sunday with Laura Kuenssberg - 12/01/2025</title>
