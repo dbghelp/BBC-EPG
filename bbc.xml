@@ -709,7 +709,7 @@
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250113040500 +0000" stop="20250113063000 +0000">
+	<programme channel="bbctwo" start="20250113041000 +0000" stop="20250113063000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -790,7 +790,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kd11k4.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250113223000 +0000" stop="20250113230000 +0000">
-		<title>Newsnight - 13/01/2025</title>
+		<title>Newsnight - Post Office Scandal: One Year On</title>
 		<desc>The day's important national and international news stories. With Victoria Derbyshire.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
@@ -1784,12 +1784,12 @@
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250113190000 +0000" stop="20250113220000 +0000">
+	<programme channel="bbcfour" start="20250113190000 +0000" stop="20250113221500 +0000">
 		<title>Snooker: The Masters - 2025: Day 2, Part 2</title>
 		<desc>Coverage of the 2025 Masters tournament from Alexandra Palace in London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khvlbd.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250113220000 +0000" stop="20250113230000 +0000">
+	<programme channel="bbcfour" start="20250113221500 +0000" stop="20250113230000 +0000">
 		<title>Gods of Snooker - Series 1: Episode 2</title>
 		<desc>Alex Higgins struggles to keep up with the professionalism of a new star – Steve Davis.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09gthgg.jpg" />
@@ -5675,7 +5675,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250113223000 +0000" stop="20250113230000 +0000">
-		<title>Newsnight - 13/01/2025</title>
+		<title>Newsnight - Post Office Scandal: One Year On</title>
 		<desc>The day's important national and international news stories. With Victoria Derbyshire.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
@@ -6797,7 +6797,7 @@
 	<programme channel="bbcparliament" start="20250113140000 +0000" stop="20250113143000 +0000">
 		<title>Northern Ireland Assembly - Justice Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to the justice minister Naomi Long.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjg3v2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250113143000 +0000" stop="20250113153000 +0000">
 		<title>House of Commons - Home Office Questions</title>
@@ -6807,22 +6807,22 @@
 	<programme channel="bbcparliament" start="20250113153000 +0000" stop="20250113161500 +0000">
 		<title>House of Commons - Gas Storage Levels Urgent Question</title>
 		<desc>Urgent question in the House of Commons on gas storage levels, on Monday 13 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjg9tm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250113161500 +0000" stop="20250113170000 +0000">
 		<title>House of Commons - Sudan Urgent Question</title>
 		<desc>Urgent question on the United States' determination of genocide in Sudan, on 13 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjgb76.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250113170000 +0000" stop="20250113180000 +0000">
 		<title>House of Commons - AI Opportunities Statement</title>
 		<desc>Statement by science secretary Peter Kyle on the AI Opportunities Action Plan.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjgbjr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250113180000 +0000" stop="20250113190000 +0000">
 		<title>House of Commons - Ticket Resale and Pricing Consultation Statement</title>
 		<desc>Statement on a consultation on the resale of live event tickets and on pricing practices.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjgczn.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250113190000 +0000" stop="20250113223000 +0000">
 		<title>House of Commons - 13/01/2025</title>
@@ -6832,7 +6832,7 @@
 	<programme channel="bbcparliament" start="20250113223000 +0000" stop="20250113231500 +0000">
 		<title>Northern Ireland Assembly - Justice Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to the justice minister Naomi Long.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjg3v2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250113231500 +0000" stop="20250113235500 +0000">
 		<title>Lords Questions - 13/01/2025</title>
@@ -6847,12 +6847,12 @@
 	<programme channel="bbcparliament" start="20250114060000 +0000" stop="20250114070500 +0000">
 		<title>House of Commons - Home Office Questions</title>
 		<desc>Coverage of questions to Yvette Cooper on Monday 13 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjg32z.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250114070500 +0000" stop="20250114074500 +0000">
 		<title>House of Commons - Gas Storage Levels Urgent Question</title>
 		<desc>Urgent question in the House of Commons on gas storage levels, on Monday 13 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjg9tm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250114074500 +0000" stop="20250114082500 +0000">
 		<title>Lords Questions - 13/01/2025</title>
@@ -6862,7 +6862,7 @@
 	<programme channel="bbcparliament" start="20250114082500 +0000" stop="20250114091000 +0000">
 		<title>Northern Ireland Assembly - Justice Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to the justice minister Naomi Long.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjg3v2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250114091000 +0000" stop="20250114100000 +0000">
 		<title>Northern Ireland Assembly - Agriculture Questions</title>
@@ -7072,7 +7072,7 @@
 	<programme channel="bbcparliament" start="20250118043000 +0000" stop="20250118051500 +0000">
 		<title>Northern Ireland Assembly - Justice Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to the justice minister Naomi Long.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjg3v2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250118051500 +0000" stop="20250118060000 +0000">
 		<title>Northern Ireland Assembly - Agriculture Questions</title>
