@@ -780,7 +780,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kg7ktg.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250115000500 +0000" stop="20250115020500 +0000">
-		<title>Snooker: The Masters - 2025 Extra: Day 3 Extra</title>
+		<title>Snooker: The Masters - Masters Snooker Extra 2025: Day 3 Extra</title>
 		<desc>Highlights from the third day of the 2025 Masters snooker tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjb5b8.jpg" />
 	</programme>
@@ -890,7 +890,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kg7l8z.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250116000500 +0000" stop="20250116020500 +0000">
-		<title>Snooker: The Masters - 2025 Extra: Day 4 Extra</title>
+		<title>Snooker: The Masters - Masters Snooker Extra 2025: Day 4 Extra</title>
 		<desc>Highlights from the fourth day of the 2025 Masters snooker tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjb5b8.jpg" />
 	</programme>
@@ -1000,7 +1000,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kcb4db.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250117000500 +0000" stop="20250117020500 +0000">
-		<title>Snooker: The Masters - 2025 Extra: Day 5 Extra</title>
+		<title>Snooker: The Masters - Masters Snooker Extra 2025: Day 5 Extra</title>
 		<desc>Highlights from the fifth day of the 2025 Masters snooker tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjb5b8.jpg" />
 	</programme>
@@ -1110,7 +1110,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f0whvy.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250118005500 +0000" stop="20250118025500 +0000">
-		<title>Snooker: The Masters - 2025 Extra: Day 6 Extra</title>
+		<title>Snooker: The Masters - Masters Snooker Extra 2025: Day 6 Extra</title>
 		<desc>Highlights from the sixth day of the 2025 Masters snooker tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjb5b8.jpg" />
 	</programme>
@@ -1250,7 +1250,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c9ffwt.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250119000000 +0000" stop="20250119020000 +0000">
-		<title>Snooker: The Masters - 2025 Extra: Day 7 Extra</title>
+		<title>Snooker: The Masters - Masters Snooker Extra 2025: Day 7 Extra</title>
 		<desc>Highlights from the seventh day of the 2025 Masters snooker tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjb5b8.jpg" />
 	</programme>
@@ -5236,8 +5236,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hc5jl1.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250114230000 +0000" stop="20250114233000 +0000">
-		<title>Scotcast - 14/01/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
+		<title>Scotcast - Is shoplifting out of control?</title>
+		<desc>As shoplifting soars, the team discusses whether the crime is out of control.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kgz13h.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250114233000 +0000" stop="20250115000000 +0000">
@@ -5555,15 +5555,10 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250114160000 +0000" stop="20250114163000 +0000">
+	<programme channel="bbcnews" start="20250114160000 +0000" stop="20250114164500 +0000">
 		<title>Verified Live - 14/01/2025</title>
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250114163000 +0000" stop="20250114164500 +0000">
-		<title>Business Today - 14/01/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250114164500 +0000" stop="20250114170000 +0000">
 		<title>Verified Live - 14/01/2025</title>
@@ -5643,7 +5638,7 @@
 	<programme channel="bbcnews" start="20250115003000 +0000" stop="20250115010000 +0000">
 		<title>HARDtalk - Vladimir Kara-Murza – Russian Opposition Politician</title>
 		<desc>Stephen Sackur speaks to Vladimir Kara-Murza, Russian opposition politician.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjms8l.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250115010000 +0000" stop="20250115013000 +0000">
 		<title>BBC News - 15/01/2025</title>
@@ -6755,15 +6750,30 @@
 		<desc>Business in the House of Lords on Tuesday 14 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250115060000 +0000" stop="20250115070000 +0000">
+	<programme channel="bbcparliament" start="20250115060000 +0000" stop="20250115071000 +0000">
 		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
 		<desc>Coverage of questions to David Lammy on Tuesday 14 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjlxz9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250115070000 +0000" stop="20250115100000 +0000">
-		<title>House of Commons - 14/01/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 14 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250115071000 +0000" stop="20250115080500 +0000">
+		<title>House of Commons - China Visit Statement</title>
+		<desc>Statement by Rachel Reeves on UK-China economic and financial talks, on 14 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjl7lg.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250115080500 +0000" stop="20250115081500 +0000">
+		<title>Ten Minute Rule Bill - Community Energy Review</title>
+		<desc>Introduction of the Community Energy (Review) Bill, from Tuesday 14 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250115081500 +0000" stop="20250115090000 +0000">
+		<title>Lords Questions - 14/01/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Tuesday 14 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250115090000 +0000" stop="20250115100000 +0000">
+		<title>Welsh First Minister's Questions - 14/01/2025</title>
+		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 14 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250115100000 +0000" stop="20250115113000 +0000">
 		<title>Select Committees - Education Select Committee</title>
@@ -6928,7 +6938,7 @@
 	<programme channel="bbcparliament" start="20250118051500 +0000" stop="20250118060000 +0000">
 		<title>Northern Ireland Assembly - Agriculture Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to the agriculture minister Andrew Muir.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjlwhy.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250118060000 +0000" stop="20250118110000 +0000">
 		<title>Westminster Hall - 14/01/2025</title>
@@ -8185,27 +8195,27 @@
 		<desc>Mae Bobo Gwyn ar ben ei ddigon pan gaiff wahoddiad i edrych ar ôl ceffylau'r Cymylaubyc...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03my1yb.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250116061500 +0000" stop="20250116063000 +0000">
+	<programme channel="s4c" start="20250116061500 +0000" stop="20250116063500 +0000">
 		<title>Jen a Jim - Jen a Jim a'r Cywiadur: L - Y Lindys a'r Letys</title>
 		<desc>Mae lleidr wedi cyrraedd y fferm, ond yr unig beth mae'n ei ddwyn yw letys! There's a t...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04w3w45.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250116063000 +0000" stop="20250116064000 +0000">
+	<programme channel="s4c" start="20250116063500 +0000" stop="20250116064500 +0000">
 		<title>Sam Tân - Cyfres 10: Dewi Dewin!</title>
 		<desc>Anturiaethau Sam Tân a'i ffrindiau yn y pentre'. The adventures of Sam Tân and friends ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250116064000 +0000" stop="20250116065500 +0000">
+	<programme channel="s4c" start="20250116064500 +0000" stop="20250116070000 +0000">
 		<title>Cacamwnci - Cyfres 2: Pennod 7</title>
 		<desc>Cyfres gomedi i blant meithrin sy'n cynnwys sgetsys, eitemau doniol, jôcs a chymeriadau...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05vqt69.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250116065500 +0000" stop="20250116070500 +0000">
+	<programme channel="s4c" start="20250116070000 +0000" stop="20250116071000 +0000">
 		<title>Sblij a Sbloj - Cyfres 1: Pennod 24</title>
 		<desc>Cyfres i blant meithrin am ddau anghenfil bach hoffus a'u hymgyrch i ddod o hyd i lythr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05xnkrt.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250116070500 +0000" stop="20250116072000 +0000">
+	<programme channel="s4c" start="20250116071000 +0000" stop="20250116072000 +0000">
 		<title>Guto Gwningen - Cyfres 2: Hanes Pencampwr y Bowlio</title>
 		<desc>Beth sy'n digwydd ym myd Guto Gwningen heddiw? What's happening in Guto Gwningen's worl...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07txhxv.jpg" />
@@ -8265,12 +8275,12 @@
 		<desc>Mae Ela'n holi 'Pam bod fy mol yn rymblan?', ac mae Tad-cu'n adrodd stori am bentre' Uw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g0r0jt.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250116093000 +0000" stop="20250116094500 +0000">
+	<programme channel="s4c" start="20250116093000 +0000" stop="20250116094000 +0000">
 		<title>Patrôl Pawennau - Cyfres 1: Achub ar wib</title>
 		<desc>Mae Aled yn gwneud Beic Bwystfil o hen bethau ond mae'n disgyn yn ddarnau. Aled creates...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0645yv0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250116094500 +0000" stop="20250116100000 +0000">
+	<programme channel="s4c" start="20250116094000 +0000" stop="20250116100000 +0000">
 		<title>Sigldigwt - Series 2020: Pennod 6</title>
 		<desc>Mae Gwesty Sigldigwt ar agor! Ymunwch gyda Tref y ci, Elin a Berian wrth iddynt edrych ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07z0x3j.jpg" />
@@ -8280,27 +8290,27 @@
 		<desc>Mae 'na bry-cop yn sinc y gegin! Mae Fflwff eisiau chwarae ond ydi Brethyn yn rhy ofnus...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hr2xww.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250116100500 +0000" stop="20250116101500 +0000">
+	<programme channel="s4c" start="20250116100500 +0000" stop="20250116102000 +0000">
 		<title>Cymylaubychain - Cyfres 1: Glaw, Glaw, Glaw</title>
 		<desc>Mae'n ddiwrnod glawog, diflas yn y nen heddiw ond yn gyfle da i'r Cymylaubychain hel at...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03ms505.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250116101500 +0000" stop="20250116103000 +0000">
+	<programme channel="s4c" start="20250116102000 +0000" stop="20250116103500 +0000">
 		<title>Jen a Jim - Jen a Jim a'r Cywiadur: J - Jig-so Jac-do</title>
 		<desc>Mae Jen a Jim wedi derbyn gwahoddiad gan griw Cyw i gael picnic ar y traeth. Cyw and fr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04w3w45.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250116103000 +0000" stop="20250116104000 +0000">
+	<programme channel="s4c" start="20250116103500 +0000" stop="20250116104500 +0000">
 		<title>Sam Tân - Cyfres 10: Cyffro Cadetiaid</title>
 		<desc>Anturiaethau Sam Tân a'i ffrindiau yn y pentre'. The adventures of Sam Tân and friends ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250116104000 +0000" stop="20250116105500 +0000">
+	<programme channel="s4c" start="20250116104500 +0000" stop="20250116110000 +0000">
 		<title>Cacamwnci - Cyfres 2: Pennod 5</title>
 		<desc>Mae Cacamwnci yn ôl gyda mwy o sgetsys dwl a doniol! Byddwch yn barod am lond bol o chw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05vqt69.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250116105500 +0000" stop="20250116110500 +0000">
+	<programme channel="s4c" start="20250116110000 +0000" stop="20250116110500 +0000">
 		<title>Sblij a Sbloj - Cyfres 1: Pennod 23</title>
 		<desc>Mae'r ddau ddireidus yn ymweld â'r siop chwaraeon, ac yn llwyddo i golli'r lythyren 'r'...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05xnkrt.jpg" />
