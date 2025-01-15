@@ -271,7 +271,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250116200000 +0000" stop="20250116210000 +0000">
 		<title>Dragons' Den - Series 22: Episode 2</title>
-		<desc>The pitches include an accessibility app, a pizza business and AI video-editing software.</desc>
+		<desc>The pitches include a pizza business, AI video-editing software and a cocktail bar.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khncxr.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250116210000 +0000" stop="20250116220000 +0000">
@@ -714,19 +714,14 @@
 		<desc>Coverage of Prime Minister’s Questions.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09819qp.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250115130000 +0000" stop="20250115164500 +0000">
+	<programme channel="bbctwo" start="20250115130000 +0000" stop="20250115173000 +0000">
 		<title>Snooker: The Masters - 2025: Day 4, Part 1</title>
 		<desc>Coverage of the 2025 Masters tournament from Alexandra Palace in London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khvqbb.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250115164500 +0000" stop="20250115171500 +0000">
-		<title>The Wonder of Animals - 3. Big Cats</title>
-		<desc>Chris Packham explores what makes big cats such good hunters.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0253q51.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20250115171500 +0000" stop="20250115180000 +0000">
-		<title>Flog It! - Series 17: Episode 14</title>
-		<desc>Members of the public try and make money out of their antiques.</desc>
+	<programme channel="bbctwo" start="20250115173000 +0000" stop="20250115180000 +0000">
+		<title>Flog It! - Series 17: Episode 2</title>
+		<desc>In Wiltshire, Mark Stacey comes across a valuable 20th-century Leica camera.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250115180000 +0000" stop="20250115183000 +0000">
@@ -937,7 +932,7 @@
 	<programme channel="bbctwo" start="20250117130000 +0000" stop="20250117161500 +0000">
 		<title>Snooker: The Masters - 2025: Day 6, Part 1</title>
 		<desc>Coverage of the 2025 Masters tournament from Alexandra Palace in London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjb56v.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjwqmp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250117161500 +0000" stop="20250117171500 +0000">
 		<title>World's Weirdest Events - Episode 6</title>
@@ -5159,7 +5154,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20250115230000 +0000" stop="20250115233000 +0000">
 		<title>Scotcast - Why Lockerbie Is Back in the News</title>
-		<desc>The team recall Britain's worst terror attack and where the story goes from here.</desc>
+		<desc>The team recalls Britain's worst terror attack and where the story goes from here.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kgz13h.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250115233000 +0000" stop="20250116000000 +0000">
@@ -5538,14 +5533,14 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250115180000 +0000" stop="20250115183000 +0000">
-		<title>BBC News at Six - 15/01/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
+		<title>The World Today with Maryam Moshiri - 15/01/2025</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250115183000 +0000" stop="20250115190000 +0000">
-		<title>Sportsday - 15/01/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
+		<title>The World Today with Maryam Moshiri - 15/01/2025</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250115190000 +0000" stop="20250115193000 +0000">
 		<title>The World Today with Maryam Moshiri - 15/01/2025</title>
@@ -6323,9 +6318,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250119003000 +0000" stop="20250119010000 +0000">
-		<title>Targeted: Lebanon's Deadliest Attack</title>
-		<desc>BBC Eye investigates the deadliest Israeli airstrike on Lebanon in nearly 20 years.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<title>Americast - How Will Joe Biden Be Remembered?</title>
+		<desc>The Americast team assess Biden's legacy as he prepares to leave the White House.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j72y80.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250119010000 +0000" stop="20250119013000 +0000">
 		<title>BBC News - 19/01/2025</title>
@@ -6433,9 +6428,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250119143000 +0000" stop="20250119150000 +0000">
-		<title>Behind the Stories - Syria: Returning Home</title>
-		<desc>Eleven years since she fled, Lina Sinjab returns to Damascus while the Assad regime falls.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kczlxq.jpg" />
+		<title>Americast - How Will Joe Biden Be Remembered?</title>
+		<desc>The Americast team assess Biden's legacy as he prepares to leave the White House.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j72y80.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250119150000 +0000" stop="20250119153000 +0000">
 		<title>BBC News - 19/01/2025</title>
@@ -6620,7 +6615,7 @@
 	<programme channel="bbcparliament" start="20250115100000 +0000" stop="20250115113000 +0000">
 		<title>Select Committees - Education Select Committee</title>
 		<desc>The Education select committee with evidence from education secretary Bridget Phillipson.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjvbhx.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250115113000 +0000" stop="20250115120000 +0000">
 		<title>House of Commons - Northern Ireland Office Questions</title>
@@ -6635,22 +6630,22 @@
 	<programme channel="bbcparliament" start="20250115123500 +0000" stop="20250115132000 +0000">
 		<title>House of Commons - Foot and Mouth Disease Urgent Question</title>
 		<desc>Urgent question on the response to foot and mouth disease in animals in Germany.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjvjh8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250115132000 +0000" stop="20250115140000 +0000">
 		<title>House of Commons - Local Government Reorganisation Urgent Question</title>
 		<desc>Urgent question on plans for the reorganisation of local government, on 15 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjvwlv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250115140000 +0000" stop="20250115144500 +0000">
 		<title>House of Commons - NHS Winter Update Statement</title>
 		<desc>Statement by health secretary Wes Streeting updating MPs on the NHS over the winter period</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjvys6.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250115144500 +0000" stop="20250115153000 +0000">
 		<title>House of Commons - Higher Education Statement</title>
 		<desc>Statement on the government's regulatory approach to higher education.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjw48b.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250115153000 +0000" stop="20250115193000 +0000">
 		<title>House of Commons - 15/01/2025</title>
@@ -6680,17 +6675,27 @@
 	<programme channel="bbcparliament" start="20250116060000 +0000" stop="20250116063000 +0000">
 		<title>House of Commons - Northern Ireland Office Questions</title>
 		<desc>Coverage of questions to Hilary Benn on Wednesday 15 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjv8gh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250116063000 +0000" stop="20250116070500 +0000">
 		<title>Prime Minister's Questions - 15/01/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 15 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjs9xq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250116070500 +0000" stop="20250116093000 +0000">
-		<title>House of Commons - 15/01/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 15 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250116070500 +0000" stop="20250116074500 +0000">
+		<title>House of Commons - Foot and Mouth Disease Urgent Question</title>
+		<desc>Urgent question on the response to foot and mouth disease in animals in Germany.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjvjh8.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250116074500 +0000" stop="20250116084500 +0000">
+		<title>House of Commons - Higher Education Statement</title>
+		<desc>Statement on the government's regulatory approach to higher education.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjw48b.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250116084500 +0000" stop="20250116093000 +0000">
+		<title>Lords Questions - 15/01/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Wednesday 15 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250116093000 +0000" stop="20250116101000 +0000">
 		<title>House of Commons - Culture, Media and Sport Questions</title>
@@ -6820,7 +6825,7 @@
 	<programme channel="bbcparliament" start="20250118122000 +0000" stop="20250118131000 +0000">
 		<title>Welsh First Minister's Questions - 14/01/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 14 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjtphb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250118131000 +0000" stop="20250118135500 +0000">
 		<title>Northern Ireland Assembly - Justice Questions</title>
@@ -6875,7 +6880,7 @@
 	<programme channel="bbcparliament" start="20250119014000 +0000" stop="20250119023000 +0000">
 		<title>Welsh First Minister's Questions - 14/01/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 14 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjtphb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250119023000 +0000" stop="20250119033000 +0000">
 		<title>House of Commons - Home Office Questions</title>
@@ -6890,7 +6895,7 @@
 	<programme channel="bbcparliament" start="20250119043000 +0000" stop="20250119050000 +0000">
 		<title>House of Commons - Northern Ireland Office Questions</title>
 		<desc>Coverage of questions to Hilary Benn on Wednesday 15 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjv8gh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250119050000 +0000" stop="20250119054000 +0000">
 		<title>House of Commons - Culture, Media and Sport Questions</title>
@@ -6975,7 +6980,7 @@
 	<programme channel="bbcparliament" start="20250120012000 +0000" stop="20250120015000 +0000">
 		<title>House of Commons - Northern Ireland Office Questions</title>
 		<desc>Coverage of questions to Hilary Benn on Wednesday 15 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjv8gh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250120015000 +0000" stop="20250120025000 +0000">
 		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
