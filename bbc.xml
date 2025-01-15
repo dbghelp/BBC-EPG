@@ -151,7 +151,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250115220000 +0000" stop="20250115223000 +0000">
 		<title>BBC News at Ten - 15/01/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Israel and Hamas reach a ceasefire deal to end 15 months of war.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250115223000 +0000" stop="20250115224000 +0000">
@@ -159,22 +159,22 @@
 		<desc>The latest news, sport and weather from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250115224000 +0000" stop="20250116000000 +0000">
+	<programme channel="bbcone" start="20250115224000 +0000" stop="20250116001000 +0000">
 		<title>Match of the Day - 2024/25: 15/01/2025</title>
 		<desc>Highlights from eight midweek Premier League games, including Arsenal v Tottenham.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jk92pf.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250116000000 +0000" stop="20250116004500 +0000">
+	<programme channel="bbcone" start="20250116001000 +0000" stop="20250116005500 +0000">
 		<title>The Weakest Link - Series 4: Episode 7</title>
 		<desc>Celebrity contestants in this episode include Mel B, Eamonn Holmes and Shobna Gulati.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kh4pyq.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250116004500 +0000" stop="20250116005000 +0000">
+	<programme channel="bbcone" start="20250116005500 +0000" stop="20250116010000 +0000">
 		<title>Weather for the Week Ahead - 16/01/2025</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250116005000 +0000" stop="20250116060000 +0000">
+	<programme channel="bbcone" start="20250116010000 +0000" stop="20250116060000 +0000">
 		<title>Joins BBC News - 16/01/2025</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -755,8 +755,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjv62f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250115223000 +0000" stop="20250115230000 +0000">
-		<title>Newsnight - 15/01/2025</title>
-		<desc>The day's important national and international news stories with Alex Forsyth.</desc>
+		<title>Newsnight - End of the Gaza war?</title>
+		<desc>As a ceasefire is announce in Gaza, will it stick?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250115230000 +0000" stop="20250115230500 +0000">
@@ -1724,12 +1724,12 @@
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250115190000 +0000" stop="20250115220000 +0000">
+	<programme channel="bbcfour" start="20250115190000 +0000" stop="20250115224500 +0000">
 		<title>Snooker: The Masters - 2025: Day 4, Part 2</title>
 		<desc>Coverage of the 2025 Masters tournament from Alexandra Palace in London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khvqmh.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250115220000 +0000" stop="20250115233000 +0000">
+	<programme channel="bbcfour" start="20250115224500 +0000" stop="20250115233000 +0000">
 		<title>Eric and Ernie</title>
 		<desc>One-off drama telling the story of Eric Morecambe and Ernie Wise's formative years.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hhwr3m.jpg" />
@@ -5574,12 +5574,12 @@
 	</programme>
 	<programme channel="bbcnews" start="20250115220000 +0000" stop="20250115223000 +0000">
 		<title>BBC News at Ten - 15/01/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Israel and Hamas reach a ceasefire deal to end 15 months of war.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250115223000 +0000" stop="20250115230000 +0000">
-		<title>Newsnight - 15/01/2025</title>
-		<desc>The day's important national and international news stories with Alex Forsyth.</desc>
+		<title>Newsnight - End of the Gaza war?</title>
+		<desc>As a ceasefire is announce in Gaza, will it stick?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250115230000 +0000" stop="20250116000000 +0000">
@@ -7769,7 +7769,7 @@
 	</programme>
 	<programme channel="s4c" start="20250115202500 +0000" stop="20250115205500 +0000">
 		<title>Colleen Ramsey: Bywyd a Bwyd - Cyfres 3: Hyder i Coginio</title>
-		<desc>Tro hwn mae Colleen yn rhannu rysieitiau a dulliau coginio i rhoi hyder i bobol sy'n me...</desc>
+		<desc>Tro hwn mae Colleen yn rhannu ryseitiau a dulliau coginio i roi hyder i bobol sy'n medd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kgz3fm.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250115205500 +0000" stop="20250115210000 +0000">
