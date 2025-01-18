@@ -780,9 +780,14 @@
 		<desc>Paul Newman and Robert Redford play the most outrageous outlaws in western history.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fdlx8w.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250118163000 +0000" stop="20250118173000 +0000">
-		<title>Flog It! - Series 11 (Extended Versions): Episode 3</title>
-		<desc>Paul Martin presents from a very special venue – Hereford Cathedral. </desc>
+	<programme channel="bbctwo" start="20250118163000 +0000" stop="20250118170000 +0000">
+		<title>Snooker: The Masters - 2025: Day 7, Part 1 - Extended</title>
+		<desc>Coverage of the 2025 Masters tournament from Alexandra Palace in London.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjb56v.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250118170000 +0000" stop="20250118173000 +0000">
+		<title>Flog It! - Series 13 (30-Minute Versions): 5. Gloucester</title>
+		<desc>Flog It! comes from the magnificent cathedral city of Gloucester.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250118173000 +0000" stop="20250118183000 +0000">
@@ -5508,15 +5513,10 @@
 		<desc>Roma Wells heads to the far north of Iceland at the edge of the Arctic Circle.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kkbqj2.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250118140000 +0000" stop="20250118143000 +0000">
+	<programme channel="bbcnews" start="20250118140000 +0000" stop="20250118150000 +0000">
 		<title>BBC News - 18/01/2025</title>
 		<desc>The latest news from the BBC including sport.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250118143000 +0000" stop="20250118150000 +0000">
-		<title>The Media Show - Reporting the LA Fires</title>
-		<desc>Challenge and dilemma for journalists reporting on Los Angeles disaster.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250118150000 +0000" stop="20250118153000 +0000">
 		<title>BBC News - 18/01/2025</title>
@@ -5654,21 +5654,10 @@
 		<desc>What are the top technology trends to watch in 2025? </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kkbcm6.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250119050000 +0000" stop="20250119053000 +0000">
+	<programme channel="bbcnews" start="20250119050000 +0000" stop="20250119090000 +0000">
 		<title>BBC News - 19/01/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250119053000 +0000" stop="20250119060000 +0000">
-		<title>Talking Business - 17/01/2025</title>
-		<desc>Ben Thompson asks if this is the year when driverless vehicles finally go mainstream.
-</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250119060000 +0000" stop="20250119090000 +0000">
-		<title>Breakfast - 19/01/2025</title>
-		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250119090000 +0000" stop="20250119100000 +0000">
 		<title>Sunday with Laura Kuenssberg - 19/01/2025</title>
