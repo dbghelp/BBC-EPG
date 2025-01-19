@@ -55,8 +55,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kk9xnp.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250119090000 +0000" stop="20250119100000 +0000">
-		<title>Sunday with Laura Kuenssberg - 19/01/2025</title>
-		<desc>Laura is joined by Darren Jones MP, Priti Patel MP, Greg Swenson and Jens Stoltenberg.</desc>
+		<title>Sunday with Laura Kuenssberg - Ceasefire in Gaza and Trump's Inauguration</title>
+		<desc>Laura is joined by Darren Jones MP, Priti Patel MP, Greg Swenson and Sharone Lifschitz.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cx8pct.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250119100000 +0000" stop="20250119103000 +0000">
@@ -750,10 +750,15 @@
 		<desc>George and Sybil gather in their sheep from over six square miles of rugged mountainside.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03m0d1g.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250119130000 +0000" stop="20250119160000 +0000">
+	<programme channel="bbctwo" start="20250119130000 +0000" stop="20250119154500 +0000">
 		<title>Snooker: The Masters - 2025: Day 8, Part 1</title>
 		<desc>Coverage of the 2025 Masters tournament from Alexandra Palace in London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kkmhn4.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250119154500 +0000" stop="20250119160000 +0000">
+		<title>The Hairy Bikers' Cookbook - The Hairy Bakers: 2. Teatime Treats</title>
+		<desc>The Hairy Bikers, Dave and Si, examine the history and conventions of afternoon tea.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h9b5hz.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250119160000 +0000" stop="20250119163000 +0000">
 		<title>The Wonder of Animals - 9. Dolphins</title>
