@@ -790,8 +790,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khwsq3.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250120223000 +0000" stop="20250120230500 +0000">
-		<title>Newsnight - 20/01/2025</title>
-		<desc>The day's important national and international news stories. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Trump’s Inauguration</title>
+		<desc>Donald Trump returns to the White House, declaring an emergency on the US-Mexico border.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250120230500 +0000" stop="20250120231000 +0000">
@@ -6801,14 +6801,29 @@
 		<desc>Questions in Stormont to the deputy first minister Emma Little-Pengelly, from 20 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250120231500 +0000" stop="20250120235500 +0000">
+	<programme channel="bbcparliament" start="20250120231500 +0000" stop="20250120232500 +0000">
+		<title>House of Lords - House of Lords Introductions</title>
+		<desc>Lords Introductions with Baroness Griffin of Princethorpe and Lord Wilson of Sedgefield.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250120232500 +0000" stop="20250121000500 +0000">
 		<title>Lords Questions - 20/01/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 20 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250120235500 +0000" stop="20250121060000 +0000">
-		<title>House of Lords - 20/01/2025</title>
-		<desc>Business in the House of Lords on Monday 20 January.</desc>
+	<programme channel="bbcparliament" start="20250121000500 +0000" stop="20250121003000 +0000">
+		<title>House of Lords - Child Sexual Exploitation and Abuse Statement</title>
+		<desc>The statement on new local inquiries into child sexual exploitation and abuse.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250121003000 +0000" stop="20250121043000 +0000">
+		<title>House of Lords - Mental Health Bill</title>
+		<desc>Business in the House of Lords including the committee stage of the Mental Health Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250121043000 +0000" stop="20250121060000 +0000">
+		<title>House of Lords - Asylum Hotels</title>
+		<desc>Business in the House of Lords including a short debate on asylum hotels, on 20 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250121060000 +0000" stop="20250121070500 +0000">
