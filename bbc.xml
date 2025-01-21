@@ -780,8 +780,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjsrn2.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250121223000 +0000" stop="20250121230000 +0000">
-		<title>Newsnight - 21/01/2025</title>
-		<desc>The day's important national and international news stories. With Victoria Derbyshire.</desc>
+		<title>Newsnight - ‘Face of Capitol Riot’ Speaks</title>
+		<desc>Newsnight speaks to Jacob Chansley, who was jailed for his involvement in the Capitol riot</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250121230000 +0000" stop="20250121230500 +0000">
@@ -5684,8 +5684,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250121223000 +0000" stop="20250121230000 +0000">
-		<title>Newsnight - 21/01/2025</title>
-		<desc>The day's important national and international news stories. With Victoria Derbyshire.</desc>
+		<title>Newsnight - ‘Face of Capitol Riot’ Speaks</title>
+		<desc>Newsnight speaks to Jacob Chansley, who was jailed for his involvement in the Capitol riot</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250121230000 +0000" stop="20250122000000 +0000">
@@ -6793,14 +6793,29 @@
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 21 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250121225000 +0000" stop="20250121233000 +0000">
+	<programme channel="bbcparliament" start="20250121225000 +0000" stop="20250121233500 +0000">
 		<title>Lords Questions - 21/01/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 21 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250121233000 +0000" stop="20250122060000 +0000">
-		<title>House of Lords - 21/01/2025</title>
-		<desc>Business in the House of Lords on Tuesday 21 January.</desc>
+	<programme channel="bbcparliament" start="20250121233500 +0000" stop="20250121235000 +0000">
+		<title>House of Lords - Lords Introductions</title>
+		<desc>The introduction to the House of Lords of Baroness Coffey and Lord Evans of Sealand.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250121235000 +0000" stop="20250122003000 +0000">
+		<title>House of Lords - Lords NHS Winter Update Statement</title>
+		<desc>The statement in the Lords on the winter performance of the NHS, on Tuesday 21 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250122003000 +0000" stop="20250122011000 +0000">
+		<title>House of Lords - Lords Higher Education Statement</title>
+		<desc>The statement in the Lords on universities and freedom of speech legislation.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250122011000 +0000" stop="20250122060000 +0000">
+		<title>House of Lords - Data (Use and Access) Bill</title>
+		<desc>Lords business including debate on the report stage of the Data (Use and Access) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250122060000 +0000" stop="20250122070000 +0000">
