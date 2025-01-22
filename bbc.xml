@@ -5214,8 +5214,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h5z0js.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250122230000 +0000" stop="20250122233000 +0000">
-		<title>Scotcast - 22/01/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
+		<title>Scotcast - Mary v the Porn Industry</title>
+		<desc>Lawyer Mary Sharpe tells the team about her fight for stricter controls on adult content.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250122233000 +0000" stop="20250123000000 +0000">
@@ -5605,7 +5605,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250122183000 +0000" stop="20250122190000 +0000">
 		<title>Sportsday - 22/01/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
+		<desc>Champions League, Australian Open, T20 cricket and a record fee for a female footballer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250122190000 +0000" stop="20250122193000 +0000">
@@ -6219,7 +6219,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250125043000 +0000" stop="20250125050000 +0000">
-		<title>The Travel Show - 25/01/2025</title>
+		<title>The Travel Show - Vanlife: Freedom on Four Wheels</title>
 		<desc>Join the team on their journey of discovery as they explore the globe.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
 	</programme>
@@ -6279,7 +6279,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250125133000 +0000" stop="20250125140000 +0000">
-		<title>The Travel Show - 25/01/2025</title>
+		<title>The Travel Show - Vanlife: Freedom on Four Wheels</title>
 		<desc>Join the team on their journey of discovery as they explore the globe.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
 	</programme>
@@ -6676,7 +6676,7 @@
 	<programme channel="bbcparliament" start="20250122113000 +0000" stop="20250122120000 +0000">
 		<title>House of Commons - Scotland Office Questions</title>
 		<desc>Coverage of questions to Ian Murray on Wednesday 22 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0klcpk0.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250122120000 +0000" stop="20250122123500 +0000">
 		<title>Prime Minister's Questions - 22/01/2025</title>
@@ -6686,7 +6686,7 @@
 	<programme channel="bbcparliament" start="20250122123500 +0000" stop="20250122125500 +0000">
 		<title>House of Commons - Competition and Market Authority Urgent Question</title>
 		<desc>Urgent question on the position of the chair of the Competition &amp; Markets Authority (CMA).</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0klcq4z.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250122125500 +0000" stop="20250122135000 +0000">
 		<title>House of Commons - Russian Maritime Activity Statement</title>
@@ -6736,17 +6736,27 @@
 	<programme channel="bbcparliament" start="20250123060000 +0000" stop="20250123063000 +0000">
 		<title>House of Commons - Scotland Office Questions</title>
 		<desc>Coverage of questions to Ian Murray on Wednesday 22 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0klcpk0.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250123063000 +0000" stop="20250123070500 +0000">
 		<title>Prime Minister's Questions - 22/01/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 22 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl90zq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250123070500 +0000" stop="20250123093000 +0000">
-		<title>House of Commons - 22/01/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 22 January.</desc>
+	<programme channel="bbcparliament" start="20250123070500 +0000" stop="20250123075000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Holocaust Memorial Day</title>
+		<desc>Statement by cabinet secretary for social justice, Jane Hutt, for Holocaust Memorial Day.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250123075000 +0000" stop="20250123081000 +0000">
+		<title>House of Commons - Select Committee Statement on the Office for Value for Money</title>
+		<desc>Coverage of the day's proceedings in the House of Commons.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250123081000 +0000" stop="20250123093000 +0000">
+		<title>House of Commons - Southport Statement</title>
+		<desc>Statement on the public inquiry into the Southport stabbings on 29 July 2024.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl65sz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250123093000 +0000" stop="20250123103000 +0000">
 		<title>House of Commons - Cabinet Office Questions</title>
@@ -6931,7 +6941,7 @@
 	<programme channel="bbcparliament" start="20250126043000 +0000" stop="20250126050000 +0000">
 		<title>House of Commons - Scotland Office Questions</title>
 		<desc>Coverage of questions to Ian Murray on Wednesday 22 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0klcpk0.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250126050000 +0000" stop="20250126060000 +0000">
 		<title>House of Commons - Cabinet Office Questions</title>
@@ -7006,7 +7016,7 @@
 	<programme channel="bbcparliament" start="20250127012000 +0000" stop="20250127015000 +0000">
 		<title>House of Commons - Scotland Office Questions</title>
 		<desc>Coverage of questions to Ian Murray on Wednesday 22 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0klcpk0.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250127015000 +0000" stop="20250127025000 +0000">
 		<title>House of Commons - Treasury Questions</title>
