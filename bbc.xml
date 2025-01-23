@@ -165,9 +165,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250123234000 +0000" stop="20250124001000 +0000">
-		<title>Newscast - Series 5: 23/01/2025</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
+		<title>Newscast - Series 5: 25. Trump Returns, the EU and No to NIMBYs?</title>
+		<desc>Adam, Chris, Vicki and James discuss Donald Trump’s first week back, the EU and planning. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0klq0fg.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250124001000 +0000" stop="20250124001500 +0000">
 		<title>Weather for the Week Ahead - 24/01/2025</title>
@@ -775,8 +775,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khmswb.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250123223000 +0000" stop="20250123230000 +0000">
-		<title>Newsnight - 23/01/2025</title>
-		<desc>The day's important national and international news stories. With Paddy O’Connell.</desc>
+		<title>Newsnight - The Southport Murderer and the Missed Warnings</title>
+		<desc>As Axel Rudakubana is jailed for killing three girls, why were the warning signs missed? </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250123230000 +0000" stop="20250123230500 +0000">
@@ -5671,9 +5671,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250123183000 +0000" stop="20250123190000 +0000">
-		<title>Sportsday - 23/01/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
+		<title>North West Tonight - Evening News: 23/01/2025</title>
+		<desc>The latest news, sport and weather for the North West of England.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hz9nwc.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250123190000 +0000" stop="20250123193000 +0000">
 		<title>The World Today with Maryam Moshiri - 23/01/2025</title>
@@ -5711,8 +5711,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250123223000 +0000" stop="20250123230000 +0000">
-		<title>Newsnight - 23/01/2025</title>
-		<desc>The day's important national and international news stories. With Paddy O’Connell.</desc>
+		<title>Newsnight - The Southport Murderer and the Missed Warnings</title>
+		<desc>As Axel Rudakubana is jailed for killing three girls, why were the warning signs missed? </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250123230000 +0000" stop="20250124000000 +0000">
@@ -6815,11 +6815,6 @@
 		<desc>Statement on Energy Company Obligation 4 and Great British Insulation Schemes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250124041500 +0000" stop="20250124063000 +0000">
-		<title>House of Commons - 23/01/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 23 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
 	<programme channel="bbcparliament" start="20250124063000 +0000" stop="20250124081000 +0000">
 		<title>Westminster Hall - 20/01/2025</title>
 		<desc>Proceedings in Westminster Hall, from Monday 20 January.</desc>
@@ -6840,34 +6835,69 @@
 		<desc>Coverage of the day's proceedings in the House of Commons on Friday 24 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250124150000 +0000" stop="20250124180000 +0000">
-		<title>House of Lords - 24/01/2025</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
+	<programme channel="bbcparliament" start="20250124150000 +0000" stop="20250124155000 +0000">
+		<title>House of Lords - Asylum Hotels</title>
+		<desc>The debate on ceasing the use of hotels to house asylum seekers, from Monday 19 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250124180000 +0000" stop="20250124210000 +0000">
-		<title>Select Committees - 24/01/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20250124155000 +0000" stop="20250124181000 +0000">
+		<title>House of Lords - Economic Growth</title>
+		<desc>Debate on economic growth, tabled by Conservative peer Lord Farmer.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250124181000 +0000" stop="20250124205500 +0000">
+		<title>Select Committees - Environment, Food and Rural Affairs Committee</title>
+		<desc>Coverage of the committee session on reform of the water sector, from Tuesday 21 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250124210000 +0000" stop="20250124214500 +0000">
+	<programme channel="bbcparliament" start="20250124205500 +0000" stop="20250124210500 +0000">
+		<title>Ten Minute Rule Bill - Improving Accessibility for Blind Voters in Elections</title>
+		<desc>Introduction of a Bill on measures to improve accessibility for blind voters in elections.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kllkkk.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250124210500 +0000" stop="20250124215500 +0000">
 		<title>Scottish First Minister's Questions - 23/01/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 23 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250124214500 +0000" stop="20250125010000 +0000">
-		<title>Scottish Parliament - 24/01/2025 Part 1</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20250124215500 +0000" stop="20250124221500 +0000">
+		<title>Scottish Parliament - General Questions</title>
+		<desc>General questions to ministers in the Scottish government, from Thursday 23 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250125010000 +0000" stop="20250125015000 +0000">
+	<programme channel="bbcparliament" start="20250124221500 +0000" stop="20250124224000 +0000">
+		<title>Scottish Parliament - Social Justice Questions</title>
+		<desc>Questions to Shirley-Anne Somerville, from Thursday 23 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250124224000 +0000" stop="20250124232000 +0000">
+		<title>Scottish Parliament - Fatal Accident Inquiries Statement</title>
+		<desc>Statement on fatal accident inquiries into the deaths of Katie Allan and William Brown.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250124232000 +0000" stop="20250124235500 +0000">
+		<title>Scottish Parliament - National Care Service Statement</title>
+		<desc>The statement on the future of the National Care Service, from Thursday 23 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250124235500 +0000" stop="20250125021000 +0000">
+		<title>Scottish Parliament - Welfare of Dogs Bill</title>
+		<desc>The debate on the Welfare of Dogs (Scotland) Bill, from Thursday 23 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250125021000 +0000" stop="20250125030500 +0000">
 		<title>Welsh First Minister's Questions - 21/01/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 21 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0klf3h4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250125015000 +0000" stop="20250125043000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 25/01/2025</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20250125030500 +0000" stop="20250125034500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
+		<desc>Questions to the counsel general and minister for delivery, Julie James, from 21 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250125034500 +0000" stop="20250125043000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Primary Care Services Statement</title>
+		<desc>The statement on access to primary and community care services, from Tuesday 21 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250125043000 +0000" stop="20250125051500 +0000">
@@ -6876,8 +6906,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl66xw.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250125051500 +0000" stop="20250125060000 +0000">
-		<title>Northern Ireland Assembly - 24/01/2024</title>
-		<desc>A highlight from the Northern Ireland Assembly.</desc>
+		<title>Northern Ireland Assembly - Economy Questions</title>
+		<desc>Questions with the economy minister, Conor Murphy, on Monday 20 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250125060000 +0000" stop="20250125110000 +0000">
