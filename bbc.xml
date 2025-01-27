@@ -89,15 +89,15 @@
 		<desc>A teacher sends out a plea for help to find her phone and precious wedding rings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kcg87c.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250127143000 +0000" stop="20250127171500 +0000">
+	<programme channel="bbcone" start="20250127143000 +0000" stop="20250127173000 +0000">
 		<title>BBC News Special - 80th Anniversary of the Liberation of Auschwitz</title>
 		<desc>A special programme, live from Auschwitz, covering the commemoration ceremony at the camp.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0klkcbc.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250127171500 +0000" stop="20250127180000 +0000">
-		<title>Pointless - Series 32: Episode 43</title>
-		<desc>Will the muppets and wombles see contestants clearing up in today's show?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kk2kms.jpg" />
+	<programme channel="bbcone" start="20250127173000 +0000" stop="20250127180000 +0000">
+		<title>The Travelling Auctioneers - Series 1: Episode 2</title>
+		<desc>Christina and Will help a mother and daughter sell their valuables for charity.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0db1hw1.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250127180000 +0000" stop="20250127183000 +0000">
 		<title>BBC News at Six - 27/01/2025</title>
@@ -755,9 +755,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07jbx7z.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250127171500 +0000" stop="20250127180000 +0000">
-		<title>Flog It! - Series 17: Episode 4</title>
-		<desc>Christina and Raj are on hand to find a selection of objects to take to auction. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
+		<title>Pointless - Series 32: Episode 43</title>
+		<desc>Will the muppets and wombles see contestants clearing up in today's show?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kk2kms.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250127180000 +0000" stop="20250127183000 +0000">
 		<title>Richard Osman's House of Games - Series 8: 71. Redemption Week 1: Monday</title>
@@ -825,9 +825,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kkd19s.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250128032500 +0000" stop="20250128042500 +0000">
-		<title>Silent Witness - Series 28: 5. Broken - Part 1</title>
-		<desc>The hand of a woman is found in a canal. Can the Lyell team find her before it’s too late?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjt6s8.jpg" />
+		<title>Silent Witness - Series 28: 6. Broken - Part 2</title>
+		<desc>Nikki performs an unusual post-mortem, and the trail leads to a terrifying discovery.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjt989.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250128042500 +0000" stop="20250128063000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
@@ -915,9 +915,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kll4r6.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250128210000 +0000" stop="20250128214500 +0000">
-		<title>QI XL - Series V: 14. Victory</title>
-		<desc>Sandi and Alan search for victory with Rob Beckett, Daliso Chaponda and Lara Ricote.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kllds7.jpg" />
+		<title>QI XL - Series U: 2. Upside Down</title>
+		<desc>Aisling Bea, Urzila Carlson and Romesh Ranganathan compete in this upside-down episode.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gxqltf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250128214500 +0000" stop="20250128223000 +0000">
 		<title>Live at the Apollo - Series 19: Episode 6</title>
@@ -954,12 +954,7 @@
 		<desc>A vast Roman building, an Iron Age chariot and Devon’s transatlantic slave trade past.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kg8zkv.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250129030500 +0000" stop="20250129040500 +0000">
-		<title>Silent Witness - Series 28: 6. Broken - Part 2</title>
-		<desc>Nikki performs an unusual post-mortem, and the trail leads to a terrifying discovery.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjt989.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20250129040500 +0000" stop="20250129063000 +0000">
+	<programme channel="bbctwo" start="20250129030500 +0000" stop="20250129063000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -5770,15 +5765,10 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250127143000 +0000" stop="20250127171500 +0000">
+	<programme channel="bbcnews" start="20250127143000 +0000" stop="20250127173000 +0000">
 		<title>BBC News Special - 80th Anniversary of the Liberation of Auschwitz</title>
 		<desc>A special programme, live from Auschwitz, covering the commemoration ceremony at the camp.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0klkcbc.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250127171500 +0000" stop="20250127173000 +0000">
-		<title>BBC News - 27/01/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250127173000 +0000" stop="20250127180000 +0000">
 		<title>BBC News - 27/01/2025</title>
@@ -6958,22 +6948,22 @@
 	<programme channel="bbcparliament" start="20250127120000 +0000" stop="20250127140000 +0000">
 		<title>Northern Ireland Assembly - 27/01/2024</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 27 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmf4ly.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250127140000 +0000" stop="20250127143000 +0000">
 		<title>Northern Ireland Assembly - Infrastructure Questions</title>
 		<desc>Coverage of questions to infrastructure minister John O'Dowd, on Monday 27 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmf66p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250127143000 +0000" stop="20250127153000 +0000">
 		<title>House of Commons - Education Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Monday 27 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmf31f.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250127153000 +0000" stop="20250127161500 +0000">
 		<title>House of Commons - Defence Spending Urgent Question</title>
 		<desc>Urgent question on the impact of government fiscal policy on defence.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmf3qv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250127161500 +0000" stop="20250127171500 +0000">
 		<title>House of Commons - Storm Éowyn Statement</title>
@@ -6988,7 +6978,7 @@
 	<programme channel="bbcparliament" start="20250127223000 +0000" stop="20250127231500 +0000">
 		<title>Northern Ireland Assembly - Infrastructure Questions</title>
 		<desc>Coverage of questions to infrastructure minister John O'Dowd, on Monday 27 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmf66p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250127231500 +0000" stop="20250127235500 +0000">
 		<title>Lords Questions - 27/01/2025</title>
@@ -7025,23 +7015,23 @@
 		<desc>Business in the House of Lords on Monday 27 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250127235500 +0000" stop="20250128070000 +0000">
-		<title>House of Lords - 27/01/2025</title>
-		<desc>Business in the House of Lords on Monday 27 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
 	<programme channel="bbcparliament" start="20250128070000 +0000" stop="20250128080000 +0000">
 		<title>House of Commons - Education Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Monday 27 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmf31f.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250128080000 +0000" stop="20250128093000 +0000">
-		<title>House of Commons - 27/01/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 27 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250128080000 +0000" stop="20250128085500 +0000">
+		<title>Northern Ireland Assembly - Northern Ireland Assembly ·</title>
+		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250128093000 +0000" stop="20250128113000 +0000">
-		<title>Select Committees - 28/01/2025</title>
+	<programme channel="bbcparliament" start="20250128085500 +0000" stop="20250128092500 +0000">
+		<title>House of Commons - Agricultural Property Relief Urgent Question</title>
+		<desc>Urgent question on the costing of changes to Agricultural and Business Property Relief.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0klmm12.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250128092500 +0000" stop="20250128113000 +0000">
+		<title>Select Committees - Terminally Ill Adults Bill Committee</title>
 		<desc>Coverage of select committee proceedings on Tuesday 28 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
@@ -7228,7 +7218,7 @@
 	<programme channel="bbcparliament" start="20250201043000 +0000" stop="20250201051500 +0000">
 		<title>Northern Ireland Assembly - Infrastructure Questions</title>
 		<desc>Coverage of questions to infrastructure minister John O'Dowd, on Monday 27 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmf66p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250201051500 +0000" stop="20250201060000 +0000">
 		<title>Northern Ireland Assembly - 31/01/2024</title>
@@ -7543,7 +7533,7 @@
 	<programme channel="bbcalba" start="20250129210000 +0000" stop="20250129213000 +0000">
 		<title>Eòrpa - Series 32: 12. After the Storm</title>
 		<desc>Eòrpa is examining the most important stories from across Europe and the UK.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbr1wg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmdn9r.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250129213000 +0000" stop="20250129225500 +0000">
 		<title>Rose Reilly</title>
