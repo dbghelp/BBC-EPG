@@ -304,12 +304,17 @@
 		<desc>Lighthearted discussion of the week's political events.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250131001000 +0000" stop="20250131001500 +0000">
+	<programme channel="bbcone" start="20250131001000 +0000" stop="20250131011000 +0000">
+		<title>Michael McIntyre's Big Show - Series 8: Episode 2</title>
+		<desc>Michael McIntyre's guests are Michael Sheen, Olly Murs and Craig David.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl267b.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20250131011000 +0000" stop="20250131011500 +0000">
 		<title>Weather for the Week Ahead - 31/01/2025</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250131001500 +0000" stop="20250131060000 +0000">
+	<programme channel="bbcone" start="20250131011500 +0000" stop="20250131060000 +0000">
 		<title>Joins BBC News - 31/01/2025</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -5277,8 +5282,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dtg05s.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250129230000 +0000" stop="20250129233000 +0000">
-		<title>Scotcast - 29/01/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
+		<title>Scotcast - Stopping the Scammers</title>
+		<desc>With incidents of fraud soaring, the team ask how we can stop scammers in their tracks.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250129233000 +0000" stop="20250130000000 +0000">
@@ -5626,12 +5631,7 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250129163000 +0000" stop="20250129164500 +0000">
-		<title>Business Today - 29/01/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250129164500 +0000" stop="20250129170000 +0000">
+	<programme channel="bbcnews" start="20250129163000 +0000" stop="20250129170000 +0000">
 		<title>Verified Live - 29/01/2025</title>
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
@@ -6423,7 +6423,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250201233000 +0000" stop="20250202000000 +0000">
 		<title>Talking Business - 31/01/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Examines the impact of President Donald Trump's decision on the Paris Climate Agreement.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250202000000 +0000" stop="20250202003000 +0000">
@@ -6483,7 +6483,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250202053000 +0000" stop="20250202060000 +0000">
 		<title>Talking Business - 31/01/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Examines the impact of President Donald Trump's decision on the Paris Climate Agreement.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250202060000 +0000" stop="20250202090000 +0000">
@@ -6791,20 +6791,30 @@
 		<desc>Debate on two motions on regulations over the importation of goods into Great Britain.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250130060000 +0000" stop="20250130063000 +0000">
+	<programme channel="bbcparliament" start="20250130060000 +0000" stop="20250130062500 +0000">
+		<title>House of Lords - Extremism Statement</title>
+		<desc>Changes to community engagement principles and the definitions of extremist organisations.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0klxct7.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250130062500 +0000" stop="20250130065000 +0000">
 		<title>House of Commons - Wales Office Questions</title>
 		<desc>Coverage of questions to Jo Stevens on Wednesday 29 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250130063000 +0000" stop="20250130070500 +0000">
+	<programme channel="bbcparliament" start="20250130065000 +0000" stop="20250130073000 +0000">
 		<title>Prime Minister's Questions - 29/01/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 29 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmspb1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250130070500 +0000" stop="20250130093000 +0000">
-		<title>House of Commons - 29/01/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 29 January.</desc>
+	<programme channel="bbcparliament" start="20250130073000 +0000" stop="20250130084500 +0000">
+		<title>House of Commons - Growing the UK Economy Statement</title>
+		<desc>Statement on plans for economic growth, including backing for a third runway at Heathrow.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250130084500 +0000" stop="20250130093000 +0000">
+		<title>Lords Questions - 29/01/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Wednesday 29 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250130093000 +0000" stop="20250130103000 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
