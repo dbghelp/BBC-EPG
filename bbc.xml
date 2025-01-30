@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20250130093000 +0000" stop="20250130104500 +0000">
 		<title>Morning Live - Series 6: 30/01/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>A  landline switch-off scam, and getting your supermarket food shop for less.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kn193s.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250130104500 +0000" stop="20250130111500 +0000">
 		<title>Defenders: Busting the Bad Guys - Series 5 (Shortened Versions): Episode 5</title>
@@ -131,7 +131,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250130190000 +0000" stop="20250130193000 +0000">
 		<title>The One Show - 30/01/2025</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Keeley Hawes, Trinny Woodall and Sarah Solemani join Alex Jones and Roman Kemp.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250130193000 +0000" stop="20250130200000 +0000">
@@ -347,7 +347,7 @@
 	<programme channel="bbcone" start="20250201131500 +0000" stop="20250201163000 +0000">
 		<title>Six Nations Rugby - 2025: Scotland v Italy</title>
 		<desc>Live coverage of Scotland v Italy in the Six Nations from Murrayfield.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0blz0vg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kn18wm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250201163000 +0000" stop="20250201173000 +0000">
 		<title>Final Score - 01/02/2025</title>
@@ -511,7 +511,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250202180500 +0000" stop="20250202190500 +0000">
 		<title>Countryfile - Welney Wetland Centre</title>
-		<desc>Matt and Charlotte learn about the vital role wetlands play in supporting birds.</desc>
+		<desc>Matt and Charlotte learn about the vital role that wetlands play in supporting birds.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06fndq6.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250202190500 +0000" stop="20250202200500 +0000">
@@ -631,7 +631,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250203171500 +0000" stop="20250203180000 +0000">
 		<title>Pointless - Series 32: Episode 48</title>
-		<desc>Singers are amongst today's topics for our four couples looking for the obscure to win.</desc>
+		<desc>Singers are amongst today's topics for the four couples looking for the obscure to win.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kk2kms.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250203180000 +0000" stop="20250203183000 +0000">
@@ -741,7 +741,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250130121500 +0000" stop="20250130130000 +0000">
 		<title>Politics Live - 30/01/2025</title>
-		<desc>The big political issues of the day.</desc>
+		<desc>What does economic growth mean for UK wildlife?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09819qp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250130130000 +0000" stop="20250130134500 +0000">
@@ -5608,15 +5608,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250130110000 +0000" stop="20250130113000 +0000">
+	<programme channel="bbcnews" start="20250130110000 +0000" stop="20250130114500 +0000">
 		<title>BBC News - 30/01/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250130113000 +0000" stop="20250130114500 +0000">
-		<title>Business Today - 30/01/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250130114500 +0000" stop="20250130120000 +0000">
 		<title>BBC News - 30/01/2025</title>
@@ -6773,12 +6768,22 @@
 		<desc>Coverage of questions to Jonathan Reynolds on Thursday 30 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250130103000 +0000" stop="20250130113000 +0000">
+	<programme channel="bbcparliament" start="20250130103000 +0000" stop="20250130111500 +0000">
+		<title>House of Commons - Avian Influenza Urgent Question</title>
+		<desc>Urgent question tabled by shadow Defra secretary Victoria Atkins, on avian influenza.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250130111500 +0000" stop="20250130120000 +0000">
+		<title>House of Commons - Women's Health Strategy Urgent Question</title>
+		<desc>Urgent question by Mims Davies, on the women's health strategy, on Thursday 30 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250130120000 +0000" stop="20250130130000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 30 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250130113000 +0000" stop="20250130173000 +0000">
+	<programme channel="bbcparliament" start="20250130130000 +0000" stop="20250130173000 +0000">
 		<title>House of Commons - 30/01/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 30 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7895,7 +7900,7 @@
 	</programme>
 	<programme channel="s4c" start="20250130140500 +0000" stop="20250130150000 +0000">
 		<title>Prynhawn Da - Thu, 30 Jan 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mae Huw yn ol yn y gornel ffasiwn, ac mae Emma a Katie o'r elusen 'Joseph's Smile' yn y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250130150000 +0000" stop="20250130150500 +0000">
@@ -7965,7 +7970,7 @@
 	</programme>
 	<programme channel="s4c" start="20250130190000 +0000" stop="20250130193000 +0000">
 		<title>Heno - Thu, 30 Jan 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Dathlwn y flwyddyn newydd Tseiniaidd; edrychwn mlaen at ymgyrch Chwe Gwlad D20 Cymru; a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250130193000 +0000" stop="20250130200000 +0000">
@@ -8170,7 +8175,7 @@
 	</programme>
 	<programme channel="s4c" start="20250131123000 +0000" stop="20250131130000 +0000">
 		<title>Heno - Thu, 30 Jan 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Dathlwn y flwyddyn newydd Tseiniaidd; edrychwn mlaen at ymgyrch Chwe Gwlad D20 Cymru; a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250131130000 +0000" stop="20250131133000 +0000">
@@ -8190,7 +8195,7 @@
 	</programme>
 	<programme channel="s4c" start="20250131140500 +0000" stop="20250131150000 +0000">
 		<title>Prynhawn Da - Fri, 31 Jan 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mae Michelle yn y gegin gyda thrits i fwyta wrth wylio'r Chwe Gwlad, ac mae'r Clwb Clec...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250131150000 +0000" stop="20250131150500 +0000">
@@ -8255,7 +8260,7 @@
 	</programme>
 	<programme channel="s4c" start="20250131183000 +0000" stop="20250131190000 +0000">
 		<title>Heno - Fri, 31 Jan 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae'r actor Jacob Ifan yn ymuno gyda ni ar y soffa, a chawn gwrdd â'r pobydd Benjamin C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250131190000 +0000" stop="20250131193000 +0000">
@@ -8800,7 +8805,7 @@
 	</programme>
 	<programme channel="s4c" start="20250203123000 +0000" stop="20250203130000 +0000">
 		<title>Heno - Fri, 31 Jan 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae'r actor Jacob Ifan yn ymuno gyda ni ar y soffa, a chawn gwrdd â'r pobydd Benjamin C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250203130000 +0000" stop="20250203140000 +0000">
