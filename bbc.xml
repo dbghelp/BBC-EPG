@@ -5675,15 +5675,10 @@
 		<desc>Was it necessary for BBC reporters to broadcast live on location during Storm Eowyn?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gbk3ng.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250201160000 +0000" stop="20250201163000 +0000">
+	<programme channel="bbcnews" start="20250201160000 +0000" stop="20250201170000 +0000">
 		<title>BBC News - 01/02/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250201163000 +0000" stop="20250201170000 +0000">
-		<title>Panorama - Weight Loss Jabs and the NHS</title>
-		<desc>Panorama has access to one of the UK’s top hospitals as it rolls out weight loss drugs.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khwyp9.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250201170000 +0000" stop="20250201180000 +0000">
 		<title>BBC News - 01/02/2025</title>
@@ -5707,7 +5702,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250201193000 +0000" stop="20250201200000 +0000">
 		<title>Sportsday - 01/02/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
+		<desc>All the latest from the Six Nations and Premier League.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250201200000 +0000" stop="20250201203000 +0000">
