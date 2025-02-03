@@ -5443,8 +5443,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k92vls.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250203230000 +0000" stop="20250203233000 +0000">
-		<title>Scotcast - 03/02/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
+		<title>Scotcast - Can we backtrack on Brexit?</title>
+		<desc>Could the decision to leave the European Union ever be reversed?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250203233000 +0000" stop="20250204000000 +0000">
@@ -5873,9 +5873,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250204003000 +0000" stop="20250204010000 +0000">
-		<title>HARDtalk - 04/02/2025</title>
-		<desc>In-depth interviews with key figures from politics, culture, business and sport.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
+		<title>HARDtalk - Ingrid Newkirk - Co-founder and President, PETA</title>
+		<desc>Stephen Sackur speaks to Ingrid Newkirk, president of PETA.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jsb7lt.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250204010000 +0000" stop="20250204013000 +0000">
 		<title>BBC News - 04/02/2025</title>
@@ -7047,6 +7047,11 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 3 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20250203235500 +0000" stop="20250204000500 +0000">
+		<title>House of Lords - Lords Introductions</title>
+		<desc>Ceremony to introduce Lord Lemos and Baroness Carberry of Muswell Hill, on 3 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20250204000500 +0000" stop="20250204001500 +0000">
 		<title>House of Lords - Airport Expansion Statement</title>
 		<desc>Statement on government policy on airport expansion, on Monday 3 February.</desc>
@@ -7082,15 +7087,20 @@
 		<desc>First day of committee stage debate on the Terrorism (Protection of Premises) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250204071500 +0000" stop="20250204081500 +0000">
+	<programme channel="bbcparliament" start="20250204071500 +0000" stop="20250204082000 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Liz Kendall on Monday 3 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250204081500 +0000" stop="20250204100000 +0000">
-		<title>House of Commons - 03/02/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 3 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250204082000 +0000" stop="20250204091000 +0000">
+		<title>Northern Ireland Assembly - Schools Statement</title>
+		<desc>Statement by education minister Paul Givan on controlled schools support arrangements.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250204091000 +0000" stop="20250204100000 +0000">
+		<title>Northern Ireland Assembly - Executive Office Questions</title>
+		<desc>Questions in Stormont to deputy first minister Emma Little-Pengelly, from 3 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250204100000 +0000" stop="20250204113000 +0000">
 		<title>Select Committees - Education Committee on the Children's Wellbeing and Schools Bill</title>
