@@ -2469,12 +2469,12 @@
 		<desc>The second form keep Nurse Jane on her toes when they get their hands on a box of tricks!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k05v0b.jpg" />
 	</programme>
-	<programme channel="cbbc" start="20250206142500 +0000" stop="20250206145500 +0000">
+	<programme channel="cbbc" start="20250206142500 +0000" stop="20250206145000 +0000">
 		<title>Horrible Histories - Series 2: Episode 1</title>
 		<desc>A prank-loving emperor hosts a dinner party on Roman Come Dine with Me.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07j4pvq.jpg" />
 	</programme>
-	<programme channel="cbbc" start="20250206145500 +0000" stop="20250206150000 +0000">
+	<programme channel="cbbc" start="20250206145000 +0000" stop="20250206150000 +0000">
 		<title>My Life - Hedgehog Rescue</title>
 		<desc>We follow 14-year-olds Kyra and Sophie as they rescue and care for injured hedgehogs.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p098h1n0.jpg" />
@@ -5578,15 +5578,10 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250205140000 +0000" stop="20250205143000 +0000">
+	<programme channel="bbcnews" start="20250205140000 +0000" stop="20250205144500 +0000">
 		<title>BBC News Now - 05/02/2025</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250205143000 +0000" stop="20250205144500 +0000">
-		<title>Business Today - NYSE Opening Bell - 05/02/2025</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250205144500 +0000" stop="20250205150000 +0000">
 		<title>BBC News Now - 05/02/2025</title>
@@ -5689,8 +5684,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250206003000 +0000" stop="20250206010000 +0000">
-		<title>HARDtalk - 06/02/2025</title>
-		<desc>In-depth interviews with key figures from politics, culture, business and sport.</desc>
+		<title>HARDtalk - Hardeep Singh Puri - India’s Minister of Petroleum and Natural Gas</title>
+		<desc>Stephen Sackur speaks to India’s minister for petroleum and natural gas Hardeep Singh Puri</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250206010000 +0000" stop="20250206013000 +0000">
@@ -5949,8 +5944,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250207003000 +0000" stop="20250207010000 +0000">
-		<title>HARDtalk - 06/02/2025</title>
-		<desc>In-depth interviews with key figures from politics, culture, business and sport.</desc>
+		<title>HARDtalk - Hardeep Singh Puri - India’s Minister of Petroleum and Natural Gas</title>
+		<desc>Stephen Sackur speaks to India’s minister for petroleum and natural gas Hardeep Singh Puri</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250207010000 +0000" stop="20250207013000 +0000">
@@ -6614,8 +6609,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250210003000 +0000" stop="20250210010000 +0000">
-		<title>HARDtalk - 10/02/2025</title>
-		<desc>In-depth interviews with key figures from politics, culture, business and sport.</desc>
+		<title>HARDtalk - Dhananjaya Chandrachud, Former Chief Justice of the Supreme Court of India</title>
+		<desc>Stephen Sackur interviews the former chief justice of the Supreme Court of India.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250210010000 +0000" stop="20250210013000 +0000">
@@ -6626,7 +6621,7 @@
 	<programme channel="bbcnews" start="20250210013000 +0000" stop="20250210020000 +0000">
 		<title>Unspun World with John Simpson - Series 4: 05/02/2025</title>
 		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kp8y54.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250210020000 +0000" stop="20250210023000 +0000">
 		<title>Newsday - 10/02/2025</title>
@@ -6724,8 +6719,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250205143000 +0000" stop="20250205153000 +0000">
-		<title>House of Commons - Southport Statement</title>
-		<desc>Statement on Southport, with the security minister Dan Jarvis, on Wednesday 5 February.</desc>
+		<title>House of Commons - Southport Attack Statement</title>
+		<desc>Statement on the Southport attack, with the security minister Dan Jarvis.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250205153000 +0000" stop="20250205193000 +0000">
@@ -6761,7 +6756,7 @@
 	<programme channel="bbcparliament" start="20250206063000 +0000" stop="20250206070500 +0000">
 		<title>Prime Minister's Questions - 05/02/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 5 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kp90ny.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250206070500 +0000" stop="20250206093000 +0000">
 		<title>House of Commons - 05/02/2025</title>
@@ -6881,7 +6876,7 @@
 	<programme channel="bbcparliament" start="20250208110000 +0000" stop="20250208113500 +0000">
 		<title>Prime Minister's Questions - 05/02/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 5 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kp90ny.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250208113500 +0000" stop="20250208122000 +0000">
 		<title>Scottish First Minister's Questions - 06/02/2025</title>
@@ -6936,7 +6931,7 @@
 	<programme channel="bbcparliament" start="20250209002000 +0000" stop="20250209005500 +0000">
 		<title>Prime Minister's Questions - 05/02/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 5 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kp90ny.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250209005500 +0000" stop="20250209014000 +0000">
 		<title>Scottish First Minister's Questions - 06/02/2025</title>
@@ -7006,7 +7001,7 @@
 	<programme channel="bbcparliament" start="20250209150500 +0000" stop="20250209154000 +0000">
 		<title>Prime Minister's Questions - 05/02/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 5 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kp90ny.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250209154000 +0000" stop="20250209162500 +0000">
 		<title>Scottish First Minister's Questions - 06/02/2025</title>
@@ -7071,7 +7066,7 @@
 	<programme channel="bbcparliament" start="20250210052500 +0000" stop="20250210060000 +0000">
 		<title>Prime Minister's Questions - 05/02/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 5 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kp90ny.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250205060000 +0000" stop="20250205170000 +0000">
 		<title>Alba Today - Alba Today</title>
@@ -8099,7 +8094,7 @@
 	</programme>
 	<programme channel="s4c" start="20250206123000 +0000" stop="20250206130000 +0000">
 		<title>Heno - Wed, 05 Feb 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae'r actor Julian Lewis Jones yn westai ar y soffa, ac mae Daf Wyn yn ymweld â'r Sioe ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250206130000 +0000" stop="20250206133000 +0000">
