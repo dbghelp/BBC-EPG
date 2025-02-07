@@ -775,8 +775,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmct95.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250207223000 +0000" stop="20250207230000 +0000">
-		<title>Newsnight - 07/02/2025</title>
-		<desc>The day's important national and international news stories. With Katie Razzall.</desc>
+		<title>Newsnight - Is it too late to regulate AI?</title>
+		<desc>The world's leaders in AI are sounding louder warnings that we are endangering humanity.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250207230000 +0000" stop="20250207230500 +0000">
@@ -5675,9 +5675,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250207193000 +0000" stop="20250207200000 +0000">
-		<title>The World Today with Maryam Moshiri - 07/02/2025</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
+		<title>BBC News - 07/02/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250207200000 +0000" stop="20250207203000 +0000">
 		<title>The Context with Christian Fraser - 07/02/2025</title>
@@ -5705,8 +5705,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250207223000 +0000" stop="20250207230000 +0000">
-		<title>Newsnight - 07/02/2025</title>
-		<desc>The day's important national and international news stories. With Katie Razzall.</desc>
+		<title>Newsnight - Is it too late to regulate AI?</title>
+		<desc>The world's leaders in AI are sounding louder warnings that we are endangering humanity.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250207230000 +0000" stop="20250207233000 +0000">
@@ -7209,10 +7209,20 @@
 		<desc>Mairi MacLeod talks about the poem An t-Seann Dachaigh by Elizabeth Sutherland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09drj6b.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20250207193000 +0000" stop="20250207212500 +0000">
+	<programme channel="bbcalba" start="20250207193000 +0000" stop="20250207211500 +0000">
 		<title>Rugbaidh air BBC ALBA/Rugby on BBC ALBA - Men's Premiership 2024/25: 4. Ayr RFC v Marr RFC</title>
 		<desc>Live rugby on BBC ALBA as Ayr welcome Marr in the men’s Premiership.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm1cjc.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20250207211500 +0000" stop="20250207212000 +0000">
+		<title>Dan - Series 1: Episode 8</title>
+		<desc>A poem important to Linda MacLeod. Dàn a tha cudromach do Linda NicLeòid.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09f9cqd.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20250207212000 +0000" stop="20250207212500 +0000">
+		<title>Fraochy Bay - Series 5: 1. Lobster rage/Giomach ag imeachd</title>
+		<desc>Officer Maclean's attempt at treating himself to a lobster dinner goes wrong.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p028b2dh.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250207212500 +0000" stop="20250207213000 +0000">
 		<title>Fraochy Bay - Series 2: 1. Ola ann, Ola as (Oil Boom, Oil Bust)</title>
