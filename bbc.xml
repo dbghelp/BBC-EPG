@@ -5337,8 +5337,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b5yjrm.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250211230000 +0000" stop="20250211233000 +0000">
-		<title>Scotcast - 11/02/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
+		<title>Scotcast - Uncovering a scandal</title>
+		<desc>The journalists who exposed a ‘culture of cruelty’ at a children’s psychiatric hospital.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250211233000 +0000" stop="20250212000000 +0000">
@@ -6861,27 +6861,27 @@
 		<desc>The Education select committee session on children's social care, on Tuesday 11 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqk0rm.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250211113000 +0000" stop="20250211123000 +0000">
+	<programme channel="bbcparliament" start="20250211113000 +0000" stop="20250211123500 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 11 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqk20g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250211123000 +0000" stop="20250211131500 +0000">
+	<programme channel="bbcparliament" start="20250211123500 +0000" stop="20250211131500 +0000">
 		<title>House of Commons - Clonoe Inquest Urgent Question</title>
 		<desc>Question on the 1992 deaths of four IRA men shot by the SAS at Clonoe in County Tyrone.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqk394.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250211131500 +0000" stop="20250211140000 +0000">
+	<programme channel="bbcparliament" start="20250211131500 +0000" stop="20250211134500 +0000">
 		<title>House of Commons - US Steel Import Tariffs Urgent Question</title>
 		<desc>Urgent question on US steel import tariffs, on Tuesday 11 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqk47m.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250211140000 +0000" stop="20250211193000 +0000">
+	<programme channel="bbcparliament" start="20250211134500 +0000" stop="20250211164000 +0000">
 		<title>House of Commons - 11/02/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 11 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250211193000 +0000" stop="20250211220000 +0000">
+	<programme channel="bbcparliament" start="20250211164000 +0000" stop="20250211220000 +0000">
 		<title>House of Lords - 11/02/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Lords on Tuesday 11 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
@@ -6896,20 +6896,55 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 11 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250211233500 +0000" stop="20250212060000 +0000">
-		<title>House of Lords - 11/02/2025</title>
+	<programme channel="bbcparliament" start="20250211233500 +0000" stop="20250211234500 +0000">
+		<title>House of Lords - Introductions: 11/02/2025</title>
+		<desc>Introductions of Baroness Cash and Baroness Gray of Tottenham, on Tuesday 11 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250211234500 +0000" stop="20250212014500 +0000">
+		<title>House of Lords - Institute for Apprenticeships Bill</title>
+		<desc>Debate on the Institute for Apprenticeships and Technical Education Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250212014500 +0000" stop="20250212034500 +0000">
+		<title>House of Lords - Great British Energy Bill, Part 1</title>
 		<desc>Business in the House of Lords on Tuesday 11 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250212060000 +0000" stop="20250212070000 +0000">
+	<programme channel="bbcparliament" start="20250212034500 +0000" stop="20250212054500 +0000">
+		<title>House of Lords - Great British Energy Bill, Part 2</title>
+		<desc>Business in the House of Lords on Tuesday 11 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250212054500 +0000" stop="20250212060000 +0000">
+		<title>House of Lords - Great British Energy Bill, Part 3</title>
+		<desc>Business in the House of Lords on Tuesday 11 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250212060000 +0000" stop="20250212061500 +0000">
+		<title>House of Lords - Defence Statement</title>
+		<desc>Statement on the impact of government fiscal policy on defence, on Monday 3 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kp5w1y.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250212061500 +0000" stop="20250212072000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 11 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqk20g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250212070000 +0000" stop="20250212091500 +0000">
-		<title>House of Commons - 11/02/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 11 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250212072000 +0000" stop="20250212080000 +0000">
+		<title>House of Commons - Clonoe Inquest Urgent Question</title>
+		<desc>Question on the 1992 deaths of four IRA men shot by the SAS at Clonoe in County Tyrone.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqk394.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250212080000 +0000" stop="20250212083000 +0000">
+		<title>House of Commons - US Steel Import Tariffs Urgent Question</title>
+		<desc>Urgent question on US steel import tariffs, on Tuesday 11 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqk47m.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250212083000 +0000" stop="20250212091500 +0000">
+		<title>Lords Questions - 11/02/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Tuesday 11 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250212091500 +0000" stop="20250212113000 +0000">
 		<title>Select Committees - Transport Committee on Airports and Economic Growth</title>
@@ -7339,7 +7374,7 @@
 	<programme channel="bbcalba" start="20250212210000 +0000" stop="20250212213000 +0000">
 		<title>Eòrpa - Series 32: Episode 13</title>
 		<desc>Eòrpa examines the most important stories from across Europe and the UK.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbr1wg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqkthz.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250212213000 +0000" stop="20250212225000 +0000">
 		<title>Elena Baltacha</title>
