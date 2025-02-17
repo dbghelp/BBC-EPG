@@ -79,17 +79,17 @@
 		<desc>The latest news, sport and weather from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250217134500 +0000" stop="20250217140000 +0000">
+	<programme channel="bbcone" start="20250217134500 +0000" stop="20250217135500 +0000">
 		<title>BBC News at One - 17/02/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250217140000 +0000" stop="20250217143000 +0000">
+	<programme channel="bbcone" start="20250217135500 +0000" stop="20250217142500 +0000">
 		<title>The Big Idea Works  - Series 1: 9. Height-Adjustable Wheelbarrow</title>
 		<desc>Dominic wants to help his labourer friend, and Wyen needs a mini-me.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0klsxr0.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250217143000 +0000" stop="20250217150000 +0000">
+	<programme channel="bbcone" start="20250217142500 +0000" stop="20250217150000 +0000">
 		<title>Rick Stein’s Food Stories - Series 1: 9. London - Part 1</title>
 		<desc>In London, it’s the magic of mozzarella making and a full English with Stuart Maconie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h8cv6x.jpg" />
@@ -1356,7 +1356,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250217195800 +0000" stop="20250217200000 +0000">
 		<title>The Catch Up - 17/02/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Lucy Elsie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250217200000 +0000" stop="20250217210000 +0000">
@@ -2047,12 +2047,12 @@
 	<programme channel="bbcfour" start="20250221200000 +0000" stop="20250221203000 +0000">
 		<title>Top of the Pops - 24/02/1977</title>
 		<desc>With Racing Cars, Barbara Dickson, Leo Sayer, The Real Thing, Bryan Ferry and ELO.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqqc51.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0krszjd.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250221203000 +0000" stop="20250221210000 +0000">
 		<title>Top of the Pops - 18/02/1982</title>
 		<desc>With Toni Basil, Madness, UB40, Tight Fit, The Jam, Robert Palmer, George Benson and Jets.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqq9km.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0krsytl.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250221210000 +0000" stop="20250221220000 +0000">
 		<title>Lindisfarne’s Geordie Genius: The Alan Hull Story</title>
@@ -2092,12 +2092,12 @@
 	<programme channel="bbcfour" start="20250222013000 +0000" stop="20250222020000 +0000">
 		<title>Top of the Pops - 24/02/1977</title>
 		<desc>With Racing Cars, Barbara Dickson, Leo Sayer, The Real Thing, Bryan Ferry and ELO.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqqc51.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0krszjd.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250222020000 +0000" stop="20250222023000 +0000">
 		<title>Top of the Pops - 18/02/1982</title>
 		<desc>With Toni Basil, Madness, UB40, Tight Fit, The Jam, Robert Palmer, George Benson and Jets.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqq9km.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0krsytl.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250222023000 +0000" stop="20250222033000 +0000">
 		<title>Lindisfarne’s Geordie Genius: The Alan Hull Story</title>
@@ -5244,8 +5244,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kpsgk1.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250217230000 +0000" stop="20250217233000 +0000">
-		<title>Scotcast - 17/02/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
+		<title>Scotcast - What now for Scotland’s Ukrainians?</title>
+		<desc>The team hears from some of the Ukrainians who came to Scotland after fleeing the war.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250217233000 +0000" stop="20250218000000 +0000">
@@ -6878,17 +6878,17 @@
 		<desc>Debate on several motions relating to government expenditure in Northern Ireland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250218070000 +0000" stop="20250218090000 +0000">
-		<title>Northern Ireland Assembly - 17/02/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 17 February.</desc>
+	<programme channel="bbcparliament" start="20250218070000 +0000" stop="20250218093000 +0000">
+		<title>Northern Ireland Assembly - Budget Motions, Part 2</title>
+		<desc>Debate on several motions relating to government expenditure in Northern Ireland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250218090000 +0000" stop="20250218103000 +0000">
-		<title>Scottish Parliament - 18/02/2025</title>
-		<desc>Coverage of committee proceedings in the Scottish Parliament on Tuesday 18 February.</desc>
+	<programme channel="bbcparliament" start="20250218093000 +0000" stop="20250218110000 +0000">
+		<title>Scottish Parliament - Finance Committee</title>
+		<desc>Finance and Public Administration committee scrutiny of the Scottish government's budget.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250218103000 +0000" stop="20250218130000 +0000">
+	<programme channel="bbcparliament" start="20250218110000 +0000" stop="20250218130000 +0000">
 		<title>Northern Ireland Assembly - 18/02/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
@@ -6903,10 +6903,35 @@
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250218142000 +0000" stop="20250218190000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 18/02/2025</title>
-		<desc>Coverage of the proceedings in the Senedd, the Welsh Parliament, on Tuesday 18 February.</desc>
+	<programme channel="bbcparliament" start="20250218142000 +0000" stop="20250218150500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
+		<desc>Questions to the counsel general and minister for delivery, Julie James, on 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250218150500 +0000" stop="20250218153500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Senedd Business Questions</title>
+		<desc>The statement on the upcoming business in the chamber, on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250218153500 +0000" stop="20250218161000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Recycling in Wales</title>
+		<desc>The statement on 'building on Wales' recycling success', on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250218161000 +0000" stop="20250218165500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Bereavement Care</title>
+		<desc>Statement on the National Framework for the Delivery of Bereavement Care on 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250218165500 +0000" stop="20250218180000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - UEFA Women's Euro 2025</title>
+		<desc>A statement in the Senedd on UEFA Women's Euro 2025, on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250218180000 +0000" stop="20250218190000 +0000">
+		<title>House of Commons - Transport Questions</title>
+		<desc>Coverage of questions to Heidi Alexander on Thursday 13 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kr2mkv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250218190000 +0000" stop="20250218223000 +0000">
 		<title>Scottish Parliament - 18/02/2025</title>
@@ -6928,12 +6953,12 @@
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219042000 +0000" stop="20250219090000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 18/02/2025</title>
-		<desc>Coverage of the proceedings in the Senedd, the Welsh Parliament, on Tuesday 18 February.</desc>
+	<programme channel="bbcparliament" start="20250219042000 +0000" stop="20250219100000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
+		<desc>Questions to the counsel general and minister for delivery, Julie James, on 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219090000 +0000" stop="20250219120000 +0000">
+	<programme channel="bbcparliament" start="20250219100000 +0000" stop="20250219120000 +0000">
 		<title>Scottish Parliament - 19/02/2025</title>
 		<desc>Coverage of committee proceedings in the Scottish Parliament on Wednesday 19 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
@@ -7004,8 +7029,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250220173000 +0000" stop="20250220203000 +0000">
-		<title>Scottish Parliament - 18/02/2025</title>
-		<desc>Coverage of committee proceedings in the Scottish Parliament on Tuesday 18 February.</desc>
+		<title>Scottish Parliament - Finance Committee</title>
+		<desc>Finance and Public Administration committee scrutiny of the Scottish government's budget.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250220203000 +0000" stop="20250220205000 +0000">
@@ -7059,8 +7084,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250221112500 +0000" stop="20250221162500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 18/02/2025</title>
-		<desc>Coverage of the proceedings in the Senedd, the Welsh Parliament, on Tuesday 18 February.</desc>
+		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
+		<desc>Questions to the counsel general and minister for delivery, Julie James, on 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250221162500 +0000" stop="20250221185500 +0000">
@@ -7860,7 +7885,7 @@
 	</programme>
 	<programme channel="s4c" start="20250217200000 +0000" stop="20250217202500 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2024: Diogelwch ysgolion</title>
-		<desc>Clywn gan gyn-ddirprwy bennaeth Ysgol Dyffryn Aman wnaeth godi pryderon cyn yr ymosodia...</desc>
+		<desc>Clywn gan gyn-ddirprwy bennaeth Ysgol Dyffryn Aman a wnaeth godi pryderon cyn yr ymosod...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jymttj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250217202500 +0000" stop="20250217205500 +0000">
@@ -7898,17 +7923,17 @@
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218060000 +0000" stop="20250218060500 +0000">
+	<programme channel="s4c" start="20250218060000 +0000" stop="20250218061000 +0000">
 		<title>Brethyn &amp; Fflwff - Cyfres 1: Brethyn a Fflwff</title>
 		<desc>Mae Fflwff mor fach mae'n gallu cuddio mewn llefydd nad yw Brethyn yn gallu cyrraedd. F...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hr2xww.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218060500 +0000" stop="20250218061500 +0000">
+	<programme channel="s4c" start="20250218061000 +0000" stop="20250218062000 +0000">
 		<title>Cymylaubychain - Cyfres 1: Atishw</title>
 		<desc>Mae yna gwml rhyfedd iawn wedi cyrraedd y nen sy'n gwneud i bawb disian. Tybed beth yw ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02c7n6h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218061500 +0000" stop="20250218063000 +0000">
+	<programme channel="s4c" start="20250218062000 +0000" stop="20250218063000 +0000">
 		<title>Jen a Jim - Jen a Jim Pob Dim: Y Pili Pala</title>
 		<desc>Mae Siani Flewog, un o ffrindiau Plwmp a Deryn wedi bod ar goll ers awr, ond pa mor hir...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03k3070.jpg" />
@@ -7918,22 +7943,22 @@
 		<desc>Mae'n ddiwrnod sioe Arddangos Llysiau Gorau Pontypandy. Mae'r plant wedi tyfu pwmpen en...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218064000 +0000" stop="20250218065500 +0000">
+	<programme channel="s4c" start="20250218064000 +0000" stop="20250218070000 +0000">
 		<title>Cacamwnci - Cyfres 2: Pennod 16</title>
 		<desc>Mae Cacamwnci yn ôl gyda mwy o sgetsys dwl a doniol! Cacamwnci is back with more funny ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05vqt69.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218065500 +0000" stop="20250218071000 +0000">
+	<programme channel="s4c" start="20250218070000 +0000" stop="20250218071500 +0000">
 		<title>Fferm Fach - Cyfres 3: Selsig</title>
 		<desc>Mae Leisa a Betsan yn mynd ar antur i ddarganfod sut mae selsig yn cael eu gwneud gyda ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdbdxv.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218071000 +0000" stop="20250218071500 +0000">
+	<programme channel="s4c" start="20250218071500 +0000" stop="20250218072000 +0000">
 		<title>Caru Canu - Cyfres 2: Llwynog Coch sy'n Cysgu</title>
 		<desc>Hwiangerdd draddodiadol am lwynog coch yn cysgu ac yna'n deffro'n barod am ddiwrnod hyf...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p091ttfl.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218071500 +0000" stop="20250218073000 +0000">
+	<programme channel="s4c" start="20250218072000 +0000" stop="20250218073000 +0000">
 		<title>Dreigiau Cadi - Cyfres 2: Tren Blodau</title>
 		<desc>Mae cystadleuaeth y Trên Blodau yn cyd-fynd â noson arbennig Crugwen a Dai. Ond mae 'na...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd7hxx.jpg" />
@@ -7958,12 +7983,12 @@
 		<desc>Mae 'na ymwelydd newydd i'r harbwr, dolffin cyfeillgar, ac mae pawb wrth eu bodd yn chw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02lp9hh.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218082000 +0000" stop="20250218083500 +0000">
+	<programme channel="s4c" start="20250218082000 +0000" stop="20250218083000 +0000">
 		<title>Dathlu 'Da Dona - Cyfres 1: Parti Jwngl Mari</title>
 		<desc>Heddiw, bydd Mari yn cael parti'r jwngl gyda Heulwen, Dwylo'r Enfys. Today, Mari will b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0683qdj.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218083500 +0000" stop="20250218084500 +0000">
+	<programme channel="s4c" start="20250218083000 +0000" stop="20250218084500 +0000">
 		<title>Octonots - Cyfres 3: a'r Walrysod Bach</title>
 		<desc>Mae nith a nai Capten Cwrwgl yn helpu eu hewythr i geisio achub tri walrws bach sydd me...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04m3jrd.jpg" />
@@ -7988,12 +8013,12 @@
 		<desc>'Pam bod ni'n chwerthin'? Mae Tad-cu yn adrodd stori hurt bost am drigolion y dre mwyaf...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g0r0jt.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218093000 +0000" stop="20250218094500 +0000">
+	<programme channel="s4c" start="20250218093000 +0000" stop="20250218094000 +0000">
 		<title>Patrôl Pawennau - Cyfres 1: Cwn yn achub Prifardd</title>
 		<desc>Mae cerflun yn disgyn i'r Bae ac mae'n rhaid i'r Pawenlu blymio dan y dwr i'w achub! An...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0645yv0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218094500 +0000" stop="20250218100000 +0000">
+	<programme channel="s4c" start="20250218094000 +0000" stop="20250218100000 +0000">
 		<title>Sigldigwt - Cyfres 1: Pennod 1</title>
 		<desc>Ymunwch gyda Tref y ci, Elin a Berian wrth iddynt edrych ar ôl pob math o anifeiliaid g...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07ys0hc.jpg" />
@@ -8003,27 +8028,27 @@
 		<desc>Mae Brethyn yn cael trafferth deall beth mae Fflwff eisiau. Felly mae'n dal ati i ddyfa...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hr2xww.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218100500 +0000" stop="20250218101500 +0000">
+	<programme channel="s4c" start="20250218100500 +0000" stop="20250218102000 +0000">
 		<title>Cymylaubychain - Cyfres 1: Enfys Mewn Cwlwm</title>
 		<desc>Mae Enfys wedi llwyddo i glymu ei hun yn gwlwm ac felly mae'n rhaid i'r Cymylaubychain ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03my05t.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218101500 +0000" stop="20250218103000 +0000">
+	<programme channel="s4c" start="20250218102000 +0000" stop="20250218103000 +0000">
 		<title>Jen a Jim - Jen a Jim Pob Dim: Fflip Fflap Fflamingo</title>
 		<desc>Dydy Fflamingo ddim yn aros yn llonydd ddigon hir i'r criw ei fesur. Tybed oes ffordd a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03jn1qb.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218103000 +0000" stop="20250218104000 +0000">
+	<programme channel="s4c" start="20250218103000 +0000" stop="20250218104500 +0000">
 		<title>Sam Tân - Cyfres 10: Hela Pryfed Estron!</title>
 		<desc>Gem ffon yw Hela Pryfed Estron. Mae Norman, Mandy, Sara a Jams yn mwynhau chwarae, efo ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218104000 +0000" stop="20250218105500 +0000">
+	<programme channel="s4c" start="20250218104500 +0000" stop="20250218110000 +0000">
 		<title>Cacamwnci - Cyfres 2: Pennod 14</title>
 		<desc>Mae Cacamwnci yn ôl gyda mwy o sgetsys dwl a doniol! Cacamwnci is back with more funny ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05vqt69.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218105500 +0000" stop="20250218111000 +0000">
+	<programme channel="s4c" start="20250218110000 +0000" stop="20250218111000 +0000">
 		<title>Fferm Fach - Cyfres 3: Moron</title>
 		<desc>Mae Betsan yn mynd ar antur i Fferm Fach i weld sut mae moron yn cael eu tyfu gyda Hywe...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdbdxv.jpg" />
@@ -8108,12 +8133,12 @@
 		<desc>Mae Odo'n medru trin gwallt yr adar eraill yn hynod dda. Mae'n creu ffasiwn newydd iddy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c2dj8p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218163000 +0000" stop="20250218164500 +0000">
+	<programme channel="s4c" start="20250218163000 +0000" stop="20250218164000 +0000">
 		<title>Dreigiau Cadi - Cyfres 2: Calan Gaeaf</title>
 		<desc>Mae'r dreigiau yn profi eu Calan Gaeaf cyntaf ac mae'r cyfan yn dipyn o sypreis i'r dre...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd7hxx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250218164500 +0000" stop="20250218170000 +0000">
+	<programme channel="s4c" start="20250218164000 +0000" stop="20250218170000 +0000">
 		<title>Deian a Loli - Cyfres 5: .....a'r Llwynog</title>
 		<desc>Mae hi'n amser gwely, ond mae Deian a Loli'n cael lot gormod o hwyl yn chwarae triciau ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kfcydq.jpg" />
@@ -8180,7 +8205,7 @@
 	</programme>
 	<programme channel="s4c" start="20250218220000 +0000" stop="20250218223000 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2024: Diogelwch ysgolion</title>
-		<desc>Clywn gan gyn-ddirprwy bennaeth Ysgol Dyffryn Aman wnaeth godi pryderon cyn yr ymosodia...</desc>
+		<desc>Clywn gan gyn-ddirprwy bennaeth Ysgol Dyffryn Aman a wnaeth godi pryderon cyn yr ymosod...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jymttj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250218223000 +0000" stop="20250218233000 +0000">
@@ -8426,7 +8451,7 @@
 	<programme channel="s4c" start="20250219171500 +0000" stop="20250219173500 +0000">
 		<title>Academi Gomedi - Pennod 1</title>
 		<desc>Mewn cyfres newydd sbon, mae saith comediwr ifanc brwdfrydig yn cyrraedd yr Academi Gom...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0krsp6h.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250219173500 +0000" stop="20250219175000 +0000">
 		<title>Li Ban - Li Ban: Teyrnas Manawydan</title>
@@ -8665,7 +8690,7 @@
 	</programme>
 	<programme channel="s4c" start="20250220133000 +0000" stop="20250220140000 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2024: Diogelwch ysgolion</title>
-		<desc>Clywn gan gyn-ddirprwy bennaeth Ysgol Dyffryn Aman wnaeth godi pryderon cyn yr ymosodia...</desc>
+		<desc>Clywn gan gyn-ddirprwy bennaeth Ysgol Dyffryn Aman a wnaeth godi pryderon cyn yr ymosod...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jymttj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250220140000 +0000" stop="20250220140500 +0000">
