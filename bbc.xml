@@ -441,7 +441,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250220224000 +0000" stop="20250220234000 +0000">
 		<title>Question Time - 2025: 20/02/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents a special debate from London on the war in Ukraine. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250220234000 +0000" stop="20250221001000 +0000">
@@ -665,7 +665,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0krzxpf.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250222194000 +0000" stop="20250222202500 +0000">
-		<title>The Weakest Link - Series 4: Episode 12</title>
+		<title>The Weakest Link - Series 4: Episode 11</title>
 		<desc>Celebrity contestants in this episode include Barry McGuigan, Karen Hauer and Joe Thomas.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0krzzxz.jpg" />
 	</programme>
@@ -5211,8 +5211,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kpvc81.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250218230000 +0000" stop="20250218233000 +0000">
-		<title>Scotcast - 18/02/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
+		<title>Scotcast - Why are energy bills still so high?</title>
+		<desc>Energy bills are expected to rise by 5 per cent. When could prices begin to fall?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250218233000 +0000" stop="20250219000000 +0000">
@@ -5923,7 +5923,7 @@
 	<programme channel="bbcnews" start="20250220003000 +0000" stop="20250220010000 +0000">
 		<title>HARDtalk - Laila Soueif and Sanaa Seif – Mother and Sister of Jailed British-Egyptian Activist Alaa Abdel Fattah</title>
 		<desc>Stephen Sackur speaks to the mother of Alaa Abdel Fattah, a political prisoner in Egypt.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ks136w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250220010000 +0000" stop="20250220013000 +0000">
 		<title>BBC News - 20/02/2025</title>
@@ -6183,7 +6183,7 @@
 	<programme channel="bbcnews" start="20250221003000 +0000" stop="20250221010000 +0000">
 		<title>HARDtalk - Laila Soueif and Sanaa Seif – Mother and Sister of Jailed British-Egyptian Activist Alaa Abdel Fattah</title>
 		<desc>Stephen Sackur speaks to the mother of Alaa Abdel Fattah, a political prisoner in Egypt.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ks136w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250221010000 +0000" stop="20250221013000 +0000">
 		<title>BBC News - 21/02/2025</title>
@@ -6741,8 +6741,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250218142000 +0000" stop="20250218150500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 19/02/2025</title>
-		<desc>Coverage of the day's proceedings in the Senedd, on Tuesday 18 February.</desc>
+		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
+		<desc>Coverage of proceedings in the Senedd, including questions to the counsel general.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250218150500 +0000" stop="20250218153500 +0000">
@@ -6806,19 +6806,39 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250219003500 +0000" stop="20250219023000 +0000">
-		<title>Northern Ireland Assembly - Budget Bill</title>
+		<title>Northern Ireland Assembly - Budget Bill, Part 1</title>
 		<desc>Coverage of the debate on the second stage of the Budget Bill, on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219023000 +0000" stop="20250219042000 +0000">
+	<programme channel="bbcparliament" start="20250219023000 +0000" stop="20250219033000 +0000">
+		<title>Northern Ireland Assembly - Budget Bill, Part 2</title>
+		<desc>Coverage of the debate on the second stage of the Budget Bill, on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250219033000 +0000" stop="20250219043000 +0000">
 		<title>Northern Ireland Assembly - Sign Language Bill</title>
 		<desc>The debate on the second stage of the Sign Language Bill, on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219042000 +0000" stop="20250219090000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 19/02/2025</title>
-		<desc>Coverage of the day's proceedings in the Senedd, on Tuesday 18 February.</desc>
+	<programme channel="bbcparliament" start="20250219043000 +0000" stop="20250219051500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
+		<desc>Coverage of proceedings in the Senedd, including questions to the counsel general.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250219051500 +0000" stop="20250219054500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Senedd Business Questions</title>
+		<desc>The statement on the upcoming business in the chamber, on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250219054500 +0000" stop="20250219063000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Animal Health and Welfare Statement</title>
+		<desc>The statement in the Senedd on animal health and welfare, on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250219063000 +0000" stop="20250219090000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250219090000 +0000" stop="20250219120000 +0000">
 		<title>Scottish Parliament - 19/02/2025</title>
@@ -6946,8 +6966,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250221112500 +0000" stop="20250221162500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 19/02/2025</title>
-		<desc>Coverage of the day's proceedings in the Senedd, on Tuesday 18 February.</desc>
+		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
+		<desc>Coverage of proceedings in the Senedd, including questions to the counsel general.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250221162500 +0000" stop="20250221185500 +0000">
@@ -7041,8 +7061,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250223000500 +0000" stop="20250223020500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 19/02/2025</title>
-		<desc>Coverage of the day's proceedings in the Senedd, on Tuesday 18 February.</desc>
+		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
+		<desc>Coverage of proceedings in the Senedd, including questions to the counsel general.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250223020500 +0000" stop="20250223040500 +0000">
