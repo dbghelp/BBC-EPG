@@ -5636,9 +5636,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmm3kf.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250218213000 +0000" stop="20250218220000 +0000">
-		<title>The Context with Christian Fraser - 18/02/2025</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmm3kf.jpg" />
+		<title>BBC News - 18/02/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250218220000 +0000" stop="20250218223000 +0000">
 		<title>BBC News at Ten - 18/02/2025</title>
@@ -6760,94 +6760,129 @@
 		<desc>The statement on 'building on Wales' recycling success', on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250218165500 +0000" stop="20250218180000 +0000">
+	<programme channel="bbcparliament" start="20250218165500 +0000" stop="20250218174000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Bereavement Care</title>
 		<desc>Statement on the National Framework for the Delivery of Bereavement Care on 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250218180000 +0000" stop="20250218190000 +0000">
+	<programme channel="bbcparliament" start="20250218174000 +0000" stop="20250218185500 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 13 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kr2mkv.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250218190000 +0000" stop="20250218191500 +0000">
+	<programme channel="bbcparliament" start="20250218185500 +0000" stop="20250218191000 +0000">
+		<title>Scottish Parliament - Single Sex Spaces Motion</title>
+		<desc>Debate calling for a statement on public sector workers’ access to single sex spaces.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250218191000 +0000" stop="20250218192500 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
 		<desc>Topical questions covering A&amp;E waiting times and on bonuses for Scottish Water executives.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250218191500 +0000" stop="20250218194500 +0000">
+	<programme channel="bbcparliament" start="20250218192500 +0000" stop="20250218195500 +0000">
 		<title>Scottish Parliament - Community Wealth Building Statement</title>
 		<desc>The statement on Community Wealth Building Progress and Future Ambition.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250218194500 +0000" stop="20250218220000 +0000">
+	<programme channel="bbcparliament" start="20250218195500 +0000" stop="20250218214500 +0000">
 		<title>Scottish Parliament - Employer NICs Debate</title>
 		<desc>The debate tabled by the Scottish government on employer national insurance contributions.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250218220000 +0000" stop="20250218223000 +0000">
+	<programme channel="bbcparliament" start="20250218214500 +0000" stop="20250218221500 +0000">
 		<title>Northern Ireland Assembly - Members' Statements</title>
 		<desc>Coverage of members' statements in the Northern Ireland Assembly, on Monday 17 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ks061l.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250218223000 +0000" stop="20250218232000 +0000">
+	<programme channel="bbcparliament" start="20250218221500 +0000" stop="20250218230500 +0000">
 		<title>Welsh First Minister's Questions - 18/02/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250218232000 +0000" stop="20250219000500 +0000">
+	<programme channel="bbcparliament" start="20250218230500 +0000" stop="20250218235500 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to health minister Mike Nesbitt.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219000500 +0000" stop="20250219003500 +0000">
+	<programme channel="bbcparliament" start="20250218235500 +0000" stop="20250219001500 +0000">
 		<title>Northern Ireland Assembly - Members' Statements</title>
 		<desc>Coverage of short statements by members of the legislative assembly on Tuesday 18 February</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219003500 +0000" stop="20250219023000 +0000">
+	<programme channel="bbcparliament" start="20250219001500 +0000" stop="20250219021000 +0000">
 		<title>Northern Ireland Assembly - Budget Bill, Part 1</title>
 		<desc>Coverage of the debate on the second stage of the Budget Bill, on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219023000 +0000" stop="20250219033000 +0000">
+	<programme channel="bbcparliament" start="20250219021000 +0000" stop="20250219025500 +0000">
 		<title>Northern Ireland Assembly - Budget Bill, Part 2</title>
 		<desc>Coverage of the debate on the second stage of the Budget Bill, on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219033000 +0000" stop="20250219043000 +0000">
+	<programme channel="bbcparliament" start="20250219025500 +0000" stop="20250219043000 +0000">
 		<title>Northern Ireland Assembly - Sign Language Bill</title>
 		<desc>The debate on the second stage of the Sign Language Bill, on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219043000 +0000" stop="20250219051500 +0000">
+	<programme channel="bbcparliament" start="20250219043000 +0000" stop="20250219051000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
 		<desc>Coverage of proceedings in the Senedd, including questions to the counsel general.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219051500 +0000" stop="20250219054500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - Senedd Business Questions</title>
-		<desc>The statement on the upcoming business in the chamber, on Tuesday 18 February.</desc>
+	<programme channel="bbcparliament" start="20250219055000 +0000" stop="20250219063000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Recycling in Wales</title>
+		<desc>The statement on 'building on Wales' recycling success', on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219054500 +0000" stop="20250219063000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - Animal Health and Welfare Statement</title>
-		<desc>The statement in the Senedd on animal health and welfare, on Tuesday 18 February.</desc>
+	<programme channel="bbcparliament" start="20250219063000 +0000" stop="20250219070500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Bereavement Care</title>
+		<desc>Statement on the National Framework for the Delivery of Bereavement Care on 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219063000 +0000" stop="20250219090000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="bbcparliament" start="20250219070500 +0000" stop="20250219075000 +0000">
+		<title>Northern Ireland Assembly - Finance Questions</title>
+		<desc>Questions to the finance minister John O'Dowd, on Monday 17 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ks012n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219090000 +0000" stop="20250219120000 +0000">
-		<title>Scottish Parliament - 19/02/2025</title>
-		<desc>Coverage of committee proceedings in the Scottish Parliament on Wednesday 19 February.</desc>
+	<programme channel="bbcparliament" start="20250219075000 +0000" stop="20250219083000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Recycling in Wales</title>
+		<desc>The statement on 'building on Wales' recycling success', on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250219083000 +0000" stop="20250219091000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
+		<desc>Coverage of proceedings in the Senedd, including questions to the counsel general.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250219091000 +0000" stop="20250219100000 +0000">
+		<title>Welsh First Minister's Questions - 18/02/2025</title>
+		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250219100000 +0000" stop="20250219113000 +0000">
+		<title>Scottish Parliament - Criminal Justice Committee</title>
+		<desc>The Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews Bill committee.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250219120000 +0000" stop="20250219140000 +0000">
-		<title>Northern Ireland Assembly - 17/02/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 17 February.</desc>
+	<programme channel="bbcparliament" start="20250219113000 +0000" stop="20250219120000 +0000">
+		<title>Scottish Parliament - Grangemouth Statement</title>
+		<desc>Statement in the Scottish Parliament on the future of Grangemouth, on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250219120000 +0000" stop="20250219124500 +0000">
+		<title>Northern Ireland Assembly - Executive Office Questions</title>
+		<desc>Questions to the Northern Ireland executive, with the first minister Michelle O'Neill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ks084c.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250219124500 +0000" stop="20250219133500 +0000">
+		<title>Northern Ireland Assembly - Finance Questions</title>
+		<desc>Questions to the finance minister John O'Dowd, on Monday 17 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ks012n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250219133500 +0000" stop="20250219140000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Coverage of short statements by members of the legislative assembly on Tuesday 18 February</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250219140000 +0000" stop="20250219173000 +0000">
