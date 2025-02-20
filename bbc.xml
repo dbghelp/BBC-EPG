@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20250220093000 +0000" stop="20250220104500 +0000">
 		<title>Morning Live - Series 6: 20/02/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>Gaby and Rav talk to DS Marc Cananur about how to identify a police officer.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ksgc9r.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250220104500 +0000" stop="20250220111500 +0000">
 		<title>Critical Incident - Series 4: 7. A Problem Patient</title>
@@ -131,7 +131,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250220190000 +0000" stop="20250220193000 +0000">
 		<title>The One Show - 20/02/2025</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Erin Doherty, Malachi Kirby, Janette Manrara and Dame Jessica Ennis-Hill join.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250220193000 +0000" stop="20250220200000 +0000">
@@ -1203,7 +1203,7 @@
 	<programme channel="bbctwo" start="20250224080000 +0000" stop="20250224090000 +0000">
 		<title>Match of the Day 2 - 2024/25: 23/02/2025</title>
 		<desc>Highlights of Manchester City v Liverpool and Newcastle v Nottingham Forest.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ksfflt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ksfh6f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250224090000 +0000" stop="20250224121500 +0000">
 		<title>BBC News - 24/02/2025</title>
@@ -5279,20 +5279,10 @@
 		<desc>More from the day’s top stories and communities across Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdtr90.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250221193000 +0000" stop="20250221203000 +0000">
-		<title>This Farming Life - Series 7: 5. New Life on the Farm</title>
-		<desc>The Baker family leave their remote island farm for Mel to give birth on mainland Orkney.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kkd44d.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20250221203000 +0000" stop="20250221210000 +0000">
-		<title>Our Lives - Series 8: The Boy Who Can Fly</title>
-		<desc>The uplifting story of Liam Byrne, a young Scotsman defying convention and gravity.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0m01t.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20250221210000 +0000" stop="20250221220000 +0000">
-		<title>Kevin Bridges - The Overdue Catch-Up</title>
-		<desc>Kevin Bridges is back with his show from his hotly anticipated international live tour.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k8mvhk.jpg" />
+	<programme channel="bbcscotland" start="20250221193000 +0000" stop="20250221220000 +0000">
+		<title>Sportscene - Championship Live 2024/25: Greenock Morton v Falkirk</title>
+		<desc>Live Championship football as Morton take on promotion contenders Falkirk. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jgc8hv.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250221220000 +0000" stop="20250221223000 +0000">
 		<title>Still Game - Series 8: 2. Grim Up North</title>
@@ -5525,9 +5515,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250220073000 +0000" stop="20250220080000 +0000">
-		<title>Business Today - 20/02/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+		<title>BBC News - 20/02/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250220080000 +0000" stop="20250220083000 +0000">
 		<title>BBC News - 20/02/2025</title>
@@ -5594,15 +5584,10 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250220143000 +0000" stop="20250220144500 +0000">
-		<title>Business Today - NYSE Opening Bell - 20/02/2025</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250220144500 +0000" stop="20250220150000 +0000">
-		<title>BBC News Now - 20/02/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	<programme channel="bbcnews" start="20250220143000 +0000" stop="20250220150000 +0000">
+		<title>BBC News - 20/02/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250220150000 +0000" stop="20250220153000 +0000">
 		<title>Verified Live - 20/02/2025</title>
@@ -5990,8 +5975,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250222033000 +0000" stop="20250222040000 +0000">
-		<title>The Media Show - 22/02/2025</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - Diplomacy and the Media</title>
+		<desc>The battle to report Ukraine, Russia, and government narratives.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250222040000 +0000" stop="20250222043000 +0000">
@@ -6000,7 +5985,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250222043000 +0000" stop="20250222050000 +0000">
-		<title>The Travel Show - 22/02/2025</title>
+		<title>The Travel Show - The New Sopranos</title>
 		<desc>How opera is trying to the shake off it's 'elitist and exclusive' reputation in the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
 	</programme>
@@ -6070,8 +6055,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250222143000 +0000" stop="20250222150000 +0000">
-		<title>The Media Show - 22/02/2025</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - Diplomacy and the Media</title>
+		<desc>The battle to report Ukraine, Russia, and government narratives.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250222150000 +0000" stop="20250222153000 +0000">
@@ -6834,12 +6819,7 @@
 		<desc>Questions to the cabinet secretary for housing and local government, Jayne Bryant.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250222082500 +0000" stop="20250222085500 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250222085500 +0000" stop="20250222091500 +0000">
+	<programme channel="bbcparliament" start="20250222082500 +0000" stop="20250222091500 +0000">
 		<title>Scottish Parliament - General Questions</title>
 		<desc>General questions session to Scottish government ministers on Thursday 20 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
