@@ -165,8 +165,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250220234000 +0000" stop="20250221001000 +0000">
-		<title>Newscast - Series 5: 20/02/2025</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
+		<title>Newscast - Series 5: 29. The Biggest Week for the War in Ukraine So Far?</title>
+		<desc>Adam and Alex discuss a monumental week for the war in Ukraine. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250221001000 +0000" stop="20250221011000 +0000">
@@ -795,8 +795,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ks62q9.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250220223000 +0000" stop="20250220230000 +0000">
-		<title>Newsnight - 20/02/2025</title>
-		<desc>The day's important national and international news stories. With Paddy O'Connell.</desc>
+		<title>Newsnight - Is Donald Trump Re-writing the International Rulebook?</title>
+		<desc>How and why is President Trump transforming US relations with the rest of the world?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250220230000 +0000" stop="20250220230500 +0000">
@@ -1342,7 +1342,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250220195800 +0000" stop="20250220200000 +0000">
 		<title>The Catch Up - 20/02/2025</title>
-		<desc>A round-up of the day's news with Julia Dickson.</desc>
+		<desc>A round-up of the day's news with Julia Belle.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250220200000 +0000" stop="20250220210000 +0000">
@@ -5665,8 +5665,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250220223000 +0000" stop="20250220230000 +0000">
-		<title>Newsnight - 20/02/2025</title>
-		<desc>The day's important national and international news stories. With Paddy O'Connell.</desc>
+		<title>Newsnight - Is Donald Trump Re-writing the International Rulebook?</title>
+		<desc>How and why is President Trump transforming US relations with the rest of the world?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250220230000 +0000" stop="20250221000000 +0000">
@@ -6819,52 +6819,162 @@
 		<desc>Urgent question on avian influenza, tabled by DUP MLA Jonathan Buckley.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250221061500 +0000" stop="20250221070500 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250221070500 +0000" stop="20250221103500 +0000">
+	<programme channel="bbcparliament" start="20250221061500 +0000" stop="20250221063000 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
 		<desc>Topical questions covering A&amp;E waiting times and on bonuses for Scottish Water executives.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ksc123.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250221103500 +0000" stop="20250221112500 +0000">
+	<programme channel="bbcparliament" start="20250221063000 +0000" stop="20250221070000 +0000">
+		<title>Scottish Parliament - Community Wealth Building Statement</title>
+		<desc>The statement on Community Wealth Building Progress and Future Ambition.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kscc5v.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221070000 +0000" stop="20250221073500 +0000">
+		<title>Scottish Parliament - Grangemouth Statement</title>
+		<desc>Statement in the Scottish Parliament on the future of Grangemouth, on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221073500 +0000" stop="20250221092500 +0000">
+		<title>Scottish Parliament - Employer NICs Debate</title>
+		<desc>The debate tabled by the Scottish government on employer national insurance contributions.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ksccmz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221092500 +0000" stop="20250221101500 +0000">
 		<title>Welsh First Minister's Questions - 18/02/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ksc3lc.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250221112500 +0000" stop="20250221162500 +0000">
+	<programme channel="bbcparliament" start="20250221101500 +0000" stop="20250221105000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
 		<desc>Coverage of proceedings in the Senedd, including questions to the counsel general.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250221162500 +0000" stop="20250221185500 +0000">
-		<title>Northern Ireland Assembly - 18/02/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 18 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20250221105000 +0000" stop="20250221113500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Animal Health and Welfare Statement</title>
+		<desc>The statement in the Senedd on animal health and welfare, on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250221185500 +0000" stop="20250221194000 +0000">
+	<programme channel="bbcparliament" start="20250221113500 +0000" stop="20250221121500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Recycling in Wales</title>
+		<desc>The statement on 'building on Wales' recycling success', on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221121500 +0000" stop="20250221125000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Bereavement Care</title>
+		<desc>Statement on the National Framework for the Delivery of Bereavement Care on 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221125000 +0000" stop="20250221133500 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to health minister Mike Nesbitt.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250221194000 +0000" stop="20250221235500 +0000">
-		<title>Northern Ireland Assembly - 18/02/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 18 February.</desc>
+	<programme channel="bbcparliament" start="20250221133500 +0000" stop="20250221135500 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Coverage of short statements by members of the legislative assembly on Tuesday 18 February</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ksc0q8.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221135500 +0000" stop="20250221155500 +0000">
+		<title>Northern Ireland Assembly - Budget Bill, Part 1</title>
+		<desc>Coverage of the debate on the second stage of the Budget Bill, on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ksc5r6.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221155500 +0000" stop="20250221163500 +0000">
+		<title>Northern Ireland Assembly - Budget Bill, Part 2</title>
+		<desc>Coverage of the debate on the second stage of the Budget Bill, on Tuesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250221235500 +0000" stop="20250222032500 +0000">
+	<programme channel="bbcparliament" start="20250221163500 +0000" stop="20250221181500 +0000">
+		<title>Northern Ireland Assembly - Sign Language Bill</title>
+		<desc>The debate on the second stage of the Sign Language Bill, on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kscb35.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221181500 +0000" stop="20250221191000 +0000">
+		<title>Northern Ireland Assembly - Farm Sustainability Regulations</title>
+		<desc>The debate on the draft Farm Sustainability Regulations, on Tuesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221191000 +0000" stop="20250221193500 +0000">
 		<title>Scottish Parliament - Rural Affairs, Land Reform and Islands Questions</title>
 		<desc>Questions to the secretary for rural affairs, land reform and islands, Mairi Gougeon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250222032500 +0000" stop="20250222082500 +0000">
+	<programme channel="bbcparliament" start="20250221193500 +0000" stop="20250221200000 +0000">
+		<title>Scottish Parliament - Health and Social Care Questions</title>
+		<desc>Questions to the cabinet secretary for health and social care, Neil Gray, on 19 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221200000 +0000" stop="20250221203500 +0000">
+		<title>Scottish Parliament - 'Keeping the Promise' Update Statement</title>
+		<desc>Statement on progress and next steps on "keeping the promise", on Wednesday 19 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221203500 +0000" stop="20250221221000 +0000">
+		<title>Scottish Parliament - Powers of the Scottish Parliament Debate</title>
+		<desc>Debate on "protecting the powers" of the Scottish Parliament, on Wednesday 19 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221221000 +0000" stop="20250221225000 +0000">
+		<title>Scottish Parliament - Rural Crime</title>
+		<desc>Debate on tackling the rise in rural crime and equipment theft in Scotland.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250221225000 +0000" stop="20250221233500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Housing and Local Government Questions</title>
 		<desc>Questions to the cabinet secretary for housing and local government, Jayne Bryant.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250222082500 +0000" stop="20250222091500 +0000">
+	<programme channel="bbcparliament" start="20250221233500 +0000" stop="20250222002500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Education Questions</title>
+		<desc>Questions to the cabinet secretary for education, Lynne Neagle, on Wednesday 19 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250222002500 +0000" stop="20250222010000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Topical Questions</title>
+		<desc>Topical questions to ministers in the Welsh government, on Wednesday 19 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250222010000 +0000" stop="20250222014000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Ending Corridor Care Debate</title>
+		<desc>Debate on ending corridor care in Wales, on Wednesday 19 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250222014000 +0000" stop="20250222025000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Gaza Debate</title>
+		<desc>Debate tabled by Plaid Cymru on the situation in Gaza, on Wednesday 19 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250222025000 +0000" stop="20250222031000 +0000">
+		<title>Scottish Parliament - General Questions</title>
+		<desc>General questions session to Scottish government ministers on Thursday 20 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250222031000 +0000" stop="20250222035500 +0000">
+		<title>Scottish First Minister's Questions - 20/02/2025</title>
+		<desc>Questions to John Swinney, the first minister, on Thursday 20 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250222035500 +0000" stop="20250222044000 +0000">
+		<title>Scottish Parliament - Impact of PFI and PPP</title>
+		<desc>Debate on the Private Finance Initiative and Public-Private Partnership in Scotland.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250222044000 +0000" stop="20250222051000 +0000">
+		<title>Scottish Parliament - Social Justice Questions</title>
+		<desc>Questions to the cabinet secretary for social justice, Shirley-Anne Somerville.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250222051000 +0000" stop="20250222055000 +0000">
+		<title>Scottish Parliament - Income Tax Debate</title>
+		<desc>The debate on the Scottish Income Tax Rate Resolution for 2025-26, on 20 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250222055000 +0000" stop="20250222071000 +0000">
+		<title>Scottish Parliament - Sentencing and Penal Policy Debate</title>
+		<desc>The debate on the Independent Review of Sentencing and Penal Policy, on 20 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250222071000 +0000" stop="20250222091500 +0000">
 		<title>Scottish Parliament - General Questions</title>
 		<desc>General questions session to Scottish government ministers on Thursday 20 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
