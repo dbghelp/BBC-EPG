@@ -5726,15 +5726,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250222220000 +0000" stop="20250222223000 +0000">
+	<programme channel="bbcnews" start="20250222220000 +0000" stop="20250222230000 +0000">
 		<title>BBC News - 22/02/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250222223000 +0000" stop="20250222230000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 1: 96. The Heidi Alexander One</title>
-		<desc>Transport secretary Heidi Alexander joins Nick Robinson in the Political Thinking studio.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ksvh3y.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250222230000 +0000" stop="20250222233000 +0000">
 		<title>BBC News - 22/02/2025</title>
@@ -7301,16 +7296,31 @@
 		<desc>Local, national and international news and information from BBC ALBA.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8dxvk.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20250222172000 +0000" stop="20250222193000 +0000">
+	<programme channel="bbcalba" start="20250222172000 +0000" stop="20250222193500 +0000">
 		<title>SPFL  - 2024/25 Season: 9. League 1 - Stenhousemuir v Arbroath</title>
 		<desc>Stenhousemuir welcome Arbroath for a third meeting between the sides this season.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gfmhhj.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20250222193000 +0000" stop="20250222200000 +0000">
-		<title>Prosbaig - Series 1: Episode 6</title>
-		<desc>A look back at stories from the current affairs series, including Eigg housing issues.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05ky6tk.jpg" />
+	<programme channel="bbcalba" start="20250222193500 +0000" stop="20250222194500 +0000">
+		<title>Binneas - Na Trads - Series 8: Episode 3</title>
+		<desc>Featuring the acclaimed Daimh recorded at the Trad Awards 2021.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c115s0.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20250222194500 +0000" stop="20250222195000 +0000">
+		<title>Celtic Connections Shorts - Series 1: Episode 8</title>
+		<desc>The Seumas Egan Project from the States perform one of their own tunes. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08ffyxn.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20250222195000 +0000" stop="20250222195500 +0000">
+		<title>Dan - Series 1: Episode 8</title>
+		<desc>A poem important to Linda MacLeod. Dàn a tha cudromach do Linda NicLeòid.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09f9cqd.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20250222195500 +0000" stop="20250222200000 +0000">
+		<title>Fraochy Bay - Series 5: 1. Lobster rage/Giomach ag imeachd</title>
+		<desc>Officer Maclean's attempt at treating himself to a lobster dinner goes wrong.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p028b2dh.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250222200000 +0000" stop="20250222203000 +0000">
 		<title>Mach a Seo! - Series 4: Episode 7</title>
