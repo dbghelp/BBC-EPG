@@ -165,8 +165,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250227234000 +0000" stop="20250228001000 +0000">
-		<title>Newscast - Series 5: 27/02/2025</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
+		<title>Newscast - Series 5: 30. Prime Minister Starmer Meets President Trump</title>
+		<desc>James, Lyse, Nick and James discuss Starmer’s trip to Washington to meet with Trump.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250228001000 +0000" stop="20250228011000 +0000">
@@ -6797,7 +6797,7 @@
 	<programme channel="bbcparliament" start="20250227111500 +0000" stop="20250227121500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 27 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kv500j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250227121500 +0000" stop="20250227172000 +0000">
 		<title>House of Commons - 27/02/2025</title>
@@ -6916,7 +6916,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20250228203000 +0000" stop="20250228224000 +0000">
 		<title>Select Committees - Culture, Media and Sport Committee on Community and School Sport</title>
-		<desc>Culture, Media and Sport committee on the provision of sport for children and young people</desc>
+		<desc>Culture, Media and Sport committee on provision of sport for children and young people.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250228224000 +0000" stop="20250228230000 +0000">
@@ -6924,24 +6924,34 @@
 		<desc>General question session with Scottish government ministers, on Thursday 27 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250228230000 +0000" stop="20250228234500 +0000">
+	<programme channel="bbcparliament" start="20250228230000 +0000" stop="20250228235000 +0000">
 		<title>Scottish First Minister's Questions - 27/02/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 27 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250228234500 +0000" stop="20250301035000 +0000">
-		<title>Scottish Parliament - 28/02/2025</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20250228235000 +0000" stop="20250301001500 +0000">
+		<title>Scottish Parliament - Constitution Questions</title>
+		<desc>Questions to Constitution, External Affairs and Culture ministers, on 26 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250301035000 +0000" stop="20250301043500 +0000">
+	<programme channel="bbcparliament" start="20250301001500 +0000" stop="20250301025500 +0000">
+		<title>Scottish Parliament - Budget Bill</title>
+		<desc>Debate on the Scottish government's Budget (Scotland) Bill, on Tuesday 25 February. .</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250301025500 +0000" stop="20250301034000 +0000">
 		<title>Northern Ireland Assembly - Economy Questions</title>
 		<desc>Coverage of questions to the minister for the economy Dr Caoimhe Archibald.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ktccld.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250301043500 +0000" stop="20250301060000 +0000">
-		<title>Northern Ireland Assembly - 01/03/2025</title>
-		<desc>Highlights from the Northern Ireland Assembly.</desc>
+	<programme channel="bbcparliament" start="20250301034000 +0000" stop="20250301043000 +0000">
+		<title>Northern Ireland Assembly - Justice Questions</title>
+		<desc>Questions in Stormont to the minister for justice, Naomi Long, on Monday 24 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250301043000 +0000" stop="20250301060000 +0000">
+		<title>Northern Ireland Assembly - Private Renters Debate</title>
+		<desc>Debate on a new deal for private renters in Northern Ireland, from Monday 24 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250301060000 +0000" stop="20250301110000 +0000">
@@ -7037,7 +7047,7 @@
 	<programme channel="bbcparliament" start="20250302050000 +0000" stop="20250302060000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 27 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kv500j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250302060000 +0000" stop="20250302110000 +0000">
 		<title>Westminster Hall - 26/02/2025</title>
@@ -7107,7 +7117,7 @@
 	<programme channel="bbcparliament" start="20250303011000 +0000" stop="20250303021000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 27 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kv500j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250303021000 +0000" stop="20250303024000 +0000">
 		<title>House of Commons - Northern Ireland Office Questions</title>
@@ -8256,7 +8266,7 @@
 	</programme>
 	<programme channel="s4c" start="20250228173500 +0000" stop="20250228180000 +0000">
 		<title>Rhyfeddodau Chwilengoch a Cath Ddu - Cyfres 4: Rhyfeddodau Chwilengoch</title>
-		<desc>Animeiddiad am ferch cyffredin sy'n byw bywyd cyffredin¿ ond mae hefyd ganddi bwerau si...</desc>
+		<desc>Animeiddiad am ferch cyffredin sy'n byw bywyd cyffredin, ond mae hefyd ganddi bwerau si...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b12t7k.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250228180000 +0000" stop="20250228183000 +0000">
