@@ -816,8 +816,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gspwqb.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250228223000 +0000" stop="20250228230000 +0000">
-		<title>Newsnight - 28/02/2025</title>
-		<desc>The day's important national and international news stories. With Nick Watt.</desc>
+		<title>Newsnight - The Battle of the Oval Office: Trump v Zelensky</title>
+		<desc>Unprecedented scenes as Trump, Vance and Zelensky row in front of the cameras.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250228230000 +0000" stop="20250228230400 +0000">
@@ -5668,9 +5668,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250228180000 +0000" stop="20250228183000 +0000">
-		<title>The World Today with Maryam Moshiri - 28/02/2025</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
+		<title>BBC News - 28/02/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250228183000 +0000" stop="20250228190000 +0000">
 		<title>The World Today with Maryam Moshiri - 28/02/2025</title>
@@ -5708,13 +5708,13 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmm3kf.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250228220000 +0000" stop="20250228223000 +0000">
-		<title>BBC World News America - 28/02/2025</title>
-		<desc>In-depth reports on the major international and US news of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
+		<title>BBC News at Ten - 28/02/2025</title>
+		<desc>The latest national and international news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250228223000 +0000" stop="20250228230000 +0000">
-		<title>Newsnight - 28/02/2025</title>
-		<desc>The day's important national and international news stories. With Nick Watt.</desc>
+		<title>Newsnight - The Battle of the Oval Office: Trump v Zelensky</title>
+		<desc>Unprecedented scenes as Trump, Vance and Zelensky row in front of the cameras.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250228230000 +0000" stop="20250228233000 +0000">
@@ -5723,9 +5723,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250228233000 +0000" stop="20250301000000 +0000">
-		<title>The President's Path - Macron and Starmer meet Trump</title>
-		<desc>Will Macron and Starmer's visits to the White House bring Ukraine closer to peace?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
+		<title>BBC News - 28/02/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250301000000 +0000" stop="20250301003000 +0000">
 		<title>BBC News - 01/03/2025</title>
@@ -5744,7 +5744,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250301013000 +0000" stop="20250301020000 +0000">
 		<title>Discovering the World's Table - 6. Uzbekistan: The Succulent Steppes</title>
-		<desc>Food writer Nick Kwekis takes a gastronomic journey through Uzbekistan.</desc>
+		<desc>Food writer Nick Kwek takes a gastronomic journey through Uzbekistan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ktk1ct.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250301020000 +0000" stop="20250301023000 +0000">
@@ -7107,10 +7107,25 @@
 		<desc>Local, national and international news and information from BBC ALBA.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8dxvk.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20250228193000 +0000" stop="20250228212500 +0000">
+	<programme channel="bbcalba" start="20250228193000 +0000" stop="20250228211000 +0000">
 		<title>Rugbaidh air BBC ALBA/Rugby on BBC ALBA - Men's Premiership 2024/25: 5. Musselburgh v Watsonians</title>
 		<desc>Live rugby on BBC ALBA as Musselburgh welcome Watsonians in the men’s Premiership.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm1cjc.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20250228211000 +0000" stop="20250228211500 +0000">
+		<title>Tha Thu air Aigeann M'Inntinn</title>
+		<desc>A hand-drawn animation about the Iolaire disaster, with first-hand accounts.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06vbw2j.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20250228211500 +0000" stop="20250228212000 +0000">
+		<title>Fraochy Bay - Series 5: 1. Lobster rage/Giomach ag imeachd</title>
+		<desc>Officer Maclean's attempt at treating himself to a lobster dinner goes wrong.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p028b2dh.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20250228212000 +0000" stop="20250228212500 +0000">
+		<title>Celtic Connections Shorts - Series 1: Episode 8</title>
+		<desc>The Seumas Egan Project from the States perform one of their own tunes. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08ffyxn.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250228212500 +0000" stop="20250228213000 +0000">
 		<title>Fraochy Bay - Series 2: 4. Crumple of the Bailey</title>
