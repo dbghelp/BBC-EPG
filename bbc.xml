@@ -795,17 +795,12 @@
 		<desc>Chefs from Wales compete over mains and desserts - and one must go home.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kstsj8.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250307010500 +0000" stop="20250307013500 +0000">
-		<title>Robson Green's Weekend Escapes - Series 3: 3. Rupert Penry-Jones</title>
-		<desc>Robson gives fellow actor Rupert Penry-Jones a weekend break on the Northumberland coast.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0knv89j.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20250307013500 +0000" stop="20250307023500 +0000">
+	<programme channel="bbctwo" start="20250307010500 +0000" stop="20250307020500 +0000">
 		<title>Israel and the Palestinians: The Road to 7th October - Series 1: Episode 1</title>
 		<desc>Israel withdraws from Gaza in 2005, opening the door for Hamas to seize control.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kstkz5.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250307023500 +0000" stop="20250307061500 +0000">
+	<programme channel="bbctwo" start="20250307020500 +0000" stop="20250307061500 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -3359,7 +3354,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h6l52d.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250306105500 +0000" stop="20250306110500 +0000">
-		<title>Bluey - Series 1: 41. Mums &amp; Dads</title>
+		<title>Bluey - Series 1: 41. Mums and Dads</title>
 		<desc>When Indy and Rusty play Mums and Dads, they can't agree on who should go to work.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09pt3l1.jpg" />
 	</programme>
@@ -4917,8 +4912,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02tccbh.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250310112000 +0000" stop="20250310113500 +0000">
-		<title>I Can Do It, You Can Too - Series 2: 36. Tree-Trail Challenge and Tin Can Alley</title>
-		<desc>Zac takes on a tree-trail challenge, and Bethan tries tin can alley.</desc>
+		<title>I Can Do It, You Can Too - Series 2: 36. Tree Trail Challenge and Tin Can Alley</title>
+		<desc>Zac takes on a tree trail challenge, and Bethan tries tin can alley.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kv9py6.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250310113500 +0000" stop="20250310115000 +0000">
@@ -5583,7 +5578,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250306183000 +0000" stop="20250306190000 +0000">
 		<title>Sportsday - 06/03/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
+		<desc>Managing director Rob Key speaks about the future of English cricket.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250306190000 +0000" stop="20250306193000 +0000">
@@ -6557,9 +6552,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250311003000 +0000" stop="20250311010000 +0000">
-		<title>HARDtalk - 11/03/2025</title>
-		<desc>In-depth interviews with key figures from politics, culture, business and sport.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
+		<title>HARDtalk - N. Ram, Director of The Hindu Group</title>
+		<desc>Stephen Sackur speaks to one of India’s most influential media voices, N. Ram.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kt78ny.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250311010000 +0000" stop="20250311013000 +0000">
 		<title>BBC News - 11/03/2025</title>
@@ -6721,10 +6716,15 @@
 		<desc>Highlights of proceedings in the House of Commons from Thursday 6 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250307063000 +0000" stop="20250307093000 +0000">
+	<programme channel="bbcparliament" start="20250307063000 +0000" stop="20250307090000 +0000">
 		<title>Westminster Hall - 03/03/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Monday 3 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250307090000 +0000" stop="20250307093000 +0000">
+		<title>House of Commons - Scotland Office Questions</title>
+		<desc>Coverage of questions to Ian Murray on Wednesday 5 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw8yvc.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250307093000 +0000" stop="20250307150000 +0000">
 		<title>House of Commons - 07/03/2025</title>
@@ -6859,7 +6859,7 @@
 	<programme channel="bbcparliament" start="20250309050000 +0000" stop="20250309060000 +0000">
 		<title>House of Commons - Cabinet Office Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Thursday 6 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwlx7m.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250309060000 +0000" stop="20250309110000 +0000">
 		<title>Westminster Hall - 05/03/2025</title>
@@ -7599,7 +7599,7 @@
 	</programme>
 	<programme channel="bbcalba" start="20250310210000 +0000" stop="20250310220000 +0000">
 		<title>Trusadh - Series 17: 1. Mo Mhac-Meanmna Otasamach - My Autistic Imagination</title>
-		<desc>Autistic artist M Evan MacGregor takes a journey to meet others like themselves.</desc>
+		<desc>Autistic artist M Evan MacGregor takes a journey to meet others like themself.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwk0mg.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250310220000 +0000" stop="20250310223000 +0000">
