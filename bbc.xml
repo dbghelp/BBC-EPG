@@ -111,7 +111,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250307180000 +0000" stop="20250307183000 +0000">
 		<title>BBC News at Six - 07/03/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Three Bulgarians guilty of spying for Russia in the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250307183000 +0000" stop="20250307190000 +0000">
@@ -191,8 +191,8 @@
 	</programme>
 	<programme channel="bbcone" start="20250308120000 +0000" stop="20250308130000 +0000">
 		<title>Football Focus - 08/03/2025</title>
-		<desc>Alex Scott and guests look ahead to a jam-packed weekend of football.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfx2gp.jpg" />
+		<desc>On Football Focus this week - Frank Lampard on aiming sky high with the Sky Blues.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwsf0t.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250308130000 +0000" stop="20250308131000 +0000">
 		<title>BBC Weekend News - Lunchtime News: 08/03/2025</title>
@@ -1272,7 +1272,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250307201500 +0000" stop="20250307202000 +0000">
 		<title>The Catch Up - 07/03/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Julia Belle.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250307202000 +0000" stop="20250307204000 +0000">
@@ -1833,7 +1833,7 @@
 	<programme channel="bbcfour" start="20250309210000 +0000" stop="20250309221500 +0000">
 		<title>Inside Classical - Series 3: BBC Singers Centenary Concert</title>
 		<desc>Clive Myrie and Georgia Mann mark the BBC Singers' centenary with a celebratory concert.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd1ddv.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwsp0p.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250309221500 +0000" stop="20250310004000 +0000">
 		<title>Gilbert and Sullivan’s The Yeomen of the Guard</title>
@@ -5589,12 +5589,12 @@
 	</programme>
 	<programme channel="bbcnews" start="20250307180000 +0000" stop="20250307183000 +0000">
 		<title>BBC News at Six - 07/03/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Three Bulgarians guilty of spying for Russia in the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250307183000 +0000" stop="20250307190000 +0000">
 		<title>Sportsday - 07/03/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
+		<desc>Sportsday previews a crunch weekend in the Six Nations.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250307190000 +0000" stop="20250307193000 +0000">
@@ -6313,7 +6313,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250311003000 +0000" stop="20250311010000 +0000">
-		<title>HARDtalk - N. Ram, Director of The Hindu Group</title>
+		<title>HARDtalk - N. Ram - Director of The Hindu Group</title>
 		<desc>Stephen Sackur speaks to one of India’s most influential media voices, N. Ram.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kt78ny.jpg" />
 	</programme>
@@ -6682,22 +6682,22 @@
 		<desc>General question session with Scottish government ministers, from Thursday 6 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250307210000 +0000" stop="20250307214500 +0000">
+	<programme channel="bbcparliament" start="20250307210000 +0000" stop="20250307215000 +0000">
 		<title>Scottish First Minister's Questions - 06/03/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 6 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwmwqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250307214500 +0000" stop="20250307221000 +0000">
+	<programme channel="bbcparliament" start="20250307215000 +0000" stop="20250307221500 +0000">
 		<title>Scottish Parliament - Deputy First Minister's Questions</title>
 		<desc>Questions to the deputy first minister and economy and Gaelic secretary, Kate Forbes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250307221000 +0000" stop="20250308002000 +0000">
+	<programme channel="bbcparliament" start="20250307221500 +0000" stop="20250308002500 +0000">
 		<title>Scottish Parliament - Economy Debate</title>
 		<desc>Debate on 'achieving a fair balance in the UK's economy', from Wednesday 5 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250308002000 +0000" stop="20250308011000 +0000">
+	<programme channel="bbcparliament" start="20250308002500 +0000" stop="20250308011000 +0000">
 		<title>Welsh First Minister's Questions - 04/03/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 4 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw7frm.jpg" />
@@ -6737,37 +6737,37 @@
 		<desc>Questions to the Northern Ireland executive, with the first minister Michelle O'Neill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kvt64v.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250308135500 +0000" stop="20250308144000 +0000">
-		<title>House of Commons - 08/03/2025</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
+	<programme channel="bbcparliament" start="20250308135500 +0000" stop="20250308155000 +0000">
+		<title>House of Commons - Ukraine Statement</title>
+		<desc>Statement on the current situation in Ukraine, with the prime minister Keir Starmer.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kvtgvq.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250308155000 +0000" stop="20250308185000 +0000">
+		<title>House of Commons - International Women's Day Debate</title>
+		<desc>Debate marking International Women's Day, which is celebrated on Saturday 8 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250308144000 +0000" stop="20250308152500 +0000">
-		<title>House of Lords - 08/03/2025</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250308152500 +0000" stop="20250308161500 +0000">
-		<title>Scottish Parliament - 08/03/2025</title>
-		<desc>Coverage of a debate in the Scottish Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250308161500 +0000" stop="20250308172000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 08/03/2025</title>
-		<desc>Coverage of a debate in the Welsh Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250308172000 +0000" stop="20250308180000 +0000">
-		<title>House of Lords - 08/03/2025</title>
-		<desc>Coverage of an urgent question in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250308180000 +0000" stop="20250309002000 +0000">
-		<title>Select Committees - 08/03/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20250308185000 +0000" stop="20250308200000 +0000">
+		<title>Select Committees - Lords UK Engagement with Space Committee with Professor Brian Cox</title>
+		<desc>Lords UK Engagement with Space committee session with evidence from Professor Brian Cox.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250309002000 +0000" stop="20250309005500 +0000">
+	<programme channel="bbcparliament" start="20250308200000 +0000" stop="20250308220000 +0000">
+		<title>Select Committees - Treasury Committee with the Governor of the Bank of England</title>
+		<desc>Treasury committee on the monetary policy reports, inflation and interest rates in the UK.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250308220000 +0000" stop="20250309000500 +0000">
+		<title>Select Committees - Health and Social Care Committee on Adult Social Care</title>
+		<desc>Health and Social Care committee on adult social care reform, on Wednesday 5 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwmsp6.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250309000500 +0000" stop="20250309001500 +0000">
+		<title>House of Lords - Hong Kong Statement</title>
+		<desc>Statement on the bounties placed on Hong Kong democracy activists in the UK, on 6 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250309001500 +0000" stop="20250309005500 +0000">
 		<title>Prime Minister's Questions - 05/03/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 5 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw6w1d.jpg" />
@@ -6777,17 +6777,17 @@
 		<desc>Questions to John Swinney, the first minister, on Thursday 6 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwmwqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250309014000 +0000" stop="20250309023000 +0000">
+	<programme channel="bbcparliament" start="20250309014000 +0000" stop="20250309022500 +0000">
 		<title>Welsh First Minister's Questions - 04/03/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 4 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw7frm.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250309023000 +0000" stop="20250309033000 +0000">
+	<programme channel="bbcparliament" start="20250309022500 +0000" stop="20250309032500 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Angela Rayner on Monday 3 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw1rnl.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250309033000 +0000" stop="20250309043000 +0000">
+	<programme channel="bbcparliament" start="20250309032500 +0000" stop="20250309043000 +0000">
 		<title>House of Commons - Treasury Questions</title>
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 4 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw1tnn.jpg" />
@@ -6802,100 +6802,110 @@
 		<desc>Coverage of questions to Pat McFadden on Thursday 6 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwlx7m.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250309060000 +0000" stop="20250309110000 +0000">
+	<programme channel="bbcparliament" start="20250309060000 +0000" stop="20250309102500 +0000">
 		<title>Westminster Hall - 05/03/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Wednesday 5 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250309110000 +0000" stop="20250309114500 +0000">
-		<title>House of Lords - 08/03/2025</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250309114500 +0000" stop="20250309125000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 08/03/2025</title>
-		<desc>Coverage of a debate in the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20250309102500 +0000" stop="20250309110000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Local Government Funding Settlement</title>
+		<desc>Debate on the local government settlement, on the funding for local government in Wales.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250309125000 +0000" stop="20250309134000 +0000">
-		<title>Scottish Parliament - 08/03/2025</title>
-		<desc>Coverage of a debate in the Scottish Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250309134000 +0000" stop="20250309142500 +0000">
-		<title>House of Commons - 08/03/2025</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250309142500 +0000" stop="20250309150500 +0000">
-		<title>House of Lords - 08/03/2025</title>
-		<desc>Coverage of an urgent question in the House of Lords.</desc>
+	<programme channel="bbcparliament" start="20250309110000 +0000" stop="20250309130000 +0000">
+		<title>House of Lords - International Women's Day, Part 1</title>
+		<desc>First part of the debate to mark International Women's Day 2025, on Thursday 6 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250309150500 +0000" stop="20250309154000 +0000">
+	<programme channel="bbcparliament" start="20250309130000 +0000" stop="20250309143500 +0000">
+		<title>House of Lords - International Women's Day, Part 2</title>
+		<desc>Second part of the debate to mark International Women's Day 2025, on Thursday 6 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250309143500 +0000" stop="20250309151500 +0000">
+		<title>House of Lords - International Women's Day, Part 3</title>
+		<desc>Third part of the debate to mark International Women's Day 2025, on Thursday 6 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250309151500 +0000" stop="20250309155000 +0000">
 		<title>Prime Minister's Questions - 05/03/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 5 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw6w1d.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250309154000 +0000" stop="20250309162500 +0000">
+	<programme channel="bbcparliament" start="20250309155000 +0000" stop="20250309164000 +0000">
 		<title>Scottish First Minister's Questions - 06/03/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 6 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwmwqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250309162500 +0000" stop="20250309171500 +0000">
+	<programme channel="bbcparliament" start="20250309164000 +0000" stop="20250309172500 +0000">
 		<title>Welsh First Minister's Questions - 04/03/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 4 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw7frm.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250309171500 +0000" stop="20250309180000 +0000">
+	<programme channel="bbcparliament" start="20250309172500 +0000" stop="20250309181000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions to the Northern Ireland executive, with the first minister Michelle O'Neill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kvt64v.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250309180000 +0000" stop="20250310002000 +0000">
-		<title>Select Committees - 09/03/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20250309181000 +0000" stop="20250309195000 +0000">
+		<title>Select Committees - Lords International Relations and Defence Committee on US Relations</title>
+		<desc>Lords International Relations and Defence committee on the UK relationship with the US.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250310002000 +0000" stop="20250310012000 +0000">
-		<title>House of Commons - Cabinet Office Questions</title>
-		<desc>Coverage of questions to Pat McFadden on Thursday 6 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwlx7m.jpg" />
+	<programme channel="bbcparliament" start="20250309195000 +0000" stop="20250309214500 +0000">
+		<title>Select Committees - Defence Committee on the UK Contribution to European Security</title>
+		<desc>The Defence committee on the UK's contribution to European security, from Tuesday 4 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250309214500 +0000" stop="20250309232000 +0000">
+		<title>Select Committees - Justice Committee on the Work of the Ministry of Justice</title>
+		<desc>Coverage of the Justice select committee session on the work of the Ministry of Justice.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250309232000 +0000" stop="20250310012000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Budget Debate</title>
+		<desc>Debate on the Welsh government's final budget for 2025-26, from Tuesday 4 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250310012000 +0000" stop="20250310015000 +0000">
 		<title>House of Commons - Scotland Office Questions</title>
 		<desc>Coverage of questions to Ian Murray on Wednesday 5 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw8yvc.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250310015000 +0000" stop="20250310025000 +0000">
+	<programme channel="bbcparliament" start="20250310015000 +0000" stop="20250310025500 +0000">
 		<title>House of Commons - Treasury Questions</title>
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 4 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw1tnn.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250310025000 +0000" stop="20250310035000 +0000">
+	<programme channel="bbcparliament" start="20250310025500 +0000" stop="20250310035500 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Angela Rayner on Monday 3 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw1rnl.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250310035000 +0000" stop="20250310044000 +0000">
+	<programme channel="bbcparliament" start="20250310035500 +0000" stop="20250310044000 +0000">
 		<title>Welsh First Minister's Questions - 04/03/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 4 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw7frm.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250310044000 +0000" stop="20250310052500 +0000">
+	<programme channel="bbcparliament" start="20250310044000 +0000" stop="20250310053000 +0000">
 		<title>Scottish First Minister's Questions - 06/03/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 6 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwmwqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250310052500 +0000" stop="20250310060000 +0000">
+	<programme channel="bbcparliament" start="20250310053000 +0000" stop="20250310060500 +0000">
 		<title>Prime Minister's Questions - 05/03/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 5 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kw6w1d.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250310060000 +0000" stop="20250310090500 +0000">
+	<programme channel="bbcparliament" start="20250310060500 +0000" stop="20250310085000 +0000">
 		<title>Westminster Hall - 06/03/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Thursday 6 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250310085000 +0000" stop="20250310090500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Police Settlement</title>
+		<desc>The debate on the funding levels for police in Wales, from Tuesday 4 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250310090500 +0000" stop="20250310095000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
@@ -6923,8 +6933,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250310140000 +0000" stop="20250310143000 +0000">
-		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<title>Northern Ireland Assembly - Education Questions</title>
+		<desc>Coverage of questions to Northern Ireland's education minister Paul Girvan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250310143000 +0000" stop="20250310153000 +0000">
@@ -6932,29 +6942,14 @@
 		<desc>Coverage of questions to Bridget Phillipson on Monday 10 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250310153000 +0000" stop="20250310163000 +0000">
-		<title>House of Commons - 10/03/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 10 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250310163000 +0000" stop="20250310173000 +0000">
-		<title>House of Commons - 10/03/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 10 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250310173000 +0000" stop="20250310183000 +0000">
-		<title>House of Commons - 10/03/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 10 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250310183000 +0000" stop="20250310223000 +0000">
-		<title>House of Commons - 10/03/2025 Part 4</title>
+	<programme channel="bbcparliament" start="20250310153000 +0000" stop="20250310223000 +0000">
+		<title>House of Commons - 10/03/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 10 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250310223000 +0000" stop="20250310231500 +0000">
-		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<title>Northern Ireland Assembly - Education Questions</title>
+		<desc>Coverage of questions to Northern Ireland's education minister Paul Girvan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250310231500 +0000" stop="20250311000000 +0000">
@@ -6962,38 +6957,8 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 10 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250311000000 +0000" stop="20250311010000 +0000">
-		<title>House of Lords - 10/03/2025 Part 1</title>
-		<desc>Business in the House of Lords on Monday 10 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250311010000 +0000" stop="20250311020000 +0000">
-		<title>House of Lords - 10/03/2025 Part 2</title>
-		<desc>Business in the House of Lords on Monday 10 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250311020000 +0000" stop="20250311030000 +0000">
-		<title>House of Lords - 10/03/2025 Part 3</title>
-		<desc>Business in the House of Lords on Monday 10 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250311030000 +0000" stop="20250311040000 +0000">
-		<title>House of Lords - 10/03/2025 Part 4</title>
-		<desc>Business in the House of Lords on Monday 10 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250311040000 +0000" stop="20250311050000 +0000">
-		<title>House of Lords - 10/03/2025 Part 5</title>
-		<desc>Business in the House of Lords on Monday 10 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250311050000 +0000" stop="20250311060000 +0000">
-		<title>House of Lords - 10/03/2025 Part 6</title>
-		<desc>Business in the House of Lords on Monday 10 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250311060000 +0000" stop="20250311070000 +0000">
-		<title>House of Lords - 10/03/2025 Part 7</title>
+	<programme channel="bbcparliament" start="20250311000000 +0000" stop="20250311070000 +0000">
+		<title>House of Lords - 11/03/2025</title>
 		<desc>Business in the House of Lords on Monday 10 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -7002,38 +6967,23 @@
 		<desc>Coverage of questions to Bridget Phillipson on Monday 10 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250311080000 +0000" stop="20250311093000 +0000">
+	<programme channel="bbcparliament" start="20250311080000 +0000" stop="20250311100000 +0000">
 		<title>House of Commons - 10/03/2025</title>
 		<desc>Highlights of proceedings in the House of Commons from Monday 10 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250311093000 +0000" stop="20250311113000 +0000">
-		<title>Select Committees - 11/03/2025</title>
-		<desc>Coverage of select committee proceedings on Tuesday 11 March.</desc>
+	<programme channel="bbcparliament" start="20250311100000 +0000" stop="20250311113000 +0000">
+		<title>Select Committees - Education Committee on the SEND Crisis</title>
+		<desc>Education committee on the provision of special educational needs and disabilities support</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250311113000 +0000" stop="20250311123000 +0000">
-		<title>House of Commons - Justice Questions</title>
+		<title>House of Commons - 12/03/2025</title>
 		<desc>Coverage of questions to Shabana Mahmood on Tuesday 11 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250311123000 +0000" stop="20250311133000 +0000">
-		<title>House of Commons - 11/03/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250311133000 +0000" stop="20250311143000 +0000">
-		<title>House of Commons - 11/03/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250311143000 +0000" stop="20250311153000 +0000">
-		<title>House of Commons - 11/03/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250311153000 +0000" stop="20250311193000 +0000">
-		<title>House of Commons - 11/03/2025 Part 4</title>
+	<programme channel="bbcparliament" start="20250311123000 +0000" stop="20250311193000 +0000">
+		<title>House of Commons - 11/03/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 11 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -7052,38 +7002,8 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 11 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250311233500 +0000" stop="20250312003500 +0000">
-		<title>House of Lords - 11/03/2025 Part 1</title>
-		<desc>Business in the House of Lords on Tuesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250312003500 +0000" stop="20250312013500 +0000">
-		<title>House of Lords - 11/03/2025 Part 2</title>
-		<desc>Business in the House of Lords on Tuesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250312013500 +0000" stop="20250312023500 +0000">
-		<title>House of Lords - 11/03/2025 Part 3</title>
-		<desc>Business in the House of Lords on Tuesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250312023500 +0000" stop="20250312033500 +0000">
-		<title>House of Lords - 11/03/2025 Part 4</title>
-		<desc>Business in the House of Lords on Tuesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250312033500 +0000" stop="20250312043500 +0000">
-		<title>House of Lords - 11/03/2025 Part 5</title>
-		<desc>Business in the House of Lords on Tuesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250312043500 +0000" stop="20250312053500 +0000">
-		<title>House of Lords - 11/03/2025 Part 6</title>
-		<desc>Business in the House of Lords on Tuesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250312053500 +0000" stop="20250312060000 +0000">
-		<title>House of Lords - 11/03/2025 Part 7</title>
+	<programme channel="bbcparliament" start="20250311233500 +0000" stop="20250312060000 +0000">
+		<title>House of Lords - 11/03/2025</title>
 		<desc>Business in the House of Lords on Tuesday 11 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -8127,12 +8047,12 @@
 		<desc>Mae Seth yn holi 'Pam bod y môr yn blasu o halen?'. Wrth gwrs, mae gan Tad-cu ateb dwl ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09t9404.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250309071500 +0000" stop="20250309072500 +0000">
+	<programme channel="s4c" start="20250309071500 +0000" stop="20250309072000 +0000">
 		<title>Odo - Cyfres 1: Rhodri!</title>
 		<desc>Cyflwyna Odo Rhodri y llwynog i wers "dangos a dweud" ym Maes y Mes ond mae'r adar i gy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c2dj8p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250309072500 +0000" stop="20250309074000 +0000">
+	<programme channel="s4c" start="20250309072000 +0000" stop="20250309074000 +0000">
 		<title>Awyr Iach - Cyfres 2: Pennod 10</title>
 		<desc>Heddiw, bydd Huw yn cwrdd a rhai o aelodau ifanc Clwb Triathlon Caerdydd, ac awn ni i g...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd9v0r.jpg" />
@@ -8252,12 +8172,12 @@
 		<desc>Cyfres wedi'i chyflwyno gan Heledd Cynwal, yn helpu 4 teulu sy'n ysu am gi. Bydd y teul...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khx0y5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250309220000 +0000" stop="20250309231500 +0000">
+	<programme channel="s4c" start="20250309220000 +0000" stop="20250309232000 +0000">
 		<title>Sian Phillips - Siân Phillips yn 90</title>
 		<desc>Ffilm ddogfen yn edrych nôl ar fywyd a gyrfa Siân Phillips, un o'n actoresau mwyaf eico...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h101by.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250309231500 +0000" stop="20250310000500 +0000">
+	<programme channel="s4c" start="20250309232000 +0000" stop="20250310000500 +0000">
 		<title>Stryd i'r Sgrym - Pennod 4</title>
 		<desc>Oes gan dîm rygbi Scott beth sydd angen i daclo gêm gyfeillgar yn erbyn clwb Croesoswal...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hh776l.jpg" />
@@ -8525,7 +8445,7 @@
 	<programme channel="s4c" start="20250310200000 +0000" stop="20250310202500 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2024/25: Pennod 14</title>
 		<desc>Cyfres materion cyfoes gyda straeon o Gymru a'r byd. Current affairs series with storie...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jymttj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwslbb.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250310202500 +0000" stop="20250310205500 +0000">
 		<title>Cegin Bryn - Yn Ffrainc: Rhaglen 6</title>
@@ -8845,7 +8765,7 @@
 	<programme channel="s4c" start="20250311214500 +0000" stop="20250311221500 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2024/25: Pennod 14</title>
 		<desc>Cyfres materion cyfoes gyda straeon o Gymru a'r byd. Current affairs series with storie...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jymttj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kwslbb.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250311221500 +0000" stop="20250311224500 +0000">
 		<title>Jess Davies - Cyfres 2: Jess Davies: Yn Gaeth i Gamblo</title>
