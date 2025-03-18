@@ -5665,15 +5665,10 @@
 		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250318213000 +0000" stop="20250318220000 +0000">
-		<title>The Context - 18/03/2025</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250318220000 +0000" stop="20250318223000 +0000">
-		<title>BBC News at Ten - 18/03/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+	<programme channel="bbcnews" start="20250318213000 +0000" stop="20250318223000 +0000">
+		<title>Splashdown Live: Astronauts Return</title>
+		<desc>Live coverage as Nasa astronauts Butch Wilmore and Suni Williams return to Earth.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kyxgky.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250318223000 +0000" stop="20250318230000 +0000">
 		<title>Newsnight - 18/03/2025</title>
@@ -5946,8 +5941,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250320003000 +0000" stop="20250320010000 +0000">
-		<title>HARDtalk - 20/03/2025</title>
-		<desc>In-depth interviews with key figures from politics, culture, business and sport.</desc>
+		<title>HARDtalk - Early Years Review</title>
+		<desc>A look back at some of the most memorable interviews of the programme's early years.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250320010000 +0000" stop="20250320013000 +0000">
@@ -6202,7 +6197,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250321003000 +0000" stop="20250321010000 +0000">
 		<title>HARDtalk - 20/03/2025</title>
-		<desc>In-depth interviews with key figures from politics, culture, business and sport.</desc>
+		<desc>A look back at some of HARDtalk's most memorable interviews with Stephen Sackur.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250321010000 +0000" stop="20250321013000 +0000">
@@ -6718,7 +6713,7 @@
 	<programme channel="bbcparliament" start="20250318070000 +0000" stop="20250318080500 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Liz Kendall on Monday 17 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kyx2d2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250318080500 +0000" stop="20250318094500 +0000">
 		<title>Select Committees - UK-US Relationship Committee</title>
@@ -6740,23 +6735,13 @@
 		<desc>Coverage of questions to Ed Miliband on Tuesday 18 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250318123000 +0000" stop="20250318133000 +0000">
-		<title>House of Commons - 18/03/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 18 March.</desc>
+	<programme channel="bbcparliament" start="20250318123000 +0000" stop="20250318143500 +0000">
+		<title>House of Commons - Welfare Reform Statement</title>
+		<desc>Statement on welfare reform, with work and pensions secretary Liz Kendall, on 18 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250318133000 +0000" stop="20250318143000 +0000">
-		<title>House of Commons - 18/03/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 18 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250318143000 +0000" stop="20250318153000 +0000">
-		<title>House of Commons - 18/03/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 18 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250318153000 +0000" stop="20250318193000 +0000">
-		<title>House of Commons - 18/03/2025 Part 4</title>
+	<programme channel="bbcparliament" start="20250318143500 +0000" stop="20250318193000 +0000">
+		<title>House of Commons - 18/03/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 18 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6775,39 +6760,34 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 18 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250318233500 +0000" stop="20250319003500 +0000">
-		<title>House of Lords - 18/03/2025 Part 1</title>
-		<desc>Business in the House of Lords on Tuesday 18 March.</desc>
+	<programme channel="bbcparliament" start="20250318233500 +0000" stop="20250318235000 +0000">
+		<title>House of Lords - Gaza Ceasefire Question</title>
+		<desc>A private notice question on the durability of the ceasefire in Gaza, on Tuesday 18 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250319003500 +0000" stop="20250319013500 +0000">
-		<title>House of Lords - 18/03/2025 Part 2</title>
-		<desc>Business in the House of Lords on Tuesday 18 March.</desc>
+	<programme channel="bbcparliament" start="20250318235000 +0000" stop="20250319003000 +0000">
+		<title>House of Lords - Sustainable Farming Statement</title>
+		<desc>A ministerial statement on the Sustainable Farming Incentive, on Tuesday 18 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250319013500 +0000" stop="20250319023500 +0000">
-		<title>House of Lords - 18/03/2025 Part 3</title>
-		<desc>Business in the House of Lords on Tuesday 18 March.</desc>
+	<programme channel="bbcparliament" start="20250319003000 +0000" stop="20250319011000 +0000">
+		<title>House of Lords - Welfare Reform Statement</title>
+		<desc>A ministerial statement on the government's plans to reform welfare, on Tuesday 18 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250319023500 +0000" stop="20250319033500 +0000">
-		<title>House of Lords - 18/03/2025 Part 4</title>
-		<desc>Business in the House of Lords on Tuesday 18 March.</desc>
+	<programme channel="bbcparliament" start="20250319011000 +0000" stop="20250319031000 +0000">
+		<title>House of Lords - Non-Domestic Rating Bill, Part 1</title>
+		<desc>Report stage debate on the Non-Domestic Rating (Multipliers and Private Schools) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250319033500 +0000" stop="20250319043500 +0000">
-		<title>House of Lords - 18/03/2025 Part 5</title>
-		<desc>Business in the House of Lords on Tuesday 18 March.</desc>
+	<programme channel="bbcparliament" start="20250319031000 +0000" stop="20250319051000 +0000">
+		<title>House of Lords - Non-Domestic Rating Bill, Part 2</title>
+		<desc>Report stage debate on the Non-Domestic Rating (Multipliers and Private Schools) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250319043500 +0000" stop="20250319053500 +0000">
-		<title>House of Lords - 18/03/2025 Part 6</title>
-		<desc>Business in the House of Lords on Tuesday 18 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250319053500 +0000" stop="20250319060000 +0000">
-		<title>House of Lords - 18/03/2025 Part 7</title>
-		<desc>Business in the House of Lords on Tuesday 18 March.</desc>
+	<programme channel="bbcparliament" start="20250319051000 +0000" stop="20250319060000 +0000">
+		<title>House of Lords - Non-Domestic Rating Bill, Part 3</title>
+		<desc>Report stage debate on the Non-Domestic Rating (Multipliers and Private Schools) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250319060000 +0000" stop="20250319070000 +0000">
@@ -7128,7 +7108,7 @@
 	<programme channel="bbcparliament" start="20250323023000 +0000" stop="20250323033000 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Liz Kendall on Monday 17 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kyx2d2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250323033000 +0000" stop="20250323043000 +0000">
 		<title>House of Commons - Energy Security and Net Zero Questions</title>
