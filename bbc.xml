@@ -286,7 +286,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250320224000 +0000" stop="20250320234000 +0000">
 		<title>Question Time - 2025: 20/03/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Reading in Berkshire.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250320234000 +0000" stop="20250321001000 +0000">
@@ -1241,7 +1241,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250324004000 +0000" stop="20250324014000 +0000">
 		<title>Question Time - 2025: 20/03/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Reading in Berkshire.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250324014000 +0000" stop="20250324024000 +0000">
@@ -5599,8 +5599,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250319223000 +0000" stop="20250319230000 +0000">
-		<title>Newsnight - 19/03/2025</title>
-		<desc>The day's important national and international news stories. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Young Men and Toxic Masculinity</title>
+		<desc>The toxic masculinity debate is front and centre for young men, but what do they think?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250319230000 +0000" stop="20250320000000 +0000">
@@ -6623,50 +6623,60 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 19 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kz229g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250319123500 +0000" stop="20250319193000 +0000">
+	<programme channel="bbcparliament" start="20250319123500 +0000" stop="20250319194000 +0000">
 		<title>House of Commons - 19/03/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 19 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250319193000 +0000" stop="20250319220000 +0000">
+	<programme channel="bbcparliament" start="20250319194000 +0000" stop="20250319211000 +0000">
 		<title>House of Lords - 19/03/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Lords on Wednesday 19 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250319220000 +0000" stop="20250319224000 +0000">
+	<programme channel="bbcparliament" start="20250319211000 +0000" stop="20250319215000 +0000">
 		<title>Prime Minister's Questions - 19/03/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 19 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kz229g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250319224000 +0000" stop="20250319232500 +0000">
+	<programme channel="bbcparliament" start="20250319215000 +0000" stop="20250319223000 +0000">
 		<title>Lords Questions - 19/03/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Wednesday 19 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250319232500 +0000" stop="20250319233500 +0000">
+	<programme channel="bbcparliament" start="20250319223000 +0000" stop="20250319224000 +0000">
 		<title>House of Lords - Sentencing Guidelines Statement</title>
 		<desc>Statement on the Sentencing Council's new community and custodial sentences guidelines.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250319233500 +0000" stop="20250320001500 +0000">
+	<programme channel="bbcparliament" start="20250319224000 +0000" stop="20250319232000 +0000">
 		<title>House of Lords - NHS England Statement</title>
 		<desc>Statement on plans to abolish NHS England, on Wednesday 19 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250320001500 +0000" stop="20250320021500 +0000">
+	<programme channel="bbcparliament" start="20250319232000 +0000" stop="20250320003000 +0000">
 		<title>House of Lords - Church of Scotland Bill</title>
 		<desc>Second reading debate on the Church of Scotland (Lord High Commissioner) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250320021500 +0000" stop="20250320041500 +0000">
+	<programme channel="bbcparliament" start="20250320003000 +0000" stop="20250320024000 +0000">
 		<title>House of Lords - Finance Bill</title>
 		<desc>Debate on the Finance Bill giving legal effect to the government's taxation proposals.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250320041500 +0000" stop="20250320060000 +0000">
+	<programme channel="bbcparliament" start="20250320024000 +0000" stop="20250320035500 +0000">
 		<title>House of Lords - Infected Blood Compensation Scheme</title>
 		<desc>Debate on a motion relating to the Infected Blood Compensation Scheme Regulations 2025.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250320035500 +0000" stop="20250320055000 +0000">
+		<title>Select Committees - Environment Committee on the Water Industry</title>
+		<desc>The Environment, Food and Rural Affairs committee session on reforming the water sector.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxrg0d.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250320055000 +0000" stop="20250320060000 +0000">
+		<title>Ten Minute Rule Bill - Ten Minute Rule Bill on Food Products</title>
+		<desc>Coverage of the introduction of a Ten Minute Rule Bill in the House of Commons.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250320060000 +0000" stop="20250320062500 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
