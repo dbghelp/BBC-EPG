@@ -259,12 +259,12 @@
 		<desc>Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250320193000 +0000" stop="20250320200500 +0000">
+	<programme channel="bbcone" start="20250320193000 +0000" stop="20250320200000 +0000">
 		<title>EastEnders - 20/03/2025</title>
 		<desc>Phil attempts to face his inner trauma at the mental health unit.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxhmrx.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250320200500 +0000" stop="20250320210000 +0000">
+	<programme channel="bbcone" start="20250320200000 +0000" stop="20250320210000 +0000">
 		<title>Dragons' Den - Series 20: Episode 3</title>
 		<desc>A green-fingered entrepreneur pitches his accessible gardening enterprise.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dw3nnx.jpg" />
@@ -587,7 +587,7 @@
 	<programme channel="bbcone" start="20250323140000 +0000" stop="20250323165000 +0000">
 		<title>Women's Super League - 2024/25: Manchester City v Chelsea</title>
 		<desc>Live coverage of Manchester City v Chelsea in the Women's Super League.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ghwzph.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kz4ltn.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250323165000 +0000" stop="20250323170500 +0000">
 		<title>BBC Weekend News - Evening News: 23/03/2025</title>
@@ -5170,7 +5170,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20250319210000 +0000" stop="20250319220000 +0000">
 		<title>Debate Night - Series 6: 19/03/2025</title>
-		<desc>Topical debate on the big issues affecting Scotland and beyond.</desc>
+		<desc>Debate Night comes from Galashiels and is hosted by Stephen Jardine.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0brnqkq.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250319220000 +0000" stop="20250319223000 +0000">
@@ -5184,8 +5184,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h3phf1.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250319230000 +0000" stop="20250319233000 +0000">
-		<title>Scotcast - 19/03/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
+		<title>Scotcast - Tour de France in Edinburgh</title>
+		<desc>How did Edinburgh come to be the starting point of the Tour de France in 2027?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250319233000 +0000" stop="20250320000000 +0000">
@@ -6524,8 +6524,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250324003000 +0000" stop="20250324010000 +0000">
-		<title>HARDtalk - 24/03/2025</title>
-		<desc>In-depth interviews with key figures from politics, culture, business and sport.</desc>
+		<title>HARDtalk - On the Road Review</title>
+		<desc>A look back with Stephen Sackur, who took HARDtalk On the Road around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcpq0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250324010000 +0000" stop="20250324013000 +0000">
@@ -6668,20 +6668,25 @@
 		<desc>Debate on a motion relating to the Infected Blood Compensation Scheme Regulations 2025.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250320060000 +0000" stop="20250320063000 +0000">
+	<programme channel="bbcparliament" start="20250320060000 +0000" stop="20250320062500 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Wednesday 19 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250320063000 +0000" stop="20250320070500 +0000">
+	<programme channel="bbcparliament" start="20250320062500 +0000" stop="20250320070500 +0000">
 		<title>Prime Minister's Questions - 19/03/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 19 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kz229g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250320070500 +0000" stop="20250320093000 +0000">
-		<title>House of Commons - 19/03/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 19 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250320070500 +0000" stop="20250320090000 +0000">
+		<title>Select Committees - Housing, Communities and Local Government Committee</title>
+		<desc>Housing, Communities and Local Government committee on Grenfell and building safety.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250320090000 +0000" stop="20250320093000 +0000">
+		<title>Scottish Parliament - Justice and Home Affairs Questions</title>
+		<desc>Questions to the cabinet secretary for justice and home affairs, Angela Constance.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250320093000 +0000" stop="20250320101000 +0000">
 		<title>House of Commons - Environment, Food and Rural Affairs Questions</title>
@@ -6713,38 +6718,8 @@
 		<desc>Questions in the House of Lords to government ministers on Thursday 20 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250320190000 +0000" stop="20250320200000 +0000">
-		<title>House of Lords - 20/03/2025 Part 1</title>
-		<desc>Business in the House of Lords on Thursday 20 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250320200000 +0000" stop="20250320210000 +0000">
-		<title>House of Lords - 20/03/2025 Part 2</title>
-		<desc>Business in the House of Lords on Thursday 20 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250320210000 +0000" stop="20250320220000 +0000">
-		<title>House of Lords - 20/03/2025 Part 3</title>
-		<desc>Business in the House of Lords on Thursday 20 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250320220000 +0000" stop="20250320230000 +0000">
-		<title>House of Lords - 20/03/2025 Part 4</title>
-		<desc>Business in the House of Lords on Thursday 20 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250320230000 +0000" stop="20250321000000 +0000">
-		<title>House of Lords - 20/03/2025 Part 5</title>
-		<desc>Business in the House of Lords on Thursday 20 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250321000000 +0000" stop="20250321010000 +0000">
-		<title>House of Lords - 20/03/2025 Part 6</title>
-		<desc>Business in the House of Lords on Thursday 20 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250321010000 +0000" stop="20250321021500 +0000">
-		<title>House of Lords - 20/03/2025 Part 7</title>
+	<programme channel="bbcparliament" start="20250320190000 +0000" stop="20250321021500 +0000">
+		<title>House of Lords - 20/03/2025</title>
 		<desc>Business in the House of Lords on Thursday 20 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
