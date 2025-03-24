@@ -116,7 +116,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250324180000 +0000" stop="20250324183000 +0000">
 		<title>BBC News at Six - 24/03/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>The latest national and international news from the BBC with Sophie Raworth.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250324183000 +0000" stop="20250324190000 +0000">
@@ -146,7 +146,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250324220000 +0000" stop="20250324223000 +0000">
 		<title>BBC News at Ten - 24/03/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>The latest national and international news from the BBC with Clive Myrie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250324223000 +0000" stop="20250324224000 +0000">
@@ -5759,7 +5759,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250324180000 +0000" stop="20250324183000 +0000">
 		<title>BBC News at Six - 24/03/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>The latest national and international news from the BBC with Sophie Raworth.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250324183000 +0000" stop="20250324190000 +0000">
@@ -5799,7 +5799,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250324220000 +0000" stop="20250324223000 +0000">
 		<title>BBC News at Ten - 24/03/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>The latest national and international news from the BBC with Clive Myrie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250324223000 +0000" stop="20250324230000 +0000">
@@ -6930,7 +6930,7 @@
 	<programme channel="bbcparliament" start="20250324153000 +0000" stop="20250324163000 +0000">
 		<title>House of Commons - Heathrow Airport Statement</title>
 		<desc>Coverage of statement by Heidi Alexander on disruption at Heathrow Airport, on 24 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l03kxb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250324163000 +0000" stop="20250324223000 +0000">
 		<title>House of Commons - 24/03/2025</title>
@@ -6972,15 +6972,20 @@
 		<desc>Business in the House of Lords on Monday 24 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250325070000 +0000" stop="20250325080000 +0000">
+	<programme channel="bbcparliament" start="20250325070000 +0000" stop="20250325080500 +0000">
 		<title>House of Commons - Defence Questions</title>
 		<desc>Coverage of questions to John Healey on Monday 24 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250325080000 +0000" stop="20250325093000 +0000">
-		<title>House of Commons - 24/03/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 24 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250325080500 +0000" stop="20250325085500 +0000">
+		<title>House of Commons - Heathrow Airport Statement</title>
+		<desc>Coverage of statement by Heidi Alexander on disruption at Heathrow Airport, on 24 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l03kxb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250325085500 +0000" stop="20250325093000 +0000">
+		<title>House of Lords - G7 Statement</title>
+		<desc>Statement on the recent G7 foreign ministers' summit in Canada, on Monday 17 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kzypg1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250325093000 +0000" stop="20250325113000 +0000">
 		<title>Select Committees - Home Affairs Committee on Modern Slavery</title>
@@ -8120,7 +8125,7 @@
 	<programme channel="s4c" start="20250324210000 +0000" stop="20250324220000 +0000">
 		<title>Pawb a'i Farn - Argyfwng Rygbi Cymru: Pawb a'i Farn</title>
 		<desc>Gyda 17 colled i'r tim dynion cenedlaethol, mae rygbi Cymru mewn argyfwng. Yma cawn hol...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0frr15r.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l03cgl.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250324220000 +0000" stop="20250324223000 +0000">
 		<title>Ralio+ - Cyfres 2025: Ralio: Saffari Kenya</title>
