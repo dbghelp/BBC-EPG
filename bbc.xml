@@ -147,7 +147,7 @@
 	<programme channel="bbcone" start="20250327220000 +0000" stop="20250327223000 +0000">
 		<title>BBC News at Ten - 27/03/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l0v903.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250327223000 +0000" stop="20250327224000 +0000">
 		<title>BBC London - Late News: 27/03/2025</title>
@@ -160,9 +160,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250327234000 +0000" stop="20250328001000 +0000">
-		<title>Newscast - Series 5: 27/03/2025</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
+		<title>Newscast - Series 5: 34. Tariffs, Welfare Reform, and Baroness Gray Speaks</title>
+		<desc>Adam, Chris, Alex and Faisal discuss the impact of President Trump’s new tariffs on cars.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l0v1s9.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250328001000 +0000" stop="20250328001500 +0000">
 		<title>Weather for the Week Ahead - 28/03/2025</title>
@@ -4072,12 +4072,12 @@
 		<desc>Upsy Daisy's bed follows Igglepiggle and Upsy Daisy when they go for a walk.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tlvv2.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20250328185000 +0000" stop="20250328190000 +0000">
+	<programme channel="cbeebies" start="20250328185000 +0000" stop="20250328185800 +0000">
 		<title>CBeebies Bedtime Stories - New and Trending: Rachel Zegler - Never Mess With a Pirate Princess</title>
 		<desc>Rachel Zegler shares a magical story about a powerful princess.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20250328190000 +0000" stop="20250329053000 +0000">
+	<programme channel="cbeebies" start="20250328185800 +0000" stop="20250329053000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
 		<desc>Programmes start at 6.00am.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8qpp9.jpg" />
@@ -5681,14 +5681,14 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250327210000 +0000" stop="20250327220000 +0000">
-		<title>Question Time - 2025: 27/03/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate from Dartford in Kent.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
+		<title>BBC News - 27/03/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250327220000 +0000" stop="20250327223000 +0000">
 		<title>BBC News at Ten - 27/03/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l0v903.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250327223000 +0000" stop="20250327230000 +0000">
 		<title>Newsnight - 27/03/2025</title>
@@ -6730,60 +6730,65 @@
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 27 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250327130000 +0000" stop="20250327173000 +0000">
+	<programme channel="bbcparliament" start="20250327130000 +0000" stop="20250327172000 +0000">
 		<title>House of Commons - 27/03/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 27 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250327173000 +0000" stop="20250327181500 +0000">
+	<programme channel="bbcparliament" start="20250327172000 +0000" stop="20250327180500 +0000">
 		<title>Scottish First Minister's Questions - 27/03/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 27 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250327181500 +0000" stop="20250327190000 +0000">
+	<programme channel="bbcparliament" start="20250327180500 +0000" stop="20250327184500 +0000">
 		<title>Lords Questions - 27/03/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 27 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250327190000 +0000" stop="20250327200000 +0000">
+	<programme channel="bbcparliament" start="20250327184500 +0000" stop="20250327195000 +0000">
 		<title>House of Lords - Spring Statement</title>
 		<desc>The Spring Statement in the House of Lords on Thursday 27 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250327200000 +0000" stop="20250327220000 +0000">
+	<programme channel="bbcparliament" start="20250327195000 +0000" stop="20250327215500 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 1</title>
 		<desc>Business in the House of Lords on Thursday 27 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250327220000 +0000" stop="20250328000000 +0000">
+	<programme channel="bbcparliament" start="20250327215500 +0000" stop="20250327235500 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 2</title>
 		<desc>Business in the House of Lords on Thursday 27 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250328000000 +0000" stop="20250328020000 +0000">
+	<programme channel="bbcparliament" start="20250327235500 +0000" stop="20250328013000 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 3</title>
 		<desc>Business in the House of Lords on Thursday 27 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250328020000 +0000" stop="20250328023000 +0000">
-		<title>House of Lords - Employment Rights Bill, Part 4</title>
-		<desc>Business in the House of Lords on Thursday 27 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250328023000 +0000" stop="20250328033000 +0000">
+	<programme channel="bbcparliament" start="20250328013000 +0000" stop="20250328023500 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 27 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250328033000 +0000" stop="20250328043000 +0000">
+	<programme channel="bbcparliament" start="20250328023500 +0000" stop="20250328035500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 27 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250328043000 +0000" stop="20250328063000 +0000">
-		<title>House of Commons - 27/03/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 27 March.</desc>
+	<programme channel="bbcparliament" start="20250328035500 +0000" stop="20250328044000 +0000">
+		<title>House of Commons - PIP and Carers Allowance Urgent Question</title>
+		<desc>Urgent question on the Personal Independence Payment and recipients of Carers Allowance.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250328044000 +0000" stop="20250328052000 +0000">
+		<title>House of Commons - Scunthorpe Steelworks Urgent Question</title>
+		<desc>Urgent question on the future of Scunthorpe Steelworks, on Thursday 27 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250328052000 +0000" stop="20250328063000 +0000">
+		<title>House of Commons - Defence Questions</title>
+		<desc>Coverage of questions to John Healey on Monday 24 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l07w3w.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250328063000 +0000" stop="20250328093000 +0000">
 		<title>Westminster Hall - 24/03/2025</title>
@@ -6811,7 +6816,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250328201000 +0000" stop="20250328210000 +0000">
-		<title>Select Committees - Select Committees · Export-led Growth Committee</title>
+		<title>Select Committees - Export-led Growth Committee</title>
 		<desc>Business and Trade Committee on export-led growth and the trade relationship with Asia.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
@@ -6850,10 +6855,15 @@
 		<desc>Questions to the housing and local government secretary Jayne Bryant, on 26 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250329031000 +0000" stop="20250329042000 +0000">
+	<programme channel="bbcparliament" start="20250329031000 +0000" stop="20250329040500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Deputy First Minister's Questions</title>
 		<desc>Questions to the deputy first minister Huw Irranca-Davies, on Wednesday 26 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250329040500 +0000" stop="20250329042000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250329042000 +0000" stop="20250329051000 +0000">
 		<title>Northern Ireland Assembly - Infrastructure Questions</title>
