@@ -117,7 +117,7 @@
 	<programme channel="bbcone" start="20250331170000 +0000" stop="20250331173000 +0000">
 		<title>BBC News at Six - 31/03/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1k0mh.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250331173000 +0000" stop="20250331175500 +0000">
 		<title>BBC London - Evening News: 31/03/2025</title>
@@ -157,7 +157,7 @@
 	<programme channel="bbcone" start="20250331210000 +0000" stop="20250331213000 +0000">
 		<title>BBC News at Ten - 31/03/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1k0mh.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250331213000 +0000" stop="20250331214000 +0000">
 		<title>BBC London - Late News: 31/03/2025</title>
@@ -854,7 +854,7 @@
 	<programme channel="bbctwo" start="20250331213000 +0000" stop="20250331220000 +0000">
 		<title>Newsnight - 31/03/2025</title>
 		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1k9sk.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250331220000 +0000" stop="20250331220500 +0000">
 		<title>BBC Weather - 31/03/2025</title>
@@ -5847,7 +5847,7 @@
 	<programme channel="bbcnews" start="20250331170000 +0000" stop="20250331173000 +0000">
 		<title>BBC News at Six - 31/03/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1k0mh.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250331173000 +0000" stop="20250331180000 +0000">
 		<title>Sportsday - 31/03/2025</title>
@@ -5888,12 +5888,12 @@
 	<programme channel="bbcnews" start="20250331210000 +0000" stop="20250331213000 +0000">
 		<title>BBC News at Ten - 31/03/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1k0mh.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250331213000 +0000" stop="20250331220000 +0000">
 		<title>Newsnight - 31/03/2025</title>
 		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1k9sk.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250331220000 +0000" stop="20250331230000 +0000">
 		<title>BBC World News America - 31/03/2025</title>
@@ -7075,55 +7075,60 @@
 		<desc>Statement on Birmingham City Council with Jim McMahon, on Monday 31 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250331170000 +0000" stop="20250331213000 +0000">
+	<programme channel="bbcparliament" start="20250331170000 +0000" stop="20250331210500 +0000">
 		<title>House of Commons - 31/03/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 31 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250331213000 +0000" stop="20250331221500 +0000">
+	<programme channel="bbcparliament" start="20250331210500 +0000" stop="20250331215000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions to the NI executive, with deputy first minister Emma Little-Pengelly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250331221500 +0000" stop="20250331230000 +0000">
+	<programme channel="bbcparliament" start="20250331215000 +0000" stop="20250331223500 +0000">
 		<title>Lords Questions - 31/03/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 31 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250331230000 +0000" stop="20250331231000 +0000">
+	<programme channel="bbcparliament" start="20250331223500 +0000" stop="20250331224500 +0000">
 		<title>House of Lords - Scunthorpe Steelworks Statement</title>
 		<desc>Statement on the future of Scunthorpe Steelworks, on Monday 31 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250331231000 +0000" stop="20250331232000 +0000">
+	<programme channel="bbcparliament" start="20250331224500 +0000" stop="20250331230000 +0000">
 		<title>House of Lords - PIP and Carers Allowance Statement</title>
 		<desc>Statement on the impact of changes to PIP on recipients of Carers Allowance, on 31 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250331232000 +0000" stop="20250331232500 +0000">
+	<programme channel="bbcparliament" start="20250331230000 +0000" stop="20250331231000 +0000">
 		<title>House of Lords - National Insurance Contributions Bill</title>
 		<desc>Consideration of Commons amendments to the National Insurance Contributions Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250331232500 +0000" stop="20250401012500 +0000">
+	<programme channel="bbcparliament" start="20250331231000 +0000" stop="20250401010500 +0000">
 		<title>House of Lords - Mental Health Bill, Part 1</title>
 		<desc>First day of report stage debate on the Mental Health Bill, on Monday 31 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250401012500 +0000" stop="20250401032500 +0000">
+	<programme channel="bbcparliament" start="20250401010500 +0000" stop="20250401015500 +0000">
 		<title>House of Lords - Mental Health Bill, Part 2</title>
 		<desc>First day of report stage debate on the Mental Health Bill, on Monday 31 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250401032500 +0000" stop="20250401042500 +0000">
+	<programme channel="bbcparliament" start="20250401015500 +0000" stop="20250401030000 +0000">
 		<title>House of Lords - Mental Health Bill, Part 3</title>
 		<desc>First day of report stage debate on the Mental Health Bill, on Monday 31 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250401042500 +0000" stop="20250401060000 +0000">
-		<title>House of Lords - Church of England Measures</title>
-		<desc>Debate on the Chancel Repair (Church Commissioners’ Liability) Measure, on 31 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20250401031500 +0000" stop="20250401054500 +0000">
+		<title>Select Committees - Financial Conduct Authority Committee</title>
+		<desc>Treasury Committee session on the work of the Financial Conduct Authority, from 25 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250401054500 +0000" stop="20250401060000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250401060000 +0000" stop="20250401071000 +0000">
 		<title>House of Commons - Home Office Questions</title>
@@ -8177,7 +8182,7 @@
 	</programme>
 	<programme channel="s4c" start="20250331180000 +0000" stop="20250331183000 +0000">
 		<title>Heno - Mon, 31 Mar 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Edrychwn nol ar 'premiere' y ffilm, Mr. Burton, ac mae Garry Owen ac Alys James ar y so...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250331183000 +0000" stop="20250331190000 +0000">
@@ -8186,8 +8191,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250331190000 +0000" stop="20250331195500 +0000">
-		<title>Byd Eithafol - Byd Eithafol: Neo-Nazis yn Ein Plith</title>
-		<desc>Newyddiadurwr Maxine Hughes sy'n ymchwilio i'r bechgyn Cymraeg sy'n cael eu radicaleidd...</desc>
+		<title>Byd Eithafol - Byd Eithafol Neo-Nazis yn Ein Plith</title>
+		<desc>Y newyddiadurwr Maxine Hughes sy'n ymchwilio i'r bechgyn Cymraeg sy'n cael eu radicalei...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l0pdmg.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250331195500 +0000" stop="20250331200000 +0000">
@@ -8382,7 +8387,7 @@
 	</programme>
 	<programme channel="s4c" start="20250401113000 +0000" stop="20250401120000 +0000">
 		<title>Heno - Mon, 31 Mar 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Edrychwn nol ar 'premiere' y ffilm, Mr. Burton, ac mae Garry Owen ac Alys James ar y so...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250401120000 +0000" stop="20250401123000 +0000">
@@ -8711,8 +8716,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250402140500 +0000" stop="20250402150000 +0000">
-		<title>Byd Eithafol - Byd Eithafol: Neo-Nazis yn Ein Plith</title>
-		<desc>Newyddiadurwr Maxine Hughes sy'n ymchwilio i'r bechgyn Cymraeg sy'n cael eu radicaleidd...</desc>
+		<title>Byd Eithafol - Byd Eithafol Neo-Nazis yn Ein Plith</title>
+		<desc>Y newyddiadurwr Maxine Hughes sy'n ymchwilio i'r bechgyn Cymraeg sy'n cael eu radicalei...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l0pdmg.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250402150000 +0000" stop="20250402150500 +0000">
