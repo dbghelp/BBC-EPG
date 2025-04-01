@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250401083000 +0000" stop="20250401094500 +0000">
 		<title>Morning Live - Series 7: 01/04/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Gethin and Helen talk with Dr Xand about the signs and symptoms of testicular cancer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1n0pl.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250401094500 +0000" stop="20250401101500 +0000">
@@ -307,7 +307,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250402231000 +0000" stop="20250402234000 +0000">
 		<title>Match of the Day Top 10 - Champions League: 1. Captains</title>
-		<desc>Gary Lineker and the Match of the Day pundits pick their Champions League top 10s.</desc>
+		<desc>Gary, Alan and Micah debate the best skippers the Champions League has ever seen.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxpxnv.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250402234000 +0000" stop="20250402234500 +0000">
@@ -675,7 +675,7 @@
 	<programme channel="bbcone" start="20250405175000 +0000" stop="20250405183500 +0000">
 		<title>The Hit List - Series 7: 7. Celebrity Special</title>
 		<desc>Rhys Stephenson and Karen Hauer are one of the pairs guessing the song titles.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jkp52f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1pbr3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250405183500 +0000" stop="20250405192000 +0000">
 		<title>The Weakest Link - Series 4: Episode 13</title>
@@ -935,7 +935,7 @@
 	<programme channel="bbctwo" start="20250402200000 +0000" stop="20250402210000 +0000">
 		<title>Surgeons: At the Edge of Life - Series 7: 6. Nothing Left to Chance</title>
 		<desc>Doctors at NHS Lothian perform high-risk surgery to save their patient’s sight.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kt7j8f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1q2yz.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250402210000 +0000" stop="20250402212500 +0000">
 		<title>What We Do in the Shadows - Series 5: 4. The Campaign</title>
@@ -1360,12 +1360,12 @@
 	<programme channel="bbctwo" start="20250405192000 +0000" stop="20250405214000 +0000">
 		<title>40 Originals at the BBC</title>
 		<desc>Original versions of songs that became bigger hits for the artists who covered them.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1pfwz.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250405214000 +0000" stop="20250405231000 +0000">
 		<title>Covers in the Piano Room at the BBC</title>
 		<desc>This collection of cover songs spans some of pop's greatest hits.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1pqbj.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250405231000 +0000" stop="20250406001000 +0000">
 		<title>Ultimate Cover Versions at the BBC - Volume 1</title>
@@ -5402,8 +5402,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1qnhy.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250401220000 +0000" stop="20250401223000 +0000">
-		<title>Scotcast - 01/04/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
+		<title>Scotcast - How much could your rent go up?</title>
+		<desc>Campaigners warn that rents could hike after the expiration of rent control measures.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250401223000 +0000" stop="20250401230000 +0000">
@@ -5803,7 +5803,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250401173000 +0000" stop="20250401180000 +0000">
 		<title>Sportsday - 01/04/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
+		<desc>England turn to cricket legend Charlotte Edwards? Plus, the Premier League returns.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250401180000 +0000" stop="20250401183000 +0000">
@@ -6986,9 +6986,24 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 1 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250401223500 +0000" stop="20250402050000 +0000">
-		<title>House of Lords - 01/04/2025</title>
-		<desc>Business in the House of Lords on Tuesday 1 April.</desc>
+	<programme channel="bbcparliament" start="20250401223500 +0000" stop="20250401225500 +0000">
+		<title>House of Lords - National Insurance Contributions Bill</title>
+		<desc>Debate on the Non-Domestic Rating (Multipliers and Private Schools) Bill, on 1 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250401225500 +0000" stop="20250402005500 +0000">
+		<title>House of Lords - Hereditary Peers Bill, Part 1</title>
+		<desc>Fifth day of debate on the committee stage of the House of Lords (Hereditary Peers) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250402005500 +0000" stop="20250402025500 +0000">
+		<title>House of Lords - Hereditary Peers Bill, Part 2</title>
+		<desc>Fifth day of debate on the committee stage of the House of Lords (Hereditary Peers) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250402025500 +0000" stop="20250402050000 +0000">
+		<title>House of Lords - Hereditary Peers Bill, Part 3</title>
+		<desc>Fifth day of debate on the committee stage of the House of Lords (Hereditary Peers) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250402050000 +0000" stop="20250402060000 +0000">
@@ -7721,14 +7736,14 @@
 		<desc>Sealladh ùr bho Alba. A new view from Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20250405050000 +0000" stop="20250405150000 +0000">
+	<programme channel="bbcalba" start="20250405050000 +0000" stop="20250405150500 +0000">
 		<title>Alba Today - Alba Today</title>
 		<desc>Sealladh ùr bho Alba. A new view from Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20250405150000 +0000" stop="20250405170000 +0000">
-		<title>Rugbaidh air BBC ALBA/Rugby on BBC ALBA - Men's Premiership 2024/25: 7. Play-Off Semi-Final: Heriot’s Rugby v Watsonian FC</title>
-		<desc>Heriot’s &amp; Watsonians in the 1st PlayOff Semi-Final in the Arnold Clark Men’s Premiership</desc>
+	<programme channel="bbcalba" start="20250405150500 +0000" stop="20250405170000 +0000">
+		<title>Rugbaidh air BBC ALBA/Rugby on BBC ALBA - Men's Premiership 2024/25: 7. Heriots Rugby v Watsonian FC</title>
+		<desc>Live rugby on BBC ALBA as Heriots welcome Watsonians in the men’s Premiership play-off.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm1cjc.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250405170000 +0000" stop="20250405171500 +0000">
@@ -8053,7 +8068,7 @@
 	</programme>
 	<programme channel="s4c" start="20250401180000 +0000" stop="20250401183000 +0000">
 		<title>Heno - Tue, 01 Apr 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae Neil Rosser yn westai ar y soffa, a ry' ni'n ymuno gyda her seiclo Richard Rees. Ne...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250401183000 +0000" stop="20250401190000 +0000">
@@ -8106,22 +8121,22 @@
 		<desc>Yng nghanol y goedwig, allwch chi glywed yr holl synau gwahanol? Ma Harmoni, Melodi a B...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hr2z2q.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402050500 +0000" stop="20250402051500 +0000">
+	<programme channel="s4c" start="20250402050500 +0000" stop="20250402052000 +0000">
 		<title>Bendibwmbwls - Ysgol Y Graig</title>
 		<desc>Heddiw mae Ben Dant yn ymuno á disgyblion Ysgol Y Graig, Merthyr Tudful i greu trysor p...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h225zn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402051500 +0000" stop="20250402053000 +0000">
+	<programme channel="s4c" start="20250402052000 +0000" stop="20250402053000 +0000">
 		<title>Patrôl Pawennau - Cyfres 3: Cwn yn achub pencadfws</title>
 		<desc>I ddal y lladron sydd wedi dwyn y pencadfws, mae'n rhaid i Gwil a'r cwn eu hachub yn gy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0645yv0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402053000 +0000" stop="20250402054500 +0000">
+	<programme channel="s4c" start="20250402053000 +0000" stop="20250402054000 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Trychineb a hanner</title>
 		<desc>Pan ma Crawc yn achosi ton enfawr i ddymchwel gwâl y dyfrgwn Pwti sy'n achub y dydd. Ev...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402054500 +0000" stop="20250402060000 +0000">
+	<programme channel="s4c" start="20250402054000 +0000" stop="20250402060000 +0000">
 		<title>Y Diwrnod Mawr - Cyfres 4: Jaleel</title>
 		<desc>Dathliad Eid al Fitr fydd diwrnod mawr Jaleel ac mae'n astudio Arabeg, mynd i'r mosg ac...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0686d3p.jpg" />
@@ -8131,12 +8146,12 @@
 		<desc>Mae Fflwff yn chwarae gyda rhywbeth bach meddal, ond 'dyw Brethyn ddim yn sicr o ble dd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hr2xww.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402060500 +0000" stop="20250402062000 +0000">
+	<programme channel="s4c" start="20250402060500 +0000" stop="20250402061500 +0000">
 		<title>Twm Twrch - Cyfres 1: Helynt yr Het</title>
 		<desc>Mae Twm Twrch a'i ffrindiau yn yr opera heno gyda gweddill tyrchod Cwmtwrch. Ond mae he...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdrq1h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402062000 +0000" stop="20250402063000 +0000">
+	<programme channel="s4c" start="20250402061500 +0000" stop="20250402063000 +0000">
 		<title>Byd Tad-Cu - Cyfres 1: Enwau</title>
 		<desc>Yn rhaglen heddiw, mae Ceris yn holi, 'Pam bod enwau gyda ni?' Mae Tad-cu'n sôn am amse...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09z32sm.jpg" />
@@ -8211,12 +8226,12 @@
 		<desc>Mae Twm Twrch yn egluro i bawb yng Nghwmtwrch fod pobl yn ymolchi bob dydd gan nad ydyn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdrq1h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402092000 +0000" stop="20250402093000 +0000">
+	<programme channel="s4c" start="20250402092000 +0000" stop="20250402093500 +0000">
 		<title>Byd Tad-Cu - Cyfres 1: Ffilmiau</title>
 		<desc>Ffilmiau! Mae Tad-cu'n adrodd stori ddwl a doniol am serennu yn y ffilm gynta' erioed g...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09z32qk.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402093000 +0000" stop="20250402094500 +0000">
+	<programme channel="s4c" start="20250402093500 +0000" stop="20250402094500 +0000">
 		<title>Joni Jet - Cyfres 1: Joni Ar Wib</title>
 		<desc>Mae rhywbeth yn bod ar y Jet-faneg, sy'n achosi i Joni symud yn gynt na gweddill y byd....</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
@@ -8241,12 +8256,12 @@
 		<desc>Dysgwn am y pethau hynaf ar ein planed - y Ddaear ei hun, coed, adeiladau a henebion fe...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdbbh1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402103000 +0000" stop="20250402104500 +0000">
+	<programme channel="s4c" start="20250402103000 +0000" stop="20250402104000 +0000">
 		<title>Twt - Cyfres 1: Syrpreis Pen-blwydd</title>
 		<desc>Mae'n ben-blwydd ar rywun yn yr harbwr heddiw, ond pwy? Someone is celebrating a birthd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03jn5vg.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402104500 +0000" stop="20250402110000 +0000">
+	<programme channel="s4c" start="20250402104000 +0000" stop="20250402110000 +0000">
 		<title>Help Llaw - Cyfres 1: George - Pyncjar</title>
 		<desc>Mae Harri'n cael galwad i ddweud fod gan Elin Fflur deiar fflat ar ei char, felly ffwrd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdcx91.jpg" />
@@ -8263,7 +8278,7 @@
 	</programme>
 	<programme channel="s4c" start="20250402113000 +0000" stop="20250402120000 +0000">
 		<title>Heno - Tue, 01 Apr 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae Neil Rosser yn westai ar y soffa, a ry' ni'n ymuno gyda her seiclo Richard Rees. Ne...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250402120000 +0000" stop="20250402123000 +0000">
@@ -8296,22 +8311,22 @@
 		<desc>Y newyddiadurwr Maxine Hughes sy'n ymchwilio i'r bechgyn Cymraeg sy'n cael eu radicalei...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l0pdmg.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402150000 +0000" stop="20250402150500 +0000">
+	<programme channel="s4c" start="20250402150000 +0000" stop="20250402151000 +0000">
 		<title>Y Tralalas - Cyfres 1: Yr Anialwch</title>
 		<desc>Mae'r Tralalas yn enwi pob anifail sy'n byw yn yr anialwch, ond allwch chi enwi'r planh...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hr2z2q.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402150500 +0000" stop="20250402152000 +0000">
+	<programme channel="s4c" start="20250402151000 +0000" stop="20250402152500 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Bwgan Crawc</title>
 		<desc>Mae'r gwencïod yn clywed fod Crawc ofn bwganod brain ac yn manteisio ar y ffaith i ddyc...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402152000 +0000" stop="20250402153000 +0000">
+	<programme channel="s4c" start="20250402152500 +0000" stop="20250402153500 +0000">
 		<title>Bendibwmbwls - Ysgol Beca</title>
 		<desc>Mae Ben Dant ar antur newydd i ailgylchu a throi sbwriel yn sbeshal, a gwastraff yn gam...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h225zn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402153000 +0000" stop="20250402154500 +0000">
+	<programme channel="s4c" start="20250402153500 +0000" stop="20250402154500 +0000">
 		<title>Joni Jet - Cyfres 1: Potensial</title>
 		<desc>Pan aiff Jet-fam i hedfan efo Jetboi, ceisia Joni wneud popeth y ffordd 'iawn', gan ama...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
@@ -8331,12 +8346,12 @@
 		<desc>Mae Pwpgi yn bwyta swper y Potshiwrs a mae Dai yn gorfod mynd i bysgota er mwyn bwydo'r...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08h5sqx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402162000 +0000" stop="20250402164000 +0000">
+	<programme channel="s4c" start="20250402162000 +0000" stop="20250402163500 +0000">
 		<title>Itopia - Cyfres 2: Pennod 1</title>
 		<desc>Drama 'sci-fi'. Yn dilyn y Glitch, mae pawb oedd gyda dyfais 'zed' wedi troi'n greaduri...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f6k712.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250402164000 +0000" stop="20250402165000 +0000">
+	<programme channel="s4c" start="20250402163500 +0000" stop="20250402165000 +0000">
 		<title>LEGO ® Ffrindiau: Amdani Ferched! - Pennod 15</title>
 		<desc>Mae Dr. Alfa yn credu'n gryf yn ei robotiaid, Yr Alfabots ac mae rhannau helaeth o'r dd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kgvd5v.jpg" />
