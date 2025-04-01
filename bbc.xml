@@ -117,7 +117,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250401170000 +0000" stop="20250401173000 +0000">
 		<title>BBC News at Six - 01/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Bills rise for millions across the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250401173000 +0000" stop="20250401175500 +0000">
@@ -153,7 +153,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250401210000 +0000" stop="20250401213000 +0000">
 		<title>BBC News at Ten - 01/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Donald Trump finalises his tariff plan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250401213000 +0000" stop="20250401214000 +0000">
@@ -5798,7 +5798,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250401170000 +0000" stop="20250401173000 +0000">
 		<title>BBC News at Six - 01/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Bills rise for millions across the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250401173000 +0000" stop="20250401180000 +0000">
@@ -5838,7 +5838,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250401210000 +0000" stop="20250401213000 +0000">
 		<title>BBC News at Ten - 01/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Donald Trump finalises his tariff plan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250401213000 +0000" stop="20250401220000 +0000">
@@ -6356,15 +6356,10 @@
 		<desc>A regular panel of guests discuss the biggest international stories of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250403200000 +0000" stop="20250403203000 +0000">
-		<title>The Context - 03/04/2025</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250403203000 +0000" stop="20250403210000 +0000">
-		<title>The Context - 03/04/2025</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
+	<programme channel="bbcnews" start="20250403200000 +0000" stop="20250403210000 +0000">
+		<title>Question Time - 2025: 03/04/2025</title>
+		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250403210000 +0000" stop="20250403213000 +0000">
 		<title>BBC News at Ten - 03/04/2025</title>
@@ -7006,14 +7001,24 @@
 		<desc>Fifth day of debate on the committee stage of the House of Lords (Hereditary Peers) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402050000 +0000" stop="20250402060000 +0000">
+	<programme channel="bbcparliament" start="20250402050000 +0000" stop="20250402061500 +0000">
 		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
 		<desc>Coverage of questions to David Lammy on Tuesday 1 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402060000 +0000" stop="20250402081500 +0000">
-		<title>House of Commons - 01/04/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 1 April.</desc>
+	<programme channel="bbcparliament" start="20250402061500 +0000" stop="20250402064500 +0000">
+		<title>House of Commons - Bosnia-Herzegovina Urgent Question</title>
+		<desc>Debate on an urgent question on the political situation in Bosnia-Herzegovina, on 31 March</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250402064500 +0000" stop="20250402072000 +0000">
+		<title>House of Commons - Birmingham City Council Statement</title>
+		<desc>Statement on Birmingham City Council with Jim McMahon, on Monday 31 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250402072000 +0000" stop="20250402081500 +0000">
+		<title>House of Commons - Sentencing Council Guidelines Statement</title>
+		<desc>Statement on Sentencing Council Guidelines with the lord chancellor Shabana Mahmood.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250402081500 +0000" stop="20250402103000 +0000">
