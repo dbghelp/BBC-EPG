@@ -822,9 +822,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09kypgh.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250402213000 +0000" stop="20250402220000 +0000">
-		<title>Newsnight - 02/04/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - The Trump Tariffs</title>
+		<desc>Could President Trump's tariffs be the biggest trade shock in world history?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l20rlf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250402220000 +0000" stop="20250402220500 +0000">
 		<title>BBC Weather - 02/04/2025</title>
@@ -5747,9 +5747,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250402213000 +0000" stop="20250402220000 +0000">
-		<title>Newsnight - 02/04/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>BBC News - 02/04/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250402220000 +0000" stop="20250402230000 +0000">
 		<title>BBC World News America - 02/04/2025</title>
@@ -6811,54 +6811,59 @@
 		<desc>Statement on the School-Based Nursery Capital Grant Outcomes, on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402142000 +0000" stop="20250402183000 +0000">
+	<programme channel="bbcparliament" start="20250402142000 +0000" stop="20250402171500 +0000">
 		<title>House of Commons - 02/04/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402183000 +0000" stop="20250402210000 +0000">
+	<programme channel="bbcparliament" start="20250402171500 +0000" stop="20250402212000 +0000">
 		<title>House of Lords - 02/04/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Lords on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402210000 +0000" stop="20250402213500 +0000">
+	<programme channel="bbcparliament" start="20250402212000 +0000" stop="20250402215500 +0000">
 		<title>Prime Minister's Questions - 02/04/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1w1kx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402213500 +0000" stop="20250402224500 +0000">
+	<programme channel="bbcparliament" start="20250402215500 +0000" stop="20250402230500 +0000">
 		<title>House of Commons - Gaza Urgent Question</title>
 		<desc>Urgent question on the Israeli government’s expansion of military operations in Gaza.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402224500 +0000" stop="20250402233000 +0000">
+	<programme channel="bbcparliament" start="20250402230500 +0000" stop="20250402235000 +0000">
 		<title>Lords Questions - 02/04/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402233000 +0000" stop="20250402234000 +0000">
+	<programme channel="bbcparliament" start="20250402235000 +0000" stop="20250403000000 +0000">
 		<title>House of Lords - Adoption Fund</title>
 		<desc>Business in the House of Lords on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402234000 +0000" stop="20250403005500 +0000">
+	<programme channel="bbcparliament" start="20250403000000 +0000" stop="20250403012500 +0000">
 		<title>House of Lords - Bus Services Bill, Part 1</title>
 		<desc>The second day of debate on the report stage of the Bus Services Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250403005500 +0000" stop="20250403021000 +0000">
+	<programme channel="bbcparliament" start="20250403012500 +0000" stop="20250403023000 +0000">
 		<title>House of Lords - Bus Services Bill, Part 2</title>
 		<desc>The second day of debate on the report stage of the Bus Services Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250403021000 +0000" stop="20250403032500 +0000">
+	<programme channel="bbcparliament" start="20250403023000 +0000" stop="20250403033000 +0000">
 		<title>House of Lords - Mental Health Bill, Part 1</title>
 		<desc>The second day of debate on the report stage of the Mental Health Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250403032500 +0000" stop="20250403044000 +0000">
+	<programme channel="bbcparliament" start="20250403033000 +0000" stop="20250403043500 +0000">
 		<title>House of Lords - Mental Health Bill, Part 2</title>
 		<desc>The second day of debate on the report stage of the Mental Health Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250403043500 +0000" stop="20250403051000 +0000">
+		<title>House of Lords - Foreign Influence Registration Scheme</title>
+		<desc>Statement on the implementation of the Foreign Influence Registration Scheme.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250403044000 +0000" stop="20250403053500 +0000">
