@@ -3185,7 +3185,7 @@
 	</programme>
 	<programme channel="cbbc" start="20250406084500 +0000" stop="20250406085000 +0000">
 		<title>Grizzy and the Lemmings - Series 4: 7. Jungle Rhythm</title>
-		<desc>The Lemmings organise a dance contest and the first prize is a jar of YUMMY.</desc>
+		<desc>The Lemmings organise a dance contest, where the first prize is a jar of YUMMY.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j0yz9n.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20250406085000 +0000" stop="20250406091500 +0000">
@@ -5708,7 +5708,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250402173000 +0000" stop="20250402180000 +0000">
 		<title>Sportsday - 02/04/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
+		<desc>We examine the future of basketball in Britain and speak to Charlotte Edwards.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250402180000 +0000" stop="20250402183000 +0000">
@@ -6796,22 +6796,22 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1w1kx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402113500 +0000" stop="20250402121500 +0000">
+	<programme channel="bbcparliament" start="20250402113500 +0000" stop="20250402120500 +0000">
 		<title>House of Commons - Chagos Islands Urgent Question</title>
 		<desc>Urgent question on the future sovereignty of the British Indian Ocean Territory.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402121500 +0000" stop="20250402130000 +0000">
+	<programme channel="bbcparliament" start="20250402120500 +0000" stop="20250402131500 +0000">
 		<title>House of Commons - Gaza Urgent Question</title>
 		<desc>Urgent question on the Israeli government’s expansion of military operations in Gaza.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402130000 +0000" stop="20250402140000 +0000">
+	<programme channel="bbcparliament" start="20250402131500 +0000" stop="20250402142000 +0000">
 		<title>House of Commons - Nursery Capital Grant Statement</title>
 		<desc>Statement on the School-Based Nursery Capital Grant Outcomes, on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402140000 +0000" stop="20250402183000 +0000">
+	<programme channel="bbcparliament" start="20250402142000 +0000" stop="20250402183000 +0000">
 		<title>House of Commons - 02/04/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6826,30 +6826,60 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1w1kx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402213500 +0000" stop="20250402222000 +0000">
+	<programme channel="bbcparliament" start="20250402213500 +0000" stop="20250402224500 +0000">
+		<title>House of Commons - Gaza Urgent Question</title>
+		<desc>Urgent question on the Israeli government’s expansion of military operations in Gaza.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250402224500 +0000" stop="20250402233000 +0000">
 		<title>Lords Questions - 02/04/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250402222000 +0000" stop="20250403050000 +0000">
-		<title>House of Lords - 02/04/2025</title>
+	<programme channel="bbcparliament" start="20250402233000 +0000" stop="20250402234000 +0000">
+		<title>House of Lords - Adoption Fund</title>
 		<desc>Business in the House of Lords on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250403050000 +0000" stop="20250403053000 +0000">
+	<programme channel="bbcparliament" start="20250402234000 +0000" stop="20250403005500 +0000">
+		<title>House of Lords - Bus Services Bill, Part 1</title>
+		<desc>The second day of debate on the report stage of the Bus Services Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250403005500 +0000" stop="20250403021000 +0000">
+		<title>House of Lords - Bus Services Bill, Part 2</title>
+		<desc>The second day of debate on the report stage of the Bus Services Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250403021000 +0000" stop="20250403032500 +0000">
+		<title>House of Lords - Mental Health Bill, Part 1</title>
+		<desc>The second day of debate on the report stage of the Mental Health Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250403032500 +0000" stop="20250403044000 +0000">
+		<title>House of Lords - Mental Health Bill, Part 2</title>
+		<desc>The second day of debate on the report stage of the Mental Health Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250403044000 +0000" stop="20250403053500 +0000">
+		<title>House of Lords - Foreign Influence Registration Scheme</title>
+		<desc>Statement on the implementation of the Foreign Influence Registration Scheme.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250403053500 +0000" stop="20250403060000 +0000">
 		<title>House of Commons - Northern Ireland Office Questions</title>
 		<desc>Coverage of questions to Hilary Benn on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250403053000 +0000" stop="20250403060500 +0000">
+	<programme channel="bbcparliament" start="20250403060000 +0000" stop="20250403063500 +0000">
 		<title>Prime Minister's Questions - 02/04/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 2 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1w1kx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250403060500 +0000" stop="20250403083000 +0000">
-		<title>House of Commons - 02/04/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 2 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250403063500 +0000" stop="20250403083000 +0000">
+		<title>Select Committees - Treasury Committee on the Spring Statement</title>
+		<desc>The Treasury select committee session on the 2025 Spring Statement, from Tuesday 1 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250403083000 +0000" stop="20250403091000 +0000">
 		<title>House of Commons - Culture, Media and Sport Questions</title>
