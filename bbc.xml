@@ -154,7 +154,7 @@
 	<programme channel="bbcone" start="20250407210000 +0000" stop="20250407213000 +0000">
 		<title>BBC News at Ten - 07/04/2025</title>
 		<desc>Trump threatens to increase tariffs on China, and live from the Birmingham bin strike.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l30swd.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250407213000 +0000" stop="20250407214000 +0000">
 		<title>BBC London - Late News: 07/04/2025</title>
@@ -5749,7 +5749,7 @@
 	<programme channel="bbcnews" start="20250407210000 +0000" stop="20250407213000 +0000">
 		<title>BBC News at Ten - 07/04/2025</title>
 		<desc>Trump threatens to increase tariffs on China, and live from the Birmingham bin strike.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l30swd.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250407213000 +0000" stop="20250407220000 +0000">
 		<title>BBC News - 07/04/2025</title>
@@ -6919,57 +6919,87 @@
 	<programme channel="bbcparliament" start="20250407133000 +0000" stop="20250407143000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Angela Rayner on Monday 7 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l30rbj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250407143000 +0000" stop="20250407151500 +0000">
 		<title>House of Commons - Scunthorpe Steelworks Urgent Question</title>
 		<desc>Urgent question on action to prevent the closure of Scunthorpe Steelworks.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l30rlb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250407151500 +0000" stop="20250407161500 +0000">
 		<title>House of Commons - Zero Emission Vehicle Mandate Statement</title>
 		<desc>Statement by Heidi Alexander on changes to the Zero Emission Vehicle Mandate</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l30rrf.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250407161500 +0000" stop="20250407171500 +0000">
 		<title>House of Commons - MPs Denied Entry to Israel Statement</title>
 		<desc>Statement on the decision by Israeli authorities to deny entry to two Labour MPs.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l30sq5.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250407171500 +0000" stop="20250407213000 +0000">
+	<programme channel="bbcparliament" start="20250407171500 +0000" stop="20250407211500 +0000">
 		<title>House of Commons - 07/04/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 7 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250407213000 +0000" stop="20250407221500 +0000">
+	<programme channel="bbcparliament" start="20250407211500 +0000" stop="20250407220000 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions to the education minister Paul Givan, on Monday 7 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250407221500 +0000" stop="20250408001500 +0000">
-		<title>Northern Ireland Assembly - 07/04/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 7 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250408001500 +0000" stop="20250408010000 +0000">
-		<title>Northern Ireland Assembly - Education Questions</title>
-		<desc>Questions to the education minister Paul Givan, on Monday 7 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250408010000 +0000" stop="20250408014500 +0000">
+	<programme channel="bbcparliament" start="20250407220000 +0000" stop="20250407224500 +0000">
 		<title>Northern Ireland Assembly - Finance Questions</title>
-		<desc>Questions to the finance minister John O'Dowd on Monday 7 April.</desc>
+		<desc>Questions to finance minister John O'Dowd, on Monday 7 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250408014500 +0000" stop="20250408041500 +0000">
-		<title>Northern Ireland Assembly - 07/04/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 7 April.</desc>
+	<programme channel="bbcparliament" start="20250407224500 +0000" stop="20250407231000 +0000">
+		<title>Northern Ireland Assembly - US Tariffs Statement</title>
+		<desc>Debate on a backbench statement on US tariffs, on Monday 7 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250408041500 +0000" stop="20250408051500 +0000">
+	<programme channel="bbcparliament" start="20250407231000 +0000" stop="20250407234000 +0000">
+		<title>Northern Ireland Assembly - Budget Statement 2025-26</title>
+		<desc>Debate on the final Budget statement, with John O'Dowd, on Monday 7 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250407234000 +0000" stop="20250407235500 +0000">
+		<title>Northern Ireland Assembly - Mourne Wildfires Question</title>
+		<desc>Debate on an urgent question on the fires in Mourne Mountains, on Monday 7 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250407235500 +0000" stop="20250408002000 +0000">
+		<title>Northern Ireland Assembly - Human Medicines Regulations</title>
+		<desc>Debate on the Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2024.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250408002000 +0000" stop="20250408005000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Proceedings in the Northern Ireland Assembly, including members' statements, on 7 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250408005000 +0000" stop="20250408011000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250408011000 +0000" stop="20250408015000 +0000">
+		<title>House of Commons - Scunthorpe Steelworks Urgent Question</title>
+		<desc>Urgent question on action to prevent the closure of Scunthorpe Steelworks.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l30rlb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250408015000 +0000" stop="20250408025000 +0000">
+		<title>House of Commons - Zero Emission Vehicle Mandate Statement</title>
+		<desc>Statement by Heidi Alexander on changes to the Zero Emission Vehicle Mandate</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l30rrf.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250408025000 +0000" stop="20250408041000 +0000">
+		<title>House of Commons - MPs Denied Entry to Israel Statement</title>
+		<desc>Statement on the decision by Israeli authorities to deny entry to two Labour MPs.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l30sq5.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250408041000 +0000" stop="20250408051500 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Angela Rayner on Monday 7 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l30rbj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250408051500 +0000" stop="20250408070500 +0000">
 		<title>Select Committees - Treasury Committee on the Spring Statement with the IFS</title>
@@ -7014,7 +7044,7 @@
 	<programme channel="bbcparliament" start="20250409010000 +0000" stop="20250409020000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Angela Rayner on Monday 7 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l30rbj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250409020000 +0000" stop="20250409050000 +0000">
 		<title>Select Committees - Environmental Audit Committee on the Seventh Carbon Budget</title>
