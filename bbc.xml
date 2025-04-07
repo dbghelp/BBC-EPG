@@ -117,7 +117,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250407170000 +0000" stop="20250407173000 +0000">
 		<title>BBC News at Six - 07/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Trump threatens to increase tariffs on China, and live from the Birmingham bin strike.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250407173000 +0000" stop="20250407180000 +0000">
@@ -153,7 +153,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250407210000 +0000" stop="20250407213000 +0000">
 		<title>BBC News at Ten - 07/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Trump threatens to increase tariffs on China, and live from the Birmingham bin strike.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250407213000 +0000" stop="20250407214000 +0000">
@@ -5335,7 +5335,7 @@
 	<programme channel="bbcscotland" start="20250407220000 +0000" stop="20250407223000 +0000">
 		<title>Scotcast - Should Scots Pay for Uni?</title>
 		<desc>Martin Geissler and Laura Miller ask if free tuition should be up for debate.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l2zzdz.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250407223000 +0000" stop="20250407230000 +0000">
 		<title>Best of Chewin' the Fat - Series 1: Episode 7</title>
@@ -5708,7 +5708,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250407170000 +0000" stop="20250407173000 +0000">
 		<title>BBC News at Six - 07/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Trump threatens to increase tariffs on China, and live from the Birmingham bin strike.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250407173000 +0000" stop="20250407180000 +0000">
@@ -5748,7 +5748,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250407210000 +0000" stop="20250407213000 +0000">
 		<title>BBC News at Ten - 07/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Trump threatens to increase tariffs on China, and live from the Birmingham bin strike.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250407213000 +0000" stop="20250407220000 +0000">
@@ -6971,10 +6971,15 @@
 		<desc>Coverage of questions to Angela Rayner on Monday 7 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250408051500 +0000" stop="20250408090000 +0000">
-		<title>House of Commons - 07/04/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 7 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250408051500 +0000" stop="20250408070500 +0000">
+		<title>Select Committees - Treasury Committee on the Spring Statement with the IFS</title>
+		<desc>The Treasury select committee session on the 2025 Spring Statement, from Tuesday 1 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l29y0s.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250408070500 +0000" stop="20250408090000 +0000">
+		<title>Select Committees - Environmental Audit Committee on the Seventh Carbon Budget</title>
+		<desc>Environmental Audit Committee session on the seventh carbon budget, on Monday 7 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250408090000 +0000" stop="20250408103000 +0000">
 		<title>Select Committees - Education Committee on Higher Education and Funding</title>
@@ -6997,13 +7002,13 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250408191500 +0000" stop="20250408214500 +0000">
-		<title>Select Committees - 08/04/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+		<title>Select Committees - Liaison Committee with Sir Keir Starmer</title>
+		<desc>A committee session with the prime minister, Sir Keir Starmer, from Tuesday 8 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250408214500 +0000" stop="20250409010000 +0000">
-		<title>Select Committees - 08/04/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+		<title>Select Committees - Health and Social Care Committee on NHS England</title>
+		<desc>A select committee session on the work of NHS England, from Tuesday 8 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250409010000 +0000" stop="20250409020000 +0000">
@@ -7012,9 +7017,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250409020000 +0000" stop="20250409050000 +0000">
-		<title>Westminster Hall - 07/04/2025</title>
-		<desc>House of Commons proceedings in Westminster Hall from Monday 7 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+		<title>Select Committees - Environmental Audit Committee on the Seventh Carbon Budget</title>
+		<desc>Environmental Audit Committee session on the seventh carbon budget, on Monday 7 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250409050000 +0000" stop="20250409060000 +0000">
 		<title>House of Commons - Treasury Questions</title>
@@ -7818,7 +7823,7 @@
 	</programme>
 	<programme channel="s4c" start="20250407130500 +0000" stop="20250407140000 +0000">
 		<title>Prynhawn Da - Mon, 07 Apr 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mae Catrin a Dan yng nghornel y colofnwyr ac mae Catrin yn coginio Tarten Eog yn y gegi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250407140000 +0000" stop="20250407140500 +0000">
@@ -7888,7 +7893,7 @@
 	</programme>
 	<programme channel="s4c" start="20250407180000 +0000" stop="20250407183000 +0000">
 		<title>Heno - Mon, 07 Apr 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Ifan Jones Evans a Terwyn Davies yw'n gwesteion, a chawn sgwrs gyda'r canwr, Ryan Vaugh...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250407183000 +0000" stop="20250407190000 +0000">
@@ -8088,7 +8093,7 @@
 	</programme>
 	<programme channel="s4c" start="20250408113000 +0000" stop="20250408120000 +0000">
 		<title>Heno - Mon, 07 Apr 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Ifan Jones Evans a Terwyn Davies yw'n gwesteion, a chawn sgwrs gyda'r canwr, Ryan Vaugh...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250408120000 +0000" stop="20250408123000 +0000">
@@ -8798,7 +8803,7 @@
 	</programme>
 	<programme channel="s4c" start="20250410204500 +0000" stop="20250410214500 +0000">
 		<title>Ysbyty - Ysbyty: Plant Ni</title>
-		<desc>Portread o fwrdd iechyd mwya Cymru, Betsi Cadwaladr. Pennod 1 ac rydym ar y rheng flaen...</desc>
+		<desc>Am y tro cyntaf, cawn gipolwg tu ôl i'r llenni ar un o Wardiau Plant prysuraf Gogledd C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1xgr8.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250410214500 +0000" stop="20250410220500 +0000">
@@ -9008,7 +9013,7 @@
 	</programme>
 	<programme channel="s4c" start="20250411140500 +0000" stop="20250411150000 +0000">
 		<title>Ysbyty - Ysbyty: Plant Ni</title>
-		<desc>Portread o fwrdd iechyd mwya Cymru, Betsi Cadwaladr. Pennod 1 ac rydym ar y rheng flaen...</desc>
+		<desc>Am y tro cyntaf, cawn gipolwg tu ôl i'r llenni ar un o Wardiau Plant prysuraf Gogledd C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1xgr8.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250411150000 +0000" stop="20250411150500 +0000">
