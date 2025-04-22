@@ -808,9 +808,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f54pw6.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250422213000 +0000" stop="20250422215800 +0000">
-		<title>Newsnight - 22/04/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Next in the Queue?</title>
+		<desc>Will Rachel Reeves attempt to land a tariff deal with President Trump succeed?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5vrxb.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250422215800 +0000" stop="20250422220000 +0000">
 		<title>BBC Weather - 22/04/2025</title>
@@ -1747,12 +1747,12 @@
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250422180000 +0000" stop="20250422210000 +0000">
+	<programme channel="bbcfour" start="20250422180000 +0000" stop="20250422214500 +0000">
 		<title>Snooker: World Championship - 2025: Day 4, Evening Session</title>
 		<desc>Coverage of the evening session on day four at the 2025 World Snooker Championship.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250422210000 +0000" stop="20250422220000 +0000">
+	<programme channel="bbcfour" start="20250422214500 +0000" stop="20250422220000 +0000">
 		<title>American History’s Biggest Fibs with Lucy Worsley - Series 1: 1. The American Revolution</title>
 		<desc>Lucy Worsley shows how the history of the American Revolution has been mythologised.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07j89mx.jpg" />
@@ -5561,9 +5561,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250422213000 +0000" stop="20250422220000 +0000">
-		<title>Newsnight - 22/04/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Next in the Queue?</title>
+		<desc>Will Rachel Reeves attempt to land a tariff deal with President Trump succeed?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5vrxb.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250422220000 +0000" stop="20250422230000 +0000">
 		<title>BBC World News America - 22/04/2025</title>
@@ -6690,6 +6690,11 @@
 		<desc>Business in the House of Lords on Tuesday 22 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20250423044500 +0000" stop="20250423060000 +0000">
+		<title>House of Commons - Ukraine Update Statement</title>
+		<desc>Statement by defence secretary John Healey updating MPs on the situation in Ukraine.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20250423060000 +0000" stop="20250423070500 +0000">
 		<title>House of Commons - Justice Questions</title>
 		<desc>Coverage of questions to Shabana Mahmood on Tuesday 22 April.</desc>
@@ -6702,7 +6707,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20250423071000 +0000" stop="20250423073000 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
-		<desc>Topical question session with Scottish government ministers, on Tuesday 22 April.</desc>
+		<desc>Topical question session in Holyrood with Scottish government ministers, on 22 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250423073000 +0000" stop="20250423081500 +0000">
@@ -6725,23 +6730,8 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 23 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250423113500 +0000" stop="20250423123000 +0000">
-		<title>House of Commons - 23/04/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 23 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250423123000 +0000" stop="20250423133000 +0000">
-		<title>House of Commons - 23/04/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 23 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250423133000 +0000" stop="20250423143000 +0000">
-		<title>House of Commons - 23/04/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 23 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250423143000 +0000" stop="20250423183000 +0000">
-		<title>House of Commons - 23/04/2025 Part 4</title>
+	<programme channel="bbcparliament" start="20250423113500 +0000" stop="20250423183000 +0000">
+		<title>House of Commons - 23/04/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 23 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
