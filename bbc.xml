@@ -765,7 +765,7 @@
 	<programme channel="bbctwo" start="20250422120000 +0000" stop="20250422170000 +0000">
 		<title>Snooker: World Championship - 2025: Day 4, Afternoon Session</title>
 		<desc>Coverage of the fourth day of the World Snooker Championship from the Crucible Theatre.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5td5p.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250422170000 +0000" stop="20250422173000 +0000">
 		<title>Richard Osman's House of Games - Series 7: Week 12: Tuesday</title>
@@ -5665,10 +5665,15 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250423063000 +0000" stop="20250423070000 +0000">
+	<programme channel="bbcnews" start="20250423063000 +0000" stop="20250423064500 +0000">
 		<title>Business Today - 23/04/2025</title>
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250423064500 +0000" stop="20250423070000 +0000">
+		<title>BBC News - 23/04/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250423070000 +0000" stop="20250423073000 +0000">
 		<title>BBC News - 23/04/2025</title>
@@ -6685,19 +6690,29 @@
 		<desc>Business in the House of Lords on Tuesday 22 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250423060000 +0000" stop="20250423070000 +0000">
+	<programme channel="bbcparliament" start="20250423060000 +0000" stop="20250423070500 +0000">
 		<title>House of Commons - Justice Questions</title>
 		<desc>Coverage of questions to Shabana Mahmood on Tuesday 22 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250423070000 +0000" stop="20250423083000 +0000">
-		<title>House of Commons - 22/04/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 22 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250423070500 +0000" stop="20250423071000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250423083000 +0000" stop="20250423103000 +0000">
-		<title>Select Committees - 23/04/2025</title>
-		<desc>Coverage of select committee proceedings on Wednesday 23 April.</desc>
+	<programme channel="bbcparliament" start="20250423071000 +0000" stop="20250423073000 +0000">
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Topical question session with Scottish government ministers, on Tuesday 22 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250423073000 +0000" stop="20250423081500 +0000">
+		<title>Lords Questions - 22/04/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Tuesday 22 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250423081500 +0000" stop="20250423103000 +0000">
+		<title>Select Committees - Transport Committee</title>
+		<desc>Transport committee session on the work of the Department for Transport, on 23 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250423103000 +0000" stop="20250423110000 +0000">
@@ -6745,38 +6760,8 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 23 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250423222000 +0000" stop="20250423232000 +0000">
-		<title>House of Lords - 23/04/2025 Part 1</title>
-		<desc>Business in the House of Lords on Wednesday 23 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250423232000 +0000" stop="20250424002000 +0000">
-		<title>House of Lords - 23/04/2025 Part 2</title>
-		<desc>Business in the House of Lords on Wednesday 23 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250424002000 +0000" stop="20250424012000 +0000">
-		<title>House of Lords - 23/04/2025 Part 3</title>
-		<desc>Business in the House of Lords on Wednesday 23 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250424012000 +0000" stop="20250424022000 +0000">
-		<title>House of Lords - 23/04/2025 Part 4</title>
-		<desc>Business in the House of Lords on Wednesday 23 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250424022000 +0000" stop="20250424032000 +0000">
-		<title>House of Lords - 23/04/2025 Part 5</title>
-		<desc>Business in the House of Lords on Wednesday 23 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250424032000 +0000" stop="20250424042000 +0000">
-		<title>House of Lords - 23/04/2025 Part 6</title>
-		<desc>Business in the House of Lords on Wednesday 23 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250424042000 +0000" stop="20250424050000 +0000">
-		<title>House of Lords - 23/04/2025 Part 7</title>
+	<programme channel="bbcparliament" start="20250423222000 +0000" stop="20250424050000 +0000">
+		<title>House of Lords - 23/04/2025</title>
 		<desc>Business in the House of Lords on Wednesday 23 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
