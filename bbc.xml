@@ -158,7 +158,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250424210000 +0000" stop="20250424213000 +0000">
 		<title>BBC News at Ten - 24/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>After the worst Russian attack on Kyiv in months, President Trump rebukes President Putin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250424213000 +0000" stop="20250424214000 +0000">
@@ -658,7 +658,7 @@
 	<programme channel="bbcone" start="20250428183000 +0000" stop="20250428190000 +0000">
 		<title>EastEnders - 28/04/2025</title>
 		<desc>The past comes back to haunt Nicola.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5pyqm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l693lz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250428190000 +0000" stop="20250428193000 +0000">
 		<title>Panorama - The Truth about Baby Food Pouches</title>
@@ -744,7 +744,7 @@
 	<programme channel="bbctwo" start="20250424120000 +0000" stop="20250424160000 +0000">
 		<title>Snooker: World Championship - 2025: Day 6, Afternoon Session</title>
 		<desc>Hazel Irvine introduces live coverage from Sheffield’s Crucible Theatre.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l69psb.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250424160000 +0000" stop="20250424170000 +0000">
 		<title>Flog It! - Series 15 (Extended Versions): Episode 14</title>
@@ -5536,7 +5536,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250424210000 +0000" stop="20250424213000 +0000">
 		<title>BBC News at Ten - 24/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>After the worst Russian attack on Kyiv in months, President Trump rebukes President Putin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250424213000 +0000" stop="20250424220000 +0000">
@@ -6586,7 +6586,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20250424141000 +0000" stop="20250424163000 +0000">
 		<title>House of Lords - 24/04/2025</title>
-		<desc>Coverage of the House of Lords on Thursday 24 April.</desc>
+		<desc>The debate on the second day of the committee stage of the Renters' Reform Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250424163000 +0000" stop="20250424171500 +0000">
@@ -6609,45 +6609,60 @@
 		<desc>Statement on the Supreme Court ruling on the definition of a woman in the Equalities Act.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250424185000 +0000" stop="20250424205000 +0000">
+	<programme channel="bbcparliament" start="20250424185000 +0000" stop="20250424200000 +0000">
 		<title>House of Lords - Renters' Rights Bill, Part 1</title>
 		<desc>The second day of the committee stage of the Renters' Reform Bill, on Thursday 24 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250424205000 +0000" stop="20250424225000 +0000">
+	<programme channel="bbcparliament" start="20250424200000 +0000" stop="20250424220500 +0000">
 		<title>House of Lords - Renters' Rights Bill, Part 2</title>
 		<desc>The second day of the committee stage of the Renters' Reform Bill, on Thursday 24 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250424225000 +0000" stop="20250424235000 +0000">
+	<programme channel="bbcparliament" start="20250424220500 +0000" stop="20250424232000 +0000">
 		<title>House of Lords - Renters' Rights Bill, Part 3</title>
 		<desc>The second day of the committee stage of the Renters' Reform Bill, on Thursday 24 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250424235000 +0000" stop="20250425005000 +0000">
+	<programme channel="bbcparliament" start="20250424232000 +0000" stop="20250425000500 +0000">
 		<title>House of Lords - Safety of Journalists Debate</title>
 		<desc>A debate on ensuring the safety and security of journalists and media workers worldwide.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250425005000 +0000" stop="20250425011500 +0000">
+	<programme channel="bbcparliament" start="20250425000500 +0000" stop="20250425004000 +0000">
 		<title>House of Lords - British Steel Statement</title>
 		<desc>A statement in the House of Lords updating peers on British Steel, on Thursday 24 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250425011500 +0000" stop="20250425021500 +0000">
+	<programme channel="bbcparliament" start="20250425004000 +0000" stop="20250425014000 +0000">
 		<title>House of Commons - Cabinet Office Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Thursday 24 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250425021500 +0000" stop="20250425031500 +0000">
+	<programme channel="bbcparliament" start="20250425014000 +0000" stop="20250425022500 +0000">
+		<title>House of Commons - London Ukraine Talks Urgent Question</title>
+		<desc>An urgent question on the London talks on the war in Ukraine, on Thursday 24 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250425022500 +0000" stop="20250425025500 +0000">
+		<title>House of Commons - London Sudan Conference Urgent Question</title>
+		<desc>An urgent on the London Sudan Conference, on Thursday 24 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250425025500 +0000" stop="20250425043000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 24 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250425031500 +0000" stop="20250425083000 +0000">
-		<title>House of Commons - 24/04/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250425043000 +0000" stop="20250425051000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250425051000 +0000" stop="20250425083000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250425083000 +0000" stop="20250425140000 +0000">
 		<title>House of Commons - 25/04/2025</title>
@@ -6655,7 +6670,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250425140000 +0000" stop="20250425150000 +0000">
-		<title>House of Lords - 25/04/2025 Part 1</title>
+		<title>House of Lords - 25/04/2025</title>
 		<desc>Business in the House of Lords on Friday 25 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -7184,7 +7199,17 @@
 		<desc>Sealladh ùr bho Alba. A new view from Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20250426050000 +0000" stop="20250426150000 +0000">
+	<programme channel="bbcalba" start="20250426050000 +0000" stop="20250426080000 +0000">
+		<title>Alba Today - Alba Today</title>
+		<desc>Sealladh ùr bho Alba. A new view from Scotland.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20250426080000 +0000" stop="20250426113000 +0000">
+		<title>BBC News Special - The Funeral of Pope Francis</title>
+		<desc>Coverage of the funeral of Pope Francis, from St Peter’s Square in Vatican City.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07hp9l7.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20250426113000 +0000" stop="20250426150000 +0000">
 		<title>Alba Today - Alba Today</title>
 		<desc>Sealladh ùr bho Alba. A new view from Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
@@ -7194,20 +7219,15 @@
 		<desc>Local, national and international news and information from BBC ALBA.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8dxvk.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20250426152000 +0000" stop="20250426171500 +0000">
-		<title>Rugbaidh air BBC ALBA/Rugby on BBC ALBA - Men's Premiership 2024/25: 8. Ayr RFC v Watsonians</title>
-		<desc>Ayr RFC host Watsonians at Millbrae in the Men’s Premiership final.</desc>
+	<programme channel="bbcalba" start="20250426152000 +0000" stop="20250426173000 +0000">
+		<title>Rugbaidh air BBC ALBA/Rugby on BBC ALBA - Men's Premiership 2024/25: 8. Ayr RFC v Watsonians FC</title>
+		<desc>Ayr RFC host Watsonians FC at Millbrae in the Men’s Premiership final.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l682m3.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20250426171500 +0000" stop="20250426174500 +0000">
+	<programme channel="bbcalba" start="20250426173000 +0000" stop="20250426180000 +0000">
 		<title>Wallace 's Gromit - A' Bhriogais Chearr/Wallace &amp; Gromit in The Wrong Trousers</title>
 		<desc>Trouble ensues for Wallace and Gromit thanks to some techno-trousers and a new lodger!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l4rvr0.jpg" />
-	</programme>
-	<programme channel="bbcalba" start="20250426174500 +0000" stop="20250426180000 +0000">
-		<title>Cuirm @ Celtic - Bard Mhealboist</title>
-		<desc>Songs of Murdo MacFarlane recorded for Celtic Connections 2021.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09x28s5.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250426180000 +0000" stop="20250426182500 +0000">
 		<title>Togaidh Sinn Fonn - Series 2: Episode 8</title>
@@ -7465,8 +7485,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l64b5k.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250428200000 +0000" stop="20250428203000 +0000">
-		<title>Eòrpa - Series 33: Episode 1</title>
-		<desc>Eòrpa brings you reports on important issues from Scotland and across Europe.</desc>
+		<title>Eòrpa - Series 33: 1. Archive: 1999 – Greenland</title>
+		<desc>John Morrison reports from Greenland in 1999.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l67my9.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250428203000 +0000" stop="20250428213000 +0000">
