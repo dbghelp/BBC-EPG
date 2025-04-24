@@ -1736,12 +1736,12 @@
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250424180000 +0000" stop="20250424210000 +0000">
+	<programme channel="bbcfour" start="20250424180000 +0000" stop="20250424220000 +0000">
 		<title>Snooker: World Championship - 2025: Day 6, Evening Session</title>
 		<desc>Seema Jaswal introduces live coverage from Sheffield.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6bpjw.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250424210000 +0000" stop="20250424224500 +0000">
+	<programme channel="bbcfour" start="20250424220000 +0000" stop="20250424224500 +0000">
 		<title>Priscilla</title>
 		<desc>Priscilla Beaulieu is slowly drawn into a strange and unhealthy life with Elvis Presley.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l49z8w.jpg" />
@@ -5540,9 +5540,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250424213000 +0000" stop="20250424220000 +0000">
-		<title>Newsnight - 24/04/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Rachel Reeves Goes to Washington</title>
+		<desc>Can the chancellor get a US trade deal over the line? And at what cost?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c7hr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250424220000 +0000" stop="20250424230000 +0000">
 		<title>BBC World News America - 24/04/2025</title>
@@ -6562,12 +6562,12 @@
 	<programme channel="bbcparliament" start="20250424083000 +0000" stop="20250424093000 +0000">
 		<title>House of Commons - Cabinet Office Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c5yh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250424093000 +0000" stop="20250424101500 +0000">
 		<title>House of Commons - London Ukraine Talks Urgent Question</title>
 		<desc>An urgent question on the London talks on the war in Ukraine, on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c5fy.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250424101500 +0000" stop="20250424104500 +0000">
 		<title>House of Commons - London Sudan Conference Urgent Question</title>
@@ -6577,7 +6577,7 @@
 	<programme channel="bbcparliament" start="20250424104500 +0000" stop="20250424121000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c6gm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250424121000 +0000" stop="20250424141000 +0000">
 		<title>House of Commons - 24/04/2025</title>
@@ -6587,12 +6587,12 @@
 	<programme channel="bbcparliament" start="20250424141000 +0000" stop="20250424163000 +0000">
 		<title>House of Lords - 24/04/2025</title>
 		<desc>The debate on the second day of the committee stage of the Renters' Reform Bill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c7ng.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250424163000 +0000" stop="20250424171500 +0000">
 		<title>Scottish First Minister's Questions - 24/04/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c68p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250424171500 +0000" stop="20250424180000 +0000">
 		<title>Lords Questions - 24/04/2025</title>
@@ -6602,7 +6602,7 @@
 	<programme channel="bbcparliament" start="20250424180000 +0000" stop="20250424181000 +0000">
 		<title>House of Lords - Birmingham Bin Strikes Statement</title>
 		<desc>A statement on the ongoing disruption to waste collection in Birmingham, from 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c8rg.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250424181000 +0000" stop="20250424185000 +0000">
 		<title>House of Lords - Supreme Court Ruling on Equalities Law</title>
@@ -6637,12 +6637,12 @@
 	<programme channel="bbcparliament" start="20250425004000 +0000" stop="20250425014000 +0000">
 		<title>House of Commons - Cabinet Office Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c5yh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250425014000 +0000" stop="20250425022500 +0000">
 		<title>House of Commons - London Ukraine Talks Urgent Question</title>
 		<desc>An urgent question on the London talks on the war in Ukraine, on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c5fy.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250425022500 +0000" stop="20250425025500 +0000">
 		<title>House of Commons - London Sudan Conference Urgent Question</title>
@@ -6652,62 +6652,92 @@
 	<programme channel="bbcparliament" start="20250425025500 +0000" stop="20250425043000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c6gm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250425043000 +0000" stop="20250425051000 +0000">
 		<title>This is BBC Parliament - This is BBC Parliament</title>
 		<desc>The top political and parliamentary stories from BBC News.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250425051000 +0000" stop="20250425083000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="bbcparliament" start="20250425051000 +0000" stop="20250425061000 +0000">
+		<title>House of Commons - Cabinet Office Questions</title>
+		<desc>Coverage of questions to Pat McFadden on Thursday 24 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c5yh.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250425061000 +0000" stop="20250425074500 +0000">
+		<title>House of Commons - Commons Business Questions</title>
+		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 24 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c6gm.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250425074500 +0000" stop="20250425083000 +0000">
+		<title>Lords Questions - 24/04/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Thursday 24 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250425083000 +0000" stop="20250425140000 +0000">
 		<title>House of Commons - 25/04/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Friday 25 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250425140000 +0000" stop="20250425150000 +0000">
+	<programme channel="bbcparliament" start="20250425140000 +0000" stop="20250425180000 +0000">
 		<title>House of Lords - 25/04/2025</title>
 		<desc>Business in the House of Lords on Friday 25 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250425150000 +0000" stop="20250425160000 +0000">
-		<title>House of Lords - 25/04/2025 Part 2</title>
-		<desc>Business in the House of Lords on Friday 25 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20250425180000 +0000" stop="20250425203000 +0000">
+		<title>Select Committees - Transport Committee</title>
+		<desc>Transport committee session on the work of the Department for Transport, on 23 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l627qk.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250425160000 +0000" stop="20250425170000 +0000">
-		<title>House of Lords - 25/04/2025 Part 3</title>
-		<desc>Business in the House of Lords on Friday 25 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250425170000 +0000" stop="20250425180000 +0000">
-		<title>House of Lords - 25/04/2025 Part 4</title>
-		<desc>Business in the House of Lords on Friday 25 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250425180000 +0000" stop="20250425190000 +0000">
-		<title>House of Lords - 25/04/2025 Part 5</title>
-		<desc>Business in the House of Lords on Friday 25 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250425190000 +0000" stop="20250425200000 +0000">
-		<title>Select Committees - 25/04/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250425200000 +0000" stop="20250425204500 +0000">
+	<programme channel="bbcparliament" start="20250425203000 +0000" stop="20250425211500 +0000">
 		<title>Scottish First Minister's Questions - 24/04/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c68p.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250425204500 +0000" stop="20250426050000 +0000">
-		<title>Scottish Parliament - 25/04/2025</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20250425211500 +0000" stop="20250425213500 +0000">
+		<title>Scottish Parliament - General Questions</title>
+		<desc>Coverage of general questions to ministers in the Scottish government, from 24 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250425213500 +0000" stop="20250425215500 +0000">
+		<title>Scottish Parliament - Condolences for Pope Francis</title>
+		<desc>Coverage of condolences in the Scottish Parliament following the death of Pope Francis.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250425215500 +0000" stop="20250425221500 +0000">
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Topical question session in Holyrood with Scottish government ministers, on 22 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l62279.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250425221500 +0000" stop="20250425231000 +0000">
+		<title>Scottish Parliament - Supreme Court Ruling on Equality Law Statement</title>
+		<desc>Statement on the Supreme Court ruling on the definition of a woman in the Equalities Act.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250425231000 +0000" stop="20250426011500 +0000">
+		<title>Scottish Parliament - International Situation Debate</title>
+		<desc>The debate on the international situation, covering security and global economic affairs.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250426011500 +0000" stop="20250426014000 +0000">
+		<title>Scottish Parliament - Constitution, External Affairs and Culture Questions</title>
+		<desc>Questions to the constitution, external affairs and culture secretary Angus Robertson.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250426014000 +0000" stop="20250426023500 +0000">
+		<title>Scottish Parliament - Justice and Home Affairs Questions</title>
+		<desc>Questions to the cabinet secretary for justice and home affairs Angela Constance.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250426023500 +0000" stop="20250426041500 +0000">
+		<title>Scottish Parliament - UK Welfare Reform Debate</title>
+		<desc>The debate on the UK government's welfare reforms, from Wednesday 23 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250426041500 +0000" stop="20250426050000 +0000">
+		<title>House of Commons - Birmingham Bin Strikes Urgent Question</title>
+		<desc>Urgent question on the ongoing disruption to waste collection in Birmingham.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5y9fv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250426050000 +0000" stop="20250426100000 +0000">
 		<title>Westminster Hall - 22/04/2025</title>
@@ -6722,7 +6752,7 @@
 	<programme channel="bbcparliament" start="20250426103500 +0000" stop="20250426112000 +0000">
 		<title>Scottish First Minister's Questions - 24/04/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c68p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250426112000 +0000" stop="20250426121000 +0000">
 		<title>House of Lords - 26/04/2025</title>
@@ -6772,7 +6802,7 @@
 	<programme channel="bbcparliament" start="20250427004500 +0000" stop="20250427013000 +0000">
 		<title>Scottish First Minister's Questions - 24/04/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c68p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250427013000 +0000" stop="20250427023000 +0000">
 		<title>House of Commons - Justice Questions</title>
@@ -6787,12 +6817,12 @@
 	<programme channel="bbcparliament" start="20250427030000 +0000" stop="20250427040000 +0000">
 		<title>House of Commons - Cabinet Office Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c5yh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250427040000 +0000" stop="20250427050000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c6gm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250427050000 +0000" stop="20250427100000 +0000">
 		<title>Westminster Hall - 23/04/2025</title>
@@ -6897,7 +6927,7 @@
 	<programme channel="bbcparliament" start="20250428094000 +0000" stop="20250428102500 +0000">
 		<title>Scottish First Minister's Questions - 24/04/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 24 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6c68p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250428102500 +0000" stop="20250428110000 +0000">
 		<title>Prime Minister's Questions - 23/04/2025</title>
