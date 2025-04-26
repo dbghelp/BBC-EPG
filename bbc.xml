@@ -5035,12 +5035,12 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250426131500 +0000" stop="20250426153000 +0000">
+	<programme channel="bbcscotland" start="20250426131500 +0000" stop="20250426153500 +0000">
 		<title>Women's Six Nations Rugby - 2025: Scotland v Ireland</title>
 		<desc>Live coverage as Scotland host Ireland in the Women's Six Nations.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6ndqx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6ntgt.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250426153000 +0000" stop="20250426163000 +0000">
+	<programme channel="bbcscotland" start="20250426153500 +0000" stop="20250426163000 +0000">
 		<title>Open All Mics - 26/04/2025</title>
 		<desc>Join Kenny Macintyre and the pundits for all the latest Scottish football scores.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hmh81g.jpg" />
@@ -5060,7 +5060,7 @@
 		<desc>Highlights from the afternoon's fixtures in the Scottish Premiership.
 
 </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfvl6m.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6nsmh.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250426194500 +0000" stop="20250426203500 +0000">
 		<title>The Tales of Para Handy - Series 2: 2. The Piper</title>
@@ -5374,15 +5374,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250426170000 +0000" stop="20250426173000 +0000">
+	<programme channel="bbcnews" start="20250426170000 +0000" stop="20250426180000 +0000">
 		<title>BBC News - 26/04/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250426173000 +0000" stop="20250426180000 +0000">
-		<title>Sportsday - 26/04/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250426180000 +0000" stop="20250426183000 +0000">
 		<title>BBC News - 26/04/2025</title>
@@ -5394,15 +5389,10 @@
 		<desc>A round-up of the day's sporting action.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250426190000 +0000" stop="20250426193000 +0000">
+	<programme channel="bbcnews" start="20250426190000 +0000" stop="20250426200000 +0000">
 		<title>BBC News - 26/04/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250426193000 +0000" stop="20250426200000 +0000">
-		<title>Newscast - 26/04/2025</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250426200000 +0000" stop="20250426210000 +0000">
 		<title>BBC News - 26/04/2025</title>
