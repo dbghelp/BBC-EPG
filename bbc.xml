@@ -855,9 +855,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06l1kjs.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250428213000 +0000" stop="20250428215800 +0000">
-		<title>Newsnight - 28/04/2025</title>
-		<desc>Insights and global interviews on news stories of the day. Presented by Nick Watt.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Kemi Badenoch on Newsnight</title>
+		<desc>Kemi Badenoch says she's not afraid of 'cowards' who criticise her leadership.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l71bnj.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250428215800 +0000" stop="20250428220000 +0000">
 		<title>BBC Weather - 28/04/2025</title>
@@ -5614,9 +5614,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250428213000 +0000" stop="20250428220000 +0000">
-		<title>Newsnight - 28/04/2025</title>
-		<desc>Insights and global interviews on news stories of the day. Presented by Nick Watt.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Kemi Badenoch on Newsnight</title>
+		<desc>Kemi Badenoch says she's not afraid of 'cowards' who criticise her leadership.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l71bnj.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250428220000 +0000" stop="20250428230000 +0000">
 		<title>BBC World News America - 28/04/2025</title>
@@ -6716,7 +6716,7 @@
 	<programme channel="bbcparliament" start="20250428080000 +0000" stop="20250428085000 +0000">
 		<title>Scottish Parliament - Supreme Court Ruling on Equality Law Statement</title>
 		<desc>Statement on the Supreme Court ruling on the definition of a woman in the Equalities Act.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l71060.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250428085000 +0000" stop="20250428093000 +0000">
 		<title>Lords Questions - 23/04/2025</title>
@@ -6761,40 +6761,45 @@
 	<programme channel="bbcparliament" start="20250428153000 +0000" stop="20250428163000 +0000">
 		<title>House of Commons - Child Rape Gang Urgent Question</title>
 		<desc>Urgent question in the House of Commons on the child rape gang scandal.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l71k3x.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250428163000 +0000" stop="20250428213000 +0000">
+	<programme channel="bbcparliament" start="20250428163000 +0000" stop="20250428215000 +0000">
 		<title>House of Commons - 28/04/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 28 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250428213000 +0000" stop="20250428221500 +0000">
+	<programme channel="bbcparliament" start="20250428215000 +0000" stop="20250428224000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions to the Northern Ireland executive, with the first minister Michelle O'Neill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250428221500 +0000" stop="20250428230000 +0000">
+	<programme channel="bbcparliament" start="20250428224000 +0000" stop="20250428232000 +0000">
 		<title>Lords Questions - 28/04/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 28 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250428230000 +0000" stop="20250428231000 +0000">
+	<programme channel="bbcparliament" start="20250428232000 +0000" stop="20250428233500 +0000">
 		<title>House of Lords - Sudan Conference Statement</title>
 		<desc>A statement on the Sudan conference in London, on Monday 28 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250428231000 +0000" stop="20250428232000 +0000">
+	<programme channel="bbcparliament" start="20250428233500 +0000" stop="20250428234500 +0000">
 		<title>House of Lords - Ukraine Talks Statement</title>
 		<desc>A statement on the talks in London on the war in Ukraine, on Monday 28 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250428232000 +0000" stop="20250429012000 +0000">
+	<programme channel="bbcparliament" start="20250428234500 +0000" stop="20250429014500 +0000">
 		<title>House of Lords - Renters' Rights Bill, Part 1</title>
 		<desc>Third day of the committee stage debate on the Renters' Rights Bill in the House of Lords.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250429012000 +0000" stop="20250429032000 +0000">
+	<programme channel="bbcparliament" start="20250429014500 +0000" stop="20250429034500 +0000">
 		<title>House of Lords - Renters' Rights Bill, Part 2</title>
+		<desc>Third day of the committee stage debate on the Renters' Rights Bill in the House of Lords.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250429034500 +0000" stop="20250429054500 +0000">
+		<title>House of Lords - Renters' Rights Bill, Part 3</title>
 		<desc>Third day of the committee stage debate on the Renters' Rights Bill in the House of Lords.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
