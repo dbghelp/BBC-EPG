@@ -122,7 +122,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250428170000 +0000" stop="20250428173000 +0000">
 		<title>BBC News at Six - 28/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>A huge power cut causes chaos across parts southern Europe. Presented by Fiona Bruce.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250428173000 +0000" stop="20250428175500 +0000">
@@ -163,7 +163,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250428210000 +0000" stop="20250428213000 +0000">
 		<title>BBC News at Ten - 28/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>A huge power cut causes chaos across parts southern Europe. Presented by Ben Brown.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250428213000 +0000" stop="20250428214000 +0000">
@@ -832,7 +832,7 @@
 	<programme channel="bbctwo" start="20250428180000 +0000" stop="20250428190000 +0000">
 		<title>Snooker: World Championship - 2025: Day 10, Evening Session</title>
 		<desc>Coverage of the opening frames from the concluding sessions of the second-round matches.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l70sc2.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250428190000 +0000" stop="20250428193000 +0000">
 		<title>Chess Masters: The Endgame - Series 1: Episode 8</title>
@@ -1774,10 +1774,15 @@
 		<desc>Documentary about the extraordinary last survivors who fought or lived through WWII.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02qddfp.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250428190000 +0000" stop="20250428210000 +0000">
-		<title>Snooker: World Championship - 2025: Day 10, Evening Session</title>
-		<desc>The second round reaches its conclusion, completing the quarter-final line-up.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+	<programme channel="bbcfour" start="20250428190000 +0000" stop="20250428200000 +0000">
+		<title>A303: Highway to the Sun</title>
+		<desc>Tom Fort whisks us through the landscape around the A303 road and 5,000 years of history.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09dngvd.jpg" />
+	</programme>
+	<programme channel="bbcfour" start="20250428200000 +0000" stop="20250428210000 +0000">
+		<title>A Timewatch Guide - Series 2: 1. Stonehenge</title>
+		<desc>How Stonehenge has been interpreted by leading historians and archaeologists.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03fvgkp.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250428210000 +0000" stop="20250428223000 +0000">
 		<title>VE Day 70 - 1. Remembering Victory</title>
@@ -5565,7 +5570,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250428170000 +0000" stop="20250428173000 +0000">
 		<title>BBC News at Six - 28/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>A huge power cut causes chaos across parts southern Europe. Presented by Fiona Bruce.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250428173000 +0000" stop="20250428180000 +0000">
@@ -5605,7 +5610,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250428210000 +0000" stop="20250428213000 +0000">
 		<title>BBC News at Ten - 28/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>A huge power cut causes chaos across parts southern Europe. Presented by Ben Brown.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250428213000 +0000" stop="20250428220000 +0000">
@@ -6798,19 +6803,19 @@
 		<desc>Third day of the committee stage debate on the Renters' Rights Bill in the House of Lords.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250429060500 +0000" stop="20250429070000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250429070000 +0000" stop="20250429083000 +0000">
-		<title>House of Commons - 28/04/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 28 April.</desc>
+	<programme channel="bbcparliament" start="20250429060500 +0000" stop="20250429071000 +0000">
+		<title>House of Commons - Education Questions</title>
+		<desc>Coverage of questions to Bridget Phillipson on Monday 28 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250429083000 +0000" stop="20250429103000 +0000">
-		<title>Select Committees - 29/04/2025</title>
-		<desc>Coverage of select committee proceedings on Tuesday 29 April.</desc>
+	<programme channel="bbcparliament" start="20250429071000 +0000" stop="20250429090000 +0000">
+		<title>House of Lords - Enhancing Public Trust Debate</title>
+		<desc>Debate on the Lords Statutory Instruments committee's report on 'enhancing public trust'.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250429090000 +0000" stop="20250429103000 +0000">
+		<title>Select Committees - Culture, Media and Sport Committee</title>
+		<desc>The Culture, Media and Sport select committee session on the state of live comedy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250429103000 +0000" stop="20250429113000 +0000">
