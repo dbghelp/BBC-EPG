@@ -138,7 +138,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250429180000 +0000" stop="20250429183000 +0000">
 		<title>The One Show - 29/04/2025</title>
-		<desc>Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+		<desc>David Tennant, Matthew Rhys and Leomie Anderson are on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250429183000 +0000" stop="20250429190000 +0000">
@@ -680,7 +680,7 @@
 	<programme channel="bbcone" start="20250503164000 +0000" stop="20250503172000 +0000">
 		<title>Bridge of Lies - Celebrity Specials, Series 3: Episode 2</title>
 		<desc>Charlotte Hawkins, Kaye Adams, Ade Adepitan and Matt Allwright take on the Bridge of Lies.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqbcjz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l73tcx.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250503172000 +0000" stop="20250503181000 +0000">
 		<title>The Hit List - Series 7: 8. Celebrity Special</title>
@@ -719,7 +719,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250503213000 +0000" stop="20250503224000 +0000">
 		<title>Match of the Day - 2024/25: 03/05/2025</title>
-		<desc>All the goals, reaction and analysis from seven Premier League games.</desc>
+		<desc>All the goals, reaction and analysis from five Premier League games.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jk92pf.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250503224000 +0000" stop="20250503234000 +0000">
@@ -765,17 +765,17 @@
 	<programme channel="bbctwo" start="20250429090000 +0000" stop="20250429111500 +0000">
 		<title>Snooker: World Championship - 2025: Day 11, Morning Session</title>
 		<desc>It’s quarter-finals time at the Crucible as the tournament enters its 11th day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l73wbt.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250429111500 +0000" stop="20250429120000 +0000">
 		<title>Politics Live - 29/04/2025</title>
-		<desc>The big political issues of the day.</desc>
+		<desc>Should the sugar tax be extended to milkshakes?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09819qp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250429120000 +0000" stop="20250429170000 +0000">
 		<title>Snooker: World Championship - 2025: Day 11, Afternoon Session</title>
 		<desc>Hazel Irvine presents quarter-final action from Sheffield.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l73wv5.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250429170000 +0000" stop="20250429173000 +0000">
 		<title>Richard Osman's House of Games - Series 7: Week 13: Tuesday</title>
@@ -790,7 +790,7 @@
 	<programme channel="bbctwo" start="20250429180000 +0000" stop="20250429190000 +0000">
 		<title>Snooker: World Championship - 2025: Day 11, Evening Session</title>
 		<desc>Seema Jaswal presents coverage from the night's quarter-finals.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l73xm7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250429190000 +0000" stop="20250429193000 +0000">
 		<title>Mortimer &amp; Whitehouse: Gone Fishing - Series 6: Episode 4</title>
@@ -830,7 +830,7 @@
 	<programme channel="bbctwo" start="20250429230000 +0000" stop="20250430010000 +0000">
 		<title>Snooker: World Championship - 2025 Extra: Day 11</title>
 		<desc>Extended highlights from the day's quarter-finals.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5039h.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l73ygp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250430010000 +0000" stop="20250430020000 +0000">
 		<title>Interior Design Masters with Alan Carr - Series 6: Episode 3</title>
@@ -1740,7 +1740,7 @@
 	<programme channel="bbcfour" start="20250429190000 +0000" stop="20250429210000 +0000">
 		<title>Snooker: World Championship - 2025: Day 11, Evening Session</title>
 		<desc>Continued coverage from the night's quarter-finals.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l73xg0.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250429210000 +0000" stop="20250429220000 +0000">
 		<title>Classic British Cars: Made in Coventry</title>
@@ -5514,40 +5514,10 @@
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250429190000 +0000" stop="20250429193000 +0000">
-		<title>The Context - 29/04/2025</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250429193000 +0000" stop="20250429200000 +0000">
-		<title>The Context - 29/04/2025</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250429200000 +0000" stop="20250429203000 +0000">
-		<title>The Context - 29/04/2025</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250429203000 +0000" stop="20250429210000 +0000">
-		<title>The Context - 29/04/2025</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250429210000 +0000" stop="20250429213000 +0000">
-		<title>BBC News at Ten - 29/04/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250429213000 +0000" stop="20250429220000 +0000">
-		<title>Newsnight - 29/04/2025</title>
-		<desc>Insights and global interviews on news stories of the day. Presented by Nick Watt.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250429220000 +0000" stop="20250429230000 +0000">
-		<title>BBC World News America - 29/04/2025</title>
-		<desc>In-depth reports on the major international and US news of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
+	<programme channel="bbcnews" start="20250429190000 +0000" stop="20250429230000 +0000">
+		<title>President Trump: The First 100 Days</title>
+		<desc>Analysing the first 100 days of the second President Trump administration.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250429230000 +0000" stop="20250429233000 +0000">
 		<title>BBC News - 29/04/2025</title>
@@ -6634,14 +6604,14 @@
 		<desc>Coverage of questions to Ed Miliband on Tuesday 29 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250430060000 +0000" stop="20250430083000 +0000">
+	<programme channel="bbcparliament" start="20250430060000 +0000" stop="20250430081500 +0000">
 		<title>House of Commons - 29/04/2025</title>
 		<desc>Highlights of proceedings in the House of Commons from Tuesday 29 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250430083000 +0000" stop="20250430103000 +0000">
-		<title>Select Committees - 30/04/2025</title>
-		<desc>Coverage of select committee proceedings on Wednesday 30 April.</desc>
+	<programme channel="bbcparliament" start="20250430081500 +0000" stop="20250430103000 +0000">
+		<title>Select Committees - Transport Committee</title>
+		<desc>The Transport select committee evidence session on managing the impact of street works.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250430103000 +0000" stop="20250430110000 +0000">
@@ -6812,7 +6782,7 @@
 	<programme channel="bbcparliament" start="20250503121000 +0000" stop="20250503125500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions to the Northern Ireland executive, with the first minister Michelle O'Neill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l74c7w.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250503125500 +0000" stop="20250503134000 +0000">
 		<title>House of Commons - 03/05/2025</title>
@@ -7389,10 +7359,15 @@
 		<desc>Valtos and friends in concert for Celtic Connections. Presented by Megan MacLellan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h6srqq.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20250503210000 +0000" stop="20250503220000 +0000">
+	<programme channel="bbcalba" start="20250503210000 +0000" stop="20250503215000 +0000">
 		<title>An Cruinne Caochlaideach/Dynamic Planet - Series 1: 4. Talamh/Earth</title>
 		<desc>We meet experts that are helping animals and nature to adapt to climate change.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l4s84l.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20250503215000 +0000" stop="20250503220000 +0000">
+		<title>Celtic Connections Shorts - Series 1: Episode 2</title>
+		<desc>Dallahan sing Jail Song, a traditional song with additional contemporary lyrics. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08ck5yb.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250503220000 +0000" stop="20250503230000 +0000">
 		<title>Jim Baxter</title>
