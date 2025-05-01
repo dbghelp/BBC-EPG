@@ -719,7 +719,7 @@
 	<programme channel="bbctwo" start="20250501120000 +0000" stop="20250501141500 +0000">
 		<title>Snooker: World Championship - 2025: Day 13, Afternoon Session</title>
 		<desc>Semi-final action gets underway, with Seema Jaswal introducing coverage from the Crucible.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7rlj8.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250501141500 +0000" stop="20250501150000 +0000">
 		<title>Best Bakes Ever - Series 1: Episode 19</title>
@@ -749,7 +749,7 @@
 	<programme channel="bbctwo" start="20250501180000 +0000" stop="20250501190000 +0000">
 		<title>Snooker: World Championship - 2025: Day 13, Evening Session</title>
 		<desc>The second semi-final gets underway at the Crucible. Hazel Irvine introduces coverage.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7rn7f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250501190000 +0000" stop="20250501200000 +0000">
 		<title>Digging for Britain - Series 9: Episode 5</title>
@@ -1656,32 +1656,27 @@
 		<desc>A look at the people who helped create a more culturally diverse postwar Britain.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02rnvjv.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250501190000 +0000" stop="20250501210000 +0000">
+	<programme channel="bbcfour" start="20250501190000 +0000" stop="20250501214000 +0000">
 		<title>Snooker: World Championship - 2025: Day 13, Evening Session</title>
 		<desc>Semi-final action continues from Sheffield.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7rnds.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250501210000 +0000" stop="20250501232000 +0000">
+	<programme channel="bbcfour" start="20250501214000 +0000" stop="20250502000000 +0000">
 		<title>West Side Story</title>
 		<desc>The tensions between rival gangs reach boiling point in a hot New York summer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gz49gm.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250501232000 +0000" stop="20250502005000 +0000">
-		<title>Omnibus - Leonard Bernstein's West Side Story</title>
-		<desc>Documentary that follows the making of a classic recording of Bernstein's celebrated work.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gvqhgh.jpg" />
-	</programme>
-	<programme channel="bbcfour" start="20250502005000 +0000" stop="20250502015000 +0000">
+	<programme channel="bbcfour" start="20250502000000 +0000" stop="20250502010000 +0000">
 		<title>Classic British Cars: Made in Coventry</title>
 		<desc>Mark Evans tells the story of Coventry’s classic cars, from the Daimler to the Jaguar.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09h7nz2.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250502015000 +0000" stop="20250502025000 +0000">
+	<programme channel="bbcfour" start="20250502010000 +0000" stop="20250502020000 +0000">
 		<title>Tutankhamun in Colour</title>
 		<desc>Elizabeth Frood shares the discovery of Tutankhamun's tomb as it happened - in colour.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c7b38k.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250502025000 +0000" stop="20250502043000 +0000">
+	<programme channel="bbcfour" start="20250502020000 +0000" stop="20250502043000 +0000">
 		<title>This is BBC Four - This is BBC Four</title>
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
@@ -5476,8 +5471,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250501213000 +0000" stop="20250501220000 +0000">
-		<title>Newsnight - 01/05/2025</title>
-		<desc>Insights and global interviews on news stories of the day. Presented by Katie Razzall.</desc>
+		<title>Newsnight - Local Elections: Is This Reform’s Breakthrough Night?</title>
+		<desc>Politicians discuss whether this is the beginning of the end for the two-party system.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250501220000 +0000" stop="20250501221000 +0000">
@@ -5531,7 +5526,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250502050000 +0000" stop="20250502080000 +0000">
-		<title>Breakfast - 11/05/2025</title>
+		<title>Breakfast - 02/05/2025</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
@@ -5580,20 +5575,10 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250502130000 +0000" stop="20250502150000 +0000">
+	<programme channel="bbcnews" start="20250502130000 +0000" stop="20250502160000 +0000">
 		<title>Elections 2025 - Part 3</title>
 		<desc>Laura Kuenssberg is your guide as the results of the local elections continue to come in.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l74w5m.png" />
-	</programme>
-	<programme channel="bbcnews" start="20250502150000 +0000" stop="20250502153000 +0000">
-		<title>Verified Live - 02/05/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250502153000 +0000" stop="20250502160000 +0000">
-		<title>Verified Live - 02/05/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250502160000 +0000" stop="20250502163000 +0000">
 		<title>Verified Live - 02/05/2025</title>
@@ -7591,7 +7576,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2m7c6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250501161500 +0000" stop="20250501164000 +0000">
-		<title>Rhyfeddodau Chwilengoch a Cath Ddu - Cyfres 4: Rhyfeddodau Chwilengoch</title>
+		<title>Rhyfeddodau Chwilengoch a Cath Ddu - Cyfres 4: Seicomediwr</title>
 		<desc>Animeiddiad am ferch gyffredin sy'n byw bywyd cyffredin, ond mae hefyd ganddi bwerau si...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b12t7k.jpg" />
 	</programme>
@@ -8031,7 +8016,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jq5n8c.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250503081500 +0000" stop="20250503083500 +0000">
-		<title>Rhyfeddodau Chwilengoch a Cath Ddu - Cyfres 3: Rhyfeddodau Chwilengoch</title>
+		<title>Rhyfeddodau Chwilengoch a Cath Ddu - Cyfres 3: Brenhines y Gwyrthiau</title>
 		<desc>Animeiddiad am ferch cyffredin sy'n byw bywyd cyffredin - ond mae hefyd ganddi bwerau s...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b12t7k.jpg" />
 	</programme>
