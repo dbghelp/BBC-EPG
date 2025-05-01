@@ -122,7 +122,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250501170000 +0000" stop="20250501173000 +0000">
 		<title>BBC News at Six - 01/05/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Donald Trump’s security adviser who shared military plans on a group chat has been ousted.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250501173000 +0000" stop="20250501180000 +0000">
@@ -5079,7 +5079,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08d1sxx.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250502213000 +0000" stop="20250502220000 +0000">
-		<title>Sacked in the Morning - Series 2 - TV: Episode 1</title>
+		<title>Sacked in the Morning - Series 2 - TV: 1. John Hartson</title>
 		<desc>John Hartson on his best manager, throwing sandwiches and playing for his country.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7msz8.jpg" />
 	</programme>
@@ -5124,7 +5124,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5s50n.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250503203000 +0000" stop="20250503210000 +0000">
-		<title>Sacked in the Morning - Series 2 - TV: Episode 1</title>
+		<title>Sacked in the Morning - Series 2 - TV: 1. John Hartson</title>
 		<desc>John Hartson on his best manager, throwing sandwiches and playing for his country.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7msz8.jpg" />
 	</programme>
@@ -5432,7 +5432,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250501170000 +0000" stop="20250501173000 +0000">
 		<title>BBC News at Six - 01/05/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>Donald Trump’s security adviser who shared military plans on a group chat has been ousted.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250501173000 +0000" stop="20250501180000 +0000">
@@ -6460,104 +6460,174 @@
 		<desc>Coverage of business in the House of Lords on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250501163000 +0000" stop="20250501171500 +0000">
+	<programme channel="bbcparliament" start="20250501163000 +0000" stop="20250501172000 +0000">
 		<title>Scottish First Minister's Questions - 01/05/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250501171500 +0000" stop="20250501180000 +0000">
+	<programme channel="bbcparliament" start="20250501172000 +0000" stop="20250501180000 +0000">
 		<title>Lords Questions - 01/05/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250501180000 +0000" stop="20250501200000 +0000">
+	<programme channel="bbcparliament" start="20250501180000 +0000" stop="20250501201000 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 1</title>
 		<desc>Second reading debate on the Children's Wellbeing and Schools Bill, on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250501200000 +0000" stop="20250501220000 +0000">
+	<programme channel="bbcparliament" start="20250501201000 +0000" stop="20250501221000 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 2</title>
 		<desc>Second reading debate on the Children's Wellbeing and Schools Bill, on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250501220000 +0000" stop="20250502000000 +0000">
+	<programme channel="bbcparliament" start="20250501221000 +0000" stop="20250502002000 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 3</title>
 		<desc>Second reading debate on the Children's Wellbeing and Schools Bill, on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502000000 +0000" stop="20250502020000 +0000">
+	<programme channel="bbcparliament" start="20250502002000 +0000" stop="20250502011000 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 4</title>
 		<desc>Second reading debate on the Children's Wellbeing and Schools Bill, on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502020000 +0000" stop="20250502030000 +0000">
+	<programme channel="bbcparliament" start="20250502011000 +0000" stop="20250502021000 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to Jonathan Reynolds on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502030000 +0000" stop="20250502032500 +0000">
+	<programme channel="bbcparliament" start="20250502021000 +0000" stop="20250502023500 +0000">
 		<title>House of Commons - Energy Prices Urgent Question</title>
 		<desc>Urgent question on reducing energy prices for energy intensive industries.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502032500 +0000" stop="20250502042500 +0000">
+	<programme channel="bbcparliament" start="20250502023500 +0000" stop="20250502033000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502042500 +0000" stop="20250502050000 +0000">
-		<title>This is BBC Parliament - This is BBC Parliament</title>
-		<desc>The top political and parliamentary stories from BBC News.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	<programme channel="bbcparliament" start="20250502033000 +0000" stop="20250502050000 +0000">
+		<title>House of Lords - Agriculture Regulations 2025</title>
+		<desc>Debate on the Agriculture (Delinked Payments) (Reductions) (England) Regulations 2025.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502050000 +0000" stop="20250502080000 +0000">
+	<programme channel="bbcparliament" start="20250502050000 +0000" stop="20250502063500 +0000">
 		<title>Westminster Hall - 28/04/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Monday 28 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502080000 +0000" stop="20250502130000 +0000">
-		<title>Select Committees - 02/05/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250502130000 +0000" stop="20250502170000 +0000">
-		<title>House of Lords - 02/05/2025</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
+	<programme channel="bbcparliament" start="20250502063500 +0000" stop="20250502080500 +0000">
+		<title>House of Lords - Agriculture Regulations 2025</title>
+		<desc>Debate on the Agriculture (Delinked Payments) (Reductions) (England) Regulations 2025.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502170000 +0000" stop="20250502200000 +0000">
-		<title>Select Committees - 02/05/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20250502080500 +0000" stop="20250502094000 +0000">
+		<title>Select Committees - Foreign Office Committee</title>
+		<desc>Lords International Relations and Defence Committee on the work of the Foreign Office.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502200000 +0000" stop="20250502204500 +0000">
+	<programme channel="bbcparliament" start="20250502094000 +0000" stop="20250502114500 +0000">
+		<title>Select Committees - Transport Committee</title>
+		<desc>The Transport select committee evidence session on managing the impact of street works.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502114500 +0000" stop="20250502134500 +0000">
+		<title>Select Committees - Culture, Media and Sport Committee</title>
+		<desc>The Culture, Media and Sport select committee session on the state of live comedy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l766kl.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502134500 +0000" stop="20250502143000 +0000">
+		<title>Lords Questions - 28/04/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Monday 28 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502143000 +0000" stop="20250502151500 +0000">
+		<title>Lords Questions - 29/04/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Tuesday 29 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7bfxg.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502151500 +0000" stop="20250502160000 +0000">
+		<title>Lords Questions - 30/04/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Wednesday 30 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502160000 +0000" stop="20250502164500 +0000">
+		<title>Lords Questions - 01/05/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Thursday 1 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502164500 +0000" stop="20250502170000 +0000">
+		<title>House of Lords - Kashmir Statement</title>
+		<desc>Urgent question on the deaths in Kashmir and increased tensions between India and Pakistan</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502170000 +0000" stop="20250502183500 +0000">
+		<title>Select Committees - Foreign Office Committee</title>
+		<desc>Lords International Relations and Defence Committee on the work of the Foreign Office.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502183500 +0000" stop="20250502203500 +0000">
+		<title>Select Committees - Culture, Media and Sport Committee</title>
+		<desc>The Culture, Media and Sport select committee session on the state of live comedy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l766kl.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502203500 +0000" stop="20250502212000 +0000">
 		<title>Scottish First Minister's Questions - 01/05/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502204500 +0000" stop="20250503000000 +0000">
-		<title>Scottish Parliament - 02/05/2025</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20250502212000 +0000" stop="20250502215000 +0000">
+		<title>Scottish Parliament - Deputy First Minister's Questions</title>
+		<desc>Questions in Holyrood to the deputy first minister Kate Forbes, on Wednesday 30 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250503000000 +0000" stop="20250503005000 +0000">
+	<programme channel="bbcparliament" start="20250502215000 +0000" stop="20250502221500 +0000">
+		<title>Scottish Parliament - Finance and Local Government Questions</title>
+		<desc>Questions in Holyrood to finance and local government ministers, on Wednesday 30 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502221500 +0000" stop="20250502224500 +0000">
+		<title>Scottish Parliament - Grangemouth Statement</title>
+		<desc>Ministerial statement on the end of refining at Grangemouth, on Wednesday 30 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502224500 +0000" stop="20250502235500 +0000">
+		<title>Scottish Parliament - Motorists Debate</title>
+		<desc>Debate on a Scottish conservative motion on ending punitive measures against road users.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502235500 +0000" stop="20250503004500 +0000">
 		<title>Welsh First Minister's Questions - 29/04/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 29 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7bcl0.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250503005000 +0000" stop="20250503033000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 02/05/2025</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20250503004500 +0000" stop="20250503013500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Steel Statement</title>
+		<desc>Statement on the Steel Industry (Special Measures) Bill with first minister Eluned Morgan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250503033000 +0000" stop="20250503041500 +0000">
+	<programme channel="bbcparliament" start="20250503013500 +0000" stop="20250503021500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Future Food Statement</title>
+		<desc>Statement on the Community Food Strategy with deputy first minister Huw Irranca-Davies.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250503021500 +0000" stop="20250503025000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - NHS Performance Statement</title>
+		<desc>Statement on the report on NHS Wales performance and productivity, on Tuesday 29 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250503025000 +0000" stop="20250503034000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions to the Northern Ireland executive, with the first minister Michelle O'Neill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l74c7w.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250503041500 +0000" stop="20250503050000 +0000">
-		<title>Northern Ireland Assembly - 02/05/2025</title>
-		<desc>Highlights from the Northern Ireland Assembly.</desc>
+	<programme channel="bbcparliament" start="20250503034000 +0000" stop="20250503042500 +0000">
+		<title>Northern Ireland Assembly - Infrastructure Questions</title>
+		<desc>Questions to the infrastructure minister Liz Kimmins, from Monday 28 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250503042500 +0000" stop="20250503050000 +0000">
+		<title>Northern Ireland Assembly - Definition of Women Debate</title>
+		<desc>Debate on the UK Supreme Court's ruling on the legal definition of a woman.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250503050000 +0000" stop="20250503100000 +0000">
