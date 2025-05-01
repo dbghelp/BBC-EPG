@@ -133,7 +133,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250501180000 +0000" stop="20250501183000 +0000">
 		<title>The One Show - 01/05/2025</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Martin Clunes and chef Anna Haugh join Alex Jones and Roman Kemp on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250501183000 +0000" stop="20250501190000 +0000">
@@ -300,22 +300,17 @@
 		<desc>When Mobeen’s plan to save Aqsa stalls, he is faced with an impossible choice.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5sjj1.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250502220500 +0000" stop="20250502223000 +0000">
-		<title>Man Like Mobeen - Series 5: 2. No Diggity</title>
-		<desc>Nida offers Mobeen a fake passport if he steals from the Turks. Can Uncle Shady help?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5sjjc.jpg" />
-	</programme>
-	<programme channel="bbcone" start="20250502223000 +0000" stop="20250503001500 +0000">
+	<programme channel="bbcone" start="20250502220500 +0000" stop="20250502234500 +0000">
 		<title>The Gift</title>
 		<desc>Simon and his wife, Robyn, move to LA, where they run into a former schoolmate of his.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hc49v7.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250503001500 +0000" stop="20250503002000 +0000">
+	<programme channel="bbcone" start="20250502234500 +0000" stop="20250502235000 +0000">
 		<title>Weather for the Week Ahead - 03/05/2025</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250503002000 +0000" stop="20250503050000 +0000">
+	<programme channel="bbcone" start="20250502235000 +0000" stop="20250503050000 +0000">
 		<title>Joins BBC News - 03/05/2025</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -474,7 +469,7 @@
 	<programme channel="bbcone" start="20250504111000 +0000" stop="20250504114500 +0000">
 		<title>Songs of Praise - The 80th Anniversary of VE Day</title>
 		<desc>Pam Rhodes marks the 80th anniversary of VE Day by hearing stories of faith and fortitude.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07zq95v.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7khg3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250504114500 +0000" stop="20250504115500 +0000">
 		<title>BBC Weekend News - Lunchtime News: 04/05/2025</title>
@@ -530,7 +525,7 @@
 	<programme channel="bbcone" start="20250504190000 +0000" stop="20250504200000 +0000">
 		<title>Antiques Roadshow - Series 48: 1. VE Day Special</title>
 		<desc>The roadshow travels to Berlin and Bletchley Park to mark the 80th anniversary of VE Day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d5wrj3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7kj9w.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250504200000 +0000" stop="20250504210000 +0000">
 		<title>This City Is Ours - Series 1: Episode 7</title>
@@ -556,7 +551,7 @@
 	<programme channel="bbcone" start="20250504224500 +0000" stop="20250504233000 +0000">
 		<title>The Women's Football Show - 2024/25: 04/05/2025</title>
 		<desc>Highlights from the penultimate weekend of the Women's Super League's 2024/25 season.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jqdqww.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7k81f.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250504233000 +0000" stop="20250505000000 +0000">
 		<title>Doctor Who: Unleashed - Season 2: 4. Lucky Day</title>
@@ -1157,7 +1152,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dlchfp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250505111500 +0000" stop="20250505120000 +0000">
-		<title>Bargain Hunt - Series 68: 7. Oswestry 7</title>
+		<title>Bargain Hunt - Series 68: Oswestry 7</title>
 		<desc>Roo lrvine looks at a personal collection of items belonging to a familiar face.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrjhks.jpg" />
 	</programme>
@@ -1246,67 +1241,62 @@
 		<desc>Former battle rapper Ogmios gives his guide to being a zen driver.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bgchfh.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250501200000 +0000" stop="20250501202500 +0000">
+	<programme channel="bbcthree" start="20250501200000 +0000" stop="20250501202000 +0000">
 		<title>Man Like Mobeen - Series 5: 1. Tainted Love</title>
 		<desc>When Mobeen’s plan to save Aqsa stalls, he is faced with an impossible choice.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5sjj1.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250501202500 +0000" stop="20250501205000 +0000">
-		<title>Man Like Mobeen - Series 5: 2. No Diggity</title>
-		<desc>Nida offers Mobeen a fake passport if he steals from the Turks. Can Uncle Shady help?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5sjjc.jpg" />
-	</programme>
-	<programme channel="bbcthree" start="20250501205000 +0000" stop="20250501210000 +0000">
+	<programme channel="bbcthree" start="20250501202000 +0000" stop="20250501203500 +0000">
 		<title>BBC Comedy Short Films - Donkey</title>
 		<desc>Kenza is a donkey - or at least that is what her family thinks of her.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6hsvc.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250501210000 +0000" stop="20250501225500 +0000">
+	<programme channel="bbcthree" start="20250501203500 +0000" stop="20250501222500 +0000">
 		<title>The Beach</title>
 		<desc>A backpacker in Thailand (Leonardo DiCaprio) tries to find a secret island paradise. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4yzff.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250501225500 +0000" stop="20250501232500 +0000">
+	<programme channel="bbcthree" start="20250501222500 +0000" stop="20250501225500 +0000">
 		<title>Charlotte in Sunderland - Series 2: Episode 5</title>
 		<desc>There are tears as Alba starts nursery. Jake and Charlotte arrange very different dates.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gsjbvb.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250501232500 +0000" stop="20250501235500 +0000">
+	<programme channel="bbcthree" start="20250501225500 +0000" stop="20250501232500 +0000">
 		<title>Charlotte in Sunderland - Series 2: Episode 6</title>
 		<desc>Jake and Charlotte travel to Australia for work, missing Letitia’s crucial mammogram.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gsjcy4.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250501235500 +0000" stop="20250502002000 +0000">
+	<programme channel="bbcthree" start="20250501232500 +0000" stop="20250501235000 +0000">
 		<title>Man Like Mobeen - Series 5: 1. Tainted Love</title>
 		<desc>When Mobeen’s plan to save Aqsa stalls, he is faced with an impossible choice.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5sjj1.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250502002000 +0000" stop="20250502004500 +0000">
-		<title>Man Like Mobeen - Series 5: 2. No Diggity</title>
-		<desc>Nida offers Mobeen a fake passport if he steals from the Turks. Can Uncle Shady help?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5sjjc.jpg" />
+	<programme channel="bbcthree" start="20250501235000 +0000" stop="20250502005000 +0000">
+		<title>Glow Up: Britain's Next Make-Up Star - Series 7: Episode 1</title>
+		<desc>Sam Smith’s latex outfit designer HARRI books the MUAs to create looks for his show.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l768fs.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250502004500 +0000" stop="20250502013000 +0000">
+	<programme channel="bbcthree" start="20250502005000 +0000" stop="20250502013500 +0000">
 		<title>Just Act Normal - Series 1: Episode 5</title>
 		<desc>Tanika meets a police officer who raises concerns about the whereabouts of her mother.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l2gwc0.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250502013000 +0000" stop="20250502021000 +0000">
+	<programme channel="bbcthree" start="20250502013500 +0000" stop="20250502021500 +0000">
 		<title>Just Act Normal - Series 1: Episode 6</title>
 		<desc>When Tanika goes missing, the siblings are finally forced to confront their situation.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l2gwdt.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250502021000 +0000" stop="20250502023000 +0000">
-		<title>My Mate's a Bad Date - Series 1: 5. Lewis</title>
-		<desc>20-year-old Lewis is scaring away potential partners by talking wedding plans on date one!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07vkrfg.jpg" />
+	<programme channel="bbcthree" start="20250502021500 +0000" stop="20250502022500 +0000">
+		<title>BBC Comedy Short Films - Donkey</title>
+		<desc>Kenza is a donkey - or at least that is what her family thinks of her.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6hsvc.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250502023000 +0000" stop="20250502030000 +0000">
+	<programme channel="bbcthree" start="20250502022500 +0000" stop="20250502025500 +0000">
 		<title>Charlotte in Sunderland - Series 2: Episode 5</title>
 		<desc>There are tears as Alba starts nursery. Jake and Charlotte arrange very different dates.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gsjbvb.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250502030000 +0000" stop="20250502043000 +0000">
+	<programme channel="bbcthree" start="20250502025500 +0000" stop="20250502043000 +0000">
 		<title>This is BBC Three - This is BBC Three</title>
 		<desc>Programmes start at 7.00pm</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvry0j.jpg" />
@@ -1442,9 +1432,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5sjj1.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250503232500 +0000" stop="20250503235500 +0000">
-		<title>Man Like Mobeen - Series 5: 2. No Diggity</title>
-		<desc>Nida offers Mobeen a fake passport if he steals from the Turks. Can Uncle Shady help?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5sjjc.jpg" />
+		<title>My Mate's a Bad Date - Series 1: 2. Khalil</title>
+		<desc>Will 21-year-old Khalil ever remember his date's name, or will she always be 'baby girl'?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07vkq0m.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250503235500 +0000" stop="20250504005500 +0000">
 		<title>Glow Up: Britain's Next Make-Up Star - Series 7: Episode 1</title>
@@ -5120,7 +5110,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20250503181500 +0000" stop="20250503193000 +0000">
 		<title>Sportscene - Premiership Highlights 2024/25: 03/05/2025</title>
-		<desc>Steven Thompson presents highlights from the afternoon's fixtures in the SPL.</desc>
+		<desc>Steven Thompson presents highlights from the afternoon's fixtures in the SPFL.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfvl6m.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250503193000 +0000" stop="20250503203000 +0000">
@@ -6495,12 +6485,17 @@
 		<desc>Coverage of questions to Jonathan Reynolds on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250501093000 +0000" stop="20250501103000 +0000">
+	<programme channel="bbcparliament" start="20250501093000 +0000" stop="20250501095500 +0000">
+		<title>House of Commons - Energy Prices Urgent Question</title>
+		<desc>Urgent question on reducing energy prices for energy intensive industries.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250501095500 +0000" stop="20250501111000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250501103000 +0000" stop="20250501163000 +0000">
+	<programme channel="bbcparliament" start="20250501111000 +0000" stop="20250501163000 +0000">
 		<title>House of Commons - 01/05/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7497,7 +7492,7 @@
 	</programme>
 	<programme channel="s4c" start="20250501130500 +0000" stop="20250501140000 +0000">
 		<title>Prynhawn Da - Thu, 01 May 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mae Huw yn y gornel ffasiwn, mae Dr Elin yn trafod gofal croen, a Deian yn trafod gwino...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250501140000 +0000" stop="20250501140500 +0000">
@@ -7567,7 +7562,7 @@
 	</programme>
 	<programme channel="s4c" start="20250501180000 +0000" stop="20250501183000 +0000">
 		<title>Heno - Thu, 01 May 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae'r artist, Owain Sparnon, yma; ac ry' ni'n ymweld â champfa newydd y delynores, Hann...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250501183000 +0000" stop="20250501190000 +0000">
@@ -7772,7 +7767,7 @@
 	</programme>
 	<programme channel="s4c" start="20250502113000 +0000" stop="20250502120000 +0000">
 		<title>Heno - Thu, 01 May 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae'r artist, Owain Sparnon, yma; ac ry' ni'n ymweld â champfa newydd y delynores, Hann...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250502120000 +0000" stop="20250502123000 +0000">
