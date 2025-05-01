@@ -555,7 +555,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250504233000 +0000" stop="20250505000000 +0000">
 		<title>Doctor Who: Unleashed - Season 2: 4. Lucky Day</title>
-		<desc>Go behind the scenes of the Time Lord's adventures.</desc>
+		<desc>Lucky Day! Steffan is reunited with companion Ruby Sunday, and we meet Jonah Hauer-King.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6hfrm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250505000000 +0000" stop="20250505000500 +0000">
@@ -586,7 +586,7 @@
 	<programme channel="bbcone" start="20250505093000 +0000" stop="20250505130000 +0000">
 		<title>VE Day 80 - The Nation Pays Tribute</title>
 		<desc>The VE Day 80 celebrations begin with a military procession and flypast.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l79hjp.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7l6fj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250505130000 +0000" stop="20250505132000 +0000">
 		<title>BBC News at One - 05/05/2025</title>
@@ -716,10 +716,15 @@
 		<desc>JJ Chalmers presents an appeal on behalf of Day One Trauma.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l64v22.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250501120000 +0000" stop="20250501150000 +0000">
+	<programme channel="bbctwo" start="20250501120000 +0000" stop="20250501141500 +0000">
 		<title>Snooker: World Championship - 2025: Day 13, Afternoon Session</title>
 		<desc>Semi-final action gets underway, with Seema Jaswal introducing coverage from the Crucible.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250501141500 +0000" stop="20250501150000 +0000">
+		<title>Best Bakes Ever - Series 1: Episode 19</title>
+		<desc>Jane Asher brings together a selection of recipes from the nation's favourite TV chefs.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p032ln9n.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250501150000 +0000" stop="20250501160000 +0000">
 		<title>Jimmy and the Wild Honey Hunters</title>
@@ -1403,7 +1408,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250503185500 +0000" stop="20250503192500 +0000">
 		<title>Doctor Who: Unleashed - Season 2: 4. Lucky Day</title>
-		<desc>Go behind the scenes of the Time Lord's adventures.</desc>
+		<desc>Lucky Day! Steffan is reunited with companion Ruby Sunday, and we meet Jonah Hauer-King.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6hfrm.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250503192500 +0000" stop="20250503213500 +0000">
@@ -1538,7 +1543,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250505022500 +0000" stop="20250505025500 +0000">
 		<title>Doctor Who: Unleashed - Season 2: 4. Lucky Day</title>
-		<desc>Go behind the scenes of the Time Lord's adventures.</desc>
+		<desc>Lucky Day! Steffan is reunited with companion Ruby Sunday, and we meet Jonah Hauer-King.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l6hfrm.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250505025500 +0000" stop="20250505043000 +0000">
@@ -1826,42 +1831,42 @@
 		<desc>Gary Wilmot looks back on the 1995 series featuring well-known hits from musical theatre.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l73c4y.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250504181500 +0000" stop="20250504190000 +0000">
+	<programme channel="bbcfour" start="20250504181500 +0000" stop="20250504190500 +0000">
 		<title>Showstoppers - Episode 1</title>
 		<desc>Gary Wilmot presents performances by Tom Conti, Barbara Dickson and Michael Feinstein.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l73vgg.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250504190000 +0000" stop="20250504195000 +0000">
+	<programme channel="bbcfour" start="20250504190500 +0000" stop="20250504195500 +0000">
 		<title>Showstoppers - Episode 2</title>
 		<desc>Gary Wilmot presents performances by Sarah Brightman, Brian Conley and Dennis Waterman.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l73vgg.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250504195000 +0000" stop="20250504221000 +0000">
+	<programme channel="bbcfour" start="20250504195500 +0000" stop="20250504221500 +0000">
 		<title>Anything Goes: The Musical</title>
 		<desc>Major production of the classic musical comedy, filmed live at the Barbican.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b8xjsj.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250504221000 +0000" stop="20250504234000 +0000">
+	<programme channel="bbcfour" start="20250504221500 +0000" stop="20250504234500 +0000">
 		<title>Big Night of Musicals by the National Lottery - 2024</title>
 		<desc>Jason Manford hosts a glittering musical celebration, with spectacular performances.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7cy7h.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250504234000 +0000" stop="20250505004000 +0000">
+	<programme channel="bbcfour" start="20250504234500 +0000" stop="20250505004500 +0000">
 		<title>Gershwin's Summertime: The Song That Conquered the World</title>
 		<desc>Investigation into the extraordinary life of Gershwin's classic composition, Summertime.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c99lp6.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250505004000 +0000" stop="20250505013000 +0000">
+	<programme channel="bbcfour" start="20250505004500 +0000" stop="20250505013500 +0000">
 		<title>Showstoppers - Episode 1</title>
 		<desc>Gary Wilmot presents performances by Tom Conti, Barbara Dickson and Michael Feinstein.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l73vgg.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250505013000 +0000" stop="20250505022000 +0000">
+	<programme channel="bbcfour" start="20250505013500 +0000" stop="20250505022500 +0000">
 		<title>Showstoppers - Episode 2</title>
 		<desc>Gary Wilmot presents performances by Sarah Brightman, Brian Conley and Dennis Waterman.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l73vgg.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250505022000 +0000" stop="20250505043000 +0000">
+	<programme channel="bbcfour" start="20250505022500 +0000" stop="20250505043000 +0000">
 		<title>This is BBC Four - This is BBC Four</title>
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
@@ -1894,12 +1899,12 @@
 	<programme channel="bbcfour" start="20250505210000 +0000" stop="20250505211500 +0000">
 		<title>Jonathan Dimbleby: My Father and Belsen</title>
 		<desc>Jonathan Dimbleby reflects on his father Richard's reporting on the liberation of Belsen.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7n270.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250505211500 +0000" stop="20250505213000 +0000">
 		<title>Richard Dimbleby at Belsen</title>
 		<desc>Richard Dimbleby returns to Belsen, 20 years after his radio account of its liberation.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7n2hs.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250505213000 +0000" stop="20250505220000 +0000">
 		<title>After the Battle - 6. Germany - Richard Dimbleby Reports</title>
@@ -5027,9 +5032,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5s50n.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250501220000 +0000" stop="20250501223000 +0000">
-		<title>Scotcast - 01/05/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Karen Dunbar: ‘What is Laughter?’</title>
+		<desc>Comedian and actor Karen Dunbar on making people laugh and her love of Billy Connolly.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7p4mm.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250501223000 +0000" stop="20250501230000 +0000">
 		<title>Scot Squad - Series 1: Episode 3</title>
@@ -5076,7 +5081,7 @@
 	<programme channel="bbcscotland" start="20250502213000 +0000" stop="20250502220000 +0000">
 		<title>Sacked in the Morning - Series 2 - TV: Episode 1</title>
 		<desc>John Hartson on his best manager, throwing sandwiches and playing for his country.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d55k3v.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7msz8.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250502220000 +0000" stop="20250502230000 +0000">
 		<title>Pitch Invasion: How the Scottish and Irish Changed Football - Series 1: 1. Genius</title>
@@ -5121,7 +5126,7 @@
 	<programme channel="bbcscotland" start="20250503203000 +0000" stop="20250503210000 +0000">
 		<title>Sacked in the Morning - Series 2 - TV: Episode 1</title>
 		<desc>John Hartson on his best manager, throwing sandwiches and playing for his country.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d55k3v.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7msz8.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250503210000 +0000" stop="20250503213000 +0000">
 		<title>Mrs Brown's Boys - Series 3: 1. Mammy's Spell</title>
@@ -5406,9 +5411,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250501153000 +0000" stop="20250501154500 +0000">
-		<title>Business Today - 01/05/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+		<title>Verified Live - 01/05/2025</title>
+		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250501154500 +0000" stop="20250501160000 +0000">
 		<title>Verified Live - 01/05/2025</title>
@@ -5525,35 +5530,10 @@
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250502050000 +0000" stop="20250502053000 +0000">
-		<title>BBC News - 02/05/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250502053000 +0000" stop="20250502060000 +0000">
-		<title>Business Today - 02/05/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250502060000 +0000" stop="20250502063000 +0000">
-		<title>BBC News - 02/05/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250502063000 +0000" stop="20250502070000 +0000">
-		<title>Business Today - 02/05/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250502070000 +0000" stop="20250502073000 +0000">
-		<title>BBC News - 02/05/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250502073000 +0000" stop="20250502080000 +0000">
-		<title>BBC News - 02/05/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	<programme channel="bbcnews" start="20250502050000 +0000" stop="20250502080000 +0000">
+		<title>Breakfast - 11/05/2025</title>
+		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250502080000 +0000" stop="20250502083000 +0000">
 		<title>BBC News - 02/05/2025</title>
@@ -5590,45 +5570,20 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250502110000 +0000" stop="20250502113000 +0000">
-		<title>BBC News Now - 02/05/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250502113000 +0000" stop="20250502120000 +0000">
-		<title>BBC News Now - 02/05/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	<programme channel="bbcnews" start="20250502110000 +0000" stop="20250502120000 +0000">
+		<title>Elections 2025 - Part 2</title>
+		<desc>Laura Kuenssberg presents as the results of the local elections continue to come in.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l74v0c.png" />
 	</programme>
 	<programme channel="bbcnews" start="20250502120000 +0000" stop="20250502130000 +0000">
 		<title>BBC News at One - 02/05/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250502130000 +0000" stop="20250502133000 +0000">
-		<title>BBC News Now - 02/05/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250502133000 +0000" stop="20250502134500 +0000">
-		<title>Business Today - NYSE Opening Bell - 02/05/2025</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250502134500 +0000" stop="20250502140000 +0000">
-		<title>BBC News Now - 02/05/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250502140000 +0000" stop="20250502143000 +0000">
-		<title>Verified Live - 02/05/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250502143000 +0000" stop="20250502150000 +0000">
-		<title>Verified Live - 02/05/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
+	<programme channel="bbcnews" start="20250502130000 +0000" stop="20250502150000 +0000">
+		<title>Elections 2025 - Part 3</title>
+		<desc>Laura Kuenssberg is your guide as the results of the local elections continue to come in.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l74w5m.png" />
 	</programme>
 	<programme channel="bbcnews" start="20250502150000 +0000" stop="20250502153000 +0000">
 		<title>Verified Live - 02/05/2025</title>
@@ -6495,10 +6450,15 @@
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250501111000 +0000" stop="20250501163000 +0000">
+	<programme channel="bbcparliament" start="20250501111000 +0000" stop="20250501141000 +0000">
 		<title>House of Commons - 01/05/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250501141000 +0000" stop="20250501163000 +0000">
+		<title>House of Lords - 01/05/2025</title>
+		<desc>Coverage of business in the House of Lords on Thursday 1 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250501163000 +0000" stop="20250501171500 +0000">
 		<title>Scottish First Minister's Questions - 01/05/2025</title>
@@ -6510,25 +6470,45 @@
 		<desc>Questions in the House of Lords to government ministers on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250501180000 +0000" stop="20250502011500 +0000">
-		<title>House of Lords - 01/05/2025</title>
-		<desc>Business in the House of Lords on Thursday 1 May.</desc>
+	<programme channel="bbcparliament" start="20250501180000 +0000" stop="20250501200000 +0000">
+		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 1</title>
+		<desc>Second reading debate on the Children's Wellbeing and Schools Bill, on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502011500 +0000" stop="20250502021500 +0000">
+	<programme channel="bbcparliament" start="20250501200000 +0000" stop="20250501220000 +0000">
+		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 2</title>
+		<desc>Second reading debate on the Children's Wellbeing and Schools Bill, on Thursday 1 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250501220000 +0000" stop="20250502000000 +0000">
+		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 3</title>
+		<desc>Second reading debate on the Children's Wellbeing and Schools Bill, on Thursday 1 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502000000 +0000" stop="20250502020000 +0000">
+		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 4</title>
+		<desc>Second reading debate on the Children's Wellbeing and Schools Bill, on Thursday 1 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502020000 +0000" stop="20250502030000 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to Jonathan Reynolds on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502021500 +0000" stop="20250502031500 +0000">
+	<programme channel="bbcparliament" start="20250502030000 +0000" stop="20250502032500 +0000">
+		<title>House of Commons - Energy Prices Urgent Question</title>
+		<desc>Urgent question on reducing energy prices for energy intensive industries.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250502032500 +0000" stop="20250502042500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 1 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250502031500 +0000" stop="20250502050000 +0000">
-		<title>House of Commons - 01/05/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 1 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250502042500 +0000" stop="20250502050000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250502050000 +0000" stop="20250502080000 +0000">
 		<title>Westminster Hall - 28/04/2025</title>
@@ -8265,27 +8245,27 @@
 		<desc>Mae Coch a Glas yn cystadlu i baentio castell ac yn cwrdd â Phorffor. Red and Blue comp...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gnj1q5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505050500 +0000" stop="20250505051500 +0000">
+	<programme channel="s4c" start="20250505050500 +0000" stop="20250505052000 +0000">
 		<title>Tomos a'i Ffrindiau - Cyfres 4: Diwrnod Anturus</title>
 		<desc>Anturiaethau Tomos a'i ffrindiau. The adventures of Tomos and friends.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fg029b.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505051500 +0000" stop="20250505052500 +0000">
+	<programme channel="s4c" start="20250505052000 +0000" stop="20250505053000 +0000">
 		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 42</title>
 		<desc>Anifeiliaid anwes yw'r thema y tro hwn a down i nabod y gath, y mochyn cwta a'r bochdew...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505052500 +0000" stop="20250505054000 +0000">
+	<programme channel="s4c" start="20250505053000 +0000" stop="20250505054000 +0000">
 		<title>Guto Gwningen - Cyfres 1: Hanes y Ddwy Chwaer</title>
 		<desc>Er nad oedd o am i Fflopsi a Mopsi fynd efo fo ar un o'i anturiaethau, mae Guto'n darga...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02qpsf1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505054000 +0000" stop="20250505055500 +0000">
+	<programme channel="s4c" start="20250505054000 +0000" stop="20250505060000 +0000">
 		<title>Ahoi! - Cyfres 2: Ysgol Tan y Lan</title>
 		<desc>Pwy fydd y môr-ladron sy'n ymuno â Ben Dant a Cadi i herio'r byd y tro 'ma? From which ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07lssbh.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505055500 +0000" stop="20250505060500 +0000">
+	<programme channel="s4c" start="20250505060000 +0000" stop="20250505060500 +0000">
 		<title>Odo - Cyfres 1: Y Gwyr Doeth</title>
 		<desc>Cartwn hyfryd am gwdihw bach o'r enw Odo a'i ffrindiau yn y goedwig. Lovely cartoon abo...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c2dj8p.jpg" />
@@ -8295,27 +8275,27 @@
 		<desc>Mae Pablo'n gweld nad yw ei wy wedi ffrio yn hoff o gael ei chyffwrdd gan ei sbageti! P...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09f9333.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505062000 +0000" stop="20250505063000 +0000">
+	<programme channel="s4c" start="20250505062000 +0000" stop="20250505062500 +0000">
 		<title>Ein Byd Bach Ni - Cyfres 2: Pennod 17</title>
 		<desc>Tro hwn, teithiwn yn ôl mewn hanes i ddysgu am gychod campus a sut wnaethon nhw lwyddo ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdbbh1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505063000 +0000" stop="20250505064500 +0000">
+	<programme channel="s4c" start="20250505062500 +0000" stop="20250505064000 +0000">
 		<title>Pentre Papur Pop - Raswyr Lawr Allt</title>
 		<desc>Ar yr antur popwych heddiw mae'n ddiwrnod rasio yn Pentre Papur Pop ac mae Pip wedi dew...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505064500 +0000" stop="20250505070000 +0000">
+	<programme channel="s4c" start="20250505064000 +0000" stop="20250505070000 +0000">
 		<title>Ne-wff-ion - Cyfres 2: Pennod 5</title>
 		<desc>Ar y Newffion heddiw, mae cennin yn bwysig iawn i Gymru, ond beth mae'r statws PGI newy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gn9n0t.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505070000 +0000" stop="20250505071000 +0000">
+	<programme channel="s4c" start="20250505070000 +0000" stop="20250505070500 +0000">
 		<title>Shwshaswyn - Cyfres 1: Peintio</title>
 		<desc>Mae Seren yn creu darlun, mae'r Capten yn sylwi ar ddiferion paent ac mae Fflwff yn dys...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06j4f78.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505071000 +0000" stop="20250505072000 +0000">
+	<programme channel="s4c" start="20250505070500 +0000" stop="20250505072000 +0000">
 		<title>Stiw - Cyfres 2013: Sêl Garej Stiw</title>
 		<desc>Mae Stiw'n difaru rhoi ei deganau ar werth yn y sêl garej mae'r teulu'n ei chynnal. Sti...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06skmkf.jpg" />
@@ -8325,12 +8305,12 @@
 		<desc>Mae defaid du a gwyn Fflur ar goll! Wedi tipyn o ymdrech gan Jen, Jim, Bolgi a Cyw, mae...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03bc57f.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505073500 +0000" stop="20250505075000 +0000">
+	<programme channel="s4c" start="20250505073500 +0000" stop="20250505074500 +0000">
 		<title>Patrôl Pawennau - Cyfres 4: Cwn yn Achub Mwnci Campus</title>
 		<desc>Mae masg hynafol yn gwneud i Maer Campus ymddwyn fel mwnci. All y Pawenlu ei achub o'r ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0645yv0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505075000 +0000" stop="20250505080500 +0000">
+	<programme channel="s4c" start="20250505074500 +0000" stop="20250505080500 +0000">
 		<title>Awyr Iach - Cyfres 1: Pennod 9</title>
 		<desc>Heddiw: ymuno a chriw o syrffwyr ifanc yn Ninas Dinlle, garddio ar y rhandir yng Nghaer...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bz8cvm.jpg" />
@@ -8350,32 +8330,32 @@
 		<desc>Pan na fydd baneri newydd ar gyfer y rheilffordd yn cyrraedd, a all y dreigiau achub y ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8ld9h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505083000 +0000" stop="20250505084500 +0000">
+	<programme channel="s4c" start="20250505083000 +0000" stop="20250505084000 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Anghenfil yr Afon</title>
 		<desc>Pan mae Pwti yn gweld Gwich yn ei offer snorclan newydd mae'n meddwl taw bwystfil dwr y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505084500 +0000" stop="20250505090000 +0000">
+	<programme channel="s4c" start="20250505084000 +0000" stop="20250505090000 +0000">
 		<title>Kim a Cai a Cranc - Cyfres 1: Pennod 8</title>
 		<desc>Ymunwch â Kim a Cai ar antur hudolus a chwareus yn llawn dawns a cherddoriaeth wrth idd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kr864x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505090000 +0000" stop="20250505090500 +0000">
+	<programme channel="s4c" start="20250505090000 +0000" stop="20250505091000 +0000">
 		<title>Blociau Lliw - Cyfres 1: Oren</title>
 		<desc>Mae Oren egnïol yn cyrraedd Gwlad y Lliwiau. Energetic Orange arrives in Colourland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gnj1q5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505090500 +0000" stop="20250505091500 +0000">
+	<programme channel="s4c" start="20250505091000 +0000" stop="20250505092000 +0000">
 		<title>Tomos a'i Ffrindiau - Cyfres 4: Aros Dros Nos</title>
 		<desc>Anturiaethau Tomos a'i ffrindiau. The adventures of Tomos and friends.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fg029b.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505091500 +0000" stop="20250505092500 +0000">
+	<programme channel="s4c" start="20250505092000 +0000" stop="20250505093000 +0000">
 		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 39</title>
 		<desc>Dewch ar antur gyda ni i gwrdd ag anifeiliaid bach y byd. Y tro hwn yr Eliffant Asiaidd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505092500 +0000" stop="20250505094000 +0000">
+	<programme channel="s4c" start="20250505093000 +0000" stop="20250505094000 +0000">
 		<title>Guto Gwningen - Cyfres 1: Hanes Ffrind Newydd Nel Gynffo</title>
 		<desc>Mae Nel Gynffon-wen wedi mynd i chwilio am ei ffrind newydd, y Llyg. When Nel Gynffon-w...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02qpsg4.jpg" />
@@ -8385,12 +8365,12 @@
 		<desc>Pwy fydd y môr-ladron sy'n ymuno â Ben Dant a Cadi i herio'r byd y tro 'ma? From which ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07lssbh.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505095500 +0000" stop="20250505100500 +0000">
+	<programme channel="s4c" start="20250505095500 +0000" stop="20250505101000 +0000">
 		<title>Odo - Cyfres 1: Afal</title>
 		<desc>Cartwn hyfryd am gwdihw bach o'r enw Odo a'i ffrindiau yn y goedwig. Lovely cartoon abo...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c2dj8p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505100500 +0000" stop="20250505102000 +0000">
+	<programme channel="s4c" start="20250505101000 +0000" stop="20250505102000 +0000">
 		<title>Pablo - Cyfres 1: Y Dwfesawrws</title>
 		<desc>Mae gan Pablo ei ffordd ei hun o weld y byd. Pan mae ei grys-T newydd yn cosi mae'n gwr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09f9333.jpg" />
@@ -8400,12 +8380,12 @@
 		<desc>Awn yn ol i'r flwyddyn 1804 i ddysgu am y trên stem cyntaf a gafodd ei ddefnyddio yng N...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdbbh1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505103000 +0000" stop="20250505104500 +0000">
+	<programme channel="s4c" start="20250505103000 +0000" stop="20250505104000 +0000">
 		<title>Pentre Papur Pop - Pawb i Ddweud Caws</title>
 		<desc>Heddiw, mae Mai-Mai yn colli llyfr lluniau arbennig Mabli ond all hi ddefnyddio camera ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505104500 +0000" stop="20250505110000 +0000">
+	<programme channel="s4c" start="20250505104000 +0000" stop="20250505110000 +0000">
 		<title>Ne-wff-ion - Cyfres 2: Pennod 1</title>
 		<desc>Heddiw byddwn yn clywed hanes ci ar goll yn Nhreorci. Cawn hefyd ddatgelu enillydd cyst...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gn9n0t.jpg" />
@@ -8480,17 +8460,17 @@
 		<desc>Y tro hwn, byddwn yn darganfod deg bwystfil sy'n gaeafgysgu. When Winter takes hold, it...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07lr3vr.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505161500 +0000" stop="20250505163000 +0000">
+	<programme channel="s4c" start="20250505161500 +0000" stop="20250505162500 +0000">
 		<title>Li Ban - Cyfres 1: Trawsnewidiad</title>
 		<desc>Mae gweledigaeth derwydd, siwrne hir, ceffyl enfawr, a llifogydd ysgytwol, yn arwain at...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw5j6b.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505163000 +0000" stop="20250505165000 +0000">
+	<programme channel="s4c" start="20250505162500 +0000" stop="20250505164500 +0000">
 		<title>LEGO Dreamzzzz - Cyfres 2: LEGO® DREAMZzz</title>
 		<desc>Wedi syfrdanu o golli eu hatgofion, mae'r Cwsgarwyr yn chwilio am rhywun i feio. Reelin...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jmm3jw.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250505165000 +0000" stop="20250505170000 +0000">
+	<programme channel="s4c" start="20250505164500 +0000" stop="20250505170000 +0000">
 		<title>Prys a'r Pryfed - Pryfyn Rhewllyd</title>
 		<desc>Mae Lloyd, PB ac Abacus yn ffeindio pryfyn wedi rhewi mewn ciwb iâ. Diferyn o gownter y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gnfkp1.jpg" />
