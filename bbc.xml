@@ -772,8 +772,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08vxwy6.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250502213000 +0000" stop="20250502215800 +0000">
-		<title>Newsnight - 02/05/2025</title>
-		<desc>Insights and global interviews on news stories of the day. Presented by Paddy O’Connell.</desc>
+		<title>Newsnight - California Governor Gavin Newsom</title>
+		<desc>We ask California's Democratic governor Gavin Newsom if he would run for the White House.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250502215800 +0000" stop="20250502220000 +0000">
@@ -1671,10 +1671,15 @@
 		<desc>With Natalie Imbruglia, Embrace, Peter Andre, Toni Braxton, Michael Bolton, Pulp and Aqua.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l4yshg.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250502190000 +0000" stop="20250502210000 +0000">
+	<programme channel="bbcfour" start="20250502190000 +0000" stop="20250502203000 +0000">
 		<title>Snooker: World Championship - 2025: Day 14, Evening Session</title>
 		<desc>Semi-final action continues at Sheffield’s Crucible Theatre.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7y83c.jpg" />
+	</programme>
+	<programme channel="bbcfour" start="20250502203000 +0000" stop="20250502210000 +0000">
+		<title>Top of the Pops - 1987 - Big Hits</title>
+		<desc>With Rick Astley, New Order, Wet Wet Wet, Boy George, The Bee Gees and Iggy Pop.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06vzkdn.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250502210000 +0000" stop="20250502214500 +0000">
 		<title>Top of the Pops - 04/05/1978</title>
@@ -5055,27 +5060,27 @@
 		<desc>More from the day’s top stories and communities across Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdtr90.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250502183000 +0000" stop="20250502210000 +0000">
+	<programme channel="bbcscotland" start="20250502183000 +0000" stop="20250502213000 +0000">
 		<title>Sportscene - Championship Live 2024/25: Falkirk v Hamilton</title>
 		<desc>Live Championship football as Falkirk take on Hamilton.
 
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l61hz8.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250502210000 +0000" stop="20250502213000 +0000">
+	<programme channel="bbcscotland" start="20250502213000 +0000" stop="20250502220000 +0000">
 		<title>Still Game - Series 1: 1. Flittin</title>
 		<desc>Jack moves in with his best friend Victor when the old tenant dies.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08d1sxx.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250502213000 +0000" stop="20250502220000 +0000">
+	<programme channel="bbcscotland" start="20250502220000 +0000" stop="20250502223000 +0000">
 		<title>Sacked in the Morning - Series 2 - TV: 1. John Hartson</title>
 		<desc>John Hartson on his best manager, throwing sandwiches and playing for his country.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7msz8.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250502220000 +0000" stop="20250502230000 +0000">
-		<title>Pitch Invasion: How the Scottish and Irish Changed Football - Series 1: 1. Genius</title>
-		<desc>How players such as Best and Dalglish inspired England’s biggest football clubs.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h5yzx9.jpg" />
+	<programme channel="bbcscotland" start="20250502223000 +0000" stop="20250502230000 +0000">
+		<title>Growing Up Scottish - Series 2: 3. Sport and Books</title>
+		<desc>Scotland’s comedians look back at sport and books.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c6nrv0.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250502230000 +0000" stop="20250503050000 +0000">
 		<title>This is BBC Scotland - This is BBC Scotland</title>
@@ -5470,8 +5475,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250502213000 +0000" stop="20250502220000 +0000">
-		<title>Newsnight - 02/05/2025</title>
-		<desc>Insights and global interviews on news stories of the day. Presented by Paddy O’Connell.</desc>
+		<title>Newsnight - California Governor Gavin Newsom</title>
+		<desc>We ask California's Democratic governor Gavin Newsom if he would run for the White House.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250502220000 +0000" stop="20250502223000 +0000">
