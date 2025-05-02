@@ -44,7 +44,12 @@
 		<display-name>S4C</display-name>
 		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/65px-S4C_logo_2014.svg.png" />
 	</channel>
-	<programme channel="bbcone" start="20250502050000 +0000" stop="20250502083000 +0000">
+	<programme channel="bbcone" start="20250501221000 +0000" stop="20250502051500 +0000">
+		<title>Elections 2025 - Part 1</title>
+		<desc>Laura Kuenssberg is your guide as the results of the local elections begin to flood in.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l74ttc.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20250502051500 +0000" stop="20250502083000 +0000">
 		<title>Breakfast - 02/05/2025</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
@@ -5572,7 +5577,7 @@
 	<programme channel="bbcnews" start="20250503133000 +0000" stop="20250503140000 +0000">
 		<title>The Security Brief - 03/05/2025</title>
 		<desc>Sharp insight into the world's ongoing global conflicts with Mikey Kay.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50jbw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7trw8.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250503140000 +0000" stop="20250503143000 +0000">
 		<title>BBC News - 03/05/2025</title>
@@ -5692,7 +5697,7 @@
 	<programme channel="bbcnews" start="20250504023000 +0000" stop="20250504030000 +0000">
 		<title>The Security Brief - 03/05/2025</title>
 		<desc>Sharp insight into the world's ongoing global conflicts with Mikey Kay.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50jbw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7trw8.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250504030000 +0000" stop="20250504033000 +0000">
 		<title>BBC News - 04/05/2025</title>
@@ -5827,7 +5832,7 @@
 	<programme channel="bbcnews" start="20250504193000 +0000" stop="20250504200000 +0000">
 		<title>The Security Brief - 03/05/2025</title>
 		<desc>Sharp insight into the world's ongoing global conflicts with Mikey Kay.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50jbw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7trw8.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250504200000 +0000" stop="20250504210000 +0000">
 		<title>BBC News - 04/05/2025</title>
@@ -8364,12 +8369,12 @@
 		<desc>Cyfres animeiddiedig i blant yn dilyn anturiaethau Tib, Lalw a Bobl. An animated series...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05d0w8y.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506050500 +0000" stop="20250506052000 +0000">
+	<programme channel="s4c" start="20250506050500 +0000" stop="20250506051500 +0000">
 		<title>Digbi Draig - Cyfres 1: Digbi - nid Draig</title>
 		<desc>Mae Digbi yn poeni nad ydy e'n dda iawn am fod yn ddraig.  Dydy e ddim yn gallu hedfan ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04w3lk5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506052000 +0000" stop="20250506053000 +0000">
+	<programme channel="s4c" start="20250506051500 +0000" stop="20250506053000 +0000">
 		<title>Byd Tad-Cu - Cyfres 2: Pengwyniaid</title>
 		<desc>Pam bod pengwiniaid ddim yn gallu hedfan? Dyma cwestiwn Ela i Tad-cu heddiw. 'Why can't...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g0r0jt.jpg" />
@@ -8384,22 +8389,22 @@
 		<desc>Mae Cacamwnci yn ôl gyda mwy o sgetsys dwl a doniol! Cacamwnci is back, with Iestyn Yme...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05vqt69.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506060000 +0000" stop="20250506061000 +0000">
+	<programme channel="s4c" start="20250506060000 +0000" stop="20250506060500 +0000">
 		<title>Yr Whws - Cyfres 1: Gwenda Cyflym</title>
 		<desc>Mae Gelert yn credu ei fod wedi ffeindio malwen gyflyma'r byd! Iggy thinks he's found t...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l49x3x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506061000 +0000" stop="20250506062500 +0000">
+	<programme channel="s4c" start="20250506060500 +0000" stop="20250506062000 +0000">
 		<title>Sion y Chef - Cyfres 1: Trafferth y Tuk-Tuk</title>
 		<desc>Mae tuk tuk Magi'n rasio'n ddi-yrrwr drwy'r pentre', a Siôn yn ceisio ei ddal a diogelu...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p076hrfm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506062500 +0000" stop="20250506063500 +0000">
+	<programme channel="s4c" start="20250506062000 +0000" stop="20250506063000 +0000">
 		<title>Sam Tân - Cyfres 10: O Mam Fach!!!</title>
 		<desc>Mae Dilys ar ras yn ceisio cael Norman i'r Ganolfan Weithgareddau Mynydd er mwyn hedfan...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506063500 +0000" stop="20250506064500 +0000">
+	<programme channel="s4c" start="20250506063000 +0000" stop="20250506064500 +0000">
 		<title>Octonots - Cyfres 3: a Chimychiaid y Coed</title>
 		<desc>Mae storm ar y môr yn gorfodi Pegwn i lochesu ar ynys greigiog, ddirgel. A storm washes...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04p3ryj.jpg" />
@@ -8439,22 +8444,22 @@
 		<desc>Darllenwch gyda'r Tralalas yn y llyfrgell, ond peidiwch gwneud gormod o swn! Harmoni, M...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hr2z2q.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506080500 +0000" stop="20250506082000 +0000">
+	<programme channel="s4c" start="20250506080500 +0000" stop="20250506081500 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 1: Diolch o Galon</title>
 		<desc>Mae'n rhaid i Blero a'i ffrindiau gael calon Talfryn i guro'n gyflym er mwyn dathlu ei ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2nn2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506082000 +0000" stop="20250506083000 +0000">
+	<programme channel="s4c" start="20250506081500 +0000" stop="20250506082500 +0000">
 		<title>Jambori - Cyfres 2: Pennod 8</title>
 		<desc>Ymunwch â Jam ar daith llawn synau, cerddoriaeth a lluniau lliwgar - gyda hwyaid yn daw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x6yw7.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506083000 +0000" stop="20250506084500 +0000">
+	<programme channel="s4c" start="20250506082500 +0000" stop="20250506084000 +0000">
 		<title>Joni Jet - Cyfres 1: Arswyd yn yr Amgueddfa</title>
 		<desc>Mae Cwstenin Cranc yn torri mewn i'r amgueddfa i ddwyn delw dychrynllyd, yr un noson â ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506084500 +0000" stop="20250506090000 +0000">
+	<programme channel="s4c" start="20250506084000 +0000" stop="20250506090000 +0000">
 		<title>Dal Dy Ddannedd - Cyfres 1: Ysgol Tyle`r Ynn</title>
 		<desc>Timau o Ysgol Tyle`r Ynn sy'n ymuno â Pwdryn a Melys i chwarae llond trol o gemau lliwg...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hdf387.jpg" />
@@ -8489,17 +8494,17 @@
 		<desc>Mae Wini'n cyfarfod ag ystlumod mae hi eisiau chwarae â nhw, ond mae'r ystlumod yn hedf...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l49x3x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506101000 +0000" stop="20250506102500 +0000">
+	<programme channel="s4c" start="20250506101000 +0000" stop="20250506102000 +0000">
 		<title>Sion y Chef - Cyfres 1: Pi-po Pwdin</title>
 		<desc>Mae Siôn a'i ffrindiau'n ceisio eu gorau glas i guddio buwch rhag Magi. Siôn and his fr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p076hrfm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506102500 +0000" stop="20250506103500 +0000">
+	<programme channel="s4c" start="20250506102000 +0000" stop="20250506103000 +0000">
 		<title>Sam Tân - Cyfres 10: Cowbois Pontypandy!</title>
 		<desc>Anturiaethau Sam Tân a'i ffrindiau yn y pentre'. The adventures of Sam Tân and friends ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250506103500 +0000" stop="20250506104500 +0000">
+	<programme channel="s4c" start="20250506103000 +0000" stop="20250506104500 +0000">
 		<title>Octonots - Cyfres 3: a'r Crwbanod Môr Bach</title>
 		<desc>Wrth i grwbanod môr newydd-anedig anelu am y cefnfor, mae'n rhaid i'r Octonots eu hamdd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04n9vrz.jpg" />
