@@ -143,7 +143,7 @@
 	<programme channel="bbcone" start="20250503211000 +0000" stop="20250503212500 +0000">
 		<title>BBC Weekend News - Late News: 03/05/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l84lqv.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250503212500 +0000" stop="20250503213000 +0000">
 		<title>BBC Weather - 03/05/2025</title>
@@ -218,7 +218,7 @@
 	<programme channel="bbcone" start="20250504120000 +0000" stop="20250504145500 +0000">
 		<title>Snooker: World Championship - 2025: Day 16, Afternoon Session</title>
 		<desc>The 2025 final gets under way, with the first eight frames played this afternoon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l84mlh.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250504145500 +0000" stop="20250504152500 +0000">
 		<title>The Bidding Room - Series 2 (Compilations): Episode 8</title>
@@ -796,10 +796,15 @@
 		<desc>Hannah drives to the National Highways control centre for the UK’s busiest motorway.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l0xc03.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250503180000 +0000" stop="20250503210000 +0000">
+	<programme channel="bbctwo" start="20250503180000 +0000" stop="20250503203000 +0000">
 		<title>Snooker: World Championship - 2025: Day 15, Evening Session</title>
 		<desc>Seema Jaswal introduces live action from the Crucible Theatre in Sheffield.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l82cdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l84gnx.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250503203000 +0000" stop="20250503210000 +0000">
+		<title>Live at the Apollo - The One About...: 1. Relationships</title>
+		<desc>Classic routines about relationships from John Bishop, Sarah Millican, Phil Wang and more.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08nc114.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250503210000 +0000" stop="20250503225000 +0000">
 		<title>The Commitments</title>
@@ -884,7 +889,7 @@
 	<programme channel="bbctwo" start="20250504180000 +0000" stop="20250504210000 +0000">
 		<title>Snooker: World Championship - 2025: Day 16, Evening Session</title>
 		<desc>Hazel Irvine presents live coverage from the second session of the final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l84mlh.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250504210000 +0000" stop="20250504225000 +0000">
 		<title>Rush</title>
