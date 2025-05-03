@@ -79,12 +79,17 @@
 		<desc>Can shoppers in Brackley solve a mystery item in Natasha’s hands?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hgq700.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250503130000 +0000" stop="20250503153000 +0000">
-		<title>Snooker: World Championship - 2025: Day 15, Afternoon Session</title>
-		<desc>Semi-final action continues in Sheffield as the battle hots up for places in the final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+	<programme channel="bbcone" start="20250503130000 +0000" stop="20250503140000 +0000">
+		<title>Escape to the Country - Series 21 (Extended Versions): 6. Yorkshire Dales</title>
+		<desc>Jules Hudson helps a couple of keen horticulturalists find a home in the Yorkshire Dales.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0tw3g.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250503153000 +0000" stop="20250503162000 +0000">
+	<programme channel="bbcone" start="20250503140000 +0000" stop="20250503150000 +0000">
+		<title>Money for Nothing - Series 8 and 9 (Extended Versions): Episode 1</title>
+		<desc>Sarah Moore is scouring the recycling centre in Witley for unwanted items.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09krqrf.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20250503150000 +0000" stop="20250503162000 +0000">
 		<title>Final Score - 03/05/2025</title>
 		<desc>All the latest scores, results and reaction from the day’s football fixtures.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g71c5s.jpg" />
@@ -177,7 +182,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250504080000 +0000" stop="20250504090000 +0000">
 		<title>Sunday with Laura Kuenssberg - 04/05/2025</title>
-		<desc>Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+		<desc>Laura talks to Wes Streeting, Kemi Badenoch, Ed Davey, Zia Yusuf and Adrian Ramsay.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250504090000 +0000" stop="20250504093000 +0000">
@@ -759,7 +764,7 @@
 	<programme channel="bbctwo" start="20250503090000 +0000" stop="20250503113500 +0000">
 		<title>Snooker: World Championship - 2025: Day 15, Morning Session</title>
 		<desc>Semi-final action continues in Sheffield as the penultimate session is played.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5hc0y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l82k5x.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250503113500 +0000" stop="20250503123500 +0000">
 		<title>Marcus Wareing's Tales from a Kitchen Garden  - Series 1 Compilations: Episode 5</title>
@@ -5417,9 +5422,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250503123000 +0000" stop="20250503130000 +0000">
-		<title>AI Decoded - AI Transforming Travel</title>
-		<desc>AI Decoded explores the future of travel in the age of artificial intelligence.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7cfz3.jpg" />
+		<title>BBC News - 03/05/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250503130000 +0000" stop="20250503133000 +0000">
 		<title>BBC News - 03/05/2025</title>
@@ -5578,7 +5583,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250504080000 +0000" stop="20250504090000 +0000">
 		<title>Sunday with Laura Kuenssberg - 04/05/2025</title>
-		<desc>Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+		<desc>Laura talks to Wes Streeting, Kemi Badenoch, Ed Davey, Zia Yusuf and Adrian Ramsay.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250504090000 +0000" stop="20250504093000 +0000">
