@@ -138,7 +138,7 @@
 	<programme channel="bbcone" start="20250504210000 +0000" stop="20250504212500 +0000">
 		<title>BBC Weekend News - Late News: 04/05/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l88gbz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250504212500 +0000" stop="20250504213000 +0000">
 		<title>BBC London - Late News: 04/05/2025</title>
@@ -763,10 +763,15 @@
 		<desc>Steve and his team of explorers head to Greenland in the Arctic.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxzcvl.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250504180000 +0000" stop="20250504210000 +0000">
+	<programme channel="bbctwo" start="20250504180000 +0000" stop="20250504205000 +0000">
 		<title>Snooker: World Championship - 2025: Day 16, Evening Session</title>
 		<desc>Hazel Irvine presents live coverage from the second session of the final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l84mlh.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l88ddz.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250504205000 +0000" stop="20250504210000 +0000">
+		<title>Live at the Apollo - Series 15 - Bites: Episode 1</title>
+		<desc>Featuring Kiri Pritchard-McLean, Stephen Bailey and Desiree Burch.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06tz771.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250504210000 +0000" stop="20250504225000 +0000">
 		<title>Rush</title>
