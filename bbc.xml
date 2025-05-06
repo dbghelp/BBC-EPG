@@ -684,7 +684,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250510193500 +0000" stop="20250510202000 +0000">
 		<title>Pointless Celebrities - Series 17: Comedy Special</title>
-		<desc>The celebrities include Geoff Norcott, Nina Benjamin, Danny John-Jules and Olivia Lee.</desc>
+		<desc>The celebrities include Geoff Norcott, Ninia Benjamin, Danny John-Jules and Olivia Lee.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0955xrz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250510202000 +0000" stop="20250510211000 +0000">
@@ -1695,7 +1695,7 @@
 	<programme channel="bbcthree" start="20250509224000 +0000" stop="20250509232000 +0000">
 		<title>Bikes! - 2025: North West 200 Part 1</title>
 		<desc>Highlights from the first day of racing at the North West 200, presented by Stephen Watson</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lypft.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l8lst9.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250509232000 +0000" stop="20250510002000 +0000">
 		<title>Glow Up: Britain's Next Make-Up Star - Series 7: Episode 2</title>
@@ -6764,7 +6764,7 @@
 	<programme channel="bbcparliament" start="20250506043500 +0000" stop="20250506052500 +0000">
 		<title>House of Commons - Energy Grid Resilience Statement</title>
 		<desc>Statement on UK energy grid resilience, with the energy minister Michael Shanks.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l8l66s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250506052500 +0000" stop="20250506055500 +0000">
 		<title>House of Commons - Energy Prices Urgent Question</title>
@@ -6866,15 +6866,30 @@
 		<desc>Debate on a motion to approve new rules on genetic technology, on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250507060000 +0000" stop="20250507070000 +0000">
+	<programme channel="bbcparliament" start="20250507060000 +0000" stop="20250507071000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250507070000 +0000" stop="20250507090000 +0000">
-		<title>House of Commons - 06/05/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 6 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250507071000 +0000" stop="20250507075500 +0000">
+		<title>Lords Questions - 06/05/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Tuesday 6 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250507075500 +0000" stop="20250507080500 +0000">
+		<title>House of Lords - Energy Prices Statement</title>
+		<desc>Statement on reducing energy prices for energy-intensive industries, on Tuesday 6 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250507080500 +0000" stop="20250507085500 +0000">
+		<title>Welsh First Minister's Questions - 06/05/2025</title>
+		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 6 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250507085500 +0000" stop="20250507090000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250507090000 +0000" stop="20250507103000 +0000">
 		<title>Select Committees - Culture, Media and Sport Select Committee</title>
