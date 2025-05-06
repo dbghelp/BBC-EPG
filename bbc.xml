@@ -823,9 +823,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kzm8xq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250506213000 +0000" stop="20250506215800 +0000">
-		<title>Newsnight - 06/05/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - India Strikes Pakistan</title>
+		<desc>The latest on the breaking news that India has launched strikes on targets in Pakistan.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l8mppp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250506215800 +0000" stop="20250506220000 +0000">
 		<title>BBC Weather - 06/05/2025</title>
@@ -1158,8 +1158,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250509113000 +0000" stop="20250509120000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 2: 09/05/2025</title>
-		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
+		<title>Political Thinking with Nick Robinson - Series 2: 1. The Joe Biden One</title>
+		<desc>Former president Joe Biden sits down with Nick Robinson for an exclusive interview.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09vm10f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250509120000 +0000" stop="20250509124500 +0000">
@@ -5697,9 +5697,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250506213000 +0000" stop="20250506220000 +0000">
-		<title>Newsnight - 06/05/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>BBC News - 06/05/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250506220000 +0000" stop="20250506230000 +0000">
 		<title>BBC World News America - 06/05/2025</title>
@@ -5712,8 +5712,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250506233000 +0000" stop="20250507000000 +0000">
-		<title>Newscast - 06/05/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Why Have Modi and Starmer Agreed a UK-India Trade Deal Now?</title>
+		<desc>The UK and India have agreed a trade deal. Will it make goods cheaper for UK consumers?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250507000000 +0000" stop="20250507003000 +0000">
@@ -6697,8 +6697,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250510223000 +0000" stop="20250510230000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 2: 09/05/2025</title>
-		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
+		<title>Political Thinking with Nick Robinson - Series 2: 1. The Joe Biden One</title>
+		<desc>Former president Joe Biden sits down with Nick Robinson for an exclusive interview.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09vm10f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250510230000 +0000" stop="20250510233000 +0000">
@@ -6821,50 +6821,55 @@
 		<desc>Statement on the situation in the Middle East, from Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250506173000 +0000" stop="20250506213000 +0000">
+	<programme channel="bbcparliament" start="20250506173000 +0000" stop="20250506212000 +0000">
 		<title>House of Commons - 06/05/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250506213000 +0000" stop="20250506222000 +0000">
+	<programme channel="bbcparliament" start="20250506212000 +0000" stop="20250506221000 +0000">
 		<title>Welsh First Minister's Questions - 06/05/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250506222000 +0000" stop="20250506230500 +0000">
+	<programme channel="bbcparliament" start="20250506221000 +0000" stop="20250506225500 +0000">
 		<title>Lords Questions - 06/05/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250506230500 +0000" stop="20250506231500 +0000">
+	<programme channel="bbcparliament" start="20250506225500 +0000" stop="20250506230500 +0000">
 		<title>House of Lords - Energy Prices Statement</title>
 		<desc>Statement on reducing energy prices for energy-intensive industries, on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250506231500 +0000" stop="20250506235500 +0000">
+	<programme channel="bbcparliament" start="20250506230500 +0000" stop="20250506234000 +0000">
 		<title>House of Lords - UK Energy Grid Resilience Statement</title>
 		<desc>Statement by energy minister Lord Hunt of Kings Heath on UK energy grid resilience.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250506235500 +0000" stop="20250507015500 +0000">
+	<programme channel="bbcparliament" start="20250506234000 +0000" stop="20250507012500 +0000">
 		<title>House of Lords - Renters' Rights Bill, Part 1</title>
 		<desc>The fourth day of the committee stage of the Renters' Rights Bill, on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250507015500 +0000" stop="20250507035500 +0000">
+	<programme channel="bbcparliament" start="20250507012500 +0000" stop="20250507031000 +0000">
 		<title>House of Lords - Renters' Rights Bill, Part 2</title>
 		<desc>The fourth day of the committee stage of the Renters' Rights Bill, on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250507035500 +0000" stop="20250507045500 +0000">
+	<programme channel="bbcparliament" start="20250507031000 +0000" stop="20250507040000 +0000">
 		<title>House of Lords - Renters' Rights Bill, Part 3</title>
 		<desc>The fourth day of the committee stage of the Renters' Rights Bill, on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250507045500 +0000" stop="20250507060000 +0000">
+	<programme channel="bbcparliament" start="20250507040000 +0000" stop="20250507054000 +0000">
 		<title>House of Lords - Genetic Technology Motion</title>
 		<desc>Debate on a motion to approve new rules on genetic technology, on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250507054000 +0000" stop="20250507060000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250507060000 +0000" stop="20250507071000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
