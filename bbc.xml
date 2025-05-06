@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20250506083000 +0000" stop="20250506094500 +0000">
 		<title>Morning Live - Series 7: 06/05/2025</title>
 		<desc>Gethin Jones and Michelle Ackerley discuss inbox scams, interest rates and pneumonia.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l8k690.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250506094500 +0000" stop="20250506101500 +0000">
 		<title>Dr Xand's Con or Cure - Series 2: Episode 1</title>
@@ -117,7 +117,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250506170000 +0000" stop="20250506173000 +0000">
 		<title>BBC News at Six - 06/05/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>The trade deal agreed between the UK and India and what it will mean for consumers. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250506173000 +0000" stop="20250506180000 +0000">
@@ -148,7 +148,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250506210000 +0000" stop="20250506213000 +0000">
 		<title>BBC News at Ten - 06/05/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>The latest national and international news from the BBC. Presented by Fiona Bruce.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250506213000 +0000" stop="20250506214000 +0000">
@@ -1340,7 +1340,7 @@
 	<programme channel="bbctwo" start="20250510111500 +0000" stop="20250510135000 +0000">
 		<title>Women's Super League - 2024/25: 10/05/2025</title>
 		<desc>Live coverage of a match from the Women's Super League.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ghwzph.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l8kr44.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250510135000 +0000" stop="20250510153500 +0000">
 		<title>High Society</title>
@@ -1419,7 +1419,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250506194800 +0000" stop="20250506195000 +0000">
 		<title>The Catch Up - 06/05/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Charlie Jones.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250506195000 +0000" stop="20250506200000 +0000">
@@ -5275,9 +5275,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7kbz6.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250506220000 +0000" stop="20250506223000 +0000">
-		<title>Scotcast - 06/05/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Election 2026 Predictions</title>
+		<desc>Bernard Ponsonby and Andy Maciver predict the outcome of the Holyrood election next year.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l8ktyf.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250506223000 +0000" stop="20250506230000 +0000">
 		<title>Anton Danyluk on Body Shame</title>
@@ -5653,7 +5653,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250506170000 +0000" stop="20250506173000 +0000">
 		<title>BBC News at Six - 06/05/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>The trade deal agreed between the UK and India and what it will mean for consumers. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250506173000 +0000" stop="20250506180000 +0000">
@@ -5693,7 +5693,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250506210000 +0000" stop="20250506213000 +0000">
 		<title>BBC News at Ten - 06/05/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>The latest national and international news from the BBC. Presented by Fiona Bruce.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250506213000 +0000" stop="20250506220000 +0000">
@@ -6806,7 +6806,22 @@
 		<desc>Coverage of questions to Wes Streeting on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250506143000 +0000" stop="20250506213000 +0000">
+	<programme channel="bbcparliament" start="20250506143000 +0000" stop="20250506153000 +0000">
+		<title>House of Commons - Counter-Terrorism Arrests Statement</title>
+		<desc>Statement on the counter-terrorism policing arrests on 3 May, from Tuesday 6 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250506153000 +0000" stop="20250506163000 +0000">
+		<title>House of Commons - Trade Negotiations Statement</title>
+		<desc>Statement by trade policy minister Douglas Alexander on trade negotiations.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250506163000 +0000" stop="20250506173000 +0000">
+		<title>House of Commons - Middle East Statement</title>
+		<desc>Statement on the situation in the Middle East, from Tuesday 6 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250506173000 +0000" stop="20250506213000 +0000">
 		<title>House of Commons - 06/05/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6821,9 +6836,34 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250506230500 +0000" stop="20250507060000 +0000">
-		<title>House of Lords - 06/05/2025</title>
-		<desc>Business in the House of Lords on Tuesday 6 May.</desc>
+	<programme channel="bbcparliament" start="20250506230500 +0000" stop="20250506231500 +0000">
+		<title>House of Lords - Energy Prices Statement</title>
+		<desc>Statement on reducing energy prices for energy-intensive industries, on Tuesday 6 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250506231500 +0000" stop="20250506235500 +0000">
+		<title>House of Lords - UK Energy Grid Resilience Statement</title>
+		<desc>Statement by energy minister Lord Hunt of Kings Heath on UK energy grid resilience.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250506235500 +0000" stop="20250507015500 +0000">
+		<title>House of Lords - Renters' Rights Bill, Part 1</title>
+		<desc>The fourth day of the committee stage of the Renters' Rights Bill, on Tuesday 6 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250507015500 +0000" stop="20250507035500 +0000">
+		<title>House of Lords - Renters' Rights Bill, Part 2</title>
+		<desc>The fourth day of the committee stage of the Renters' Rights Bill, on Tuesday 6 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250507035500 +0000" stop="20250507045500 +0000">
+		<title>House of Lords - Renters' Rights Bill, Part 3</title>
+		<desc>The fourth day of the committee stage of the Renters' Rights Bill, on Tuesday 6 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250507045500 +0000" stop="20250507060000 +0000">
+		<title>House of Lords - Genetic Technology Motion</title>
+		<desc>Debate on a motion to approve new rules on genetic technology, on Tuesday 6 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250507060000 +0000" stop="20250507070000 +0000">
@@ -8789,12 +8829,12 @@
 	<programme channel="s4c" start="20250509200000 +0000" stop="20250509202000 +0000">
 		<title>Strip - Cyfres 1: Pennod 3</title>
 		<desc>Mae Katya ar fin ymuno gyda Nancy's Girls; yn gyntaf mae'n rhaid iddi ddysgu gan goreuo...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7jsfs.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l8jh2w.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250509202000 +0000" stop="20250509203500 +0000">
 		<title>Strip - Cyfres 1: Pennod 4</title>
 		<desc>Mae un o glybiau nos mwyaf Gogledd Cymru wedi sylwi ar ymgyrch cyfryngau cymdeithasol R...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7jy3f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l8k2jh.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250509203500 +0000" stop="20250509213500 +0000">
 		<title>Y Llinell Las - Cyfres 4: Dilyn Dy Drwyn</title>
@@ -8939,7 +8979,7 @@
 	<programme channel="s4c" start="20250510222000 +0000" stop="20250510224000 +0000">
 		<title>Strip - Cyfres 1: Pennod 4</title>
 		<desc>Mae un o glybiau nos mwyaf Gogledd Cymru wedi sylwi ar ymgyrch cyfryngau cymdeithasol R...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7jy3f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l8k2jh.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250510224000 +0000" stop="20250511050000 +0000">
 		<title>Watch Live</title>
