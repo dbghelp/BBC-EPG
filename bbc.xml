@@ -5555,15 +5555,10 @@
 		<desc>Tensions escalate as Pakistan vows to respond to Indian strikes. With Christian Fraser.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250507173000 +0000" stop="20250507183000 +0000">
+	<programme channel="bbcnews" start="20250507173000 +0000" stop="20250507190000 +0000">
 		<title>BBC News - 07/05/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250507183000 +0000" stop="20250507190000 +0000">
-		<title>The World Today with Maryam Moshiri - 07/05/2025</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250507190000 +0000" stop="20250507193000 +0000">
 		<title>The Context - 07/05/2025</title>
@@ -5606,8 +5601,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250507233000 +0000" stop="20250508000000 +0000">
-		<title>Newscast - 07/05/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Could the India-Pakistan Conflict Escalate?</title>
+		<desc>Adam Fleming talks to the BBC’s international editor Jeremy Bowen about what’s happening.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gyf0ss.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250508000000 +0000" stop="20250508003000 +0000">
@@ -6371,7 +6366,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250511123000 +0000" stop="20250511130000 +0000">
-		<title>The Travel Show - 10/05/2025</title>
+		<title>The Travel Show - Selma and the South – Alabama</title>
 		<desc>How the civil rights movement is remembered in America's Deep South.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
 	</programme>
@@ -6625,35 +6620,50 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 7 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250507222000 +0000" stop="20250508002000 +0000">
+	<programme channel="bbcparliament" start="20250507222000 +0000" stop="20250507235000 +0000">
 		<title>House of Lords - Sentencing Guidelines Bill, Part 1</title>
 		<desc>Debate on the second reading of the Sentencing Guidelines (Pre-sentence Reports) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250508002000 +0000" stop="20250508022000 +0000">
+	<programme channel="bbcparliament" start="20250507235000 +0000" stop="20250508010000 +0000">
 		<title>House of Lords - Sentencing Guidelines Bill, Part 2</title>
 		<desc>Debate on the second reading of the Sentencing Guidelines (Pre-sentence Reports) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250508022000 +0000" stop="20250508030000 +0000">
+	<programme channel="bbcparliament" start="20250508010000 +0000" stop="20250508014000 +0000">
 		<title>House of Lords - Middle East Statement</title>
 		<desc>Statement by foreign office minister Lord Collins of Highbury on the Middle East.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250508030000 +0000" stop="20250508034000 +0000">
+	<programme channel="bbcparliament" start="20250508014000 +0000" stop="20250508021500 +0000">
 		<title>House of Lords - India and Pakistan Statement</title>
 		<desc>Statement by foreign office minister Lord Collins of Highbury on India and Pakistan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250508034000 +0000" stop="20250508042000 +0000">
+	<programme channel="bbcparliament" start="20250508021500 +0000" stop="20250508024500 +0000">
 		<title>House of Lords - Counter Terror Arrests</title>
 		<desc>Statement on counter terror policing arrests over the weekend, on Wednesday 7 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250508042000 +0000" stop="20250508060000 +0000">
+	<programme channel="bbcparliament" start="20250508024500 +0000" stop="20250508041000 +0000">
 		<title>House of Lords - Antisemitism on University Campuses</title>
 		<desc>Debate on steps taken to eliminate antisemitism on university campuses on Wednesday 7 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250508041000 +0000" stop="20250508045500 +0000">
+		<title>House of Lords - Middle East Statement</title>
+		<desc>Statement by foreign office minister Lord Collins of Highbury on the Middle East.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250508045500 +0000" stop="20250508055000 +0000">
+		<title>House of Commons - India and Pakistan Statement</title>
+		<desc>Statement on the escalation between India and Pakistan, on Wednesday 7 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l8v0dv.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250508055000 +0000" stop="20250508060000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250508060000 +0000" stop="20250508062500 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
@@ -6758,7 +6768,7 @@
 	<programme channel="bbcparliament" start="20250510000000 +0000" stop="20250510005000 +0000">
 		<title>Welsh First Minister's Questions - 06/05/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 6 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l8ttpp.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250510005000 +0000" stop="20250510033000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - 09/05/2025</title>
