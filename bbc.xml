@@ -1713,7 +1713,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250517190000 +0000" stop="20250517193000 +0000">
 		<title>Doctor Who: Unleashed - Season 2: 6. The Interstellar Song Contest</title>
-		<desc>Go behind the scenes of the Time Lord's adventures.</desc>
+		<desc>Get ready! It's the making of The Interstellar Song Contest!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l3ckl1.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250517193000 +0000" stop="20250517200000 +0000">
@@ -5274,9 +5274,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7ny95.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250513220000 +0000" stop="20250513223000 +0000">
-		<title>Scotcast - 13/05/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Assisted dying vote</title>
+		<desc>Reaction as MSPs vote on plans to allow assisted dying for terminally ill adults.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l9ypws.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250513223000 +0000" stop="20250513230000 +0000">
 		<title>Martin Compston's Scottish Fling - Series 1: 2. Western Isles</title>
@@ -5604,9 +5604,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250513153000 +0000" stop="20250513154500 +0000">
-		<title>Business Today - 13/05/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+		<title>BBC News - 13/05/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250513154500 +0000" stop="20250513160000 +0000">
 		<title>Verified Live - 13/05/2025</title>
@@ -5625,7 +5625,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250513170000 +0000" stop="20250513173000 +0000">
 		<title>BBC News at Six - 13/05/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>A man who has spent more than 38 years in jail for a crime he didn't commit is freed.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250513173000 +0000" stop="20250513180000 +0000">
@@ -6661,7 +6661,7 @@
 	<programme channel="bbcparliament" start="20250513045500 +0000" stop="20250513060000 +0000">
 		<title>House of Lords - Renters' Rights Bill, Part 2</title>
 		<desc>Fifth day of committee stage debate on the Renters' Rights Bill, on Monday 12 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l9y8xv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250513060000 +0000" stop="20250513071000 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
@@ -6678,22 +6678,27 @@
 		<desc>Environment, Food and Rural Affairs committee session on reforming the water sector.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250513103000 +0000" stop="20250513113000 +0000">
+	<programme channel="bbcparliament" start="20250513103000 +0000" stop="20250513113500 +0000">
 		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
 		<desc>Coverage of questions to David Lammy on Tuesday 13 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l9yqc7.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250513113500 +0000" stop="20250513115500 +0000">
+		<title>House of Commons - Tributes to Sir Roy Stone</title>
+		<desc>The Speaker's statement on the death of Sir Roy Stone, on Tuesday 13 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250513113000 +0000" stop="20250513121500 +0000">
+	<programme channel="bbcparliament" start="20250513115500 +0000" stop="20250513124000 +0000">
 		<title>House of Commons - Mansion House Accord Urgent Question</title>
 		<desc>Debate on an urgent question on the Mansion House Accord, on Tuesday 13 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l9yr69.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250513121500 +0000" stop="20250513183000 +0000">
+	<programme channel="bbcparliament" start="20250513124000 +0000" stop="20250513180000 +0000">
 		<title>House of Commons - 13/05/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 13 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250513183000 +0000" stop="20250513210000 +0000">
+	<programme channel="bbcparliament" start="20250513180000 +0000" stop="20250513210000 +0000">
 		<title>House of Lords - 13/05/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Lords on Tuesday 13 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
@@ -6708,20 +6713,45 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 13 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250513223500 +0000" stop="20250514050000 +0000">
-		<title>House of Lords - 13/05/2025</title>
-		<desc>Business in the House of Lords on Tuesday 13 May.</desc>
+	<programme channel="bbcparliament" start="20250513223500 +0000" stop="20250513225000 +0000">
+		<title>House of Lords - Introductions</title>
+		<desc>The introductions of Lord Harper and Lord Massey of Hampstead, on Tuesday 13 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250514050000 +0000" stop="20250514060000 +0000">
+	<programme channel="bbcparliament" start="20250513225000 +0000" stop="20250513230000 +0000">
+		<title>House of Lords - Prison Officer Safety Statement</title>
+		<desc>Statement on the protection of prison staff from serious violence by high-risk inmates.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250513230000 +0000" stop="20250514010000 +0000">
+		<title>House of Lords - Employment Rights Bill, Part 1</title>
+		<desc>The third day of the committee stage of the Employment Rights Bill, on Tuesday 13 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250514010000 +0000" stop="20250514030000 +0000">
+		<title>House of Lords - Employment Rights Bill, Part 2</title>
+		<desc>The third day of the committee stage of the Employment Rights Bill, on Tuesday 13 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250514030000 +0000" stop="20250514040000 +0000">
+		<title>House of Lords - Employment Rights Bill, Part 3</title>
+		<desc>The third day of the committee stage of the Employment Rights Bill, on Tuesday 13 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250514040000 +0000" stop="20250514050000 +0000">
+		<title>House of Lords - Trade Negotiations Statement</title>
+		<desc>The statement on trade negotiations with India, on Tuesday 13 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250514050000 +0000" stop="20250514060500 +0000">
 		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
 		<desc>Coverage of questions to David Lammy on Tuesday 13 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250514060000 +0000" stop="20250514081500 +0000">
-		<title>House of Commons - 13/05/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 13 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250514060500 +0000" stop="20250514081500 +0000">
+		<title>Select Committees - Environment, Food and Rural Affairs Committee</title>
+		<desc>Environment, Food and Rural Affairs committee session on reforming the water sector.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250514081500 +0000" stop="20250514103000 +0000">
 		<title>Select Committees - Transport Committee on Bus Services</title>
@@ -7606,7 +7636,7 @@
 	</programme>
 	<programme channel="s4c" start="20250513130500 +0000" stop="20250513140000 +0000">
 		<title>Prynhawn Da - Tue, 13 May 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Dathlwn ddiwrnod y coctel gyda Owen Williams, agorwn ddrysau'r syrjeri gyda Dr Sherif, ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250513140000 +0000" stop="20250513140500 +0000">
@@ -7671,7 +7701,7 @@
 	</programme>
 	<programme channel="s4c" start="20250513180000 +0000" stop="20250513183000 +0000">
 		<title>Heno - Tue, 13 May 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae Efa Grug o Pobol Y Cwm yma, a byddwn yn dathlu penblwydd Tafarn yr Iorwerth yn 10 o...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250513183000 +0000" stop="20250513190000 +0000">
@@ -7876,7 +7906,7 @@
 	</programme>
 	<programme channel="s4c" start="20250514113000 +0000" stop="20250514120000 +0000">
 		<title>Heno - Tue, 13 May 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae Efa Grug o Pobol Y Cwm yma, a byddwn yn dathlu penblwydd Tafarn yr Iorwerth yn 10 o...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250514120000 +0000" stop="20250514123000 +0000">
@@ -8261,7 +8291,7 @@
 	</programme>
 	<programme channel="s4c" start="20250515173000 +0000" stop="20250515180000 +0000">
 		<title>Clwb Rygbi - Cyfres 2024: Pennod 17</title>
-		<desc>Uchafbwyntiau o'r gemau rygbi diweddaraf. Highlights of the latest rugby games.</desc>
+		<desc>Uchafbwyntiau rowndiau gyn-derfynol Super Rygbi Cymru: Glynebwy v Llanymddyfri a Caerdy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jrtg8q.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250515180000 +0000" stop="20250515183000 +0000">
