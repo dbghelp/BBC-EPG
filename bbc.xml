@@ -800,9 +800,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05lqc6v.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250519213000 +0000" stop="20250519215800 +0000">
-		<title>Newsnight - 19/05/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Starmer’s EU reset</title>
+		<desc>How radical is the PM's deal with the EU, and does he risk a backlash?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lc7yvc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250519215800 +0000" stop="20250519220000 +0000">
 		<title>BBC Weather - 19/05/2025</title>
@@ -5708,9 +5708,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250519213000 +0000" stop="20250519220000 +0000">
-		<title>Newsnight - 19/05/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Starmer’s EU reset</title>
+		<desc>How radical is the PM's deal with the EU, and does he risk a backlash?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lc7yvc.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250519220000 +0000" stop="20250519230000 +0000">
 		<title>BBC World News America - 19/05/2025</title>
@@ -5723,8 +5723,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250519233000 +0000" stop="20250520000000 +0000">
-		<title>Newscast - 20/05/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - What’s in the EU-UK post-Brexit deal?</title>
+		<desc>Adam and Chris go through the detail and sit down with chancellor Rachel Reeves.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250520000000 +0000" stop="20250520003000 +0000">
@@ -6717,28 +6717,38 @@
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 19 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250519213000 +0000" stop="20250519221500 +0000">
+	<programme channel="bbcparliament" start="20250519213000 +0000" stop="20250519221000 +0000">
 		<title>Northern Ireland Assembly - Communities Questions</title>
 		<desc>Questions to the communities minister Gordon Lyons, on Monday 19 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250519221500 +0000" stop="20250519230000 +0000">
+	<programme channel="bbcparliament" start="20250519221000 +0000" stop="20250519225500 +0000">
 		<title>Lords Questions - 19/05/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 19 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250519231000 +0000" stop="20250520001000 +0000">
+	<programme channel="bbcparliament" start="20250519225500 +0000" stop="20250519230500 +0000">
+		<title>House of Lords - Recalled Offenders Statement</title>
+		<desc>Statement on the plan to set a 28-day limit on prison sentences for recalled offenders.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250519230500 +0000" stop="20250520003500 +0000">
 		<title>House of Lords - Data (Use and Access) Bill</title>
 		<desc>Consideration of Commons amendments to the Data (Use and Access) Bill, on Monday 19 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250520001000 +0000" stop="20250520021000 +0000">
+	<programme channel="bbcparliament" start="20250520003500 +0000" stop="20250520022000 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 1</title>
 		<desc>The fourth day of the committee stage of the Employment Rights Bill, on Monday 19 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250520021000 +0000" stop="20250520041000 +0000">
+	<programme channel="bbcparliament" start="20250520022000 +0000" stop="20250520033000 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 2</title>
+		<desc>The fourth day of the committee stage of the Employment Rights Bill, on Monday 19 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250520033000 +0000" stop="20250520052500 +0000">
+		<title>House of Lords - Employment Rights Bill, Part 3</title>
 		<desc>The fourth day of the committee stage of the Employment Rights Bill, on Monday 19 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
