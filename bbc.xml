@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20250520083000 +0000" stop="20250520094500 +0000">
 		<title>Morning Live - Series 7: 20/05/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>Gethin Jones and Helen Skelton discuss medical scams with Rav Wilding.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcbls7.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250520094500 +0000" stop="20250520101500 +0000">
 		<title>Dr Xand's Con or Cure - Series 2: Episode 12</title>
@@ -123,7 +123,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250520180000 +0000" stop="20250520183000 +0000">
 		<title>The One Show - 20/05/2025</title>
-		<desc>Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+		<desc>Jackie Chan, Ralph Macchio, Ben Wang and Jools Holland join Alex Jones and Clara Amfo.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250520183000 +0000" stop="20250520190000 +0000">
@@ -180,7 +180,7 @@
 	<programme channel="bbcone" start="20250521083000 +0000" stop="20250521094500 +0000">
 		<title>Morning Live - Series 7: 21/05/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcbls7.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250521094500 +0000" stop="20250521101500 +0000">
 		<title>Dr Xand's Con or Cure - Series 2: Episode 13</title>
@@ -308,7 +308,7 @@
 	<programme channel="bbcone" start="20250522083000 +0000" stop="20250522094500 +0000">
 		<title>Morning Live - Series 7: 22/05/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcbls7.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250522094500 +0000" stop="20250522101500 +0000">
 		<title>Dr Xand's Con or Cure - Series 2: Episode 14</title>
@@ -441,7 +441,7 @@
 	<programme channel="bbcone" start="20250523083000 +0000" stop="20250523094500 +0000">
 		<title>Morning Live - Series 7: 23/05/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcbls7.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250523094500 +0000" stop="20250523101500 +0000">
 		<title>Dr Xand's Con or Cure - Series 2: Episode 15</title>
@@ -2135,7 +2135,7 @@
 	</programme>
 	<programme channel="bbcfour" start="20250524204500 +0000" stop="20250524211500 +0000">
 		<title>Bob Servant - Independent: 2. A Local Man</title>
-		<desc>The by-election favourite Nick Edwards arrives and Bob is determined to derail him.</desc>
+		<desc>The by-election favourite Nick Edwards arrives, and Bob is determined to derail him.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09629ch.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250524211500 +0000" stop="20250524214500 +0000">
@@ -6633,7 +6633,7 @@
 	<programme channel="bbcparliament" start="20250520070000 +0000" stop="20250520081000 +0000">
 		<title>House of Commons - Defence Questions</title>
 		<desc>Coverage of questions to John Healey on Monday 19 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcblsk.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250520081000 +0000" stop="20250520090000 +0000">
 		<title>Northern Ireland Assembly - Finance Questions</title>
@@ -6650,7 +6650,17 @@
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 20 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250520113000 +0000" stop="20250520183000 +0000">
+	<programme channel="bbcparliament" start="20250520113000 +0000" stop="20250520123000 +0000">
+		<title>House of Commons - UK-EU Summit Statement</title>
+		<desc>A statement on the recent UK-EU summit and the subsequent deal with the EU, on 20 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcbrqb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250520123000 +0000" stop="20250520133000 +0000">
+		<title>House of Commons - Israel and the Occupied Palestinian Territories Statement</title>
+		<desc>A statement updating MPs on Israel's 'renewed military offensive' into Gaza.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250520133000 +0000" stop="20250520183000 +0000">
 		<title>House of Commons - 20/05/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 20 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6918,7 +6928,7 @@
 	<programme channel="bbcparliament" start="20250525013000 +0000" stop="20250525023000 +0000">
 		<title>House of Commons - Defence Questions</title>
 		<desc>Coverage of questions to John Healey on Monday 19 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcblsk.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250525023000 +0000" stop="20250525033000 +0000">
 		<title>House of Commons - Treasury Questions</title>
