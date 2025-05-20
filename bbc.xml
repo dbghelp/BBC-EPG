@@ -819,9 +819,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kzmb48.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250520213000 +0000" stop="20250520215800 +0000">
-		<title>Newsnight - 20/05/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Rees-Mogg: time for a Tory-Reform pact</title>
+		<desc>Sir Jacob Rees-Mogg says it is time for the Tories to make an electoral pact with Reform.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcfy3q.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250520215800 +0000" stop="20250520220000 +0000">
 		<title>BBC Weather - 20/05/2025</title>
@@ -5691,9 +5691,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250520213000 +0000" stop="20250520220000 +0000">
-		<title>Newsnight - 20/05/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Rees-Mogg: time for a Tory-Reform pact</title>
+		<desc>Sir Jacob Rees-Mogg says it is time for the Tories to make an electoral pact with Reform.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcfy3q.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250520220000 +0000" stop="20250520230000 +0000">
 		<title>BBC World News America - 20/05/2025</title>
@@ -5706,8 +5706,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250520233000 +0000" stop="20250521000000 +0000">
-		<title>Newscast - 21/05/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - UK, France and Canada threaten Israel with sanctions; will Netanyahu listen?</title>
+		<desc>The foreign secretary suspends trade negotiations with Israel over its blockade of Gaza.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250521000000 +0000" stop="20250521003000 +0000">
@@ -6638,7 +6638,7 @@
 	<programme channel="bbcparliament" start="20250520081000 +0000" stop="20250520090000 +0000">
 		<title>Northern Ireland Assembly - Finance Questions</title>
 		<desc>Questions to finance minister John O'Dowd, on Monday 19 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcfrfj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250520090000 +0000" stop="20250520103000 +0000">
 		<title>Select Committees - Treasury Committee on Banks and Building Societies</title>
@@ -6648,7 +6648,7 @@
 	<programme channel="bbcparliament" start="20250520103000 +0000" stop="20250520113000 +0000">
 		<title>House of Commons - Treasury Questions</title>
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 20 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcfscf.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250520113000 +0000" stop="20250520123000 +0000">
 		<title>House of Commons - UK-EU Summit Statement</title>
@@ -6658,57 +6658,72 @@
 	<programme channel="bbcparliament" start="20250520123000 +0000" stop="20250520133000 +0000">
 		<title>House of Commons - Israel and the Occupied Palestinian Territories Statement</title>
 		<desc>A statement updating MPs on Israel's 'renewed military offensive' into Gaza.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcfqy5.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250520133000 +0000" stop="20250520183000 +0000">
 		<title>House of Commons - 20/05/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 20 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcftb1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250520183000 +0000" stop="20250520210000 +0000">
+	<programme channel="bbcparliament" start="20250520183000 +0000" stop="20250520205000 +0000">
 		<title>House of Lords - 20/05/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Lords on Tuesday 20 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250520210000 +0000" stop="20250520215000 +0000">
+	<programme channel="bbcparliament" start="20250520205000 +0000" stop="20250520210000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250520210000 +0000" stop="20250520215500 +0000">
 		<title>Welsh First Minister's Questions - 20/05/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 20 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250520215000 +0000" stop="20250520223500 +0000">
+	<programme channel="bbcparliament" start="20250520215500 +0000" stop="20250520223500 +0000">
 		<title>Lords Questions - 20/05/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 20 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250520223500 +0000" stop="20250520224500 +0000">
+	<programme channel="bbcparliament" start="20250520223500 +0000" stop="20250520225000 +0000">
 		<title>House of Lords - NHS Volunteer and Care Service Statement</title>
 		<desc>Statement by health minister Baroness Merron on the NHS Volunteer and Care Scheme.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250520224500 +0000" stop="20250521004500 +0000">
+	<programme channel="bbcparliament" start="20250520225000 +0000" stop="20250521004500 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 1</title>
 		<desc>The first day of the committee stage of the Children's Wellbeing and Schools Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250521004500 +0000" stop="20250521024500 +0000">
+	<programme channel="bbcparliament" start="20250521004500 +0000" stop="20250521021500 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 2</title>
 		<desc>The first day of the committee stage of the Children's Wellbeing and Schools Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250521024500 +0000" stop="20250521044500 +0000">
+	<programme channel="bbcparliament" start="20250521021500 +0000" stop="20250521040500 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 3</title>
 		<desc>The first day of the committee stage of the Children's Wellbeing and Schools Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250521044500 +0000" stop="20250521053000 +0000">
-		<title>House of Lords - Legal Aid Agency Hack Statement</title>
-		<desc>Statement on the cybersecurity incident at the Legal Aid Agency, on Tuesday 20 May.</desc>
+	<programme channel="bbcparliament" start="20250521040500 +0000" stop="20250521043000 +0000">
+		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 4</title>
+		<desc>Business in the House of Lords on Tuesday 20 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250521045000 +0000" stop="20250521045500 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250521045500 +0000" stop="20250521053000 +0000">
+		<title>House of Commons - Legal Aid Agency Statement</title>
+		<desc>Statement on the cybersecurity incident at the Legal Aid Agency, on Monday 19 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcblbw.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250521053000 +0000" stop="20250521063500 +0000">
 		<title>House of Commons - Treasury Questions</title>
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 20 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcfscf.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250521063500 +0000" stop="20250521082500 +0000">
 		<title>House of Commons - UK-EU Summit Statement</title>
@@ -6878,7 +6893,7 @@
 	<programme channel="bbcparliament" start="20250524041500 +0000" stop="20250524050000 +0000">
 		<title>Northern Ireland Assembly - Finance Questions</title>
 		<desc>Questions to finance minister John O'Dowd, on Monday 19 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcfrfj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250524050000 +0000" stop="20250524100000 +0000">
 		<title>Westminster Hall - 20/05/2025</title>
@@ -6958,7 +6973,7 @@
 	<programme channel="bbcparliament" start="20250525023000 +0000" stop="20250525033000 +0000">
 		<title>House of Commons - Treasury Questions</title>
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 20 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcfscf.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250525033000 +0000" stop="20250525040000 +0000">
 		<title>House of Commons - Northern Ireland Office Questions</title>
