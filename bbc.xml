@@ -5576,20 +5576,10 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250521163000 +0000" stop="20250521170000 +0000">
+	<programme channel="bbcnews" start="20250521163000 +0000" stop="20250521180000 +0000">
 		<title>BBC News - 21/05/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250521170000 +0000" stop="20250521173000 +0000">
-		<title>BBC News at Six - 21/05/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250521173000 +0000" stop="20250521180000 +0000">
-		<title>Sportsday - 21/05/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250521180000 +0000" stop="20250521183000 +0000">
 		<title>The World Today with Maryam Moshiri - 21/05/2025</title>
@@ -6641,10 +6631,15 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 21 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcjn5v.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250522060500 +0000" stop="20250522083000 +0000">
-		<title>House of Commons - 21/05/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 21 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250522060500 +0000" stop="20250522074500 +0000">
+		<title>House of Commons - Israel and the Occupied Palestinian Territories Statement</title>
+		<desc>A statement updating MPs on Israel's 'renewed military offensive' into Gaza.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcfqy5.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250522074500 +0000" stop="20250522083000 +0000">
+		<title>Lords Questions - 21/05/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Wednesday 21 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250522083000 +0000" stop="20250522091000 +0000">
 		<title>House of Commons - Culture, Media and Sport Questions</title>
