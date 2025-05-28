@@ -112,7 +112,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250528170000 +0000" stop="20250528173000 +0000">
 		<title>BBC News at Six - 28/05/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>President Trump says it'll be clear in the next week if Russia wants to end the war.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250528173000 +0000" stop="20250528180000 +0000">
@@ -143,7 +143,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250528210000 +0000" stop="20250528213000 +0000">
 		<title>BBC News at Ten - 28/05/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>President Trump says it'll be clear in the next week if Russia wants to end the war. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250528213000 +0000" stop="20250528214000 +0000">
@@ -839,7 +839,7 @@
 	<programme channel="bbctwo" start="20250528220000 +0000" stop="20250528223000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 28/05/2025</title>
 		<desc>Will criticism from within Israel force Netanyahu’s government to change its approach?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ldyslr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ldzbxn.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250528223000 +0000" stop="20250528233000 +0000">
 		<title>Implosion: The Titanic Sub Disaster</title>
@@ -1840,7 +1840,7 @@
 	</programme>
 	<programme channel="bbcfour" start="20250528214500 +0000" stop="20250528223000 +0000">
 		<title>Sense and Sensibility (1971) - Series 1: 2. A Parting and a Journey</title>
-		<desc>Colonel Brandon's picnic is cancelled at the last moment. </desc>
+		<desc>Colonel Brandon's picnic is cancelled at the last moment.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lc5bnj.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250528223000 +0000" stop="20250528231500 +0000">
@@ -5559,13 +5559,13 @@
 	</programme>
 	<programme channel="bbcnews" start="20250528170000 +0000" stop="20250528173000 +0000">
 		<title>BBC News at Six - 28/05/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>President Trump says it'll be clear in the next week if Russia wants to end the war.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250528173000 +0000" stop="20250528180000 +0000">
-		<title>Sportsday - 28/05/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
+		<title>BBC News - 28/05/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250528180000 +0000" stop="20250528183000 +0000">
 		<title>The World Today with Maryam Moshiri - 28/05/2025</title>
@@ -5599,7 +5599,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250528210000 +0000" stop="20250528213000 +0000">
 		<title>BBC News at Ten - 28/05/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
+		<desc>President Trump says it'll be clear in the next week if Russia wants to end the war. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250528213000 +0000" stop="20250528220000 +0000">
@@ -6542,65 +6542,75 @@
 		<desc>The Net Zero, Energy and Transport committee in the Scottish Parliament on Tuesday 27 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ldrd0r.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250528130000 +0000" stop="20250528160000 +0000">
+	<programme channel="bbcparliament" start="20250528130000 +0000" stop="20250528161000 +0000">
 		<title>Scottish Parliament - 28/05/2025</title>
 		<desc>Coverage of proceedings in the Scottish Parliament on Wednesday 28 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250528160000 +0000" stop="20250528180500 +0000">
+	<programme channel="bbcparliament" start="20250528161000 +0000" stop="20250528182500 +0000">
 		<title>Scottish Parliament - Substance Misuse Committee</title>
 		<desc>Criminal Justice committee on the harm caused by substance misuse in Scottish Prisons.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250528180500 +0000" stop="20250528183000 +0000">
+	<programme channel="bbcparliament" start="20250528182500 +0000" stop="20250528184500 +0000">
 		<title>Scottish Parliament - Rural Affairs Questions</title>
 		<desc>Questions to rural affairs, land reform and islands ministers in the Scottish government.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250528183000 +0000" stop="20250528185500 +0000">
+	<programme channel="bbcparliament" start="20250528184500 +0000" stop="20250528191500 +0000">
 		<title>Scottish Parliament - Health and Social Care Questions</title>
 		<desc>Questions in Holyrood to health and social care ministers in the Scottish government.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250528185500 +0000" stop="20250528202500 +0000">
+	<programme channel="bbcparliament" start="20250528191500 +0000" stop="20250528202500 +0000">
 		<title>Scottish Parliament - Teaching Workforce Debate</title>
 		<desc>Scottish Liberal Democrats debate on 'A New Plan for Scotland's Teaching Workforce'.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250528202500 +0000" stop="20250528220000 +0000">
+	<programme channel="bbcparliament" start="20250528202500 +0000" stop="20250528213500 +0000">
 		<title>Scottish Parliament - Provision for Neurodevelopmental Conditions</title>
 		<desc>Debate on addressing the inadequate provision for neurodevelopmental conditions.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250528220000 +0000" stop="20250529000000 +0000">
+	<programme channel="bbcparliament" start="20250528213500 +0000" stop="20250528233500 +0000">
 		<title>Select Committees - Energy Security and Net Zero Committee</title>
 		<desc>The Energy Security and Net Zero committee on national planning for energy infrastructure.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250529000000 +0000" stop="20250529020000 +0000">
+	<programme channel="bbcparliament" start="20250528233500 +0000" stop="20250529013500 +0000">
 		<title>Select Committees - Human Rights Joint Committee on Transnational Repression</title>
 		<desc>Human Rights Joint committee on how transnational repression affects people in the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ldrdx7.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250529020000 +0000" stop="20250529033000 +0000">
+	<programme channel="bbcparliament" start="20250529013500 +0000" stop="20250529031000 +0000">
 		<title>Select Committees - Northern Ireland Affairs Committee on the Legacy of the Past</title>
 		<desc>Northern Ireland Affairs committee session on addressing the legacy of the past.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250529033000 +0000" stop="20250529050000 +0000">
+	<programme channel="bbcparliament" start="20250529031000 +0000" stop="20250529043500 +0000">
 		<title>Select Committees - Undersea Cables Committee</title>
 		<desc>Joint National Security Strategy committee session on undersea internet and power cables.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250529040000 +0000" stop="20250529070000 +0000">
-		<title>Scottish Parliament - 28/05/2025</title>
-		<desc>Coverage of proceedings in the Scottish Parliament on Wednesday 28 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	<programme channel="bbcparliament" start="20250529043500 +0000" stop="20250529050000 +0000">
+		<title>House of Commons - Commissioners Questions</title>
+		<desc>Coverage of Commissioners Questions in the House of Commons, on Thursday 22 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcxjfs.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250529070000 +0000" stop="20250529073500 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="bbcparliament" start="20250529050000 +0000" stop="20250529061000 +0000">
+		<title>Northern Ireland Assembly - Additional Funding Debate</title>
+		<desc>Debate on the Additional Funding mechanism for North South Bodies, from Tuesday 27 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250529061000 +0000" stop="20250529065500 +0000">
+		<title>Northern Ireland Assembly - Finance Questions</title>
+		<desc>Questions to finance minister John O'Dowd, on Monday 19 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lcfrfj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250529065500 +0000" stop="20250529073500 +0000">
+		<title>Northern Ireland Assembly - Communities Questions</title>
+		<desc>Questions to the communities minister Gordon Lyons, on Monday 19 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ldg7hv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250529073500 +0000" stop="20250529082500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
