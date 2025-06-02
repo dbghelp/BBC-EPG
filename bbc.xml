@@ -869,17 +869,17 @@
 		<desc>Will Shakespeare has invented an amazing new dramatic form: the greatest hits musical.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05f3g1d.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250602213000 +0000" stop="20250602221300 +0000">
-		<title>Newsnight - 02/06/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
+	<programme channel="bbctwo" start="20250602213000 +0000" stop="20250602221800 +0000">
+		<title>Newsnight - A Nation's Shame: Grooming Survivors Speak</title>
+		<desc>Survivors of abuse speak ahead of the release of a report on grooming and rape gangs.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfz3d0.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250602221300 +0000" stop="20250602221500 +0000">
+	<programme channel="bbctwo" start="20250602221800 +0000" stop="20250602222000 +0000">
 		<title>BBC Weather - 02/06/2025</title>
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250602221500 +0000" stop="20250603000000 +0000">
+	<programme channel="bbctwo" start="20250602222000 +0000" stop="20250603000000 +0000">
 		<title>On Chesil Beach</title>
 		<desc>Graduates from different social classes get married, but the honeymoon proves a challenge.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08hgqv1.jpg" />
@@ -5702,15 +5702,10 @@
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250602183000 +0000" stop="20250602185500 +0000">
+	<programme channel="bbcnews" start="20250602183000 +0000" stop="20250602190000 +0000">
 		<title>The World Today with Maryam Moshiri - 02/06/2025</title>
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250602185500 +0000" stop="20250602190000 +0000">
-		<title>Tech Now - 02/06/2025</title>
-		<desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250602190000 +0000" stop="20250602193000 +0000">
 		<title>The Context - 02/06/2025</title>
@@ -5738,8 +5733,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250602213000 +0000" stop="20250602221500 +0000">
-		<title>Newsnight - 02/06/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
+		<title>Newsnight - A Nation's Shame: Grooming Survivors Speak</title>
+		<desc>Survivors of abuse speak ahead of the release of a report on grooming and rape gangs.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfz3d0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250602221500 +0000" stop="20250602230000 +0000">
@@ -5753,8 +5748,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250602233000 +0000" stop="20250603000000 +0000">
-		<title>Newscast - 02/06/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Has the Threat of Russia and China Convinced the UK to Invest Billions More in Defence?</title>
+		<desc>The prime minister says the UK military is moving to 'war-fighting readiness'.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250603000000 +0000" stop="20250603003000 +0000">
@@ -6776,6 +6771,11 @@
 		<title>Lords Questions - 02/06/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 2 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250602230000 +0000" stop="20250602231000 +0000">
+		<title>House of Lords - Introductions</title>
+		<desc>Introductions of Baroness Prentis of Banbury and Lord Hart of Tenby, from Monday 2 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250602231000 +0000" stop="20250603001000 +0000">
 		<title>House of Lords - Data (Use and Access) Bill</title>
@@ -8350,7 +8350,7 @@
 	</programme>
 	<programme channel="s4c" start="20250604130500 +0000" stop="20250604140000 +0000">
 		<title>Prynhawn Da - Wed, 04 Jun 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mae Sharon yn rhannu tips steilio ail-law, Gwilym Lewis yw ein gwestai, &amp; Alison sy'n t...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250604140000 +0000" stop="20250604140500 +0000">
