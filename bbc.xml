@@ -5331,9 +5331,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lbhw82.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250602220000 +0000" stop="20250602223000 +0000">
-		<title>Scotcast - 02/06/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Spain Bar Shooting</title>
+		<desc>How a decades-old grudge may have led to brutal killings in Spain.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfyfz5.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250602223000 +0000" stop="20250602230000 +0000">
 		<title>Showpeople: Licensed to Thrill - Series 1: Episode 6</title>
@@ -5702,10 +5702,15 @@
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250602183000 +0000" stop="20250602190000 +0000">
+	<programme channel="bbcnews" start="20250602183000 +0000" stop="20250602185500 +0000">
 		<title>The World Today with Maryam Moshiri - 02/06/2025</title>
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250602185500 +0000" stop="20250602190000 +0000">
+		<title>Tech Now - 02/06/2025</title>
+		<desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250602190000 +0000" stop="20250602193000 +0000">
 		<title>The Context - 02/06/2025</title>
@@ -5732,12 +5737,12 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250602213000 +0000" stop="20250602220000 +0000">
+	<programme channel="bbcnews" start="20250602213000 +0000" stop="20250602221500 +0000">
 		<title>Newsnight - 02/06/2025</title>
 		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250602220000 +0000" stop="20250602230000 +0000">
+	<programme channel="bbcnews" start="20250602221500 +0000" stop="20250602230000 +0000">
 		<title>BBC World News America - 02/06/2025</title>
 		<desc>In-depth reports on the major international and US news of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
@@ -6668,9 +6673,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250607023000 +0000" stop="20250607030000 +0000">
-		<title>The Interview - 07/06/2025</title>
-		<desc>Up close, personal and in-depth with the biggest names.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hv2p4l.jpg" />
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250607030000 +0000" stop="20250607033000 +0000">
 		<title>BBC News - 07/06/2025</title>
@@ -6695,7 +6700,7 @@
 	<programme channel="bbcparliament" start="20250602050000 +0000" stop="20250602070500 +0000">
 		<title>Scottish Parliament - Substance Misuse Committee</title>
 		<desc>Criminal Justice committee on the harm caused by substance misuse in Scottish Prisons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfxy55.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250602070500 +0000" stop="20250602081000 +0000">
 		<title>Scottish Parliament - BBC Committee</title>
@@ -6725,7 +6730,7 @@
 	<programme channel="bbcparliament" start="20250602121000 +0000" stop="20250602130000 +0000">
 		<title>Scottish First Minister's Questions - 29/05/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 29 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfxvcs.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250602130000 +0000" stop="20250602133000 +0000">
 		<title>Northern Ireland Assembly - Infrastructure Questions</title>
@@ -6737,14 +6742,34 @@
 		<desc>Coverage of questions to Yvette Cooper on Monday 2 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250602143000 +0000" stop="20250602213000 +0000">
+	<programme channel="bbcparliament" start="20250602143000 +0000" stop="20250602151500 +0000">
+		<title>House of Commons - Government Statements Urgent Question</title>
+		<desc>Urgent question on government statements made outside of parliamentary proceedings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250602151500 +0000" stop="20250602161500 +0000">
+		<title>House of Commons - UK Nuclear Deterrent Urgent Question</title>
+		<desc>Coverage of an urgent question on the future of the UK's nuclear deterrent, from 2 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250602161500 +0000" stop="20250602174500 +0000">
+		<title>House of Commons - Strategic Defence Review Statement</title>
+		<desc>Statement by defence secretary John Healey on the Strategic Defence Review, from 2 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250602174500 +0000" stop="20250602210000 +0000">
 		<title>House of Commons - 02/06/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 2 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20250602210000 +0000" stop="20250602213000 +0000">
+		<title>House of Commons - Arms and Military Cargo Export Controls Debate</title>
+		<desc>Coverage of the day's proceedings in the House of Commons on Monday 2 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20250602213000 +0000" stop="20250602221500 +0000">
-		<title>Northern Ireland Assembly - Infrastructure Questions</title>
-		<desc>Questions in Stormont to infrastructure minister Liz Kimmins, on Monday 2 June.</desc>
+		<title>Northern Ireland Assembly - Justice Questions</title>
+		<desc>Coverage of questions in Stormont to the justice minister, Naomi Long, on Monday 2 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250602221500 +0000" stop="20250602230000 +0000">
@@ -6752,10 +6777,30 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 2 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250602230000 +0000" stop="20250603060000 +0000">
-		<title>House of Lords - 03/06/2025</title>
-		<desc>Business in the House of Lords on Monday 2 June.</desc>
+	<programme channel="bbcparliament" start="20250602231000 +0000" stop="20250603001000 +0000">
+		<title>House of Lords - Data (Use and Access) Bill</title>
+		<desc>Debate on Commons amendments to the Data (Use and Access) Bill, from Monday 2 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250603001000 +0000" stop="20250603011000 +0000">
+		<title>House of Lords - Independent Sentencing Review</title>
+		<desc>Statement in the House of Lords on the Independent Sentencing Review, from Monday 2 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250603011000 +0000" stop="20250603031000 +0000">
+		<title>House of Lords - Border Security, Asylum and Immigration Bill, Part 1</title>
+		<desc>The second reading debate on the Border Security, Asylum and Immigration Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250603031000 +0000" stop="20250603051000 +0000">
+		<title>House of Lords - Border Security, Asylum and Immigration Bill, Part 2</title>
+		<desc>The second reading debate on the Border Security, Asylum and Immigration Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250603051000 +0000" stop="20250603060000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250603060000 +0000" stop="20250603070000 +0000">
 		<title>House of Commons - Home Office Questions</title>
@@ -7800,7 +7845,7 @@
 	</programme>
 	<programme channel="s4c" start="20250602200000 +0000" stop="20250602203000 +0000">
 		<title>Ffermio - Mon, 02 Jun 2025</title>
-		<desc>Cyfres gylchgrawn am faterion cefn gwlad. Weekly countryside and farming magazine.</desc>
+		<desc>Dysga Alun sut mae'r sychder diweddara yn effeithio ar fferm yn y canolbarth, a Meinir ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dvbqb6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250602203000 +0000" stop="20250602213500 +0000">
@@ -7848,17 +7893,17 @@
 		<desc>Mae'r Whws yn deffro ar fore niwlog a'n meddwl bod Ynys Ddoeth wedi codi i'r cymylau. T...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l49x3x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250603061000 +0000" stop="20250603062500 +0000">
+	<programme channel="s4c" start="20250603061000 +0000" stop="20250603062000 +0000">
 		<title>Sion y Chef - Cyfres 1: Sglodion a Sbarion</title>
 		<desc>Mae Siôn yn perswadio Mario i roi cynnig ar fersiwn iachus o un o'i hoff fwydydd. Siôn ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07d16z8.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250603062500 +0000" stop="20250603063500 +0000">
+	<programme channel="s4c" start="20250603062000 +0000" stop="20250603063000 +0000">
 		<title>Sam Tân - Cyfres 10: Penwythnos y Brodyr</title>
 		<desc>Mae Siarlys a Sam wedi mynd i ffwrdd am benwythnos dawel i Ynys Pontypandy, ond dyw'r p...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250603063500 +0000" stop="20250603064500 +0000">
+	<programme channel="s4c" start="20250603063000 +0000" stop="20250603064500 +0000">
 		<title>Octonots - Cyfres 3: a Dirgelwch yr Anghenfil Gwymo</title>
 		<desc>Mae Dela yn cael cymorth ei chwaer fach i ddatrys dirgelwch diflaniad rhyfedd mewn coed...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04sd1md.jpg" />
@@ -7990,7 +8035,7 @@
 	</programme>
 	<programme channel="s4c" start="20250603123000 +0000" stop="20250603130000 +0000">
 		<title>Ffermio - Mon, 02 Jun 2025</title>
-		<desc>Cyfres gylchgrawn am faterion cefn gwlad. Weekly countryside and farming magazine.</desc>
+		<desc>Dysga Alun sut mae'r sychder diweddara yn effeithio ar fferm yn y canolbarth, a Meinir ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dvbqb6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250603130000 +0000" stop="20250603130500 +0000">
@@ -8961,7 +9006,7 @@
 	<programme channel="s4c" start="20250606210000 +0000" stop="20250606212500 +0000">
 		<title>Ar Led - Rhywioldeb &amp; Cydsynio</title>
 		<desc>Cyfres newydd gyda Miriam Isaac a Carwyn Blayney sy'n archwilio pob agwedd o iechyd rhy...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfyn31.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250606212500 +0000" stop="20250606223000 +0000">
 		<title>Y Llinell Las - Cyfres 4: Croesi Ffiniau</title>
