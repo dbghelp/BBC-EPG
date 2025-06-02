@@ -501,7 +501,7 @@
 	<programme channel="bbcone" start="20250605101500 +0000" stop="20250605111500 +0000">
 		<title>Homes Under the Hammer - Series 28: Laying Out the Changes</title>
 		<desc>Significant layout changes are in store for three properties!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ldq7f2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfw52h.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250605111500 +0000" stop="20250605120000 +0000">
 		<title>Bargain Hunt - Series 63: Newark 30</title>
@@ -801,7 +801,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250602111500 +0000" stop="20250602120000 +0000">
 		<title>Politics Live - 02/06/2025</title>
-		<desc>The big political issues of the day.</desc>
+		<desc>The government publishes its Strategic Defence Review.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09819qp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250602120000 +0000" stop="20250602124500 +0000">
@@ -1319,7 +1319,7 @@
 	<programme channel="bbctwo" start="20250606051500 +0000" stop="20250606061500 +0000">
 		<title>Homes Under the Hammer - Series 28: Laying Out the Changes</title>
 		<desc>Significant layout changes are in store for three properties!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ldq7f2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfw52h.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250606061500 +0000" stop="20250606070000 +0000">
 		<title>Garden Rescue - Series 10: 8. Salford</title>
@@ -5577,10 +5577,15 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250602050000 +0000" stop="20250602080000 +0000">
+	<programme channel="bbcnews" start="20250602050000 +0000" stop="20250602070000 +0000">
 		<title>Breakfast - 02/06/2025</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250602070000 +0000" stop="20250602080000 +0000">
+		<title>BBC News - 02/06/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250602080000 +0000" stop="20250602083000 +0000">
 		<title>BBC News - 02/06/2025</title>
