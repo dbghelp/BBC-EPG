@@ -872,7 +872,7 @@
 	<programme channel="bbctwo" start="20250602213000 +0000" stop="20250602221300 +0000">
 		<title>Newsnight - 02/06/2025</title>
 		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfz3d0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250602221300 +0000" stop="20250602221500 +0000">
 		<title>BBC Weather - 02/06/2025</title>
@@ -1473,7 +1473,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250602185800 +0000" stop="20250602190000 +0000">
 		<title>The Catch Up - 02/06/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Hannah Simpson.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250602190000 +0000" stop="20250602193000 +0000">
@@ -5740,7 +5740,7 @@
 	<programme channel="bbcnews" start="20250602213000 +0000" stop="20250602221500 +0000">
 		<title>Newsnight - 02/06/2025</title>
 		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfz3d0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250602221500 +0000" stop="20250602230000 +0000">
 		<title>BBC World News America - 02/06/2025</title>
@@ -6798,21 +6798,31 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250603051000 +0000" stop="20250603060000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+		<title>House of Lords - Border Security, Asylum and Immigration Bill, Part 3</title>
+		<desc>The second reading debate on the Border Security, Asylum and Immigration Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250603060000 +0000" stop="20250603070000 +0000">
+	<programme channel="bbcparliament" start="20250603060000 +0000" stop="20250603071000 +0000">
 		<title>House of Commons - Home Office Questions</title>
 		<desc>Coverage of questions to Yvette Cooper on Monday 2 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250603070000 +0000" stop="20250603083000 +0000">
-		<title>House of Commons - 02/06/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 2 June.</desc>
+	<programme channel="bbcparliament" start="20250603071000 +0000" stop="20250603080500 +0000">
+		<title>House of Commons - Government Statements Urgent Question</title>
+		<desc>Urgent question on government statements made outside of parliamentary proceedings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250603083000 +0000" stop="20250603103000 +0000">
+	<programme channel="bbcparliament" start="20250603080500 +0000" stop="20250603085000 +0000">
+		<title>Northern Ireland Assembly - Justice Questions</title>
+		<desc>Coverage of questions in Stormont to the justice minister, Naomi Long, on Monday 2 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250603085000 +0000" stop="20250603091500 +0000">
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Topical questions to ministers in the Scottish government, from Tuesday 27 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lf1xv2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250603091500 +0000" stop="20250603103000 +0000">
 		<title>Select Committees - 03/06/2025</title>
 		<desc>Coverage of select committee proceedings on Tuesday 3 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
@@ -7750,7 +7760,7 @@
 	</programme>
 	<programme channel="s4c" start="20250602130500 +0000" stop="20250602140000 +0000">
 		<title>Prynhawn Da - Mon, 02 Jun 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Carys ac Ifan yw'n Colofnwyr, Marc sy'n rhannu tipiau harddwch, a chawn 'tray bake' gan...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250602140000 +0000" stop="20250602140500 +0000">
@@ -7820,7 +7830,7 @@
 	</programme>
 	<programme channel="s4c" start="20250602180000 +0000" stop="20250602183000 +0000">
 		<title>Heno - Mon, 02 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Y cyn-chwaraewr pel-droed, Joe Allen, yw'n gwestai; ac edrychwn nôl ar benwythnos yr Hy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250602183000 +0000" stop="20250602190000 +0000">
@@ -7835,7 +7845,7 @@
 	</programme>
 	<programme channel="s4c" start="20250602192500 +0000" stop="20250602195500 +0000">
 		<title>Garddio a Mwy - Cyfres 2025: Pennod 7</title>
-		<desc>Mae Adam yn rhannu tips am gadw'r ardd lysiau yn gynhyrchiol, a Meinir gyda Stifyn Parr...</desc>
+		<desc>Mae Adam yn rhannu tips am gadw'r ardd lysiau yn gynhyrchiol, ac mae Meinir efo Stifyn ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfx34b.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250602195500 +0000" stop="20250602200000 +0000">
@@ -8025,7 +8035,7 @@
 	</programme>
 	<programme channel="s4c" start="20250603113000 +0000" stop="20250603120000 +0000">
 		<title>Heno - Mon, 02 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Y cyn-chwaraewr pel-droed, Joe Allen, yw'n gwestai; ac edrychwn nôl ar benwythnos yr Hy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250603120000 +0000" stop="20250603123000 +0000">
@@ -8045,7 +8055,7 @@
 	</programme>
 	<programme channel="s4c" start="20250603130500 +0000" stop="20250603140000 +0000">
 		<title>Prynhawn Da - Tue, 03 Jun 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mae Dr Llinos yn y syrjeri, Kath Morgan yn trafod noson fawr o bel-droed, a chwrddwn a'...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250603140000 +0000" stop="20250603140500 +0000">
@@ -8115,7 +8125,7 @@
 	</programme>
 	<programme channel="s4c" start="20250603180000 +0000" stop="20250603183000 +0000">
 		<title>Heno - Tue, 03 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Ni'n fyw o Rali Hen Geir Llandudno, nodwn Wythnos Gwin Cymru ac ma'r actores Lowri Morg...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250603183000 +0000" stop="20250603190000 +0000">
@@ -8320,7 +8330,7 @@
 	</programme>
 	<programme channel="s4c" start="20250604113000 +0000" stop="20250604120000 +0000">
 		<title>Heno - Tue, 03 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Ni'n fyw o Rali Hen Geir Llandudno, nodwn Wythnos Gwin Cymru ac ma'r actores Lowri Morg...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250604120000 +0000" stop="20250604123000 +0000">
@@ -8330,7 +8340,7 @@
 	</programme>
 	<programme channel="s4c" start="20250604123000 +0000" stop="20250604130000 +0000">
 		<title>Garddio a Mwy - Cyfres 2025: Pennod 7</title>
-		<desc>Mae Adam yn rhannu tips am gadw'r ardd lysiau yn gynhyrchiol, a Meinir gyda Stifyn Parr...</desc>
+		<desc>Mae Adam yn rhannu tips am gadw'r ardd lysiau yn gynhyrchiol, ac mae Meinir efo Stifyn ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfx34b.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250604130000 +0000" stop="20250604130500 +0000">
@@ -8405,7 +8415,7 @@
 	</programme>
 	<programme channel="s4c" start="20250604180000 +0000" stop="20250604183000 +0000">
 		<title>Heno - Wed, 04 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae Aeron Pughe a Malen Meredydd yn ymuno gyda ni am sgwrs a chan, ac fe gwrddwn â chas...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250604183000 +0000" stop="20250604190000 +0000">
@@ -8610,7 +8620,7 @@
 	</programme>
 	<programme channel="s4c" start="20250605113000 +0000" stop="20250605120000 +0000">
 		<title>Heno - Wed, 04 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae Aeron Pughe a Malen Meredydd yn ymuno gyda ni am sgwrs a chan, ac fe gwrddwn â chas...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250605120000 +0000" stop="20250605123000 +0000">
@@ -8990,7 +9000,7 @@
 	</programme>
 	<programme channel="s4c" start="20250606173000 +0000" stop="20250606180000 +0000">
 		<title>Garddio a Mwy - Cyfres 2025: Pennod 7</title>
-		<desc>Mae Adam yn rhannu tips am gadw'r ardd lysiau yn gynhyrchiol, a Meinir gyda Stifyn Parr...</desc>
+		<desc>Mae Adam yn rhannu tips am gadw'r ardd lysiau yn gynhyrchiol, ac mae Meinir efo Stifyn ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfx34b.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250606180000 +0000" stop="20250606182000 +0000">
