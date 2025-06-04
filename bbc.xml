@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250604083000 +0000" stop="20250604094500 +0000">
 		<title>Morning Live - Series 7: 04/06/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Michelle Ackerley and Rav Wilding talk to Holly Hamilton about the rise in parcel theft.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250604094500 +0000" stop="20250604101500 +0000">
@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250604180000 +0000" stop="20250604183000 +0000">
 		<title>The One Show - 04/06/2025</title>
-		<desc>Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+		<desc>Gerard Butler and Mason Thames join Alex Jones and Vernon Kay in the studio.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lg7wdv.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250604183000 +0000" stop="20250604190000 +0000">
@@ -307,7 +307,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250605214000 +0000" stop="20250605224000 +0000">
 		<title>Question Time - 2025: 05/06/2025</title>
-		<desc>Fiona Bruce hosts an hour of topical debate.</desc>
+		<desc>Fiona Bruce hosts an hour of topical debate from Llandudno in north Wales.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250605224000 +0000" stop="20250605231000 +0000">
@@ -1115,7 +1115,7 @@
 	<programme channel="bbctwo" start="20250606190000 +0000" stop="20250606200000 +0000">
 		<title>Gardeners' World - 2025: Episode 12</title>
 		<desc>As the roses begin to bloom, Monty’s adding a colourful splash of underplanting.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08jbf3w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lg965g.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250606200000 +0000" stop="20250606210000 +0000">
 		<title>Hidden Treasures of the National Trust - Series 3: 4. Women on the Frontline</title>
@@ -1220,7 +1220,7 @@
 	<programme channel="bbctwo" start="20250607075500 +0000" stop="20250607085500 +0000">
 		<title>Gardeners' World - 2025: Episode 12</title>
 		<desc>As the roses begin to bloom, Monty’s adding a colourful splash of underplanting.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08jbf3w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lg965g.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250607085500 +0000" stop="20250607101500 +0000">
 		<title>The Tommy Steele Story</title>
@@ -1414,7 +1414,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250609031500 +0000" stop="20250609041500 +0000">
 		<title>Question Time - 2025: 05/06/2025</title>
-		<desc>Fiona Bruce hosts an hour of topical debate.</desc>
+		<desc>Fiona Bruce hosts an hour of topical debate from Llandudno in north Wales.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250609041500 +0000" stop="20250609053000 +0000">
@@ -1439,7 +1439,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250604185800 +0000" stop="20250604190000 +0000">
 		<title>The Catch Up - 04/06/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Lucy Elsie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250604190000 +0000" stop="20250604200000 +0000">
@@ -6579,9 +6579,19 @@
 	<programme channel="bbcparliament" start="20250604110000 +0000" stop="20250604113500 +0000">
 		<title>Prime Minister's Questions - 04/06/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 4 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lg92zt.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250604113500 +0000" stop="20250604183000 +0000">
+	<programme channel="bbcparliament" start="20250604113500 +0000" stop="20250604123500 +0000">
+		<title>House of Commons - Regional Growth Statement</title>
+		<desc>Statement by chief secretary to the treasury Darren Jones on regional growth.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250604123500 +0000" stop="20250604133500 +0000">
+		<title>House of Commons - Israel and the Occupied Palestinian Territories Statement</title>
+		<desc>Statement on Israel and the Occupied Palestinian Territories, on Wednesday 4 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250604133500 +0000" stop="20250604183000 +0000">
 		<title>House of Commons - 04/06/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 4 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6594,7 +6604,7 @@
 	<programme channel="bbcparliament" start="20250604210000 +0000" stop="20250604213500 +0000">
 		<title>Prime Minister's Questions - 04/06/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 4 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lg92zt.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250604213500 +0000" stop="20250604222000 +0000">
 		<title>Lords Questions - 04/06/2025</title>
@@ -6614,7 +6624,7 @@
 	<programme channel="bbcparliament" start="20250605053000 +0000" stop="20250605060500 +0000">
 		<title>Prime Minister's Questions - 04/06/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 4 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lg92zt.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250605060500 +0000" stop="20250605083000 +0000">
 		<title>House of Commons - 04/06/2025</title>
@@ -6739,7 +6749,7 @@
 	<programme channel="bbcparliament" start="20250607100000 +0000" stop="20250607103500 +0000">
 		<title>Prime Minister's Questions - 04/06/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 4 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lg92zt.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250607103500 +0000" stop="20250607112000 +0000">
 		<title>Scottish First Minister's Questions - 05/06/2025</title>
@@ -6789,7 +6799,7 @@
 	<programme channel="bbcparliament" start="20250607232000 +0000" stop="20250607235500 +0000">
 		<title>Prime Minister's Questions - 04/06/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 4 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lg92zt.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250607235500 +0000" stop="20250608004000 +0000">
 		<title>Scottish First Minister's Questions - 05/06/2025</title>
@@ -6854,7 +6864,7 @@
 	<programme channel="bbcparliament" start="20250608140500 +0000" stop="20250608144000 +0000">
 		<title>Prime Minister's Questions - 04/06/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 4 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lg92zt.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250608144000 +0000" stop="20250608152500 +0000">
 		<title>Scottish First Minister's Questions - 05/06/2025</title>
@@ -6909,7 +6919,7 @@
 	<programme channel="bbcparliament" start="20250609042500 +0000" stop="20250609050000 +0000">
 		<title>Prime Minister's Questions - 04/06/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 4 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lg92zt.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250604050000 +0000" stop="20250604160000 +0000">
 		<title>Alba Today - Alba Today</title>
@@ -7308,7 +7318,7 @@
 	</programme>
 	<programme channel="bbcalba" start="20250607190000 +0000" stop="20250607193000 +0000">
 		<title>Seòid a' Chidsin - The Kitchen Coves - Series 5: Episode 6</title>
-		<desc>The lads go out of their comfort zone and go plant-based. </desc>
+		<desc>The lads venture out of their comfort zone and go plant-based. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09g8n70.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250607193000 +0000" stop="20250607200000 +0000">
