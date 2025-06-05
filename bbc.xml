@@ -163,8 +163,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250605224000 +0000" stop="20250605231000 +0000">
-		<title>Newscast - Series 6: 05/06/2025</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
+		<title>Newscast - Series 6: 5. Zia Yusuf quits as Reform UK Chairman, but what does it mean for Nigel Farage’s party?</title>
+		<desc>Adam, Chris, Alex and Faisal discuss UK defence spending and the big news from Reform UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250605231000 +0000" stop="20250605235500 +0000">
@@ -828,9 +828,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05mxqhr.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250605213000 +0000" stop="20250605215800 +0000">
-		<title>Newsnight - 05/06/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Break-up season?</title>
+		<desc>Meltdown! The critical Musk-Trump relationship undergoes a rapid unscheduled disassembly.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgpkqj.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250605215800 +0000" stop="20250605220000 +0000">
 		<title>BBC Weather - 05/06/2025</title>
@@ -1294,7 +1294,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250609154500 +0000" stop="20250609183000 +0000">
 		<title>Sportscene - 2024/25: International Football: Liechtenstein v Scotland</title>
-		<desc>Live coverage of Scotland?s international friendly against Liechtenstein.
+		<desc>Live coverage of Scotland’s international friendly against Liechtenstein.
 
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgc7kf.jpg" />
@@ -5394,7 +5394,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20250609153000 +0000" stop="20250609183000 +0000">
 		<title>Sportscene - 2024/25: International Football: Liechtenstein v Scotland</title>
-		<desc>Live coverage of Scotland?s international friendly against Liechtenstein.
+		<desc>Live coverage of Scotland’s international friendly against Liechtenstein.
 
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgc7kf.jpg" />
@@ -5575,9 +5575,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250605200000 +0000" stop="20250605210000 +0000">
-		<title>Question Time - 2025: 05/06/2025</title>
-		<desc>Fiona Bruce hosts an hour of topical debate from Llandudno in north Wales.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
+		<title>BBC News - 05/06/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250605210000 +0000" stop="20250605213000 +0000">
 		<title>BBC News at Ten - 05/06/2025</title>
@@ -5585,9 +5585,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250605213000 +0000" stop="20250605220000 +0000">
-		<title>Newsnight - 05/06/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Break-up season?</title>
+		<desc>Meltdown! The critical Musk-Trump relationship undergoes a rapid unscheduled disassembly.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgpkqj.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250605220000 +0000" stop="20250605230000 +0000">
 		<title>BBC World News America - 05/06/2025</title>
@@ -6004,15 +6004,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250607233000 +0000" stop="20250607235500 +0000">
+	<programme channel="bbcnews" start="20250607233000 +0000" stop="20250608000000 +0000">
 		<title>The Media Show - Can NPR survive Trump's cuts?</title>
 		<desc>CEO of US public radio sets out survival strategy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250607235500 +0000" stop="20250608000000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250608000000 +0000" stop="20250608003000 +0000">
 		<title>BBC News - 08/06/2025</title>
@@ -6544,40 +6539,35 @@
 		<desc>Statement on regional growth and investment in transport projects in England, on 5 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250605184000 +0000" stop="20250605204000 +0000">
+	<programme channel="bbcparliament" start="20250605184000 +0000" stop="20250605203000 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 1</title>
 		<desc>Coverage of the committee stage debate on the Employment Rights Bill, on Thursday 5 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250605204000 +0000" stop="20250605224000 +0000">
+	<programme channel="bbcparliament" start="20250605203000 +0000" stop="20250605223000 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 2</title>
 		<desc>Coverage of the committee stage debate on the Employment Rights Bill, on Thursday 5 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250605224000 +0000" stop="20250606004000 +0000">
+	<programme channel="bbcparliament" start="20250605223000 +0000" stop="20250606003000 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 3</title>
 		<desc>Coverage of the committee stage debate on the Employment Rights Bill, on Thursday 5 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250606004000 +0000" stop="20250606011500 +0000">
+	<programme channel="bbcparliament" start="20250606003000 +0000" stop="20250606025500 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 4</title>
 		<desc>Coverage of the committee stage debate on the Employment Rights Bill, on Thursday 5 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250606011500 +0000" stop="20250606021500 +0000">
+	<programme channel="bbcparliament" start="20250606025500 +0000" stop="20250606035500 +0000">
 		<title>House of Commons - Cabinet Office Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Thursday 5 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250606021500 +0000" stop="20250606031500 +0000">
-		<title>House of Commons - Commons Business Questions</title>
-		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 5 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250606031500 +0000" stop="20250606060000 +0000">
-		<title>House of Commons - 05/06/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 5 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250606035500 +0000" stop="20250606060000 +0000">
+		<title>Select Committees - Energy Security and Net Zero Committee on the Cost of Energy</title>
+		<desc>The Energy Security and Net Zero committee on the cost of energy, from Wednesday 4 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250606060000 +0000" stop="20250606080000 +0000">
 		<title>Westminster Hall - 02/06/2025</title>
