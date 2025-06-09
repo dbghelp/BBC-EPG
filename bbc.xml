@@ -714,7 +714,7 @@
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250609042500 +0000" stop="20250609053000 +0000">
+	<programme channel="bbctwo" start="20250609043000 +0000" stop="20250609053000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -6393,20 +6393,10 @@
 		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250613200000 +0000" stop="20250613203000 +0000">
-		<title>The Context - 13/06/2025</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250613203000 +0000" stop="20250613205500 +0000">
-		<title>The Context - 13/06/2025</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250613205500 +0000" stop="20250613210000 +0000">
-		<title>The Travel Show - 13/06/2025</title>
-		<desc>Join the team on their journey of discovery as they explore the globe.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
+	<programme channel="bbcnews" start="20250613200000 +0000" stop="20250613210000 +0000">
+		<title>The BBC World Service Debate - Is Trump Making the World Safer or More Dangerous?</title>
+		<desc>Debate considering the rapidly changing international landscape during Trump's presidency.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250613210000 +0000" stop="20250613213000 +0000">
 		<title>BBC News at Ten - 13/06/2025</title>
@@ -6553,6 +6543,11 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 9 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20250609230000 +0000" stop="20250609234000 +0000">
+		<title>House of Lords - Israel and the Occupied Palestinian Territories</title>
+		<desc>Statement on Israel and the Occupied Palestinian Territories, on Monday 9 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20250609234000 +0000" stop="20250610014000 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 1</title>
 		<desc>Third day of the committee stage debate on the Children's Wellbeing and Schools Bill.</desc>
@@ -6573,15 +6568,25 @@
 		<desc>Official Controls (Plant Health) and Phytosanitary Conditions (Amendment) Regulations 2025</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250610060000 +0000" stop="20250610070000 +0000">
+	<programme channel="bbcparliament" start="20250610060000 +0000" stop="20250610070500 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Angela Rayner on Monday 9 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250610070000 +0000" stop="20250610083000 +0000">
-		<title>House of Commons - 09/06/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 9 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250610070500 +0000" stop="20250610073500 +0000">
+		<title>Scottish Parliament - Constitution, External Affairs and Culture Questions</title>
+		<desc>Questions to the constitution, external affairs and culture secretary Angus Robertson.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250610073500 +0000" stop="20250610080000 +0000">
+		<title>Scottish Parliament - Justice and Home Affairs Questions</title>
+		<desc>Questions to the justice and home affairs ministers, from Wednesday 4 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250610080000 +0000" stop="20250610083000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Taith Statement</title>
+		<desc>Statement on the Taith programme, Wales' international exchange programme.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250610083000 +0000" stop="20250610103000 +0000">
 		<title>Select Committees - Science, Innovation and Technology Committee</title>
@@ -7531,7 +7536,7 @@
 	</programme>
 	<programme channel="s4c" start="20250609130500 +0000" stop="20250609140000 +0000">
 		<title>Prynhawn Da - Mon, 09 Jun 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Gruffydd Wyn sy'n rhannu syniadau am anrhegion Sul y Tadau, ac fe fydd Catrin Thomas yn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250609140000 +0000" stop="20250609140500 +0000">
@@ -7811,7 +7816,7 @@
 	</programme>
 	<programme channel="s4c" start="20250610130500 +0000" stop="20250610140000 +0000">
 		<title>Prynhawn Da - Tue, 10 Jun 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Edrychwn ar bodlediadau'r mis gyda Alun Saunders, ac agorwn ddrysau'r syrjeri gyda Dr S...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250610140000 +0000" stop="20250610140500 +0000">
@@ -7876,7 +7881,7 @@
 	</programme>
 	<programme channel="s4c" start="20250610180000 +0000" stop="20250610183000 +0000">
 		<title>Heno - Tue, 10 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae Nest Jenkins yn y stiwdio, cawn longyfarch y rhwyfwr Cedol Dafydd, a dathlwn Mis Ce...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250610183000 +0000" stop="20250610190000 +0000">
@@ -8081,7 +8086,7 @@
 	</programme>
 	<programme channel="s4c" start="20250611113000 +0000" stop="20250611120000 +0000">
 		<title>Heno - Tue, 10 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae Nest Jenkins yn y stiwdio, cawn longyfarch y rhwyfwr Cedol Dafydd, a dathlwn Mis Ce...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250611120000 +0000" stop="20250611123000 +0000">
@@ -8101,7 +8106,7 @@
 	</programme>
 	<programme channel="s4c" start="20250611130500 +0000" stop="20250611140000 +0000">
 		<title>Prynhawn Da - Wed, 11 Jun 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Agorwn y clwb llyfrau gyda Simon Chandler, cawn gwmni'r milfeddyg, a bydd gan Dylan win...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250611140000 +0000" stop="20250611140500 +0000">
@@ -8171,7 +8176,7 @@
 	</programme>
 	<programme channel="s4c" start="20250611180000 +0000" stop="20250611183000 +0000">
 		<title>Heno - Wed, 11 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Clywn am yr amgueddfa Jimmy Choo a chawn gwmni Kath Morgan a Lili Jones i sgwrsio am yr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250611183000 +0000" stop="20250611190000 +0000">
@@ -8376,7 +8381,7 @@
 	</programme>
 	<programme channel="s4c" start="20250612113000 +0000" stop="20250612120000 +0000">
 		<title>Heno - Wed, 11 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Clywn am yr amgueddfa Jimmy Choo a chawn gwmni Kath Morgan a Lili Jones i sgwrsio am yr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250612120000 +0000" stop="20250612122500 +0000">
@@ -8396,7 +8401,7 @@
 	</programme>
 	<programme channel="s4c" start="20250612130500 +0000" stop="20250612140000 +0000">
 		<title>Prynhawn Da - Thu, 12 Jun 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mae Helen Humphreys yn y gornel ffasiwn, cawn sesiwn ffitrwydd byw, a dathlwn wythnos g...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250612140000 +0000" stop="20250612140500 +0000">
@@ -8461,7 +8466,7 @@
 	</programme>
 	<programme channel="s4c" start="20250612180000 +0000" stop="20250612183000 +0000">
 		<title>Heno - Thu, 12 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Rydym yn fyw o Gêm Bêl-droed Sêr Llanfair, ac mae ser y rhaglen Race Across the World y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250612183000 +0000" stop="20250612190000 +0000">
@@ -8666,7 +8671,7 @@
 	</programme>
 	<programme channel="s4c" start="20250613113000 +0000" stop="20250613120000 +0000">
 		<title>Heno - Thu, 12 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Rydym yn fyw o Gêm Bêl-droed Sêr Llanfair, ac mae ser y rhaglen Race Across the World y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250613120000 +0000" stop="20250613123000 +0000">
