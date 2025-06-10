@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20250610083000 +0000" stop="20250610094500 +0000">
 		<title>Morning Live - Series 7: Episode 34</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>Gethin Jones and Helen Skelton talk to Louise Minchin about spotting phishing scams.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhdv2y.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250610094500 +0000" stop="20250610101500 +0000">
 		<title>Expert Witness - Series 1: 9. Cerium and CCTV</title>
@@ -123,7 +123,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250610180000 +0000" stop="20250610183000 +0000">
 		<title>The One Show - 10/06/2025</title>
-		<desc>Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+		<desc>Actor Mark Strong and comedian Rosie Jones join Alex Jones and Lauren Laverne.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250610183000 +0000" stop="20250610190000 +0000">
@@ -221,7 +221,7 @@
 	<programme channel="bbcone" start="20250611130000 +0000" stop="20250611140000 +0000">
 		<title>Queen's Tennis - 2025: Day 3, Part 1</title>
 		<desc>The live tennis coverage at London’s famous Queen’s Club continues.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lh7v40.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250611140000 +0000" stop="20250611144500 +0000">
 		<title>Escape to the Country - Series 21: 1. Dorset</title>
@@ -619,7 +619,7 @@
 	<programme channel="bbcone" start="20250614122500 +0000" stop="20250614150000 +0000">
 		<title>Queen's Tennis - 2025: Day 6</title>
 		<desc>Live coverage of the semi-finals from Queen’s.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lh7v40.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250614150000 +0000" stop="20250614153000 +0000">
 		<title>Deadly 60 - Series 5: 3. Very Hungry Hippos</title>
@@ -851,7 +851,7 @@
 	<programme channel="bbctwo" start="20250611140000 +0000" stop="20250611170000 +0000">
 		<title>Queen's Tennis - 2025: Day 3, Part 2</title>
 		<desc>The live tennis coverage at London’s famous Queen’s Club continues.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lh7v40.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250611170000 +0000" stop="20250611173000 +0000">
 		<title>Richard Osman's House of Games - Series 7: 83. Redemption Week 2: Wednesday</title>
@@ -956,7 +956,7 @@
 	<programme channel="bbctwo" start="20250612120000 +0000" stop="20250612170000 +0000">
 		<title>Queen's Tennis - 2025: Day 4</title>
 		<desc>Live coverage from Queen’s, where the women's tournament is under way.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lh7v40.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250612170000 +0000" stop="20250612173000 +0000">
 		<title>Richard Osman's House of Games - Series 7: 84. Redemption Week 2: Thursday</title>
@@ -1066,7 +1066,7 @@
 	<programme channel="bbctwo" start="20250613120000 +0000" stop="20250613170000 +0000">
 		<title>Queen's Tennis - 2025: Day 5</title>
 		<desc>Further live coverage from the women’s event at Queen’s.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lh7v40.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250613170000 +0000" stop="20250613173000 +0000">
 		<title>Richard Osman's House of Games - Series 7: 85. Redemption Week 2: Friday</title>
@@ -6186,7 +6186,7 @@
 	<programme channel="bbcnews" start="20250613200000 +0000" stop="20250613210000 +0000">
 		<title>The BBC World Service Debate - Is Trump Making the World Safer or More Dangerous?</title>
 		<desc>Debate considering the rapidly changing international landscape during Trump's presidency.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhczcp.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250613210000 +0000" stop="20250613213000 +0000">
 		<title>BBC News at Ten - 13/06/2025</title>
@@ -6508,7 +6508,12 @@
 		<desc>Coverage of questions to Ed Miliband on Tuesday 10 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250610113000 +0000" stop="20250610183000 +0000">
+	<programme channel="bbcparliament" start="20250610113000 +0000" stop="20250610123000 +0000">
+		<title>House of Commons - Nuclear Power Statement</title>
+		<desc>Statement on investment in nuclear power, with energy security secretary Ed Miliband.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250610123000 +0000" stop="20250610183000 +0000">
 		<title>House of Commons - 10/06/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 10 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7581,12 +7586,12 @@
 	</programme>
 	<programme channel="s4c" start="20250610190000 +0000" stop="20250610192500 +0000">
 		<title>Pobol y Cwm - Tue, 10 Jun 2025</title>
-		<desc>Daw Griffiths i weld Mathew efo neges gan ei fam - ond a fydd yn fodlon gwrando? Gaynor...</desc>
+		<desc>Daw Griffiths i weld Mathew efo neges gan ei fam - ond a fydd o'n fodlon gwrando? Gayno...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08x5gq6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250610192500 +0000" stop="20250610195500 +0000">
 		<title>Rownd a Rownd - Tue, 10 Jun 2025</title>
-		<desc>Mae be' mae Vince yn ddarganfod yn un o'r loceri yn yr ysgol yn newid bob dim. Today is...</desc>
+		<desc>Mae be' mae Vince yn ei ddarganfod yn un o'r loceri yn yr ysgol yn newid bob dim. Today...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ft73xl.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250610195500 +0000" stop="20250610200000 +0000">
