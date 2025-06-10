@@ -5529,9 +5529,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250610173000 +0000" stop="20250610180000 +0000">
-		<title>Sportsday - 10/06/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
+		<title>The World Today with Maryam Moshiri - 10/06/2025</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250610180000 +0000" stop="20250610183000 +0000">
 		<title>The World Today with Maryam Moshiri - 10/06/2025</title>
@@ -6563,15 +6563,20 @@
 		<desc>Statement on expanding eligibility for free school meals, on Tuesday 10 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250611055500 +0000" stop="20250611060000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250611060000 +0000" stop="20250611090000 +0000">
-		<title>House of Commons - 10/06/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 10 June.</desc>
+	<programme channel="bbcparliament" start="20250611055500 +0000" stop="20250611070000 +0000">
+		<title>House of Commons - Energy Security and Net Zero Questions</title>
+		<desc>Coverage of questions to Ed Miliband on Tuesday 10 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250611070000 +0000" stop="20250611080500 +0000">
+		<title>House of Commons - Nuclear Power Statement</title>
+		<desc>Statement on investment in nuclear power, with energy security secretary Ed Miliband.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250611080500 +0000" stop="20250611090000 +0000">
+		<title>Welsh First Minister's Questions - 10/06/2025</title>
+		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 10 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250611090000 +0000" stop="20250611103000 +0000">
 		<title>Select Committees - Defence Committee on the Strategy Defence Review</title>
