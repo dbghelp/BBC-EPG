@@ -124,7 +124,7 @@
 	<programme channel="bbcone" start="20250612180000 +0000" stop="20250612190000 +0000">
 		<title>BBC News Special - Air India Plane Crash</title>
 		<desc>Maryam Moshiri presents special coverage of the Air India plane crash.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07hp9l7.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhzn7l.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250612190000 +0000" stop="20250612200000 +0000">
 		<title>Dragons' Den - Series 21: Episode 6</title>
@@ -906,17 +906,12 @@
 		<desc>Will Young discovers heroes, villains and royalty in his family tree.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ldxy8k.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250614005500 +0000" stop="20250614015500 +0000">
-		<title>Lockerbie: Our Story</title>
-		<desc>Families of six Lockerbie bombing victims tell the story of their lost loved ones.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ldzmjp.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20250614015500 +0000" stop="20250614024000 +0000">
+	<programme channel="bbctwo" start="20250614005500 +0000" stop="20250614014000 +0000">
 		<title>Death Valley - Series 1: Episode 3</title>
 		<desc>John and Janie disagree on how to investigate the untimely death of a best man.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lbnd1w.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250614024000 +0000" stop="20250614053000 +0000">
+	<programme channel="bbctwo" start="20250614014000 +0000" stop="20250614053000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -5477,15 +5472,20 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250612173000 +0000" stop="20250612200000 +0000">
+	<programme channel="bbcnews" start="20250612173000 +0000" stop="20250612180000 +0000">
 		<title>BBC News - 12/06/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250612200000 +0000" stop="20250612210000 +0000">
-		<title>The Context - 12/06/2025</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
+	<programme channel="bbcnews" start="20250612180000 +0000" stop="20250612190000 +0000">
+		<title>BBC News Special - Air India Plane Crash</title>
+		<desc>Maryam Moshiri presents special coverage of the Air India plane crash.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhzn7l.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250612190000 +0000" stop="20250612210000 +0000">
+		<title>BBC News - 12/06/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250612210000 +0000" stop="20250612213000 +0000">
 		<title>BBC News at Ten - 12/06/2025</title>
@@ -5563,9 +5563,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250613050000 +0000" stop="20250613080000 +0000">
-		<title>Breakfast - 13/06/2025</title>
-		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+		<title>BBC News - 13/06/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250613080000 +0000" stop="20250613083000 +0000">
 		<title>BBC News - 13/06/2025</title>
@@ -6442,22 +6442,22 @@
 		<desc>Statement on the health and social care spending review 2025 settlement.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250612123500 +0000" stop="20250612163000 +0000">
+	<programme channel="bbcparliament" start="20250612123500 +0000" stop="20250612162500 +0000">
 		<title>House of Commons - 12/06/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 12 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250612163000 +0000" stop="20250612171500 +0000">
+	<programme channel="bbcparliament" start="20250612162500 +0000" stop="20250612171000 +0000">
 		<title>Scottish First Minister's Questions - 12/06/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 12 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250612171500 +0000" stop="20250612180000 +0000">
+	<programme channel="bbcparliament" start="20250612171000 +0000" stop="20250612175500 +0000">
 		<title>Lords Questions - 12/06/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 12 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250612180000 +0000" stop="20250612184000 +0000">
+	<programme channel="bbcparliament" start="20250612175500 +0000" stop="20250612184000 +0000">
 		<title>House of Lords - House of Lords Commission Report</title>
 		<desc>Business in the House of Lords on Thursday 12 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
@@ -6467,25 +6467,35 @@
 		<desc>Statement on US security concerns regarding proposals for the Chinese Embassy in London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250612185000 +0000" stop="20250612195000 +0000">
+	<programme channel="bbcparliament" start="20250612185000 +0000" stop="20250612195500 +0000">
 		<title>House of Lords - Spending Review 2025 Statement</title>
 		<desc>Statement on the government's 2025 spending review, on Thursday 12 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250612195000 +0000" stop="20250612215000 +0000">
+	<programme channel="bbcparliament" start="20250612195500 +0000" stop="20250612220000 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 1</title>
 		<desc>The fourth day of the committee stage of the Children's Wellbeing and Schools Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250612215000 +0000" stop="20250612235500 +0000">
+	<programme channel="bbcparliament" start="20250612220000 +0000" stop="20250612235500 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 2</title>
 		<desc>The fourth day of the committee stage of the Children's Wellbeing and Schools Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250612235500 +0000" stop="20250613015000 +0000">
+	<programme channel="bbcparliament" start="20250612235500 +0000" stop="20250613005500 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 3</title>
 		<desc>The fourth day of the committee stage of the Children's Wellbeing and Schools Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250613005500 +0000" stop="20250613012500 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Coverage of short statements made in the Northern Ireland Assembly by MLAs, from 9 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250613012500 +0000" stop="20250613015000 +0000">
+		<title>Northern Ireland Assembly - Belfast Health Trust Urgent Question</title>
+		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250613015000 +0000" stop="20250613025500 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
@@ -6507,10 +6517,15 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhlnx5.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250613052500 +0000" stop="20250613083000 +0000">
+	<programme channel="bbcparliament" start="20250613052500 +0000" stop="20250613070500 +0000">
 		<title>Westminster Hall - 09/06/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Monday 9 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250613070500 +0000" stop="20250613083000 +0000">
+		<title>House of Commons - Winter Fuel Payments Statement</title>
+		<desc>Statement on changes to winter fuel payments in 2025, with pensions minister Torsten Bell.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhb17m.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250613083000 +0000" stop="20250613140000 +0000">
 		<title>House of Commons - 13/06/2025</title>
@@ -6522,29 +6537,49 @@
 		<desc>Business in the House of Lords on Friday 13 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250613190000 +0000" stop="20250613200000 +0000">
-		<title>Select Committees - 13/06/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20250613190000 +0000" stop="20250613203000 +0000">
+		<title>Select Committees - Public Administration and Constitutional Affairs Committee on the Work of Acoba</title>
+		<desc>Committee looking at the work of the Advisory Committee on Business Appointments (Acoba).</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250613200000 +0000" stop="20250613204500 +0000">
+	<programme channel="bbcparliament" start="20250613203000 +0000" stop="20250613211500 +0000">
 		<title>Scottish First Minister's Questions - 12/06/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 12 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250613204500 +0000" stop="20250614000000 +0000">
-		<title>Scottish Parliament - 13/06/2025</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20250613211500 +0000" stop="20250613214000 +0000">
+		<title>Scottish Parliament - Finance and Local Government Questions</title>
+		<desc>Questions to the cabinet secretary for finance and local government, Shona Robison.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250614000000 +0000" stop="20250614005000 +0000">
+	<programme channel="bbcparliament" start="20250613214000 +0000" stop="20250613225000 +0000">
+		<title>Scottish Parliament - Medical and Nursing Workforce</title>
+		<desc>The debate on addressing Scotland's medical and nursing workforce crisis.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250613225000 +0000" stop="20250614000000 +0000">
+		<title>Scottish Parliament - Loch Lomond Planning</title>
+		<desc>The debate on the Lomond Banks planning application for a development at Balloch.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250614000000 +0000" stop="20250614005500 +0000">
 		<title>Welsh First Minister's Questions - 10/06/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 10 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhn1lx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250614005000 +0000" stop="20250614033000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 13/06/2025</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20250614005500 +0000" stop="20250614015500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Water Quality in Wales</title>
+		<desc>Statement in the Senedd on water quality in Wales, from Tuesday 10 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250614015500 +0000" stop="20250614024500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Freeports and Investment Zones</title>
+		<desc>The statement in the Senedd on freeports and investment zones, from Tuesday 10 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250614024500 +0000" stop="20250614033000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Local Taxes</title>
+		<desc>Statement in the Senedd on 'fairer local taxes', from Tuesday 10 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250614033000 +0000" stop="20250614041500 +0000">
@@ -6553,8 +6588,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhhs9p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250614041500 +0000" stop="20250614050000 +0000">
-		<title>Northern Ireland Assembly - 13/06/2025</title>
-		<desc>Highlights from the Northern Ireland Assembly.</desc>
+		<title>Northern Ireland Assembly - Communities Questions</title>
+		<desc>Questions in the Northern Ireland Assembly to the communities minister, Gordon Lyons.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250614050000 +0000" stop="20250614100000 +0000">
