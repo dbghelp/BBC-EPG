@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20250612083000 +0000" stop="20250612094500 +0000">
 		<title>Morning Live - Series 7: 12/06/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250612094500 +0000" stop="20250612101500 +0000">
 		<title>Expert Witness - Series 1: 12. Pollen, Chalk and DNA</title>
@@ -154,7 +154,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250612214000 +0000" stop="20250612224000 +0000">
 		<title>Question Time - 2025: 12/06/2025</title>
-		<desc>Fiona Bruce hosts an hour of topical debate.</desc>
+		<desc>Fiona Bruce hosts an hour of topical debate from Fleetwood in Lancashire.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250612224000 +0000" stop="20250612231000 +0000">
@@ -744,7 +744,7 @@
 	<programme channel="bbctwo" start="20250612120000 +0000" stop="20250612170000 +0000">
 		<title>Queen's Tennis - 2025: Day 4</title>
 		<desc>Live coverage from Queen’s, where the women's tournament is under way.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lht1z7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250612170000 +0000" stop="20250612173000 +0000">
 		<title>Richard Osman's House of Games - Series 7: 84. Redemption Week 2: Thursday</title>
@@ -5514,7 +5514,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250612200000 +0000" stop="20250612210000 +0000">
 		<title>Question Time - 2025: 12/06/2025</title>
-		<desc>Fiona Bruce hosts an hour of topical debate.</desc>
+		<desc>Fiona Bruce hosts an hour of topical debate from Fleetwood in Lancashire.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250612210000 +0000" stop="20250612213000 +0000">
@@ -6427,10 +6427,15 @@
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250612040000 +0000" stop="20250612055500 +0000">
+	<programme channel="bbcparliament" start="20250612043500 +0000" stop="20250612054000 +0000">
 		<title>House of Lords - Data (Use and Access) Bill</title>
 		<desc>Debate on amendments made to the Data (Use and Access) Bill in the House of Commons.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250612054000 +0000" stop="20250612055500 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250612055500 +0000" stop="20250612062000 +0000">
 		<title>House of Commons - Wales Office Questions</title>
