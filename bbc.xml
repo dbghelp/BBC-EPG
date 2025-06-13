@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20250613083000 +0000" stop="20250613094500 +0000">
 		<title>Morning Live - Series 7: 13/06/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>Gaby Roslin and Rav Wilding talk to Holly Hamilton about how to save money this summer. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj3z41.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250613094500 +0000" stop="20250613101500 +0000">
 		<title>Expert Witness - Series 1: 15. 60s DNA and Fibres around the World</title>
@@ -123,7 +123,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250613180000 +0000" stop="20250613183000 +0000">
 		<title>The One Show - 13/06/2025</title>
-		<desc>Clara Amfo and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Alex Jones and Clara Amfo are joined by Lee Mack, Billy Idol and Zara Larsson.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250613183000 +0000" stop="20250613190000 +0000">
@@ -336,7 +336,7 @@
 	<programme channel="bbcone" start="20250615114500 +0000" stop="20250615120000 +0000">
 		<title>Points of View - 2025: 15/06/2025</title>
 		<desc>Viewers have their say on the BBC’s television shows. Email your thoughts to pov@bbc.co.uk</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c3j262.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj3z8k.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250615120000 +0000" stop="20250615121000 +0000">
 		<title>BBC Weekend News - Lunchtime News: 15/06/2025</title>
@@ -738,13 +738,13 @@
 	</programme>
 	<programme channel="bbctwo" start="20250613113000 +0000" stop="20250613120000 +0000">
 		<title>Political Thinking with Nick Robinson - Series 2: 6. The Mel Stride One</title>
-		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
+		<desc>The Shadow Chancellor, Sir Mel Stride, joins Nick in the Political Thinking studio.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09vm10f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250613120000 +0000" stop="20250613170000 +0000">
 		<title>Queen's Tennis - 2025: Day 5</title>
 		<desc>Further live coverage from the women’s event at Queen’s.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4bl4.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250613170000 +0000" stop="20250613173000 +0000">
 		<title>Richard Osman's House of Games - Series 7: 85. Redemption Week 2: Friday</title>
@@ -769,7 +769,7 @@
 	<programme channel="bbctwo" start="20250613190000 +0000" stop="20250613200000 +0000">
 		<title>Gardeners' World - 2025: Episode 13</title>
 		<desc>The team head to Birmingham for the annual Gardeners’ World Live event.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08jbf3w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj43kq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250613200000 +0000" stop="20250613210000 +0000">
 		<title>Hidden Treasures of the National Trust - Series 3: 5. Goldfinger</title>
@@ -864,7 +864,7 @@
 	<programme channel="bbctwo" start="20250614080000 +0000" stop="20250614090000 +0000">
 		<title>Gardeners' World - 2025: Episode 13</title>
 		<desc>The team head to Birmingham for the annual Gardeners’ World Live event.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08jbf3w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj43kq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250614090000 +0000" stop="20250614093000 +0000">
 		<title>Beechgrove Garden - 2025: Episode 11</title>
@@ -1258,7 +1258,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250613182800 +0000" stop="20250613183000 +0000">
 		<title>The Catch Up - 13/06/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Aisling Taylor.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250613183000 +0000" stop="20250613195000 +0000">
@@ -1716,37 +1716,39 @@
 		<desc>With The Smiths, Scritti Politti, Ozzy Osbourne, Nick Heyward and Nik Kershaw.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgs3br.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250613200000 +0000" stop="20250613205500 +0000">
+	<programme channel="bbcfour" start="20250613200000 +0000" stop="20250613211500 +0000">
+		<title>Glastonbury - Brian Wilson at Glastonbury 2005</title>
+		<desc>Legendary Beach Boys frontman and songwriter brings his classic hits to Worthy Farm.
+
+</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cf1c4b.jpg" />
+	</programme>
+	<programme channel="bbcfour" start="20250613211500 +0000" stop="20250613221500 +0000">
 		<title>Tom Jones at the BBC</title>
 		<desc>An archive celebration of Tom Jones's performances at the BBC from the 60s to the present.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j1yr0f.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250613205500 +0000" stop="20250613215000 +0000">
+	<programme channel="bbcfour" start="20250613221500 +0000" stop="20250613230500 +0000">
 		<title>Tom Jones: In Concert 1971</title>
 		<desc>Tom Jones in concert with the Treorchy Male Choir and The Blossoms. First broadcast 1971.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j22228.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250613215000 +0000" stop="20250613225000 +0000">
+	<programme channel="bbcfour" start="20250613230500 +0000" stop="20250614000500 +0000">
 		<title>Glastonbury - Tom Jones</title>
 		<desc>Includes Delilah, It's Not Unusual, What's New Pussycat?, Kiss and Sex Bomb.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j5f8zl.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250613225000 +0000" stop="20250613235000 +0000">
+	<programme channel="bbcfour" start="20250614000500 +0000" stop="20250614010500 +0000">
 		<title>Tom Jones's 1950s: The Decade That Made Me</title>
 		<desc>Tom Jones takes us on a trip through the decade of his childhood and adolescence.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03qds74.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250613235000 +0000" stop="20250614005000 +0000">
+	<programme channel="bbcfour" start="20250614010500 +0000" stop="20250614020500 +0000">
 		<title>The Rolling Stones: Licked Live in NYC</title>
 		<desc>The Rolling Stones captured live in 2003 from New York City's Madison Square Garden.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cjbl41.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250614005000 +0000" stop="20250614030000 +0000">
-		<title>George Michael: Live in London</title>
-		<desc>The former Wham! frontman, George Michael, is filmed at his final two concerts.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fty6lc.jpg" />
-	</programme>
-	<programme channel="bbcfour" start="20250614030000 +0000" stop="20250614043000 +0000">
+	<programme channel="bbcfour" start="20250614020500 +0000" stop="20250614043000 +0000">
 		<title>This is BBC Four - This is BBC Four</title>
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
@@ -1769,54 +1771,44 @@
 	<programme channel="bbcfour" start="20250614182000 +0000" stop="20250614191000 +0000">
 		<title>All Creatures Great and Small - Series 5: 3. Choose a Bright Morning</title>
 		<desc>James receives a cry for help from the isolated Bramley family.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb2wxd.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj3mz6.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250614191000 +0000" stop="20250614200000 +0000">
 		<title>All Creatures Great and Small - Series 5: 4. The Playing Field</title>
 		<desc>With Siegfried in London, Tristan is left with the worst patients.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb2wxd.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj42p1.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250614200000 +0000" stop="20250614220500 +0000">
 		<title>Kidnapped</title>
 		<desc>Italy, 1858. A six-year-old Jewish boy is kidnapped and converted to Catholicism.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgl7hj.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250614220500 +0000" stop="20250614225500 +0000">
-		<title>Scrublands - Series 1: Episode 1</title>
-		<desc>Journalist Martin Scarsden investigates the shooting of five parishioners by a priest.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gr9l0j.jpg" />
+	<programme channel="bbcfour" start="20250614220500 +0000" stop="20250615000000 +0000">
+		<title>Love &amp; Mercy</title>
+		<desc>At the height of success with The Beach Boys, Brian Wilson suffers from mental illness.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08b9jk2.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250614225500 +0000" stop="20250614234500 +0000">
-		<title>Scrublands - Series 1: Episode 2</title>
-		<desc>Martin decides to stay on in Riversend to dig deeper into the mystery of Byron Swift.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gr9l5k.jpg" />
-	</programme>
-	<programme channel="bbcfour" start="20250614234500 +0000" stop="20250615001500 +0000">
+	<programme channel="bbcfour" start="20250615000000 +0000" stop="20250615003000 +0000">
 		<title>The Good Life - Series 2: 2. The Guru of Surbiton</title>
 		<desc>Tom's philosophy of life attracts two young disciples - but not permanently, he hopes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l2g36y.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250615001500 +0000" stop="20250615004500 +0000">
+	<programme channel="bbcfour" start="20250615003000 +0000" stop="20250615010000 +0000">
 		<title>Yes Minister - Series 1: 6. The Right to Know</title>
 		<desc>Should ministers ever be kept in the dark? Jim Hacker is not so sure.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kqhb1r.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250615004500 +0000" stop="20250615013500 +0000">
+	<programme channel="bbcfour" start="20250615010000 +0000" stop="20250615015000 +0000">
 		<title>All Creatures Great and Small - Series 5: 3. Choose a Bright Morning</title>
 		<desc>James receives a cry for help from the isolated Bramley family.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb2wxd.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj3mz6.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250615013500 +0000" stop="20250615022500 +0000">
+	<programme channel="bbcfour" start="20250615015000 +0000" stop="20250615024000 +0000">
 		<title>All Creatures Great and Small - Series 5: 4. The Playing Field</title>
 		<desc>With Siegfried in London, Tristan is left with the worst patients.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb2wxd.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj42p1.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250615022500 +0000" stop="20250615024500 +0000">
-		<title>The Flying Gardener - Series 1 Shorts: Scotland</title>
-		<desc>In west Scotland, Chris Beardshaw helps an oyster fisherman deal with an overgrown garden.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0xjj9.jpg" />
-	</programme>
-	<programme channel="bbcfour" start="20250615024500 +0000" stop="20250615043000 +0000">
+	<programme channel="bbcfour" start="20250615024000 +0000" stop="20250615043000 +0000">
 		<title>This is BBC Four - This is BBC Four</title>
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
@@ -1849,7 +1841,7 @@
 	<programme channel="bbcfour" start="20250615200000 +0000" stop="20250615210000 +0000">
 		<title>Arena - Charlie Drake: Drake's Progress</title>
 		<desc>Documentary profile of actor and comedian Charlie Drake. From 2001.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0828tg8.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj37lb.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250615210000 +0000" stop="20250615211500 +0000">
 		<title>Remembers... - Brian Cox Remembers… The Lost Language of Cranes</title>
@@ -1884,7 +1876,7 @@
 	<programme channel="bbcfour" start="20250616014500 +0000" stop="20250616024000 +0000">
 		<title>Arena - Charlie Drake: Drake's Progress</title>
 		<desc>Documentary profile of actor and comedian Charlie Drake. From 2001.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0828tg8.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj37lb.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250616024000 +0000" stop="20250616043000 +0000">
 		<title>This is BBC Four - This is BBC Four</title>
@@ -5498,9 +5490,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250613173000 +0000" stop="20250613180000 +0000">
-		<title>Sportsday - 13/06/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
+		<title>The World Today with Maryam Moshiri - 13/06/2025</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250613180000 +0000" stop="20250613183000 +0000">
 		<title>The World Today with Maryam Moshiri - 13/06/2025</title>
@@ -5522,10 +5514,15 @@
 		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250613200000 +0000" stop="20250613210000 +0000">
-		<title>The BBC World Service Debate - Is Trump Making the World Safer or More Dangerous?</title>
-		<desc>Debate considering the rapidly changing international landscape during Trump's presidency.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhczcp.jpg" />
+	<programme channel="bbcnews" start="20250613200000 +0000" stop="20250613203000 +0000">
+		<title>BBC News - 13/06/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250613203000 +0000" stop="20250613210000 +0000">
+		<title>BBC News - 13/06/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250613210000 +0000" stop="20250613213000 +0000">
 		<title>BBC News at Ten - 13/06/2025</title>
@@ -5543,8 +5540,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250613223000 +0000" stop="20250613230000 +0000">
-		<title>The President's Path - 13/06/2025</title>
-		<desc>A weekly discussion on the US presidency.</desc>
+		<title>The President's Path - Trump's Troops</title>
+		<desc>How the Trump administration is reshaping the US military.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250613230000 +0000" stop="20250613233000 +0000">
@@ -5554,7 +5551,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250613233000 +0000" stop="20250614000000 +0000">
 		<title>Talking Business - 13/06/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>What does President Trump's education crackdown mean for the world' biggest economy?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250614000000 +0000" stop="20250614003000 +0000">
@@ -5583,8 +5580,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250614023000 +0000" stop="20250614030000 +0000">
-		<title>Ukrainecast - 14/06/2025</title>
-		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+		<title>Ukrainecast - 5. Counting Russian Casualties in Ukraine</title>
+		<desc>Your questions answered on Russia's losses and conditions for prisoners.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250614030000 +0000" stop="20250614033000 +0000">
@@ -5593,8 +5590,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250614033000 +0000" stop="20250614040000 +0000">
-		<title>The Media Show - 14/06/2025</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - Will AI Kill the Advertising Industry?</title>
+		<desc>Meta's plan for new tools that will let anyone make ads.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250614040000 +0000" stop="20250614043000 +0000">
@@ -5603,7 +5600,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250614043000 +0000" stop="20250614050000 +0000">
-		<title>The Travel Show - Going Loco: Mexico’s Maya Train</title>
+		<title>The Travel Show - Going Loco: Mexico’s Maya Train - Part 1</title>
 		<desc>Qasa Alom heads to Mexico's Yucatan Peninsula to check out its brand new Maya Train.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhg450.jpg" />
 	</programme>
@@ -5634,7 +5631,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250614103000 +0000" stop="20250614110000 +0000">
 		<title>Talking Business - 13/06/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>What does President Trump's education crackdown mean for the world' biggest economy?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250614110000 +0000" stop="20250614113000 +0000">
@@ -5688,8 +5685,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250614153000 +0000" stop="20250614160000 +0000">
-		<title>Ukrainecast - 14/06/2025</title>
-		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+		<title>Ukrainecast - 5. Counting Russian Casualties in Ukraine</title>
+		<desc>Your questions answered on Russia's losses and conditions for prisoners.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250614160000 +0000" stop="20250614170000 +0000">
@@ -5744,7 +5741,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250614223000 +0000" stop="20250614230000 +0000">
 		<title>Political Thinking with Nick Robinson - Series 2: 6. The Mel Stride One</title>
-		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
+		<desc>The Shadow Chancellor, Sir Mel Stride, joins Nick in the Political Thinking studio.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09vm10f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250614230000 +0000" stop="20250614233000 +0000">
@@ -5753,8 +5750,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250614233000 +0000" stop="20250615000000 +0000">
-		<title>The Media Show - 14/06/2025</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - Will AI Kill the Advertising Industry?</title>
+		<desc>Meta's plan for new tools that will let anyone make ads.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250615000000 +0000" stop="20250615003000 +0000">
@@ -5833,8 +5830,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250615103000 +0000" stop="20250615110000 +0000">
-		<title>The President's Path - 13/06/2025</title>
-		<desc>A weekly discussion on the US presidency.</desc>
+		<title>The President's Path - Trump's Troops</title>
+		<desc>How the Trump administration is reshaping the US military.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250615110000 +0000" stop="20250615113000 +0000">
@@ -5853,7 +5850,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250615123000 +0000" stop="20250615130000 +0000">
-		<title>The Travel Show - Going Loco: Mexico’s Maya Train</title>
+		<title>The Travel Show - Going Loco: Mexico’s Maya Train - Part 1</title>
 		<desc>Qasa Alom heads to Mexico's Yucatan Peninsula to check out its brand new Maya Train.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhg450.jpg" />
 	</programme>
@@ -5943,8 +5940,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250615223000 +0000" stop="20250615230000 +0000">
-		<title>Ukrainecast - 14/06/2025</title>
-		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+		<title>Ukrainecast - 5. Counting Russian Casualties in Ukraine</title>
+		<desc>Your questions answered on Russia's losses and conditions for prisoners.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250615230000 +0000" stop="20250615233000 +0000">
@@ -5963,8 +5960,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250616003000 +0000" stop="20250616010000 +0000">
-		<title>Ukrainecast - 14/06/2025</title>
-		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+		<title>Ukrainecast - 5. Counting Russian Casualties in Ukraine</title>
+		<desc>Your questions answered on Russia's losses and conditions for prisoners.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250616010000 +0000" stop="20250616013000 +0000">
@@ -6433,7 +6430,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hwqglj.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250618033000 +0000" stop="20250618040000 +0000">
-		<title>The Travel Show - Going Loco: Mexico’s Maya Train</title>
+		<title>The Travel Show - Going Loco: Mexico’s Maya Train - Part 1</title>
 		<desc>Qasa Alom heads to Mexico's Yucatan Peninsula to check out its brand new Maya Train.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhg450.jpg" />
 	</programme>
@@ -6707,34 +6704,34 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhlnx5.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250616050000 +0000" stop="20250616080000 +0000">
-		<title>Westminster Hall - 12/06/2025</title>
-		<desc>House of Commons proceedings in Westminster Hall from Thursday 12 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	<programme channel="bbcparliament" start="20250616050000 +0000" stop="20250616075000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250616080000 +0000" stop="20250616084500 +0000">
+	<programme channel="bbcparliament" start="20250616075000 +0000" stop="20250616083500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in Stormont to deputy first minister Emma Little-Pengelly, from Monday 9 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhhs9p.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250616084500 +0000" stop="20250616093500 +0000">
+	<programme channel="bbcparliament" start="20250616083500 +0000" stop="20250616093000 +0000">
 		<title>Welsh First Minister's Questions - 10/06/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 10 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhn1lx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250616093500 +0000" stop="20250616102000 +0000">
+	<programme channel="bbcparliament" start="20250616093000 +0000" stop="20250616101500 +0000">
 		<title>Scottish First Minister's Questions - 12/06/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 12 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj0s9f.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250616102000 +0000" stop="20250616105500 +0000">
+	<programme channel="bbcparliament" start="20250616101500 +0000" stop="20250616105000 +0000">
 		<title>Prime Minister's Questions - 11/06/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhlnx5.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250616105500 +0000" stop="20250616130000 +0000">
-		<title>Select Committees - 16/06/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20250616105000 +0000" stop="20250616130000 +0000">
+		<title>Select Committees - Home Affairs Committee on Asylum Accommodation</title>
+		<desc>The Home Affairs select committee session on asylum accommodation, from Tuesday 10 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250616130000 +0000" stop="20250616133000 +0000">
@@ -7602,7 +7599,7 @@
 	<programme channel="s4c" start="20250613113000 +0000" stop="20250613120000 +0000">
 		<title>Heno - Thu, 12 Jun 2025</title>
 		<desc>Rydym yn fyw o Gêm Bêl-droed Sêr Llanfair, ac mae ser y rhaglen Race Across the World y...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj40g6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250613120000 +0000" stop="20250613123000 +0000">
 		<title>Y Ci Perffaith - Pennod 2</title>
@@ -7692,7 +7689,7 @@
 	<programme channel="s4c" start="20250613180000 +0000" stop="20250613183000 +0000">
 		<title>Heno - Fri, 13 Jun 2025</title>
 		<desc>Heno, byddwn yn dod yn fyw o Tafwyl, Gwyl Gymraeg Caerdydd. Tonight, we'll be coming li...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj40g6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250613183000 +0000" stop="20250613190000 +0000">
 		<title>Newyddion S4C - Fri, 13 Jun 2025 19:30</title>
@@ -8227,7 +8224,7 @@
 	<programme channel="s4c" start="20250616113000 +0000" stop="20250616120000 +0000">
 		<title>Heno - Fri, 13 Jun 2025</title>
 		<desc>Heno, byddwn yn dod yn fyw o Tafwyl, Gwyl Gymraeg Caerdydd. Tonight, we'll be coming li...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj40g6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250616120000 +0000" stop="20250616130000 +0000">
 		<title>Hewlfa Drysor - Llanerfyl</title>
@@ -8312,7 +8309,7 @@
 	<programme channel="s4c" start="20250616180000 +0000" stop="20250616183000 +0000">
 		<title>Heno - Mon, 16 Jun 2025</title>
 		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj40g6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250616183000 +0000" stop="20250616190000 +0000">
 		<title>Newyddion S4C - Mon, 16 Jun 2025 19:30</title>
@@ -8517,7 +8514,7 @@
 	<programme channel="s4c" start="20250617113000 +0000" stop="20250617120000 +0000">
 		<title>Heno - Mon, 16 Jun 2025</title>
 		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj40g6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250617120000 +0000" stop="20250617123000 +0000">
 		<title>Arfordir Cymru - Sir Benfro: Angle i Amroth</title>
@@ -8602,7 +8599,7 @@
 	<programme channel="s4c" start="20250617180000 +0000" stop="20250617183000 +0000">
 		<title>Heno - Tue, 17 Jun 2025</title>
 		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hsddrx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj40g6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250617183000 +0000" stop="20250617190000 +0000">
 		<title>Newyddion S4C - Tue, 17 Jun 2025 19:30</title>
