@@ -69,20 +69,10 @@
 		<desc>The latest weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250614122500 +0000" stop="20250614150000 +0000">
-		<title>Queen's Tennis - 2025: Day 6</title>
+	<programme channel="bbcone" start="20250614122500 +0000" stop="20250614163000 +0000">
+		<title>Queen's Tennis - 2025: Day 6 - Part 1</title>
 		<desc>Live coverage of the semi-finals from Queen’s.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
-	</programme>
-	<programme channel="bbcone" start="20250614150000 +0000" stop="20250614153000 +0000">
-		<title>Deadly 60 - Series 5: 3. Very Hungry Hippos</title>
-		<desc>Steve heads to Zambia in search of hippos.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jnnrh6.jpg" />
-	</programme>
-	<programme channel="bbcone" start="20250614153000 +0000" stop="20250614163000 +0000">
-		<title>Escape to the Country - Series 24 (Extended Versions): County Antrim and County Down</title>
-		<desc>Jules Hudson helps a couple from Toronto find a new home in Northern Ireland.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hwj6l0.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250614163000 +0000" stop="20250614164000 +0000">
 		<title>BBC Weekend News - Evening News: 14/06/2025</title>
@@ -792,9 +782,14 @@
 		<desc>The 20th-century treasures of architect Erno Goldfinger.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lb6t1l.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250614163000 +0000" stop="20250614170000 +0000">
-		<title>Flog It! - Series 11 (Shortened Versions): 3. Hereford</title>
-		<desc>Paul Martin and experts Adam Partridge and Christina Trevanion are at Hereford Cathedral.</desc>
+	<programme channel="bbctwo" start="20250614163000 +0000" stop="20250614164500 +0000">
+		<title>Queen's Tennis - 2025: Day 6 - Part 2</title>
+		<desc>Live coverage of the semi-finals from Queen’s.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250614164500 +0000" stop="20250614170000 +0000">
+		<title>Flog It! - Series 13 (60-Minute Versions): 4. Manchester</title>
+		<desc>This edition comes from the Museum of Science and Industry.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250614170000 +0000" stop="20250614180000 +0000">
