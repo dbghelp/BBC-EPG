@@ -89,10 +89,15 @@
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250615121500 +0000" stop="20250615144000 +0000">
+	<programme channel="bbcone" start="20250615121500 +0000" stop="20250615142500 +0000">
 		<title>Queen's Tennis - 2025: Women's Final</title>
 		<desc>Live coverage of the first women’s final to take place at Queen’s in more than 50 years.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20250615142500 +0000" stop="20250615144000 +0000">
+		<title>Planet Earth Live - Specials: 1. A Tale of Three Bears</title>
+		<desc>Following the progress of three black bear cubs in the spectacular Northwoods of Minnesota</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f29x9y.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250615144000 +0000" stop="20250615151000 +0000">
 		<title>Garden Rescue - Series 6 (Shortened Versions): 4. Droitwich Spa</title>
