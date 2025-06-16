@@ -756,7 +756,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgjnh7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250616120000 +0000" stop="20250616170000 +0000">
-		<title>Queen's Tennis - 2025: Day 8</title>
+		<title>Queen's Tennis - 2025: Day 1, BBC Two</title>
 		<desc>The top male players battle it out in preparation for Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljl215.jpg" />
 	</programme>
@@ -6606,19 +6606,19 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250616130000 +0000" stop="20250616133000 +0000">
-		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<title>Northern Ireland Assembly - Education Questions</title>
+		<desc>Coverage of questions to the education minister, Paul Givan, on Monday 16 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljn4x4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250616133000 +0000" stop="20250616143000 +0000">
 		<title>House of Commons - Education Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Monday 16 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljn6bj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250616143000 +0000" stop="20250616153000 +0000">
 		<title>House of Commons - Casey Report and Grooming Gangs Inquiry Statement</title>
 		<desc>Statement on the Casey Report and the national inquiry into grooming gangs, on 16 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljn6rc.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250616153000 +0000" stop="20250616163000 +0000">
 		<title>House of Commons - Iran and Israel Conflict Statement</title>
@@ -6636,9 +6636,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250616213000 +0000" stop="20250616221500 +0000">
-		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<title>Northern Ireland Assembly - Education Questions</title>
+		<desc>Coverage of questions to the education minister, Paul Givan, on Monday 16 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljn4x4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250616221500 +0000" stop="20250616230000 +0000">
 		<title>Lords Questions - 16/06/2025</title>
@@ -6660,24 +6660,29 @@
 		<desc>Business in the House of Lords on Monday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250617045000 +0000" stop="20250617060000 +0000">
+	<programme channel="bbcparliament" start="20250617045000 +0000" stop="20250617061500 +0000">
 		<title>House of Lords - Iran and Israel Statement</title>
 		<desc>Conflict between Iran and Israel and the situation in the Occupied Palestinian Territories</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250617060000 +0000" stop="20250617070000 +0000">
+	<programme channel="bbcparliament" start="20250617061500 +0000" stop="20250617071500 +0000">
 		<title>House of Commons - Education Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Monday 16 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljn6bj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250617070000 +0000" stop="20250617090000 +0000">
-		<title>House of Commons - 16/06/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 16 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250617071500 +0000" stop="20250617080000 +0000">
+		<title>Lords Questions - 16/06/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Monday 16 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250617090000 +0000" stop="20250617103000 +0000">
-		<title>Select Committees - Environment Committee on the Water Sector</title>
-		<desc>The Environment, Food and Rural Affairs committee session on reforming the water sector.</desc>
+	<programme channel="bbcparliament" start="20250617080000 +0000" stop="20250617093000 +0000">
+		<title>Select Committees - Public Administration and Constitutional Affairs Committee on the Work of Acoba</title>
+		<desc>Committee looking at the work of the Advisory Committee on Business Appointments (Acoba).</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250617093000 +0000" stop="20250617103000 +0000">
+		<title>Select Committees - Home Affairs Committee on Grooming Gangs Inquiry</title>
+		<desc>Home Affairs committee on the the Independent Inquiry into Child Sexual Abuse.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250617103000 +0000" stop="20250617113000 +0000">
@@ -6981,9 +6986,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250621033000 +0000" stop="20250621041500 +0000">
-		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<title>Northern Ireland Assembly - Education Questions</title>
+		<desc>Coverage of questions to the education minister, Paul Givan, on Monday 16 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljn4x4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250621041500 +0000" stop="20250621050000 +0000">
 		<title>Northern Ireland Assembly - 20/06/2025</title>
