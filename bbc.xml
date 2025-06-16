@@ -791,8 +791,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05f3g9s.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250616213000 +0000" stop="20250616215800 +0000">
-		<title>Newsnight - 16/06/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Grooming Gangs: The Casey Audit</title>
+		<desc>Baroness Casey persuades the government to hold a national inquiry into grooming gangs.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250616215800 +0000" stop="20250616220000 +0000">
@@ -5631,8 +5631,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250616213000 +0000" stop="20250616220000 +0000">
-		<title>Newsnight - 16/06/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Grooming Gangs: The Casey Audit</title>
+		<desc>Baroness Casey persuades the government to hold a national inquiry into grooming gangs.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250616220000 +0000" stop="20250616230000 +0000">
@@ -6610,57 +6610,52 @@
 		<desc>Coverage of questions to the education minister, Paul Givan, on Monday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljn4x4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250616133000 +0000" stop="20250616143000 +0000">
+	<programme channel="bbcparliament" start="20250616133000 +0000" stop="20250616143500 +0000">
 		<title>House of Commons - Education Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Monday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljn6bj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250616143000 +0000" stop="20250616153000 +0000">
+	<programme channel="bbcparliament" start="20250616143500 +0000" stop="20250616162500 +0000">
 		<title>House of Commons - Casey Report and Grooming Gangs Inquiry Statement</title>
 		<desc>Statement on the Casey Report and the national inquiry into grooming gangs, on 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljn6rc.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250616153000 +0000" stop="20250616163000 +0000">
+	<programme channel="bbcparliament" start="20250616162500 +0000" stop="20250616174500 +0000">
 		<title>House of Commons - Iran and Israel Conflict Statement</title>
 		<desc>Statement by foreign secretary David Lammy on the conflict between Iran and Israel.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250616163000 +0000" stop="20250616173000 +0000">
+	<programme channel="bbcparliament" start="20250616174500 +0000" stop="20250616182500 +0000">
 		<title>House of Commons - Air India Crash Statement</title>
 		<desc>Statement on the government's response to the Air India crash, on Monday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250616173000 +0000" stop="20250616213000 +0000">
+	<programme channel="bbcparliament" start="20250616182500 +0000" stop="20250616213000 +0000">
 		<title>House of Commons - 16/06/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250616213000 +0000" stop="20250616221500 +0000">
-		<title>Northern Ireland Assembly - Education Questions</title>
-		<desc>Coverage of questions to the education minister, Paul Givan, on Monday 16 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljn4x4.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250616221500 +0000" stop="20250616230000 +0000">
 		<title>Lords Questions - 16/06/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250616230000 +0000" stop="20250617010000 +0000">
+	<programme channel="bbcparliament" start="20250616221500 +0000" stop="20250617001500 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 1</title>
 		<desc>Business in the House of Lords on Monday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250617010000 +0000" stop="20250617030000 +0000">
+	<programme channel="bbcparliament" start="20250617001500 +0000" stop="20250617021500 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 2</title>
 		<desc>Business in the House of Lords on Monday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250617030000 +0000" stop="20250617045000 +0000">
+	<programme channel="bbcparliament" start="20250617021500 +0000" stop="20250617045500 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 3</title>
 		<desc>Business in the House of Lords on Monday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250617045000 +0000" stop="20250617061500 +0000">
+	<programme channel="bbcparliament" start="20250617045500 +0000" stop="20250617061500 +0000">
 		<title>House of Lords - Iran and Israel Statement</title>
 		<desc>Conflict between Iran and Israel and the situation in the Occupied Palestinian Territories</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
