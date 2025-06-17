@@ -1290,7 +1290,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250617185800 +0000" stop="20250617190000 +0000">
 		<title>The Catch Up - 17/06/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Jack Surfleet.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250617190000 +0000" stop="20250617190500 +0000">
@@ -5243,9 +5243,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09r92r3.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250617220000 +0000" stop="20250617223000 +0000">
-		<title>Scotcast - 17/06/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Could AI take YOUR job?</title>
+		<desc>Martin Geissler and Natalie Higgins ask what role AI will play – and what threat it poses.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljt7p7.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250617223000 +0000" stop="20250617230000 +0000">
 		<title>Martin Compston's Norwegian Fling - Series 1: Episode 1</title>
@@ -6613,39 +6613,29 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250617223500 +0000" stop="20250617233500 +0000">
-		<title>House of Lords - 17/06/2025 Part 1</title>
-		<desc>Business in the House of Lords on Tuesday 17 June.</desc>
+		<title>House of Lords - Holocaust Memorial Bill</title>
+		<desc>The third reading of the Holocaust Memorial Bill in the House of Lords on Tuesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250617233500 +0000" stop="20250618003500 +0000">
-		<title>House of Lords - 17/06/2025 Part 2</title>
-		<desc>Business in the House of Lords on Tuesday 17 June.</desc>
+	<programme channel="bbcparliament" start="20250617233500 +0000" stop="20250618013500 +0000">
+		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 1</title>
+		<desc>The fifth day of the committee stage on the Children's Wellbeing and Schools Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250618003500 +0000" stop="20250618013500 +0000">
-		<title>House of Lords - 17/06/2025 Part 3</title>
-		<desc>Business in the House of Lords on Tuesday 17 June.</desc>
+	<programme channel="bbcparliament" start="20250618013500 +0000" stop="20250618033500 +0000">
+		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 2</title>
+		<desc>The fifth day of the committee stage on the Children's Wellbeing and Schools Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250618013500 +0000" stop="20250618023500 +0000">
-		<title>House of Lords - 17/06/2025 Part 4</title>
-		<desc>Business in the House of Lords on Tuesday 17 June.</desc>
+	<programme channel="bbcparliament" start="20250618033500 +0000" stop="20250618045500 +0000">
+		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 3</title>
+		<desc>The fifth day of the committee stage on the Children's Wellbeing and Schools Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250618023500 +0000" stop="20250618033500 +0000">
-		<title>House of Lords - 17/06/2025 Part 5</title>
-		<desc>Business in the House of Lords on Tuesday 17 June.</desc>
+	<programme channel="bbcparliament" start="20250618045500 +0000" stop="20250618060000 +0000">
+		<title>House of Lords - Gibraltar Agreement Statement</title>
+		<desc>The statement on the deal reached with the EU on Gibraltar, on Tuesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250618033500 +0000" stop="20250618050000 +0000">
-		<title>House of Lords - 17/06/2025 Part 6</title>
-		<desc>Business in the House of Lords on Tuesday 17 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250618050000 +0000" stop="20250618060000 +0000">
-		<title>House of Commons - Health and Social Care Questions</title>
-		<desc>Coverage of questions to Wes Streeting on Tuesday 17 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250618060000 +0000" stop="20250618083000 +0000">
 		<title>House of Commons - 17/06/2025</title>
@@ -7443,7 +7433,7 @@ Suzie Roberts reads Earball Katinka.</desc>
 	<programme channel="bbcalba" start="20250621150000 +0000" stop="20250621171000 +0000">
 		<title>Camanachd air BBC ALBA/Shinty on BBC ALBA - 2025/26: 2. Celtic Cup Final - Kyles Athletic v Oban Camanachd</title>
 		<desc>The Glasgow Celtic Society cup final with Kyles Athletic facing Oban Camanachd.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02165zr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljtd8t.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250621171000 +0000" stop="20250621173000 +0000">
 		<title>Binneas - Na Trads - Series 7: Episode 6</title>
@@ -7697,7 +7687,7 @@ Suzie Roberts reads Earball Katinka.</desc>
 	</programme>
 	<programme channel="s4c" start="20250617130500 +0000" stop="20250617140000 +0000">
 		<title>Prynhawn Da - Tue, 17 Jun 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Agorwn ddrysau'r syrjeri gyda Dr Llinos, mae Emma Jenkins yn y gornel harddwch, a Joe a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250617140000 +0000" stop="20250617140500 +0000">
@@ -7762,7 +7752,7 @@ Suzie Roberts reads Earball Katinka.</desc>
 	</programme>
 	<programme channel="s4c" start="20250617180000 +0000" stop="20250617183000 +0000">
 		<title>Heno - Tue, 17 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Dysgwn am Ysgol Ddawns Footloose, a chawn gwmni Miss Cymru '24, Millie-Mae Adams, a'r a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250617183000 +0000" stop="20250617190000 +0000">
@@ -7967,7 +7957,7 @@ Suzie Roberts reads Earball Katinka.</desc>
 	</programme>
 	<programme channel="s4c" start="20250618113000 +0000" stop="20250618120000 +0000">
 		<title>Heno - Tue, 17 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Dysgwn am Ysgol Ddawns Footloose, a chawn gwmni Miss Cymru '24, Millie-Mae Adams, a'r a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250618120000 +0000" stop="20250618123000 +0000">
