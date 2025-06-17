@@ -759,7 +759,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgjnh7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250617120000 +0000" stop="20250617170000 +0000">
-		<title>Queen's Tennis - 2025: Day 9</title>
+		<title>Queen's Tennis - 2025: Day 2, BBC Two</title>
 		<desc>The first round of 2025’s men’s tournament continues at Queen’s Club.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljs1ms.jpg" />
 	</programme>
@@ -6637,10 +6637,20 @@
 		<desc>The statement on the deal reached with the EU on Gibraltar, on Tuesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250618060000 +0000" stop="20250618083000 +0000">
-		<title>House of Commons - 17/06/2025</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 17 June.</desc>
+	<programme channel="bbcparliament" start="20250618060000 +0000" stop="20250618071500 +0000">
+		<title>House of Commons - Health and Social Care Questions</title>
+		<desc>Coverage of questions to Wes Streeting on Tuesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250618071500 +0000" stop="20250618074500 +0000">
+		<title>House of Commons - Wales Office Questions</title>
+		<desc>Coverage of questions to Jo Stevens on Wednesday 11 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhn50n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250618074500 +0000" stop="20250618083000 +0000">
+		<title>Lords Questions - 17/06/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Tuesday 17 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250618083000 +0000" stop="20250618103000 +0000">
 		<title>Select Committees - Scottish Affairs Select Committee</title>
