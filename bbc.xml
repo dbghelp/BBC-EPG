@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20250617083000 +0000" stop="20250617094500 +0000">
 		<title>Morning Live - Series 7: 17/06/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>Gethin Jones and Holly Hamilton discuss the health risks of visceral fat with Dr Xand.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljr610.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250617094500 +0000" stop="20250617101500 +0000">
 		<title>The Moment of Proof - Series 4: Episode 2</title>
@@ -123,7 +123,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250617180000 +0000" stop="20250617183000 +0000">
 		<title>The One Show - 17/06/2025</title>
-		<desc>Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+		<desc>Alex and Clara are joined by Rob Rinder, Danny Boyle, Jodi Comer and Aaron Taylor-Johnson.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250617183000 +0000" stop="20250617190000 +0000">
@@ -421,7 +421,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250619214000 +0000" stop="20250619224000 +0000">
 		<title>Question Time - 2025: 19/06/2025</title>
-		<desc>Fiona Bruce hosts an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents a special episode about growing up in the 21st century.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250619224000 +0000" stop="20250619231000 +0000">
@@ -755,13 +755,13 @@
 	</programme>
 	<programme channel="bbctwo" start="20250617111500 +0000" stop="20250617120000 +0000">
 		<title>Politics Live - 17/06/2025</title>
-		<desc>The big political issues of the day.</desc>
+		<desc>The grooming gangs inquiry, fighting socio-economic inequality and working from home.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgjnh7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250617120000 +0000" stop="20250617170000 +0000">
 		<title>Queen's Tennis - 2025: Day 9</title>
 		<desc>The first round of 2025’s men’s tournament continues at Queen’s Club.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljqlpm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljs1ms.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250617170000 +0000" stop="20250617173000 +0000">
 		<title>Richard Osman's House of Games - Series 7: 87. Champions Week 1: Tuesday</title>
@@ -5345,7 +5345,7 @@
 	<programme channel="bbcscotland" start="20250619190000 +0000" stop="20250619193000 +0000">
 		<title>Beechgrove Garden - 2025: Episode 12</title>
 		<desc>Brian looks at an area designed to have something of interest every month of the year.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l23q41.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljqzhw.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250619193000 +0000" stop="20250619200000 +0000">
 		<title>Landward - 2025: Episode 12</title>
@@ -5522,20 +5522,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250617093000 +0000" stop="20250617103000 +0000">
+	<programme channel="bbcnews" start="20250617093000 +0000" stop="20250617110000 +0000">
 		<title>Select Committees - Home Affairs Committee on Grooming Gangs Inquiry</title>
-		<desc>Home Affairs committee on the the Independent Inquiry into Child Sexual Abuse.</desc>
+		<desc>Home Affairs committee on the Independent Inquiry into Child Sexual Abuse.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250617103000 +0000" stop="20250617104500 +0000">
-		<title>Business Today - 17/06/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250617104500 +0000" stop="20250617110000 +0000">
-		<title>BBC News - 17/06/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250617110000 +0000" stop="20250617113000 +0000">
 		<title>BBC News Now - 17/06/2025</title>
@@ -6074,7 +6064,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250619200000 +0000" stop="20250619210000 +0000">
 		<title>Question Time - 2025: 19/06/2025</title>
-		<desc>Fiona Bruce hosts an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents a special episode about growing up in the 21st century.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250619210000 +0000" stop="20250619213000 +0000">
@@ -6594,7 +6584,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20250617093000 +0000" stop="20250617103000 +0000">
 		<title>Select Committees - Home Affairs Committee on Grooming Gangs Inquiry</title>
-		<desc>Home Affairs committee on the the Independent Inquiry into Child Sexual Abuse.</desc>
+		<desc>Home Affairs committee on the Independent Inquiry into Child Sexual Abuse.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250617103000 +0000" stop="20250617113000 +0000">
@@ -6602,23 +6592,8 @@
 		<desc>Coverage of questions to Wes Streeting on Tuesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250617113000 +0000" stop="20250617123000 +0000">
-		<title>House of Commons - 17/06/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 17 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250617123000 +0000" stop="20250617133000 +0000">
-		<title>House of Commons - 17/06/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 17 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250617133000 +0000" stop="20250617143000 +0000">
-		<title>House of Commons - 17/06/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 17 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250617143000 +0000" stop="20250617183000 +0000">
-		<title>House of Commons - 17/06/2025 Part 4</title>
+	<programme channel="bbcparliament" start="20250617113000 +0000" stop="20250617183000 +0000">
+		<title>House of Commons - 17/06/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -8667,8 +8642,8 @@ Suzie Roberts reads Earball Katinka.</desc>
 	</programme>
 	<programme channel="s4c" start="20250620183000 +0000" stop="20250620212000 +0000">
 		<title>Taith y Llewod 2025 - Y Llewod v Yr Ariannin</title>
-		<desc>Welsh language coverage. Y Llewod Prydeinig a Gwyddelig sy'n chwarae'n erbyn Yr Arianni...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<desc>Welsh language coverage. Y Llewod Prydeinig a Gwyddelig sy'n chwarae yn erbyn Yr Ariann...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljr16g.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250620212000 +0000" stop="20250620214500 +0000">
 		<title>Ar Led - Atal Cenhedlu &amp; Sextio</title>
