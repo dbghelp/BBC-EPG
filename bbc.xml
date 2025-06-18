@@ -848,7 +848,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgjnh7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250619120000 +0000" stop="20250619170000 +0000">
-		<title>Queen's Tennis - 2025: Day 11</title>
+		<title>Queen's Tennis - 2025: Day 4</title>
 		<desc>The second round of the men’s tournament continues at London’s Queen’s Club.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
 	</programme>
@@ -958,7 +958,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09vm10f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250620120000 +0000" stop="20250620170000 +0000">
-		<title>Queen's Tennis - 2025: Quarter-Finals, BBC Two</title>
+		<title>Queen's Tennis - 2025: Day 5</title>
 		<desc>Live coverage of the quarter-finals of the men's tournament at London’s Queen’s Club.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
 	</programme>
@@ -1108,7 +1108,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03hbzn2.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250621120000 +0000" stop="20250621160000 +0000">
-		<title>Queen's Tennis - 2025: 21/06/2025</title>
+		<title>Queen's Tennis - 2025: Day 6</title>
 		<desc>Live semi-final action from the prestigious men’s grass court event.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
 	</programme>
@@ -6549,25 +6549,30 @@
 		<desc>Business in the House of Lords on Wednesday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250619042000 +0000" stop="20250619050000 +0000">
+	<programme channel="bbcparliament" start="20250619042000 +0000" stop="20250619061000 +0000">
 		<title>House of Lords - Casey Report Statement</title>
 		<desc>Statement on the Casey report into grooming gangs and announcement of a national inquiry.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250619050000 +0000" stop="20250619053000 +0000">
+	<programme channel="bbcparliament" start="20250619061000 +0000" stop="20250619064000 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Wednesday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lk0m7c.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250619053000 +0000" stop="20250619060500 +0000">
+	<programme channel="bbcparliament" start="20250619064000 +0000" stop="20250619071500 +0000">
 		<title>Prime Minister's Questions - 18/06/2025</title>
 		<desc>Coverage of questions to deputy prime minister Angela Rayner, on Wednesday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljylbr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250619060500 +0000" stop="20250619083000 +0000">
-		<title>House of Commons - 18/06/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 18 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250619071500 +0000" stop="20250619073000 +0000">
+		<title>House of Lords - Holocaust Memorial Bill</title>
+		<desc>The third reading of the Holocaust Memorial Bill in the House of Lords on Tuesday 17 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250619073000 +0000" stop="20250619083000 +0000">
+		<title>Welsh First Minister's Questions - 17/06/2025</title>
+		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 17 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250619083000 +0000" stop="20250619091000 +0000">
 		<title>House of Commons - Environment, Food and Rural Affairs Questions</title>
