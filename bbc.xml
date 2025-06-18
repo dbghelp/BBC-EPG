@@ -743,7 +743,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgjnh7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250618120000 +0000" stop="20250618170000 +0000">
-		<title>Queen's Tennis - 2025: Day 3</title>
+		<title>Queen's Tennis - 2025: Day 3, BBC Two</title>
 		<desc>Live coverage from the second round of the men's competition at Queen’s Club.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljz5z9.jpg" />
 	</programme>
@@ -783,9 +783,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jtvqgm.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250618213000 +0000" stop="20250618215800 +0000">
-		<title>Newsnight - 18/06/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Will Trump bomb Iran?</title>
+		<desc>President Trump keeps the world guessing as he pressures Tehran to make a nuclear deal.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lk2yvx.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250618215800 +0000" stop="20250618220000 +0000">
 		<title>BBC Weather - 18/06/2025</title>
@@ -5570,9 +5570,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250618213000 +0000" stop="20250618220000 +0000">
-		<title>Newsnight - 18/06/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Will Trump bomb Iran?</title>
+		<desc>President Trump keeps the world guessing as he pressures Tehran to make a nuclear deal.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lk2yvx.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250618220000 +0000" stop="20250618230000 +0000">
 		<title>BBC World News America - 18/06/2025</title>
@@ -6514,12 +6514,12 @@
 		<desc>Statement on the 'reset' of the HS2 high speed railway line, on Wednesday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljz3x1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250618123500 +0000" stop="20250618183000 +0000">
+	<programme channel="bbcparliament" start="20250618123500 +0000" stop="20250618184500 +0000">
 		<title>House of Commons - 18/06/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250618183000 +0000" stop="20250618210000 +0000">
+	<programme channel="bbcparliament" start="20250618184500 +0000" stop="20250618210000 +0000">
 		<title>House of Lords - 18/06/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Lords on Wednesday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
@@ -6539,20 +6539,30 @@
 		<desc>The tenth day of debate on the committee stage of the Employment Rights Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250619002000 +0000" stop="20250619022000 +0000">
+	<programme channel="bbcparliament" start="20250619002000 +0000" stop="20250619021000 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 2</title>
 		<desc>Business in the House of Lords on Wednesday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250619022000 +0000" stop="20250619042000 +0000">
+	<programme channel="bbcparliament" start="20250619021000 +0000" stop="20250619025500 +0000">
+		<title>House of Lords - Casey Report Statement</title>
+		<desc>Statement on the Casey report into grooming gangs and announcement of a national inquiry.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250619025500 +0000" stop="20250619044500 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 3</title>
 		<desc>Business in the House of Lords on Wednesday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250619042000 +0000" stop="20250619061000 +0000">
-		<title>House of Lords - Casey Report Statement</title>
-		<desc>Statement on the Casey report into grooming gangs and announcement of a national inquiry.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20250619044500 +0000" stop="20250619045000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250619045000 +0000" stop="20250619061000 +0000">
+		<title>Northern Ireland Assembly - Budget Bill</title>
+		<desc>Second stage debate on the Budget (No. 2) Bill, on Monday 9 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250619061000 +0000" stop="20250619064000 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
