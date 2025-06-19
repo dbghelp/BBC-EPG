@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20250619083000 +0000" stop="20250619094500 +0000">
 		<title>Morning Live - Series 7: 19/06/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250619094500 +0000" stop="20250619101500 +0000">
 		<title>The Moment of Proof - Series 4: Episode 4</title>
@@ -748,7 +748,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250619111500 +0000" stop="20250619120000 +0000">
 		<title>Politics Live - 19/06/2025</title>
-		<desc>The big political issues of the day.</desc>
+		<desc>The Israel-Iran conflict, wealth taxes, assisted dying and Jeremy Hunt’s time in office.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgjnh7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250619120000 +0000" stop="20250619170000 +0000">
@@ -884,7 +884,7 @@
 	<programme channel="bbctwo" start="20250620190000 +0000" stop="20250620200000 +0000">
 		<title>Gardeners' World - 2025: Episode 14</title>
 		<desc>Frances Tophill is gardening at Damson Farm in the glorious Somerset countryside.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljmdlk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lk4nlp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250620200000 +0000" stop="20250620210000 +0000">
 		<title>Hidden Treasures of the National Trust - Series 3: 6. Raising the Roof!</title>
@@ -989,7 +989,7 @@
 	<programme channel="bbctwo" start="20250621080000 +0000" stop="20250621090000 +0000">
 		<title>Gardeners' World - 2025: Episode 14</title>
 		<desc>Frances Tophill is gardening at Damson Farm in the glorious Somerset countryside.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljmdlk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lk4nlp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250621090000 +0000" stop="20250621100000 +0000">
 		<title>Earth's Wildest Waters: The Big Fish - 1. Iceland</title>
@@ -5204,7 +5204,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20250619210000 +0000" stop="20250619213000 +0000">
 		<title>Situationships with Sophie and Christine - Series 1: Episode 1</title>
-		<desc>Sophie Gravia and Christine McGuiness chat relationships, dating dramas and more.</desc>
+		<desc>Sophie Gravia and Christine McGuiness spill the tea on their own dating drama.  </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhlp8x.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250619213000 +0000" stop="20250619220000 +0000">
@@ -5459,7 +5459,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20250623213000 +0000" stop="20250623220000 +0000">
 		<title>Situationships with Sophie and Christine - Series 1: Episode 1</title>
-		<desc>Sophie Gravia and Christine McGuiness chat relationships, dating dramas and more.</desc>
+		<desc>Sophie Gravia and Christine McGuiness spill the tea on their own dating drama.  </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhlp8x.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250623220000 +0000" stop="20250623223000 +0000">
@@ -6572,9 +6572,19 @@
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 19 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250619103000 +0000" stop="20250619163000 +0000">
+	<programme channel="bbcparliament" start="20250619103000 +0000" stop="20250619113000 +0000">
+		<title>House of Commons - UK Infrastructure Strategy Statement</title>
+		<desc>Statement by the chief secretary to the treasury, Darren Jones, on Thursday 19 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250619113000 +0000" stop="20250619123000 +0000">
+		<title>House of Commons - Warm Home Discount Statement</title>
+		<desc>Statement by energy consumers minister Miatta Fahnbulleh, on Thursday 19 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250619123000 +0000" stop="20250619163000 +0000">
 		<title>House of Commons - 19/06/2025</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 19 June.</desc>
+		<desc>Coverage of the day's proceedings in the House of Commons, on Thursday 19 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250619163000 +0000" stop="20250619171500 +0000">
