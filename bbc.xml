@@ -94,10 +94,15 @@
 		<desc>Viewers have their say on the BBC’s television shows. Email your thoughts to pov@bbc.co.uk</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c3j262.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250622130500 +0000" stop="20250622160000 +0000">
+	<programme channel="bbcone" start="20250622130500 +0000" stop="20250622155000 +0000">
 		<title>Queen's Tennis - 2025: Final</title>
 		<desc>Full ball-by-ball coverage of the 2025 men's tennis final at Queen's.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lghq2k.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20250622155000 +0000" stop="20250622160000 +0000">
+		<title>Blue Planet II - Series 1: 5. Green Seas</title>
+		<desc>From enchanted forests to undersea prairies, the planet's green seas teem with life.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05nrk0w.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250622160000 +0000" stop="20250622170000 +0000">
 		<title>Countryfile - Seaton Wetlands</title>
@@ -140,28 +145,28 @@
 		<desc>Old and new Brink’s-Mat criminals are on the run around the world as the police close in.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lffs6v.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250622210000 +0000" stop="20250622212500 +0000">
+	<programme channel="bbcone" start="20250622210000 +0000" stop="20250622213000 +0000">
 		<title>BBC Weekend News - Late News: 22/06/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250622212500 +0000" stop="20250622213000 +0000">
+	<programme channel="bbcone" start="20250622213000 +0000" stop="20250622213500 +0000">
 		<title>BBC London - Late News: 22/06/2025</title>
 		<desc>The latest news, sport and weather from London.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250622213000 +0000" stop="20250622233500 +0000">
+	<programme channel="bbcone" start="20250622213500 +0000" stop="20250622234000 +0000">
 		<title>Saltburn</title>
 		<desc>An Oxford University student is drawn into the world of a charming aristocratic classmate.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lkj2gp.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250622233500 +0000" stop="20250622234000 +0000">
+	<programme channel="bbcone" start="20250622234000 +0000" stop="20250622234500 +0000">
 		<title>Weather for the Week Ahead - 23/06/2025</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250622234000 +0000" stop="20250623050000 +0000">
+	<programme channel="bbcone" start="20250622234500 +0000" stop="20250623050000 +0000">
 		<title>Joins BBC News - 23/06/2025</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -530,7 +535,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljkdmn.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250625190000 +0000" stop="20250625200000 +0000">
-		<title>The Repair Shop on the Road - Series 1 (Reversions): Episode 6</title>
+		<title>The Repair Shop on the Road - Series 1 (Reversions): A Celestial Projector is Brought Back to Life</title>
 		<desc>The team restore an astronomical artefact and help a charity bus get back on the road.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj5kh1.jpg" />
 	</programme>
