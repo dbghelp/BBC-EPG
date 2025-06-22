@@ -5608,15 +5608,10 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250622050000 +0000" stop="20250622080000 +0000">
-		<title>Breakfast - 22/06/2025</title>
-		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250622080000 +0000" stop="20250622090000 +0000">
-		<title>Sunday with Laura Kuenssberg - 22/06/2025</title>
-		<desc>With Jonathan Reynolds, Isaac Herzog, Seyed Ali Mousavi, Tom Tughendhat and Piers Morgan.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
+	<programme channel="bbcnews" start="20250622050000 +0000" stop="20250622090000 +0000">
+		<title>BBC News - 22/06/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250622090000 +0000" stop="20250622093000 +0000">
 		<title>BBC News - 22/06/2025</title>
