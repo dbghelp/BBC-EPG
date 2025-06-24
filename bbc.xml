@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20250624083000 +0000" stop="20250624094500 +0000">
 		<title>Morning Live - Series 7: 24/06/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250624094500 +0000" stop="20250624101500 +0000">
 		<title>The Moment of Proof - Series 4: Episode 7</title>
@@ -1267,17 +1267,22 @@
 		<desc>Are anti-medicine ideas going mainstream? Marianna Spring investigates.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lkk3n9.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250628013000 +0000" stop="20250628023000 +0000">
+	<programme channel="bbctwo" start="20250628013000 +0000" stop="20250628020000 +0000">
+		<title>Panorama - Trump, Israel and the War on Iran</title>
+		<desc>As the conflict risks further escalation, Nawal Al-Maghafi examines what may happen next.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ll02ht.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250628020000 +0000" stop="20250628030000 +0000">
 		<title>The Crime I Can't Forget - Series 1: 4. Knifed in the Night</title>
 		<desc>Police race against the clock to solve a murder of a promising young boxer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0grwk0w.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250628023000 +0000" stop="20250628031500 +0000">
+	<programme channel="bbctwo" start="20250628030000 +0000" stop="20250628034500 +0000">
 		<title>Death Valley - Series 1: Episode 5</title>
 		<desc>John and Janie are stuck in a countryside manor after a murder mystery party goes wrong.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lbncxh.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250628031500 +0000" stop="20250628053000 +0000">
+	<programme channel="bbctwo" start="20250628034500 +0000" stop="20250628053000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -5626,10 +5631,30 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250624050000 +0000" stop="20250624080000 +0000">
+	<programme channel="bbcnews" start="20250624050000 +0000" stop="20250624060000 +0000">
 		<title>Breakfast - 24/06/2025</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250624060000 +0000" stop="20250624063000 +0000">
+		<title>BBC News - 24/06/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250624063000 +0000" stop="20250624070000 +0000">
+		<title>Business Today - 24/06/2025</title>
+		<desc>The latest business news from London and around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250624070000 +0000" stop="20250624073000 +0000">
+		<title>BBC News - 24/06/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250624073000 +0000" stop="20250624080000 +0000">
+		<title>BBC News - 24/06/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250624080000 +0000" stop="20250624083000 +0000">
 		<title>BBC News - 24/06/2025</title>
