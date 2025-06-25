@@ -829,7 +829,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250625220000 +0000" stop="20250625223000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 25/06/2025</title>
-		<desc>John Simpson analyses whether the Iranian regime has successfully weathered the storm.</desc>
+		<desc>Analyses how the Iranian regime has been affected by the attacks from Israel and the US.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ll9ln5.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250625223000 +0000" stop="20250625233000 +0000">
@@ -4473,7 +4473,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07td03x.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250627175000 +0000" stop="20250627175800 +0000">
-		<title>CBeebies Bedtime Stories - 27/06/2025</title>
+		<title>CBeebies Bedtime Stories - New and Trending: 27/06/2025</title>
 		<desc>A different story read each night just before bedtime.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
 	</programme>
@@ -5235,9 +5235,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hbpcyz.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250625220000 +0000" stop="20250625223000 +0000">
-		<title>Scotcast - 25/06/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Taxing private schools</title>
+		<desc>The boss of a private school who thinks charging VAT on fees damages the education system.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llc0b3.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250625223000 +0000" stop="20250625230000 +0000">
 		<title>David Wilson's Crime Files - Series 3 - Cold Cases: 3. Human Error</title>
@@ -5554,27 +5554,17 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250625123000 +0000" stop="20250625125500 +0000">
+	<programme channel="bbcnews" start="20250625123000 +0000" stop="20250625130000 +0000">
 		<title>BBC News Now - 25/06/2025</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250625125500 +0000" stop="20250625130000 +0000">
-		<title>Tech Now - 25/06/2025</title>
-		<desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250625130000 +0000" stop="20250625133000 +0000">
 		<title>BBC News Now - 25/06/2025</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250625133000 +0000" stop="20250625134500 +0000">
-		<title>Business Today - NYSE Opening Bell - 25/06/2025</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250625134500 +0000" stop="20250625140000 +0000">
+	<programme channel="bbcnews" start="20250625133000 +0000" stop="20250625140000 +0000">
 		<title>BBC News Now - 25/06/2025</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
@@ -5706,7 +5696,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250626023000 +0000" stop="20250626030000 +0000">
 		<title>Weather: Beyond the Forecast - Heatwaves: The New Normal?</title>
-		<desc>From heat labs to firefighting helicopters, we look at how extreme heat impacts the UK.</desc>
+		<desc>From heat labs to firefighting helicopters, a look at how extreme heat impacts the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhfbt5.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250626030000 +0000" stop="20250626033000 +0000">
@@ -5931,7 +5921,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250627033000 +0000" stop="20250627040000 +0000">
 		<title>Weather: Beyond the Forecast - Heatwaves: The New Normal?</title>
-		<desc>From heat labs to firefighting helicopters, we look at how extreme heat impacts the UK.</desc>
+		<desc>From heat labs to firefighting helicopters, a look at how extreme heat impacts the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhfbt5.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250627040000 +0000" stop="20250627043000 +0000">
@@ -6210,9 +6200,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250628123000 +0000" stop="20250628130000 +0000">
-		<title>The Security Brief - 28/06/2025</title>
-		<desc>Sharp insight into the world's ongoing global conflicts with Mikey Kay.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50jbw.jpg" />
+		<title>The Media Show - 28/06/2025</title>
+		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250628130000 +0000" stop="20250628133000 +0000">
 		<title>BBC News - 28/06/2025</title>
@@ -6300,7 +6290,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250628223000 +0000" stop="20250628230000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 2: 27/06/2025</title>
+		<title>Political Thinking with Nick Robinson - Series 2: Trump's America: The Scott Perry One</title>
 		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09vm10f.jpg" />
 	</programme>
@@ -6331,8 +6321,8 @@
 	</programme>
 	<programme channel="bbcnews" start="20250629013000 +0000" stop="20250629020000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 25/06/2025</title>
-		<desc>John Simpson analyses whether the Iranian regime has successfully weathered the storm.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
+		<desc>Analyses how the Iranian regime has been affected by the attacks from Israel and the US.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ll9ln5.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250629020000 +0000" stop="20250629023000 +0000">
 		<title>BBC News - 29/06/2025</title>
@@ -6475,9 +6465,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250629193000 +0000" stop="20250629200000 +0000">
-		<title>The Security Brief - 28/06/2025</title>
-		<desc>Sharp insight into the world's ongoing global conflicts with Mikey Kay.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50jbw.jpg" />
+		<title>Ukrainecast - 28/06/2025</title>
+		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250629200000 +0000" stop="20250629210000 +0000">
 		<title>BBC News - 29/06/2025</title>
@@ -6521,8 +6511,8 @@
 	</programme>
 	<programme channel="bbcnews" start="20250630003000 +0000" stop="20250630010000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 25/06/2025</title>
-		<desc>John Simpson analyses whether the Iranian regime has successfully weathered the storm.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
+		<desc>Analyses how the Iranian regime has been affected by the attacks from Israel and the US.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ll9ln5.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250630010000 +0000" stop="20250630013000 +0000">
 		<title>Newsday - 30/06/2025</title>
@@ -6635,25 +6625,50 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 25 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250625222000 +0000" stop="20250626050000 +0000">
-		<title>House of Lords - 25/06/2025</title>
-		<desc>Business in the House of Lords on Wednesday 25 June.</desc>
+	<programme channel="bbcparliament" start="20250625222000 +0000" stop="20250626002000 +0000">
+		<title>House of Lords - Planning and Infrastructure Bill, Part 1</title>
+		<desc>The second reading debate on the Planning and Infrastructure Bill, on Wednesday 25 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250626050000 +0000" stop="20250626053000 +0000">
+	<programme channel="bbcparliament" start="20250626002000 +0000" stop="20250626022000 +0000">
+		<title>House of Lords - Planning and Infrastructure Bill, Part 2</title>
+		<desc>The second reading debate on the Planning and Infrastructure Bill, on Wednesday 25 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250626022000 +0000" stop="20250626042000 +0000">
+		<title>House of Lords - Planning and Infrastructure Bill, Part 3</title>
+		<desc>The second reading debate on the Planning and Infrastructure Bill, on Wednesday 25 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250626042000 +0000" stop="20250626060000 +0000">
+		<title>House of Lords - Planning and Infrastructure Bill, Part 4</title>
+		<desc>The second reading debate on the Planning and Infrastructure Bill, on Wednesday 25 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250626060000 +0000" stop="20250626062500 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
 		<desc>Coverage of questions to Peter Kyle on Wednesday 25 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250626053000 +0000" stop="20250626060500 +0000">
+	<programme channel="bbcparliament" start="20250626062500 +0000" stop="20250626070500 +0000">
 		<title>Prime Minister's Questions - 25/06/2025</title>
 		<desc>Coverage of questions to deputy prime minister Angela Rayner, on Wednesday 25 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ll94hv.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250626060500 +0000" stop="20250626083000 +0000">
-		<title>House of Commons - 25/06/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 25 June.</desc>
+	<programme channel="bbcparliament" start="20250626070500 +0000" stop="20250626075000 +0000">
+		<title>House of Commons - Nuclear Weapons Urgent Question</title>
+		<desc>Urgent question on the procurement of nuclear-carrying F-35A aircraft.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250626075000 +0000" stop="20250626082000 +0000">
+		<title>Scottish Parliament - Constitution, External Affairs and Culture Questions</title>
+		<desc>Questions to the constitution, external affairs and culture secretary, Angus Robertson.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250626082000 +0000" stop="20250626083000 +0000">
+		<title>Ten Minute Rule Bill - Criminal Cases Review Commission Petitions</title>
+		<desc>The introduction of a Bill for the public to petition the Criminal Cases Review Commission</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250626083000 +0000" stop="20250626093000 +0000">
 		<title>House of Commons - Transport Questions</title>
@@ -7994,7 +8009,7 @@
 	</programme>
 	<programme channel="s4c" start="20250626130500 +0000" stop="20250626140000 +0000">
 		<title>Prynhawn Da - Thu, 26 Jun 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mae Huw Fash yn y gornel ffasiwn, cawn fwynhau sesiwn ffitrwydd, ac agorwn ddrysau'r sy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250626140000 +0000" stop="20250626140500 +0000">
@@ -8059,7 +8074,7 @@
 	</programme>
 	<programme channel="s4c" start="20250626180000 +0000" stop="20250626183000 +0000">
 		<title>Heno - Thu, 26 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Byddwn yn fyw o stafell Sensoriaeth Gwesty Seren yn Llan Ffestiniog, ac mae enillydd cy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250626183000 +0000" stop="20250626190000 +0000">
@@ -8269,7 +8284,7 @@
 	</programme>
 	<programme channel="s4c" start="20250627113000 +0000" stop="20250627120000 +0000">
 		<title>Heno - Thu, 26 Jun 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Byddwn yn fyw o stafell Sensoriaeth Gwesty Seren yn Llan Ffestiniog, ac mae enillydd cy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250627120000 +0000" stop="20250627123000 +0000">
