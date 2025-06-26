@@ -769,7 +769,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250626190000 +0000" stop="20250626200000 +0000">
 		<title>Gardeners' World - 2025: Episode 15</title>
-		<desc>Longmeadow is exploding with summer colour, and Monty is potting up scented pelargoniums.</desc>
+		<desc>Longmeadow is exploding with summer colour, and Monty is adding some ornamental grasses.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ll85z9.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250626200000 +0000" stop="20250626210000 +0000">
@@ -980,7 +980,7 @@
 	<programme channel="bbctwo" start="20250628053500 +0000" stop="20250628055000 +0000">
 		<title>Mojo Swoptops - Series 1: 19. Joist Hoist</title>
 		<desc>Swoppiton Bridge is falling down - can Mojo and Bo help Nori fix it in time?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kn1s0s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llm50s.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250628055000 +0000" stop="20250628060000 +0000">
 		<title>Super Happy Magic Forest - Series 1: 16. Colour Catastrophe</title>
@@ -4141,7 +4141,7 @@
 	<programme channel="cbeebies" start="20250628073500 +0000" stop="20250628075000 +0000">
 		<title>Mojo Swoptops - Series 1: 18. Mojo Drop the Ball</title>
 		<desc>Mojo and Bo’s wrecking ball might destroy a lot more than it’s supposed to!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kn1rtv.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llm5cf.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250628075000 +0000" stop="20250628080000 +0000">
 		<title>The Furchester Hotel - Series 1: 44. Nobody Has a Hat Like That</title>
@@ -4231,7 +4231,7 @@
 	<programme channel="cbeebies" start="20250628112500 +0000" stop="20250628113500 +0000">
 		<title>Mojo Swoptops - Series 1: 19. Joist Hoist</title>
 		<desc>Swoppiton Bridge is falling down - can Mojo and Bo help Nori fix it in time?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kn1s0s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llm50s.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250628113500 +0000" stop="20250628114500 +0000">
 		<title>Hey Duggee - Series 1: 1. The Drawing Badge</title>
@@ -4582,7 +4582,7 @@
 	<programme channel="cbeebies" start="20250629112500 +0000" stop="20250629114000 +0000">
 		<title>Mojo Swoptops - Series 1: 22. Flock and Roll</title>
 		<desc>Jackson’s sheep will ruin Preston’s flower festival, unless Mojo and Bo can round them up!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kn1s1k.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llm4p8.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250629114000 +0000" stop="20250629114500 +0000">
 		<title>Hey Duggee - Series 1: 2. The Cake Badge</title>
@@ -5187,8 +5187,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k9wq1v.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250626220000 +0000" stop="20250626223000 +0000">
-		<title>Scotcast - 26/06/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
+		<title>Scotcast - Wingsuit Flyer: Why I Do It</title>
+		<desc>What motivates those who jump from cliff edges in the name of sport?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250626223000 +0000" stop="20250626230000 +0000">
@@ -5506,15 +5506,10 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250626123000 +0000" stop="20250626125500 +0000">
+	<programme channel="bbcnews" start="20250626123000 +0000" stop="20250626130000 +0000">
 		<title>BBC News Now - 26/06/2025</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250626125500 +0000" stop="20250626130000 +0000">
-		<title>Talking Movies - 26/06/2025</title>
-		<desc>Talking Movies' weekly report in which Tom Brook and his team explore the world of cinema.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c80mhr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250626130000 +0000" stop="20250626133000 +0000">
 		<title>BBC News Now - 26/06/2025</title>
@@ -6544,17 +6539,17 @@
 	<programme channel="bbcparliament" start="20250626082000 +0000" stop="20250626083000 +0000">
 		<title>Ten Minute Rule Bill - Criminal Cases Review Commission Petitions</title>
 		<desc>The introduction of a Bill for the public to petition the Criminal Cases Review Commission</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llkrw7.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250626083000 +0000" stop="20250626093000 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 26 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llkc1f.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250626093000 +0000" stop="20250626103000 +0000">
 		<title>House of Commons - Commons Business Statement</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 26 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llkg2r.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250626103000 +0000" stop="20250626115000 +0000">
 		<title>House of Commons - G7 and NATO Statement</title>
@@ -6604,7 +6599,7 @@
 	<programme channel="bbcparliament" start="20250627014000 +0000" stop="20250627024000 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 26 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llkc1f.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250627024000 +0000" stop="20250627034000 +0000">
 		<title>House of Commons - G7 and NATO Statement</title>
@@ -6614,7 +6609,7 @@
 	<programme channel="bbcparliament" start="20250627034000 +0000" stop="20250627050000 +0000">
 		<title>House of Commons - Commons Business Statement</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 26 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llkg2r.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250627050000 +0000" stop="20250627080000 +0000">
 		<title>Westminster Hall - 23/06/2025</title>
@@ -6754,7 +6749,7 @@
 	<programme channel="bbcparliament" start="20250629040000 +0000" stop="20250629050000 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 26 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llkc1f.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250629050000 +0000" stop="20250629100000 +0000">
 		<title>Westminster Hall - 25/06/2025</title>
@@ -6814,7 +6809,7 @@
 	<programme channel="bbcparliament" start="20250629232000 +0000" stop="20250630002000 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 26 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llkc1f.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250630002000 +0000" stop="20250630005000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
@@ -8319,47 +8314,47 @@
 		<desc>'Pam bod gyda ni goed?' yw cwestiwn Meg heddiw. Mae gan Tad-cu ateb doniol am y Brenin ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09t9404.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250629060500 +0000" stop="20250629061500 +0000">
+	<programme channel="s4c" start="20250629060500 +0000" stop="20250629062000 +0000">
 		<title>Digbi Draig - Cyfres 1: Dim Dwr</title>
 		<desc>Mae prinder dwr ym Mhen Cyll. Mae Digbi a'i ffrindiau'n ceisio dysgu pam. There's a wat...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04w3lk5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250629061500 +0000" stop="20250629063000 +0000">
+	<programme channel="s4c" start="20250629062000 +0000" stop="20250629063500 +0000">
 		<title>Awyr Iach - Cyfres 2: Pennod 13</title>
 		<desc>Tro ma bydd Meleri'n ymweld a Sioe Aberystwyth yng nghwmni Tomi, Ianto a Morys &amp; mae Ma...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd9v0r.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250629063000 +0000" stop="20250629064500 +0000">
+	<programme channel="s4c" start="20250629063500 +0000" stop="20250629065000 +0000">
 		<title>Pablo - Cyfres 2: Dwylo Diddorol</title>
 		<desc>Dyw Pablo ddim yn deall pam fod dwylo Magi mor ddiddorol. Mae o wir eisiau cyffwrdd cro...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bmwxql.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250629064500 +0000" stop="20250629070000 +0000">
+	<programme channel="s4c" start="20250629065000 +0000" stop="20250629070000 +0000">
 		<title>Dreigiau Cadi - Cyfres 2: Tren Blodau</title>
 		<desc>Mae cystadleuaeth y Trên Blodau yn cyd-fynd â noson arbennig Crugwen a Dai. Ond mae 'na...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd7hxx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250629070000 +0000" stop="20250629071000 +0000">
+	<programme channel="s4c" start="20250629070000 +0000" stop="20250629071500 +0000">
 		<title>Twm Twrch - Cyfres 1: Asiant Twm Twch</title>
 		<desc>Mae Twm Twrch yn ysbiwr am y dydd tra bod y Garddwr wedi dewis Emrys, Rodrigo a Dorti i...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdrq1h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250629071000 +0000" stop="20250629072500 +0000">
+	<programme channel="s4c" start="20250629071500 +0000" stop="20250629073000 +0000">
 		<title>Kim a Cai a Cranc - Cyfres 1: Pennod 8</title>
 		<desc>Ymunwch â Kim a Cai ar antur hudolus a chwareus yn llawn dawns a cherddoriaeth wrth idd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kr864x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250629072500 +0000" stop="20250629073500 +0000">
+	<programme channel="s4c" start="20250629073000 +0000" stop="20250629074000 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Y Garreg Ganu</title>
 		<desc>Mae Pigog, Gwich, Dan a Crawc yn mynd lan yr afon i chwilio am y Graig Canu ddirgel. Pi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250629073500 +0000" stop="20250629075000 +0000">
+	<programme channel="s4c" start="20250629074000 +0000" stop="20250629075500 +0000">
 		<title>Deian a Loli - Cyfres 4:  ... a'r Ffiltars</title>
 		<desc>Mae Loli'n joio chwarae gyda'r ffiltyrs ar ffôn newydd ei mam ond mae pethau'n mynd rhy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dssck2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250629075000 +0000" stop="20250629080000 +0000">
+	<programme channel="s4c" start="20250629075500 +0000" stop="20250629080000 +0000">
 		<title>Penblwyddi Cyw - Sun, 29 Jun 2025</title>
 		<desc>Cyfle i edych 'nôl dros rai o gyfarchion pen-blwydd yr wythnos. A look back at some of ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09g8pl3.jpg" />
@@ -8649,12 +8644,12 @@
 		<desc>Hanes menyw a oedd yn ddylanwadol iawn yn ei dydd ond sydd erbyn heddiw wedi mynd yn an...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02hq96z.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250630150000 +0000" stop="20250630150500 +0000">
+	<programme channel="s4c" start="20250630150000 +0000" stop="20250630151000 +0000">
 		<title>Olobobs - Cyfres 1: Gwersylla</title>
 		<desc>Mae angen help ar yr Olobobs i dyfu eu hadau Tan-tws, felly maen nhw'n creu Sblishwr Sb...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05k67mq.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250630150500 +0000" stop="20250630152000 +0000">
+	<programme channel="s4c" start="20250630151000 +0000" stop="20250630152000 +0000">
 		<title>Pablo - Cyfres 2: Llosgfynydd o Gur Pen</title>
 		<desc>Mae gan Pablo ei ffordd ei hun o weld y byd. Heddiw nid yw'n gwybod pam fod ei ben yn b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bmwxql.jpg" />
