@@ -144,7 +144,7 @@
 	<programme channel="bbcone" start="20250626210000 +0000" stop="20250626213000 +0000">
 		<title>BBC News at Ten - 26/06/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llppkr.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250626213000 +0000" stop="20250626214000 +0000">
 		<title>BBC London - Late News: 26/06/2025</title>
@@ -158,8 +158,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250626224000 +0000" stop="20250626231000 +0000">
-		<title>Newscast - Series 6: 26/06/2025</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
+		<title>Newscast - Series 6: 8. Welfare Rebellion, Nato Summit and Daddy Issues</title>
+		<desc>Adam, Chris, Alex and Faisal discuss Starmer’s welfare cuts and the Nato meeting.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250626231000 +0000" stop="20250626235500 +0000">
@@ -783,9 +783,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lk7d4g.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250626213000 +0000" stop="20250626215800 +0000">
-		<title>Newsnight - 26/06/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Paddy O'Connell.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Another U-turn</title>
+		<desc>The government strikes a deal with the 127 Labour welfare rebels. With Paddy O’Connell.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llpf86.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250626215800 +0000" stop="20250626220000 +0000">
 		<title>BBC Weather - 26/06/2025</title>
@@ -5591,20 +5591,25 @@
 		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250626200000 +0000" stop="20250626210000 +0000">
-		<title>Question Time - 2025: 26/06/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate from St Andrews in Fife.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
+	<programme channel="bbcnews" start="20250626200000 +0000" stop="20250626203000 +0000">
+		<title>The Context - 26/06/2025</title>
+		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250626203000 +0000" stop="20250626210000 +0000">
+		<title>The Context - 26/06/2025</title>
+		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250626210000 +0000" stop="20250626213000 +0000">
 		<title>BBC News at Ten - 26/06/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llppkr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250626213000 +0000" stop="20250626220000 +0000">
-		<title>Newsnight - 26/06/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Paddy O'Connell.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Another U-turn</title>
+		<desc>The government strikes a deal with the 127 Labour welfare rebels. With Paddy O’Connell.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llpf86.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250626220000 +0000" stop="20250626230000 +0000">
 		<title>BBC World News America - 26/06/2025</title>
@@ -5617,8 +5622,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250626233000 +0000" stop="20250627000000 +0000">
-		<title>Newscast - 26/06/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Can UK Prime Minister Keir Starmer Win Back Rebels Within His Own Party?</title>
+		<desc>Adam Fleming is joined by Luke Sullivan, Keir Starmer’s former political director.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250627000000 +0000" stop="20250627003000 +0000">
@@ -6552,8 +6557,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llkg2r.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250626103000 +0000" stop="20250626115000 +0000">
-		<title>House of Commons - G7 and NATO Statement</title>
-		<desc>Statement on the recent G7 and NATO summits, with the prime minister Keir Starmer.</desc>
+		<title>House of Commons - G7 and Nato Statement</title>
+		<desc>Statement on the recent G7 and Nato summits, with the prime minister Keir Starmer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lln7wq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250626115000 +0000" stop="20250626152500 +0000">
@@ -6564,7 +6569,7 @@
 	<programme channel="bbcparliament" start="20250626152500 +0000" stop="20250626161000 +0000">
 		<title>Scottish First Minister's Questions - 26/06/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 26 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llpmwf.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250626161000 +0000" stop="20250626165500 +0000">
 		<title>Lords Questions - 26/06/2025</title>
@@ -6577,19 +6582,19 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250626174500 +0000" stop="20250626193000 +0000">
-		<title>House of Lords - Border Security Bill, Part 1</title>
+		<title>House of Lords - Border Security Bill</title>
 		<desc>Business in the House of Lords on Thursday 26 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250626193000 +0000" stop="20250626213000 +0000">
-		<title>House of Lords - Border Security Bill, Part 2</title>
-		<desc>Business in the House of Lords on Thursday 26 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20250626193000 +0000" stop="20250626210500 +0000">
+		<title>House of Commons - Middle East Statement</title>
+		<desc>Statement on the Middle East, covering the conflict between Iran, Israel and the US.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ll0ykq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250626213000 +0000" stop="20250626220500 +0000">
-		<title>House of Lords - Border Security Bill, Part 3</title>
-		<desc>Business in the House of Lords on Thursday 26 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20250626210500 +0000" stop="20250626220500 +0000">
+		<title>House of Commons - Work and Pensions Questions</title>
+		<desc>Coverage of questions to Liz Kendall on Monday 23 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ll0y8w.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250626220500 +0000" stop="20250626225500 +0000">
 		<title>House of Commons - National Security Strategy Statement</title>
@@ -6612,8 +6617,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llkc1f.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250627024000 +0000" stop="20250627040000 +0000">
-		<title>House of Commons - G7 and NATO Statement</title>
-		<desc>Statement on the recent G7 and NATO summits, with the prime minister Keir Starmer.</desc>
+		<title>House of Commons - G7 and Nato Statement</title>
+		<desc>Statement on the recent G7 and Nato summits, with the prime minister Keir Starmer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lln7wq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250627040000 +0000" stop="20250627050000 +0000">
@@ -6621,54 +6626,145 @@
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 26 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llkg2r.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250627050000 +0000" stop="20250627080000 +0000">
+	<programme channel="bbcparliament" start="20250627050000 +0000" stop="20250627054000 +0000">
 		<title>Westminster Hall - 23/06/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Monday 23 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250627080000 +0000" stop="20250627130000 +0000">
-		<title>Select Committees - 27/06/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20250627054000 +0000" stop="20250627061000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Coverage of short statements made by MLAs in Stormont, from Monday 23 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627061000 +0000" stop="20250627064000 +0000">
+		<title>Northern Ireland Assembly - Crime and Policing Bill</title>
+		<desc>Debate on the legislative consent order for the Crime and Policing Bill on Monday 23 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627064000 +0000" stop="20250627071500 +0000">
+		<title>Northern Ireland Assembly - Criminal Justice Statement</title>
+		<desc>Statement on the intergovernmental agreement on co-operation on criminal justice matters.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627071500 +0000" stop="20250627092000 +0000">
+		<title>Select Committees - Water Sector Committee</title>
+		<desc>Environment committee session on reform of the water sector, on Tuesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250627130000 +0000" stop="20250627170000 +0000">
-		<title>House of Lords - 27/06/2025</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
+	<programme channel="bbcparliament" start="20250627092000 +0000" stop="20250627110000 +0000">
+		<title>Select Committees - Sentencing Review Committee</title>
+		<desc>Justice committee session on the independent sentencing review, on Tuesday 17 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627110000 +0000" stop="20250627130000 +0000">
+		<title>Select Committees - Industrial Transition Committee</title>
+		<desc>The Scottish Affairs select committee session on the industrial transition in Scotland.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627130000 +0000" stop="20250627140000 +0000">
+		<title>House of Lords - Music Education in State Schools</title>
+		<desc>Coverage of the short debate on music education in state schools, on Tuesday 24 June.
+</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250627170000 +0000" stop="20250627200000 +0000">
-		<title>Select Committees - 27/06/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20250627140000 +0000" stop="20250627144500 +0000">
+		<title>House of Lords - Middle East Update Statement</title>
+		<desc>Statement updating peers on the situation in the Middle East, on Tuesday 24 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627144500 +0000" stop="20250627153000 +0000">
+		<title>House of Lords - UK Infrastructure Strategy Statement</title>
+		<desc>Statement on the government's ten year plan for UK infrastructure, on Tuesday 24 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627153000 +0000" stop="20250627155000 +0000">
+		<title>House of Commons - Science, Innovation and Technology Questions</title>
+		<desc>Questions to the science, innovation and technology ministers on Wednesday 25 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llf19p.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627155000 +0000" stop="20250627182000 +0000">
+		<title>Select Committees - Tackling Violence Against Women and Girls Committee</title>
+		<desc>Home Affairs committee on tackling violence against women and girls, on Tuesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250627200000 +0000" stop="20250627204500 +0000">
+	<programme channel="bbcparliament" start="20250627182000 +0000" stop="20250627200500 +0000">
+		<title>Select Committees - Home Affairs Committee on the Grooming Gangs Inquiry</title>
+		<desc>Home Affairs committee on the Independent Inquiry into Child Sexual Abuse.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627200500 +0000" stop="20250627205000 +0000">
 		<title>Scottish First Minister's Questions - 26/06/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 26 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250627204500 +0000" stop="20250628000000 +0000">
-		<title>Scottish Parliament - 27/06/2025</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20250627205000 +0000" stop="20250627212000 +0000">
+		<title>Scottish Parliament - Budget Statement</title>
+		<desc>Coverage of the statement in the Scottish Parliament on the budget, from Tuesday 24 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250628000000 +0000" stop="20250628005000 +0000">
+	<programme channel="bbcparliament" start="20250627212000 +0000" stop="20250627215000 +0000">
+		<title>Scottish Parliament - Constitution, External Affairs and Culture Questions</title>
+		<desc>Questions to the constitution, external affairs and culture secretary, Angus Robertson.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llhgvf.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627215000 +0000" stop="20250627221500 +0000">
+		<title>Scottish Parliament - Justice and Home Affairs Questions</title>
+		<desc>Questions to the justice and home affairs secretary Angela Constance on Wednesday 25 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627221500 +0000" stop="20250627224500 +0000">
+		<title>Scottish Parliament - Gypsy and Traveller Communities Statement</title>
+		<desc>Statement on historical policies affecting Gypsy and Traveller communities, from 25 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627224500 +0000" stop="20250627232000 +0000">
+		<title>Scottish Parliament - Financial Strategy Statement</title>
+		<desc>Statement on the medium-term financial strategy and fiscal sustainability delivery plan.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627232000 +0000" stop="20250627234500 +0000">
+		<title>Scottish Parliament - General Questions</title>
+		<desc>Coverage of general questions to ministers in the Scottish government on Thursday 26 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627234500 +0000" stop="20250628001500 +0000">
+		<title>Scottish Parliament - Education and Skills Questions</title>
+		<desc>Questions to the education and skills secretary, Jenny Gilruth, from Thursday 26 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250628001500 +0000" stop="20250628010500 +0000">
 		<title>Welsh First Minister's Questions - 24/06/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 24 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250628005000 +0000" stop="20250628033000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 27/06/2025</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20250628010500 +0000" stop="20250628014500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Jobs Statement</title>
+		<desc>Statement by the economy, energy and planning secretary Rebecca Evans on jobs, on 24 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250628033000 +0000" stop="20250628041500 +0000">
-		<title>Northern Ireland Assembly - 23/06/2025</title>
-		<desc>Coverage of business in Stormont on Monday 23 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ll4ysy.jpg" />
+	<programme channel="bbcparliament" start="20250628014500 +0000" stop="20250628022000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Armed Forces Community Statement</title>
+		<desc>Statement in the Senedd on support for the Armed Forces community, from Tuesday 24 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250628041500 +0000" stop="20250628050000 +0000">
-		<title>Northern Ireland Assembly - 27/06/2025</title>
-		<desc>Highlights from the Northern Ireland Assembly.</desc>
+	<programme channel="bbcparliament" start="20250628022000 +0000" stop="20250628030000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Offshore Wind Statement</title>
+		<desc>Statement in the Senedd on the Offshore Wind Task and Finish Group, from Tuesday 24 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250628030000 +0000" stop="20250628033000 +0000">
+		<title>Northern Ireland Assembly - Criminal Justice Statement</title>
+		<desc>Statement on the intergovernmental agreement on co-operation on criminal justice matters.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250628033000 +0000" stop="20250628042000 +0000">
+		<title>Northern Ireland Assembly - Infrastructure Questions</title>
+		<desc>Questions to the infrastructure minister Liz Kimmins, on Monday 23 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250628042000 +0000" stop="20250628050000 +0000">
+		<title>Northern Ireland Assembly - Border Security, Asylum and Immigration Bill</title>
+		<desc>The legislative consent order debate for the Border Security, Asylum and Immigration Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250628050000 +0000" stop="20250628100000 +0000">
