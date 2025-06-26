@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20250626083000 +0000" stop="20250626094500 +0000">
 		<title>Morning Live - Series 7: 26/06/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>Gethin Jones and Kimberley Walsh discuss the potential dangers of AI with Rav Wilding.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llhvkd.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250626094500 +0000" stop="20250626101500 +0000">
 		<title>The Moment of Proof - Series 4: Episode 9</title>
@@ -123,7 +123,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250626180000 +0000" stop="20250626183000 +0000">
 		<title>The One Show - 26/06/2025</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Alex and Roman are joined by Evan Handler and David Olusoga.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250626183000 +0000" stop="20250626190000 +0000">
@@ -4045,7 +4045,7 @@
 	<programme channel="cbeebies" start="20250627175000 +0000" stop="20250627175800 +0000">
 		<title>CBeebies Bedtime Stories - New and Trending: 27/06/2025</title>
 		<desc>A different story read each night just before bedtime.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llhv98.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250627175800 +0000" stop="20250628043000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -5486,17 +5486,7 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250626100000 +0000" stop="20250626103000 +0000">
-		<title>BBC News - 26/06/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250626103000 +0000" stop="20250626104500 +0000">
-		<title>Business Today - 26/06/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250626104500 +0000" stop="20250626110000 +0000">
+	<programme channel="bbcnews" start="20250626100000 +0000" stop="20250626110000 +0000">
 		<title>BBC News - 26/06/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
@@ -5511,10 +5501,20 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250626120000 +0000" stop="20250626130000 +0000">
-		<title>BBC News at One - 26/06/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	<programme channel="bbcnews" start="20250626120000 +0000" stop="20250626123000 +0000">
+		<title>BBC News Now - 26/06/2025</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250626123000 +0000" stop="20250626125500 +0000">
+		<title>BBC News Now - 26/06/2025</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250626125500 +0000" stop="20250626130000 +0000">
+		<title>Talking Movies - 26/06/2025</title>
+		<desc>Talking Movies' weekly report in which Tom Brook and his team explore the world of cinema.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c80mhr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250626130000 +0000" stop="20250626133000 +0000">
 		<title>BBC News Now - 26/06/2025</title>
@@ -6539,7 +6539,7 @@
 	<programme channel="bbcparliament" start="20250626075000 +0000" stop="20250626082000 +0000">
 		<title>Scottish Parliament - Constitution, External Affairs and Culture Questions</title>
 		<desc>Questions to the constitution, external affairs and culture secretary, Angus Robertson.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llhgvf.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250626082000 +0000" stop="20250626083000 +0000">
 		<title>Ten Minute Rule Bill - Criminal Cases Review Commission Petitions</title>
@@ -6552,11 +6552,16 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250626093000 +0000" stop="20250626103000 +0000">
-		<title>House of Commons - Commons Business Questions</title>
+		<title>House of Commons - Commons Business Statement</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 26 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250626103000 +0000" stop="20250626163000 +0000">
+	<programme channel="bbcparliament" start="20250626103000 +0000" stop="20250626115000 +0000">
+		<title>House of Commons - G7 and NATO Statement</title>
+		<desc>Statement on the recent G7 and NATO summits, with the prime minister Keir Starmer.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250626115000 +0000" stop="20250626163000 +0000">
 		<title>House of Commons - 26/06/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 26 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6571,24 +6576,44 @@
 		<desc>Questions in the House of Lords to government ministers on Thursday 26 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250626180000 +0000" stop="20250627011500 +0000">
-		<title>House of Lords - 26/06/2025</title>
+	<programme channel="bbcparliament" start="20250626180000 +0000" stop="20250626184000 +0000">
+		<title>House of Lords - National Security Strategy Statement</title>
+		<desc>Statement on the government's plans to raise defence spending to 5% of GDP by the 2030s.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250626184000 +0000" stop="20250626204000 +0000">
+		<title>House of Lords - Border Security Bill, Part 1</title>
 		<desc>Business in the House of Lords on Thursday 26 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250627011500 +0000" stop="20250627021500 +0000">
+	<programme channel="bbcparliament" start="20250626204000 +0000" stop="20250626224000 +0000">
+		<title>House of Lords - Border Security Bill, Part 2</title>
+		<desc>Business in the House of Lords on Thursday 26 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250626224000 +0000" stop="20250627004000 +0000">
+		<title>House of Lords - Border Security Bill, Part 3</title>
+		<desc>Business in the House of Lords on Thursday 26 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627004000 +0000" stop="20250627014000 +0000">
+		<title>House of Lords - Border Security Bill, Part 4</title>
+		<desc>Business in the House of Lords on Thursday 26 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250627014000 +0000" stop="20250627024000 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 26 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250627021500 +0000" stop="20250627031500 +0000">
-		<title>House of Commons - Commons Business Questions</title>
-		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 26 June.</desc>
+	<programme channel="bbcparliament" start="20250627024000 +0000" stop="20250627034000 +0000">
+		<title>House of Commons - G7 and NATO Statement</title>
+		<desc>Statement on the recent G7 and NATO summits, with the prime minister Keir Starmer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250627031500 +0000" stop="20250627050000 +0000">
-		<title>House of Commons - 26/06/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 26 June.</desc>
+	<programme channel="bbcparliament" start="20250627034000 +0000" stop="20250627050000 +0000">
+		<title>House of Commons - Commons Business Statement</title>
+		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 26 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250627050000 +0000" stop="20250627080000 +0000">
