@@ -160,22 +160,27 @@
 		<desc>Charli xcx headlines the Other Stage on Saturday night at Glastonbury 2025.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lkz78d.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250628224000 +0000" stop="20250628232500 +0000">
+	<programme channel="bbcone" start="20250628224000 +0000" stop="20250628235500 +0000">
+		<title>Glastonbury - Scissor Sisters</title>
+		<desc>Scissor Sisters return to Worthy Farm for an energetic glitter-infused hits set. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lc5flc.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20250628235500 +0000" stop="20250629004000 +0000">
 		<title>Serena Williams: In the Arena - Series 1: 3. Point of No Return</title>
 		<desc>Serena takes a step back after losing her sister but returns for the 2007 Australian Open.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhxkmc.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250628232500 +0000" stop="20250629001500 +0000">
+	<programme channel="bbcone" start="20250629004000 +0000" stop="20250629013000 +0000">
 		<title>Serena Williams: In the Arena - Series 1: 4. The Deep End</title>
 		<desc>Serena builds a new team to push her back to the top but faces a life-threatening setback.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhxkmk.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250629001500 +0000" stop="20250629002000 +0000">
+	<programme channel="bbcone" start="20250629013000 +0000" stop="20250629013500 +0000">
 		<title>Weather for the Week Ahead - 29/06/2025</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250629002000 +0000" stop="20250629050000 +0000">
+	<programme channel="bbcone" start="20250629013500 +0000" stop="20250629050000 +0000">
 		<title>Joins BBC News - 29/06/2025</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -701,12 +706,12 @@
 		<desc>Simon revisits some of the incredible characters he’s met while travelling the globe.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p094g6p4.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250628211000 +0000" stop="20250628224500 +0000">
-		<title>Glastonbury - Glastonbury 2025 Live</title>
-		<desc>Lauren Laverne and Jo Whiley bring all the action from Saturday night at Glastonbury.</desc>
+	<programme channel="bbctwo" start="20250628211000 +0000" stop="20250628225500 +0000">
+		<title>Glastonbury - Neil Young and The Chrome Hearts</title>
+		<desc>Canadian rocker Neil Young performs a career-spanning set with his band The Chrome Hearts.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lk79r8.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250628224500 +0000" stop="20250629010000 +0000">
+	<programme channel="bbctwo" start="20250628225500 +0000" stop="20250629010000 +0000">
 		<title>Glastonbury - Saturday Late Night Live</title>
 		<desc>A look back on all of the big performances of day two at the festival.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lk79r8.jpg" />
@@ -3488,9 +3493,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tlw9c.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250628175000 +0000" stop="20250628175800 +0000">
-		<title>CBeebies Bedtime Stories - 28/06/2025</title>
-		<desc>A different story read each night just before bedtime.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
+		<title>CBeebies Bedtime Stories - New and Trending: 8. CMAT - Baboo the Unusual Bee</title>
+		<desc>CMAT celebrates the power of being yourself with the story of Baboo, a proudly pink bee.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lm037y.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250628175800 +0000" stop="20250629043000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
