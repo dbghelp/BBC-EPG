@@ -102,9 +102,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250630180000 +0000" stop="20250630210000 +0000">
-		<title>Wimbledon - BBC One: Badosa v GB's Boulter</title>
-		<desc>Paula Badosa takes on Katie Boulter on Centre Court</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmbjwq.jpg" />
+		<title>Wimbledon - BBC One: Boulter, Fritz &amp; Zverev</title>
+		<desc>BBC One Evening coverage featuring GB's Katie Boulter, Taylor Fritz and Alexander Zverev.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmcbfp.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250630210000 +0000" stop="20250630213000 +0000">
 		<title>BBC News at Ten - 30/06/2025</title>
@@ -605,8 +605,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05f3fqv.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250630213000 +0000" stop="20250630215800 +0000">
-		<title>Newsnight - 30/06/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
+		<title>Newsnight - Welfare Bill in Trouble Again?</title>
+		<desc>Are Sir Keir Starmer's welfare reforms in trouble again tonight?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250630215800 +0000" stop="20250630220000 +0000">
@@ -5433,8 +5433,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250630213000 +0000" stop="20250630220000 +0000">
-		<title>Newsnight - 30/06/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
+		<title>Newsnight - Welfare Bill in Trouble Again?</title>
+		<desc>Are Sir Keir Starmer's welfare reforms in trouble again tonight?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250630220000 +0000" stop="20250630230000 +0000">
@@ -5448,8 +5448,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250630233000 +0000" stop="20250701000000 +0000">
-		<title>Newscast - 30/06/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Why Are Police Investigating Glastonbury Performances?</title>
+		<desc>Adam and Katie discuss the police investigation into performances at Glastonbury Festival.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250701000000 +0000" stop="20250701003000 +0000">
@@ -6420,83 +6420,88 @@
 	<programme channel="bbcparliament" start="20250630105500 +0000" stop="20250630130000 +0000">
 		<title>Select Committees - Northern Ireland Affairs Committee with NI Secretary Hilary Benn</title>
 		<desc>The Northern Ireland Affairs committee with the Northern Ireland secretary Hilary Benn.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmc4rk.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250630130000 +0000" stop="20250630133000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister Andrew Muir.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmc598.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250630133000 +0000" stop="20250630143500 +0000">
 		<title>House of Commons - Defence Questions</title>
 		<desc>Coverage of questions to John Healey on Monday 30 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmc84q.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250630143500 +0000" stop="20250630162000 +0000">
 		<title>House of Commons - Welfare Reform Statement</title>
 		<desc>Statement on the concessions made to the government's proposed welfare changes.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmc8q8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250630162000 +0000" stop="20250630170000 +0000">
 		<title>House of Commons - Glastonbury and the BBC Statement</title>
 		<desc>Statement on the BBC's Glastonbury coverage and live broadcast of Bob Vylan's performance.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmc8x4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250630170000 +0000" stop="20250630180000 +0000">
 		<title>House of Commons - Prax Lindsey Oil Refinery Statement</title>
 		<desc>The statement by energy minister Michael Shanks on the Prax Lindsey Oil Refinery.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmc9n5.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250630180000 +0000" stop="20250630213000 +0000">
+	<programme channel="bbcparliament" start="20250630180000 +0000" stop="20250630200500 +0000">
 		<title>House of Commons - 30/06/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 30 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250630213000 +0000" stop="20250630221500 +0000">
+	<programme channel="bbcparliament" start="20250630200500 +0000" stop="20250630205000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister Andrew Muir.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmc598.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250630221500 +0000" stop="20250630230000 +0000">
+	<programme channel="bbcparliament" start="20250630205000 +0000" stop="20250630213500 +0000">
 		<title>Lords Questions - 30/06/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 30 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250630230000 +0000" stop="20250701010000 +0000">
+	<programme channel="bbcparliament" start="20250630213500 +0000" stop="20250630231000 +0000">
 		<title>House of Lords - Chagos Islands Agreement, Part 1</title>
 		<desc>The debate on the agreement with Mauritius over the sovereignty of the Chagos Islands.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250701010000 +0000" stop="20250701030000 +0000">
+	<programme channel="bbcparliament" start="20250630231000 +0000" stop="20250701012500 +0000">
 		<title>House of Lords - Chagos Islands Agreement, Part 2</title>
 		<desc>The debate on the agreement with Mauritius over the sovereignty of the Chagos Islands.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250701030000 +0000" stop="20250701040000 +0000">
-		<title>House of Lords - Chagos Islands Agreement, Part 3</title>
-		<desc>The debate on the agreement with Mauritius over the sovereignty of the Chagos Islands.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250701040000 +0000" stop="20250701044000 +0000">
+	<programme channel="bbcparliament" start="20250701012500 +0000" stop="20250701021000 +0000">
 		<title>House of Lords - Industrial Strategy Statement</title>
 		<desc>The statement on the government's industrial strategy, on Monday 30 June.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250701044000 +0000" stop="20250701060000 +0000">
+	<programme channel="bbcparliament" start="20250701021000 +0000" stop="20250701040000 +0000">
 		<title>House of Lords - Retail Goods Regulations Motion</title>
 		<desc>A short debate in the House of Lords on retail goods regulations, on Monday 30 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20250701040000 +0000" stop="20250701041500 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250701041500 +0000" stop="20250701060000 +0000">
+		<title>House of Commons - Welfare Reform Statement</title>
+		<desc>Statement on the concessions made to the government's proposed welfare changes.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmc8q8.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20250701060000 +0000" stop="20250701070500 +0000">
 		<title>House of Commons - Defence Questions</title>
 		<desc>Coverage of questions to John Healey on Monday 30 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmc84q.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250701070500 +0000" stop="20250701090000 +0000">
 		<title>Select Committees - Northern Ireland Affairs Committee with NI Secretary Hilary Benn</title>
 		<desc>The Northern Ireland Affairs committee with the Northern Ireland secretary Hilary Benn.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmc4rk.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250701090000 +0000" stop="20250701103000 +0000">
 		<title>Select Committees - Education Committee on SEND</title>
@@ -6701,7 +6706,7 @@
 	<programme channel="bbcparliament" start="20250705020000 +0000" stop="20250705024500 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister Andrew Muir.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmc598.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250705024500 +0000" stop="20250705050000 +0000">
 		<title>Northern Ireland Assembly - 04/07/2025</title>
