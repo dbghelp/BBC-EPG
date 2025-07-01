@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250701083000 +0000" stop="20250701094500 +0000">
 		<title>Morning Live - Series 7: 01/07/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Gethin and Michelle talk to finance expert Iona Bain about changes to mortgage rates.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250701094500 +0000" stop="20250701101500 +0000">
@@ -86,9 +86,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250701130000 +0000" stop="20250701170000 +0000">
-		<title>Wimbledon - BBC One: Day 2, Afternoon</title>
+		<title>Wimbledon - BBC One: Krejcikova v Eala</title>
 		<desc>Live tennis from Wimbledon continues, with Barbora Krejcikova in first-round action.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lm7895.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmglpg.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250701170000 +0000" stop="20250701173000 +0000">
 		<title>BBC News at Six - 01/07/2025</title>
@@ -563,9 +563,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgjnh7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250701100000 +0000" stop="20250701140000 +0000">
-		<title>Wimbledon - BBC Two: Day 2, Morning and Afternoon</title>
-		<desc>Live action from day two of Wimbledon, the third Grand Slam of the season.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lm7895.jpg" />
+		<title>Wimbledon - BBC Two: Sinner v Nardi</title>
+		<desc>Jannik Sinner takes on Luca Nardi on No.1 Court</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmgfx6.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250701140000 +0000" stop="20250701180000 +0000">
 		<title>Wimbledon - BBC Two: Day 2, Afternoon and Evening</title>
@@ -770,7 +770,7 @@
 	<programme channel="bbctwo" start="20250703153000 +0000" stop="20250703180000 +0000">
 		<title>Women's Euro 2025 - Group Stage: Belgium v Italy</title>
 		<desc>Jeanette Kwakye presents live coverage as Belgium take on Italy in the first Group B game.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lm8d3l.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmgb2c.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250703180000 +0000" stop="20250703190000 +0000">
 		<title>Wimbledon - BBC Two: Day 4, Evening</title>
@@ -1015,7 +1015,7 @@
 	<programme channel="bbctwo" start="20250705200500 +0000" stop="20250705210500 +0000">
 		<title>Mr Blue Sky: The Story of Jeff Lynne and ELO</title>
 		<desc>Documentary about musician/songwriter Jeff Lynne, with access to Jeff in his LA studio.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02n3r2v.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmfly1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250705210500 +0000" stop="20250705220000 +0000">
 		<title>Radio 2 In Concert - Jeff Lynne's ELO</title>
@@ -1074,7 +1074,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250701185800 +0000" stop="20250701190000 +0000">
 		<title>The Catch Up - 01/07/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Stephen Murphy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250701190000 +0000" stop="20250701190500 +0000">
@@ -5248,12 +5248,7 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250701103000 +0000" stop="20250701104500 +0000">
-		<title>Business Today - 01/07/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250701104500 +0000" stop="20250701110000 +0000">
+	<programme channel="bbcnews" start="20250701103000 +0000" stop="20250701110000 +0000">
 		<title>BBC News - 01/07/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
@@ -6323,7 +6318,12 @@
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 1 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250701113000 +0000" stop="20250701183000 +0000">
+	<programme channel="bbcparliament" start="20250701113000 +0000" stop="20250701123000 +0000">
+		<title>House of Commons - Parental Leave Review Statement</title>
+		<desc>Statement on the review of parental leave and pay in the UK, on Tuesday 1 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250701123000 +0000" stop="20250701183000 +0000">
 		<title>House of Commons - 01/07/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 1 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
