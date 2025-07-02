@@ -77,7 +77,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250702130000 +0000" stop="20250702170000 +0000">
 		<title>Wimbledon - BBC One: Kartal, Sabalenka, Alcaraz</title>
-		<desc>BBC One Afternoon coverage of Tomova v Kartal, Sabalenka v Bouzkova &amp; Tarvet v Alcaraz.</desc>
+		<desc>BBC One afternoon coverage of Tomova v Kartal, Sabalenka v Bouzkova and Tarvet v Alcaraz.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmrj7c.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250702170000 +0000" stop="20250702173000 +0000">
@@ -552,27 +552,22 @@
 	</programme>
 	<programme channel="bbctwo" start="20250702120000 +0000" stop="20250702140000 +0000">
 		<title>Wimbledon - BBC Two: Norrie v Tiafoe</title>
-		<desc>GB's Cameron Norrie takes on Frances Tiafoe on No.1 Court</desc>
+		<desc>GB's Cameron Norrie takes on Frances Tiafoe on No.1 Court.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmpfwj.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250702140000 +0000" stop="20250702180000 +0000">
 		<title>Wimbledon - BBC Two: Norrie, Sierra, Borges, Radacanu</title>
-		<desc>BBC Two Afternoon and Evening coverage of Norrie v Tiafo, Boulter v Sierra, and more.</desc>
+		<desc>BBC Two afternoon and evening coverage of Norrie v Tiafo, Boulter v Sierra, and more.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmrt1d.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250702180000 +0000" stop="20250702210000 +0000">
-		<title>Wimbledon - BBC Two: Evening</title>
-		<desc>The triumphs, upsets and fightbacks from the world’s greatest tennis tournament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmp93l.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20250702210000 +0000" stop="20250702213000 +0000">
-		<title>Inside No. 9 - Series 9: 5. Curse of the Ninth</title>
-		<desc>A talented piano tuner is forced to confront the power of a centuries-old curse.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j15r7n.jpg" />
+	<programme channel="bbctwo" start="20250702180000 +0000" stop="20250702213000 +0000">
+		<title>Wimbledon - BBC Two: Radacanu, Fery, Fritz</title>
+		<desc>BBC Two evening coverage of Emma Radacanu v Markéta Vondroušová.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmsn8m.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250702213000 +0000" stop="20250702215800 +0000">
-		<title>Newsnight - 02/07/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
+		<title>Newsnight - Left in Tears</title>
+		<desc>Will the mood within Labour improve before it marks one year since returning to power?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250702215800 +0000" stop="20250702220000 +0000">
@@ -5268,15 +5263,10 @@
 		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250702210000 +0000" stop="20250702213000 +0000">
+	<programme channel="bbcnews" start="20250702210000 +0000" stop="20250702220000 +0000">
 		<title>BBC World News America - 02/07/2025</title>
 		<desc>In-depth reports on the major international and US news of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250702213000 +0000" stop="20250702220000 +0000">
-		<title>Newsnight - 02/07/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250702220000 +0000" stop="20250702230000 +0000">
 		<title>BBC World News America - 02/07/2025</title>
@@ -5289,8 +5279,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250702233000 +0000" stop="20250703000000 +0000">
-		<title>Newscast - 02/07/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Reeves’s Tears at PMQs</title>
+		<desc>Adam and Chris discuss the Chancellor crying in the Commons.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250703000000 +0000" stop="20250703003000 +0000">
@@ -6221,7 +6211,7 @@
 	<programme channel="bbcparliament" start="20250702113500 +0000" stop="20250702122000 +0000">
 		<title>House of Commons - Chagos Islands Deal Urgent Question</title>
 		<desc>Urgent question on the UK-Mauritius Treaty regarding the British Indian Ocean Territory.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmsvxr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250702122000 +0000" stop="20250702132000 +0000">
 		<title>House of Commons - Heathrow Airport Fire Statement</title>
