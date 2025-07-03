@@ -86,9 +86,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250703130000 +0000" stop="20250703180000 +0000">
-		<title>Wimbledon - BBC One: Draper v Cilic</title>
-		<desc>Jack Draper takes on Marin Cilic on No.1 Court.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmz67z.jpg" />
+		<title>Wimbledon - BBC One: Djokovic, Swiatek, Draper</title>
+		<desc>BBC One Afternoon &amp; Evening coverage of Djokovic, Swiatek, and Draper.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ln0y7n.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250703180000 +0000" stop="20250703183000 +0000">
 		<title>BBC News at Six - 03/07/2025</title>
@@ -102,9 +102,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250703190000 +0000" stop="20250703210000 +0000">
-		<title>Wimbledon - BBC One: Day 4, Evening</title>
-		<desc>Clare Balding presents further live tennis from Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmwmjf.jpg" />
+		<title>Wimbledon - BBC One: Sinner v Vukic</title>
+		<desc>Jannik Sinner takes on Aleksandar Vukic on Centre Court.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ln15xl.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250703210000 +0000" stop="20250703213000 +0000">
 		<title>BBC News at Ten - 03/07/2025</title>
@@ -580,15 +580,20 @@
 		<desc>Jeanette Kwakye presents live coverage as Belgium take on Italy in the first Group B game.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmhhhd.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250703180000 +0000" stop="20250703190000 +0000">
-		<title>Wimbledon - BBC Two: Day 4, Evening</title>
-		<desc>Further live coverage as the players bid to reach the third round of the singles events.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmwmjf.jpg" />
+	<programme channel="bbctwo" start="20250703180000 +0000" stop="20250703190500 +0000">
+		<title>Wimbledon - BBC Two: Draper, Sinner</title>
+		<desc>BBC Two Evening coverage of Draper &amp; Sinner.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ln1bgh.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250703190000 +0000" stop="20250703200000 +0000">
-		<title>Celebrity Antiques Road Trip - Series 12: 15. David Blunkett v Lesley Garrett</title>
-		<desc>The worlds of politics and opera collide in the antiques shops of Yorkshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gv1c1p.jpg" />
+	<programme channel="bbctwo" start="20250703190500 +0000" stop="20250703195000 +0000">
+		<title>Natural World - 2019-2020: Weasels: Feisty and Fearless</title>
+		<desc>Exploring the secret lives of the misunderstood but super successful weasel family.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07r3q1j.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250703195000 +0000" stop="20250703200000 +0000">
+		<title>Grand Tours of Scotland's Lochs - Series 3: 1. The Wild Way of the North</title>
+		<desc>Paul visits the lochs of Wester Ross and climbs the peak of Stac Pollaidh.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07m0phc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250703200000 +0000" stop="20250703210000 +0000">
 		<title>Saving Lives at Sea - Series 8: 9. All Hands on Deck</title>
@@ -613,7 +618,7 @@
 	<programme channel="bbctwo" start="20250703220000 +0000" stop="20250703230000 +0000">
 		<title>Wimbledon - Day 4</title>
 		<desc>Qasa Alom looks back at the day’s play at Wimbledon, with highlights from the big matches.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmwmjf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ln17vv.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250703230000 +0000" stop="20250704000500 +0000">
 		<title>Cricket: Today at the Test - England v India 2025: Second Test, Day 2</title>
@@ -676,8 +681,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmwmjf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250704180000 +0000" stop="20250704183000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 2: 04/07/2025</title>
-		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
+		<title>Political Thinking with Nick Robinson - Series 2: 9. The Keir Starmer One</title>
+		<desc>The prime minister sits down with Nick Robinson in Downing Street to mark a year in power.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09vm10f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250704183000 +0000" stop="20250704190000 +0000">
@@ -1072,7 +1077,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250703185800 +0000" stop="20250703190000 +0000">
 		<title>The Catch Up - 03/07/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Lucy Elsie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250703190000 +0000" stop="20250703200000 +0000">
@@ -1275,32 +1280,32 @@
 		<desc>Watch a selection of tracks from the biggest and most talked-about performances.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmvqhz.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250706000000 +0000" stop="20250706005000 +0000">
+	<programme channel="bbcthree" start="20250706000000 +0000" stop="20250706010000 +0000">
 		<title>Top Gear - Series 16: Episode 5</title>
 		<desc>The team sets out to end the chaos that snowfall brings to Britain every year.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09g9tff.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250706005000 +0000" stop="20250706012000 +0000">
+	<programme channel="bbcthree" start="20250706010000 +0000" stop="20250706013000 +0000">
 		<title>Two Pints of Lager and a Packet of Crisps - Series 6: 10. When Janet Killed Jonny</title>
 		<desc>Special horror episode of the sitcom. The Archer is about to be demolished.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06930kk.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250706012000 +0000" stop="20250706015000 +0000">
+	<programme channel="bbcthree" start="20250706013000 +0000" stop="20250706020000 +0000">
 		<title>Two Pints of Lager and a Packet of Crisps - Series 7: 1. When Jonny Met Sharky</title>
 		<desc>Louise, Janet and Donna compete for the job of barmaid at the reopened Archer pub.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0692cgb.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250706015000 +0000" stop="20250706022000 +0000">
+	<programme channel="bbcthree" start="20250706020000 +0000" stop="20250706023000 +0000">
 		<title>Two Pints of Lager and a Packet of Crisps - Series 7: 2. Dabdaa!</title>
 		<desc>With Jonny dead, Janet decides she must get through the five stages of grief quickly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p068w4f8.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250706022000 +0000" stop="20250706024500 +0000">
+	<programme channel="bbcthree" start="20250706023000 +0000" stop="20250706030000 +0000">
 		<title>Two Pints of Lager and a Packet of Crisps - Series 7: 3. Homophobia Is Gay</title>
 		<desc>Janet takes desperate action to stay safe for Corinthian.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p068w62f.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20250706024500 +0000" stop="20250706043000 +0000">
+	<programme channel="bbcthree" start="20250706030000 +0000" stop="20250706043000 +0000">
 		<title>This is BBC Three - This is BBC Three</title>
 		<desc>Programmes start at 7.00pm</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvry0j.jpg" />
@@ -5328,8 +5333,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250703233000 +0000" stop="20250704000000 +0000">
-		<title>Newscast - 03/07/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Reform or Die? The NHS 10 Year Plan</title>
+		<desc>Adam and Chris discuss the government's plans for the NHS.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250704000000 +0000" stop="20250704003000 +0000">
@@ -5598,7 +5603,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250705043000 +0000" stop="20250705050000 +0000">
-		<title>The Travel Show - 05/07/2025</title>
+		<title>The Travel Show - A Catalan Journey</title>
 		<desc>The Travel Show heads to Catalonia.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
 	</programme>
@@ -5738,8 +5743,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250705223000 +0000" stop="20250705230000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 2: 04/07/2025</title>
-		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
+		<title>Political Thinking with Nick Robinson - Series 2: 9. The Keir Starmer One</title>
+		<desc>The prime minister sits down with Nick Robinson in Downing Street to mark a year in power.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09vm10f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250705230000 +0000" stop="20250705233000 +0000">
@@ -5848,7 +5853,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250706123000 +0000" stop="20250706130000 +0000">
-		<title>The Travel Show - 05/07/2025</title>
+		<title>The Travel Show - A Catalan Journey</title>
 		<desc>The Travel Show heads to Catalonia.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
 	</programme>
