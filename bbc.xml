@@ -85,9 +85,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250706112500 +0000" stop="20250706151000 +0000">
-		<title>Wimbledon - BBC One: GB's Kartal v Pavlyuchenkova</title>
-		<desc>Britain's Sonay Kartal takes on Anastasia Pavlyuchenkova on Centre Court</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnhs43.jpg" />
+		<title>Wimbledon - BBC One: Khachanov, Fritz, Kartal</title>
+		<desc>BBC One lunchtime &amp; evening coverage of Kachanov, Fritz, &amp; GB's Kartal.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnj8k1.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250706151000 +0000" stop="20250706152500 +0000">
 		<title>BBC Weekend News - Evening News: 06/07/2025</title>
@@ -100,9 +100,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250706153000 +0000" stop="20250706210000 +0000">
-		<title>Wimbledon - BBC One: Day 7, Afternoon and Evening</title>
-		<desc>Clare Balding introduces live coverage of the fourth-round singles tennis from Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnc66w.jpg" />
+		<title>Wimbledon - BBC One: Jarry v GB's Norrie</title>
+		<desc>Nicolas Jarry takes on Britain's Cameron Norrie on No.1 Court.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnjb66.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250706210000 +0000" stop="20250706212500 +0000">
 		<title>BBC Weekend News - Late News: 06/07/2025</title>
@@ -583,14 +583,14 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03wtz0d.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250706100000 +0000" stop="20250706140000 +0000">
-		<title>Wimbledon - BBC Two: Fritz v Thompson</title>
-		<desc>Taylor Fritz takes on Jordan Thompson on No.1 Court</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnhsnr.jpg" />
+		<title>Wimbledon - BBC Two: Khachanov, Fritz, Norrie</title>
+		<desc>BBC Two morning and afternoon coverage of Khachanov, Fritz and GB's Norrie.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnj3rs.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250706140000 +0000" stop="20250706153000 +0000">
-		<title>Wimbledon - BBC Two: Day 7, Afternoon</title>
-		<desc>Further live and uninterrupted coverage from the courts of the All England Club.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnc66w.jpg" />
+		<title>Wimbledon - BBC Two: Jarry v GB's Norrie</title>
+		<desc>BBC Two afternoon coverage of Nicolas Jarry v Britain's Cameron Norrie on No.1 Court.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnjblb.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250706153000 +0000" stop="20250706180500 +0000">
 		<title>Women's Euro 2025 - Group Stage: Norway v Finland</title>
@@ -5267,15 +5267,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250706150000 +0000" stop="20250706153000 +0000">
+	<programme channel="bbcnews" start="20250706150000 +0000" stop="20250706160000 +0000">
 		<title>BBC News - 06/07/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250706153000 +0000" stop="20250706160000 +0000">
-		<title>Newscast - 06/07/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250706160000 +0000" stop="20250706170000 +0000">
 		<title>BBC News - 06/07/2025</title>
@@ -5323,8 +5318,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250706213000 +0000" stop="20250706220000 +0000">
-		<title>Newscast - 06/07/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - One Year of Labour: What Do Voters Think?</title>
+		<desc>Newscast gets the verdict on Labour’s first 12 months from the public.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250706220000 +0000" stop="20250706223000 +0000">
@@ -6663,7 +6658,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0db82dn.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250706190000 +0000" stop="20250706192000 +0000">
-		<title>Look Stranger: Who Brought the Light (1969)</title>
+		<title>Look, Stranger - Who Brought the Light</title>
 		<desc>Finlay J Macdonald recounts the story of the Flannan Isles lightkeepers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lljq4g.jpg" />
 	</programme>
