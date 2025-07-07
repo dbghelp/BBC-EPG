@@ -101,10 +101,15 @@
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250707180000 +0000" stop="20250707210000 +0000">
+	<programme channel="bbcone" start="20250707180000 +0000" stop="20250707203000 +0000">
 		<title>Wimbledon - BBC One: Sinner v Dimitrov</title>
-		<desc>Jannik Sinner takes on Grigor Dimitrov on Centre Court.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnqkkg.jpg" />
+		<desc>BBC One evening coverage of Jannik Sinner v Grigor Dimitrov on Centre Court.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnr5mk.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20250707203000 +0000" stop="20250707210000 +0000">
+		<title>Would I Lie to You? - Series 17: Episode 2</title>
+		<desc>With guests Lucy Beaumont, Frankie Boyle, Abby Cook and Mo Gilligan.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h0jsdh.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250707210000 +0000" stop="20250707213000 +0000">
 		<title>BBC News at Ten - 07/07/2025</title>
@@ -630,8 +635,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gqdtvf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250707213000 +0000" stop="20250707215800 +0000">
-		<title>Newsnight - 07/07/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Can Starmer Smash the Gangs?</title>
+		<desc>Newsnight goes to Calais to see the small-boats situation on the ground.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250707215800 +0000" stop="20250707220000 +0000">
@@ -5359,8 +5364,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250707213000 +0000" stop="20250707220000 +0000">
-		<title>Newsnight - 07/07/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Can Starmer Smash the Gangs?</title>
+		<desc>Newsnight goes to Calais to see the small-boats situation on the ground.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250707220000 +0000" stop="20250707230000 +0000">
@@ -5374,8 +5379,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250707233000 +0000" stop="20250708000000 +0000">
-		<title>Newscast - 07/07/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Flash Floods Devastate Texas</title>
+		<desc>Adam Fleming is joined by Gary O'Donoghue and Caitríona Perry.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250708000000 +0000" stop="20250708003000 +0000">
@@ -6343,27 +6348,27 @@
 		<desc>Education committee on the crisis in special educational needs and disabilities education.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmjcnb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250707133000 +0000" stop="20250707143000 +0000">
+	<programme channel="bbcparliament" start="20250707133000 +0000" stop="20250707144000 +0000">
 		<title>House of Commons - Home Office Questions</title>
 		<desc>Coverage of questions to Yvette Cooper on Monday 7 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnr56s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250707143000 +0000" stop="20250707151500 +0000">
+	<programme channel="bbcparliament" start="20250707144000 +0000" stop="20250707152500 +0000">
 		<title>House of Commons - Fiscal Rules Urgent Question</title>
 		<desc>Urgent question on the UK government's performance against the fiscal rules, on 7 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnr5tp.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250707151500 +0000" stop="20250707160000 +0000">
+	<programme channel="bbcparliament" start="20250707152500 +0000" stop="20250707155000 +0000">
 		<title>House of Commons - Iran Urgent Question</title>
 		<desc>Urgent question on the UK's response to the actions of the Iranian regime, on 7 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnr698.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250707160000 +0000" stop="20250707170000 +0000">
+	<programme channel="bbcparliament" start="20250707155000 +0000" stop="20250707174000 +0000">
 		<title>House of Commons - Education Statement</title>
 		<desc>Statement on 'giving every child the best start in life', on Monday 7 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250707170000 +0000" stop="20250707213000 +0000">
+	<programme channel="bbcparliament" start="20250707174000 +0000" stop="20250707213000 +0000">
 		<title>House of Commons - 07/07/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 7 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6373,35 +6378,50 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 7 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250707221500 +0000" stop="20250708001500 +0000">
+	<programme channel="bbcparliament" start="20250707221500 +0000" stop="20250707235000 +0000">
 		<title>House of Lords - Renters' Rights Bill, Part 1</title>
 		<desc>The second day of debate on the report stage of the Renters' Rights Bill on Monday 7 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250708001500 +0000" stop="20250708021500 +0000">
+	<programme channel="bbcparliament" start="20250707235000 +0000" stop="20250708012500 +0000">
 		<title>House of Lords - Renters' Rights Bill, Part 2</title>
 		<desc>The second day of debate on the report stage of the Renters' Rights Bill on Monday 7 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250708021500 +0000" stop="20250708041500 +0000">
-		<title>House of Lords - Renters' Rights Bill, Part 3</title>
-		<desc>The second day of debate on the report stage of the Renters' Rights Bill on Monday 7 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250708041500 +0000" stop="20250708050000 +0000">
+	<programme channel="bbcparliament" start="20250708012500 +0000" stop="20250708021500 +0000">
 		<title>House of Lords - Education Statement</title>
 		<desc>The statement on 'giving every child the best start in life', on Monday 7 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250708050000 +0000" stop="20250708060000 +0000">
+	<programme channel="bbcparliament" start="20250708021500 +0000" stop="20250708034000 +0000">
+		<title>Select Committees - Environmental Sustainability Committee</title>
+		<desc>Environmental Audit Committee session on environmental sustainability and housing growth.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250708034000 +0000" stop="20250708044500 +0000">
+		<title>Westminster Hall - 07/07/2025</title>
+		<desc>House of Commons proceedings in Westminster Hall from Monday 7 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250708044500 +0000" stop="20250708050000 +0000">
+		<title>Ten Minute Rule Bill - Duty of Candour for Public Officials</title>
+		<desc>Duty of candour on public officials giving evidence to public inquiries and investigations</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250708050000 +0000" stop="20250708061000 +0000">
 		<title>House of Commons - Home Office Questions</title>
 		<desc>Coverage of questions to Yvette Cooper on Monday 7 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnr56s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250708060000 +0000" stop="20250708090000 +0000">
-		<title>House of Commons - 07/07/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 7 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250708061000 +0000" stop="20250708065000 +0000">
+		<title>House of Lords - G7 and Nato Summits Statement</title>
+		<desc>Statement in the House of Lords on the G7 and Nato summits, on Tuesday 1 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250708065000 +0000" stop="20250708090000 +0000">
+		<title>Select Committees - Defence Select Committee with John Healey</title>
+		<desc>The defence committee session with evidence from the defence secretary, John Healey.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250708090000 +0000" stop="20250708103000 +0000">
 		<title>Select Committees - Business and Trade Committee on Economic Security</title>
