@@ -638,9 +638,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08jffkc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250708213000 +0000" stop="20250708215800 +0000">
-		<title>Newsnight - 08/07/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Gregg Wallace sacked from MasterChef</title>
+		<desc>What does TV host Gregg Wallace's sacking mean for the wider industry?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnyjpz.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250708215800 +0000" stop="20250708220000 +0000">
 		<title>BBC Weather - 08/07/2025</title>
@@ -5271,9 +5271,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250708213000 +0000" stop="20250708220000 +0000">
-		<title>Newsnight - 08/07/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Gregg Wallace sacked from MasterChef</title>
+		<desc>What does TV host Gregg Wallace's sacking mean for the wider industry?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnyjpz.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250708220000 +0000" stop="20250708230000 +0000">
 		<title>BBC World News America - 08/07/2025</title>
@@ -6235,60 +6235,70 @@
 		<desc>The statement on road and rail projects with the transport secretary Heidi Alexander.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250708134500 +0000" stop="20250708143000 +0000">
+	<programme channel="bbcparliament" start="20250708134500 +0000" stop="20250708143500 +0000">
 		<title>House of Commons - Post Office Horizon IT Inquiry Statement</title>
 		<desc>The statement on publication of volume one of the Post Office Horizon IT Inquiry report.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250708143000 +0000" stop="20250708183000 +0000">
+	<programme channel="bbcparliament" start="20250708143500 +0000" stop="20250708183000 +0000">
 		<title>House of Commons - 08/07/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250708183000 +0000" stop="20250708210000 +0000">
+	<programme channel="bbcparliament" start="20250708183000 +0000" stop="20250708205500 +0000">
 		<title>House of Lords - 08/07/2025</title>
 		<desc>Coverage of proceedings in the House of Lords on Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250708210000 +0000" stop="20250708215000 +0000">
+	<programme channel="bbcparliament" start="20250708205500 +0000" stop="20250708215500 +0000">
 		<title>Welsh First Minister's Questions - 08/07/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250708215000 +0000" stop="20250708223500 +0000">
+	<programme channel="bbcparliament" start="20250708215500 +0000" stop="20250708223500 +0000">
 		<title>Lords Questions - 08/07/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250708223500 +0000" stop="20250708224500 +0000">
+	<programme channel="bbcparliament" start="20250708223500 +0000" stop="20250708225000 +0000">
 		<title>House of Lords - Fiscal Rules Statement</title>
 		<desc>The debate on the UK government's performance against the fiscal rules, on Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250708224500 +0000" stop="20250708225500 +0000">
+	<programme channel="bbcparliament" start="20250708225000 +0000" stop="20250708230000 +0000">
 		<title>House of Lords - Iran Statement</title>
 		<desc>The debate on the UK's response to the actions of the Iranian regime, on Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250708225500 +0000" stop="20250709005500 +0000">
+	<programme channel="bbcparliament" start="20250708230000 +0000" stop="20250709005000 +0000">
 		<title>House of Lords - Border Security Bill, Part 1</title>
 		<desc>The second day of the committee stage of the Border Security, Asylum and Immigration Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250709005500 +0000" stop="20250709025500 +0000">
+	<programme channel="bbcparliament" start="20250709005000 +0000" stop="20250709021500 +0000">
 		<title>House of Lords - Border Security Bill, Part 2</title>
 		<desc>The second day of the committee stage of the Border Security, Asylum and Immigration Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250709025500 +0000" stop="20250709045500 +0000">
+	<programme channel="bbcparliament" start="20250709021500 +0000" stop="20250709041000 +0000">
 		<title>House of Lords - Border Security Bill, Part 3</title>
 		<desc>The second day of the committee stage of the Border Security, Asylum and Immigration Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250709045500 +0000" stop="20250709060000 +0000">
+	<programme channel="bbcparliament" start="20250709041000 +0000" stop="20250709043500 +0000">
+		<title>House of Lords - Border Security Bill, Part 4</title>
+		<desc>The second day of the committee stage of the Border Security, Asylum and Immigration Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250709043500 +0000" stop="20250709050500 +0000">
 		<title>House of Lords - Heathrow Airport Fire Statement</title>
 		<desc>Debate on the report on the fire in an electrical substation at Heathrow Airport.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250709050500 +0000" stop="20250709060000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250709060000 +0000" stop="20250709071000 +0000">
 		<title>House of Commons - Justice Questions</title>
