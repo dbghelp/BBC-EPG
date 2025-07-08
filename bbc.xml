@@ -86,9 +86,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250708130000 +0000" stop="20250708180000 +0000">
-		<title>Wimbledon - BBC One: GB's Norrie v Alcaraz</title>
-		<desc>GB's Cameron Norrie takes on Carlos Alcaraz on Centre Court.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnwsqt.jpg" />
+		<title>Wimbledon - BBC One: Sabalenka, Norrie</title>
+		<desc>BBC One afternoon &amp; evening coverage of Aryna Sabalenka &amp; Cameron Norrie on Centre Court.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnxpws.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250708180000 +0000" stop="20250708182500 +0000">
 		<title>BBC News at Six - 08/07/2025</title>
@@ -607,12 +607,12 @@
 		<desc>BBC Two afternoon coverage of Taylor Fritz, &amp; Lucy Shuker.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnwtkh.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250708153000 +0000" stop="20250708180000 +0000">
+	<programme channel="bbctwo" start="20250708153000 +0000" stop="20250708181000 +0000">
 		<title>Women's Euro 2025 - Group Stage: Germany v Denmark</title>
 		<desc>Coverage as Germany and Denmark face each other in Basel.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmyz5p.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250708180000 +0000" stop="20250708190000 +0000">
+	<programme channel="bbctwo" start="20250708181000 +0000" stop="20250708190000 +0000">
 		<title>Wimbledon - BBC Two: Day 9, Evening</title>
 		<desc>More action from the All England Club as players vie for a place in the semi-finals.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnv79n.jpg" />
@@ -6290,15 +6290,25 @@
 		<desc>Debate on the report on the fire in an electrical substation at Heathrow Airport.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250709060000 +0000" stop="20250709081500 +0000">
-		<title>House of Commons - 08/07/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 8 July.</desc>
+	<programme channel="bbcparliament" start="20250709060000 +0000" stop="20250709071000 +0000">
+		<title>House of Commons - Justice Questions</title>
+		<desc>Coverage of questions to Shabana Mahmood on Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250709081500 +0000" stop="20250709103000 +0000">
-		<title>Select Committees - Transport Committee on HS2</title>
-		<desc>The Transport committee on learning from HS2 and the delivery of major infrastructure.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	<programme channel="bbcparliament" start="20250709071000 +0000" stop="20250709072000 +0000">
+		<title>Ten Minute Rule Bill - Clean Air</title>
+		<desc>The introduction of a Bill on a human right to clean air, from Tuesday 1 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250709072000 +0000" stop="20250709084000 +0000">
+		<title>House of Commons - Transport Statement</title>
+		<desc>The statement on road and rail projects with the transport secretary Heidi Alexander.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250709084000 +0000" stop="20250709103000 +0000">
+		<title>House of Commons - Education Statement</title>
+		<desc>Statement on 'giving every child the best start in life', on Monday 7 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250709103000 +0000" stop="20250709110000 +0000">
 		<title>House of Commons - Scotland Office Questions</title>
