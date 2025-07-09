@@ -596,9 +596,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp2jcv.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250709140000 +0000" stop="20250709190000 +0000">
-		<title>Wimbledon - BBC Two: Sinner v Shelton</title>
-		<desc>Jannik Sinner takes on Ben Shelton on No.1 Court.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp3mjy.jpg" />
+		<title>Wimbledon - BBC Two: Sinner, Djokovic</title>
+		<desc>BBC Two afternoon &amp; evening coverage of Jannik Sinner &amp; Novak Djokovic.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp520z.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250709190000 +0000" stop="20250709200000 +0000">
 		<title>Wimbledon - Day 10</title>
@@ -5229,8 +5229,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250709233000 +0000" stop="20250710000000 +0000">
-		<title>Newscast - 09/07/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - What Can the UK Government Actually Afford?</title>
+		<desc>Adam is joined by Faisal Islam and Hugh Pym to discuss doctors strikes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250710000000 +0000" stop="20250710003000 +0000">
@@ -5781,7 +5781,7 @@
 	<programme channel="bbcnews" start="20250712133000 +0000" stop="20250712140000 +0000">
 		<title>The Security Brief - Iran Eyes Chinese Fighter Jets</title>
 		<desc>Iran looks to China for fighter jets after the US bombed key nuclear sites.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50jbw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp3stf.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250712140000 +0000" stop="20250712143000 +0000">
 		<title>BBC News - 12/07/2025</title>
@@ -5901,7 +5901,7 @@
 	<programme channel="bbcnews" start="20250713023000 +0000" stop="20250713030000 +0000">
 		<title>The Security Brief - Iran Eyes Chinese Fighter Jets</title>
 		<desc>Iran looks to China for fighter jets after the US bombed key nuclear sites.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50jbw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp3stf.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250713030000 +0000" stop="20250713033000 +0000">
 		<title>BBC News - 13/07/2025</title>
@@ -6036,7 +6036,7 @@
 	<programme channel="bbcnews" start="20250713193000 +0000" stop="20250713200000 +0000">
 		<title>The Security Brief - Iran Eyes Chinese Fighter Jets</title>
 		<desc>Iran looks to China for fighter jets after the US bombed key nuclear sites.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50jbw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp3stf.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250713200000 +0000" stop="20250713210000 +0000">
 		<title>BBC News - 13/07/2025</title>
@@ -6091,7 +6091,7 @@
 	<programme channel="bbcnews" start="20250714013000 +0000" stop="20250714020000 +0000">
 		<title>The Security Brief - Iran Eyes Chinese Fighter Jets</title>
 		<desc>Iran looks to China for fighter jets after the US bombed key nuclear sites.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50jbw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp3stf.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250714020000 +0000" stop="20250714023000 +0000">
 		<title>Newsday - 14/07/2025</title>
@@ -6218,15 +6218,25 @@
 		<desc>Coverage of questions to Ian Murray on Wednesday 9 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250710053000 +0000" stop="20250710060500 +0000">
+	<programme channel="bbcparliament" start="20250710053000 +0000" stop="20250710061000 +0000">
 		<title>Prime Minister's Questions - 09/07/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 9 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp194w.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250710060500 +0000" stop="20250710083000 +0000">
-		<title>House of Commons - 09/07/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 9 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250710061000 +0000" stop="20250710062000 +0000">
+		<title>Ten Minute Rule Bill - Clean Air</title>
+		<desc>The introduction of a Bill on a human right to clean air, from Tuesday 1 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250710062000 +0000" stop="20250710063000 +0000">
+		<title>Ten Minute Rule Bill - Allergy Training in Schools</title>
+		<desc>Introduction of a Bill on allergy safety training in schools, from Wednesday 9 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250710063000 +0000" stop="20250710083000 +0000">
+		<title>Select Committees - Foreign Affairs Committee with David Lammy</title>
+		<desc>The Foreign Affairs committee with the foreign secretary, David Lammy, on Tuesday 8 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250710083000 +0000" stop="20250710093000 +0000">
 		<title>House of Commons - Cabinet Office Questions</title>
