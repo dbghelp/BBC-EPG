@@ -86,9 +86,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250711130000 +0000" stop="20250711170000 +0000">
-		<title>Wimbledon - BBC One: Sinner v Djokovic</title>
-		<desc>Number one seed Jannik Sinner takes on Novak Djokovic on Centre Court.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpmf05.jpg" />
+		<title>Wimbledon - BBC One: Alcaraz, Djokovic, Sinner</title>
+		<desc>BBC One afternoon coverage of Carlos Alcaraz, Novak Djokovic &amp; Jannik Sinner.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpn7zl.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250711170000 +0000" stop="20250711173000 +0000">
 		<title>BBC News at Six - 11/07/2025</title>
@@ -661,9 +661,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lplljh.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250711140000 +0000" stop="20250711190000 +0000">
-		<title>Wimbledon - BBC Two: Vasilev v Karki</title>
-		<desc>Alexander Vasilev takes on Ronit Karki on No.3 Court.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lplx7v.jpg" />
+		<title>Wimbledon - BBC Two: Sinner v Djokovic</title>
+		<desc>BBC Two afternoon and evening coverage of Jannik Sinner v Novak Djokovic on Centre Court.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpnydn.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250711190000 +0000" stop="20250711200000 +0000">
 		<title>Wimbledon - Day 12</title>
@@ -5619,7 +5619,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250713013000 +0000" stop="20250713020000 +0000">
-		<title>Ukrainecast - 12/07/2025</title>
+		<title>Ukrainecast - Has Trump turned on Putin?</title>
 		<desc>Your questions answered as US senators consider new Russia sanctions.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
@@ -5809,7 +5809,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250714003000 +0000" stop="20250714010000 +0000">
-		<title>Ukrainecast - 12/07/2025</title>
+		<title>Ukrainecast - Has Trump turned on Putin?</title>
 		<desc>Your questions answered as US senators consider new Russia sanctions.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
@@ -6479,9 +6479,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp194w.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250712234500 +0000" stop="20250713004500 +0000">
-		<title>Welsh First Minister's Questions - 08/07/2025</title>
-		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<title>Senedd Cymru - Welsh Parliament - Economy Questions</title>
+		<desc>Questions to the economy, energy and planning secretary Rebecca Evans on Wednesday 9 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250713004500 +0000" stop="20250713015500 +0000">
 		<title>House of Commons - Home Office Questions</title>
@@ -6594,9 +6594,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnr56s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250714035000 +0000" stop="20250714045000 +0000">
-		<title>Welsh First Minister's Questions - 08/07/2025</title>
-		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<title>Senedd Cymru - Welsh Parliament - Economy Questions</title>
+		<desc>Questions to the economy, energy and planning secretary Rebecca Evans on Wednesday 9 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250714045000 +0000" stop="20250714053000 +0000">
 		<title>Prime Minister's Questions - 09/07/2025</title>
@@ -6618,20 +6618,25 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 9 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp194w.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714101000 +0000" stop="20250714111000 +0000">
+	<programme channel="bbcparliament" start="20250714101000 +0000" stop="20250714110000 +0000">
 		<title>President Macron's Address to Parliament</title>
 		<desc>President Emmanuel Macron's speech to MPs and peers in the Palace of Westminster.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp1bjx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714111000 +0000" stop="20250714123000 +0000">
+	<programme channel="bbcparliament" start="20250714110000 +0000" stop="20250714122000 +0000">
 		<title>House of Commons - Transport Statement</title>
 		<desc>The statement on road and rail projects with the transport secretary Heidi Alexander.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp139x.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714123000 +0000" stop="20250714133000 +0000">
+	<programme channel="bbcparliament" start="20250714122000 +0000" stop="20250714132000 +0000">
 		<title>Select Committees - Welsh Affairs Committee with the Secretary of State</title>
 		<desc>The Welsh Affairs committee with the Welsh secretary Jo Stevens, from Wednesday 9 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250714132000 +0000" stop="20250714133000 +0000">
+		<title>Ten Minute Rule Bill - Allergy Training in Schools</title>
+		<desc>Introduction of a Bill on allergy safety training in schools, from Wednesday 9 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250714133000 +0000" stop="20250714143000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
