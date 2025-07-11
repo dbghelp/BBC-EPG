@@ -86,9 +86,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250711130000 +0000" stop="20250711170000 +0000">
-		<title>Wimbledon - BBC One: Fritz v Alcaraz</title>
-		<desc>Taylor Fritz takes on Carlos Alcaraz in their Men's Semi-Final on Centre Court</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpksqv.jpg" />
+		<title>Wimbledon - BBC One: Sinner v Djokovic</title>
+		<desc>Number one seed Jannik Sinner takes on Novak Djokovic on Centre Court.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpmf05.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250711170000 +0000" stop="20250711173000 +0000">
 		<title>BBC News at Six - 11/07/2025</title>
@@ -656,14 +656,14 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpdhh3.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250711113000 +0000" stop="20250711140000 +0000">
-		<title>Wimbledon - BBC Two: Fritz v Alcaraz</title>
-		<desc>Taylor Fritz takes on Carlos Alcaraz in their Men's Semi-Final on Centre Court</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpksqv.jpg" />
+		<title>Wimbledon - BBC Two: Gadecki/Krawczyk v Kudermetova/Mertens</title>
+		<desc>BBC Two afternoon coverage of the Women's Doubles Semi-Finals</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lplljh.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250711140000 +0000" stop="20250711190000 +0000">
-		<title>Wimbledon - BBC Two: Day 12, Afternoon and Evening</title>
-		<desc>Live coverage as the men’s singles semi-finals are taking place. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpj0d1.jpg" />
+		<title>Wimbledon - BBC Two: Vasilev v Karki</title>
+		<desc>Alexander Vasilev takes on Ronit Karki on No.3 Court.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lplx7v.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250711190000 +0000" stop="20250711200000 +0000">
 		<title>Wimbledon - Day 12</title>
@@ -1217,7 +1217,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250711185800 +0000" stop="20250711190000 +0000">
 		<title>The Catch Up - 11/07/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Charlie Jones.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250711190000 +0000" stop="20250711200000 +0000">
@@ -1805,32 +1805,37 @@
 		<desc>Day four highlights from the third Test match between England and India.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhl9k5.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250713190000 +0000" stop="20250713211000 +0000">
+	<programme channel="bbcfour" start="20250713190000 +0000" stop="20250713203500 +0000">
 		<title>Summer Night Concert from Vienna - 2025</title>
 		<desc>World-famous tenor Piotr Beczala headlines with iconic arias from Carmen and Turandot.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp0tgb.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250713211000 +0000" stop="20250713224000 +0000">
+	<programme channel="bbcfour" start="20250713203500 +0000" stop="20250713210500 +0000">
+		<title>The Lark Ascending</title>
+		<desc>Dame Diana Rigg tells the story behind the ever popular The Lark Ascending.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0901hjf.jpg" />
+	</programme>
+	<programme channel="bbcfour" start="20250713210500 +0000" stop="20250713223500 +0000">
 		<title>The Last Musician of Auschwitz</title>
 		<desc>It was hell. But music gave prisoners at Auschwitz a lifeline - and even a way to resist.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kkw0fz.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250713224000 +0000" stop="20250713234000 +0000">
+	<programme channel="bbcfour" start="20250713223500 +0000" stop="20250713233500 +0000">
 		<title>Plague Fiction</title>
 		<desc>Professor Laura Ashe looks back at the literature on the plague of the 14th century.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08qyzl2.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250713234000 +0000" stop="20250714011000 +0000">
+	<programme channel="bbcfour" start="20250713233500 +0000" stop="20250714010500 +0000">
 		<title>Freddie Mercury: The Final Act</title>
 		<desc>The story of Freddie Mercury’s final years and the tribute concert staged in his memory.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b4j38t.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250714011000 +0000" stop="20250714021000 +0000">
+	<programme channel="bbcfour" start="20250714010500 +0000" stop="20250714020500 +0000">
 		<title>A Life in Ten Pictures - Series 1: 1. Freddie Mercury</title>
 		<desc>Ten pictures, from iconic shots to private snaps, reveal the life of Freddie Mercury.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09c4bzn.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250714021000 +0000" stop="20250714043000 +0000">
+	<programme channel="bbcfour" start="20250714020500 +0000" stop="20250714043000 +0000">
 		<title>This is BBC Four - This is BBC Four</title>
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
@@ -1878,7 +1883,7 @@
 	<programme channel="bbcfour" start="20250714214500 +0000" stop="20250714224500 +0000">
 		<title>Omnibus - Mario Vargas Llosa: The Story of the Novelist Who Would Be President</title>
 		<desc>Documentary following novelist Mario Vargas Llosa in his bid to become president of Peru.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01m5zbx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lplptk.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250714224500 +0000" stop="20250714234000 +0000">
 		<title>Berlin 1945 - Series 1: Episode 2</title>
@@ -1973,7 +1978,7 @@
 	<programme channel="bbcfour" start="20250716003000 +0000" stop="20250716013000 +0000">
 		<title>Omnibus - Mario Vargas Llosa: The Story of the Novelist Who Would Be President</title>
 		<desc>Documentary following novelist Mario Vargas Llosa in his bid to become president of Peru.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01m5zbx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lplptk.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250716013000 +0000" stop="20250716023000 +0000">
 		<title>The First Georgians: The German Kings Who Made Britain - Episode 2</title>
@@ -5384,8 +5389,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250711223000 +0000" stop="20250711230000 +0000">
-		<title>The President's Path - 11/07/2025</title>
-		<desc>A weekly discussion on the US presidency.</desc>
+		<title>The President's Path - Climate Policies</title>
+		<desc>The climate cost of Trump's "big, beautiful bill".</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250711230000 +0000" stop="20250711233000 +0000">
@@ -5395,7 +5400,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250711233000 +0000" stop="20250712000000 +0000">
 		<title>Talking Business - 11/07/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Are Western sanctions really hurting Iran's economy?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250712000000 +0000" stop="20250712003000 +0000">
@@ -5475,7 +5480,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250712103000 +0000" stop="20250712110000 +0000">
 		<title>Talking Business - 11/07/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Are Western sanctions really hurting Iran's economy?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250712110000 +0000" stop="20250712113000 +0000">
@@ -5520,7 +5525,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250712144500 +0000" stop="20250712150000 +0000">
 		<title>Newswatch - 12/07/2025</title>
-		<desc>Your views on the coverage of events by BBC News.</desc>
+		<desc>Oasis are back on tour, but has the BBC's coverage been too extensive? With Samira Ahmed.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gbk3ng.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250712150000 +0000" stop="20250712153000 +0000">
@@ -5615,7 +5620,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250713013000 +0000" stop="20250713020000 +0000">
 		<title>Ukrainecast - 12/07/2025</title>
-		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+		<desc>Your questions answered as US senators consider new Russia sanctions.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250713020000 +0000" stop="20250713023000 +0000">
@@ -5674,8 +5679,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250713103000 +0000" stop="20250713110000 +0000">
-		<title>The President's Path - 11/07/2025</title>
-		<desc>A weekly discussion on the US presidency.</desc>
+		<title>The President's Path - Climate Policies</title>
+		<desc>The climate cost of Trump's "big, beautiful bill".</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250713110000 +0000" stop="20250713113000 +0000">
@@ -5805,7 +5810,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250714003000 +0000" stop="20250714010000 +0000">
 		<title>Ukrainecast - 12/07/2025</title>
-		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+		<desc>Your questions answered as US senators consider new Russia sanctions.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250714010000 +0000" stop="20250714013000 +0000">
@@ -5835,7 +5840,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250714033000 +0000" stop="20250714040000 +0000">
 		<title>Talking Business - 11/07/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Are Western sanctions really hurting Iran's economy?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250714040000 +0000" stop="20250714043000 +0000">
@@ -6025,7 +6030,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250715003000 +0000" stop="20250715010000 +0000">
 		<title>Talking Business - 11/07/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Are Western sanctions really hurting Iran's economy?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250715010000 +0000" stop="20250715013000 +0000">
@@ -6255,7 +6260,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250716013000 +0000" stop="20250716020000 +0000">
 		<title>Talking Business - 11/07/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Are Western sanctions really hurting Iran's economy?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250716020000 +0000" stop="20250716023000 +0000">
@@ -6308,39 +6313,44 @@
 		<desc>The introduction of a Bill on SEND training in schools, from Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250711083000 +0000" stop="20250711141000 +0000">
+	<programme channel="bbcparliament" start="20250711083000 +0000" stop="20250711140000 +0000">
 		<title>House of Commons - 11/07/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Friday 11 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250711141000 +0000" stop="20250711150000 +0000">
+	<programme channel="bbcparliament" start="20250711140000 +0000" stop="20250711145000 +0000">
 		<title>House of Lords - Education Statement</title>
 		<desc>The statement on 'giving every child the best start in life', on Monday 7 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250711150000 +0000" stop="20250711151500 +0000">
+	<programme channel="bbcparliament" start="20250711145000 +0000" stop="20250711150500 +0000">
 		<title>House of Lords - Fiscal Rules Statement</title>
 		<desc>The debate on the UK government's performance against the fiscal rules, on Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250711151500 +0000" stop="20250711152500 +0000">
+	<programme channel="bbcparliament" start="20250711150500 +0000" stop="20250711151500 +0000">
 		<title>House of Lords - Iran Statement</title>
 		<desc>The debate on the UK's response to the actions of the Iranian regime, on Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpf1bw.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250711152500 +0000" stop="20250711155000 +0000">
+	<programme channel="bbcparliament" start="20250711151500 +0000" stop="20250711154000 +0000">
 		<title>House of Lords - Heathrow Airport Fire Statement</title>
 		<desc>Debate on the report on the fire in an electrical substation at Heathrow Airport.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250711155000 +0000" stop="20250711165000 +0000">
+	<programme channel="bbcparliament" start="20250711154000 +0000" stop="20250711164000 +0000">
 		<title>House of Lords - Ten Year Health Plan for England</title>
 		<desc>Statement on the ten year health plan for England, on Wednesday 9 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250711165000 +0000" stop="20250711170000 +0000">
+	<programme channel="bbcparliament" start="20250711164000 +0000" stop="20250711165000 +0000">
 		<title>Ten Minute Rule Bill - Allergy Training in Schools</title>
 		<desc>Introduction of a Bill on allergy safety training in schools, from Wednesday 9 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250711165000 +0000" stop="20250711170000 +0000">
+		<title>Ten Minute Rule Bill - SEND Training in Schools</title>
+		<desc>The introduction of a Bill on SEND training in schools, from Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250711170000 +0000" stop="20250711190000 +0000">
@@ -6398,204 +6408,229 @@
 		<desc>Second day of debate on the report stage of the House of Lords (Hereditary Peers) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250712050000 +0000" stop="20250712100000 +0000">
+	<programme channel="bbcparliament" start="20250712050000 +0000" stop="20250712093000 +0000">
 		<title>Westminster Hall - 08/07/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250712100000 +0000" stop="20250712103500 +0000">
-		<title>Prime Minister's Questions - 09/07/2025</title>
-		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 9 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp194w.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250712103500 +0000" stop="20250712112500 +0000">
-		<title>Welsh First Minister's Questions - 08/07/2025</title>
-		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250712112500 +0000" stop="20250712121000 +0000">
-		<title>House of Commons - 12/07/2025</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250712121000 +0000" stop="20250712125500 +0000">
-		<title>House of Lords - 12/07/2025</title>
-		<desc>Coverage of a statement in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250712125500 +0000" stop="20250712134000 +0000">
-		<title>House of Commons - 12/07/2025</title>
-		<desc>Coverage of an urgent question in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250712134000 +0000" stop="20250712142500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 12/07/2025</title>
-		<desc>Coverage of a statement in the Welsh Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250712142500 +0000" stop="20250712151000 +0000">
-		<title>House of Commons - 12/07/2025</title>
-		<desc>Coverage of a debate in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250712151000 +0000" stop="20250712155500 +0000">
-		<title>House of Lords - 12/07/2025</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250712155500 +0000" stop="20250712170000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 12/07/2025</title>
-		<desc>Coverage of a debate in the Welsh Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250712170000 +0000" stop="20250712230500 +0000">
-		<title>Select Committees - 12/07/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250712230500 +0000" stop="20250712234000 +0000">
-		<title>Prime Minister's Questions - 09/07/2025</title>
-		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 9 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp194w.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250712234000 +0000" stop="20250713003000 +0000">
-		<title>Welsh First Minister's Questions - 08/07/2025</title>
-		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250713003000 +0000" stop="20250713013000 +0000">
-		<title>House of Commons - Home Office Questions</title>
-		<desc>Coverage of questions to Yvette Cooper on Monday 7 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnr56s.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250713013000 +0000" stop="20250713023000 +0000">
-		<title>House of Commons - Justice Questions</title>
-		<desc>Coverage of questions to Shabana Mahmood on Tuesday 8 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp0znr.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250713023000 +0000" stop="20250713030000 +0000">
+	<programme channel="bbcparliament" start="20250712093000 +0000" stop="20250712100000 +0000">
 		<title>House of Commons - Scotland Office Questions</title>
 		<desc>Coverage of questions to Ian Murray on Wednesday 9 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpf10f.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250713030000 +0000" stop="20250713040000 +0000">
+	<programme channel="bbcparliament" start="20250712100000 +0000" stop="20250712104000 +0000">
+		<title>Prime Minister's Questions - 09/07/2025</title>
+		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 9 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp194w.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250712104000 +0000" stop="20250712113500 +0000">
+		<title>Welsh First Minister's Questions - 08/07/2025</title>
+		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250712113500 +0000" stop="20250712132500 +0000">
+		<title>House of Commons - Education Statement</title>
+		<desc>Statement on 'giving every child the best start in life', on Monday 7 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250712132500 +0000" stop="20250712142000 +0000">
+		<title>House of Lords - Education Statement</title>
+		<desc>The statement on 'giving every child the best start in life', on Monday 7 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250712142000 +0000" stop="20250712145000 +0000">
+		<title>House of Commons - Nuclear Partnership Urgent Question</title>
+		<desc>Debate in the House of Commons on an urgent question on the UK-France nuclear partnership.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpf3c0.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250712145000 +0000" stop="20250712152000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Budget for 2025-26</title>
+		<desc>The debate on the first supplementary budget for 2025-26, from Tuesday 8 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250712152000 +0000" stop="20250712160500 +0000">
+		<title>House of Commons - Fiscal Rules Urgent Question</title>
+		<desc>Urgent question on the UK government's performance against the fiscal rules, on 7 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnr5tp.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250712160500 +0000" stop="20250712170000 +0000">
+		<title>President Macron's Address to Parliament</title>
+		<desc>President Emmanuel Macron's speech to MPs and peers in the Palace of Westminster.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp1bjx.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250712170000 +0000" stop="20250712194500 +0000">
+		<title>Select Committees - Business and Trade Committee on Economic Security</title>
+		<desc>The Business and Trade subcommittee on economic security, arms and export controls.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250712194500 +0000" stop="20250712213500 +0000">
+		<title>Select Committees - Business and Trade Committee on Economic Security with Pat McFadden</title>
+		<desc>Recorded coverage of select committee proceedings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250712213500 +0000" stop="20250712230500 +0000">
+		<title>Select Committees - Environmental Sustainability Committee</title>
+		<desc>Environmental Audit Committee session on environmental sustainability and housing growth.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250712230500 +0000" stop="20250712234500 +0000">
+		<title>Prime Minister's Questions - 09/07/2025</title>
+		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 9 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp194w.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250712234500 +0000" stop="20250713004500 +0000">
+		<title>Welsh First Minister's Questions - 08/07/2025</title>
+		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713004500 +0000" stop="20250713015500 +0000">
+		<title>House of Commons - Home Office Questions</title>
+		<desc>Coverage of questions to Yvette Cooper on Monday 7 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnr56s.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713015500 +0000" stop="20250713030500 +0000">
+		<title>House of Commons - Justice Questions</title>
+		<desc>Coverage of questions to Shabana Mahmood on Tuesday 8 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp0znr.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713030500 +0000" stop="20250713033500 +0000">
+		<title>House of Commons - Scotland Office Questions</title>
+		<desc>Coverage of questions to Ian Murray on Wednesday 9 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpf10f.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713033500 +0000" stop="20250713043000 +0000">
 		<title>House of Commons - Cabinet Office Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Thursday 10 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpf32w.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250713040000 +0000" stop="20250713050000 +0000">
+	<programme channel="bbcparliament" start="20250713043000 +0000" stop="20250713055000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 10 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpf4ns.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250713050000 +0000" stop="20250713100000 +0000">
+	<programme channel="bbcparliament" start="20250713055000 +0000" stop="20250713103500 +0000">
 		<title>Westminster Hall - 09/07/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Wednesday 9 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250713100000 +0000" stop="20250713104500 +0000">
-		<title>House of Lords - 12/07/2025</title>
-		<desc>Coverage of a statement in the House of Lords.</desc>
+	<programme channel="bbcparliament" start="20250713103500 +0000" stop="20250713111000 +0000">
+		<title>House of Lords - Government Resilience Statement</title>
+		<desc>The statement on the UK government resilience action plan, on Thursday 10 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250713104500 +0000" stop="20250713115000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 12/07/2025</title>
-		<desc>Coverage of a debate in the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20250713111000 +0000" stop="20250713114000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Representation of the People Order</title>
+		<desc>Debate on the Senedd Cymru (Representation of the People) Order, from Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250713115000 +0000" stop="20250713123500 +0000">
-		<title>House of Commons - 12/07/2025</title>
-		<desc>Coverage of a debate in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250713123500 +0000" stop="20250713132000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 12/07/2025</title>
-		<desc>Coverage of a statement in the Welsh Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250713132000 +0000" stop="20250713140500 +0000">
-		<title>House of Commons - 12/07/2025</title>
-		<desc>Coverage of an urgent question in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250713140500 +0000" stop="20250713145000 +0000">
-		<title>House of Lords - 12/07/2025</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250713145000 +0000" stop="20250713153500 +0000">
-		<title>House of Commons - 12/07/2025</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250713153500 +0000" stop="20250713161000 +0000">
-		<title>Prime Minister's Questions - 09/07/2025</title>
-		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 9 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp194w.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250713161000 +0000" stop="20250713170000 +0000">
-		<title>Welsh First Minister's Questions - 08/07/2025</title>
-		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250713170000 +0000" stop="20250713230500 +0000">
-		<title>Select Committees - 13/07/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250713230500 +0000" stop="20250714000500 +0000">
-		<title>House of Commons - Cabinet Office Questions</title>
-		<desc>Coverage of questions to Pat McFadden on Thursday 10 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpf32w.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250714000500 +0000" stop="20250714010500 +0000">
+	<programme channel="bbcparliament" start="20250713114000 +0000" stop="20250713130000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 10 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpf4ns.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714010500 +0000" stop="20250714013500 +0000">
+	<programme channel="bbcparliament" start="20250713130000 +0000" stop="20250713134000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Building Safety Bill Statement</title>
+		<desc>The statement on the Building Safety (Wales) Bill, from Tuesday 8 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713134000 +0000" stop="20250713144000 +0000">
+		<title>House of Commons - Trial by Jury Urgent Question</title>
+		<desc>An urgent question on restrictions to trial by jury, on Wednesday 9 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp7sry.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713144000 +0000" stop="20250713153500 +0000">
+		<title>House of Lords - Ten Year Health Plan for England</title>
+		<desc>Statement on the ten year health plan for England, on Wednesday 9 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713153500 +0000" stop="20250713161500 +0000">
+		<title>Prime Minister's Questions - 09/07/2025</title>
+		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 9 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp194w.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713161500 +0000" stop="20250713171500 +0000">
+		<title>Welsh First Minister's Questions - 08/07/2025</title>
+		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713171500 +0000" stop="20250713191500 +0000">
+		<title>Select Committees - Housing, Communities and Local Government Committee with Angela Rayner</title>
+		<desc>The Housing, Communities and Local Government committee on the work of the department.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713191500 +0000" stop="20250713204500 +0000">
+		<title>Select Committees - Lords Justice and Home Affairs with Yvette Cooper</title>
+		<desc>The Lords Justice and Home Affairs committee with the home secretary, Yvette Cooper.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713204500 +0000" stop="20250713224500 +0000">
+		<title>Select Committees - Women and Equalities Committee on the EHRC</title>
+		<desc>Equality and Human Rights Commission chair candidate hearing with Dr Mary-Ann Stephenson.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713224500 +0000" stop="20250713234000 +0000">
+		<title>House of Commons - Cabinet Office Questions</title>
+		<desc>Coverage of questions to Pat McFadden on Thursday 10 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpf32w.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250713234000 +0000" stop="20250714010000 +0000">
+		<title>House of Commons - Commons Business Questions</title>
+		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 10 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpf4ns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250714010000 +0000" stop="20250714013000 +0000">
 		<title>House of Commons - Scotland Office Questions</title>
 		<desc>Coverage of questions to Ian Murray on Wednesday 9 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpf10f.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714013500 +0000" stop="20250714023500 +0000">
+	<programme channel="bbcparliament" start="20250714013000 +0000" stop="20250714024000 +0000">
 		<title>House of Commons - Justice Questions</title>
 		<desc>Coverage of questions to Shabana Mahmood on Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp0znr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714023500 +0000" stop="20250714033500 +0000">
+	<programme channel="bbcparliament" start="20250714024000 +0000" stop="20250714035000 +0000">
 		<title>House of Commons - Home Office Questions</title>
 		<desc>Coverage of questions to Yvette Cooper on Monday 7 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnr56s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714033500 +0000" stop="20250714042500 +0000">
+	<programme channel="bbcparliament" start="20250714035000 +0000" stop="20250714045000 +0000">
 		<title>Welsh First Minister's Questions - 08/07/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714042500 +0000" stop="20250714050000 +0000">
+	<programme channel="bbcparliament" start="20250714045000 +0000" stop="20250714053000 +0000">
 		<title>Prime Minister's Questions - 09/07/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 9 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp194w.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714050000 +0000" stop="20250714080000 +0000">
+	<programme channel="bbcparliament" start="20250714053000 +0000" stop="20250714083000 +0000">
 		<title>Westminster Hall - 10/07/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Thursday 10 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714080000 +0000" stop="20250714085000 +0000">
+	<programme channel="bbcparliament" start="20250714083000 +0000" stop="20250714093000 +0000">
 		<title>Welsh First Minister's Questions - 08/07/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714085000 +0000" stop="20250714092500 +0000">
+	<programme channel="bbcparliament" start="20250714093000 +0000" stop="20250714101000 +0000">
 		<title>Prime Minister's Questions - 09/07/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 9 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp194w.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714092500 +0000" stop="20250714133000 +0000">
-		<title>Select Committees - 14/07/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20250714101000 +0000" stop="20250714111000 +0000">
+		<title>President Macron's Address to Parliament</title>
+		<desc>President Emmanuel Macron's speech to MPs and peers in the Palace of Westminster.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp1bjx.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250714111000 +0000" stop="20250714123000 +0000">
+		<title>House of Commons - Transport Statement</title>
+		<desc>The statement on road and rail projects with the transport secretary Heidi Alexander.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp139x.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250714123000 +0000" stop="20250714133000 +0000">
+		<title>Select Committees - Welsh Affairs Committee with the Secretary of State</title>
+		<desc>The Welsh Affairs committee with the Welsh secretary Jo Stevens, from Wednesday 9 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250714133000 +0000" stop="20250714143000 +0000">
@@ -6603,28 +6638,8 @@
 		<desc>Coverage of questions to Angela Rayner on Monday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714143000 +0000" stop="20250714153000 +0000">
-		<title>House of Commons - 14/07/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 14 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250714153000 +0000" stop="20250714163000 +0000">
-		<title>House of Commons - 14/07/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 14 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250714163000 +0000" stop="20250714173000 +0000">
-		<title>House of Commons - 14/07/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 14 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250714173000 +0000" stop="20250714183000 +0000">
-		<title>House of Commons - 14/07/2025 Part 4</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 14 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250714183000 +0000" stop="20250714213000 +0000">
-		<title>House of Commons - 14/07/2025 Part 5</title>
+	<programme channel="bbcparliament" start="20250714143000 +0000" stop="20250714213000 +0000">
+		<title>House of Commons - 14/07/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6633,33 +6648,8 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714221500 +0000" stop="20250714231500 +0000">
-		<title>House of Lords - 14/07/2025 Part 1</title>
-		<desc>Business in the House of Lords on Monday 14 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250714231500 +0000" stop="20250715001500 +0000">
-		<title>House of Lords - 14/07/2025 Part 2</title>
-		<desc>Business in the House of Lords on Monday 14 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250715001500 +0000" stop="20250715011500 +0000">
-		<title>House of Lords - 14/07/2025 Part 3</title>
-		<desc>Business in the House of Lords on Monday 14 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250715011500 +0000" stop="20250715021500 +0000">
-		<title>House of Lords - 14/07/2025 Part 4</title>
-		<desc>Business in the House of Lords on Monday 14 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250715021500 +0000" stop="20250715031500 +0000">
-		<title>House of Lords - 14/07/2025 Part 5</title>
-		<desc>Business in the House of Lords on Monday 14 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250715031500 +0000" stop="20250715050000 +0000">
-		<title>House of Lords - 14/07/2025 Part 6</title>
+	<programme channel="bbcparliament" start="20250714221500 +0000" stop="20250715050000 +0000">
+		<title>House of Lords - 14/07/2025</title>
 		<desc>Business in the House of Lords on Monday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -6668,14 +6658,14 @@
 		<desc>Coverage of questions to Angela Rayner on Monday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250715060000 +0000" stop="20250715083000 +0000">
+	<programme channel="bbcparliament" start="20250715060000 +0000" stop="20250715090000 +0000">
 		<title>House of Commons - 14/07/2025</title>
 		<desc>Highlights of proceedings in the House of Commons from Monday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250715083000 +0000" stop="20250715103000 +0000">
-		<title>Select Committees - 15/07/2025</title>
-		<desc>Coverage of select committee proceedings on Tuesday 15 July.</desc>
+	<programme channel="bbcparliament" start="20250715090000 +0000" stop="20250715103000 +0000">
+		<title>Select Committees - Environment, Food and Rural Affairs Committee on Thames Water</title>
+		<desc>The Environment, Food and Rural Affairs committee on Thames Water, on Tuesday 15 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250715103000 +0000" stop="20250715113000 +0000">
@@ -6683,23 +6673,8 @@
 		<desc>Coverage of questions to Ed Miliband on Tuesday 15 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250715113000 +0000" stop="20250715123000 +0000">
-		<title>House of Commons - 15/07/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250715123000 +0000" stop="20250715133000 +0000">
-		<title>House of Commons - 15/07/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250715133000 +0000" stop="20250715143000 +0000">
-		<title>House of Commons - 15/07/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250715143000 +0000" stop="20250715183000 +0000">
-		<title>House of Commons - 15/07/2025 Part 4</title>
+	<programme channel="bbcparliament" start="20250715113000 +0000" stop="20250715183000 +0000">
+		<title>House of Commons - 15/07/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 15 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6718,33 +6693,8 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 15 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250715223500 +0000" stop="20250715233500 +0000">
-		<title>House of Lords - 15/07/2025 Part 1</title>
-		<desc>Business in the House of Lords on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250715233500 +0000" stop="20250716003500 +0000">
-		<title>House of Lords - 15/07/2025 Part 2</title>
-		<desc>Business in the House of Lords on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250716003500 +0000" stop="20250716013500 +0000">
-		<title>House of Lords - 15/07/2025 Part 3</title>
-		<desc>Business in the House of Lords on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250716013500 +0000" stop="20250716023500 +0000">
-		<title>House of Lords - 15/07/2025 Part 4</title>
-		<desc>Business in the House of Lords on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250716023500 +0000" stop="20250716033500 +0000">
-		<title>House of Lords - 15/07/2025 Part 5</title>
-		<desc>Business in the House of Lords on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250716033500 +0000" stop="20250716050000 +0000">
-		<title>House of Lords - 15/07/2025 Part 6</title>
+	<programme channel="bbcparliament" start="20250715223500 +0000" stop="20250716050000 +0000">
+		<title>House of Lords - 15/07/2025</title>
 		<desc>Business in the House of Lords on Tuesday 15 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -7179,8 +7129,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb94ff.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250714200000 +0000" stop="20250714203000 +0000">
-		<title>Eòrpa - Series 33: Episode 5</title>
-		<desc>Eòrpa reports on some of the most important issues from Scotland and across Europe</desc>
+		<title>Eòrpa - Series 33: 5. Eòrpa’s Archive: 2015 – Bosnia’s PTSD legacy</title>
+		<desc>A 2015 report by Darren Laing investigating the lasting legacy of the war in the Balkans.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp0pkm.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250714203000 +0000" stop="20250714213000 +0000">
@@ -7493,10 +7443,20 @@
 		<desc>Newyddion S4C a'r Tywydd. S4C News and Weather.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250711130000 +0000" stop="20250711150000 +0000">
+	<programme channel="s4c" start="20250711130000 +0000" stop="20250711144000 +0000">
 		<title>Seiclo - Cyfres 2025: SEICLO: Tour de France 2025</title>
 		<desc>Cymal 7: Dau esgyniad i fyny'r Mûr-de-Bretagne brawychus! Disgwyliwch dân gwyllt ar let...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmwbm7.jpg" />
+	</programme>
+	<programme channel="s4c" start="20250711144000 +0000" stop="20250711145000 +0000">
+		<title>Dan Do - Cyfres 2 Byrion: Ty Eiluned a Dafydd- Llandeilo</title>
+		<desc>Y tro hwn: hen gartref Twm o'r Nant yn Llandeilo sy' bellach yn berchen i Eiluned a Daf...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06y3r59.jpg" />
+	</programme>
+	<programme channel="s4c" start="20250711145000 +0000" stop="20250711150000 +0000">
+		<title>Bwyd Epic Chris - Cyfres 1: Bwyd Chris Byr</title>
+		<desc>Risét o drydedd cyfres Bwyd Epic Chris - Pei Wystrys a Chig Eidion. A recipe from the t...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07t8m8b.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250711150000 +0000" stop="20250711151000 +0000">
 		<title>Odo - Cyfres 1: Arch-Dderyn!</title>
@@ -7883,37 +7843,37 @@
 		<desc>Mae Bethan a Caleb yn chwarae gyda barcud. Tybed a fydd Twt yn gallu eu helpu? Bethan a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02kgn7z.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714053000 +0000" stop="20250714054000 +0000">
+	<programme channel="s4c" start="20250714053000 +0000" stop="20250714054500 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 1: Blero'n Colli Balwn</title>
 		<desc>Mae Blero wrth ei fodd efo balwns o bob lliw a llun, ac mae o am gael gwybod pam eu bod...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2nn2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714054000 +0000" stop="20250714055500 +0000">
+	<programme channel="s4c" start="20250714054500 +0000" stop="20250714060000 +0000">
 		<title>Kim a Cêt a Twrch - Cyfres 1: Pennod 10</title>
 		<desc>Ymunwch â Kim a Cêt ar antur hudolus a chwareus sy'n llawn dawns a cherddoriaeth wrth i...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fkxpsh.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714055500 +0000" stop="20250714060500 +0000">
+	<programme channel="s4c" start="20250714060000 +0000" stop="20250714060500 +0000">
 		<title>Odo - Cyfres 1: Prif Swyddog Pwy?</title>
 		<desc>Mae Odo a Dwdl yn esgus bod yn Brifswyddog Wdl i gynorthwyo'r gwersyll i ennill Gwobr y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c2dj8p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714060500 +0000" stop="20250714062000 +0000">
+	<programme channel="s4c" start="20250714060500 +0000" stop="20250714061500 +0000">
 		<title>Pentre Papur Pop - Mabli'n Achub y Dydd</title>
 		<desc>Yn antur heddiw mae Mabli yn arch arwr.  All hi helpu ei ffrindiau ac achub y dydd? On ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714062000 +0000" stop="20250714063000 +0000">
+	<programme channel="s4c" start="20250714061500 +0000" stop="20250714063000 +0000">
 		<title>Ein Byd Bach Ni - Cyfres 1: Ynysoedd y Philipinau</title>
 		<desc>Heddiw: ymweliad ag Asia ac Ynysoedd y Philipinau - gwlad sydd wedi ei gwneud o 700 o y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f69d7k.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714063000 +0000" stop="20250714064500 +0000">
+	<programme channel="s4c" start="20250714063000 +0000" stop="20250714064000 +0000">
 		<title>Joni Jet - Cyfres 1: Lafant ar Ras</title>
 		<desc>Pan fydd Lili yn creu persawr sy'n ei gneud hi'n gyflymach na Jetboi mae yntau'n sylwed...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714064500 +0000" stop="20250714070000 +0000">
+	<programme channel="s4c" start="20250714064000 +0000" stop="20250714070000 +0000">
 		<title>Sigldigwt - Cyfres 1: Pennod 6</title>
 		<desc>Mae Gwesty Sigldigwt ar agor! Ymunwch gyda Tref y ci, Elin a Berian wrth iddynt edrych ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07z0x3j.jpg" />
@@ -7928,12 +7888,12 @@
 		<desc>Dewch ar antur gyda ni i gwrdd ag anifeiliaid bach y byd. Yn y rhaglen hon, y ddafad a'...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714071500 +0000" stop="20250714073000 +0000">
+	<programme channel="s4c" start="20250714071500 +0000" stop="20250714072500 +0000">
 		<title>Y Diwrnod Mawr - Cyfres 4: Darragh</title>
 		<desc>Ar ei ddiwrnod mawr bydd Daragh yn dilyn yn ol troed ei arwr Hedd Wyn. World War I sold...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0686d3p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714073000 +0000" stop="20250714074000 +0000">
+	<programme channel="s4c" start="20250714072500 +0000" stop="20250714074000 +0000">
 		<title>Pablo - Cyfres 2: Ymbarel</title>
 		<desc>Ar ôl chwarae'n y glaw, mae Pablo'n hapus, ond eto'n drist wrth orffen. Mae'n sylweddol...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bmwxql.jpg" />
@@ -7958,47 +7918,47 @@
 		<desc>Dewch gyda Jam ar daith llawn synau, cerddoriaeth a lluniau lliwgar - bydd cysgodion yn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x6yw7.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714083000 +0000" stop="20250714084500 +0000">
+	<programme channel="s4c" start="20250714083000 +0000" stop="20250714084000 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Y Bwci Bo</title>
 		<desc>Mae'n Galan Gaea ac mae Crawc yn dweud fod ganddo fwci-bo. Yn y diwedd, mae ei ffrindia...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714084500 +0000" stop="20250714090000 +0000">
+	<programme channel="s4c" start="20250714084000 +0000" stop="20250714090000 +0000">
 		<title>Awyr Iach - Cyfres 2: Pennod 6</title>
 		<desc>Heddiw, bydd Huw a chriw o ffrindiau yn adeiladu rafft, ac fe gawn ni gwrdd a Hetti a'i...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd9v0r.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714090000 +0000" stop="20250714090500 +0000">
+	<programme channel="s4c" start="20250714090000 +0000" stop="20250714091000 +0000">
 		<title>Blociau Rhif - Cyfres 1: Pennod 60</title>
 		<desc>Hwyl a sbri i blant ifanc gyda'r blociau rhif. Fun and games for young children with th...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714090500 +0000" stop="20250714091500 +0000">
+	<programme channel="s4c" start="20250714091000 +0000" stop="20250714092000 +0000">
 		<title>Tomos a'i Ffrindiau - Cyfres 4: Profiad Newydd Sbon</title>
 		<desc>Beth sy'n digwydd ym myd Tomos a'i ffrindiau heddiw? What's happening in Tomos and frie...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fg029b.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714091500 +0000" stop="20250714093000 +0000">
+	<programme channel="s4c" start="20250714092000 +0000" stop="20250714093500 +0000">
 		<title>Twt - Cyfres 1: Celwydd Golau</title>
 		<desc>Mae straeon Twt yn mynd yn rhy bell ac yn arwain at broblemau i'w ffrindiau yn yr harbw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02hzfzr.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714093000 +0000" stop="20250714094000 +0000">
+	<programme channel="s4c" start="20250714093500 +0000" stop="20250714094500 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 1: Llais Dylan</title>
 		<desc>Mae Blero'n clywed aderyn bach yn canu y tu allan i'w 'stafell, ond tydi o ddim yn deal...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2nn2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714094000 +0000" stop="20250714095500 +0000">
+	<programme channel="s4c" start="20250714094500 +0000" stop="20250714100000 +0000">
 		<title>Kim a Cêt a Twrch - Cyfres 1: Pennod 9</title>
 		<desc>Ymunwch â Kim a Cêt ar antur hudolus a chwareus sy'n llawn dawns a cherddoriaeth wrth i...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fkxpj1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714095500 +0000" stop="20250714100500 +0000">
+	<programme channel="s4c" start="20250714100000 +0000" stop="20250714101000 +0000">
 		<title>Odo - Cyfres 1: Mam!</title>
 		<desc>Mae Dwdl yn ceisio osgoi cwestiynau Odo am ei mam. Ond ar ol cael gwahoddiad adre, mae'...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c2dj8p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250714100500 +0000" stop="20250714102000 +0000">
+	<programme channel="s4c" start="20250714101000 +0000" stop="20250714102000 +0000">
 		<title>Pentre Papur Pop - Llwybr Beics-pop</title>
 		<desc>Ma Mabli ofn disgyn oddi ar ei beic newydd - a fydd hi'n gallu gorffen beicio gyda'i ff...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
@@ -8030,7 +7990,7 @@
 	</programme>
 	<programme channel="s4c" start="20250714113000 +0000" stop="20250714120000 +0000">
 		<title>Heno - Fri, 11 Jul 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol - heno, yn fyw o Eisteddfod Ryngwladol Llangollen. Night...</desc>
+		<desc>Ni'n fyw o Eisteddod Ryngwladol Llangollen, a hefyd o'r Swistir gyda chriw Heno cyn gêm...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250714120000 +0000" stop="20250714125500 +0000">
