@@ -70,14 +70,14 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250712111500 +0000" stop="20250712150000 +0000">
-		<title>Wimbledon - BBC One: Day 13, Afternoon</title>
-		<desc>Coverage of the 2025 Championships, including the build-up to the ladies' singles final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpj0d1.jpg" />
+		<title>Wimbledon - BBC One: Men's Doubles Final - Hijikata/Pel v Cash/Glasspool</title>
+		<desc>Hijikata and Pel take on British duo Cash and Glasspool in the Men's Doubles Final</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lps6wb.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250712150000 +0000" stop="20250712180000 +0000">
 		<title>Wimbledon - Ladies' Final</title>
 		<desc>Live coverage of the ladies’ singles final at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpj0d1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lprjzn.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250712180000 +0000" stop="20250712181000 +0000">
 		<title>BBC Weekend News - Evening News: 12/07/2025</title>
@@ -203,12 +203,12 @@
 	<programme channel="bbcone" start="20250713120500 +0000" stop="20250713150000 +0000">
 		<title>Wimbledon - BBC One: Day 14, Afternoon</title>
 		<desc>The final day of the 2025 Championships, including the build-up to the men's final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpj0d1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lprjzn.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250713150000 +0000" stop="20250713200000 +0000">
 		<title>Wimbledon - Men's Final</title>
 		<desc>Live coverage from Wimbledon of the men’s singles and ladies’ doubles finals.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpj0d1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lprjzn.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250713200000 +0000" stop="20250713210000 +0000">
 		<title>The Repair Shop - Favourite Fixes: Episode 4</title>
@@ -705,20 +705,10 @@
 		<desc>The five remaining anglers travel to Costa Rica to explore the Pacific Ocean.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0369bp7.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250712100000 +0000" stop="20250712115000 +0000">
-		<title>Wimbledon - Ladies' Wheelchair Finals</title>
-		<desc>Coverage of the 2025 edition of Wimbledon, including the ladies’ wheelchair singles final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpj0d1.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20250712115000 +0000" stop="20250712123500 +0000">
-		<title>Best Bakes Ever - Series 1: Episode 9</title>
-		<desc>Jane Asher brings together a selection of recipes from the nation's favourite TV chefs.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p032ln9n.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20250712123500 +0000" stop="20250712132000 +0000">
-		<title>Natural World - 2010-2011: 8. Butterflies: A Very British Obsession</title>
-		<desc>Wildlife documentary featuring the fascinating lives of Britain's butterflies.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c8q61z.jpg" />
+	<programme channel="bbctwo" start="20250712100000 +0000" stop="20250712132000 +0000">
+		<title>Wimbledon - BBC Two: Men's Wheelchair Doubles Final - Hewett/Reid v de la Puente/Spaargaren</title>
+		<desc>GB's Hewett and Reid take on de la Puente and Spaargaren in the wheelchair doubles final.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lps6xm.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250712132000 +0000" stop="20250712152500 +0000">
 		<title>Battle of Britain</title>
@@ -798,7 +788,7 @@
 	<programme channel="bbctwo" start="20250713100000 +0000" stop="20250713115000 +0000">
 		<title>Wimbledon - Men's Wheelchair Finals</title>
 		<desc>Coverage of the final day, including the men’s wheelchair singles final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpj0d1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lprjzn.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250713115000 +0000" stop="20250713125000 +0000">
 		<title>A Cook Abroad - 6. Rachel Khoo's Malaysia</title>
@@ -5441,7 +5431,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250712173000 +0000" stop="20250712180000 +0000">
 		<title>Sportsday - 12/07/2025</title>
-		<desc>A round-up of the day's sporting action.</desc>
+		<desc>It’s women’s final day at Wimbledon – will Iga Świątek win it for the first time?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h7399c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250712180000 +0000" stop="20250712183000 +0000">
@@ -6422,7 +6412,7 @@
 	<programme channel="bbcparliament" start="20250712104000 +0000" stop="20250712113500 +0000">
 		<title>Welsh First Minister's Questions - 08/07/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lprpl1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250712113500 +0000" stop="20250712132500 +0000">
 		<title>House of Commons - Education Statement</title>
@@ -6477,7 +6467,7 @@
 	<programme channel="bbcparliament" start="20250712234500 +0000" stop="20250713004500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Economy Questions</title>
 		<desc>Questions to the economy, energy and planning secretary Rebecca Evans on Wednesday 9 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lprr45.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250713004500 +0000" stop="20250713015500 +0000">
 		<title>House of Commons - Home Office Questions</title>
@@ -6547,7 +6537,7 @@
 	<programme channel="bbcparliament" start="20250713161500 +0000" stop="20250713171500 +0000">
 		<title>Welsh First Minister's Questions - 08/07/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lprpl1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250713171500 +0000" stop="20250713191500 +0000">
 		<title>Select Committees - Housing, Communities and Local Government Committee with Angela Rayner</title>
@@ -6592,7 +6582,7 @@
 	<programme channel="bbcparliament" start="20250714035000 +0000" stop="20250714045000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Economy Questions</title>
 		<desc>Questions to the economy, energy and planning secretary Rebecca Evans on Wednesday 9 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lprr45.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250714045000 +0000" stop="20250714053000 +0000">
 		<title>Prime Minister's Questions - 09/07/2025</title>
@@ -6607,7 +6597,7 @@
 	<programme channel="bbcparliament" start="20250714083000 +0000" stop="20250714093000 +0000">
 		<title>Welsh First Minister's Questions - 08/07/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 8 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lprpl1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250714093000 +0000" stop="20250714101000 +0000">
 		<title>Prime Minister's Questions - 09/07/2025</title>
