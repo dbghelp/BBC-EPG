@@ -70,14 +70,24 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250712111500 +0000" stop="20250712150000 +0000">
-		<title>Wimbledon - BBC One: Men's Doubles Final - Hijikata/Pel v Cash/Glasspool</title>
-		<desc>Hijikata and Pel take on British duo Cash and Glasspool in the Men's Doubles Final</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lps6wb.jpg" />
+		<title>Wimbledon - BBC One: Hijikata/Pel v GB's Cash/Glasspool</title>
+		<desc>BBC One afternoon coverage of the Men's Doubles Final.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpsp7w.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250712150000 +0000" stop="20250712180000 +0000">
-		<title>Wimbledon - Ladies' Final</title>
-		<desc>Live coverage of the ladies’ singles final at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lprjzn.jpg" />
+	<programme channel="bbcone" start="20250712150000 +0000" stop="20250712170000 +0000">
+		<title>Wimbledon - Women's Final - Anisimova v Świątek</title>
+		<desc>Amanda Anisimova faces Iga Świątek in the women's singles final.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpsgnf.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20250712170000 +0000" stop="20250712173000 +0000">
+		<title>The Travelling Auctioneers - Series 1: Episode 7</title>
+		<desc>Will and Christina meet a couple selling heirlooms to fund a trip to see their grandchild.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0db1l25.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20250712173000 +0000" stop="20250712180000 +0000">
+		<title>Garden Rescue - Series 7 (Shortened Versions): 2. Corby</title>
+		<desc>Charlie takes on Lee to design a global garden with plenty of grow-your-own.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5qb68.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250712180000 +0000" stop="20250712181000 +0000">
 		<title>BBC Weekend News - Evening News: 12/07/2025</title>
@@ -705,10 +715,15 @@
 		<desc>The five remaining anglers travel to Costa Rica to explore the Pacific Ocean.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0369bp7.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250712100000 +0000" stop="20250712132000 +0000">
-		<title>Wimbledon - BBC Two: Men's Wheelchair Doubles Final - Hewett/Reid v de la Puente/Spaargaren</title>
-		<desc>GB's Hewett and Reid take on de la Puente and Spaargaren in the wheelchair doubles final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lps6xm.jpg" />
+	<programme channel="bbctwo" start="20250712100000 +0000" stop="20250712130500 +0000">
+		<title>Wimbledon - BBC Two: GB'S Hewett/Reid v De la Puente/Spaargaren</title>
+		<desc>Andy Stevenson presents coverage of the Gentlemen's Wheelchair Doubles Final</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpsdhd.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250712130500 +0000" stop="20250712132000 +0000">
+		<title>The Best Dishes Ever - Series 1: 7. Cheap and Cheerful</title>
+		<desc>The menu includes a Bake Off masterclass featuring Sussex suet pond pudding.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03hbzn2.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250712132000 +0000" stop="20250712152500 +0000">
 		<title>Battle of Britain</title>
@@ -6517,7 +6532,7 @@
 	<programme channel="bbcparliament" start="20250713130000 +0000" stop="20250713134000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Building Safety Bill Statement</title>
 		<desc>The statement on the Building Safety (Wales) Bill, from Tuesday 8 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpsq6p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250713134000 +0000" stop="20250713144000 +0000">
 		<title>House of Commons - Trial by Jury Urgent Question</title>
