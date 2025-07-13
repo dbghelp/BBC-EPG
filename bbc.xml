@@ -90,13 +90,13 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250713120500 +0000" stop="20250713150000 +0000">
-		<title>Wimbledon - Women's Doubles Final - Hsieh/Ostapenko v Kudermetova/Mertens</title>
-		<desc>Su-Wei Hsieh &amp; Jelena Ostapenko v Veronika Kudermetova &amp; Elise Mertens on Centre Court.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpx7wp.jpg" />
+		<title>Wimbledon - BBC One: Women’s Doubles Final</title>
+		<desc>BBC One coverage of the Women’s Doubles Final as Hsieh/Ostapenko face Kudermetova/Mertens</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpxtl0.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250713150000 +0000" stop="20250713200000 +0000">
 		<title>Wimbledon - Men's Final - Sinner v Alcaraz</title>
-		<desc>Jannik Sinner faces Carlos Alcaraz in the men's singles final.</desc>
+		<desc>Top seed Jannik Sinner faces reigning champion Carlos Alcaraz in the men's singles final.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpwrt0.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250713200000 +0000" stop="20250713210000 +0000">
@@ -5539,7 +5539,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250713153000 +0000" stop="20250713160000 +0000">
-		<title>Newscast - 13/07/2025</title>
+		<title>Newscast - Will The Plan To Keep Kids Safe Online Work?</title>
 		<desc>Lighthearted discussion of the day's news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
@@ -5589,7 +5589,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250713213000 +0000" stop="20250713220000 +0000">
-		<title>Newscast - 13/07/2025</title>
+		<title>Newscast - Will The Plan To Keep Kids Safe Online Work?</title>
 		<desc>Lighthearted discussion of the day's news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
@@ -7513,10 +7513,15 @@
 		<desc>Elin Fflur sy'n sgwrsio dan olau'r lloer ym Mwynder Maldwyn gyda'r hyfryd Mari Lovgreen...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k5v7sh.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250713130000 +0000" stop="20250713152000 +0000">
+	<programme channel="s4c" start="20250713130000 +0000" stop="20250713150000 +0000">
 		<title>Seiclo - Cyfres 2025: SEICLO: Tour de France 2025</title>
 		<desc>Cymal 9: Diwrnod arall i'r gwibwyr pur. Gwyliwch croeswyntoedd a drama hwyr ar wastaded...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmwbm7.jpg" />
+	</programme>
+	<programme channel="s4c" start="20250713150000 +0000" stop="20250713152000 +0000">
+		<title>24 Awr - Gwyneth Longworth</title>
+		<desc>Cwrddwn â Gwyneth Longworth sy'n gobeithio cael ei hyder yn ôl yn dilyn cyfres o ddigwy...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08d5s9v.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250713152000 +0000" stop="20250713155000 +0000">
 		<title>Bwrdd i Dri - Cyfres 3: Comedi</title>
@@ -7530,7 +7535,7 @@
 	</programme>
 	<programme channel="s4c" start="20250713162000 +0000" stop="20250713171500 +0000">
 		<title>Taith Y Llewod 2025 - Tîm Gwadd Aws a SN v Y Llewod</title>
-		<desc>Uchafbwyntiau gêm Tîm Gwadd Aws a SN v Y Llewod, a chwaraewyd yn gynharach yn yr Adelai...</desc>
+		<desc>Uchafbwyntiau gêm Tîm Gwadd Aws a SN v Y Llewod, a chwaraewyd yn yr Adelaide Oval. High...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ll8wfg.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250713171500 +0000" stop="20250713180000 +0000">
