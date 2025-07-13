@@ -94,10 +94,15 @@
 		<desc>BBC One coverage of the Women’s Doubles Final as Hsieh/Ostapenko face Kudermetova/Mertens</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpxtl0.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250713150000 +0000" stop="20250713200000 +0000">
-		<title>Wimbledon - Men's Final - Sinner v Alcaraz</title>
-		<desc>Top seed Jannik Sinner faces reigning champion Carlos Alcaraz in the men's singles final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpwrt0.jpg" />
+	<programme channel="bbcone" start="20250713150000 +0000" stop="20250713190000 +0000">
+		<title>Wimbledon - BBC One: Men's Singles Final - Sinner v Alcaraz</title>
+		<desc>BBC One coverage of the Men's Singles Final as Jannik Sinner faces Carlos Alcaraz.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpyl66.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20250713190000 +0000" stop="20250713200000 +0000">
+		<title>Planet Earth II - A World of Wonder</title>
+		<desc>A compilation from the wildlife documentary series presented by David Attenborough.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04lwkqk.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250713200000 +0000" stop="20250713210000 +0000">
 		<title>The Repair Shop - Favourite Fixes: Episode 4</title>
