@@ -5710,8 +5710,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250714233000 +0000" stop="20250715000000 +0000">
-		<title>Newscast - 14/07/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - What Went Wrong With the BBC Gaza Documentary?</title>
+		<desc>A BBC report has found that a documentary about Gaza breached editorial guidelines.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250715000000 +0000" stop="20250715003000 +0000">
@@ -6699,40 +6699,50 @@
 		<desc>Statement by business and trade minister Gareth Thomas on the future of the Post Office.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714173000 +0000" stop="20250714213000 +0000">
+	<programme channel="bbcparliament" start="20250714173000 +0000" stop="20250714201500 +0000">
 		<title>House of Commons - 14/07/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714213000 +0000" stop="20250714221500 +0000">
+	<programme channel="bbcparliament" start="20250714201500 +0000" stop="20250714210000 +0000">
 		<title>Lords Questions - 14/07/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714221500 +0000" stop="20250714222500 +0000">
+	<programme channel="bbcparliament" start="20250714210000 +0000" stop="20250714211000 +0000">
 		<title>House of Lords - Trial by Jury Statement</title>
 		<desc>Statement on limiting some trials by jury to reduce the backlog in the crown court.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250714222500 +0000" stop="20250715002500 +0000">
+	<programme channel="bbcparliament" start="20250714211000 +0000" stop="20250714230500 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 1</title>
 		<desc>The first day of debate on the report stage of the Employment Rights Bill, on 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250715002500 +0000" stop="20250715022500 +0000">
+	<programme channel="bbcparliament" start="20250714230500 +0000" stop="20250715010000 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 2</title>
 		<desc>The first day of debate on the report stage of the Employment Rights Bill, on 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250715022500 +0000" stop="20250715042500 +0000">
+	<programme channel="bbcparliament" start="20250715010000 +0000" stop="20250715022000 +0000">
 		<title>House of Lords - Employment Rights Bill, Part 3</title>
 		<desc>The first day of debate on the report stage of the Employment Rights Bill, on 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250715042500 +0000" stop="20250715050000 +0000">
+	<programme channel="bbcparliament" start="20250715022000 +0000" stop="20250715030000 +0000">
 		<title>House of Lords - Road and Rail Statement</title>
 		<desc>Statement by transport minister Lord Hendy of Richmond Hill on road and rail projects.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250715030000 +0000" stop="20250715043000 +0000">
+		<title>Select Committees - Lords Justice and Home Affairs with Yvette Cooper</title>
+		<desc>The Lords Justice and Home Affairs committee with the home secretary, Yvette Cooper.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250715043000 +0000" stop="20250715050000 +0000">
+		<title>House of Commons - Scotland Office Questions</title>
+		<desc>Coverage of questions to Ian Murray on Wednesday 9 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpf10f.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250715050000 +0000" stop="20250715061000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
