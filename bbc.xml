@@ -577,7 +577,7 @@
 	<programme channel="bbcone" start="20250720125000 +0000" stop="20250720130500 +0000">
 		<title>Points of View - 2025: 20/07/2025</title>
 		<desc>Viewers have their say on the BBC’s television shows. Email your thoughts to pov@bbc.co.uk</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c3j262.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqd66z.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250720130500 +0000" stop="20250720143000 +0000">
 		<title>Missing Link</title>
@@ -618,7 +618,7 @@
 	<programme channel="bbcone" start="20250720181500 +0000" stop="20250720191500 +0000">
 		<title>Countryfile - Adam's Farming Families - The Bakers</title>
 		<desc>Adam Henson meets a farming family juggling cattle, crops and rare-breed pigs in Somerset.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06fndq6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqd5z5.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250720191500 +0000" stop="20250720201500 +0000">
 		<title>Antiques Roadshow - Series 45: 17. Sefton Park Palm House, Liverpool 3</title>
@@ -5550,10 +5550,15 @@
 		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250716210000 +0000" stop="20250716220000 +0000">
+	<programme channel="bbcnews" start="20250716210000 +0000" stop="20250716213000 +0000">
 		<title>BBC World News America - 16/07/2025</title>
 		<desc>In-depth reports on the major international and US news of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250716213000 +0000" stop="20250716220000 +0000">
+		<title>Newsnight - 16/07/2025</title>
+		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250716220000 +0000" stop="20250716230000 +0000">
 		<title>BBC World News America - 16/07/2025</title>
@@ -7470,15 +7475,10 @@
 		<desc>Hwyl a sbri i blant ifanc gyda'r blociau rhif. Fun and games for young children with th...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250716100000 +0000" stop="20250716101000 +0000">
+	<programme channel="s4c" start="20250716100000 +0000" stop="20250716101500 +0000">
 		<title>Twt - Cyfres 1: Twt a'r Ras Fawr</title>
 		<desc>Mae HP a Twt yn cystadlu yn erbyn ei gilydd i weld pwy yw cwch cyflyma'r harbwr. HP and...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02kgn3r.jpg" />
-	</programme>
-	<programme channel="s4c" start="20250716101000 +0000" stop="20250716101500 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250716101500 +0000" stop="20250716103000 +0000">
 		<title>Cacamwnci - Cyfres 3: Pennod 6</title>
@@ -7572,7 +7572,7 @@
 	</programme>
 	<programme channel="s4c" start="20250716180000 +0000" stop="20250716183000 +0000">
 		<title>Heno - Wed, 16 Jul 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Awn i fwyty pop-yp Bryn Williams yn Fforest, clywn am Gwpan Rygbi'r Byd y Menywod ac Ow...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250716183000 +0000" stop="20250716190000 +0000">
