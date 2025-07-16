@@ -869,7 +869,7 @@
 	<programme channel="bbctwo" start="20250717200000 +0000" stop="20250717213000 +0000">
 		<title>Golf: The Open - 2025: Opening Round Highlights</title>
 		<desc>Highlights from the first round of the 153rd Open Championship from Royal Portrush.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lq8wpj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqgcw6.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250717213000 +0000" stop="20250717215800 +0000">
 		<title>Newsnight - 17/07/2025</title>
@@ -989,7 +989,7 @@
 	<programme channel="bbctwo" start="20250718200000 +0000" stop="20250718213000 +0000">
 		<title>Golf: The Open - 2025: Second Round Highlights</title>
 		<desc>Highlights from the second round of the 153rd Open Championship from Royal Portrush.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lq8wpj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqgcw6.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250718213000 +0000" stop="20250718215800 +0000">
 		<title>Newsnight - 18/07/2025</title>
@@ -1134,7 +1134,7 @@
 	<programme channel="bbctwo" start="20250719190000 +0000" stop="20250719210000 +0000">
 		<title>Golf: The Open - 2025: Third Round Highlights</title>
 		<desc>Highlights from the third round of the 153rd Open Championship from Royal Portrush.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lq8wpj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqgcw6.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250719210000 +0000" stop="20250719225000 +0000">
 		<title>The Commitments</title>
@@ -1219,7 +1219,7 @@
 	<programme channel="bbctwo" start="20250720190000 +0000" stop="20250720210000 +0000">
 		<title>Golf: The Open - 2025: Final Round Highlights</title>
 		<desc>Highlights from the final round of the 153rd Open Championship from Royal Portrush.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lq8wpj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqgcw6.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250720210000 +0000" stop="20250720235000 +0000">
 		<title>The Wolf of Wall Street</title>
@@ -6500,17 +6500,17 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 16 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqfbgp.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250716113500 +0000" stop="20250716122000 +0000">
+	<programme channel="bbcparliament" start="20250716113500 +0000" stop="20250716121500 +0000">
 		<title>House of Commons - Sudan Urgent Question</title>
 		<desc>The urgent question on the UK's response to the worsening situation in Sudan, on 16 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250716122000 +0000" stop="20250716132000 +0000">
+	<programme channel="bbcparliament" start="20250716121500 +0000" stop="20250716131000 +0000">
 		<title>House of Commons - Financial Services Reform Statement</title>
 		<desc>The statement on financial services reform, on Wednesday 16 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250716132000 +0000" stop="20250716183000 +0000">
+	<programme channel="bbcparliament" start="20250716131000 +0000" stop="20250716183000 +0000">
 		<title>House of Commons - 16/07/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 16 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6530,9 +6530,29 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 16 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250716222000 +0000" stop="20250717050000 +0000">
-		<title>House of Lords - 16/07/2025</title>
-		<desc>Business in the House of Lords on Wednesday 16 July.</desc>
+	<programme channel="bbcparliament" start="20250716222000 +0000" stop="20250716230000 +0000">
+		<title>House of Lords - Afghanistan Statement</title>
+		<desc>Statement on the Afghanistan data leak, resettlement scheme and court super-injunction.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250716230000 +0000" stop="20250717010000 +0000">
+		<title>House of Lords - Employment Rights Bill, Part 1</title>
+		<desc>The second day of debate on the report stage of the Employment Rights Bill, on 16 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250717010000 +0000" stop="20250717030000 +0000">
+		<title>House of Lords - Employment Rights Bill, Part 2</title>
+		<desc>The second day of debate on the report stage of the Employment Rights Bill, on 16 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250717030000 +0000" stop="20250717040000 +0000">
+		<title>House of Lords - Employment Rights Bill, Part 3</title>
+		<desc>The second day of debate on the report stage of the Employment Rights Bill, on 16 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250717040000 +0000" stop="20250717050000 +0000">
+		<title>House of Lords - Resident Doctors' Strike Statement</title>
+		<desc>The statement on the proposed industrial action by resident doctors, on Wednesday 16 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250717050000 +0000" stop="20250717053000 +0000">
@@ -7530,10 +7550,15 @@
 		<desc>Newyddion S4C a'r Tywydd. S4C News and Weather.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250716130000 +0000" stop="20250716152500 +0000">
+	<programme channel="s4c" start="20250716130000 +0000" stop="20250716152000 +0000">
 		<title>Seiclo - Cyfres 2025: SEICLO: Tour de France 2025</title>
 		<desc>Cymal 11: Cymal cylchdeithiol efo'r potensial am ddiweddglo annisgwyl yng nghalon Toulo...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmwbm7.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqh98x.jpg" />
+	</programme>
+	<programme channel="s4c" start="20250716152000 +0000" stop="20250716152500 +0000">
+		<title>Bwyd Epic Chris - Cyfres 1: Bwyd Chris Byr</title>
+		<desc>Risét o drydedd cyfres Bwyd Epic Chris - Pei Wystrys a Chig Eidion. A recipe from the t...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07t8m8b.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250716152500 +0000" stop="20250716153000 +0000">
 		<title>Timpo - Cyfres 1: Un Cam ar y Tro</title>
@@ -7613,7 +7638,7 @@
 	<programme channel="s4c" start="20250716210000 +0000" stop="20250716213000 +0000">
 		<title>Seiclo - Cyfres 2025: SEICLO: Tour de France 2025</title>
 		<desc>Cymal 11 - Uchafbwyntiau'r dydd o Toulouse. Stage 11 - The day's highlights from Toulouse.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmwbm7.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqh9j8.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250716213000 +0000" stop="20250716223000 +0000">
 		<title>Cefn Gwlad - Cyfres 2025: Rhys Griffith</title>
