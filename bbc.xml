@@ -6605,50 +6605,50 @@
 		<desc>The statement on the publication of Volume 1 of the Post Office Horizon IT inquiry report.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250717172500 +0000" stop="20250717192500 +0000">
+	<programme channel="bbcparliament" start="20250717172500 +0000" stop="20250717191500 +0000">
 		<title>House of Lords - Planning and Infrastructure Bill, Part 1</title>
 		<desc>The first day of debate on the committee stage of the Planning and Infrastructure Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250717192500 +0000" stop="20250717212500 +0000">
+	<programme channel="bbcparliament" start="20250717191500 +0000" stop="20250717211000 +0000">
 		<title>House of Lords - Planning and Infrastructure Bill, Part 2</title>
 		<desc>The first day of debate on the committee stage of the Planning and Infrastructure Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250717212500 +0000" stop="20250717232500 +0000">
+	<programme channel="bbcparliament" start="20250717211000 +0000" stop="20250717225500 +0000">
 		<title>House of Lords - Planning and Infrastructure Bill, Part 3</title>
 		<desc>The first day of debate on the committee stage of the Planning and Infrastructure Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250717232500 +0000" stop="20250718000500 +0000">
+	<programme channel="bbcparliament" start="20250717225500 +0000" stop="20250717233500 +0000">
 		<title>House of Lords - UK France Immigration Deal Statement</title>
 		<desc>Coverage of the statement on UK-France migration cooperation, on Thursday 17 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250718000500 +0000" stop="20250718011000 +0000">
+	<programme channel="bbcparliament" start="20250717233500 +0000" stop="20250718004500 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to Jonathan Reynolds on Thursday 17 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250718011000 +0000" stop="20250718024500 +0000">
+	<programme channel="bbcparliament" start="20250718004500 +0000" stop="20250718021500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 17 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250718024500 +0000" stop="20250718033000 +0000">
+	<programme channel="bbcparliament" start="20250718021500 +0000" stop="20250718030000 +0000">
 		<title>House of Commons - Ukraine Statement</title>
 		<desc>Statement by defence secretary John Healey on Ukraine, on Thursday 17 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250718033000 +0000" stop="20250718060000 +0000">
+	<programme channel="bbcparliament" start="20250718030000 +0000" stop="20250718043500 +0000">
+		<title>House of Commons - Global Plastics Treaty</title>
+		<desc>Debate in the House of Commons on the global plastics treaty, on Thursday 17 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250718043500 +0000" stop="20250718060000 +0000">
 		<title>House of Commons - Afghanistan Statement</title>
 		<desc>The statement by defence secretary John Healey on Afghanistan, on Tuesday 15 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqf9w1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250718034500 +0000" stop="20250718060000 +0000">
-		<title>House of Commons - 17/07/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 17 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250718060000 +0000" stop="20250718090000 +0000">
 		<title>Westminster Hall - 14/07/2025</title>
@@ -7675,20 +7675,15 @@
 		<desc>Newyddion S4C a'r Tywydd. S4C News and Weather.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250717130000 +0000" stop="20250717155500 +0000">
+	<programme channel="s4c" start="20250717130000 +0000" stop="20250717161000 +0000">
 		<title>Seiclo - Cyfres 2025: SEICLO: Tour de France 2025</title>
 		<desc>Cymal 12 - Diweddglo allweddol ar y ddringfa didostur i Hautacam! Tân gwyllt ymhlith y ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lmwbm7.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250717155500 +0000" stop="20250717160000 +0000">
-		<title>Og Y Draenog Hapus - Cyfres 1: Coed yn Cwympo</title>
-		<desc>Beth sy'n digwydd ym myd Og a'i ffrindiau heddiw? What's happening in the world of Og a...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4jlxw.jpg" />
-	</programme>
-	<programme channel="s4c" start="20250717160000 +0000" stop="20250717161500 +0000">
-		<title>Li Ban - Cyfres 1: Teyrnas Manawydan</title>
-		<desc>Beth sy'n digwydd ym myd Li Ban heddiw? What's happening in Li Ban's world today?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw5gf5.jpg" />
+	<programme channel="s4c" start="20250717161000 +0000" stop="20250717161500 +0000">
+		<title>Larfa - Cyfres 3: Tan</title>
+		<desc>Mwy o anturiaethau criw Larfa wrth iddynt fynd i hynt a helynt unwaith eto. More advent...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06gr1k4.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250717161500 +0000" stop="20250717163500 +0000">
 		<title>Dreigiau Berc - Dreigiau: Marchogion Berc: Dewch at eich Gilydd</title>
