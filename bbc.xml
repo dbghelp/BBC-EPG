@@ -126,43 +126,43 @@
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250717180000 +0000" stop="20250717211500 +0000">
+	<programme channel="bbcone" start="20250717180000 +0000" stop="20250717215500 +0000">
 		<title>Women's Euro 2025 - Quarter-Finals: Sweden v England</title>
 		<desc>England take on Sweden in the quarter-finals of the UEFA Women’s Euro 2025 tournament. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqb8nz.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250717211500 +0000" stop="20250717214500 +0000">
+	<programme channel="bbcone" start="20250717215500 +0000" stop="20250717222500 +0000">
 		<title>BBC News at Ten - 17/07/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250717214500 +0000" stop="20250717215500 +0000">
+	<programme channel="bbcone" start="20250717222500 +0000" stop="20250717223500 +0000">
 		<title>BBC London - Late News: 17/07/2025</title>
 		<desc>The latest news, sport and weather from London.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250717215500 +0000" stop="20250717233500 +0000">
+	<programme channel="bbcone" start="20250717223500 +0000" stop="20250718002000 +0000">
 		<title>King of Thieves</title>
 		<desc>Drama based on the infamous 2015 Hatton Garden safe deposit robbery.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b7jfvj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250717233500 +0000" stop="20250718000500 +0000">
+	<programme channel="bbcone" start="20250718002000 +0000" stop="20250718005000 +0000">
 		<title>Such Brave Girls - Series 2: 5. Such Forgiving Girls</title>
 		<desc>Feminism: has it gone too far?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljrm9f.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250718000500 +0000" stop="20250718003500 +0000">
+	<programme channel="bbcone" start="20250718005000 +0000" stop="20250718011500 +0000">
 		<title>Such Brave Girls - Series 2: 6. Such Desperate Girls</title>
 		<desc>Daddy’s back - but it might take more than that to fix the void.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljrm9t.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250718003500 +0000" stop="20250718004000 +0000">
+	<programme channel="bbcone" start="20250718011500 +0000" stop="20250718012000 +0000">
 		<title>Weather for the Week Ahead - 18/07/2025</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250718004000 +0000" stop="20250718050000 +0000">
+	<programme channel="bbcone" start="20250718012000 +0000" stop="20250718050000 +0000">
 		<title>Joins BBC News - 18/07/2025</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -768,8 +768,8 @@
 	</programme>
 	<programme channel="bbctwo" start="20250717213000 +0000" stop="20250717215800 +0000">
 		<title>Newsnight - 17/07/2025</title>
-		<desc>Insights and global interviews on news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<desc>Diane Abbott is suspended from the Labour Party for a second time.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqvfzh.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250717215800 +0000" stop="20250717220000 +0000">
 		<title>BBC Weather - 17/07/2025</title>
@@ -833,7 +833,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250718113000 +0000" stop="20250718120000 +0000">
 		<title>Political Thinking with Nick Robinson - Series 2: 11. The Friedrich Merz One</title>
-		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
+		<desc>The German chancellor speaks about Trump, war in Europe, and the relationship with the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09vm10f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250718120000 +0000" stop="20250718124500 +0000">
@@ -5590,15 +5590,10 @@
 		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250717200000 +0000" stop="20250717203000 +0000">
-		<title>The Context USA - 17/07/2025</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250717203000 +0000" stop="20250717210000 +0000">
-		<title>The Context USA - 17/07/2025</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
+	<programme channel="bbcnews" start="20250717200000 +0000" stop="20250717210000 +0000">
+		<title>BBC News - 17/07/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250717210000 +0000" stop="20250717213000 +0000">
 		<title>BBC World News America - 17/07/2025</title>
@@ -5607,8 +5602,8 @@
 	</programme>
 	<programme channel="bbcnews" start="20250717213000 +0000" stop="20250717220000 +0000">
 		<title>Newsnight - 17/07/2025</title>
-		<desc>Insights and global interviews on news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<desc>Diane Abbott is suspended from the Labour Party for a second time.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqvfzh.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250717220000 +0000" stop="20250717230000 +0000">
 		<title>BBC World News America - 17/07/2025</title>
@@ -5621,8 +5616,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250717233000 +0000" stop="20250718000000 +0000">
-		<title>Newscast - 17/07/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Votes for 16-Year-Olds &amp; Abbott Suspended</title>
+		<desc>Adam Fleming and Chris Mason discuss 16 and 17-year-olds being allowed to vote.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250718000000 +0000" stop="20250718003000 +0000">
@@ -6032,7 +6027,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250719223000 +0000" stop="20250719230000 +0000">
 		<title>Political Thinking with Nick Robinson - Series 2: 11. The Friedrich Merz One</title>
-		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
+		<desc>The German chancellor speaks about Trump, war in Europe, and the relationship with the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09vm10f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250719230000 +0000" stop="20250719233000 +0000">
@@ -6548,27 +6543,27 @@
 	<programme channel="bbcparliament" start="20250717083000 +0000" stop="20250717093000 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to Jonathan Reynolds on Thursday 17 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqvdm3.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250717093000 +0000" stop="20250717101500 +0000">
 		<title>House of Commons - Elections Urgent Question</title>
 		<desc>Urgent question on the government's Strategy for Elections, on Thursday 17 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqtxpz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250717101500 +0000" stop="20250717110000 +0000">
 		<title>House of Commons - NHS Pensions Urgent Question</title>
 		<desc>Urgent question on NHS pensions, on Thursday 17 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqvfkx.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250717110000 +0000" stop="20250717120000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 17 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqvggq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250717120000 +0000" stop="20250717130000 +0000">
 		<title>House of Commons - Ukraine Statement</title>
 		<desc>Statement by defence secretary John Healey on Ukraine, on Thursday 17 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqvgkm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250717130000 +0000" stop="20250717151500 +0000">
 		<title>House of Commons - 17/07/2025</title>
@@ -6588,27 +6583,27 @@
 	<programme channel="bbcparliament" start="20250717161000 +0000" stop="20250717161500 +0000">
 		<title>House of Lords - Introduction</title>
 		<desc>The introduction of the Lord Bishop of Chester, Mark Tanner, to the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqv6p5.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250717161500 +0000" stop="20250717163000 +0000">
 		<title>House of Lords - Syria Question</title>
 		<desc>Coverage of the private notice question on the situation in Syria, on Thursday 17 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqv6v8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250717163000 +0000" stop="20250717164500 +0000">
 		<title>House of Lords - Sudan Statement</title>
 		<desc>The statement in the House of Lords on the situation in Syria, on Thursday 17 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqv6zb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250717164500 +0000" stop="20250717172500 +0000">
 		<title>House of Lords - Post Office Horizon IT Scandal Statement</title>
 		<desc>The statement on the publication of Volume 1 of the Post Office Horizon IT inquiry report.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqv79b.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250717172500 +0000" stop="20250717191500 +0000">
 		<title>House of Lords - Planning and Infrastructure Bill, Part 1</title>
 		<desc>The first day of debate on the committee stage of the Planning and Infrastructure Bill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqv9kl.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250717191500 +0000" stop="20250717211000 +0000">
 		<title>House of Lords - Planning and Infrastructure Bill, Part 2</title>
@@ -6628,17 +6623,17 @@
 	<programme channel="bbcparliament" start="20250717233500 +0000" stop="20250718004500 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to Jonathan Reynolds on Thursday 17 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqvdm3.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250718004500 +0000" stop="20250718021500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Lucy Powell, the leader of the Commons, on Thursday 17 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqvggq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250718021500 +0000" stop="20250718030000 +0000">
 		<title>House of Commons - Ukraine Statement</title>
 		<desc>Statement by defence secretary John Healey on Ukraine, on Thursday 17 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqvgkm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250718030000 +0000" stop="20250718043500 +0000">
 		<title>House of Commons - Global Plastics Treaty</title>
@@ -6657,28 +6652,88 @@
 	</programme>
 	<programme channel="bbcparliament" start="20250718090000 +0000" stop="20250718140000 +0000">
 		<title>House of Lords - 18/07/2025</title>
-		<desc>Business in the House of Lords on Friday 18 July.</desc>
+		<desc>A debate in the House of Lords on the Strategic Defence Review, on Friday 18 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250718140000 +0000" stop="20250718170000 +0000">
-		<title>House of Lords - 18/07/2025</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20250718140000 +0000" stop="20250718144500 +0000">
+		<title>Lords Questions - 14/07/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Monday 14 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250718170000 +0000" stop="20250718210000 +0000">
-		<title>Select Committees - 18/07/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20250718144500 +0000" stop="20250718153000 +0000">
+		<title>Lords Questions - 15/07/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Tuesday 15 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250718153000 +0000" stop="20250718161500 +0000">
+		<title>Lords Questions - 16/07/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Wednesday 16 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250718161500 +0000" stop="20250718170000 +0000">
+		<title>Lords Questions - 17/07/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Thursday 17 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250718170000 +0000" stop="20250718190000 +0000">
+		<title>Select Committees - 10 Year Health Plan Committee</title>
+		<desc>The Health and Social Care committee session on the 10 Year Health Plan on Monday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250718210000 +0000" stop="20250718215000 +0000">
+	<programme channel="bbcparliament" start="20250718190000 +0000" stop="20250718211000 +0000">
+		<title>Select Committees - Impacts of Cosmetic Procedures Committee</title>
+		<desc>The Women and Equalities committee on breast implants and other cosmetic procedures.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250718211000 +0000" stop="20250718220500 +0000">
 		<title>Welsh First Minister's Questions - 15/07/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqtybd.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250718215000 +0000" stop="20250719050000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 18/07/2025</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20250718220500 +0000" stop="20250718224000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
+		<desc>Questions to the counsel general Julie James, on Tuesday 15 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250718224000 +0000" stop="20250718235000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Sustainable Farming Scheme Statement</title>
+		<desc>The statement on the sustainable farming scheme, on Tuesday 15 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250718235000 +0000" stop="20250719003000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Maternity Services Statement</title>
+		<desc>The statement in the Welsh Parliament on maternity services in Wales, on Tuesday 15 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250719003000 +0000" stop="20250719011000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Legislative Programme Debate</title>
+		<desc>A debate on the Welsh government's legislative programme, on Tuesday 15 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250719011000 +0000" stop="20250719020000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Housing and Local Government Questions</title>
+		<desc>Questions to housing and local government secretary Jayne Bryant on Wednesday 16 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250719020000 +0000" stop="20250719025500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Education Questions</title>
+		<desc>Questions to education secretary Lynne Neagle, on Wednesday 16 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250719025500 +0000" stop="20250719032000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Topical Questions</title>
+		<desc>Topical questions to Welsh government ministers on Wednesday 16 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250719032000 +0000" stop="20250719041500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Spending Priorities</title>
+		<desc>A debate on a Finance Committee report on spending priorities for the 2026-27 budget.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250719041500 +0000" stop="20250719050000 +0000">
+		<title>House of Commons - Ukraine Statement</title>
+		<desc>Statement by defence secretary John Healey on Ukraine, on Thursday 17 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqvgkm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250719050000 +0000" stop="20250719100000 +0000">
 		<title>Westminster Hall - 15/07/2025</title>
@@ -6693,7 +6748,7 @@
 	<programme channel="bbcparliament" start="20250719103500 +0000" stop="20250719112500 +0000">
 		<title>Welsh First Minister's Questions - 15/07/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqtybd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250719112500 +0000" stop="20250719121000 +0000">
 		<title>House of Commons - 19/07/2025</title>
@@ -6743,7 +6798,7 @@
 	<programme channel="bbcparliament" start="20250719234000 +0000" stop="20250720003000 +0000">
 		<title>Welsh First Minister's Questions - 15/07/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqtybd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250720003000 +0000" stop="20250720013000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
@@ -6818,7 +6873,7 @@
 	<programme channel="bbcparliament" start="20250720161000 +0000" stop="20250720170000 +0000">
 		<title>Welsh First Minister's Questions - 15/07/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqtybd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250720170000 +0000" stop="20250720230500 +0000">
 		<title>Select Committees - 20/07/2025</title>
@@ -6853,7 +6908,7 @@
 	<programme channel="bbcparliament" start="20250721033500 +0000" stop="20250721042500 +0000">
 		<title>Welsh First Minister's Questions - 15/07/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqtybd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250721042500 +0000" stop="20250721050000 +0000">
 		<title>Prime Minister's Questions - 16/07/2025</title>
@@ -6868,7 +6923,7 @@
 	<programme channel="bbcparliament" start="20250721080000 +0000" stop="20250721085000 +0000">
 		<title>Welsh First Minister's Questions - 15/07/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 15 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqtybd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250721085000 +0000" stop="20250721092500 +0000">
 		<title>Prime Minister's Questions - 16/07/2025</title>
