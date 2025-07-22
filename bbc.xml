@@ -5603,9 +5603,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250722190000 +0000" stop="20250722193000 +0000">
-		<title>The Context - 22/07/2025</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
+		<title>BBC News - 22/07/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250722193000 +0000" stop="20250722200000 +0000">
 		<title>The Context - 22/07/2025</title>
@@ -5643,8 +5643,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250722233000 +0000" stop="20250723000000 +0000">
-		<title>Newscast - 22/07/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Can the Conservatives and Reform win over voters?</title>
+		<desc>Adam and Chris discuss the shadow cabinet reshuffle, and Reform's newest Welsh members.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250723000000 +0000" stop="20250723003000 +0000">
@@ -6580,12 +6580,12 @@
 	<programme channel="bbcparliament" start="20250722091500 +0000" stop="20250722103000 +0000">
 		<title>Select Committees - Treasury Committee on the Bank of England</title>
 		<desc>The Treasury committee session on the recent Bank of England financial stability reports.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrnmjz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250722103000 +0000" stop="20250722115000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 22 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrnnzm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250722115000 +0000" stop="20250722122000 +0000">
 		<title>House of Commons - Oil Refinery Urgent Question</title>
@@ -6595,12 +6595,12 @@
 	<programme channel="bbcparliament" start="20250722122000 +0000" stop="20250722125000 +0000">
 		<title>House of Commons - Bin Strikes Urgent Question</title>
 		<desc>Urgent question on the government's response to the Birmingham bin strikes, on 22 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrnqtd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250722125000 +0000" stop="20250722133000 +0000">
 		<title>House of Commons - Orgreave Inquiry Statement</title>
 		<desc>The ministerial statement on the Orgreave Inquiry with home office minister Diana Johnson.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrnyhy.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250722133000 +0000" stop="20250722141000 +0000">
 		<title>House of Commons - Music Streaming Statement</title>
@@ -6612,45 +6612,65 @@
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 22 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250722183000 +0000" stop="20250722210000 +0000">
+	<programme channel="bbcparliament" start="20250722183000 +0000" stop="20250722201500 +0000">
 		<title>House of Lords - 22/07/2025</title>
 		<desc>Coverage of proceedings in the House of Lords on Tuesday 22 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250722210000 +0000" stop="20250722214500 +0000">
+	<programme channel="bbcparliament" start="20250722201500 +0000" stop="20250722214500 +0000">
+		<title>Select Committees - Lords Economic Affairs Committee with Rachel Reeves</title>
+		<desc>Lords Economic Affairs committee session with chancellor of the exchequer Rachel Reeves.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250722214500 +0000" stop="20250722223000 +0000">
 		<title>Lords Questions - 22/07/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 22 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250722214500 +0000" stop="20250722234500 +0000">
+	<programme channel="bbcparliament" start="20250722223000 +0000" stop="20250723002500 +0000">
 		<title>House of Lords - Foreign State Investment in Newspapers, Part 1</title>
 		<desc>The debate on foreign state investment in newspapers and online news sources, on 22 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250722234500 +0000" stop="20250723004500 +0000">
+	<programme channel="bbcparliament" start="20250723002500 +0000" stop="20250723010500 +0000">
 		<title>House of Lords - Foreign State Investment in Newspapers, Part 2</title>
 		<desc>The debate on foreign state investment in newspapers and online news sources, on 22 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250723004500 +0000" stop="20250723024500 +0000">
+	<programme channel="bbcparliament" start="20250723010500 +0000" stop="20250723025000 +0000">
 		<title>House of Lords - Universal Credit Bill, Part 1</title>
 		<desc>The debate on all stages of the Universal Credit Bill, on Tuesday 22 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250723024500 +0000" stop="20250723050000 +0000">
+	<programme channel="bbcparliament" start="20250723025000 +0000" stop="20250723040000 +0000">
 		<title>House of Lords - Universal Credit Bill, Part 2</title>
 		<desc>The debate on all stages of the Universal Credit Bill, on Tuesday 22 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20250723040000 +0000" stop="20250723040500 +0000">
+		<title>House of Lords - Introductions</title>
+		<desc>The introduction of former cabinet secretary Simon Case to the House of Lords, on 22 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250723040500 +0000" stop="20250723044500 +0000">
+		<title>House of Commons - Infected Blood Inquiry Statement</title>
+		<desc>A statement on the government response to the Infected Blood Inquiry Additional Report.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrgyvg.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250723044500 +0000" stop="20250723050000 +0000">
+		<title>Ten Minute Rule Bill - Crown Immunity (Prisons) Bill</title>
+		<desc>Introduction of the Crown Immunity (Prisons) Bill by Blair Macdougall, on 22 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20250723050000 +0000" stop="20250723061500 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 22 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrnnzm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250723061500 +0000" stop="20250723065500 +0000">
 		<title>House of Commons - Orgreave Inquiry Statement</title>
 		<desc>The ministerial statement on the Orgreave Inquiry with home office minister Diana Johnson.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrnyhy.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250723065500 +0000" stop="20250723073500 +0000">
 		<title>House of Commons - Music Streaming Statement</title>
@@ -6735,7 +6755,7 @@
 	<programme channel="bbcparliament" start="20250725050000 +0000" stop="20250725060000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 22 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrnnzm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250725060000 +0000" stop="20250725110000 +0000">
 		<title>Westminster Hall - 22/07/2025</title>
