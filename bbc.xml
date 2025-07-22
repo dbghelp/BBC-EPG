@@ -1853,32 +1853,32 @@
 		<desc>An updated version of August Strindberg’s play examining class and social differences.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqfybv.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250723223500 +0000" stop="20250723235500 +0000">
+	<programme channel="bbcfour" start="20250723223500 +0000" stop="20250724000000 +0000">
 		<title>Play for Today - Series 12: 1. Country</title>
 		<desc>Set in 1945, a family gathering, a christening, a dance and a peace to be won.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08tqgjx.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250723235500 +0000" stop="20250724002500 +0000">
+	<programme channel="bbcfour" start="20250724000000 +0000" stop="20250724003000 +0000">
 		<title>A Summer Journey with Angela Rippon - The Kennet and Avon Canal: 1. The River Kennet</title>
 		<desc>Angela Rippon embarks on a journey to travel the length of the Kennet and Avon Canal.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqrr9t.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250724002500 +0000" stop="20250724005500 +0000">
+	<programme channel="bbcfour" start="20250724003000 +0000" stop="20250724010000 +0000">
 		<title>The Flying Archaeologist - 3. Hadrian's Wall: Life on the Frontier</title>
 		<desc>Ben Robinson flies over Hadrian's Wall to reveal a new view of its history.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c7b4zq.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250724005500 +0000" stop="20250724015500 +0000">
+	<programme channel="bbcfour" start="20250724010000 +0000" stop="20250724020000 +0000">
 		<title>Churchill: When Britain Said No</title>
 		<desc>Documentary covering Winston Churchill's failure to be re-elected following World War II.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02rng9c.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250724015500 +0000" stop="20250724025500 +0000">
+	<programme channel="bbcfour" start="20250724020000 +0000" stop="20250724030000 +0000">
 		<title>The Improbable Mr Attlee</title>
 		<desc>Prof David Reynolds examines the achievements of Clement Attlee.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqyb5q.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250724025500 +0000" stop="20250724043000 +0000">
+	<programme channel="bbcfour" start="20250724030000 +0000" stop="20250724043000 +0000">
 		<title>This is BBC Four - This is BBC Four</title>
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
@@ -5409,7 +5409,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20250725220000 +0000" stop="20250725230000 +0000">
 		<title>TRNSMT - 2025 - Highlights Compilations: Episode 2</title>
-		<desc>Shereen Cutkelvin presents highlights from TRNSMT 2025.</desc>
+		<desc>Highlights from TRNSMT 2025, including Biffy Clyro, Snow Patrol and Wet Leg.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpsh22.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250725230000 +0000" stop="20250726050000 +0000">
@@ -6468,9 +6468,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250726193000 +0000" stop="20250726200000 +0000">
-		<title>Newscast - 26/07/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
+		<title>Ukrainecast - 26/07/2025</title>
+		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250726200000 +0000" stop="20250726210000 +0000">
 		<title>BBC News - 26/07/2025</title>
@@ -6582,12 +6582,32 @@
 		<desc>The Treasury committee session on the recent Bank of England financial stability reports.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250722103000 +0000" stop="20250722113000 +0000">
+	<programme channel="bbcparliament" start="20250722103000 +0000" stop="20250722115000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 22 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250722113000 +0000" stop="20250722183000 +0000">
+	<programme channel="bbcparliament" start="20250722115000 +0000" stop="20250722123000 +0000">
+		<title>House of Commons - Oil Refinery Urgent Question</title>
+		<desc>The urgent question on the closure of the Prax Lindsey Oil Refinery, on Tuesday 22 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250722123000 +0000" stop="20250722131500 +0000">
+		<title>House of Commons - Bin Strikes Urgent Question</title>
+		<desc>Urgent question on the government's response to the Birmingham bin strikes, on 22 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250722131500 +0000" stop="20250722141500 +0000">
+		<title>House of Commons - Orgreave Inquiry Statement</title>
+		<desc>The ministerial statement on the Orgreave Inquiry with home office minister Diana Johnson.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250722141500 +0000" stop="20250722150000 +0000">
+		<title>House of Commons - Music Streaming Statement</title>
+		<desc>The ministerial statement on music streaming and label-led principles, on Tuesday 22 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250722150000 +0000" stop="20250722183000 +0000">
 		<title>House of Commons - 22/07/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 22 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7419,27 +7439,27 @@
 		<desc>Hwyl a sbri i blant ifanc gyda'r blociau rhif. Fun and games for young children with th...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250723050500 +0000" stop="20250723051500 +0000">
+	<programme channel="s4c" start="20250723050500 +0000" stop="20250723052000 +0000">
 		<title>Tomos a'i Ffrindiau - Cyfres 4: Danfon Dawel</title>
 		<desc>Mae Tomos yn gwirfoddoli i gludo Annie a Clarabel cysglyd ar draws Ynys Sodor heb eu de...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fmrfg2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250723051500 +0000" stop="20250723053000 +0000">
+	<programme channel="s4c" start="20250723052000 +0000" stop="20250723053000 +0000">
 		<title>Twt - Cyfres 1: Yr Ymwelydd Annisgwyl</title>
 		<desc>Mae 'na ymwelydd newydd i'r harbwr, dolffin cyfeillgar, ac mae pawb wrth eu bodd yn chw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02lp9hh.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250723053000 +0000" stop="20250723054000 +0000">
+	<programme channel="s4c" start="20250723053000 +0000" stop="20250723054500 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 1: Diwrnod Gwlyb Heulog</title>
 		<desc>Mae'n ddiwrnod tywyll a gwlyb yn y byd go iawn, ac mae Blero'n gweld rhywbeth syfrdanol...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2nn2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250723054000 +0000" stop="20250723055500 +0000">
+	<programme channel="s4c" start="20250723054500 +0000" stop="20250723060000 +0000">
 		<title>Sbarc - Cyfres 1: Llaeth</title>
 		<desc>Cyfres wyddoniaeth i blant bach gyda Tudur Phillips a'i ddau ffrind, Sbarc y gwyddonydd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05xwx4w.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250723055500 +0000" stop="20250723060500 +0000">
+	<programme channel="s4c" start="20250723060000 +0000" stop="20250723060500 +0000">
 		<title>Odo - Cyfres 1: Chwarae Pig</title>
 		<desc>Dyw Odo a'r adar bach eraill heb gael eu dewis ar gyfer y tim peldroed. Penderfyna Odo ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c2dj8p.jpg" />
@@ -7464,12 +7484,12 @@
 		<desc>'Beth yw Enfys?' yw cwestiwn Ceris heddiw a'r tro ma mae tad-cu ag ateb dwl am Wini'r W...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09t9404.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250723070000 +0000" stop="20250723070500 +0000">
+	<programme channel="s4c" start="20250723070000 +0000" stop="20250723071000 +0000">
 		<title>Timpo - Cyfres 1: Panorama Poblog</title>
 		<desc>Mae yna Po sydd am fwynhau picnic ar Fryn Tre Po, ond mae'r fainc wastad yn llawn. A Po...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07yrjl2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250723070500 +0000" stop="20250723071500 +0000">
+	<programme channel="s4c" start="20250723071000 +0000" stop="20250723071500 +0000">
 		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 24</title>
 		<desc>Y tro hwn: teuluoedd sy'n byw yn y goedwig sy'n cael y sylw a down i nabod teulu'r lemw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
@@ -7479,12 +7499,12 @@
 		<desc>Mae'r Abadas wrth eu bodd yn chwarae 'jwngl' yn yr ardd. Tybed pwy gaiff ei ddewis i ch...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02c72z7.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250723073000 +0000" stop="20250723074500 +0000">
+	<programme channel="s4c" start="20250723073000 +0000" stop="20250723074000 +0000">
 		<title>Pablo - Cyfres 2: Ofn Llwyfan</title>
 		<desc>Dyw Pablo ddim yn hoffi pobl yn ei wylio tra mae'n arlunio. Pablo doesn't like people w...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bmwxql.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250723074500 +0000" stop="20250723080000 +0000">
+	<programme channel="s4c" start="20250723074000 +0000" stop="20250723080000 +0000">
 		<title>Help Llaw - Cyfres 1: Cadi - Y Clwb Gymnasteg</title>
 		<desc>Mae'r arwydd yn y clwb gymnasteg wedi torri, ac mae angen i Harri fynd draw i helpu Cad...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdcx91.jpg" />
