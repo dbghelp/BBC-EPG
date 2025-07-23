@@ -131,38 +131,38 @@
 		<desc>Charlie takes on Chris to transform a concrete car crash into a relaxing retreat.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c8tqq0.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250723183000 +0000" stop="20250723211000 +0000">
+	<programme channel="bbcone" start="20250723183000 +0000" stop="20250723213500 +0000">
 		<title>Women's Euro 2025 - Semi-Finals: Germany v Spain</title>
 		<desc>Live coverage of the semi-final between Germany and Spain at the 2025 Women's Euro.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrcgbx.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250723211000 +0000" stop="20250723214000 +0000">
+	<programme channel="bbcone" start="20250723213500 +0000" stop="20250723220500 +0000">
 		<title>BBC News at Ten - 23/07/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250723214000 +0000" stop="20250723215000 +0000">
+	<programme channel="bbcone" start="20250723220500 +0000" stop="20250723221500 +0000">
 		<title>BBC London - Late News: 23/07/2025</title>
 		<desc>The latest news, sport and weather from London.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250723215000 +0000" stop="20250723223000 +0000">
+	<programme channel="bbcone" start="20250723221500 +0000" stop="20250723225500 +0000">
 		<title>High Country - Series 1: Episode 3</title>
 		<desc>Forensics identify the type of knife that killed the female hiker.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j98tvx.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250723223000 +0000" stop="20250723231500 +0000">
+	<programme channel="bbcone" start="20250723225500 +0000" stop="20250723234000 +0000">
 		<title>High Country - Series 1: Episode 4</title>
 		<desc>Sam’s crusade against Damien continues, and Helen confides a past tragedy to Rose.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j98v36.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250723231500 +0000" stop="20250723232000 +0000">
+	<programme channel="bbcone" start="20250723234000 +0000" stop="20250723234500 +0000">
 		<title>Weather for the Week Ahead - 24/07/2025</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250723232000 +0000" stop="20250724050000 +0000">
+	<programme channel="bbcone" start="20250723234500 +0000" stop="20250724050000 +0000">
 		<title>Joins BBC News - 24/07/2025</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -748,8 +748,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0vqbh.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250723213000 +0000" stop="20250723215800 +0000">
-		<title>Newsnight - 23/07/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Migrant Hotels: More Disorder to Come?</title>
+		<desc>Another night of protests at a London hotel set to house asylum seekers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250723215800 +0000" stop="20250723220000 +0000">
@@ -5563,8 +5563,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250723213000 +0000" stop="20250723220000 +0000">
-		<title>Newsnight - 23/07/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Migrant Hotels: More Disorder to Come?</title>
+		<desc>Another night of protests at a London hotel set to house asylum seekers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250723220000 +0000" stop="20250723230000 +0000">
@@ -5578,8 +5578,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250723233000 +0000" stop="20250724000000 +0000">
-		<title>Newscast - 23/07/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Are Protests Putting President Zelensky Under Pressure?</title>
+		<desc>Adam and Vitaly discuss protests in Ukraine after the president signed a new law.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250724000000 +0000" stop="20250724003000 +0000">
@@ -6490,7 +6490,7 @@
 	<programme channel="bbcparliament" start="20250723065500 +0000" stop="20250723073500 +0000">
 		<title>House of Commons - Music Streaming Statement</title>
 		<desc>The ministerial statement on music streaming and label-led principles, on Tuesday 22 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrx83d.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250723073500 +0000" stop="20250723090500 +0000">
 		<title>Select Committees - Lords Economic Affairs Committee with Rachel Reeves</title>
