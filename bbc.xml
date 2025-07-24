@@ -493,8 +493,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250727150000 +0000" stop="20250727183000 +0000">
-		<title>Women's Euro 2025 - Final</title>
-		<desc>Live coverage of the final of the 2025 Women's Euro football tournament in Switzerland.</desc>
+		<title>Women's Euro 2025 - England v Spain – The Final</title>
+		<desc>Coverage of England v Spain in the final of the 2025 Women's Euro football tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lm8d3l.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250727183000 +0000" stop="20250727191500 +0000">
@@ -1303,7 +1303,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250724185800 +0000" stop="20250724190000 +0000">
 		<title>The Catch Up - 24/07/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Lucy Elsie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250724190000 +0000" stop="20250724200000 +0000">
@@ -1872,41 +1872,46 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpm4tm.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250725213500 +0000" stop="20250725220500 +0000">
+		<title>Top of the Pops - 22/06/1978</title>
+		<desc>With Black Sabbath, Heatwave, Showaddywaddy, Brotherhood of Man, San Jose and Thin Lizzy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j411d4.jpg" />
+	</programme>
+	<programme channel="bbcfour" start="20250725220500 +0000" stop="20250725223500 +0000">
 		<title>In Concert - Cat Stevens</title>
 		<desc>Singer-songwriter Cat Stevens, now known as Yusuf Islam, in concert from 1971.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01ggpqx.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250725220500 +0000" stop="20250725225000 +0000">
+	<programme channel="bbcfour" start="20250725223500 +0000" stop="20250725232000 +0000">
 		<title>The Late Show - Rosanne Cash, Nanci Griffith, Mary Chapin Carpenter</title>
 		<desc>An acoustic performance by Nanci Griffith, Rosanne Cash and Mary-Chapin Carpenter.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpm3tx.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250725225000 +0000" stop="20250725235500 +0000">
+	<programme channel="bbcfour" start="20250725232000 +0000" stop="20250726002500 +0000">
 		<title>In Concert - Gordon Lightfoot</title>
 		<desc>Classic concert by Gordon Lightfoot from 1972, accompanied by Red Shea and Richard Haynes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gcgn4h.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250725235500 +0000" stop="20250726004500 +0000">
+	<programme channel="bbcfour" start="20250726002500 +0000" stop="20250726011500 +0000">
 		<title>The Old Grey Whistle Test - Jackson Browne: 1976</title>
 		<desc>Jackson Browne in a live concert from the BBC Television Theatre, London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqzckg.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250726004500 +0000" stop="20250726011500 +0000">
+	<programme channel="bbcfour" start="20250726011500 +0000" stop="20250726014500 +0000">
 		<title>Top of the Pops - 20/02/1998</title>
 		<desc>With Shola Ama, Stereophonics, All Saints, Lilys, Air, Lutricia McNeal and Celine Dion.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpmbq0.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250726011500 +0000" stop="20250726014500 +0000">
+	<programme channel="bbcfour" start="20250726014500 +0000" stop="20250726021500 +0000">
 		<title>Top of the Pops - 27/02/1998</title>
 		<desc>With Cleopatra, Ocean Colour Scene, N-Tyce, Shania Twain, Will Mellor and Cornershop.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpm877.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250726014500 +0000" stop="20250726022000 +0000">
+	<programme channel="bbcfour" start="20250726021500 +0000" stop="20250726025000 +0000">
 		<title>Top of the Pops - 23/07/1981</title>
 		<desc>With The Vapors, Tight Fit, Gidea Park, Sheena Easton, Visage and The Specials.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpm4tm.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20250726022000 +0000" stop="20250726043000 +0000">
+	<programme channel="bbcfour" start="20250726025000 +0000" stop="20250726043000 +0000">
 		<title>This is BBC Four - This is BBC Four</title>
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
@@ -4401,9 +4406,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tm015.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250726175000 +0000" stop="20250726175800 +0000">
-		<title>CBeebies Bedtime Stories - P-T: Shauna Shim - The Girls</title>
-		<desc>Shauna Shim reads a Bedtime Story about four forever friends. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06tv3jl.jpg" />
+		<title>CBeebies Bedtime Stories - U-Z: Leah Williamson - Girls Can Do Anything</title>
+		<desc>Leah Williamson shouts loud and proud about girls being able to do anything!</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g1scl4.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250726175800 +0000" stop="20250727043000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -6581,12 +6586,22 @@
 		<desc>Energy Security and Net Zero committee on the work of the department, on Monday 21 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrgzfj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250724100000 +0000" stop="20250724104500 +0000">
+	<programme channel="bbcparliament" start="20250724100000 +0000" stop="20250724105500 +0000">
 		<title>Lords Questions - 24/07/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 24 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250724104500 +0000" stop="20250724160000 +0000">
+	<programme channel="bbcparliament" start="20250724105500 +0000" stop="20250724111500 +0000">
+		<title>House of Lords - Business of the House</title>
+		<desc>Proceedings on the retirement of the clerk of the Parliaments and on forthcoming business.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250724111500 +0000" stop="20250724115000 +0000">
+		<title>House of Lords - Infected Blood Inquiry Statement</title>
+		<desc>A statement on the government response to the Infected Blood Inquiry Additional Report.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250724115000 +0000" stop="20250724160000 +0000">
 		<title>House of Lords - 24/07/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Lords on Thursday 24 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
@@ -6596,12 +6611,17 @@
 		<desc>Recorded coverage of select committee proceedings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250724220000 +0000" stop="20250724224500 +0000">
+	<programme channel="bbcparliament" start="20250724220000 +0000" stop="20250724225000 +0000">
 		<title>Lords Questions - 24/07/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 24 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250724224500 +0000" stop="20250725040000 +0000">
+	<programme channel="bbcparliament" start="20250724225000 +0000" stop="20250724233000 +0000">
+		<title>House of Lords - Infected Blood Inquiry Statement</title>
+		<desc>A statement on the government response to the Infected Blood Inquiry Additional Report.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250724233000 +0000" stop="20250725040000 +0000">
 		<title>House of Lords - 24/07/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Lords on Thursday 24 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
@@ -6702,7 +6722,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250724160000 +0000" stop="20250724161000 +0000">
-		<title>Dotaman - Series 1: 13. Laithean Saora</title>
+		<title>Dòtaman - Series 1: 13. Laithean Saora</title>
 		<desc>Archive Dotaman from 1989 on the topic of holidays!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03c8qkp.jpg" />
 	</programme>
@@ -6737,7 +6757,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kkbjz4.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250724172500 +0000" stop="20250724173000 +0000">
-		<title>Dubhlain CBBC Alba - Series 1: Episode 2</title>
+		<title>Dùbhlain CBBC Alba - Series 1: Episode 2</title>
 		<desc>Calum takes a look at some of the bonkers challenges attempted by the CBBC Alba team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08hz22b.jpg" />
 	</programme>
@@ -6812,7 +6832,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250725160000 +0000" stop="20250725162000 +0000">
-		<title>Dotaman - Series 1: 30. Cuideachadh</title>
+		<title>Dòtaman - Series 1: 30. Cuideachadh</title>
 		<desc>Dotaman from 1992, with Donnie, Cathy and John on the topic of helping out.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03cgp2r.jpg" />
 	</programme>
@@ -6857,7 +6877,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jbk126.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250725193000 +0000" stop="20250725200000 +0000">
-		<title>Greim-Bidh le Gregor - Series 1: Episode 1</title>
+		<title>Greim-Bìdh le Gregor - Series 1: Episode 1</title>
 		<desc>Gregor MacLeod uses fresh langoustines from a local fisherman to make paella.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpc3b7.jpg" />
 	</programme>
@@ -7180,7 +7200,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8dxvk.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250728193000 +0000" stop="20250728200000 +0000">
-		<title>Greim-Bidh le Gregor - Series 1: Episode 2</title>
+		<title>Greim-Bìdh le Gregor - Series 1: Episode 2</title>
 		<desc>Gregor is in Stornoway at the last place on the island to make kippers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqmtk7.jpg" />
 	</programme>
