@@ -207,15 +207,15 @@
 		<desc>An odd financial transaction leads police to uncover a prolific romance fraudster.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hnq7mt.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250729101500 +0000" stop="20250729111500 +0000">
-		<title>Homes Under the Hammer - Series 28: Bungalow Bonanza!</title>
-		<desc>Two bungalows in Derbyshire and Norfolk offer up lots of potential.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqybkv.jpg" />
+	<programme channel="bbcone" start="20250729101500 +0000" stop="20250729110000 +0000">
+		<title>Homes Under the Hammer - Series 26: Episode 36</title>
+		<desc>It's a first for Tommy who spots his first sparkly staircase in a semi in Maidstone.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dlch5k.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20250729111500 +0000" stop="20250729120000 +0000">
-		<title>Bargain Hunt - Series 60: Newark 13</title>
-		<desc>In Nottinghamshire, Natasha Raskin Sharp learns how Elizabeth I pioneered sustainability.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09xw82w.jpg" />
+	<programme channel="bbcone" start="20250729110000 +0000" stop="20250729120000 +0000">
+		<title>Women's Euro 2025 - Lionesses Champions' Celebration</title>
+		<desc>England’s European Champions celebrate their victory in front of the fans in London.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lm8d3l.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250729120000 +0000" stop="20250729123500 +0000">
 		<title>BBC News at One - 29/07/2025</title>
@@ -351,9 +351,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hnq7p9.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250730101500 +0000" stop="20250730111500 +0000">
-		<title>Homes Under the Hammer - Series 25: Episode 80</title>
-		<desc>Featuring properties in Strood, Leeds and Kilmarnock.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dlch2j.jpg" />
+		<title>Homes Under the Hammer - Series 28: Bungalow Bonanza!</title>
+		<desc>Two bungalows in Derbyshire and Norfolk offer up lots of potential.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqybkv.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250730111500 +0000" stop="20250730120000 +0000">
 		<title>Bargain Hunt - Series 59: Gloucester 17</title>
@@ -889,10 +889,15 @@
 		<desc>A unique piece of Scottish history is restored.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lbpgw6.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250729080000 +0000" stop="20250729120000 +0000">
+	<programme channel="bbctwo" start="20250729080000 +0000" stop="20250729110000 +0000">
 		<title>BBC News - 29/07/2025</title>
 		<desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250729110000 +0000" stop="20250729120000 +0000">
+		<title>Bargain Hunt - Series 62-64 (Extended Versions): Norwich 22 and 23</title>
+		<desc>Eric Knowles hosts today’s show from Norwich.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f7nf0h.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250729120000 +0000" stop="20250729124500 +0000">
 		<title>Impossible - Series 6: Episode 12</title>
@@ -1066,7 +1071,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250730200000 +0000" stop="20250730210000 +0000">
 		<title>The Moors Murders: A Search for Justice - Series 1: Episode 1</title>
-		<desc>A team looking at the Moors Murders unearth evidence which could finally close the case.</desc>
+		<desc>A team looking at the Moors Murders discover evidence which could finally close the case.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqycpc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250730210000 +0000" stop="20250730213000 +0000">
@@ -5333,8 +5338,8 @@
 	</programme>
 	<programme channel="bbcscotland" start="20250728220000 +0000" stop="20250728223000 +0000">
 		<title>Scotcast - 28/07/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<desc>Why John Swinney updated his strategy to secure an independence referendum.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lss7xr.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250728223000 +0000" stop="20250728230000 +0000">
 		<title>David Wilson's Crime Files - Series 3 - Cold Cases: 7. Missing Without a Trace</title>
@@ -5478,8 +5483,8 @@
 	</programme>
 	<programme channel="bbcscotland" start="20250731190000 +0000" stop="20250731193000 +0000">
 		<title>Beechgrove Garden - 2025: Episode 18</title>
-		<desc>Lizzie shows what can be sown to get home-grown produce at this time of year.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l23q41.jpg" />
+		<desc>Ruth shows what can be sown to get home-grown produce at this time of year.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lss7k2.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250731193000 +0000" stop="20250731200000 +0000">
 		<title>Loggerheads - Series 1: Episode 5</title>
@@ -5621,12 +5626,7 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250728133000 +0000" stop="20250728134500 +0000">
-		<title>Business Today - NYSE Opening Bell - 28/07/2025</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250728134500 +0000" stop="20250728140000 +0000">
+	<programme channel="bbcnews" start="20250728133000 +0000" stop="20250728140000 +0000">
 		<title>BBC News Now - 28/07/2025</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
@@ -6679,7 +6679,7 @@
 	<programme channel="bbcnews" start="20250802023000 +0000" stop="20250802030000 +0000">
 		<title>Rescue Roulette: Dogs from Abroad</title>
 		<desc>Some pet owners are running into trouble with adopted rescue dogs from abroad.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrt5dc.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lsrrsj.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250802030000 +0000" stop="20250802033000 +0000">
 		<title>BBC News - 02/08/2025</title>
@@ -7255,9 +7255,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b9qvml.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250801165500 +0000" stop="20250801170000 +0000">
-		<title>Stòiridh - Series 2: 50. Sòfa airson Làma</title>
-		<desc>Pàdruig Moireasdan a’ leughadh Sòfa airson Làma. Pàdruig Morrison reads Sòfa airson Làma.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08b9hdy.jpg" />
+		<title>Stòiridh - Series 4: 7. Rud Beag Misneachd</title>
+		<desc>Ruairidh Graham reads Rud Beag Misneachd.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bm09ry.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250801170000 +0000" stop="20250801171000 +0000">
 		<title>An Teaghlach Rìoghail an Ath-dhoras/The Royal Next Door - Series 1: 7. Seanmhair Rìoghail</title>
