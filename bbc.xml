@@ -5297,7 +5297,7 @@
 	<programme channel="bbcscotland" start="20250801183000 +0000" stop="20250801210000 +0000">
 		<title>Sportscene - Championship Live 2025/26: Arbroath v Ayr United</title>
 		<desc>Live coverage as Arbroath host Ayr in the Scottish Championship.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jgc7wm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lt2hh5.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250801210000 +0000" stop="20250801213000 +0000">
 		<title>Still Game - Series 2: 8. Buntin</title>
@@ -5439,10 +5439,25 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250730050000 +0000" stop="20250730080000 +0000">
-		<title>Breakfast - 30/07/2025</title>
-		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	<programme channel="bbcnews" start="20250730050000 +0000" stop="20250730060000 +0000">
+		<title>BBC News - 30/07/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250730060000 +0000" stop="20250730070000 +0000">
+		<title>BBC News - 30/07/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250730070000 +0000" stop="20250730073000 +0000">
+		<title>BBC News - 30/07/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250730073000 +0000" stop="20250730080000 +0000">
+		<title>BBC News - 30/07/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250730080000 +0000" stop="20250730083000 +0000">
 		<title>BBC News - 30/07/2025</title>
@@ -5464,15 +5479,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250730100000 +0000" stop="20250730103000 +0000">
+	<programme channel="bbcnews" start="20250730100000 +0000" stop="20250730104500 +0000">
 		<title>BBC News - 30/07/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250730103000 +0000" stop="20250730104500 +0000">
-		<title>Business Today - 30/07/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250730104500 +0000" stop="20250730110000 +0000">
 		<title>BBC News - 30/07/2025</title>
