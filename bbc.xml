@@ -272,7 +272,7 @@
 	<programme channel="bbcone" start="20250801190000 +0000" stop="20250801193000 +0000">
 		<title>For Rent: Rooms Under the Radar</title>
 		<desc>Investigating how tenants are at risk when landlords let shared properties illegally.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrrlbq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltcmps.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250801193000 +0000" stop="20250801200000 +0000">
 		<title>Ghosts - Series 3: 5. Something to Share?</title>
@@ -1153,7 +1153,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250803161500 +0000" stop="20250803171500 +0000">
 		<title>The Great British Sewing Bee - Series 11: Episode 3</title>
-		<desc>It's Design Icons Week.</desc>
+		<desc>It's Design Icons week.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqy5rc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250803171500 +0000" stop="20250803180000 +0000">
@@ -1278,7 +1278,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250804190000 +0000" stop="20250804193000 +0000">
 		<title>Only Connect - Series 21: 3. Metrophiles v Grapevines</title>
-		<desc>Metro systems fascinate one team, while wine does it for the others.</desc>
+		<desc>Metro systems fascinate one team, while wine does it for the other.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lswqwg.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250804193000 +0000" stop="20250804200000 +0000">
@@ -5228,9 +5228,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhlp8x.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250731220000 +0000" stop="20250731223000 +0000">
-		<title>Scotcast - 31/07/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Are Our Festivals for Everyone?</title>
+		<desc>Martin Geissler and Laura Miller ask who holds the power at the Edinburgh festivals.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltff96.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250731223000 +0000" stop="20250731230000 +0000">
 		<title>Scot Squad - Series 3: Episode 5</title>
@@ -5563,9 +5563,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250731143000 +0000" stop="20250731150000 +0000">
-		<title>Verified Live - 31/07/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
+		<title>BBC News - 31/07/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250731150000 +0000" stop="20250731153000 +0000">
 		<title>Verified Live - 31/07/2025</title>
@@ -5884,7 +5884,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250801233000 +0000" stop="20250802000000 +0000">
 		<title>Talking Business - 01/08/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Ben Thompson talks to the people adapting our cities to growing climate-related threats.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250802000000 +0000" stop="20250802003000 +0000">
@@ -5893,7 +5893,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250802003000 +0000" stop="20250802010000 +0000">
-		<title>Tech Now - 02/08/2025</title>
+		<title>Tech Now - AI and the Future of Humanity</title>
 		<desc>Joe Tidy explores how the rise of artificial intelligence may play out.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
@@ -5964,7 +5964,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250802103000 +0000" stop="20250802110000 +0000">
 		<title>Talking Business - 01/08/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Ben Thompson talks to the people adapting our cities to growing climate-related threats.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250802110000 +0000" stop="20250802113000 +0000">
@@ -6027,20 +6027,30 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250802173000 +0000" stop="20250802180000 +0000">
-		<title>Ukrainecast - 02/08/2025</title>
-		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
+	<programme channel="bbcnews" start="20250802173000 +0000" stop="20250802174500 +0000">
+		<title>BBC Sport - 02/08/2025</title>
+		<desc>A round-up of the day's sporting action.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250802174500 +0000" stop="20250802180000 +0000">
+		<title>BBC News - 02/08/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250802180000 +0000" stop="20250802183000 +0000">
 		<title>BBC News - 02/08/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250802183000 +0000" stop="20250802190000 +0000">
-		<title>Tech Now - 02/08/2025</title>
-		<desc>Joe Tidy explores how the rise of artificial intelligence may play out.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+	<programme channel="bbcnews" start="20250802183000 +0000" stop="20250802184500 +0000">
+		<title>BBC Sport - 02/08/2025</title>
+		<desc>A round-up of the day's sporting action.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250802184500 +0000" stop="20250802190000 +0000">
+		<title>BBC News - 02/08/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250802190000 +0000" stop="20250802193000 +0000">
 		<title>BBC News - 02/08/2025</title>
@@ -6069,7 +6079,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250802223000 +0000" stop="20250802230000 +0000">
 		<title>Talking Business - 01/08/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Ben Thompson talks to the people adapting our cities to growing climate-related threats.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250802230000 +0000" stop="20250802233000 +0000">
@@ -6128,7 +6138,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250803043000 +0000" stop="20250803050000 +0000">
-		<title>Tech Now - 02/08/2025</title>
+		<title>Tech Now - AI and the Future of Humanity</title>
 		<desc>Joe Tidy explores how the rise of artificial intelligence may play out.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
@@ -6519,7 +6529,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250805003000 +0000" stop="20250805010000 +0000">
 		<title>Talking Business - 01/08/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Ben Thompson talks to the people adapting our cities to growing climate-related threats.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250805010000 +0000" stop="20250805013000 +0000">
@@ -6752,7 +6762,7 @@
 		<title>Belladrum - 2025 : Episode 1</title>
 		<desc>Paul Heaton &amp; Rianne Downey, Natasha Bedingfield, The Pigeon Detectives &amp; Kassidy perform
 </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jdl5hs.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltdmns.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250731220000 +0000" stop="20250731230000 +0000">
 		<title>Coin Trusaidh/Muster Dogs  - Series 2: Episode 3</title>
@@ -6862,7 +6872,7 @@
 	<programme channel="bbcalba" start="20250801200000 +0000" stop="20250801220000 +0000">
 		<title>Belladrum - 2025 : Episode 2</title>
 		<desc>Performances from Supergrass, Skipinnish, Beluga Lagoon and Elles Bailey.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jdl5hs.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltdmns.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250801220000 +0000" stop="20250801230000 +0000">
 		<title>Tuath Cheòl le Ruairidh Gray - Series 1: Episode 2</title>
@@ -6881,7 +6891,7 @@
 	</programme>
 	<programme channel="bbcalba" start="20250802150000 +0000" stop="20250802170000 +0000">
 		<title>Camanachd air BBC ALBA/Shinty on BBC ALBA - 2025/26: 3. Camanachd Cup Semi Final - Fort William v Kingussie</title>
-		<desc>Fort William and Kingussie meet in the first of the Camanachd Cup semi finals.</desc>
+		<desc>Fort William and Kingussie meet in the first of the Camanachd Cup semi-finals.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02165zr.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250802170000 +0000" stop="20250802171500 +0000">
@@ -6917,7 +6927,7 @@
 	<programme channel="bbcalba" start="20250802200000 +0000" stop="20250802220000 +0000">
 		<title>Belladrum - 2025 : Episode 3</title>
 		<desc>Performances from Texas, Tom Walker, Tide Lines, Example and The Hoosiers.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jdl5hs.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltdmns.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250802220000 +0000" stop="20250802232500 +0000">
 		<title>World Pipe Band Championships - 2022/23: Episode 1</title>
@@ -7030,7 +7040,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrzf2j.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250803194500 +0000" stop="20250803200000 +0000">
-		<title>Poets' Places  - Series 1: Episode 2</title>
+		<title>Poets' Places  - Series 1: 2. Glasgow</title>
 		<desc>Glasgow brought to life in 1967 through Tom Wright’s poetry.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrzdvr.jpg" />
 	</programme>
@@ -7764,17 +7774,17 @@
 		<desc>Mae Gwesty Sigldigwt ar agor! Pa anifail wnawn ni gwrdd â heddiw tybed? Which animal wi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07z0x3j.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250802054000 +0000" stop="20250802055500 +0000">
+	<programme channel="s4c" start="20250802054000 +0000" stop="20250802055000 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 1: Robot Sychedig</title>
 		<desc>All Blero ddim deall pam bod ei gert yn gwrthod symud. Blero can't work out why his car...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2nn2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250802055500 +0000" stop="20250802061000 +0000">
+	<programme channel="s4c" start="20250802055000 +0000" stop="20250802060500 +0000">
 		<title>Guto Gwningen - Cyfres 1: Hanes y Ddihangfa Fawr</title>
 		<desc>Wedi i Mr Puw ddal Watcyn a'r holl wiwerod yn gaeth yn ei ardd, mae'n rhaid i Guto achu...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02mt167.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250802061000 +0000" stop="20250802062000 +0000">
+	<programme channel="s4c" start="20250802060500 +0000" stop="20250802062000 +0000">
 		<title>Pentre Papur Pop - Clwb Pop 5!</title>
 		<desc>Mae Help Llaw wedi adeiladu llwyfan i fand! All  Mai-Mai a'i band weithio gyda'i gilydd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
@@ -7784,12 +7794,12 @@
 		<desc>Mae'n ddiwrnod trafod dy wyliau yn yr ysgol heddiw a phawb wedi dod â swfenîr o wyliau ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ls87q5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250802063000 +0000" stop="20250802064500 +0000">
+	<programme channel="s4c" start="20250802063000 +0000" stop="20250802064000 +0000">
 		<title>Joni Jet - Cyfres 1: Chwarae Cuddio</title>
 		<desc>Mae Moc Samson yn galw i chwarae gemau fideo, ond mae'n rhaid i'r Jetlu fynd i'r afael ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250802064500 +0000" stop="20250802070000 +0000">
+	<programme channel="s4c" start="20250802064000 +0000" stop="20250802070000 +0000">
 		<title>Dal Dy Ddannedd - Cyfres 1: Ysgol Ystalyfera</title>
 		<desc>Timau o Ysgol Ystalyfera sy'n ymuno â Pwdryn a Melys i chwarae llond trol o gemau lliwg...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hdf387.jpg" />
@@ -7799,22 +7809,22 @@
 		<desc>Cyfres slapstic am griw bach glas doniol sy'n caru ffa jeli. Maent yn dod o hyd i arian...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06pzcb8.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250802070500 +0000" stop="20250802073000 +0000">
+	<programme channel="s4c" start="20250802070500 +0000" stop="20250802072500 +0000">
 		<title>Dreigiau Berc - Dreigiau: Gwarchodwyr Berc: Tywyll yw'r Fagddu</title>
 		<desc>Wrth fynd i Ynys y Dreigiau daw Igion ar draws Dagr Y Di-ddal. The youngsters go on a d...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0322xrr.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250802073000 +0000" stop="20250802075000 +0000">
+	<programme channel="s4c" start="20250802072500 +0000" stop="20250802074500 +0000">
 		<title>Parti - Cyfres 1: Pennod 3</title>
 		<desc>Mae'r criw yng Nghaerffili yn helpu trefnu Parti Hwyl Fawr i Giorgios, sy'n ymfudo i Aw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpdthm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250802075000 +0000" stop="20250802080000 +0000">
+	<programme channel="s4c" start="20250802074500 +0000" stop="20250802075500 +0000">
 		<title>Y Smyrffs - Smyrff-Ffw</title>
 		<desc>Mae Smyrffen yn achub Medrus rhag y neidr enfawr gyda'i sgiliau ymladd kung-fuaidd. Smu...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfg45b.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250802080000 +0000" stop="20250802083000 +0000">
+	<programme channel="s4c" start="20250802075500 +0000" stop="20250802083000 +0000">
 		<title>Tekkers - Cyfres 1: Bro Eirwg v Twm o'r Nant</title>
 		<desc>Brwydr rhwng y de a'r gogledd wrth i Ysgol Bro Eirwg wynebu Ysgol Twm o'r Nant. It's a ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gqztxc.jpg" />
@@ -7904,17 +7914,17 @@
 		<desc>'Pam bod anifeiliaid yn gaeafgysgu?' yw cwestiwn Meg heddiw ac mae Tad-cu'n adrodd stor...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09t9404.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250803060500 +0000" stop="20250803061500 +0000">
+	<programme channel="s4c" start="20250803060500 +0000" stop="20250803062000 +0000">
 		<title>Digbi Draig - Cyfres 1: Crwydro Cysglyd</title>
 		<desc>Mae rhywun yn dwyn pethau oddi wrth Digbi a'i ffrindiau yn ystod y nos. Someone is taki...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04w3lk5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250803061500 +0000" stop="20250803063000 +0000">
+	<programme channel="s4c" start="20250803062000 +0000" stop="20250803063500 +0000">
 		<title>Awyr Iach - Cyfres 2: Pennod 4</title>
 		<desc>Heddiw, bydd Huw yn ymuno â chriw o ffrindiau i badlfyrddio, ac awn am dro i Blas Newyd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd9v0r.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250803063000 +0000" stop="20250803064500 +0000">
+	<programme channel="s4c" start="20250803063500 +0000" stop="20250803064500 +0000">
 		<title>Pablo - Cyfres 2: Trwy Lygaid Gwahanol</title>
 		<desc>Mae Pablo wedi dod o hyd i sbectol goll nain, ond ydi'r sbectol wedi torri? Pablo finds...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bmwxql.jpg" />
@@ -8024,17 +8034,17 @@
 		<desc>Mae trigolion yr harbwr yn ceisio meddwl am rywbeth i godi calon Tanwen ond yn anffodus...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02n60qb.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250804053000 +0000" stop="20250804054000 +0000">
+	<programme channel="s4c" start="20250804053000 +0000" stop="20250804054500 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 1: O Dan y Dwr</title>
 		<desc>Mae Blero am gael gwybod pam fod ei ffrind, y pysgodyn aur, yn gallu aros o dan y dwr a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2nn2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250804054000 +0000" stop="20250804055500 +0000">
+	<programme channel="s4c" start="20250804054500 +0000" stop="20250804060000 +0000">
 		<title>Kim a Cêt a Twrch - Cyfres 1: Pennod 13</title>
 		<desc>Ymunwch â Kim a Cêt ar antur hudolus a chwareus sy'n llawn dawns a cherddoriaeth wrth i...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpz5fx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250804055500 +0000" stop="20250804060500 +0000">
+	<programme channel="s4c" start="20250804060000 +0000" stop="20250804060500 +0000">
 		<title>Odo - Cyfres 1: Ofn Hedfan!</title>
 		<desc>Cartwn hyfryd am gwdihw bach o'r enw Odo a'i ffrindiau yn y goedwig. Lovely cartoon abo...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c2dj8p.jpg" />
@@ -8069,12 +8079,12 @@
 		<desc>Yn y rhaglen hon fe awn i Alaska a Chymru i gwrddd a'r arth frown a'r wiwer goch. In th...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250804071500 +0000" stop="20250804073000 +0000">
+	<programme channel="s4c" start="20250804071500 +0000" stop="20250804072500 +0000">
 		<title>Y Diwrnod Mawr - Cyfres 4: Rhys</title>
 		<desc>Mae Rhys yn chwarae i dim hoci ia enwog Diawled Caerdydd - a fydd e'n ennill ei dlws un...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0686d3p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250804073000 +0000" stop="20250804074000 +0000">
+	<programme channel="s4c" start="20250804072500 +0000" stop="20250804074000 +0000">
 		<title>Pablo - Cyfres 2: Y Pwll Nofio</title>
 		<desc>Nid yw Pablo eisiau mynd mewn i'r pwll nofio... tan i'r pwll nofio ei berswadio! At the...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bmwxql.jpg" />
@@ -8089,12 +8099,12 @@
 		<desc>Mae'n boeth tu hwnt yn y nen heddiw. Byddai cawod o law yn ddefnyddiol iawn - petai'r C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03my1f6.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250804080500 +0000" stop="20250804082000 +0000">
+	<programme channel="s4c" start="20250804080500 +0000" stop="20250804081500 +0000">
 		<title>Twm Twrch - Cyfres 1: Dan y Tanddaearol</title>
 		<desc>Beth sy'n digwydd ym myd Twm Twrch heddiw? What's happening in Twm Twrch's world today?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdrq1h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250804082000 +0000" stop="20250804083000 +0000">
+	<programme channel="s4c" start="20250804081500 +0000" stop="20250804083000 +0000">
 		<title>Jambori - Cyfres 1: Pennod 7</title>
 		<desc>Ymunwch â Jam ar daith llawn synau, cerddoriaeth a lluniau - bydd cysgodion yn dawnsio ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x6yw7.jpg" />
