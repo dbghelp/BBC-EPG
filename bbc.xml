@@ -757,10 +757,15 @@
 		<desc>Coverage from The Hundred as London Spirit take on Oval Invincibles in the women's game.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lt59pv.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250805170000 +0000" stop="20250805203000 +0000">
+	<programme channel="bbctwo" start="20250805170000 +0000" stop="20250805200000 +0000">
 		<title>Cricket: The Hundred - 2025 - Men's: London Spirit v Oval Invincibles</title>
 		<desc>Coverage from The Hundred as London Spirit take on Oval Invincibles in the men's game.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lt5b0j.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250805200000 +0000" stop="20250805203000 +0000">
+		<title>Inside No. 9 - Series 4: 2. Bernie Clifton's Dressing Room</title>
+		<desc>Len and Tommy last gigged together 30 years ago. Tommy left and that was that - until now.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07jbt5k.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250805203000 +0000" stop="20250805211500 +0000">
 		<title>QI XL - Series R: 11. Roaming</title>
@@ -775,7 +780,7 @@
 	<programme channel="bbctwo" start="20250805213000 +0000" stop="20250805215800 +0000">
 		<title>Newsnight - 05/08/2025</title>
 		<desc>Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lvb802.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250805215800 +0000" stop="20250805220000 +0000">
 		<title>BBC Weather - 05/08/2025</title>
@@ -5588,22 +5593,17 @@
 	<programme channel="bbcnews" start="20250805213000 +0000" stop="20250805220000 +0000">
 		<title>Newsnight - 05/08/2025</title>
 		<desc>Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lvb802.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250805220000 +0000" stop="20250805230000 +0000">
 		<title>BBC World News America - 05/08/2025</title>
 		<desc>In-depth reports on the major international and US news of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250805230000 +0000" stop="20250805233000 +0000">
+	<programme channel="bbcnews" start="20250805230000 +0000" stop="20250806000000 +0000">
 		<title>BBC News - 05/08/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250805233000 +0000" stop="20250806000000 +0000">
-		<title>Panorama - Fighting Cyber Criminals</title>
-		<desc>Panorama meets the spies on the front line in the battle against cybercriminals.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lqhrxl.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250806000000 +0000" stop="20250806003000 +0000">
 		<title>BBC News - 06/08/2025</title>
