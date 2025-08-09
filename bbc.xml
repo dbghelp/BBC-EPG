@@ -816,32 +816,32 @@
 		<desc>Paul Martin is joined by Michael Baggott and Claire Rawle at Longleat in Wiltshire.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250809164500 +0000" stop="20250809201000 +0000">
+	<programme channel="bbctwo" start="20250809164500 +0000" stop="20250809201500 +0000">
 		<title>Cricket: The Hundred - 2025 - Men's: Welsh Fire v London Spirit</title>
 		<desc>Welsh Fire, with superstars like Jonny Bairstow, host a Spirit team feat. David Warner.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltdf51.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250809201000 +0000" stop="20250809211000 +0000">
+	<programme channel="bbctwo" start="20250809201500 +0000" stop="20250809211500 +0000">
 		<title>Cleo Laine at the BBC</title>
 		<desc>A special celebration of Britain's First Lady of Jazz's finest moments on the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d72flg.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250809211000 +0000" stop="20250809215500 +0000">
+	<programme channel="bbctwo" start="20250809211500 +0000" stop="20250809220000 +0000">
 		<title>Aretha Franklin at the BBC</title>
 		<desc>A collection of Aretha Franklin’s performances on BBC programmes from across the decades.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gzhcmt.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250809215500 +0000" stop="20250810000500 +0000">
+	<programme channel="bbctwo" start="20250809220000 +0000" stop="20250810001000 +0000">
 		<title>Tina Live!</title>
 		<desc>An electric Tina Turner performance from Arnhem, Netherlands, in 2009.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09k7b1k.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250810000500 +0000" stop="20250810020000 +0000">
+	<programme channel="bbctwo" start="20250810001000 +0000" stop="20250810020500 +0000">
 		<title>Margrete: Queen of the North</title>
 		<desc>1402. Queen Margrete rules Denmark, Norway and Sweden, but a conspiracy is in the making.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jtp1qk.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250810020000 +0000" stop="20250810053000 +0000">
+	<programme channel="bbctwo" start="20250810020500 +0000" stop="20250810053000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -6697,15 +6697,20 @@
 		<desc>Sealladh ùr bho Alba. A new view from Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20250809150000 +0000" stop="20250809170000 +0000">
+	<programme channel="bbcalba" start="20250809150000 +0000" stop="20250809170500 +0000">
 		<title>Camanachd air BBC ALBA/Shinty on BBC ALBA - 2025/26: 4. Camanachd Cup Semi Final - Newtonmore v Oban Camanachd</title>
 		<desc>Live shinty as Newtonmore take on Oban Camanachd in the second Camanachd Cup semi-final.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02165zr.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20250809170000 +0000" stop="20250809171500 +0000">
-		<title>Port - Series 5: Episode 3</title>
-		<desc>Calum Stewart joins Liam Flanagan and Derek Hickey in Limerick to play An Seanduine Crom.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08hbnjp.jpg" />
+	<programme channel="bbcalba" start="20250809170500 +0000" stop="20250809171000 +0000">
+		<title>Celtic Connections Shorts - Series 1: Episode 9</title>
+		<desc>The Seumas Egan Project from the States play a tune and also perform the song Days of War.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08g4m9v.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20250809171000 +0000" stop="20250809171500 +0000">
+		<title>Dàn - Series 1: Episode 8</title>
+		<desc>A poem important to Linda MacLeod. Dàn a tha cudromach do Linda NicLeòid.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09f9cqd.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250809171500 +0000" stop="20250809173000 +0000">
 		<title>An Là - 09/08/2025</title>
@@ -7362,22 +7367,22 @@
 		<desc>Newyddion a chwaraeon y penwythnos. Weekend news and sport.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d02wnm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250809193000 +0000" stop="20250809212000 +0000">
+	<programme channel="s4c" start="20250809193000 +0000" stop="20250809212500 +0000">
 		<title>Eisteddfod Genedlaethol Cymru - Cyfres 2025: Bwncath</title>
 		<desc>Darllediad byw o berfformiad Bwncath sy'n cloi Eisteddfod Genedlaethol Wrecsam ar Lwyfa...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lsyrjz.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250809212000 +0000" stop="20250809222500 +0000">
+	<programme channel="s4c" start="20250809212500 +0000" stop="20250809223000 +0000">
 		<title>Ffa Coffi Pawb!</title>
 		<desc>30 mlynedd ers chwalu, dilynwn siwrne'r band o'r gogledd - o sin gerddoriaeth danddaear...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kd8zmj.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250809222500 +0000" stop="20250809230000 +0000">
+	<programme channel="s4c" start="20250809223000 +0000" stop="20250809230500 +0000">
 		<title>Richard Holt: Yr Academi Felys - Cyfres 1: Pennod 6</title>
 		<desc>Mae'r ddau bobydd yn mynd ben-ben i greu a gweini cacennau rhithiol yn ystafell de Rich...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b0n3m0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250809230000 +0000" stop="20250810050000 +0000">
+	<programme channel="s4c" start="20250809230500 +0000" stop="20250810050000 +0000">
 		<title>Watch Live</title>
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
