@@ -1381,7 +1381,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250811185500 +0000" stop="20250811190000 +0000">
 		<title>The Catch Up - 11/08/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Hannah Simpson.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250811190000 +0000" stop="20250811200000 +0000">
@@ -6602,60 +6602,10 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250815173000 +0000" stop="20250815180000 +0000">
-		<title>The World Today with Maryam Moshiri - 15/08/2025</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250815180000 +0000" stop="20250815183000 +0000">
-		<title>The World Today with Maryam Moshiri - 15/08/2025</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250815183000 +0000" stop="20250815190000 +0000">
-		<title>The World Today with Maryam Moshiri - 15/08/2025</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250815190000 +0000" stop="20250815193000 +0000">
-		<title>The Context - 15/08/2025</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250815193000 +0000" stop="20250815200000 +0000">
-		<title>The Context - 15/08/2025</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250815200000 +0000" stop="20250815203000 +0000">
-		<title>The Context USA - 15/08/2025</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250815203000 +0000" stop="20250815210000 +0000">
-		<title>The Context USA - 15/08/2025</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250815210000 +0000" stop="20250815213000 +0000">
-		<title>BBC News at Ten - 15/08/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250815213000 +0000" stop="20250815220000 +0000">
-		<title>Newsnight - 15/08/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day. With Katie Razzall.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250815220000 +0000" stop="20250815223000 +0000">
-		<title>BBC World News America - 15/08/2025</title>
-		<desc>In-depth reports on the major international and US news of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250815223000 +0000" stop="20250815230000 +0000">
-		<title>The President's Path - 15/08/2025</title>
-		<desc>A weekly discussion on the US presidency.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
+	<programme channel="bbcnews" start="20250815173000 +0000" stop="20250815230000 +0000">
+		<title>BBC News - 15/08/2025</title>
+		<desc>Live coverage as US President Donald Trump meets Russia's President Putin.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250815230000 +0000" stop="20250815233000 +0000">
 		<title>BBC News - 15/08/2025</title>
