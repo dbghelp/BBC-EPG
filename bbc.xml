@@ -1022,7 +1022,7 @@
 	<programme channel="bbctwo" start="20250813180000 +0000" stop="20250813183000 +0000">
 		<title>Newscast - The Nicola Sturgeon Interview</title>
 		<desc>Adam Fleming talks to former first minister of Scotland Nicola Sturgeon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwclm1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250813183000 +0000" stop="20250813190000 +0000">
 		<title>Grand Tours of Scotland's Rivers - Series 2: 5. An Independent River</title>
@@ -5308,9 +5308,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhlp8x.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250811220000 +0000" stop="20250811223000 +0000">
-		<title>Scotcast - 11/08/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Sturgeon’s Memoir</title>
+		<desc>How much have we learned about Nicola Sturgeon following media publicity for her new book?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwchtv.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250811223000 +0000" stop="20250811230000 +0000">
 		<title>Up for It - Series 2: 1. Cakes</title>
@@ -5647,15 +5647,10 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250811153000 +0000" stop="20250811154500 +0000">
-		<title>Business Today - 11/08/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250811154500 +0000" stop="20250811160000 +0000">
-		<title>Verified Live - 11/08/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
+	<programme channel="bbcnews" start="20250811153000 +0000" stop="20250811160000 +0000">
+		<title>BBC News - 11/08/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250811160000 +0000" stop="20250811163000 +0000">
 		<title>Verified Live - 11/08/2025</title>
@@ -6678,7 +6673,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250816003000 +0000" stop="20250816010000 +0000">
-		<title>Tech Now - 16/08/2025</title>
+		<title>Tech Now - Tech Engineering Compilation</title>
 		<desc>A round-up of some of the most innovative tech engineering featured on Tech Now.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
@@ -7778,15 +7773,10 @@
 		<desc>A fydd y criw o forladron bach o Ysgol Pwll Coch yn llwyddo i helpu Ben Dant a Cadi i d...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05s641v.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250812090000 +0000" stop="20250812090500 +0000">
+	<programme channel="s4c" start="20250812090000 +0000" stop="20250812091000 +0000">
 		<title>Y Tralalas - Cyfres 1: Y Llyfrgell</title>
 		<desc>Darllenwch gyda'r Tralalas yn y llyfrgell, ond peidiwch gwneud gormod o swn! Harmoni, M...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hr2z2q.jpg" />
-	</programme>
-	<programme channel="s4c" start="20250812090500 +0000" stop="20250812091000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250812091000 +0000" stop="20250812092000 +0000">
 		<title>Sam Tân - Cyfres 9: Pel-droed tanllyd</title>
@@ -7798,15 +7788,15 @@
 		<desc>Cyfres gomedi i blant meithrin sy'n cynnwys sgetsys, eitemau doniol, jôcs a chymeriadau...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05vqt69.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250812093000 +0000" stop="20250812094000 +0000">
+	<programme channel="s4c" start="20250812093000 +0000" stop="20250812094500 +0000">
 		<title>Sion y Chef - Cyfres 1: Pop! Sbonc! Ffilm Sionc!</title>
 		<desc>Mae Sinema Sbonc yn digwydd ar sgwâr Pentre Braf, ond mae peiriant gwneud popgorn Jac J...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07g3m2z.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250812094000 +0000" stop="20250812095500 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="s4c" start="20250812094500 +0000" stop="20250812095500 +0000">
+		<title>Asra - Cyfres 2: Ysgol Santes Helen Caernarfon</title>
+		<desc>Bydd plant o Ysgol Santes Helen, Caernarfon yn ymweld ag ASRA yr wythnos hon. Children ...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06j3zzy.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250812095500 +0000" stop="20250812100000 +0000">
 		<title>Caru Canu - Cyfres 1: Tair hwyaden lon</title>
