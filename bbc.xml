@@ -1364,7 +1364,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250812185800 +0000" stop="20250812190000 +0000">
 		<title>The Catch Up - 12/08/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Jack Surfleet.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250812190000 +0000" stop="20250812200000 +0000">
@@ -5420,19 +5420,19 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdtr90.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250815183000 +0000" stop="20250815190000 +0000">
+		<title>Food Fest Scotland - Series 1: 4. Glasgow</title>
+		<desc>Edith Bowman and Colin Murray hunt for tips and treats at the Glasgow Foodies’ Festival.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f0wbq4.jpg" />
+	</programme>
+	<programme channel="bbcscotland" start="20250815190000 +0000" stop="20250815193000 +0000">
 		<title>Food Fest Scotland - Series 1: 5. Nairn</title>
 		<desc>Edith Bowman and Colin Murray discover secrets of food producers at the Nairn Show.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f0w9v7.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250815190000 +0000" stop="20250815193000 +0000">
+	<programme channel="bbcscotland" start="20250815193000 +0000" stop="20250815200000 +0000">
 		<title>Our Lives - Series 9: Downhill Highs</title>
 		<desc>Mountain biker Sean sets himself the challenge of climbing every Munro in Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp2gmd.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20250815193000 +0000" stop="20250815200000 +0000">
-		<title>Our Lives - Series 6: Darts Dreams</title>
-		<desc>Eighteen-year-old Chloe tries to break into the Scottish ladies' team for the first time.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dl5t6x.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250815200000 +0000" stop="20250815210000 +0000">
 		<title>Jocky Wilson Said</title>
