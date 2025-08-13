@@ -1453,7 +1453,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250814200000 +0000" stop="20250814203000 +0000">
 		<title>Confessions of a Steroid Gang - Series 1: Episode 1</title>
-		<desc>A father and son launch a global steroid lab from a shed in north Wales. It can't last.</desc>
+		<desc>A father and son launch a global steroid lab from a shed in North Wales. It can't last.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltkv08.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250814203000 +0000" stop="20250814210000 +0000">
@@ -1508,7 +1508,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250815013000 +0000" stop="20250815020000 +0000">
 		<title>Confessions of a Steroid Gang - Series 1: Episode 1</title>
-		<desc>A father and son launch a global steroid lab from a shed in north Wales. It can't last.</desc>
+		<desc>A father and son launch a global steroid lab from a shed in North Wales. It can't last.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltkv08.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250815020000 +0000" stop="20250815023000 +0000">
@@ -1568,7 +1568,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250815220000 +0000" stop="20250815223000 +0000">
 		<title>Confessions of a Steroid Gang - Series 1: Episode 1</title>
-		<desc>A father and son launch a global steroid lab from a shed in north Wales. It can't last.</desc>
+		<desc>A father and son launch a global steroid lab from a shed in North Wales. It can't last.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltkv08.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250815223000 +0000" stop="20250815230000 +0000">
@@ -5459,10 +5459,15 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250813083000 +0000" stop="20250813090000 +0000">
-		<title>BBC News - 13/08/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	<programme channel="bbcnews" start="20250813083000 +0000" stop="20250813085500 +0000">
+		<title>The President's Path - Democrats v Trump</title>
+		<desc>How are the Democrats dealing with Donald Trump?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250813085500 +0000" stop="20250813090000 +0000">
+		<title>Tech Now - 16/07/2025</title>
+		<desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250813090000 +0000" stop="20250813093000 +0000">
 		<title>BBC News - 13/08/2025</title>
