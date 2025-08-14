@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250814180000 +0000" stop="20250814183000 +0000">
 		<title>The One Show - 14/08/2025</title>
-		<desc>Roman Kemp and Clara Amfo bring you the stories that matter from across the country.</desc>
+		<desc>Tom Grennan and Glynis Barber join Roman Kemp and Clara Amfo on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250814183000 +0000" stop="20250814190000 +0000">
@@ -627,7 +627,7 @@
 	<programme channel="bbcone" start="20250818153000 +0000" stop="20250818161500 +0000">
 		<title>The Answer Run - Series 2: Episode 1</title>
 		<desc>Jason Manford helps contestants swipe for success as they hurtle down the Answer Run.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jjt38b.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwwj2z.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250818161500 +0000" stop="20250818170000 +0000">
 		<title>Pointless - Series 32: Episode 49</title>
@@ -1358,7 +1358,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250814185800 +0000" stop="20250814190000 +0000">
 		<title>The Catch Up - 14/08/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Aisling Taylor.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250814190000 +0000" stop="20250814200000 +0000">
@@ -5164,7 +5164,7 @@
 	<programme channel="bbcscotland" start="20250814184500 +0000" stop="20250814211500 +0000">
 		<title>Sportscene - 2025/26: Conference League Qualifier, Second Leg: Hibernian v Partizan Belgrade</title>
 		<desc>Third-round qualifying action as Hibernian host Partizan Belgrade at Easter Road.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jgc7wm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwxd8m.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250814211500 +0000" stop="20250814214500 +0000">
 		<title>Two Doors Down - Series 7: Episode 1</title>
@@ -5477,9 +5477,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250814103000 +0000" stop="20250814104500 +0000">
-		<title>Business Today - 14/08/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+		<title>BBC News - 16/08/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250814104500 +0000" stop="20250814110000 +0000">
 		<title>BBC News - 14/08/2025</title>
@@ -5876,7 +5876,12 @@
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250816080000 +0000" stop="20250816090000 +0000">
+	<programme channel="bbcnews" start="20250816080000 +0000" stop="20250816083000 +0000">
+		<title>BBC News - 16/08/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250816083000 +0000" stop="20250816090000 +0000">
 		<title>BBC News - 16/08/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
