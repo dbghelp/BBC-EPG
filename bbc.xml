@@ -806,10 +806,15 @@
 		<desc>Expert Jonathan Pratt uncovers a dinosaur egg that could date back 80 million years.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250816164500 +0000" stop="20250816201000 +0000">
+	<programme channel="bbctwo" start="20250816164500 +0000" stop="20250816195500 +0000">
 		<title>Cricket: The Hundred - 2025 - Men's: Oval Invincibles v Welsh Fire</title>
 		<desc>Defending champions Oval Invincibles host the Welsh Fire at the Oval.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwhbbs.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250816195500 +0000" stop="20250816201000 +0000">
+		<title>Natural World - 2018-2019: 6. The Super Squirrels</title>
+		<desc>The squirrel family is one of the most widespread - what is the secret to their success?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p069w918.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250816201000 +0000" stop="20250816204500 +0000">
 		<title>Roy Orbison at the BBC</title>
@@ -5464,7 +5469,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250816193000 +0000" stop="20250816200000 +0000">
-		<title>Newscast - The Trump-Putin Summit</title>
+		<title>Newscast - The Trump-Putin Summit: ‘Next Time in Moscow?'</title>
 		<desc>Discussion of the summit between US President Trump and Russia's President Putin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
@@ -5514,7 +5519,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250817013000 +0000" stop="20250817020000 +0000">
-		<title>Newscast - The Trump-Putin Summit</title>
+		<title>Newscast - The Trump-Putin Summit: ‘Next Time in Moscow?'</title>
 		<desc>Discussion of the summit between US President Trump and Russia's President Putin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
