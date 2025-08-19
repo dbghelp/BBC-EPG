@@ -747,24 +747,24 @@
 		<desc>Trent Rockets host Manchester Originals at Trent Bridge.  </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwhgcw.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250819170000 +0000" stop="20250819203000 +0000">
+	<programme channel="bbctwo" start="20250819170000 +0000" stop="20250819201500 +0000">
 		<title>Cricket: The Hundred - 2025 - Men's: Trent Rockets v Manchester Originals</title>
 		<desc>Manchester Originals travel to Trent Bridge to take on Trent Rockets.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwhgdq.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250819203000 +0000" stop="20250819211500 +0000">
+	<programme channel="bbctwo" start="20250819201500 +0000" stop="20250819204500 +0000">
+		<title>Mortimer &amp; Whitehouse: Gone Fishing - Series 5: Episode 1</title>
+		<desc>Bob and Paul visit the River Exe in Devon, where they fish for summer grilse.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cy2c58.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20250819204500 +0000" stop="20250819213000 +0000">
 		<title>QI XL - Series R: 14. Rogue</title>
 		<desc>Sandi Toksvig goes rogue with Bill Bailey, Jack Carroll, Olga Koch and Alan Davies.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p093bp35.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250819211500 +0000" stop="20250819213000 +0000">
-		<title>Martin Fishback</title>
-		<desc>Comedy following tactless dad Martin Fishback and his ambition to become a crime writer.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0blpk7t.jpg" />
-	</programme>
 	<programme channel="bbctwo" start="20250819213000 +0000" stop="20250819215800 +0000">
-		<title>Newsnight - 19/08/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Paddy O'Connell.</desc>
+		<title>Newsnight - Epping asylum seeker hotel to close</title>
+		<desc>A legal victory over the government means that asylum seekers must leave the Bell Hotel.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250819215800 +0000" stop="20250819220000 +0000">
@@ -5177,11 +5177,6 @@
 		<desc>More from the day’s top stories and communities across Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdtr90.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250820183000 +0000" stop="20250820190000 +0000">
-		<title>Scotland's Home of the Year  - Series 5: 2. North East and the Northern Isles</title>
-		<desc>A Victorian renovation in Oldmeldrum, a modern build near St Cyrus, a self-build in Orkney</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fmrcfk.jpg" />
-	</programme>
 	<programme channel="bbcscotland" start="20250820190000 +0000" stop="20250820200000 +0000">
 		<title>World Pipe Band Championships - 2025</title>
 		<desc>Jackie Bird presents highlights of the 2025 World Pipe Band Championships from Glasgow.</desc>
@@ -5237,20 +5232,10 @@
 		<desc>More from the day’s top stories and communities across Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdtr90.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250821183000 +0000" stop="20250821190000 +0000">
-		<title>Beechgrove Garden - 2025: Episode 21</title>
-		<desc>Kirsty and Brian taste-test the chillies that they first featured at the start of May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lxn0w9.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20250821190000 +0000" stop="20250821200000 +0000">
-		<title>This Farming Life - Series 6: Episode 10</title>
-		<desc>Robert calls out the vet for a ewe in urgent need of care.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gp3znv.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20250821200000 +0000" stop="20250821210000 +0000">
-		<title>Facelift - Series 1: Episode 1</title>
-		<desc>Insight into the lives of Dr Darren McKeown and husband Tom as they navigate a big year.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fcys30.jpg" />
+	<programme channel="bbcscotland" start="20250821183000 +0000" stop="20250821210000 +0000">
+		<title>Sportscene - 2025/26: Europa League Play-off, First Leg: Aberdeen v FCSB</title>
+		<desc>Aberdeen face FCSB in the first leg of their Europa League play-off.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jgc7wm.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250821210000 +0000" stop="20250821213000 +0000">
 		<title>Two Doors Down - Series 7: Episode 2</title>
@@ -5533,8 +5518,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250819213000 +0000" stop="20250819220000 +0000">
-		<title>Newsnight - 19/08/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Paddy O'Connell.</desc>
+		<title>Newsnight - Epping asylum seeker hotel to close</title>
+		<desc>A legal victory over the government means that asylum seekers must leave the Bell Hotel.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250819220000 +0000" stop="20250819230000 +0000">
