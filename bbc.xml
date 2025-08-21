@@ -1609,7 +1609,7 @@
 	<programme channel="bbcthree" start="20250824200000 +0000" stop="20250824202000 +0000">
 		<title>RuPaul's Drag Race UK - Meet the Queens: Series 7</title>
 		<desc>RuPaul ru-veals his fabulous new cast of lovely queens hoping to snatch that crown!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ly5dgq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jnfrmr.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250824202000 +0000" stop="20250824220000 +0000">
 		<title>The Adventures of Priscilla, Queen of the Desert</title>
@@ -1724,7 +1724,7 @@
 	<programme channel="bbcthree" start="20250826014000 +0000" stop="20250826020000 +0000">
 		<title>RuPaul's Drag Race UK - Meet the Queens: Series 7</title>
 		<desc>RuPaul ru-veals his fabulous new cast of lovely queens hoping to snatch that crown!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ly5dgq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jnfrmr.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250826020000 +0000" stop="20250826030000 +0000">
 		<title>Ashley Cain: Into the Danger Zone - Series 1: 3. Marseille’s Narco Wars</title>
@@ -5063,9 +5063,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lxz2jv.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250821220000 +0000" stop="20250821223000 +0000">
-		<title>Scotcast - 21/08/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Fixing the NHS</title>
+		<desc>BMA Scotland on why one of the founding principles of the NHS has "already died".</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ly95m4.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250821223000 +0000" stop="20250821230000 +0000">
 		<title>Scot Squad - Series 4: Episode 3</title>
@@ -5115,7 +5115,7 @@
 	<programme channel="bbcscotland" start="20250822220000 +0000" stop="20250822230000 +0000">
 		<title>TRNSMT - 2025 - Highlights Compilations: Episode 6</title>
 		<desc>Featuring Myles Smith, Gracie Abrams, Inhaler, James Bay, Jade and Fontaines DC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrsx38.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ly9dw5.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250822230000 +0000" stop="20250823050000 +0000">
 		<title>This is BBC Scotland - This is BBC Scotland</title>
@@ -5582,7 +5582,12 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250822103000 +0000" stop="20250822110000 +0000">
+	<programme channel="bbcnews" start="20250822103000 +0000" stop="20250822104500 +0000">
+		<title>Business Today - 22/08/2025</title>
+		<desc>The latest business news from London and around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250822104500 +0000" stop="20250822110000 +0000">
 		<title>BBC News - 22/08/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
