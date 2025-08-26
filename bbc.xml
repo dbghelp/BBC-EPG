@@ -1864,7 +1864,7 @@
 	</programme>
 	<programme channel="bbcfour" start="20250827225000 +0000" stop="20250827233500 +0000">
 		<title>Omnibus - Virginia Woolf: A Night's Darkness, A Day's Sail</title>
-		<desc>A celebration of the life and work of author Virginia Woolf. </desc>
+		<desc>A celebration of the life and work of author Virginia Woolf.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lxtc5w.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20250827233500 +0000" stop="20250828003500 +0000">
@@ -5116,9 +5116,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lvfm48.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250826213000 +0000" stop="20250826220000 +0000">
-		<title>Scotcast - 26/08/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Edinburgh Race Review</title>
+		<desc>Tommy Curry talks to Martin Geissler about what racism looks like in Scotland today. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lz3kp3.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250826220000 +0000" stop="20250826230000 +0000">
 		<title>Darren McGarvey’s Class Wars - Series 1: 4. Rear-View Mirror</title>
@@ -5150,10 +5150,15 @@
 		<desc>More from the day’s top stories and communities across Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdtr90.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250827183000 +0000" stop="20250827200000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="bbcscotland" start="20250827183000 +0000" stop="20250827190000 +0000">
+		<title>Beechgrove Garden - 2025: Episode 22</title>
+		<desc>Tension is building as judging day approaches in the vegetable plot competition.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lz12cv.jpg" />
+	</programme>
+	<programme channel="bbcscotland" start="20250827190000 +0000" stop="20250827200000 +0000">
+		<title>This Farming Life - Series 6: Episode 10</title>
+		<desc>Robert calls out the vet for a ewe in urgent need of care.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gp3znv.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250827200000 +0000" stop="20250827210000 +0000">
 		<title>Highland Cops - Series 1: Episode 2</title>
@@ -5200,30 +5205,21 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250828180000 +0000" stop="20250828183000 +0000">
+	<programme channel="bbcscotland" start="20250828180000 +0000" stop="20250828181500 +0000">
 		<title>Reporting Scotland - News at Seven: 28/08/2025</title>
 		<desc>More from the day’s top stories and communities across Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdtr90.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250828183000 +0000" stop="20250828190000 +0000">
-		<title>Our Lives - Series 9: Female Fishermen: Beyond the Buoys</title>
-		<desc>Three young female fishermen – Brooke, Erin and Emma – haul nets and challenge traditions.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lp2gn1.jpg" />
+	<programme channel="bbcscotland" start="20250828181500 +0000" stop="20250828204500 +0000">
+		<title>Sportscene - 2025/26: 2. Europa League Play-Off, Second Leg: FCSB v Aberdeen</title>
+		<desc>FCSB v Aberdeen in the second leg of the Europa League play-off.
+</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jgc7wm.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20250828190000 +0000" stop="20250828193000 +0000">
-		<title>Beechgrove Garden - 2025: Episode 22</title>
-		<desc>Tension is building as judging day approaches in the vegetable plot competition.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lz12cv.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20250828193000 +0000" stop="20250828200000 +0000">
-		<title>Jules and Greg's Wild Swim - Series 1: Episode 3</title>
-		<desc>Jules and Greg finally find their Zen in the iconic River Tay.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h3pk7r.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20250828200000 +0000" stop="20250828210000 +0000">
-		<title>Facelift - Series 1: Episode 2</title>
-		<desc>Darren and Tom prepare for the arrival of their baby in America.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fcys90.jpg" />
+	<programme channel="bbcscotland" start="20250828204500 +0000" stop="20250828210000 +0000">
+		<title>Sacked in the Morning - Series 2 Shorts: 9. Sacked in the Morning</title>
+		<desc>Viv Anderson talks European Cup success and playing for the legendary Brian Clough.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d55k3v.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250828210000 +0000" stop="20250828213000 +0000">
 		<title>Two Doors Down - Series 7: Episode 3</title>
