@@ -768,42 +768,42 @@
 		<desc>Coverage of the final of the 2025 edition of the women's The Hundred competition.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lzz3jm.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250831163000 +0000" stop="20250831200000 +0000">
+	<programme channel="bbctwo" start="20250831163000 +0000" stop="20250831201500 +0000">
 		<title>Cricket: The Hundred - 2025 - Men's: Men's Final</title>
 		<desc>Coverage of the final of the 2025 edition of the men's The Hundred competition.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m025h7.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250831200000 +0000" stop="20250831210000 +0000">
+	<programme channel="bbctwo" start="20250831201500 +0000" stop="20250831211500 +0000">
 		<title>Murder Case - Who Killed Kiesha?</title>
 		<desc>Detectives work tirelessly to uncover the truth behind Kiesha Donaghy’s brutal murder.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lvlc4t.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250831210000 +0000" stop="20250831224000 +0000">
+	<programme channel="bbctwo" start="20250831211500 +0000" stop="20250831230000 +0000">
 		<title>Misery</title>
 		<desc>A nurse's devotion towards an author injured in a car accident takes a sinister turn.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lz24c1.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250831224000 +0000" stop="20250901003000 +0000">
+	<programme channel="bbctwo" start="20250831230000 +0000" stop="20250901004500 +0000">
 		<title>Final Cut</title>
 		<desc>Things go badly for a small film crew shooting a low-budget zombie movie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gsf18l.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250901003000 +0000" stop="20250901013000 +0000">
+	<programme channel="bbctwo" start="20250901004500 +0000" stop="20250901014500 +0000">
 		<title>MasterChef - Series 21: Episode 10</title>
 		<desc>A fresh batch of ambitious cooks, including a fishmonger and a data scientist, compete.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lz7prw.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250901013000 +0000" stop="20250901020000 +0000">
+	<programme channel="bbctwo" start="20250901014500 +0000" stop="20250901021500 +0000">
 		<title>Here We Go - Series 3: 5. Granny's Uno Hustle</title>
 		<desc>Sue gets sucked into a high-stakes game of Uno, which she must win at any cost.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpljwj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250901020000 +0000" stop="20250901023000 +0000">
+	<programme channel="bbctwo" start="20250901021500 +0000" stop="20250901024500 +0000">
 		<title>Great British Railway Journeys - Series 16: 13. Dudley to West Bromwich</title>
 		<desc>Michael Portillo boards a barge on the Dudley Canal and discovers an ancient seabed.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l3jqt8.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250901023000 +0000" stop="20250901054500 +0000">
+	<programme channel="bbctwo" start="20250901024500 +0000" stop="20250901054500 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -7670,10 +7670,15 @@
 		<desc>Newyddion a chwaraeon y penwythnos. Weekend news and sport.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d02wnm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250831190000 +0000" stop="20250831220000 +0000">
+	<programme channel="s4c" start="20250831190000 +0000" stop="20250831214000 +0000">
 		<title>Dartiau - Dartiau: Pencampwriaethau Cymru '25: Pennod 4</title>
 		<desc>Darpariaeth ffrydio byw ar draws llwyfannau S4C o Bencampwriaethau Dartiau Cymru 2025. ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lyggfz.jpg" />
+	</programme>
+	<programme channel="s4c" start="20250831214000 +0000" stop="20250831220000 +0000">
+		<title>Y Gêm - Cyfres 2: Jonny Clayton</title>
+		<desc>Y tro hwn, mae Owain Tudur Jones yn siarad gyda'r chwaraewr dartiau, Jonny Clayton. Owa...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gtd6md.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250831220000 +0000" stop="20250831223500 +0000">
 		<title>Trysorau Cymru: Tir, Tai a Chyfrinachau - Cyfres 1: Castell Y Waun</title>
