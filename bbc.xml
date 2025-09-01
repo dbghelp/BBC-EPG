@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250901083000 +0000" stop="20250901094500 +0000">
 		<title>Morning Live - Series 7: 01/09/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>The latest parking scams, weight-loss jabs, and Longleat's favourite animal residents.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250901094500 +0000" stop="20250901101500 +0000">
@@ -2205,10 +2205,15 @@
 		<desc>Yammy guides the teams through a colourful, messy, ink-filled showdown in Splatoon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jgl3kn.jpg" />
 	</programme>
-	<programme channel="cbbc" start="20250901140000 +0000" stop="20250901142000 +0000">
-		<title>Dragons: The Nine Realms - Series 1: 1. First Flight: Part 1</title>
-		<desc>An adventurous teenager meets a new group of kids and discovers a dragon in the fissure.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c532jk.jpg" />
+	<programme channel="cbbc" start="20250901140000 +0000" stop="20250901141000 +0000">
+		<title>Danger Mouse - Series 1: 9. Welcome to Danger World!</title>
+		<desc>Danger Mouse must fight his own urge to be awesome.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0344vfm.jpg" />
+	</programme>
+	<programme channel="cbbc" start="20250901141000 +0000" stop="20250901142000 +0000">
+		<title>Dennis &amp; Gnasher Unleashed! - Series 1: 23. Pig Trouble in Little Beanotown</title>
+		<desc>Dennis takes Rasher the pig to school disguised as an exchange student.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05xlz8q.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20250901142000 +0000" stop="20250901143000 +0000">
 		<title>Dennis &amp; Gnasher Unleashed! - Series 1: 18. Screwtop in Love</title>
@@ -4765,9 +4770,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tcp26.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250904175000 +0000" stop="20250904175800 +0000">
-		<title>CBeebies Bedtime Stories - Blue Peter Presenters - The Very Hungry Caterpillar</title>
-		<desc>The Blue Peter presenters read the classic The Very Hungry Caterpillar by Eric Carle.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
+		<title>CBeebies Bedtime Stories - New and Trending: Blue Peter Presenters - The Very Hungry Caterpillar</title>
+		<desc>The Blue Peter presenters read The Very Hungry Caterpillar by Eric Carle.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m05fw4.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250904175800 +0000" stop="20250905043000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -5152,7 +5157,7 @@
 	<programme channel="cbeebies" start="20250905175000 +0000" stop="20250905175800 +0000">
 		<title>CBeebies Bedtime Stories - New and Trending: Eilish McColgan - The Fastest Tortoise in Town</title>
 		<desc>Eilish McColgan reads a charming, funny story about courage, self-belief and confidence.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m05mkn.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250905175800 +0000" stop="20250906043000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -5529,20 +5534,10 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250901130000 +0000" stop="20250901133000 +0000">
-		<title>BBC News Now - 01/09/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250901133000 +0000" stop="20250901134500 +0000">
-		<title>Business Today - NYSE Opening Bell - 01/09/2025</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250901134500 +0000" stop="20250901140000 +0000">
-		<title>BBC News Now - 01/09/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	<programme channel="bbcnews" start="20250901130000 +0000" stop="20250901140000 +0000">
+		<title>BBC News - 01/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250901140000 +0000" stop="20250901143000 +0000">
 		<title>Verified Live - 01/09/2025</title>
@@ -6574,10 +6569,65 @@
 		<desc>A weekly discussion on the US presidency.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250905230000 +0000" stop="20250906050000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="bbcnews" start="20250905230000 +0000" stop="20250905233000 +0000">
+		<title>BBC News - 05/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250905233000 +0000" stop="20250906000000 +0000">
+		<title>Talking Business - 05/09/2025</title>
+		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250906000000 +0000" stop="20250906003000 +0000">
+		<title>BBC News - 06/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250906003000 +0000" stop="20250906010000 +0000">
+		<title>Tech Now - 06/09/2025</title>
+		<desc>How technology is bringing hope of earlier detection and prevention to wildfires.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250906010000 +0000" stop="20250906013000 +0000">
+		<title>BBC News - 06/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250906013000 +0000" stop="20250906020000 +0000">
+		<title>Inside Museums - 3. Museum of Islamic Art, Doha</title>
+		<desc>Alastair Sooke is in Doha, Qatar, to explore the Museum of Islamic Art.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gzr687.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250906020000 +0000" stop="20250906023000 +0000">
+		<title>BBC News - 06/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250906023000 +0000" stop="20250906030000 +0000">
+		<title>Panorama - The £170 Million Diamond Scam</title>
+		<desc>Richard Bilton investigates the £170m jewellery scam that left investors with nothing.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lzr09b.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250906030000 +0000" stop="20250906033000 +0000">
+		<title>BBC News - 06/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250906033000 +0000" stop="20250906040000 +0000">
+		<title>The Media Show - 06/09/2025</title>
+		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250906040000 +0000" stop="20250906043000 +0000">
+		<title>BBC News - 06/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250906043000 +0000" stop="20250906050000 +0000">
+		<title>The Travel Show - 06/09/2025</title>
+		<desc>Join the team as they relive their best moments from Waterways of the World.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250901050000 +0000" stop="20250901110000 +0000">
 		<title>Joins BBC News - 01/09/2025</title>
