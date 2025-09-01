@@ -810,9 +810,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03w4bt4.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250901213000 +0000" stop="20250901215800 +0000">
-		<title>Newsnight - 01/09/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Will the PM’s Reshuffle Work?</title>
+		<desc>The prime minister says his shake-up will allow him to drive through his priorities.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m093d9.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250901215800 +0000" stop="20250901220000 +0000">
 		<title>BBC Weather - 01/09/2025</title>
@@ -5620,9 +5620,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250901213000 +0000" stop="20250901220000 +0000">
-		<title>Newsnight - 01/09/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Will the PM’s Reshuffle Work?</title>
+		<desc>The prime minister says his shake-up will allow him to drive through his priorities.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m093d9.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250901220000 +0000" stop="20250901230000 +0000">
 		<title>BBC World News America - 01/09/2025</title>
@@ -6644,57 +6644,52 @@
 		<desc>Coverage of questions to Liz Kendall on Monday 1 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250901143000 +0000" stop="20250901153000 +0000">
+	<programme channel="bbcparliament" start="20250901143000 +0000" stop="20250901165500 +0000">
 		<title>House of Commons - Borders and Asylum Statement</title>
 		<desc>Statement by home secretary Yvette Cooper on borders and asylum policy, on 1 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250901153000 +0000" stop="20250901163000 +0000">
+	<programme channel="bbcparliament" start="20250901165500 +0000" stop="20250901190000 +0000">
 		<title>House of Commons - Middle East Statement</title>
 		<desc>Statement by foreign secretary David Lammy on the Middle East, on Monday 1 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250901163000 +0000" stop="20250901173000 +0000">
+	<programme channel="bbcparliament" start="20250901190000 +0000" stop="20250901201000 +0000">
 		<title>House of Commons - Ukraine War Statement</title>
 		<desc>Statement by defence secretary John Healey on the Ukraine War, on Monday 1 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250901173000 +0000" stop="20250901183000 +0000">
-		<title>House of Commons - Regional Rail Inequality Debate</title>
-		<desc>Debate on rail transport links, and the differences in investment and rail services.</desc>
+	<programme channel="bbcparliament" start="20250901201000 +0000" stop="20250901204500 +0000">
+		<title>House of Commons - 01/09/2025</title>
+		<desc>Coverage of proceedings on Monday 1 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250901183000 +0000" stop="20250901213000 +0000">
-		<title>House of Commons - Scottish Devolution Debate</title>
-		<desc>Debate in the House of Commons on the state of Scottish devolution, on Monday 1 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250901213000 +0000" stop="20250901221500 +0000">
+	<programme channel="bbcparliament" start="20250901204500 +0000" stop="20250901213000 +0000">
 		<title>Lords Questions - 01/09/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 1 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250901221500 +0000" stop="20250902001500 +0000">
+	<programme channel="bbcparliament" start="20250901213000 +0000" stop="20250901231500 +0000">
 		<title>House of Lords - Planning and Infrastructure Bill, Part 1</title>
 		<desc>The third day of debate on the committee stage of the Planning and Infrastructure Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250902001500 +0000" stop="20250902021500 +0000">
+	<programme channel="bbcparliament" start="20250901231500 +0000" stop="20250902011500 +0000">
 		<title>House of Lords - Planning and Infrastructure Bill, Part 2</title>
 		<desc>The third day of debate on the committee stage of the Planning and Infrastructure Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250902021500 +0000" stop="20250902031500 +0000">
+	<programme channel="bbcparliament" start="20250902011500 +0000" stop="20250902031500 +0000">
 		<title>House of Lords - Planning and Infrastructure Bill, Part 3</title>
 		<desc>The third day of debate on the committee stage of the Planning and Infrastructure Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250902031500 +0000" stop="20250902041500 +0000">
+	<programme channel="bbcparliament" start="20250902031500 +0000" stop="20250902040000 +0000">
 		<title>House of Lords - Planning and Infrastructure Bill, Part 4</title>
 		<desc>The third day of debate on the committee stage of the Planning and Infrastructure Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250902041500 +0000" stop="20250902060000 +0000">
+	<programme channel="bbcparliament" start="20250902040000 +0000" stop="20250902052000 +0000">
 		<title>House of Lords - Middle East Statement</title>
 		<desc>Statement on the Middle East by foreign office minister Baroness Chapman of Darlington.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
