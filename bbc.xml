@@ -2017,6 +2017,11 @@
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
 	</programme>
+	<programme channel="bbcfour" start="20250906180000 +0000" stop="20250906181500 +0000">
+		<title>Mr Benn - Series 1: 1. The Red Knight</title>
+		<desc>Classic children's animation series.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+	</programme>
 	<programme channel="bbcfour" start="20250906181500 +0000" stop="20250906200000 +0000">
 		<title>Miss Marple - A Caribbean Mystery</title>
 		<desc>Miss Marple is sent to recuperate in Barbados - but a murderer strikes.</desc>
@@ -5417,10 +5422,15 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250902100000 +0000" stop="20250902104500 +0000">
+	<programme channel="bbcnews" start="20250902100000 +0000" stop="20250902103000 +0000">
 		<title>BBC News - 02/09/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250902103000 +0000" stop="20250902104500 +0000">
+		<title>Business Today - 02/09/2025</title>
+		<desc>The latest business news from London and around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250902104500 +0000" stop="20250902110000 +0000">
 		<title>BBC News - 02/09/2025</title>
@@ -5513,7 +5523,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250902190000 +0000" stop="20250902193000 +0000">
-		<title>The Context - The Context 25/26</title>
+		<title>The Context - 02/09/2025</title>
 		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
@@ -5538,9 +5548,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250902213000 +0000" stop="20250902220000 +0000">
-		<title>Newsnight - 02/09/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>BBC World News America - 02/09/2025</title>
+		<desc>In-depth reports on the major international and US news of the day.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250902220000 +0000" stop="20250902230000 +0000">
 		<title>BBC World News America - 02/09/2025</title>
@@ -6530,7 +6540,7 @@
 	<programme channel="bbcparliament" start="20250902064000 +0000" stop="20250902090000 +0000">
 		<title>House of Commons - Borders and Asylum Statement</title>
 		<desc>Statement by home secretary Yvette Cooper on borders and asylum policy, on 1 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0gbjc.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250902090000 +0000" stop="20250902103000 +0000">
 		<title>Select Committees - Culture, Media and Sport Committee</title>
@@ -6553,7 +6563,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250902130000 +0000" stop="20250902131000 +0000">
-		<title>Ten Minute Rule Bill - Allery Guidance for Babies and Infants</title>
+		<title>Ten Minute Rule Bill - Allergy Guidance for Babies and Infants</title>
 		<desc>Introduction of a ten minute rule bill on allergy guidance for babies and infants.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
 	</programme>
@@ -6597,14 +6607,24 @@
 		<desc>Statement by home office minister Lord Flint of Hanson on borders and security.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250903060000 +0000" stop="20250903083000 +0000">
-		<title>House of Commons - 02/09/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 2 September.</desc>
+	<programme channel="bbcparliament" start="20250903060000 +0000" stop="20250903071000 +0000">
+		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
+		<desc>Coverage of questions to David Lammy on Tuesday 2 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20250903071000 +0000" stop="20250903082000 +0000">
+		<title>House of Commons - Ukraine War Statement</title>
+		<desc>Statement by defence secretary John Healey on the Ukraine War, on Monday 1 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250903082000 +0000" stop="20250903083000 +0000">
+		<title>Ten Minute Rule Bill - Allergy Guidance for Babies and Infants</title>
+		<desc>Introduction of a ten minute rule bill on allergy guidance for babies and infants.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20250903083000 +0000" stop="20250903103000 +0000">
-		<title>Select Committees - 03/09/2025</title>
-		<desc>Coverage of select committee proceedings on Wednesday 3 September.</desc>
+		<title>Select Committees - Culture, Media and Sport Select Committee on Children's Play</title>
+		<desc>The Culture, Media and Sport select committee session on children's access to play.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250903103000 +0000" stop="20250903110000 +0000">
@@ -6617,23 +6637,8 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250903113500 +0000" stop="20250903123000 +0000">
-		<title>House of Commons - 03/09/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250903123000 +0000" stop="20250903133000 +0000">
-		<title>House of Commons - 03/09/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250903133000 +0000" stop="20250903143000 +0000">
-		<title>House of Commons - 03/09/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250903143000 +0000" stop="20250903183000 +0000">
-		<title>House of Commons - 03/09/2025 Part 4</title>
+	<programme channel="bbcparliament" start="20250903113500 +0000" stop="20250903183000 +0000">
+		<title>House of Commons - 03/09/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6652,33 +6657,8 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250903222000 +0000" stop="20250903232000 +0000">
-		<title>House of Lords - 03/09/2025 Part 1</title>
-		<desc>Business in the House of Lords on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250903232000 +0000" stop="20250904002000 +0000">
-		<title>House of Lords - 03/09/2025 Part 2</title>
-		<desc>Business in the House of Lords on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250904002000 +0000" stop="20250904012000 +0000">
-		<title>House of Lords - 03/09/2025 Part 3</title>
-		<desc>Business in the House of Lords on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250904012000 +0000" stop="20250904022000 +0000">
-		<title>House of Lords - 03/09/2025 Part 4</title>
-		<desc>Business in the House of Lords on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250904022000 +0000" stop="20250904032000 +0000">
-		<title>House of Lords - 03/09/2025 Part 5</title>
-		<desc>Business in the House of Lords on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250904032000 +0000" stop="20250904050000 +0000">
-		<title>House of Lords - 03/09/2025 Part 6</title>
+	<programme channel="bbcparliament" start="20250903222000 +0000" stop="20250904050000 +0000">
+		<title>House of Lords - 03/09/2025</title>
 		<desc>Business in the House of Lords on Wednesday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
