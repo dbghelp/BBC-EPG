@@ -582,7 +582,7 @@
 	<programme channel="bbcone" start="20250907131500 +0000" stop="20250907135000 +0000">
 		<title>Songs of Praise - Faith in the Countryside</title>
 		<desc>The Rev Kate Bottley is in Lincolnshire to meet those bringing rural communities together.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07zq95v.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0ldr0.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250907135000 +0000" stop="20250907142000 +0000">
 		<title>Escape to the Country - Series 22: 38. Welsh Borders</title>
@@ -623,12 +623,12 @@
 	<programme channel="bbcone" start="20250907181000 +0000" stop="20250907191000 +0000">
 		<title>Antiques Roadshow - Series 48: 5. Lister Park and Cartwright Hall 1</title>
 		<desc>The roadshow visits Lister Park and Cartwright Hall in Bradford.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d5wrj3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0lfnn.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250907191000 +0000" stop="20250907201000 +0000">
 		<title>Freddie Flintoff's Field of Dreams - Ultimate Test: Episode 1</title>
 		<desc>Three years after transforming the lives of a group of lads with cricket, Freddie returns.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0jf2l.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0lj96.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250907201000 +0000" stop="20250907210000 +0000">
 		<title>King &amp; Conqueror - Series 1: 4. So Be It</title>
@@ -1270,7 +1270,7 @@
 	<programme channel="bbctwo" start="20250907230500 +0000" stop="20250907235000 +0000">
 		<title>ODI Cricket - 2025: England v South Africa: Third ODI Highlights</title>
 		<desc>Highlights from the third ODI between England and South Africa.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fwxlqz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lzl4s0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250907235000 +0000" stop="20250908005000 +0000">
 		<title>Parenthood - Series 1: 5. Jungles</title>
@@ -1319,7 +1319,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250903185500 +0000" stop="20250903190000 +0000">
 		<title>The Catch Up - 03/09/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Jack Surfleet.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250903190000 +0000" stop="20250903200000 +0000">
@@ -5082,9 +5082,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01gzzg4.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250903220000 +0000" stop="20250903223000 +0000">
-		<title>Scotcast - 03/09/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - The Sandie Peggie Tribunal</title>
+		<desc>Inside the employment tribunal involving nurse Sandie Peggie, Dr Beth Upton and NHS Fife. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0mhxy.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250903223000 +0000" stop="20250903230000 +0000">
 		<title>The Scandals That Shocked Scotland - Series 1: Episode 3</title>
@@ -5416,17 +5416,7 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250903150000 +0000" stop="20250903153000 +0000">
-		<title>Verified Live - 03/09/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250903153000 +0000" stop="20250903154500 +0000">
-		<title>Business Today - 03/09/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250903154500 +0000" stop="20250903160000 +0000">
+	<programme channel="bbcnews" start="20250903150000 +0000" stop="20250903160000 +0000">
 		<title>Verified Live - 03/09/2025</title>
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
@@ -6444,12 +6434,12 @@
 	<programme channel="bbcparliament" start="20250903023000 +0000" stop="20250903051500 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Morning Session</title>
 		<desc>A debate about the Children's Wellbeing and Schools Bill at committee stage.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0mhrd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250903051500 +0000" stop="20250903060000 +0000">
 		<title>Lords Questions - 02/09/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 2 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0mmzr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250903060000 +0000" stop="20250903071000 +0000">
 		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
@@ -6469,24 +6459,39 @@
 	<programme channel="bbcparliament" start="20250903083000 +0000" stop="20250903103000 +0000">
 		<title>Select Committees - Culture, Media and Sport Select Committee on Children's Play</title>
 		<desc>The Culture, Media and Sport select committee session on children's access to play.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0h2m1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250903103000 +0000" stop="20250903110000 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0m8xb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250903110000 +0000" stop="20250903113500 +0000">
 		<title>Prime Minister's Questions - 03/09/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0klth.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250903113500 +0000" stop="20250903183000 +0000">
-		<title>House of Commons - 03/09/2025</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 3 September.</desc>
+	<programme channel="bbcparliament" start="20250903113500 +0000" stop="20250903115000 +0000">
+		<title>House of Commons - Methanol Poisoning Travel Advice Ten Minute Rule Bill</title>
+		<desc>Introduction of a ten minute rule bill on travel advice over methanol poisoning.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0mnjx.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250903115000 +0000" stop="20250903143000 +0000">
+		<title>House of Commons - Property Taxes Debate</title>
+		<desc>An opposition day debate on property taxes, on Wednesday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250903183000 +0000" stop="20250903210000 +0000">
+	<programme channel="bbcparliament" start="20250903143000 +0000" stop="20250903181500 +0000">
+		<title>House of Commons - Hospitality Sector Debate</title>
+		<desc>Coverage of an pposition day debate on the hospitality sector, on Wednesday 3 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250903181500 +0000" stop="20250903184500 +0000">
+		<title>House of Commons - 03/09/2025</title>
+		<desc>Coverage of an adjournment debate on diabetes in sport, on Wednesday 3 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250903184500 +0000" stop="20250903210000 +0000">
 		<title>House of Lords - 03/09/2025</title>
 		<desc>Coverage of proceedings in the House of Lords on Wednesday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
@@ -6501,20 +6506,40 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250903222000 +0000" stop="20250904050000 +0000">
-		<title>House of Lords - 03/09/2025</title>
-		<desc>Business in the House of Lords on Wednesday 3 September.</desc>
+	<programme channel="bbcparliament" start="20250903222000 +0000" stop="20250903232000 +0000">
+		<title>House of Lords - Employment Rights Bill</title>
+		<desc>The third reading debate on the Employment Rights Bill, on Wednesday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250904050000 +0000" stop="20250904053000 +0000">
-		<title>House of Commons - Women and Equalities Questions</title>
-		<desc>Coverage of questions to Bridget Phillipson on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250903232000 +0000" stop="20250904012000 +0000">
+		<title>House of Lords - Border Security, Asylum and Immigration Bill, Part 1</title>
+		<desc>The fourth day of the committee stage of the Border Security, Asylum and Immigration Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250904053000 +0000" stop="20250904060500 +0000">
-		<title>Prime Minister's Questions - 03/09/2025</title>
-		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0klth.jpg" />
+	<programme channel="bbcparliament" start="20250904012000 +0000" stop="20250904022000 +0000">
+		<title>House of Lords - Border Security, Asylum and Immigration Bill, Part 2</title>
+		<desc>The fourth day of the committee stage of the Border Security, Asylum and Immigration Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250904022000 +0000" stop="20250904032000 +0000">
+		<title>House of Lords - Border Security, Asylum and Immigration Bill, Part 3</title>
+		<desc>The fourth day of the committee stage of the Border Security, Asylum and Immigration Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250904032000 +0000" stop="20250904042000 +0000">
+		<title>House of Lords - Border Security, Asylum and Immigration Bill, Part 4</title>
+		<desc>The fourth day of the committee stage of the Border Security, Asylum and Immigration Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250904042000 +0000" stop="20250904060000 +0000">
+		<title>House of Lords - Prostate Cancer Debate</title>
+		<desc>A short debate in the House of Lords on prostate cancer, on Wednesday 3 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250904060000 +0000" stop="20250904060500 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250904060500 +0000" stop="20250904083000 +0000">
 		<title>House of Commons - 03/09/2025</title>
@@ -6724,7 +6749,7 @@
 	<programme channel="bbcparliament" start="20250907023000 +0000" stop="20250907030000 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0m8xb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250907030000 +0000" stop="20250907034000 +0000">
 		<title>House of Commons - Environment, Food and Rural Affairs Questions</title>
@@ -6809,7 +6834,7 @@
 	<programme channel="bbcparliament" start="20250908011000 +0000" stop="20250908014000 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Wednesday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0m8xb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250908014000 +0000" stop="20250908024000 +0000">
 		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
@@ -8196,32 +8221,32 @@
 		<desc>Dewch ar antur gyda ni i gwrdd ag anifeiliaid bach y byd. Yn y rhaglen hon cawn ddod i ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250906053000 +0000" stop="20250906054500 +0000">
+	<programme channel="s4c" start="20250906053000 +0000" stop="20250906054000 +0000">
 		<title>Pentre Papur Pop - Raswyr Lawr Allt</title>
 		<desc>Ar yr antur popwych heddiw mae'n ddiwrnod rasio yn Pentre Papur Pop ac mae Pip wedi dew...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250906054500 +0000" stop="20250906060000 +0000">
+	<programme channel="s4c" start="20250906054000 +0000" stop="20250906060000 +0000">
 		<title>Help Llaw - Cyfres 1: Cadi - Y Clwb Gymnasteg</title>
 		<desc>Mae'r arwydd yn y clwb gymnasteg wedi torri, ac mae angen i Harri fynd draw i helpu Cad...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdcx91.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250906060000 +0000" stop="20250906061000 +0000">
+	<programme channel="s4c" start="20250906060000 +0000" stop="20250906060500 +0000">
 		<title>Bendibwmbwls - Cyfres 2: Ysgol Groes-Wen</title>
 		<desc>Heddiw, bydd Ben Dant yn ymuno â disgyblion Ysgol Groes-wen, Caerdydd, i greu trysor pe...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ljkp62.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250906061000 +0000" stop="20250906062500 +0000">
+	<programme channel="s4c" start="20250906060500 +0000" stop="20250906062000 +0000">
 		<title>Guto Gwningen - Cyfres 2: Hanes y Caetsh Dan Glo</title>
 		<desc>Anturiaethau Guto Gwningen a'i ffrindiau. The animated tales of a little bunny and his ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07txhxv.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250906062500 +0000" stop="20250906063500 +0000">
+	<programme channel="s4c" start="20250906062000 +0000" stop="20250906063000 +0000">
 		<title>Annibendod - Cyfres 1: Bananas</title>
 		<desc>Sut mae Anni'n bwriadu cael gwared ar y bananas ych a fi mae Mam-Gu wedi roi yn ei bocs...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5s4wb.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250906063500 +0000" stop="20250906064500 +0000">
+	<programme channel="s4c" start="20250906063000 +0000" stop="20250906064500 +0000">
 		<title>Joni Jet - Cyfres 1: Sut I Fod Yn Arwr</title>
 		<desc>Mae Joni wrth ei fodd â'i rôl fel arwr. Ond rhaid cofio beth mae'n olygu i fod yn arwr ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
@@ -8236,27 +8261,27 @@
 		<desc>Beth yw'r broblem y tro hwn? Cariad un-ochrog! What's the problem this time? Unrequited...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06gr1k4.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250906070500 +0000" stop="20250906072000 +0000">
+	<programme channel="s4c" start="20250906070500 +0000" stop="20250906071500 +0000">
 		<title>Cath-od - Cyfres 1: Siencyn 5</title>
 		<desc>Mae Crinc yn cyfarfod cath o'r enw Siencyn ac yn dod i ddeall y dywediad 'fod gan gath ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06jrmf3.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250906072000 +0000" stop="20250906074000 +0000">
+	<programme channel="s4c" start="20250906071500 +0000" stop="20250906074000 +0000">
 		<title>Dyffryn Mwmin - Ynys Mwnintado</title>
 		<desc>Mae Mwmintada yn ysu i fod yn arweinydd i'w deulu eto. Mwmintada's efforts to be the ke...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fvlf5w.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250906074000 +0000" stop="20250906080500 +0000">
+	<programme channel="s4c" start="20250906074000 +0000" stop="20250906080000 +0000">
 		<title>Efaciwîs - Pennod 1</title>
 		<desc>Mae 8 plentyn o Loegr yn teithio nôl i gyfnod yr Ail Ryfel Byd, i fyw yn Llanuwchlyn gy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bpyfzy.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250906080500 +0000" stop="20250906082000 +0000">
+	<programme channel="s4c" start="20250906080000 +0000" stop="20250906081500 +0000">
 		<title>Chwarter Call - Cyfres 5: Pennod 8</title>
 		<desc>Ymunwch â Cadi, Luke, Jed a Miriam yn y gyfres gomedi hon. Digonedd o hwyl a chwerthin ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gndt2m.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250906082000 +0000" stop="20250906083000 +0000">
+	<programme channel="s4c" start="20250906081500 +0000" stop="20250906083000 +0000">
 		<title>Y Smyrffs - Chwithig! Na!</title>
 		<desc>Ar ôl dal Chwithig ma Craca Hyll yn ei demptio i ddweud lle ma Pentre Smyrff gyda addew...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lfg45b.jpg" />
@@ -8484,7 +8509,7 @@
 	<programme channel="s4c" start="20250907161500 +0000" stop="20250907184500 +0000">
 		<title>Sgorio - Tymor 2025/26: Y Seintiau Newydd v Caerdydd</title>
 		<desc>Gêm fyw o benwythnos agoriadol Adran Premier Genero: Y Seintiau Newydd v Caerdydd. C/G ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwh03r.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0m2xz.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250907184500 +0000" stop="20250907190000 +0000">
 		<title>Newyddion a Chwaraeon - Sun, 07 Sep 2025</title>
