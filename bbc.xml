@@ -177,7 +177,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250907080000 +0000" stop="20250907090000 +0000">
 		<title>Sunday with Laura Kuenssberg - 07/09/2025</title>
-		<desc>Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+		<desc>Laura Kuenssberg talks to John Healey, Kemi Badenoch, Nigel Farage and Mike Huckabee.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250907090000 +0000" stop="20250907130000 +0000">
@@ -782,12 +782,12 @@
 		<desc>Live coverage of Canada v Scotland from the 2025 Women's Rugby World Cup.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lzmj1s.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250906131500 +0000" stop="20250906153500 +0000">
+	<programme channel="bbctwo" start="20250906131500 +0000" stop="20250906154000 +0000">
 		<title>Women's Rugby World Cup 2025 - Group Stage: Wales v Fiji</title>
 		<desc>Live coverage of Wales v Fiji from the 2025 Women's Rugby World Cup.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lzmj3n.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250906153500 +0000" stop="20250906182000 +0000">
+	<programme channel="bbctwo" start="20250906154000 +0000" stop="20250906182000 +0000">
 		<title>Women's Rugby World Cup 2025 - Group Stage: England v Australia</title>
 		<desc>Live coverage of England v Australia from the 2025 Women's Rugby World Cup.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lzmj85.jpg" />
@@ -5533,12 +5533,7 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250906143000 +0000" stop="20250906150000 +0000">
-		<title>BBC News - 06/09/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250906150000 +0000" stop="20250906153000 +0000">
+	<programme channel="bbcnews" start="20250906143000 +0000" stop="20250906153000 +0000">
 		<title>BBC News - 06/09/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
@@ -5670,7 +5665,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250907080000 +0000" stop="20250907090000 +0000">
 		<title>Sunday with Laura Kuenssberg - 07/09/2025</title>
-		<desc>Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+		<desc>Laura Kuenssberg talks to John Healey, Kemi Badenoch, Nigel Farage and Mike Huckabee.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250907090000 +0000" stop="20250907093000 +0000">
