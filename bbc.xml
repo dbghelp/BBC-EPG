@@ -4829,12 +4829,12 @@
 		<desc>When Peter, Lily and Benjamin spill Mittens's milk, they launch a mission to replace it.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0375zq3.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20250911151000 +0000" stop="20250911152000 +0000">
+	<programme channel="cbeebies" start="20250911151000 +0000" stop="20250911152500 +0000">
 		<title>Time for School - Series 4: 2. School Rules</title>
 		<desc>The children create a list of class rules to follow to all get along at school.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jg3sp2.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20250911152000 +0000" stop="20250911153500 +0000">
+	<programme channel="cbeebies" start="20250911152500 +0000" stop="20250911153500 +0000">
 		<title>Mojo Swoptops - Series 1: 18. Mojo Drop the Ball</title>
 		<desc>Mojo and Bo’s wrecking ball might destroy a lot more than it’s supposed to!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llm5cf.jpg" />
@@ -5680,9 +5680,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250908170000 +0000" stop="20250908173000 +0000">
-		<title>BBC News at Six - 08/09/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
+		<title>The World Today with Maryam Moshiri - 08/09/2025</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250908173000 +0000" stop="20250908180000 +0000">
 		<title>The World Today with Maryam Moshiri - 08/09/2025</title>
@@ -6762,7 +6762,7 @@
 	<programme channel="bbcparliament" start="20250908100500 +0000" stop="20250908113000 +0000">
 		<title>Scottish Parliament - Water Industry Debate</title>
 		<desc>The debate on the 2022/3 and 2023/4 audits of the Water Industry Commission for Scotland.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1ljrw.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250908113000 +0000" stop="20250908130000 +0000">
 		<title>Select Committees - Lords Constitution Select Committee on the Rule of Law</title>
@@ -6772,17 +6772,17 @@
 	<programme channel="bbcparliament" start="20250908130000 +0000" stop="20250908133000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1lk7j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250908133000 +0000" stop="20250908143000 +0000">
 		<title>House of Commons - Defence Questions</title>
 		<desc>Coverage of questions to John Healey on Monday 8 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1ll4z.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250908143000 +0000" stop="20250908151500 +0000">
 		<title>House of Commons - Palestine Action and Public Protest Urgent Question</title>
 		<desc>Urgent question on the proscription of Palestine Action and public protest.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1lqth.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250908151500 +0000" stop="20250908160000 +0000">
 		<title>House of Commons - Omar al-Bayoumi Arrest Urgent Question</title>
@@ -6802,7 +6802,7 @@
 	<programme channel="bbcparliament" start="20250908213000 +0000" stop="20250908221500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1lk7j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250908221500 +0000" stop="20250908230000 +0000">
 		<title>Lords Questions - 08/09/2025</title>
@@ -6829,15 +6829,25 @@
 		<desc>The fifth day of the committee stage of the Border Security, Asylum and Immigration Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250909060000 +0000" stop="20250909070000 +0000">
+	<programme channel="bbcparliament" start="20250909060000 +0000" stop="20250909071000 +0000">
 		<title>House of Commons - Defence Questions</title>
 		<desc>Coverage of questions to John Healey on Monday 8 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1ll4z.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250909071000 +0000" stop="20250909082000 +0000">
+		<title>House of Commons - Palestine Action and Public Protest Urgent Question</title>
+		<desc>Urgent question on the proscription of Palestine Action and public protest.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1lqth.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250909082000 +0000" stop="20250909084000 +0000">
+		<title>House of Commons - Omar al-Bayoumi Arrest Urgent Question</title>
+		<desc>Urgent question on the 2001 arrest of Saudi national Omar al-Bayoumi, on 8 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250909070000 +0000" stop="20250909090000 +0000">
-		<title>House of Commons - 08/09/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 8 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250909084000 +0000" stop="20250909090000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250909090000 +0000" stop="20250909103000 +0000">
 		<title>Select Committees - Culture, Media and Sport Committee on the BBC</title>
@@ -7002,7 +7012,7 @@
 	<programme channel="bbcparliament" start="20250913020000 +0000" stop="20250913024500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1lk7j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250913024500 +0000" stop="20250913050000 +0000">
 		<title>Northern Ireland Assembly - 12/09/2025</title>
@@ -8971,7 +8981,7 @@
 	</programme>
 	<programme channel="s4c" start="20250912183000 +0000" stop="20250912205000 +0000">
 		<title>Clwb Rygbi - Cyfres 2025: Casnewydd v Llanymddyfri</title>
-		<desc>Gêm fyw Super Rygbi Cymru rhwng Casnewydd a Llanymddyfri. Stadiwm Casnewydd. C/G 19.30....</desc>
+		<desc>Gêm fyw Super Rygbi Cymru rhwng Casnewydd a Llanymddyfri. Stadiwm Casnewydd. C/G 19.45....</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jrtg8q.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250912205000 +0000" stop="20250912215500 +0000">
