@@ -799,7 +799,7 @@
 	<programme channel="bbctwo" start="20250910220000 +0000" stop="20250910223000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 10/09/2025</title>
 		<desc>Is the latest political crisis in France a sign of long-term decline?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2068k.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250910223000 +0000" stop="20250910230000 +0000">
 		<title>T20 Cricket - 2025: England v South Africa: First T20 Highlights</title>
@@ -1058,7 +1058,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250912190000 +0000" stop="20250912200000 +0000">
 		<title>Gardeners' World - 2025: Episode 24</title>
-		<desc>Monty harvests sweetcorn, takes stock of his potted plants and prunes raspberries.</desc>
+		<desc>Monty Don harvests sweetcorn, takes stock of his potted plants and prunes raspberries.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1j33l.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250912200000 +0000" stop="20250912205000 +0000">
@@ -1158,7 +1158,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250913073000 +0000" stop="20250913083000 +0000">
 		<title>Gardeners' World - 2025: Episode 24</title>
-		<desc>Monty harvests sweetcorn, takes stock of his potted plants and prunes raspberries.</desc>
+		<desc>Monty Don harvests sweetcorn, takes stock of his potted plants and prunes raspberries.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1j33l.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250913083000 +0000" stop="20250913104500 +0000">
@@ -6191,7 +6191,7 @@ concludes.</desc>
 	<programme channel="bbcnews" start="20250914013000 +0000" stop="20250914020000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 10/09/2025</title>
 		<desc>Is the latest political crisis in France a sign of long-term decline?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2068k.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250914020000 +0000" stop="20250914023000 +0000">
 		<title>BBC News - 14/09/2025</title>
@@ -6543,10 +6543,20 @@ concludes.</desc>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1xb28.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250911070500 +0000" stop="20250911083000 +0000">
-		<title>House of Commons - 10/09/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250911070500 +0000" stop="20250911080500 +0000">
+		<title>House of Commons - Israel's Strike in Qatar Urgent Question</title>
+		<desc>Urgent question on Israel's strike in Qatar, on Wednesday 10 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1zkzc.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250911080500 +0000" stop="20250911082000 +0000">
+		<title>Ten Minute Rule Bill - Screening and Teacher Training for Neurodivergence Bill</title>
+		<desc>The introduction of a bill on screening and teacher training for neurodivergence.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250911082000 +0000" stop="20250911083000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250911083000 +0000" stop="20250911093000 +0000">
 		<title>House of Commons - Transport Questions</title>
