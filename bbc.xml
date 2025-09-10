@@ -464,7 +464,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250913104500 +0000" stop="20250913134500 +0000">
-		<title>World Athletics Championships - Tokyo 2025: Day 1, Part 3</title>
+		<title>World Athletics Championships - Tokyo 2025: Day 1: Women's 10,000m Final, Mixed 4x400m Relay Final</title>
 		<desc>Day 1 concludes with three finals, including the men's shot put and the women's 10,000m.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m10z0q.jpg" />
 	</programme>
@@ -605,7 +605,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250914111500 +0000" stop="20250914134500 +0000">
-		<title>World Athletics Championships - Tokyo 2025: Day 2, Part 3</title>
+		<title>World Athletics Championships - Tokyo 2025: Day 2: 100m Finals, Men's 10,000m Final</title>
 		<desc>Coverage of day 2 concludes with the finals of the men's and women's 100m.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m10z0q.jpg" />
 	</programme>
@@ -677,7 +677,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m111x6.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250914230500 +0000" stop="20250915030500 +0000">
-		<title>World Athletics Championships - Tokyo 2025: Day 3, Part 1</title>
+		<title>World Athletics Championships - Tokyo 2025: Day 3: Men's Marathon</title>
 		<desc>Great Britain's Emile Cairess aims for a place on the podium in the men's marathon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m10z0q.jpg" />
 	</programme>
@@ -1097,7 +1097,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08hvlpp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250912225500 +0000" stop="20250913031000 +0000">
-		<title>World Athletics Championships - Tokyo 2025: Day 1, Part 1</title>
+		<title>World Athletics Championships - Tokyo 2025: Day 1: 35km Race Walks</title>
 		<desc>The 20th edition of the World Athletics Championships gets underway in Tokyo.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m10z0q.jpg" />
 	</programme>
@@ -1162,7 +1162,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1j33l.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250913083000 +0000" stop="20250913104500 +0000">
-		<title>World Athletics Championships - Tokyo 2025: Day 1, Part 2</title>
+		<title>World Athletics Championships - Tokyo 2025: Day 1: Women's 100m Heats, Women's Long Jump</title>
 		<desc>The first medals on the track and in the field are handed out as day 1
 concludes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m10z0q.jpg" />
@@ -1208,7 +1208,7 @@ concludes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pzby.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250913225500 +0000" stop="20250914030000 +0000">
-		<title>World Athletics Championships - Tokyo 2025: Day 2, Part 1</title>
+		<title>World Athletics Championships - Tokyo 2025: Day 2: Women's Marathon, Men’s 1500m Heats</title>
 		<desc>Coverage from the second day of the 2025 World Athletics Championships in Tokyo.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m10z0q.jpg" />
 	</programme>
@@ -1243,7 +1243,7 @@ concludes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f6dc9t.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250914090000 +0000" stop="20250914111500 +0000">
-		<title>World Athletics Championships - Tokyo 2025: Day 2, Part 2</title>
+		<title>World Athletics Championships - Tokyo 2025: Day 2: 400m Heats, Women's Discus Final</title>
 		<desc>Five world champions are crowned on the second day of the World Athletics Championships.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m10z0q.jpg" />
 	</programme>
@@ -5089,9 +5089,9 @@ concludes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01h037r.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250910220000 +0000" stop="20250910223000 +0000">
-		<title>Scotcast - 10/09/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Eljamel inquiry</title>
+		<desc>A public inquiry into surgeon Sam Eljamel begins. Martin Geissler and Laura Miller discuss</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1zq4d.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250910223000 +0000" stop="20250910230000 +0000">
 		<title>The Scandals That Shocked Scotland - Series 1: Episode 4</title>
@@ -5970,7 +5970,7 @@ concludes.</desc>
 	</programme>
 	<programme channel="bbcnews" start="20250912233000 +0000" stop="20250913000000 +0000">
 		<title>Talking Business - 12/09/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>How is AI reshaping how we search, shop and do business after Google's 20-year reign?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250913000000 +0000" stop="20250913003000 +0000">
@@ -6050,7 +6050,7 @@ concludes.</desc>
 	</programme>
 	<programme channel="bbcnews" start="20250913103000 +0000" stop="20250913110000 +0000">
 		<title>Talking Business - 12/09/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>How is AI reshaping how we search, shop and do business after Google's 20-year reign?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250913110000 +0000" stop="20250913113000 +0000">
@@ -6461,12 +6461,12 @@ concludes.</desc>
 	<programme channel="bbcparliament" start="20250910084500 +0000" stop="20250910103000 +0000">
 		<title>Select Committees - Culture, Media and Sport Committee with Lisa Nandy</title>
 		<desc>The Culture, Media and Sport committee session with the secretary of state Lisa Nandy.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1zndg.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250910103000 +0000" stop="20250910110000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
 		<desc>Coverage of questions to Liz Kendall on Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1yyrt.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250910110000 +0000" stop="20250910113500 +0000">
 		<title>Prime Minister's Questions - 10/09/2025</title>
@@ -6476,12 +6476,12 @@ concludes.</desc>
 	<programme channel="bbcparliament" start="20250910113500 +0000" stop="20250910122000 +0000">
 		<title>House of Commons - Israel's Strike in Qatar Urgent Question</title>
 		<desc>Urgent question on Israel's strike in Qatar, on Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1zkzc.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250910122000 +0000" stop="20250910130500 +0000">
 		<title>House of Commons - Polish Airspace and Russian Drones Urgent Question</title>
 		<desc>Coverage of the urgent question on the violation of Polish airspace by Russian drones.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1zlpp.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250910130500 +0000" stop="20250910183000 +0000">
 		<title>House of Commons - 10/09/2025</title>
@@ -6503,22 +6503,47 @@ concludes.</desc>
 		<desc>Questions in the House of Lords to government ministers on Wednesday 10 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250910222000 +0000" stop="20250911050000 +0000">
-		<title>House of Lords - 10/09/2025</title>
-		<desc>Business in the House of Lords on Wednesday 10 September.</desc>
+	<programme channel="bbcparliament" start="20250910222000 +0000" stop="20250910223000 +0000">
+		<title>House of Lords - Cyber-Attack on Jaguar Land Rover</title>
+		<desc>The statement on the cyber-attack on Jaguar Land Rover, on Wednesday 10 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250911050000 +0000" stop="20250911053000 +0000">
+	<programme channel="bbcparliament" start="20250910223000 +0000" stop="20250911003000 +0000">
+		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 1</title>
+		<desc>The tenth day of the committee stage of the Children's Wellbeing and Schools Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250911003000 +0000" stop="20250911023000 +0000">
+		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 2</title>
+		<desc>The tenth day of the committee stage of the Children's Wellbeing and Schools Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250911023000 +0000" stop="20250911034000 +0000">
+		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 3</title>
+		<desc>The tenth day of the committee stage of the Children's Wellbeing and Schools Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250911034000 +0000" stop="20250911045000 +0000">
+		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 4</title>
+		<desc>The tenth day of the committee stage of the Children's Wellbeing and Schools Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250911045000 +0000" stop="20250911060000 +0000">
+		<title>House of Lords - Defence Industrial Strategy Statement</title>
+		<desc>The statement by defence minister Lord Coaker on the defence industrial strategy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250911060000 +0000" stop="20250911063000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
 		<desc>Coverage of questions to Liz Kendall on Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1yyrt.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250911053000 +0000" stop="20250911060500 +0000">
+	<programme channel="bbcparliament" start="20250911063000 +0000" stop="20250911070500 +0000">
 		<title>Prime Minister's Questions - 10/09/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1xb28.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250911060500 +0000" stop="20250911083000 +0000">
+	<programme channel="bbcparliament" start="20250911070500 +0000" stop="20250911083000 +0000">
 		<title>House of Commons - 10/09/2025</title>
 		<desc>Highlights of proceedings in the House of Commons from Wednesday 10 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6671,7 +6696,7 @@ concludes.</desc>
 	<programme channel="bbcparliament" start="20250914023000 +0000" stop="20250914030000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
 		<desc>Coverage of questions to Liz Kendall on Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1yyrt.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250914030000 +0000" stop="20250914040000 +0000">
 		<title>House of Commons - Transport Questions</title>
@@ -6716,7 +6741,7 @@ concludes.</desc>
 	<programme channel="bbcparliament" start="20250914145500 +0000" stop="20250914153000 +0000">
 		<title>Prime Minister's Questions - 10/09/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1xb28.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250914153000 +0000" stop="20250914161500 +0000">
 		<title>Scottish First Minister's Questions - 11/09/2025</title>
@@ -6746,7 +6771,7 @@ concludes.</desc>
 	<programme channel="bbcparliament" start="20250915011000 +0000" stop="20250915014000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
 		<desc>Coverage of questions to Liz Kendall on Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1yyrt.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250915014000 +0000" stop="20250915024000 +0000">
 		<title>House of Commons - Treasury Questions</title>
@@ -6761,7 +6786,7 @@ concludes.</desc>
 	<programme channel="bbcparliament" start="20250915034000 +0000" stop="20250915041500 +0000">
 		<title>Prime Minister's Questions - 10/09/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1xb28.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250915041500 +0000" stop="20250915050000 +0000">
 		<title>Scottish First Minister's Questions - 11/09/2025</title>
@@ -8151,7 +8176,7 @@ concludes.</desc>
 	<programme channel="s4c" start="20250913064500 +0000" stop="20250913070000 +0000">
 		<title>Parc Glan Gwil - Pennod 3</title>
 		<desc>Mae Cadi Ceffylau am roi gwersi marchogaeth i'r gwersyllwyr - ond mae Syr Gwil ofn ceff...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lt9p3v.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1ys07.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250913070000 +0000" stop="20250913070500 +0000">
 		<title>Larfa - Cyfres 3: Cariad un ochrog 2</title>
@@ -8261,7 +8286,7 @@ concludes.</desc>
 	<programme channel="s4c" start="20250913200000 +0000" stop="20250913223000 +0000">
 		<title>Bocsio - Cyfres 2025: Pennod 2</title>
 		<desc>Gornest Caerdydd - Nathan Howells (Casnewydd) sy'n wynebu Conor McIntosh (Port Talbot) ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1wyrw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1yfmt.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250913223000 +0000" stop="20250913233500 +0000">
 		<title>Prosiect Pum Mil - Cyfres 5: Penisarwaun</title>
