@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250910083000 +0000" stop="20250910094500 +0000">
 		<title>Morning Live - Series 7: 10/09/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Ade Adepitan discusses a £20k scam that targeted his mother.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250910094500 +0000" stop="20250910101500 +0000">
@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250910180000 +0000" stop="20250910183000 +0000">
 		<title>The One Show - 10/09/2025</title>
-		<desc>Clara Amfo and Vernon Kay bring you the stories that matter from across the country.</desc>
+		<desc>Margot Robbie, Colin Farrell and Brendan Gleeson chat to Clara Amfo and Angellica Bell.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250910183000 +0000" stop="20250910190000 +0000">
@@ -718,7 +718,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250910101500 +0000" stop="20250910120000 +0000">
 		<title>Politics Live - 10/09/2025</title>
-		<desc>The big political issues of the day.</desc>
+		<desc>Peter Mandelson and Jeffrey Epstein, Palestine Action, and ID cards.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lgjnh7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250910120000 +0000" stop="20250910124500 +0000">
@@ -798,7 +798,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250910220000 +0000" stop="20250910223000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 10/09/2025</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>Is the latest political crisis in France a sign of long-term decline?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250910223000 +0000" stop="20250910230000 +0000">
@@ -1327,7 +1327,7 @@ concludes.</desc>
 		<desc>Michael Portillo embarks on a journey across Essex.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5syrr.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250915033000 +0000" stop="20250915051500 +0000">
+	<programme channel="bbctwo" start="20250915033000 +0000" stop="20250915052000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -1354,7 +1354,7 @@ concludes.</desc>
 	</programme>
 	<programme channel="bbcthree" start="20250910185500 +0000" stop="20250910190000 +0000">
 		<title>The Catch Up - 10/09/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Julia Belle.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250910190000 +0000" stop="20250910200000 +0000">
@@ -4447,7 +4447,7 @@ concludes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05k9ftt.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250913073000 +0000" stop="20250913073500 +0000">
-		<title>Activate with Joe Wicks - Series 1: 3. Treetops</title>
+		<title>Activate with Joe Wicks - Series 1: Treetops</title>
 		<desc>Oi, oi! It's my Treetop Challenge! Can you reach the top?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lzjsfm.jpg" />
 	</programme>
@@ -4768,7 +4768,7 @@ concludes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05k9fx9.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20250914073000 +0000" stop="20250914073500 +0000">
-		<title>Activate with Joe Wicks - Series 1: 4. Gamer</title>
+		<title>Activate with Joe Wicks - Series 1: Gamer</title>
 		<desc>Can you complete every level of my Gamer Challenge?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lzjsd0.jpg" />
 	</programme>
@@ -6190,7 +6190,7 @@ concludes.</desc>
 	</programme>
 	<programme channel="bbcnews" start="20250914013000 +0000" stop="20250914020000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 10/09/2025</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>Is the latest political crisis in France a sign of long-term decline?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250914020000 +0000" stop="20250914023000 +0000">
@@ -6471,9 +6471,19 @@ concludes.</desc>
 	<programme channel="bbcparliament" start="20250910110000 +0000" stop="20250910113500 +0000">
 		<title>Prime Minister's Questions - 10/09/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1xb28.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250910113500 +0000" stop="20250910183000 +0000">
+	<programme channel="bbcparliament" start="20250910113500 +0000" stop="20250910122000 +0000">
+		<title>House of Commons - Israel's Strike in Qatar Urgent Question</title>
+		<desc>Urgent question on Israel's strike in Qatar, on Wednesday 10 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250910122000 +0000" stop="20250910130500 +0000">
+		<title>House of Commons - Polish Airspace and Russian Drones Urgent Question</title>
+		<desc>Coverage of the urgent question on the violation of Polish airspace by Russian drones.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250910130500 +0000" stop="20250910183000 +0000">
 		<title>House of Commons - 10/09/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 10 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6486,7 +6496,7 @@ concludes.</desc>
 	<programme channel="bbcparliament" start="20250910210000 +0000" stop="20250910213500 +0000">
 		<title>Prime Minister's Questions - 10/09/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1xb28.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250910213500 +0000" stop="20250910222000 +0000">
 		<title>Lords Questions - 10/09/2025</title>
@@ -6506,7 +6516,7 @@ concludes.</desc>
 	<programme channel="bbcparliament" start="20250911053000 +0000" stop="20250911060500 +0000">
 		<title>Prime Minister's Questions - 10/09/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1xb28.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250911060500 +0000" stop="20250911083000 +0000">
 		<title>House of Commons - 10/09/2025</title>
@@ -6596,7 +6606,7 @@ concludes.</desc>
 	<programme channel="bbcparliament" start="20250913100000 +0000" stop="20250913103500 +0000">
 		<title>Prime Minister's Questions - 10/09/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1xb28.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250913103500 +0000" stop="20250913112000 +0000">
 		<title>Scottish First Minister's Questions - 11/09/2025</title>
@@ -6641,7 +6651,7 @@ concludes.</desc>
 	<programme channel="bbcparliament" start="20250913231000 +0000" stop="20250913234500 +0000">
 		<title>Prime Minister's Questions - 10/09/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1xb28.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250913234500 +0000" stop="20250914003000 +0000">
 		<title>Scottish First Minister's Questions - 11/09/2025</title>
@@ -7406,7 +7416,7 @@ concludes.</desc>
 	<programme channel="s4c" start="20250910123000 +0000" stop="20250910130000 +0000">
 		<title>Garddio a Mwy - Cyfres 2025: Pennod 18</title>
 		<desc>Mae Adam yn ail ymweld â gardd gymunedol Tabor, tra bod Sioned yn bod yn greadigol hefo...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1vh5f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1wyzj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250910130000 +0000" stop="20250910130500 +0000">
 		<title>Newyddion S4C - Wed, 10 Sep 2025 14:00</title>
@@ -7415,7 +7425,7 @@ concludes.</desc>
 	</programme>
 	<programme channel="s4c" start="20250910130500 +0000" stop="20250910140000 +0000">
 		<title>Prynhawn Da - Wed, 10 Sep 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mae Llyr Gwyn Lewis yma gyda'r Clwb Llyfrau, mae Angharad Colwill yn rhannu tips steili...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250910140000 +0000" stop="20250910140500 +0000">
@@ -7485,7 +7495,7 @@ concludes.</desc>
 	</programme>
 	<programme channel="s4c" start="20250910180000 +0000" stop="20250910183000 +0000">
 		<title>Heno - Wed, 10 Sep 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Ry' ni yn Soho ar gyfer premiere 'Y Golau', mae Brychan Llyr yn crwydro llwybr Dic Jone...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250910183000 +0000" stop="20250910190000 +0000">
@@ -7695,7 +7705,7 @@ concludes.</desc>
 	</programme>
 	<programme channel="s4c" start="20250911113000 +0000" stop="20250911120000 +0000">
 		<title>Heno - Wed, 10 Sep 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Ry' ni yn Soho ar gyfer premiere 'Y Golau', mae Brychan Llyr yn crwydro llwybr Dic Jone...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250911120000 +0000" stop="20250911123000 +0000">
@@ -8066,7 +8076,7 @@ concludes.</desc>
 	<programme channel="s4c" start="20250912173000 +0000" stop="20250912180000 +0000">
 		<title>Garddio a Mwy - Cyfres 2025: Pennod 18</title>
 		<desc>Mae Adam yn ail ymweld â gardd gymunedol Tabor, tra bod Sioned yn bod yn greadigol hefo...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1vh5f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1wyzj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250912180000 +0000" stop="20250912183000 +0000">
 		<title>Newyddion S4C - Fri, 12 Sep 2025 19:00</title>
@@ -8076,7 +8086,7 @@ concludes.</desc>
 	<programme channel="s4c" start="20250912183000 +0000" stop="20250912205000 +0000">
 		<title>Clwb Rygbi - SRC Tymor 2025/26: Casnewydd v Llanymddyfri</title>
 		<desc>Gêm fyw cyntaf tymor Super Rygbi Cymru, rhwng Casnewydd v Llanymddyfri. C/G 19.45. The ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jrtg8q.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1x2t3.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250912205000 +0000" stop="20250912215500 +0000">
 		<title>Triathlon Cymru - Cyfres 2025: Cyfres Triathlon Cymru: Y Barri</title>
@@ -8216,7 +8226,7 @@ concludes.</desc>
 	<programme channel="s4c" start="20250913151500 +0000" stop="20250913154500 +0000">
 		<title>Garddio a Mwy - Cyfres 2025: Pennod 18</title>
 		<desc>Mae Adam yn ail ymweld â gardd gymunedol Tabor, tra bod Sioned yn bod yn greadigol hefo...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1vh5f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1wyzj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250913154500 +0000" stop="20250913161500 +0000">
 		<title>3 Lle - Cyfres 5: Ffion Dafis</title>
@@ -8250,8 +8260,8 @@ concludes.</desc>
 	</programme>
 	<programme channel="s4c" start="20250913200000 +0000" stop="20250913223000 +0000">
 		<title>Bocsio - Cyfres 2025: Pennod 2</title>
-		<desc>Darllediad byw o focsio proffesiynol rhwng Pencampwr Cymru, Nathan Howells o Gasnewydd,...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05q47n9.jpg" />
+		<desc>Gornest Caerdydd - Nathan Howells (Casnewydd) sy'n wynebu Conor McIntosh (Port Talbot) ...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1wyrw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250913223000 +0000" stop="20250913233500 +0000">
 		<title>Prosiect Pum Mil - Cyfres 5: Penisarwaun</title>
@@ -8346,7 +8356,7 @@ concludes.</desc>
 	<programme channel="s4c" start="20250914090000 +0000" stop="20250914093000 +0000">
 		<title>Garddio a Mwy - Cyfres 2025: Pennod 18</title>
 		<desc>Mae Adam yn ail ymweld â gardd gymunedol Tabor, tra bod Sioned yn bod yn greadigol hefo...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l1vh5f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1wyzj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250914093000 +0000" stop="20250914103000 +0000">
 		<title>Gareth Jones: Nofio Adre - Pennod 1</title>
