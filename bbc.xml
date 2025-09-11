@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20250911083000 +0000" stop="20250911094500 +0000">
 		<title>Morning Live - Series 7: 11/09/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250911094500 +0000" stop="20250911101500 +0000">
 		<title>The Moment of Proof - Series 3: Episode 10</title>
@@ -5360,10 +5360,25 @@ concludes.</desc>
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250911050000 +0000" stop="20250911080000 +0000">
-		<title>Breakfast - 11/09/2025</title>
-		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	<programme channel="bbcnews" start="20250911050000 +0000" stop="20250911060000 +0000">
+		<title>BBC News - 11/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250911060000 +0000" stop="20250911070000 +0000">
+		<title>BBC News - 11/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250911070000 +0000" stop="20250911073000 +0000">
+		<title>BBC News - 11/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250911073000 +0000" stop="20250911080000 +0000">
+		<title>BBC News - 11/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250911080000 +0000" stop="20250911083000 +0000">
 		<title>BBC News - 11/09/2025</title>
@@ -5410,10 +5425,20 @@ concludes.</desc>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250911120000 +0000" stop="20250911130000 +0000">
-		<title>BBC News at One - 11/09/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	<programme channel="bbcnews" start="20250911120000 +0000" stop="20250911123000 +0000">
+		<title>BBC News Now - 11/09/2025</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250911123000 +0000" stop="20250911125500 +0000">
+		<title>BBC News Now - 11/09/2025</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250911125500 +0000" stop="20250911130000 +0000">
+		<title>Talking Movies - 11/09/2025</title>
+		<desc>Talking Movies' weekly report in which Tom Brook and his team explore the world of cinema.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c80mhr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250911130000 +0000" stop="20250911133000 +0000">
 		<title>BBC News Now - 11/09/2025</title>
