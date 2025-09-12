@@ -251,7 +251,7 @@
 	<programme channel="bbcone" start="20250913200000 +0000" stop="20250913213000 +0000">
 		<title>BBC Proms - 2025: Last Night of the Proms: Finale</title>
 		<desc>Classical music's biggest party celebrates Bohemian Rhapsody and the familiar favourites.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5rsg2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2jyyh.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250913213000 +0000" stop="20250913214500 +0000">
 		<title>BBC Weekend News - Late News: 13/09/2025</title>
@@ -904,7 +904,7 @@ concludes.</desc>
 	</programme>
 	<programme channel="bbctwo" start="20250913104500 +0000" stop="20250913113000 +0000">
 		<title>Football Focus - 13/09/2025</title>
-		<desc>Previewing the Premier League action, including the Manchester derby.</desc>
+		<desc>Postecoglou takes over at Forest, the Manchester derby and the Champions League returns.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lyg4qc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250913113000 +0000" stop="20250913140000 +0000">
@@ -5633,7 +5633,7 @@ concludes.</desc>
 	</programme>
 	<programme channel="bbcnews" start="20250913144500 +0000" stop="20250913150000 +0000">
 		<title>Newswatch - 13/09/2025</title>
-		<desc>Your views on the coverage of events by BBC News.</desc>
+		<desc>Is the BBC’s coverage of Reform UK proportionate for a party with just four MPs?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gbk3ng.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250913150000 +0000" stop="20250913153000 +0000">
@@ -6537,7 +6537,7 @@ concludes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m29nty.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250913050000 +0000" stop="20250913094500 +0000">
-		<title>Westminster Hall - 13/09/2025</title>
+		<title>Westminster Hall - 09/09/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Tuesday 9 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
@@ -6742,7 +6742,7 @@ concludes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m299rn.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250915050000 +0000" stop="20250915073000 +0000">
-		<title>Westminster Hall - 15/09/2025</title>
+		<title>Westminster Hall - 11/09/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Thursday 11 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
@@ -6836,23 +6836,8 @@ concludes.</desc>
 		<desc>Coverage of questions to David Lammy on Tuesday 16 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250916113000 +0000" stop="20250916123000 +0000">
-		<title>House of Commons - 16/09/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 16 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250916123000 +0000" stop="20250916133000 +0000">
-		<title>House of Commons - 16/09/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 16 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250916133000 +0000" stop="20250916143000 +0000">
-		<title>House of Commons - 16/09/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 16 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250916143000 +0000" stop="20250916183000 +0000">
-		<title>House of Commons - 16/09/2025 Part 4</title>
+	<programme channel="bbcparliament" start="20250916113000 +0000" stop="20250916183000 +0000">
+		<title>House of Commons - 16/09/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 16 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
