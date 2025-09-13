@@ -777,15 +777,15 @@ concludes.</desc>
 		<desc>Postecoglou takes over at Forest, the Manchester derby and the Champions League returns.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lyg4qc.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250913113000 +0000" stop="20250913140000 +0000">
+	<programme channel="bbctwo" start="20250913113000 +0000" stop="20250913141500 +0000">
 		<title>Women's Rugby World Cup 2025 - Quarter-Finals: New Zealand v South Africa</title>
 		<desc>New Zealand face South Africa in the first quarter-final of the Women's Rugby World Cup.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m26z7j.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20250913140000 +0000" stop="20250913143000 +0000">
-		<title>Hairy Bikers' Best of British - Series 1: 1. Royal Family</title>
-		<desc>Si and Dave explore the incredible influence the monarchy has had over the food we eat.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f6dc46.jpg" />
+	<programme channel="bbctwo" start="20250913141500 +0000" stop="20250913143000 +0000">
+		<title>The Hairy Bikers' Cookbook - The Hairy Bakers Shorts: 7. Celebration Cakes</title>
+		<desc>Simon King and Dave Myers delve into the world of celebration cakes.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hcy53r.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250913143000 +0000" stop="20250913171000 +0000">
 		<title>Women's Rugby World Cup 2025 - Quarter-Finals: Canada v Australia</title>
@@ -1335,7 +1335,7 @@ concludes.</desc>
 	<programme channel="bbcthree" start="20250913180000 +0000" stop="20250913183000 +0000">
 		<title>World Athletics Championships - Tokyo 2025: Day 1 Highlights</title>
 		<desc>Highlights from the first day of the World Athletics Championships in Tokyo.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m10z0q.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2nsbw.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250913183000 +0000" stop="20250913190000 +0000">
 		<title>EastEnders - 08/09/2025</title>
@@ -5043,7 +5043,7 @@ concludes.</desc>
 	<programme channel="bbcscotland" start="20250913181500 +0000" stop="20250913193000 +0000">
 		<title>Sportscene: Premiership Highlights - 2025/26: 13/09/2025</title>
 		<desc>Highlights from the afternoon's fixtures in the Scottish Premiership.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfvl6m.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2nx3x.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250913193000 +0000" stop="20250913200000 +0000">
 		<title>Martin Compston's Scottish Fling - Series 1: 5. Central Belt</title>
@@ -5375,25 +5375,15 @@ concludes.</desc>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250913120000 +0000" stop="20250913123000 +0000">
+	<programme channel="bbcnews" start="20250913120000 +0000" stop="20250913130000 +0000">
 		<title>BBC News - 13/09/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250913123000 +0000" stop="20250913130000 +0000">
+	<programme channel="bbcnews" start="20250913130000 +0000" stop="20250913140000 +0000">
 		<title>BBC News - 13/09/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250913130000 +0000" stop="20250913133000 +0000">
-		<title>BBC News - 13/09/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250913133000 +0000" stop="20250913140000 +0000">
-		<title>Ros Atkins On... - Ros Atkins on Gaza Proportionality</title>
-		<desc>BBC Verify speaks to experts about whether they consider Israel's actions proportionate.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2dyx2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250913140000 +0000" stop="20250913143000 +0000">
 		<title>BBC News - 13/09/2025</title>
@@ -5416,9 +5406,9 @@ concludes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250913153000 +0000" stop="20250913160000 +0000">
-		<title>Global Eye - 08/09/2025</title>
-		<desc>We hear from residents in Ukraine's Kharkiv, and Nawal Al-Maghafi reports from Sudan.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1hx9d.jpg" />
+		<title>Ros Atkins On... - Ros Atkins on Gaza Proportionality</title>
+		<desc>BBC Verify speaks to experts about whether they consider Israel's actions proportionate.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2dyx2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250913160000 +0000" stop="20250913170000 +0000">
 		<title>BBC News - 13/09/2025</title>
