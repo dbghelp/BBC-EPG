@@ -6392,9 +6392,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250918233000 +0000" stop="20250919000000 +0000">
-		<title>Newscast - 18/09/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
+		<title>Tech Now - Detecting Cancer Cases</title>
+		<desc>Lara Lewington explores the tech being trialled to find 'hidden' pancreatic cancer cases.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2d8lr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250919000000 +0000" stop="20250919003000 +0000">
 		<title>BBC News - 19/09/2025</title>
@@ -6751,6 +6751,11 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 15 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20250915230000 +0000" stop="20250916010000 +0000">
+		<title>House of Lords - Planning and Infrastructure Bill, Part 1</title>
+		<desc>Debate on the seventh day of the committee stage of the Planning and Infrastructure Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20250916010000 +0000" stop="20250916030000 +0000">
 		<title>House of Lords - Planning and Infrastructure Bill, Part 2</title>
 		<desc>Debate on the seventh day of the committee stage of the Planning and Infrastructure Bill.</desc>
@@ -6766,19 +6771,19 @@
 		<desc>Debate on the seventh day of the committee stage of the Planning and Infrastructure Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250916060000 +0000" stop="20250916070000 +0000">
+	<programme channel="bbcparliament" start="20250916060000 +0000" stop="20250916071000 +0000">
 		<title>House of Commons - Home Office Questions</title>
 		<desc>Coverage of questions to Shabana Mahmood on Monday 15 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250916070000 +0000" stop="20250916083000 +0000">
-		<title>House of Commons - 15/09/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 15 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20250916071000 +0000" stop="20250916093000 +0000">
+		<title>Select Committees - Culture, Media and Sport Committee on the BBC</title>
+		<desc>The Culture, Media and Sport select committee evidence session on the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1qm07.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250916083000 +0000" stop="20250916103000 +0000">
-		<title>Select Committees - 16/09/2025</title>
-		<desc>Coverage of select committee proceedings on Tuesday 16 September.</desc>
+	<programme channel="bbcparliament" start="20250916093000 +0000" stop="20250916103000 +0000">
+		<title>Select Committees - Justice and Home Affairs Committee</title>
+		<desc>Coverage of the Lords Justice and Home Affairs committee session on electronic monitoring.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250916103000 +0000" stop="20250916113000 +0000">
@@ -6786,7 +6791,12 @@
 		<desc>Coverage of questions to David Lammy on Tuesday 16 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250916113000 +0000" stop="20250916183000 +0000">
+	<programme channel="bbcparliament" start="20250916113000 +0000" stop="20250916143000 +0000">
+		<title>House of Commons - Debate on the Appointment of the UK Ambassador to the US</title>
+		<desc>Emergency debate on the appointment of Lord Mandelson as the UK Ambassador to the US.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250916143000 +0000" stop="20250916183000 +0000">
 		<title>House of Commons - 16/09/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 16 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7332,7 +7342,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07zyc7g.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250918183000 +0000" stop="20250918190000 +0000">
-		<title>SpeakGaelic  - Series 4: 24. Na Fuadaichean | The Clearances</title>
+		<title>SpeakGaelic  - Series 4 (B2): 24. Na Fuadaichean | The Clearances</title>
 		<desc>Calum Maclean is at Rosal Clearance Village in Mackay Country, Sutherland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpxk7t.jpg" />
 	</programme>
