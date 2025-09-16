@@ -5574,9 +5574,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250916213000 +0000" stop="20250916220000 +0000">
-		<title>Newsnight - 16/09/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Paddy O'Connell.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - Trump touches down in the UK</title>
+		<desc>Amid the pomp of Trump's visit, what will success look like for No.10 and the White House?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m37j3s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250916220000 +0000" stop="20250916230000 +0000">
 		<title>BBC World News America - 16/09/2025</title>
@@ -6573,43 +6573,38 @@
 		<desc>Emergency debate on the appointment of Lord Mandelson as the UK Ambassador to the US.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m36sp9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250916144000 +0000" stop="20250916183000 +0000">
+	<programme channel="bbcparliament" start="20250916144000 +0000" stop="20250916194000 +0000">
 		<title>House of Commons - 16/09/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 16 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250916183000 +0000" stop="20250916210000 +0000">
+	<programme channel="bbcparliament" start="20250916194000 +0000" stop="20250916220000 +0000">
 		<title>House of Lords - 16/09/2025</title>
 		<desc>Coverage of proceedings in the House of Lords on Tuesday 16 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250916210000 +0000" stop="20250916215000 +0000">
+	<programme channel="bbcparliament" start="20250916220000 +0000" stop="20250916225000 +0000">
 		<title>Welsh First Minister's Questions - 16/09/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 16 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250916215000 +0000" stop="20250916223500 +0000">
+	<programme channel="bbcparliament" start="20250916225000 +0000" stop="20250916233500 +0000">
 		<title>Lords Questions - 16/09/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 16 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250916223500 +0000" stop="20250917003500 +0000">
+	<programme channel="bbcparliament" start="20250916233500 +0000" stop="20250917013500 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 1</title>
 		<desc>Coverage of the eleventh day of debate on the Children's Wellbeing and Schools Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250917003500 +0000" stop="20250917023500 +0000">
+	<programme channel="bbcparliament" start="20250917013500 +0000" stop="20250917043000 +0000">
+		<title>House of Commons - Debate on the Appointment of the UK Ambassador to the US</title>
+		<desc>Emergency debate on the appointment of Lord Mandelson as the UK Ambassador to the US.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m36sp9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250917043000 +0000" stop="20250917062500 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 2</title>
-		<desc>Coverage of the eleventh day of debate on the Children's Wellbeing and Schools Bill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250917023500 +0000" stop="20250917043500 +0000">
-		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 3</title>
-		<desc>Coverage of the eleventh day of debate on the Children's Wellbeing and Schools Bill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250917043500 +0000" stop="20250917062500 +0000">
-		<title>House of Lords - Children's Wellbeing and Schools Bill, Part 4</title>
 		<desc>Coverage of the eleventh day of debate on the Children's Wellbeing and Schools Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -6741,7 +6736,7 @@
 	<programme channel="bbcparliament" start="20250919080000 +0000" stop="20250919090000 +0000">
 		<title>House of Commons - Justice Questions</title>
 		<desc>Coverage of questions to David Lammy on Tuesday 16 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m36tqc.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250919090000 +0000" stop="20250919200000 +0000">
 		<title>House of Lords - Assisted Dying Legislation</title>
@@ -6836,7 +6831,7 @@
 	<programme channel="bbcparliament" start="20250921040000 +0000" stop="20250921050000 +0000">
 		<title>House of Commons - Justice Questions</title>
 		<desc>Coverage of questions to David Lammy on Tuesday 16 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m36tqc.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250916050000 +0000" stop="20250916160000 +0000">
 		<title>Alba Today - Alba Today</title>
