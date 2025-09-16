@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20250916083000 +0000" stop="20250916094500 +0000">
 		<title>Morning Live - Series 7: 16/09/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250916094500 +0000" stop="20250916101500 +0000">
 		<title>The Moment of Proof - Series 3: Episode 13</title>
@@ -3056,7 +3056,7 @@
 	<programme channel="cbbc" start="20250919173000 +0000" stop="20250919175800 +0000">
 		<title>My Life - Jazzy’s MMA Dream</title>
 		<desc>At just 15, MMA champion Jazzy is after a world title. Will her dream come true?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c40q01.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m32vsd.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20250919175800 +0000" stop="20250920043000 +0000">
 		<title>This is CBBC! - This is CBBC!</title>
@@ -5423,10 +5423,15 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250916050000 +0000" stop="20250916080000 +0000">
+	<programme channel="bbcnews" start="20250916050000 +0000" stop="20250916070000 +0000">
 		<title>Breakfast - 16/09/2025</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250916070000 +0000" stop="20250916080000 +0000">
+		<title>BBC News - 16/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250916080000 +0000" stop="20250916083000 +0000">
 		<title>BBC News - 16/09/2025</title>
@@ -5458,20 +5463,10 @@
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250916104500 +0000" stop="20250916110000 +0000">
+	<programme channel="bbcnews" start="20250916104500 +0000" stop="20250916120000 +0000">
 		<title>BBC News - 16/09/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250916110000 +0000" stop="20250916113000 +0000">
-		<title>BBC News Now - 16/09/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250916113000 +0000" stop="20250916120000 +0000">
-		<title>BBC News Now - 16/09/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250916120000 +0000" stop="20250916130000 +0000">
 		<title>BBC News at One - 16/09/2025</title>
@@ -6538,10 +6533,10 @@
 		<desc>Alasdair Keane explores the tech highlights at IFA Berlin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250916050000 +0000" stop="20250916054000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="bbcparliament" start="20250916034500 +0000" stop="20250916054000 +0000">
+		<title>House of Lords - Planning and Infrastructure Bill, Part 3</title>
+		<desc>Debate on the seventh day of the committee stage of the Planning and Infrastructure Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250916054000 +0000" stop="20250916060000 +0000">
 		<title>House of Commons - Select Committee Statement on Biosecurity</title>
