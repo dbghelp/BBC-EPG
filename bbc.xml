@@ -762,9 +762,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3d0ht.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250917213000 +0000" stop="20250917215800 +0000">
-		<title>Newsnight - 17/09/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - The Trump State Visit</title>
+		<desc>President Trump gets the red carpet treatment at Windsor Castle. With Victoria Derbyshire.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3g967.png" />
 	</programme>
 	<programme channel="bbctwo" start="20250917215800 +0000" stop="20250917220000 +0000">
 		<title>BBC Weather - 17/09/2025</title>
@@ -5532,9 +5532,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250917213000 +0000" stop="20250917220000 +0000">
-		<title>Newsnight - 17/09/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<title>Newsnight - The Trump State Visit</title>
+		<desc>President Trump gets the red carpet treatment at Windsor Castle. With Victoria Derbyshire.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3g967.png" />
 	</programme>
 	<programme channel="bbcnews" start="20250917220000 +0000" stop="20250917230000 +0000">
 		<title>BBC World News America - 17/09/2025</title>
@@ -5547,8 +5547,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250917233000 +0000" stop="20250918000000 +0000">
-		<title>Newscast - 17/09/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Inside President Trump's State Visit with the King</title>
+		<desc>Adam Fleming, Daniela Relph, Gary O'Donoghue and Faisal Islam discuss Trump's state visit.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250918000000 +0000" stop="20250918003000 +0000">
@@ -6489,12 +6489,12 @@
 	<programme channel="bbcparliament" start="20250917072500 +0000" stop="20250917090000 +0000">
 		<title>Select Committees - Justice and Home Affairs Committee</title>
 		<desc>Coverage of the Lords Justice and Home Affairs committee session on electronic monitoring.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3g0lv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250917090000 +0000" stop="20250917100000 +0000">
 		<title>Select Committees - Lords Environment and Climate Change Committee</title>
 		<desc>Coverage of the Lords Environment and Climate Change committee session on waste crime.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3g13l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250917100000 +0000" stop="20250917125000 +0000">
 		<title>House of Lords - Planning and Infrastructure Bill, Morning Session</title>
@@ -6509,62 +6509,77 @@
 	<programme channel="bbcparliament" start="20250917140000 +0000" stop="20250917144500 +0000">
 		<title>Lords Questions - 17/09/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Wednesday 17 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3g1pd.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250917144500 +0000" stop="20250917210000 +0000">
+	<programme channel="bbcparliament" start="20250917144500 +0000" stop="20250917212000 +0000">
 		<title>House of Lords - 17/09/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Lords on Wednesday 17 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250917210000 +0000" stop="20250917213000 +0000">
+	<programme channel="bbcparliament" start="20250917212000 +0000" stop="20250917215000 +0000">
 		<title>Scottish Parliament - Constitution, External Affairs and Culture, and Parliamentary Business Questions</title>
 		<desc>Constitution, External Affairs and Culture, and Parliamentary Business Questions.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250917213000 +0000" stop="20250917220000 +0000">
+	<programme channel="bbcparliament" start="20250917215000 +0000" stop="20250917222000 +0000">
 		<title>Scottish Parliament - Justice and Home Affairs Questions</title>
 		<desc>Justice and Home Affairs Questions in the Scottish Parliament on Wednesday 17 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250917220000 +0000" stop="20250918000000 +0000">
+	<programme channel="bbcparliament" start="20250917222000 +0000" stop="20250917225000 +0000">
 		<title>Scottish Parliament - Alexander Dennis Ministerial Statement</title>
 		<desc>Coverage of the statement on the furlough scheme to save bus manufacturer Alexander Dennis</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250918000000 +0000" stop="20250918004500 +0000">
+	<programme channel="bbcparliament" start="20250917225000 +0000" stop="20250918000000 +0000">
+		<title>House of Commons - Home Office Questions</title>
+		<desc>Coverage of questions to Shabana Mahmood on Monday 15 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3143l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250918000000 +0000" stop="20250918005000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Finance and Welsh Language Questions</title>
 		<desc>Coverage of Finance and Welsh Language Questions in the Senedd, on Wednesday 17 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250918004500 +0000" stop="20250918013000 +0000">
+	<programme channel="bbcparliament" start="20250918005000 +0000" stop="20250918014500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Deputy First Minister's Questions</title>
 		<desc>Questions to Huw Irranca-Davies, the Dirprwy Prif Weinidog, or the deputy first minister.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250918013000 +0000" stop="20250918015500 +0000">
+	<programme channel="bbcparliament" start="20250918014500 +0000" stop="20250918023000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Topical Questions</title>
 		<desc>Topical questions in the Senedd, the Welsh Parliament, on Wednesday 17 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250918015500 +0000" stop="20250918025500 +0000">
+	<programme channel="bbcparliament" start="20250918023000 +0000" stop="20250918031500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Maintenance of New Housing Estates Debate</title>
 		<desc>Coverage of a debate on a Petitions Committee report, on Wednesday 17 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250918025500 +0000" stop="20250918043000 +0000">
+	<programme channel="bbcparliament" start="20250918031500 +0000" stop="20250918035000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Tackling Fuel Poverty</title>
 		<desc>Coverage of a debate on the findings of a committee report on tackling fuel poverty.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250918043000 +0000" stop="20250918051500 +0000">
+	<programme channel="bbcparliament" start="20250918035000 +0000" stop="20250918042000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Tax Statement</title>
+		<desc>The statement in the Senedd on proposed changes to Welsh tax acts on Tuesday 16 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250918042000 +0000" stop="20250918050500 +0000">
 		<title>Lords Questions - 17/09/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Wednesday 17 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3g1pd.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250918051500 +0000" stop="20250918075000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="bbcparliament" start="20250918043000 +0000" stop="20250918050500 +0000">
+		<title>Lords Questions - 17/09/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Wednesday 17 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3g1pd.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250918050500 +0000" stop="20250918075000 +0000">
+		<title>House of Lords - Planning and Infrastructure Bill, Morning Session</title>
+		<desc>Coverage of the day's proceedings in the House of Lords on Wednesday 17 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3cqtl.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250918075000 +0000" stop="20250918100000 +0000">
 		<title>Select Committees - Public Accounts Committee on the BBC's Accounts</title>
@@ -6654,7 +6669,7 @@
 	<programme channel="bbcparliament" start="20250919200000 +0000" stop="20250919205000 +0000">
 		<title>Welsh First Minister's Questions - 16/09/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 16 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3g0tm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250919205000 +0000" stop="20250920012000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - 16/09/2025</title>
@@ -6684,7 +6699,7 @@
 	<programme channel="bbcparliament" start="20250920111000 +0000" stop="20250920120000 +0000">
 		<title>Welsh First Minister's Questions - 16/09/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 16 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3g0tm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250920120000 +0000" stop="20250920124500 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
@@ -6729,7 +6744,7 @@
 	<programme channel="bbcparliament" start="20250921021000 +0000" stop="20250921030000 +0000">
 		<title>Welsh First Minister's Questions - 16/09/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 16 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3g0tm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250921030000 +0000" stop="20250921040000 +0000">
 		<title>House of Commons - Home Office Questions</title>
@@ -6784,7 +6799,7 @@
 	<programme channel="bbcparliament" start="20250921152000 +0000" stop="20250921161000 +0000">
 		<title>Welsh First Minister's Questions - 16/09/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 16 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3g0tm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250921161000 +0000" stop="20250921165500 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
@@ -6824,7 +6839,7 @@
 	<programme channel="bbcparliament" start="20250922041000 +0000" stop="20250922050000 +0000">
 		<title>Welsh First Minister's Questions - 16/09/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 16 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3g0tm.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250917050000 +0000" stop="20250917160000 +0000">
 		<title>Alba Today - Alba Today</title>
@@ -6884,7 +6899,7 @@
 	<programme channel="bbcalba" start="20250917175000 +0000" stop="20250917200000 +0000">
 		<title>UEFA Women's Europa Cup - 2025/26: 2. Hibernian v Inter Milan</title>
 		<desc>A crucial match in the Europa Cup as Hibernian go up against Inter Milan. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1rjrj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3fzsr.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20250917200000 +0000" stop="20250917210000 +0000">
 		<title>Kathleen</title>
@@ -8172,8 +8187,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250919190000 +0000" stop="20250919195500 +0000">
-		<title>Antur ITERA Tîm Lowri Morgan - ITERA : Yr Alban 2025</title>
-		<desc>Description Coming Soon...</desc>
+		<title>Antur ITERA Tîm Lowri Morgan - ITERA: Yr Alban 2025</title>
+		<desc>Cyfres yn dilyn antur Lowri Morgan a Thîm Cymru yn ras aml-chwaraeon ITERA, Yr Alban. S...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m33mnx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250919195500 +0000" stop="20250919200000 +0000">
@@ -8352,8 +8367,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3c0xt.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250920171500 +0000" stop="20250920181500 +0000">
-		<title>Antur ITERA Tîm Lowri Morgan - ITERA : Yr Alban 2025</title>
-		<desc>Description Coming Soon...</desc>
+		<title>Antur ITERA Tîm Lowri Morgan - ITERA: Yr Alban 2025</title>
+		<desc>Cyfres yn dilyn antur Lowri Morgan a Thîm Cymru yn ras aml-chwaraeon ITERA, Yr Alban. S...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m33mnx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250920181500 +0000" stop="20250920183000 +0000">
