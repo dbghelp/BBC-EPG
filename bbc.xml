@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20250919083000 +0000" stop="20250919094500 +0000">
 		<title>Morning Live - Series 7: 19/09/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250919094500 +0000" stop="20250919101500 +0000">
 		<title>The Moment of Proof - Series 3: Episode 5</title>
@@ -357,7 +357,7 @@
 	<programme channel="bbcone" start="20250921171500 +0000" stop="20250921181500 +0000">
 		<title>Countryfile - Solway Coast</title>
 		<desc>Joe Crowley and Adam Henson explore the Solway Coast.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrrhhq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sgqv.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250921181500 +0000" stop="20250921191500 +0000">
 		<title>Antiques Roadshow - Series 48: 7. Stephens House &amp; Gardens 2</title>
@@ -960,7 +960,7 @@
 	<programme channel="bbctwo" start="20250921054000 +0000" stop="20250921063500 +0000">
 		<title>Countryfile - The Archers</title>
 		<desc>Countryfile heads to Inkberrow, the village that provided inspiration for The Archers.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrrhhq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sfh0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250921063500 +0000" stop="20250921080000 +0000">
 		<title>Breakfast - 21/09/2025</title>
@@ -1028,7 +1028,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2h4m3.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250921200000 +0000" stop="20250921210000 +0000">
-		<title>Rob and Rylan's Grand Tour - Rob and Rylan's Passage to India: Episode 2</title>
+		<title>Rob and Rylan's Passage to India - Series 1: Episode 2</title>
 		<desc>In Rajasthan, Rob and Rylan try miniature painting and hear an alarming horoscope.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2gpzv.jpg" />
 	</programme>
@@ -1180,7 +1180,7 @@
 	<programme channel="bbctwo" start="20250922235000 +0000" stop="20250923004500 +0000">
 		<title>Countryfile - The Archers</title>
 		<desc>Countryfile heads to Inkberrow, the village that provided inspiration for The Archers.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrrhhq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sfh0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250923004500 +0000" stop="20250923014500 +0000">
 		<title>Stacey &amp; Joe - Series 2: 1. I Caught a Big One</title>
@@ -1360,7 +1360,7 @@
 	<programme channel="bbcthree" start="20250919185800 +0000" stop="20250919190000 +0000">
 		<title>The Catch Up - 19/09/2025</title>
 		<desc>A round-up of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250919190000 +0000" stop="20250919200000 +0000">
 		<title>Top Gear - Series 14: Episode 5</title>
@@ -1635,7 +1635,7 @@
 	<programme channel="bbcthree" start="20250922185800 +0000" stop="20250922190000 +0000">
 		<title>The Catch Up - 22/09/2025</title>
 		<desc>A round-up of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250922190000 +0000" stop="20250922200000 +0000">
 		<title>Top Gear - Series 14: Episode 7</title>
@@ -1725,7 +1725,7 @@
 	<programme channel="bbcthree" start="20250923185800 +0000" stop="20250923190000 +0000">
 		<title>The Catch Up - 23/09/2025</title>
 		<desc>A round-up of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jw580d.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250923190000 +0000" stop="20250923200000 +0000">
 		<title>Top Gear - Series 15: Episode 1</title>
@@ -6660,25 +6660,40 @@
 		<desc>Constitution, External Affairs and Culture, and Parliamentary Business Questions.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3k3w7.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250920141500 +0000" stop="20250920154500 +0000">
+	<programme channel="bbcparliament" start="20250920141500 +0000" stop="20250920144500 +0000">
 		<title>Scottish Parliament - Justice and Home Affairs Questions</title>
 		<desc>Justice and Home Affairs Questions in the Scottish Parliament on Wednesday 17 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3k47v.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250920144500 +0000" stop="20250920154500 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250920154500 +0000" stop="20250920171500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Finance and Welsh Language Questions</title>
 		<desc>Coverage of Finance and Welsh Language Questions in the Senedd, on Wednesday 17 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3kb45.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250920171500 +0000" stop="20250920184500 +0000">
+	<programme channel="bbcparliament" start="20250920171500 +0000" stop="20250920181000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Deputy First Minister's Questions</title>
 		<desc>Questions to Huw Irranca-Davies, the Dirprwy Prif Weinidog, or the deputy first minister.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3kfhc.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250920184500 +0000" stop="20250920201500 +0000">
+	<programme channel="bbcparliament" start="20250920181000 +0000" stop="20250920184500 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250920184500 +0000" stop="20250920193000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Topical Questions</title>
 		<desc>Topical questions in the Senedd, the Welsh Parliament, on Wednesday 17 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3lk23.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250920193000 +0000" stop="20250920201500 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250920201500 +0000" stop="20250921012500 +0000">
 		<title>Select Committees - 20/09/2025</title>
@@ -6725,14 +6740,9 @@
 		<desc>Coverage of education and skills questions in the Scottish Parliament on 18 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250921093500 +0000" stop="20250921110500 +0000">
+	<programme channel="bbcparliament" start="20250921093500 +0000" stop="20250921123500 +0000">
 		<title>Scottish Parliament - Care on the Isle of Skye Statement</title>
 		<desc>The ministerial statement on improving care on the Isle of Skye, on Thursday 18 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250921110500 +0000" stop="20250921123500 +0000">
-		<title>Scottish Parliament - Debate on Commissioners</title>
-		<desc>Coverage of the debate on the role of Commissioners, on Thursday 18 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250921123500 +0000" stop="20250921143500 +0000">
