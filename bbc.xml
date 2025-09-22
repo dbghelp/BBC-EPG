@@ -797,7 +797,7 @@
 	<programme channel="bbctwo" start="20250922180000 +0000" stop="20250922183000 +0000">
 		<title>Global Eye - 22/09/2025</title>
 		<desc>Anna Holligan is in Alaska, where rising temperatures are threatening communities.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3w5s0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3w5vd.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250922183000 +0000" stop="20250922190000 +0000">
 		<title>Mastermind - 2025/26: Episode 10</title>
@@ -5761,8 +5761,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250922233000 +0000" stop="20250923000000 +0000">
-		<title>Newscast - 22/09/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - What Does Recognition of a Palestinian State Actually Mean?</title>
+		<desc>Adam Fleming, James Landale and Caitríona Perry discuss a possible two-state solution.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250923000000 +0000" stop="20250923003000 +0000">
@@ -6797,58 +6797,84 @@
 	</programme>
 	<programme channel="bbcparliament" start="20250922130000 +0000" stop="20250922134500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Questions to the first minister Michelle O'Neill, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250922134500 +0000" stop="20250922143000 +0000">
 		<title>Northern Ireland Assembly - Economy Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Questions to the economy minister, Caoimhe Archibald, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250922143000 +0000" stop="20250922170000 +0000">
+	<programme channel="bbcparliament" start="20250922143000 +0000" stop="20250922183000 +0000">
 		<title>Northern Ireland Assembly - 22/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250922170000 +0000" stop="20250922190000 +0000">
-		<title>Northern Ireland Assembly - 22/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 22 September.</desc>
+	<programme channel="bbcparliament" start="20250922183000 +0000" stop="20250922190000 +0000">
+		<title>Northern Ireland Assembly - Members' Statement</title>
+		<desc>Short statement made by Members of the Legislative Assembly, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250922190000 +0000" stop="20250922194500 +0000">
+	<programme channel="bbcparliament" start="20250922190000 +0000" stop="20250922191500 +0000">
+		<title>Northern Ireland Assembly - Closure of the Non-Domestic Renewable Heat Incentive Scheme Statement</title>
+		<desc>Statement on the closure of the Non-Domestic Renewable Heat Incentive Scheme.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250922191500 +0000" stop="20250922210000 +0000">
+		<title>Northern Ireland Assembly - A5 Transport Corridor Scheme Debate</title>
+		<desc>Debate on the A5 transport corridor scheme, on Monday 22 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250922210000 +0000" stop="20250922214500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Questions to the first minister Michelle O'Neill, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250922194500 +0000" stop="20250922203000 +0000">
+	<programme channel="bbcparliament" start="20250922214500 +0000" stop="20250922223500 +0000">
 		<title>Northern Ireland Assembly - Economy Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Questions to the economy minister, Caoimhe Archibald, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250922203000 +0000" stop="20250922230000 +0000">
-		<title>Northern Ireland Assembly - 22/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 22 September.</desc>
+	<programme channel="bbcparliament" start="20250922223500 +0000" stop="20250922225000 +0000">
+		<title>Northern Ireland Assembly - IT Outage at Southern Health and Social Care Trust Urgent Question</title>
+		<desc>Question on IT outage at Southern Health and Social Care Trust, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250922230000 +0000" stop="20250923010000 +0000">
-		<title>Northern Ireland Assembly - 22/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 22 September.</desc>
+	<programme channel="bbcparliament" start="20250922225000 +0000" stop="20250922230500 +0000">
+		<title>Northern Ireland Assembly - Department for Communities Data Breach Urgent Question</title>
+		<desc>Question on the data breach at the Department for Communities, on Monday 22 September.
+</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250923010000 +0000" stop="20250923014500 +0000">
+	<programme channel="bbcparliament" start="20250922230500 +0000" stop="20250923003500 +0000">
+		<title>Northern Ireland Assembly - Hate Crime Debate</title>
+		<desc>Debate on the Executive's approach to hate crime, from Monday 22 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250923003500 +0000" stop="20250923012000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Questions to the first minister Michelle O'Neill, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250923014500 +0000" stop="20250923023000 +0000">
+	<programme channel="bbcparliament" start="20250923012000 +0000" stop="20250923020500 +0000">
 		<title>Northern Ireland Assembly - Economy Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Questions to the economy minister, Caoimhe Archibald, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250923023000 +0000" stop="20250923052500 +0000">
-		<title>Northern Ireland Assembly - 22/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 22 September.</desc>
+	<programme channel="bbcparliament" start="20250923020500 +0000" stop="20250923034500 +0000">
+		<title>Northern Ireland Assembly - A5 Transport Corridor Scheme Debate</title>
+		<desc>Debate on the A5 transport corridor scheme, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250923034500 +0000" stop="20250923040000 +0000">
+		<title>Northern Ireland Assembly - Closure of the Non-Domestic Renewable Heat Incentive Scheme Statement</title>
+		<desc>Statement on the closure of the Non-Domestic Renewable Heat Incentive Scheme.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250923040000 +0000" stop="20250923052500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Tributes to Hefin David</title>
+		<desc>Tributes to Hefin David in the Senedd, the Welsh parliament, on Tuesday 16 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m49f7l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250923052500 +0000" stop="20250923072500 +0000">
 		<title>Select Committees - Health and Social Care Committee on NHS England</title>
@@ -6952,12 +6978,12 @@
 	</programme>
 	<programme channel="bbcparliament" start="20250925070000 +0000" stop="20250925074500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Questions to the first minister Michelle O'Neill, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250925074500 +0000" stop="20250925083000 +0000">
 		<title>Northern Ireland Assembly - Economy Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Questions to the economy minister, Caoimhe Archibald, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250925083000 +0000" stop="20250925104000 +0000">
@@ -6982,7 +7008,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20250925121500 +0000" stop="20250925130000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Questions to the first minister Michelle O'Neill, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250925130000 +0000" stop="20250925133000 +0000">
@@ -7022,12 +7048,12 @@
 	</programme>
 	<programme channel="bbcparliament" start="20250926013500 +0000" stop="20250926022000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Questions to the first minister Michelle O'Neill, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250926022000 +0000" stop="20250926030500 +0000">
 		<title>Northern Ireland Assembly - Economy Questions</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Questions to the economy minister, Caoimhe Archibald, on Monday 22 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250926030500 +0000" stop="20250926053500 +0000">
