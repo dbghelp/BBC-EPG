@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250923083000 +0000" stop="20250923094500 +0000">
 		<title>Morning Live - Series 7: 23/09/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Gethin Jones and Louise Minchin are joined by Matt Allwright to discuss pavement parking.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250923094500 +0000" stop="20250923101500 +0000">
@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250923180000 +0000" stop="20250923183000 +0000">
 		<title>The One Show - 23/09/2025</title>
-		<desc>Roman Kemp and Lauren Laverne bring you the stories that matter from across the country.</desc>
+		<desc>Graham Norton, Steve Backshall, Sian Brooke and Katherine Devlin join Lauren and Roman. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250923183000 +0000" stop="20250923190000 +0000">
@@ -1251,7 +1251,7 @@
 	<programme channel="bbctwo" start="20250927072500 +0000" stop="20250927075000 +0000">
 		<title>Blue Peter - Full Episodes: Strictly Special and Brand New Competition Alert!</title>
 		<desc>Packed full of amazing celeb guests, epic challenges and lols galore!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3j3w6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4gpgv.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250927075000 +0000" stop="20250927075500 +0000">
 		<title>Newsround - 27/09/2025</title>
@@ -3089,7 +3089,7 @@
 	<programme channel="cbbc" start="20250926160000 +0000" stop="20250926163000 +0000">
 		<title>Blue Peter - Full Episodes: Strictly Special and Brand New Competition Alert!</title>
 		<desc>Packed full of amazing celeb guests, epic challenges and lols galore!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3j3w6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4gpgv.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20250926163000 +0000" stop="20250926163500 +0000">
 		<title>Grizzy and the Lemmings - Series 4: 58. Hello Grizzy? Here Lemmings!</title>
@@ -3185,7 +3185,7 @@
 	<programme channel="cbbc" start="20250927103000 +0000" stop="20250927105500 +0000">
 		<title>Blue Peter - Full Episodes: Strictly Special and Brand New Competition Alert!</title>
 		<desc>Packed full of amazing celeb guests, epic challenges and lols galore!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3j3w6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4gpgv.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20250927105500 +0000" stop="20250927111500 +0000">
 		<title>Go Get Arty - Series 1: 12. Alien Bowling</title>
@@ -5553,27 +5553,17 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250923130000 +0000" stop="20250923133000 +0000">
+	<programme channel="bbcnews" start="20250923130000 +0000" stop="20250923131500 +0000">
 		<title>BBC News Now - 23/09/2025</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250923133000 +0000" stop="20250923134500 +0000">
-		<title>Business Today - NYSE Opening Bell - 23/09/2025</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
+	<programme channel="bbcnews" start="20250923131500 +0000" stop="20250923144500 +0000">
+		<title>Politics Live - 23/09/2025: Conference 2025</title>
+		<desc>Live coverage of Ed Davey’s speech from the Liberal Democrat conference in Bournemouth.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m496r1.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250923134500 +0000" stop="20250923140000 +0000">
-		<title>BBC News Now - 23/09/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250923140000 +0000" stop="20250923143000 +0000">
-		<title>Verified Live - 23/09/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250923143000 +0000" stop="20250923150000 +0000">
+	<programme channel="bbcnews" start="20250923144500 +0000" stop="20250923150000 +0000">
 		<title>Verified Live - 23/09/2025</title>
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
@@ -6696,7 +6686,7 @@
 	<programme channel="bbcparliament" start="20250924110000 +0000" stop="20250924130000 +0000">
 		<title>Northern Ireland Assembly - 22/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4gfp3.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250924130000 +0000" stop="20250924160000 +0000">
 		<title>Scottish Parliament - 24/09/2025</title>
@@ -6726,7 +6716,7 @@
 	<programme channel="bbcparliament" start="20250925070000 +0000" stop="20250925074500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions to the first minister Michelle O'Neill, on Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4gcq2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250925074500 +0000" stop="20250925083000 +0000">
 		<title>Northern Ireland Assembly - Economy Questions</title>
@@ -6756,7 +6746,7 @@
 	<programme channel="bbcparliament" start="20250925121500 +0000" stop="20250925130000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions to the first minister Michelle O'Neill, on Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4gcq2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250925130000 +0000" stop="20250925133000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
@@ -6791,12 +6781,12 @@
 	<programme channel="bbcparliament" start="20250925233500 +0000" stop="20250926013500 +0000">
 		<title>Northern Ireland Assembly - 22/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4gfp3.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250926013500 +0000" stop="20250926022000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions to the first minister Michelle O'Neill, on Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4gcq2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250926022000 +0000" stop="20250926030500 +0000">
 		<title>Northern Ireland Assembly - Economy Questions</title>
@@ -6876,12 +6866,12 @@
 	<programme channel="bbcparliament" start="20250927091000 +0000" stop="20250927111000 +0000">
 		<title>Northern Ireland Assembly - 22/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4gfp3.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250927111000 +0000" stop="20250927115500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions to the first minister Michelle O'Neill, on Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4gcq2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250927115500 +0000" stop="20250927124000 +0000">
 		<title>Northern Ireland Assembly - Economy Questions</title>
@@ -7685,7 +7675,7 @@
 	</programme>
 	<programme channel="s4c" start="20250923130500 +0000" stop="20250923140000 +0000">
 		<title>Prynhawn Da - Tue, 23 Sep 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Heddiw mae Emma Jenkins yn y gornel harddwch a'r wefus sy'n cael ei sylw hi heddiw; a b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250923140000 +0000" stop="20250923140500 +0000">
@@ -7750,7 +7740,7 @@
 	</programme>
 	<programme channel="s4c" start="20250923180000 +0000" stop="20250923183000 +0000">
 		<title>Heno - Tue, 23 Sep 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Byddwn ni ym Mae Caerdydd mewn noson i gyhoeddi llyfr ar fywyd y gwleidydd unigryw, Arg...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250923183000 +0000" stop="20250923190000 +0000">
@@ -8045,7 +8035,7 @@
 	</programme>
 	<programme channel="s4c" start="20250924180000 +0000" stop="20250924183000 +0000">
 		<title>Heno - Wed, 24 Sep 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Cawn flas ar noson ddiweddar yn Aberystwyth oedd yn dathlu agoriad Cornel Clip Archifdy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250924183000 +0000" stop="20250924190000 +0000">
@@ -8250,7 +8240,7 @@
 	</programme>
 	<programme channel="s4c" start="20250925113000 +0000" stop="20250925120000 +0000">
 		<title>Heno - Wed, 24 Sep 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Cawn flas ar noson ddiweddar yn Aberystwyth oedd yn dathlu agoriad Cornel Clip Archifdy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250925120000 +0000" stop="20250925123000 +0000">
@@ -8660,7 +8650,7 @@
 	</programme>
 	<programme channel="s4c" start="20250926200000 +0000" stop="20250926203000 +0000">
 		<title>GISDA - Pennod 2</title>
-		<desc>Mae'n Ddolig ac mae GISDA yn trefnu trip i ganolfan sglefrio rhew. Ond mae cyfnod y Dol...</desc>
+		<desc>Mae Mercedez yn cael sesiwn canu hefo mentor creadigol GISDA, sy'n arwain at benderfyni...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2z64w.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250926203000 +0000" stop="20250926213500 +0000">
