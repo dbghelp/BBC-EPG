@@ -5266,7 +5266,7 @@
 	<programme channel="bbcscotland" start="20250923221500 +0000" stop="20250923224500 +0000">
 		<title>Scotcast - Undercover in a care home</title>
 		<desc>Catriona MacPhee on what it was like being undercover in a Highland care home.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4jk5y.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250923224500 +0000" stop="20250923230000 +0000">
 		<title>Rewind - 1990s - Shortened Versions: 6. 1999</title>
@@ -5310,7 +5310,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20250924200000 +0000" stop="20250924210000 +0000">
 		<title>Debate Night - Series 7: 24/09/2025</title>
-		<desc>Topical debate on the big issues affecting Scotland and beyond.</desc>
+		<desc>Stephen Jardine hosts an evening of topical debate from Edinburgh.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0brnqkq.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250924210000 +0000" stop="20250924213000 +0000">
@@ -6648,60 +6648,90 @@
 		<desc>The statement in the Welsh Parliament on dental contract reform, on Tuesday 23 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250923152000 +0000" stop="20250923160500 +0000">
+	<programme channel="bbcparliament" start="20250923152000 +0000" stop="20250923155500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Period Proud Wales Statement</title>
 		<desc>The statement in the Welsh Parliament on Period Proud Wales, on Tuesday 23 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250923160500 +0000" stop="20250923162000 +0000">
+	<programme channel="bbcparliament" start="20250923155500 +0000" stop="20250923160500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Dogs (Protection of Livestock) Bill</title>
 		<desc>The debate on the legislative consent order for the Dogs (Protection of Livestock) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250923162000 +0000" stop="20250923164000 +0000">
+	<programme channel="bbcparliament" start="20250923160500 +0000" stop="20250923162000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Bus Services Bill</title>
 		<desc>The debate in the Senedd on the legislative consent order for the Bus Services Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250923164000 +0000" stop="20250923183000 +0000">
+	<programme channel="bbcparliament" start="20250923162000 +0000" stop="20250923180500 +0000">
 		<title>Select Committees - Health and Social Care Committee on Care During a Child's First 1,000 Days of Life</title>
 		<desc>The Health and Social Care committee session on the first 1,000 days of a child's life.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250923183000 +0000" stop="20250923185000 +0000">
+	<programme channel="bbcparliament" start="20250923180500 +0000" stop="20250923182000 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
 		<desc>Topical questions covering the closure of Scottish charities and on behaviour in schools.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250923185000 +0000" stop="20250923205000 +0000">
+	<programme channel="bbcparliament" start="20250923182000 +0000" stop="20250923203000 +0000">
 		<title>Scottish Parliament - Housing Bill, Part 1</title>
 		<desc>The debate in the Scottish Parliament on Stage 3 of the Housing Bill, on 23 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250923205000 +0000" stop="20250923225000 +0000">
+	<programme channel="bbcparliament" start="20250923203000 +0000" stop="20250923211500 +0000">
 		<title>Scottish Parliament - Housing Bill, Part 2</title>
 		<desc>The debate in the Scottish Parliament on Stage 3 of the Housing Bill, on 23 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250923225000 +0000" stop="20250923234000 +0000">
+	<programme channel="bbcparliament" start="20250923211500 +0000" stop="20250923221000 +0000">
 		<title>Welsh First Minister's Questions - 23/09/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 23 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250923234000 +0000" stop="20250924005000 +0000">
-		<title>Northern Ireland Assembly - 23/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 23 September.</desc>
+	<programme channel="bbcparliament" start="20250923221000 +0000" stop="20250923224500 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Coverage of brief statements made by members of the Legislative Assembly, on 23 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250924005000 +0000" stop="20250924013500 +0000">
+	<programme channel="bbcparliament" start="20250923224500 +0000" stop="20250924000500 +0000">
+		<title>Northern Ireland Assembly - Irish Government Legacy</title>
+		<desc>Debate tabled by the DUP on 'holding the Irish government to account on legacy'.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250924000500 +0000" stop="20250924011500 +0000">
+		<title>Northern Ireland Assembly - Health and Social Care 2025-26 Pay Awards Motion</title>
+		<desc>Private members' motion on health and social care awards for 2025 and 2026.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250924011500 +0000" stop="20250924020000 +0000">
 		<title>Northern Ireland Assembly - Communities Questions</title>
 		<desc>Questions to the communities minister Gordon Lyons, on Tuesday 23 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250924013500 +0000" stop="20250924050000 +0000">
-		<title>Northern Ireland Assembly - 23/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 23 September.</desc>
+	<programme channel="bbcparliament" start="20250924020000 +0000" stop="20250924023000 +0000">
+		<title>Northern Ireland Assembly - Environmental Protection of Sliabh Beagh</title>
+		<desc>Debate on protecting the countryside of Sliabh Beagh from fires and environmental damage.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250924023000 +0000" stop="20250924031500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Curriculum in Wales Statement</title>
+		<desc>The statement in the Welsh Parliament on the Curriculum in Wales, on Tuesday 23 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250924031500 +0000" stop="20250924040000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Dental Contract Reform Statement</title>
+		<desc>The statement in the Welsh Parliament on dental contract reform, on Tuesday 23 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250924040000 +0000" stop="20250924044000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Period Proud Wales Statement</title>
+		<desc>The statement in the Welsh Parliament on Period Proud Wales, on Tuesday 23 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250924044000 +0000" stop="20250924050000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Dogs (Protection of Livestock) Bill</title>
+		<desc>The debate on the legislative consent order for the Dogs (Protection of Livestock) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250924050000 +0000" stop="20250924071000 +0000">
 		<title>Select Committees - Public Accounts Committee on the BBC's Accounts</title>
