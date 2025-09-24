@@ -802,8 +802,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwgxs1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250924213000 +0000" stop="20250924215800 +0000">
-		<title>Newsnight - 24/09/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Zelensky's UN plea to stop Putin</title>
+		<desc>Zelensky warns the United Nations that Putin must be stopped or their war will spread.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250924215800 +0000" stop="20250924220000 +0000">
@@ -5580,8 +5580,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250924213000 +0000" stop="20250924220000 +0000">
-		<title>Newsnight - 24/09/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Zelensky's UN plea to stop Putin</title>
+		<desc>Zelensky warns the United Nations that Putin must be stopped or their war will spread.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250924220000 +0000" stop="20250924230000 +0000">
@@ -6547,7 +6547,7 @@
 	<programme channel="bbcparliament" start="20250924090000 +0000" stop="20250924112000 +0000">
 		<title>Scottish Parliament - Criminal Justice Committee</title>
 		<desc>The Scottish Parliament's Criminal Justice committee on drug abuse in Scottish prisons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s0vm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250924112000 +0000" stop="20250924121000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
@@ -6562,107 +6562,102 @@
 	<programme channel="bbcparliament" start="20250924130000 +0000" stop="20250924133000 +0000">
 		<title>Scottish Parliament - Deputy First Minister's Questions</title>
 		<desc>Coverage of questions to deputy first minister Kate Forbes on Wednesday 24 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s23v.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250924133000 +0000" stop="20250924135500 +0000">
 		<title>Scottish Parliament - Finance and Local Government Questions</title>
 		<desc>Questions to the cabinet secretary for finance and local government Shona Robison.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s6fg.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250924135500 +0000" stop="20250924143500 +0000">
 		<title>Scottish Parliament - Residential Outdoor Education for Children</title>
 		<desc>The statement on provision of residential outdoor education for children and young people.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s7j2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250924143500 +0000" stop="20250924203000 +0000">
+	<programme channel="bbcparliament" start="20250924143500 +0000" stop="20250924200000 +0000">
 		<title>Scottish Parliament - Housing Bill</title>
 		<desc>Coverage of the Stage 3 debate on the Housing Bill, on Wednesday 24 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250924200000 +0000" stop="20250924203000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250924203000 +0000" stop="20250924212500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Transport and North Wales Questions</title>
 		<desc>Coverage of proceedings in the Senedd, the Welsh Parliament, on Wednesday 24 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250924212500 +0000" stop="20250924215000 +0000">
+	<programme channel="bbcparliament" start="20250924212500 +0000" stop="20250924221500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Social Justice Questions</title>
 		<desc>Questions to the cabinet secretary for social justice, Trefnydd and Chief Whip.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250924215000 +0000" stop="20250924220000 +0000">
+	<programme channel="bbcparliament" start="20250924221500 +0000" stop="20250924222500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Senedd Commission Questions</title>
 		<desc>Coverage of questions to the Senedd Commission, on Wednesday 24 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250924220000 +0000" stop="20250924222000 +0000">
+	<programme channel="bbcparliament" start="20250924222500 +0000" stop="20250924225000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Education Funding Debate</title>
 		<desc>Coverage of the debate on a petition on protecting education funding from cuts.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250924222000 +0000" stop="20250924225000 +0000">
+	<programme channel="bbcparliament" start="20250924225000 +0000" stop="20250924232000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - AI and the Welsh Economy Debate</title>
 		<desc>The debate on the report on AI and the Welsh Economy, on Wednesday 24 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250924225000 +0000" stop="20250924235500 +0000">
+	<programme channel="bbcparliament" start="20250924232000 +0000" stop="20250925002500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - NHS in Wales Debate</title>
 		<desc>Debate tabled by the Welsh Conservatives on the NHS, on Wednesday 24 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250924235500 +0000" stop="20250925002500 +0000">
+	<programme channel="bbcparliament" start="20250925002500 +0000" stop="20250925005500 +0000">
 		<title>Scottish Parliament - Deputy First Minister's Questions</title>
 		<desc>Coverage of questions to deputy first minister Kate Forbes on Wednesday 24 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s23v.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925002500 +0000" stop="20250925004500 +0000">
+	<programme channel="bbcparliament" start="20250925005500 +0000" stop="20250925011500 +0000">
 		<title>Scottish Parliament - Finance and Local Government Questions</title>
 		<desc>Questions to the cabinet secretary for finance and local government Shona Robison.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s6fg.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925004500 +0000" stop="20250925014500 +0000">
+	<programme channel="bbcparliament" start="20250925011500 +0000" stop="20250925021500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Transport and North Wales Questions</title>
 		<desc>Coverage of proceedings in the Senedd, the Welsh Parliament, on Wednesday 24 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925014500 +0000" stop="20250925020500 +0000">
+	<programme channel="bbcparliament" start="20250925021500 +0000" stop="20250925030500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Social Justice Questions</title>
 		<desc>Questions to the cabinet secretary for social justice, Trefnydd and Chief Whip.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925020500 +0000" stop="20250925021500 +0000">
+	<programme channel="bbcparliament" start="20250925030500 +0000" stop="20250925031000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Senedd Commission Questions</title>
 		<desc>Coverage of questions to the Senedd Commission, on Wednesday 24 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925021500 +0000" stop="20250925024000 +0000">
+	<programme channel="bbcparliament" start="20250925031000 +0000" stop="20250925034000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Education Funding Debate</title>
 		<desc>Coverage of the debate on a petition on protecting education funding from cuts.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925024000 +0000" stop="20250925031000 +0000">
+	<programme channel="bbcparliament" start="20250925034000 +0000" stop="20250925041000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - AI and the Welsh Economy Debate</title>
 		<desc>The debate on the report on AI and the Welsh Economy, on Wednesday 24 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925031000 +0000" stop="20250925042000 +0000">
+	<programme channel="bbcparliament" start="20250925041000 +0000" stop="20250925051500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - NHS in Wales Debate</title>
 		<desc>Debate tabled by the Welsh Conservatives on the NHS, on Wednesday 24 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925042000 +0000" stop="20250925044500 +0000">
-		<title>Scottish Parliament - Deputy First Minister's Questions</title>
-		<desc>Coverage of questions to deputy first minister Kate Forbes on Wednesday 24 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250925044500 +0000" stop="20250925051500 +0000">
+	<programme channel="bbcparliament" start="20250925051500 +0000" stop="20250925054000 +0000">
 		<title>Scottish Parliament - Finance and Local Government Questions</title>
 		<desc>Questions to the cabinet secretary for finance and local government Shona Robison.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250925051000 +0000" stop="20250925054000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s6fg.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250925054000 +0000" stop="20250925055000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Senedd Commission Questions</title>
@@ -6732,7 +6727,7 @@
 	<programme channel="bbcparliament" start="20250925163000 +0000" stop="20250925190000 +0000">
 		<title>Scottish Parliament - Criminal Justice Committee</title>
 		<desc>The Scottish Parliament's Criminal Justice committee on drug abuse in Scottish prisons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s0vm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250925190000 +0000" stop="20250925192000 +0000">
 		<title>Scottish Parliament - General Questions</title>
@@ -6767,7 +6762,7 @@
 	<programme channel="bbcparliament" start="20250926030500 +0000" stop="20250926053500 +0000">
 		<title>Northern Ireland Assembly - 22/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4rpzk.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250926053500 +0000" stop="20250926090500 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
@@ -6787,7 +6782,7 @@
 	<programme channel="bbcparliament" start="20250926143500 +0000" stop="20250926170500 +0000">
 		<title>Northern Ireland Assembly - 23/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 23 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4rqqb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250926170500 +0000" stop="20250926175000 +0000">
 		<title>Northern Ireland Assembly - Communities Questions</title>
@@ -6802,7 +6797,7 @@
 	<programme channel="bbcparliament" start="20250926210500 +0000" stop="20250927000500 +0000">
 		<title>Scottish Parliament - Deputy First Minister's Questions</title>
 		<desc>Coverage of questions to deputy first minister Kate Forbes on Wednesday 24 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s23v.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250927000500 +0000" stop="20250927043500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Transport and North Wales Questions</title>
@@ -6852,7 +6847,7 @@
 	<programme channel="bbcparliament" start="20250927124000 +0000" stop="20250927151000 +0000">
 		<title>Northern Ireland Assembly - 22/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4rpzk.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250927151000 +0000" stop="20250927165500 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
@@ -6902,7 +6897,7 @@
 	<programme channel="bbcparliament" start="20250928050000 +0000" stop="20250928073000 +0000">
 		<title>Northern Ireland Assembly - 23/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 23 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4rqqb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250928073000 +0000" stop="20250928081500 +0000">
 		<title>Northern Ireland Assembly - Communities Questions</title>
@@ -6917,12 +6912,12 @@
 	<programme channel="bbcparliament" start="20250928113000 +0000" stop="20250928130000 +0000">
 		<title>Scottish Parliament - Deputy First Minister's Questions</title>
 		<desc>Coverage of questions to deputy first minister Kate Forbes on Wednesday 24 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s23v.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250928130000 +0000" stop="20250928143000 +0000">
 		<title>Scottish Parliament - Finance and Local Government Questions</title>
 		<desc>Questions to the cabinet secretary for finance and local government Shona Robison.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s6fg.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250928143000 +0000" stop="20250928160000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Transport and North Wales Questions</title>
@@ -6962,7 +6957,7 @@
 	<programme channel="bbcparliament" start="20250929005500 +0000" stop="20250929032500 +0000">
 		<title>Northern Ireland Assembly - 22/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4rpzk.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250929032500 +0000" stop="20250929041500 +0000">
 		<title>Welsh First Minister's Questions - 23/09/2025</title>
