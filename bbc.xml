@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250924083000 +0000" stop="20250924094500 +0000">
 		<title>Morning Live - Series 7: 24/09/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Gethin Jones and Kym Marsh are joined by former detective Rav Wilding on crime.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250924094500 +0000" stop="20250924101500 +0000">
@@ -133,7 +133,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250924180000 +0000" stop="20250924183000 +0000">
 		<title>The One Show - 24/09/2025</title>
-		<desc>Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+		<desc>Richard Osman and Joanna Page join Alex Jones and Clara Amfo.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250924183000 +0000" stop="20250924190000 +0000">
@@ -813,7 +813,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20250924220000 +0000" stop="20250924223000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 24/09/2025</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>John Simpson analyses what effect the recognition of Palestine as a state might have.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250924223000 +0000" stop="20250925001000 +0000">
@@ -987,7 +987,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20250926113000 +0000" stop="20250926120000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 2: 26/09/2025</title>
+		<title>Political Thinking with Nick Robinson - Series 2: Danny Kruger</title>
 		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
@@ -5292,7 +5292,7 @@
 	<programme channel="bbcscotland" start="20250926183000 +0000" stop="20250926210000 +0000">
 		<title>Sportscene: Scottish Cup - 2025/26: Auchinleck Talbot v Cumnock Juniors</title>
 		<desc>Live Scottish Cup action as Auchinleck Talbot take on local rivals Cumnock Juniors.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kk0qyf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4n614.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20250926210000 +0000" stop="20250926213000 +0000">
 		<title>Still Game - Series 4: 1. Kill Wullie</title>
@@ -5836,7 +5836,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250926003000 +0000" stop="20250926010000 +0000">
 		<title>Global Eye - 22/09/2025</title>
-		<desc>Anna Holligan is in Alaska, where rising temperatures are threatening communities.</desc>
+		<desc>An investigation exposing a fake news operation in Moldova and Anna Holligan is in Alaska</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3w5vd.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250926010000 +0000" stop="20250926013000 +0000">
@@ -6061,7 +6061,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250926233000 +0000" stop="20250927000000 +0000">
 		<title>Talking Business - 26/09/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Ben Thompson looks at India's economic options.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250927000000 +0000" stop="20250927003000 +0000">
@@ -6141,7 +6141,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250927103000 +0000" stop="20250927110000 +0000">
 		<title>Talking Business - 26/09/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Ben Thompson looks at India's economic options.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250927110000 +0000" stop="20250927113000 +0000">
@@ -6149,10 +6149,15 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250927113000 +0000" stop="20250927120000 +0000">
+	<programme channel="bbcnews" start="20250927113000 +0000" stop="20250927114500 +0000">
 		<title>BBC News - 27/09/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20250927114500 +0000" stop="20250927120000 +0000">
+		<title>The Security Brief - Are We Heading for Space Wars?</title>
+		<desc>Could we be rapidly heading into the era of the weaponisation of space?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50jbw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250927120000 +0000" stop="20250927123000 +0000">
 		<title>BBC News - 27/09/2025</title>
@@ -6195,7 +6200,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250927153000 +0000" stop="20250927160000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 2: 26/09/2025</title>
+		<title>Political Thinking with Nick Robinson - Series 2: Danny Kruger</title>
 		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
@@ -6251,7 +6256,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250927223000 +0000" stop="20250927230000 +0000">
 		<title>Talking Business - 26/09/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Ben Thompson looks at India's economic options.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250927230000 +0000" stop="20250927233000 +0000">
@@ -6281,7 +6286,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20250928013000 +0000" stop="20250928020000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 24/09/2025</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>John Simpson analyses what effect the recognition of Palestine as a state might have.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250928020000 +0000" stop="20250928023000 +0000">
@@ -6752,7 +6757,7 @@
 	<programme channel="bbcparliament" start="20250927165500 +0000" stop="20250927184000 +0000">
 		<title>Scottish Parliament - Housing Bill, Part 1</title>
 		<desc>The debate in the Scottish Parliament on Stage 3 of the Housing Bill, on 23 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4n9zd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250927184000 +0000" stop="20250927215500 +0000">
 		<title>Select Committees - 27/09/2025</title>
@@ -7566,7 +7571,7 @@
 	</programme>
 	<programme channel="s4c" start="20250924130500 +0000" stop="20250924140000 +0000">
 		<title>Prynhawn Da - Wed, 24 Sep 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Agorwn ddrysau'r Clwb Llyfrau, ac mae Angharad Colwill yn y gornel steil gyda chynnyrch...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250924140000 +0000" stop="20250924140500 +0000">
