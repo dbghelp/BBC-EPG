@@ -667,7 +667,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250929190000 +0000" stop="20250929193000 +0000">
 		<title>Panorama - The Truth About Asylum Hotels</title>
-		<desc>What’s the truth about asylum hotels, and the increasing strain on the UK's asylum system?</desc>
+		<desc>What’s the truth about asylum hotels and the increasing strain on the UK's asylum system?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4v6hd.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250929193000 +0000" stop="20250929200000 +0000">
@@ -1389,7 +1389,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250925185800 +0000" stop="20250925190000 +0000">
 		<title>The Catch Up - 25/09/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Ben Henley-Washford.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250925190000 +0000" stop="20250925194000 +0000">
@@ -5612,8 +5612,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250925233000 +0000" stop="20250926000000 +0000">
-		<title>Newscast - 25/09/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Is Andy Burnham Really Going to Challenge Keir Starmer?</title>
+		<desc>Adam is joined by Henry Zeffman and Simon Jack to discuss Andy Burnham, and JLR.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250926000000 +0000" stop="20250926003000 +0000">
@@ -5887,8 +5887,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250927033000 +0000" stop="20250927040000 +0000">
-		<title>The Media Show - 27/09/2025</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - Jimmy Kimmel's Suspension</title>
+		<desc>Treatment of the US talk show host raises questions about US media and political pressure.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250927040000 +0000" stop="20250927043000 +0000">
@@ -6052,8 +6052,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250927233000 +0000" stop="20250928000000 +0000">
-		<title>The Media Show - 27/09/2025</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - Jimmy Kimmel's Suspension</title>
+		<desc>Treatment of the US talk show host raises questions about US media and political pressure.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250928000000 +0000" stop="20250928003000 +0000">
@@ -6232,8 +6232,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250928213000 +0000" stop="20250928220000 +0000">
-		<title>The Media Show - 27/09/2025</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - Jimmy Kimmel's Suspension</title>
+		<desc>Treatment of the US talk show host raises questions about US media and political pressure.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250928220000 +0000" stop="20250928223000 +0000">
@@ -6631,115 +6631,135 @@
 		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 25 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925150000 +0000" stop="20250925163000 +0000">
-		<title>Scottish Parliament - 25/09/2025</title>
+	<programme channel="bbcparliament" start="20250925150000 +0000" stop="20250925161000 +0000">
+		<title>Scottish Parliament - Tertiary Education and Training (Funding and Governance) (Scotland) Bill</title>
 		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 25 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925163000 +0000" stop="20250925171000 +0000">
+	<programme channel="bbcparliament" start="20250925161000 +0000" stop="20250925172000 +0000">
 		<title>Scottish Parliament - Social Justice and Social Security Select Committee</title>
 		<desc>Coverage of the Social Justice and Social Security committee, on Thursday 25 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925171000 +0000" stop="20250925173000 +0000">
+	<programme channel="bbcparliament" start="20250925172000 +0000" stop="20250925174000 +0000">
 		<title>Scottish Parliament - General Questions</title>
 		<desc>Coverage of questions to ministers in the Scottish government, on Thursday 25 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4xvlm.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925173000 +0000" stop="20250925182000 +0000">
+	<programme channel="bbcparliament" start="20250925174000 +0000" stop="20250925183000 +0000">
 		<title>Scottish First Minister's Questions - 25/09/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 25 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4z0pj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925182000 +0000" stop="20250925185500 +0000">
+	<programme channel="bbcparliament" start="20250925183000 +0000" stop="20250925190500 +0000">
 		<title>Scottish Parliament - Glasgow Ship Building Debate</title>
 		<desc>Debate on the Norwegian government's decision to place a £10bn order for navy frigates.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4xwxv.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925185500 +0000" stop="20250925205500 +0000">
-		<title>Scottish Parliament - 25/09/2025</title>
+	<programme channel="bbcparliament" start="20250925190500 +0000" stop="20250925211000 +0000">
+		<title>Scottish Parliament - Tertiary Education and Training (Funding and Governance) (Scotland) Bill</title>
 		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 25 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925205500 +0000" stop="20250925223500 +0000">
-		<title>Scottish Parliament - 25/09/2025</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 25 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	<programme channel="bbcparliament" start="20250925211000 +0000" stop="20250925225500 +0000">
+		<title>Scottish Parliament - Criminal Justice Committee</title>
+		<desc>The Scottish Parliament's Criminal Justice committee on drug abuse in Scottish prisons.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s0vm.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250925223500 +0000" stop="20250926003500 +0000">
-		<title>Northern Ireland Assembly - 22/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4gfp3.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250926003500 +0000" stop="20250926012000 +0000">
-		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Questions to the first minister Michelle O'Neill, on Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4gcq2.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250926012000 +0000" stop="20250926020500 +0000">
-		<title>Northern Ireland Assembly - Economy Questions</title>
-		<desc>Questions to the economy minister, Caoimhe Archibald, on Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4hx5t.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250926020500 +0000" stop="20250926042500 +0000">
-		<title>Northern Ireland Assembly - 22/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 22 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4rpzk.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250926042500 +0000" stop="20250926053500 +0000">
-		<title>This is BBC Parliament - This is BBC Parliament</title>
-		<desc>The top political and parliamentary stories from BBC News.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250926053500 +0000" stop="20250926090500 +0000">
-		<title>Scottish Parliament - Topical Questions</title>
-		<desc>Topical questions covering the closure of Scottish charities and on behaviour in schools.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4kl7t.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20250926090500 +0000" stop="20250926095500 +0000">
+	<programme channel="bbcparliament" start="20250925225500 +0000" stop="20250925235000 +0000">
 		<title>Welsh First Minister's Questions - 23/09/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 23 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250926095500 +0000" stop="20250926143500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - Business Statement</title>
-		<desc>The statement in the Senedd on upcoming chamber business, on Tuesday 23 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4kj17.jpg" />
+	<programme channel="bbcparliament" start="20250925235000 +0000" stop="20250926003500 +0000">
+		<title>Scottish First Minister's Questions - 25/09/2025</title>
+		<desc>Questions to John Swinney, the first minister, on Thursday 25 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4z0pj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250926143500 +0000" stop="20250926170500 +0000">
-		<title>Northern Ireland Assembly - 23/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 23 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4rqqb.jpg" />
+	<programme channel="bbcparliament" start="20250926003500 +0000" stop="20250926041500 +0000">
+		<title>House of Commons - Sentencing Bill Debate</title>
+		<desc>The debate on the second reading of the Sentencing Bill, from Tuesday 16 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3b7sh.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250926170500 +0000" stop="20250926175000 +0000">
+	<programme channel="bbcparliament" start="20250926041500 +0000" stop="20250926053500 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250926053500 +0000" stop="20250926065500 +0000">
+		<title>Select Committees - Foreign Affairs Committee on UK/EU Relations</title>
+		<desc>Foreign Affairs select committee on the government's aim to 'reset' relations with the EU.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3fx6k.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250926065500 +0000" stop="20250926091000 +0000">
+		<title>Select Committees - Culture, Media and Sport Committee on the BBC</title>
+		<desc>The Culture, Media and Sport select committee evidence session on the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1qm07.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250926091000 +0000" stop="20250926111000 +0000">
+		<title>Select Committees - Environment, Food and Rural Affairs Committee on Reforming the Water Sector</title>
+		<desc>Environment, Food and Rural Affairs committee looking at reforming the water sector.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3fxsk.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250926111000 +0000" stop="20250926120500 +0000">
+		<title>Welsh First Minister's Questions - 23/09/2025</title>
+		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 23 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250926120500 +0000" stop="20250926125000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Curriculum in Wales Statement</title>
+		<desc>The statement in the Welsh Parliament on the Curriculum in Wales, on Tuesday 23 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4kj4x.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250926125000 +0000" stop="20250926134000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Dental Contract Reform Statement</title>
+		<desc>The statement in the Welsh Parliament on dental contract reform, on Tuesday 23 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4kjh5.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250926134000 +0000" stop="20250926141500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Period Proud Wales Statement</title>
+		<desc>The statement in the Welsh Parliament on Period Proud Wales, on Tuesday 23 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4kjwh.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250926141500 +0000" stop="20250926150000 +0000">
 		<title>Northern Ireland Assembly - Communities Questions</title>
 		<desc>Questions to the communities minister Gordon Lyons, on Tuesday 23 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250926175000 +0000" stop="20250926210500 +0000">
-		<title>Northern Ireland Assembly - 23/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 23 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20250926150000 +0000" stop="20250926153500 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Coverage of brief statements made by members of the Legislative Assembly, on 23 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4rqqb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250926210500 +0000" stop="20250927000500 +0000">
-		<title>Scottish Parliament - Deputy First Minister's Questions</title>
-		<desc>Coverage of questions to deputy first minister Kate Forbes on Wednesday 24 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s23v.jpg" />
+	<programme channel="bbcparliament" start="20250926153500 +0000" stop="20250926170000 +0000">
+		<title>Northern Ireland Assembly - Irish Government Legacy</title>
+		<desc>Debate tabled by the DUP on 'holding the Irish government to account on legacy'.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4ryfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250927000500 +0000" stop="20250927043500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - Transport and North Wales Questions</title>
-		<desc>Coverage of proceedings in the Senedd, the Welsh Parliament, on Wednesday 24 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	<programme channel="bbcparliament" start="20250926170000 +0000" stop="20250926180500 +0000">
+		<title>Northern Ireland Assembly - Health and Social Care 2025-26 Pay Awards Motion</title>
+		<desc>Private members' motion on health and social care awards for 2025 and 2026.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4n7f1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250927043500 +0000" stop="20250927045500 +0000">
-		<title>Scottish Parliament - General Questions</title>
-		<desc>Coverage of questions to ministers in the Scottish government, on Thursday 25 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4xvlm.jpg" />
+	<programme channel="bbcparliament" start="20250926180500 +0000" stop="20250926202000 +0000">
+		<title>Scottish Parliament - Housing Bill, Part 1</title>
+		<desc>The debate in the Scottish Parliament on Stage 3 of the Housing Bill, on 23 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4n9zd.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250927045500 +0000" stop="20250927054000 +0000">
-		<title>Scottish First Minister's Questions - 25/09/2025</title>
-		<desc>Questions to John Swinney, the first minister, on Thursday 25 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4z0pj.jpg" />
+	<programme channel="bbcparliament" start="20250926202000 +0000" stop="20250926210000 +0000">
+		<title>Scottish Parliament - Housing Bill, Part 2</title>
+		<desc>The debate in the Scottish Parliament on Stage 3 of the Housing Bill, on 23 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4ncdv.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250926210000 +0000" stop="20250927000000 +0000">
+		<title>Scottish Parliament - Housing Bill, Part 3</title>
+		<desc>Coverage of Stage 3 proceedings on the Housing Bill, on Tuesday 23 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250927000000 +0000" stop="20250927054000 +0000">
+		<title>Scottish Parliament - Housing Bill, Part 4</title>
+		<desc>The debate in the Scottish Parliament on Stage 3 of the Housing Bill, on 24 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250927054000 +0000" stop="20250927061000 +0000">
 		<title>Scottish Parliament - 25/09/2025</title>
@@ -6752,7 +6772,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250927074000 +0000" stop="20250927091000 +0000">
-		<title>Scottish Parliament - 25/09/2025</title>
+		<title>Scottish Parliament - Tertiary Education and Training (Funding and Governance) (Scotland) Bill</title>
 		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 25 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
@@ -6814,7 +6834,7 @@
 	<programme channel="bbcparliament" start="20250928032500 +0000" stop="20250928041000 +0000">
 		<title>Scottish First Minister's Questions - 25/09/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 25 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4z0pj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250928041000 +0000" stop="20250928050000 +0000">
 		<title>Welsh First Minister's Questions - 23/09/2025</title>
@@ -6894,7 +6914,7 @@
 	<programme channel="bbcparliament" start="20250929041500 +0000" stop="20250929050000 +0000">
 		<title>Scottish First Minister's Questions - 25/09/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 25 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4z0pj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250929050000 +0000" stop="20250929052000 +0000">
 		<title>Scottish Parliament - General Questions</title>
@@ -6917,7 +6937,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250929080500 +0000" stop="20250929093500 +0000">
-		<title>Scottish Parliament - 25/09/2025</title>
+		<title>Scottish Parliament - Tertiary Education and Training (Funding and Governance) (Scotland) Bill</title>
 		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 25 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
@@ -8446,42 +8466,42 @@
 		<desc>Mae Martin yn gor-ddweud pethau am ei gartref, ac felly mae Odo a Dwdl yn trio gwella G...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdbjjz.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929054000 +0000" stop="20250929060000 +0000">
+	<programme channel="s4c" start="20250929054000 +0000" stop="20250929055500 +0000">
 		<title>Ahoi! - Cyfres 2: Ysgol Gelli Onnen</title>
 		<desc>Tro mor ladron ifanc Ysgol Gelli Onnen yw hi heddiw i herio Capten Cnec a'u dasgau. Tod...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07lssbh.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929060000 +0000" stop="20250929060500 +0000">
+	<programme channel="s4c" start="20250929055500 +0000" stop="20250929060500 +0000">
 		<title>Caban Banana Gareth - Cyfres 1: Diddordebau 1</title>
 		<desc>Mae Gareth yr Orangutan yn teithio ysgolion Cymru yn trafod pob math o bynciau difyr. W...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwgf1c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929060500 +0000" stop="20250929062000 +0000">
+	<programme channel="s4c" start="20250929060500 +0000" stop="20250929061500 +0000">
 		<title>Octonots - Cyfres 3: a'r Walrysod Bach</title>
 		<desc>Mae nith a nai Capten Cwrwgl yn helpu eu hewythr i geisio achub tri walrws bach sydd me...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04m3jrd.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929062000 +0000" stop="20250929063000 +0000">
+	<programme channel="s4c" start="20250929061500 +0000" stop="20250929062500 +0000">
 		<title>Annibendod - Cyfres 1: Hud a Lledrith</title>
 		<desc>Mae Gari'n poeni bod llygoden yn yr ysgol ond yn methu ei ddal, ac mae Miss Enfys wedi ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5s51p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929063000 +0000" stop="20250929064500 +0000">
+	<programme channel="s4c" start="20250929062500 +0000" stop="20250929064000 +0000">
 		<title>Patrôl Pawennau - Cyfres 4: Cwn: Achub Cystadleuaeth Tsili</title>
 		<desc>Pa driciau sydd gan Maer Campus i ennill y gystadleuaeth coginio tsili? What tricks doe...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0645yv0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929064500 +0000" stop="20250929070000 +0000">
+	<programme channel="s4c" start="20250929064000 +0000" stop="20250929070000 +0000">
 		<title>Parc Glan Gwil - Pennod 6</title>
 		<desc>Mae'r criw'n mynd i bysgota ond does gan Glynwen ddim gwialen. Mae Misha yn dangos iddi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lt9p3v.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929070000 +0000" stop="20250929071000 +0000">
+	<programme channel="s4c" start="20250929070000 +0000" stop="20250929070500 +0000">
 		<title>Byd Carlo Bach - Carlo'r Bwgan Brain</title>
 		<desc>Mae Carlo wrth ei fodd yn tyfu llysiau. Pwy arall sydd yn hoffi bwyta llysiau? Carlo li...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02hj0wb.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929071000 +0000" stop="20250929072000 +0000">
+	<programme channel="s4c" start="20250929070500 +0000" stop="20250929072000 +0000">
 		<title>Joni Jet - Cyfres 1: Dan Jerus Unwaith Eto</title>
 		<desc>Wedi i Dan Jerus gael damwain a difetha tasg Jetboi a Jetferch, rhaid iddynt ddysgu i g...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
@@ -8516,12 +8536,12 @@
 		<desc>Mae Betsi yn meddwl ei bod wedi rhoi swyn ar Conyn a'i wneud yn gawr. Betsi thinks she'...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04w3lk5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929083000 +0000" stop="20250929084500 +0000">
+	<programme channel="s4c" start="20250929083000 +0000" stop="20250929084000 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Ffrind newydd Crawc</title>
 		<desc>Mae Crawc wrth ei fodd pan mae hwyaden fach newydd yn deor ac yn closio ato'n syth. In ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929084500 +0000" stop="20250929090000 +0000">
+	<programme channel="s4c" start="20250929084000 +0000" stop="20250929090000 +0000">
 		<title>Fferm Fach - Cyfres 2: Mêl</title>
 		<desc>Mae Nel a Guto eisiau gwybod o ble mae mêl yn dod. Felly, mae Hywel, y ffermwr hud, yn ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f56yqk.jpg" />
@@ -8536,12 +8556,12 @@
 		<desc>Beth sydd yn codi ofn ar y ceffylau nen heddiw? What is frightening the horses today?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03ms0kr.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929092000 +0000" stop="20250929093000 +0000">
+	<programme channel="s4c" start="20250929092000 +0000" stop="20250929093500 +0000">
 		<title>Pablo - Cyfres 1: Y Pefrau</title>
 		<desc>Mae gan Pablo ei ffordd ei hun o weld y byd, ond beth ydi'r golau disglair sydd yn pefr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09f9333.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929093000 +0000" stop="20250929094000 +0000">
+	<programme channel="s4c" start="20250929093500 +0000" stop="20250929094000 +0000">
 		<title>Odo - Cyfres 2: Diwrnod Ffrindiau</title>
 		<desc>Er mwyn i Iago neud ffrindiau rhaid iddo fe fod "yn fe ei hunan", yn ol Odo a Dwdl. Odo...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdbjjz.jpg" />
@@ -8566,12 +8586,12 @@
 		<desc>Mae Gwyneth Gwrtaith yn cynnal te prynhawn. Ond mae pethau'n mynd yn anniben iawn pan b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5s508.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929103000 +0000" stop="20250929104500 +0000">
+	<programme channel="s4c" start="20250929103000 +0000" stop="20250929104000 +0000">
 		<title>Patrôl Pawennau - Cyfres 4: Cwn yn Achub Babi Campus</title>
 		<desc>Pam fod Maer Campus yn ymddwyn gymaint fel babi? Ydi o rhywbeth i'w wneud â llaeth y gn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0645yv0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929104500 +0000" stop="20250929110000 +0000">
+	<programme channel="s4c" start="20250929104000 +0000" stop="20250929110000 +0000">
 		<title>Parc Glan Gwil - Pennod 5</title>
 		<desc>Mae Tref yn cael trafferth gyda'r peiriant golchi ac mae llanast yn y golchdy! Tref is ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1yscs.jpg" />
@@ -8616,22 +8636,22 @@
 		<desc>Cyfres yn dilyn antur Lowri Morgan a Thîm Cymru yn ras aml-chwaraeon ITERA, Yr Alban. S...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m33mnx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929150000 +0000" stop="20250929150500 +0000">
+	<programme channel="s4c" start="20250929150000 +0000" stop="20250929151500 +0000">
 		<title>Caban Banana Gareth - Cyfres 1: Anifeiliaid Anwes 1</title>
 		<desc>Mae Gareth yr Orangutan yn teithio ysgolion ledled Cymru yn trafod amryw bynciau. Wythn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwgf1c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929150500 +0000" stop="20250929151500 +0000">
+	<programme channel="s4c" start="20250929151500 +0000" stop="20250929152000 +0000">
 		<title>Byd Carlo Bach - Pyped yn Perfformio</title>
 		<desc>Mae Carlo yn hoffi chwarae efo pypedau. Tybed sut beth fyddai bod yn byped ar gortyn? C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02hj0wb.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929151500 +0000" stop="20250929153000 +0000">
+	<programme channel="s4c" start="20250929152000 +0000" stop="20250929153500 +0000">
 		<title>Byd Tad-Cu - Cyfres 2: Mwnciod</title>
 		<desc>Pam bod mwncïod yn byw mewn coed'? yw cwestiwn Jamal i Tad-cu heddiw. Why do monkeys li...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g0r0jt.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929153000 +0000" stop="20250929154500 +0000">
+	<programme channel="s4c" start="20250929153500 +0000" stop="20250929154500 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Dripian Dropian</title>
 		<desc>Mae dwr yn diferu o'r to gan dorri ar draws cyngerdd ffidil Crawc. Crawc tries to fix a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
@@ -8641,12 +8661,12 @@
 		<desc>Mae Tref Trefn wedi trefnu noson gyda band enwog yn Parc Glan Gwil - ond alla nhw ddim ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1ys6k.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929160000 +0000" stop="20250929161000 +0000">
+	<programme channel="s4c" start="20250929160000 +0000" stop="20250929161500 +0000">
 		<title>Bwystfil - Cyfres 1: Pennod 38</title>
 		<desc>Dyw anifeiliaid byth yn stopio symud, ac mae'n amser nawr i gwrdd â deg bwysfil sy'n sy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07lr3vr.jpg" />
 	</programme>
-	<programme channel="s4c" start="20250929161000 +0000" stop="20250929163500 +0000">
+	<programme channel="s4c" start="20250929161500 +0000" stop="20250929163500 +0000">
 		<title>Gwrach y Rhibyn - Cyfres 2: Pennod 5</title>
 		<desc>Cyfres antur lle mae pedwar tîm yn ceisio dianc rhag Gwrach y Rhibyn cyn i'r haul fachl...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0db9p2b.jpg" />
