@@ -5718,15 +5718,10 @@
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250929190000 +0000" stop="20250929193000 +0000">
-		<title>The Context - 29/09/2025</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250929193000 +0000" stop="20250929200000 +0000">
-		<title>The Context - 29/09/2025</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
+	<programme channel="bbcnews" start="20250929190000 +0000" stop="20250929200000 +0000">
+		<title>BBC News - 29/09/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250929200000 +0000" stop="20250929203000 +0000">
 		<title>The Context USA - 29/09/2025</title>
@@ -6783,24 +6778,29 @@
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhy2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929143000 +0000" stop="20250929180000 +0000">
+	<programme channel="bbcparliament" start="20250929143000 +0000" stop="20250929173500 +0000">
 		<title>Northern Ireland Assembly - 29/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929180000 +0000" stop="20250929183000 +0000">
+	<programme channel="bbcparliament" start="20250929173500 +0000" stop="20250929180500 +0000">
 		<title>Northern Ireland Assembly - Digital ID Cards</title>
 		<desc>Coverage of the debate on the UK government's plans for digital ID cards, on 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhh0.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929183000 +0000" stop="20250929190000 +0000">
+	<programme channel="bbcparliament" start="20250929180500 +0000" stop="20250929183500 +0000">
 		<title>Northern Ireland Assembly - Members' Statements</title>
 		<desc>Brief statements made by members of the Legislative Assembly, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929190000 +0000" stop="20250929200000 +0000">
-		<title>Northern Ireland Assembly - School Uniforms Bill</title>
+	<programme channel="bbcparliament" start="20250929183500 +0000" stop="20250929193000 +0000">
+		<title>Northern Ireland Assembly - School Uniforms Bill First Session</title>
 		<desc>Coverage of the debate on the Further Consideration stage of the School Uniforms Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250929193000 +0000" stop="20250929200000 +0000">
+		<title>Northern Ireland Assembly - School Uniforms Bill Second Session</title>
+		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250929200000 +0000" stop="20250929204500 +0000">
@@ -6808,50 +6808,65 @@
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhp4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929204500 +0000" stop="20250929213000 +0000">
+	<programme channel="bbcparliament" start="20250929204500 +0000" stop="20250929210000 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhy2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929213000 +0000" stop="20250929231500 +0000">
+	<programme channel="bbcparliament" start="20250929210000 +0000" stop="20250929222500 +0000">
 		<title>Northern Ireland Assembly - Endometriosis Care</title>
 		<desc>The debate in the Northern Ireland Assembly on endometriosis care, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929231500 +0000" stop="20250930010000 +0000">
+	<programme channel="bbcparliament" start="20250929222500 +0000" stop="20250929232000 +0000">
 		<title>Northern Ireland Assembly - Aviation Strategy</title>
 		<desc>Coverage of the debate on the 'failure to deliver an aviation strategy', on 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930010000 +0000" stop="20250930013000 +0000">
+	<programme channel="bbcparliament" start="20250929232000 +0000" stop="20250929235000 +0000">
 		<title>Northern Ireland Assembly - Digital ID Cards</title>
 		<desc>Coverage of the debate on the UK government's plans for digital ID cards, on 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhh0.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930013000 +0000" stop="20250930020000 +0000">
+	<programme channel="bbcparliament" start="20250929235000 +0000" stop="20250930002000 +0000">
 		<title>Northern Ireland Assembly - Members' Statements</title>
 		<desc>Brief statements made by members of the Legislative Assembly, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930020000 +0000" stop="20250930030000 +0000">
-		<title>Northern Ireland Assembly - School Uniforms Bill</title>
+	<programme channel="bbcparliament" start="20250930002000 +0000" stop="20250930011000 +0000">
+		<title>Northern Ireland Assembly - School Uniforms Bill First Session</title>
 		<desc>Coverage of the debate on the Further Consideration stage of the School Uniforms Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930030000 +0000" stop="20250930034500 +0000">
+	<programme channel="bbcparliament" start="20250930011000 +0000" stop="20250930014500 +0000">
+		<title>Northern Ireland Assembly - School Uniforms Bill Second Session</title>
+		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250930014500 +0000" stop="20250930023000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhp4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930034500 +0000" stop="20250930043000 +0000">
+	<programme channel="bbcparliament" start="20250930023000 +0000" stop="20250930024500 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhy2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930043000 +0000" stop="20250930061500 +0000">
-		<title>Northern Ireland Assembly - Endometriosis Care</title>
-		<desc>The debate in the Northern Ireland Assembly on endometriosis care, on Monday 29 September.</desc>
+	<programme channel="bbcparliament" start="20250930041000 +0000" stop="20250930050500 +0000">
+		<title>Northern Ireland Assembly - Aviation Strategy</title>
+		<desc>Coverage of the debate on the 'failure to deliver an aviation strategy', on 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250930050500 +0000" stop="20250930060500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Transport and North Wales Questions</title>
+		<desc>Coverage of proceedings in the Senedd, the Welsh Parliament, on Wednesday 24 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m57f6s.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250930060500 +0000" stop="20250930061500 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20250930061500 +0000" stop="20250930091500 +0000">
 		<title>Westminster Hall - SEND Provision Debate</title>
@@ -6921,7 +6936,7 @@
 	<programme channel="bbcparliament" start="20251001110000 +0000" stop="20251001130000 +0000">
 		<title>Northern Ireland Assembly - 29/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 29 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhh0.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251001130000 +0000" stop="20251001160000 +0000">
 		<title>Scottish Parliament - 01/10/2025</title>
@@ -6956,12 +6971,12 @@
 	<programme channel="bbcparliament" start="20251002070000 +0000" stop="20251002074500 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhp4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251002074500 +0000" stop="20251002083000 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 29 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhy2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251002083000 +0000" stop="20251002104000 +0000">
 		<title>Scottish Parliament - 02/10/2025</title>
@@ -6986,7 +7001,7 @@
 	<programme channel="bbcparliament" start="20251002121500 +0000" stop="20251002130000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhp4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251002130000 +0000" stop="20251002133000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
@@ -7021,17 +7036,17 @@
 	<programme channel="bbcparliament" start="20251002233500 +0000" stop="20251003013500 +0000">
 		<title>Northern Ireland Assembly - 29/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 29 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhh0.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251003013500 +0000" stop="20251003022000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhp4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251003022000 +0000" stop="20251003030500 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 29 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhy2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251003030500 +0000" stop="20251003053500 +0000">
 		<title>Northern Ireland Assembly - 29/09/2025</title>
