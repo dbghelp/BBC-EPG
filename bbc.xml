@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20250929083000 +0000" stop="20250929094500 +0000">
 		<title>Morning Live - Series 7: 29/09/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>Gethin Jones and Helen Skelton are joined Laura Pomfret to discuss savings on toys.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5m8fl.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250929094500 +0000" stop="20250929101500 +0000">
 		<title>SAS: Catching the Criminals - Series 1: Episode 6</title>
@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250929180000 +0000" stop="20250929183000 +0000">
 		<title>The One Show - 29/09/2025</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>With guests Sir Gary Oldman, Nick Knowles, Zoe Aldcroft, Rosie Galligan and Zoe Harrison.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250929183000 +0000" stop="20250929190000 +0000">
@@ -1338,7 +1338,7 @@
 	<programme channel="bbctwo" start="20251003190000 +0000" stop="20251003200000 +0000">
 		<title>Gardeners' World - 2025: Episode 26</title>
 		<desc>Frances Tophill is back at Damson Farm in the Somerset countryside.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08jbf3w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5m6g5.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251003200000 +0000" stop="20251003211500 +0000">
 		<title>Rye Lane</title>
@@ -1412,7 +1412,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250929185800 +0000" stop="20250929190000 +0000">
 		<title>The Catch Up - 29/09/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Lola Schroer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250929190000 +0000" stop="20250929200000 +0000">
@@ -5643,20 +5643,15 @@
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250929104500 +0000" stop="20250929110000 +0000">
+	<programme channel="bbcnews" start="20250929104500 +0000" stop="20250929105000 +0000">
 		<title>BBC News - 29/09/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250929110000 +0000" stop="20250929113000 +0000">
-		<title>BBC News Now - 29/09/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250929113000 +0000" stop="20250929120000 +0000">
-		<title>BBC News Now - 29/09/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	<programme channel="bbcnews" start="20250929105000 +0000" stop="20250929120000 +0000">
+		<title>Politics Live - 29/09/2025: Conference 2025</title>
+		<desc>Chancellor Rachel Reeves’s speech to the Labour Party Conference.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m496r1.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250929120000 +0000" stop="20250929130000 +0000">
 		<title>BBC News at One - 29/09/2025</title>
@@ -6798,57 +6793,82 @@
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929143000 +0000" stop="20250929170000 +0000">
+	<programme channel="bbcparliament" start="20250929143000 +0000" stop="20250929180000 +0000">
 		<title>Northern Ireland Assembly - 29/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929170000 +0000" stop="20250929190000 +0000">
-		<title>Northern Ireland Assembly - 29/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 29 September.</desc>
+	<programme channel="bbcparliament" start="20250929180000 +0000" stop="20250929183000 +0000">
+		<title>Northern Ireland Assembly - Digital ID Cards</title>
+		<desc>Coverage of the debate on the UK government's plans for digital ID cards, on 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929190000 +0000" stop="20250929194500 +0000">
+	<programme channel="bbcparliament" start="20250929183000 +0000" stop="20250929190000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Brief statements made by members of the Legislative Assembly, on Monday 29 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250929190000 +0000" stop="20250929200000 +0000">
+		<title>Northern Ireland Assembly - School Uniforms Bill</title>
+		<desc>Coverage of the debate on the Further Consideration stage of the School Uniforms Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250929200000 +0000" stop="20250929204500 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929194500 +0000" stop="20250929203000 +0000">
+	<programme channel="bbcparliament" start="20250929204500 +0000" stop="20250929213000 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929203000 +0000" stop="20250929230000 +0000">
-		<title>Northern Ireland Assembly - 29/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 29 September.</desc>
+	<programme channel="bbcparliament" start="20250929213000 +0000" stop="20250929231500 +0000">
+		<title>Northern Ireland Assembly - Endometriosis Care</title>
+		<desc>The debate in the Northern Ireland Assembly on endometriosis care, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250929230000 +0000" stop="20250930010000 +0000">
-		<title>Northern Ireland Assembly - 29/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 29 September.</desc>
+	<programme channel="bbcparliament" start="20250929231500 +0000" stop="20250930010000 +0000">
+		<title>Northern Ireland Assembly - Aviation Strategy</title>
+		<desc>Coverage of the debate on the 'failure to deliver an aviation strategy', on 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930010000 +0000" stop="20250930014500 +0000">
+	<programme channel="bbcparliament" start="20250930010000 +0000" stop="20250930013000 +0000">
+		<title>Northern Ireland Assembly - Digital ID Cards</title>
+		<desc>Coverage of the debate on the UK government's plans for digital ID cards, on 29 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250930013000 +0000" stop="20250930020000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Brief statements made by members of the Legislative Assembly, on Monday 29 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250930020000 +0000" stop="20250930030000 +0000">
+		<title>Northern Ireland Assembly - School Uniforms Bill</title>
+		<desc>Coverage of the debate on the Further Consideration stage of the School Uniforms Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250930030000 +0000" stop="20250930034500 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930014500 +0000" stop="20250930023000 +0000">
+	<programme channel="bbcparliament" start="20250930034500 +0000" stop="20250930043000 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930023000 +0000" stop="20250930050000 +0000">
-		<title>Northern Ireland Assembly - 29/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 29 September.</desc>
+	<programme channel="bbcparliament" start="20250930043000 +0000" stop="20250930061500 +0000">
+		<title>Northern Ireland Assembly - Endometriosis Care</title>
+		<desc>The debate in the Northern Ireland Assembly on endometriosis care, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930050000 +0000" stop="20250930070000 +0000">
-		<title>Northern Ireland Assembly - 29/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 29 September.</desc>
+	<programme channel="bbcparliament" start="20250930061500 +0000" stop="20250930080000 +0000">
+		<title>Northern Ireland Assembly - Aviation Strategy</title>
+		<desc>Coverage of the debate on the 'failure to deliver an aviation strategy', on 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930070000 +0000" stop="20250930093000 +0000">
+	<programme channel="bbcparliament" start="20250930080000 +0000" stop="20250930093000 +0000">
 		<title>Northern Ireland Assembly - 29/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
@@ -8207,7 +8227,7 @@ Suzie Roberts reads Earball Katinka.</desc>
 	<programme channel="s4c" start="20250930200000 +0000" stop="20250930210000 +0000">
 		<title>Cyfrinachau'r Llyfrgell - Cyfres 2: Scott Quinnell</title>
 		<desc>Yn rhannu cyfrinachau y tro hwn mae'r arwr rygbi Scott Quinell, sy'n codi ymwybyddiaeth...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ksr7wb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5m9xg.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250930210000 +0000" stop="20250930213000 +0000">
 		<title>Clwb Rygbi - Tymor 2024/25: Pennod 3</title>
@@ -8467,7 +8487,7 @@ Suzie Roberts reads Earball Katinka.</desc>
 	<programme channel="s4c" start="20251001172500 +0000" stop="20251001173000 +0000">
 		<title>Darllediad Gwleidyddol Llafur Cymru</title>
 		<desc>Darllediad gwleidyddol gan Llafur Cymru. Political broadcast by Welsh Labour.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5mv54.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251001173000 +0000" stop="20251001180000 +0000">
 		<title>Rownd a Rownd - Tue, 30 Sep 2025</title>
@@ -9017,7 +9037,7 @@ Suzie Roberts reads Earball Katinka.</desc>
 	<programme channel="s4c" start="20251003140500 +0000" stop="20251003150000 +0000">
 		<title>Cyfrinachau'r Llyfrgell - Cyfres 2: Scott Quinnell</title>
 		<desc>Yn rhannu cyfrinachau y tro hwn mae'r arwr rygbi Scott Quinell, sy'n codi ymwybyddiaeth...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ksr7wb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5m9xg.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251003150000 +0000" stop="20251003151000 +0000">
 		<title>Odo - Cyfres 2: Llyfr Penbandit</title>
