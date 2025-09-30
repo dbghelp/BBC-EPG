@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20250930083000 +0000" stop="20250930094500 +0000">
 		<title>Morning Live - Series 7: 30/09/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>Gethin and Helen are joined by Emmanuel Sonubi, who talks about living with heart failure.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5v0l2.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250930094500 +0000" stop="20250930101500 +0000">
 		<title>SAS: Catching the Criminals - Series 1: Episode 7</title>
@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20250930180000 +0000" stop="20250930183000 +0000">
 		<title>The One Show - 30/09/2025</title>
-		<desc>Angellica Bell and Clara Amfo bring you the stories that matter from across the country.</desc>
+		<desc>With Alexander Armstrong, Touker Suleyman, Harry Aikines-Aryeetey and Karen Hauer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20250930183000 +0000" stop="20250930190000 +0000">
@@ -1406,7 +1406,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20250930185500 +0000" stop="20250930190000 +0000">
 		<title>The Catch Up - 30/09/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Lola Schroer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20250930190000 +0000" stop="20250930200000 +0000">
@@ -5585,12 +5585,12 @@
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250930104500 +0000" stop="20250930110000 +0000">
+	<programme channel="bbcnews" start="20250930104500 +0000" stop="20250930111500 +0000">
 		<title>BBC News - 30/09/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250930110000 +0000" stop="20250930113000 +0000">
+	<programme channel="bbcnews" start="20250930111500 +0000" stop="20250930113000 +0000">
 		<title>BBC News Now - 30/09/2025</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
@@ -5600,30 +5600,15 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250930120000 +0000" stop="20250930130000 +0000">
+	<programme channel="bbcnews" start="20250930120000 +0000" stop="20250930124500 +0000">
 		<title>BBC News at One - 30/09/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20250930130000 +0000" stop="20250930133000 +0000">
-		<title>BBC News Now - 30/09/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250930133000 +0000" stop="20250930134500 +0000">
-		<title>Business Today - NYSE Opening Bell - 30/09/2025</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250930134500 +0000" stop="20250930140000 +0000">
-		<title>BBC News Now - 30/09/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20250930140000 +0000" stop="20250930143000 +0000">
-		<title>Verified Live - 30/09/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
+	<programme channel="bbcnews" start="20250930124500 +0000" stop="20250930143000 +0000">
+		<title>Politics Live - 30/09/2025: Conference 2025</title>
+		<desc>Sir Keir Starmer’s speech to the Labour Party conference in Liverpool.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m496r1.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20250930143000 +0000" stop="20250930150000 +0000">
 		<title>Verified Live - 30/09/2025</title>
@@ -6516,9 +6501,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251004123000 +0000" stop="20251004130000 +0000">
-		<title>The Interview - The Interview: Ken Burns</title>
-		<desc>Caitriona Perry sits down with award-winning America film-maker Ken Burns.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3d1cg.jpg" />
+		<title>Scams &amp; Scandals  - The Botox Black Market</title>
+		<desc>Exposing dangerous medical professionals breaking rules in Britain's "Botox Wild West".</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3cd41.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251004130000 +0000" stop="20251004133000 +0000">
 		<title>BBC News - 04/10/2025</title>
@@ -6627,7 +6612,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251005003000 +0000" stop="20251005010000 +0000">
 		<title>The Interview - The Interview: Ken Burns</title>
-		<desc>Caitriona Perry sits down with award-winning America film-maker Ken Burns.</desc>
+		<desc>Caitriona Perry sits down with award winning America filmmaker Ken Burns.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3d1cg.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251005010000 +0000" stop="20251005013000 +0000">
@@ -6710,39 +6695,69 @@
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930132000 +0000" stop="20250930180000 +0000">
+	<programme channel="bbcparliament" start="20250930132000 +0000" stop="20250930170500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - 30/09/2025</title>
 		<desc>Coverage of proceedings in the Senedd, the Welsh Parliament, on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930180000 +0000" stop="20250930213000 +0000">
-		<title>Scottish Parliament - 30/09/2025</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Tuesday 30 September.</desc>
+	<programme channel="bbcparliament" start="20250930170500 +0000" stop="20250930180000 +0000">
+		<title>Northern Ireland Assembly - Aviation Strategy</title>
+		<desc>Coverage of the debate on the 'failure to deliver an aviation strategy', on 29 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250930180000 +0000" stop="20250930182000 +0000">
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Coverage of topical questions to ministers in the Scottish government, on 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930213000 +0000" stop="20250930222000 +0000">
+	<programme channel="bbcparliament" start="20250930182000 +0000" stop="20250930190000 +0000">
+		<title>Scottish Parliament - Techscaler Programme Statement</title>
+		<desc>Coverage of the ministerial statement on the Techscaler programme on Tuesday 30 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250930190000 +0000" stop="20250930210000 +0000">
+		<title>Scottish Parliament - Housing Bill, Part 1</title>
+		<desc>The debate on Stage 3 proceedings of the Housing (Scotland) Bill, on Tuesday 30 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250930210000 +0000" stop="20250930223000 +0000">
+		<title>Scottish Parliament - Housing Bill, Part 2</title>
+		<desc>The debate on Stage 3 proceedings of the Housing (Scotland) Bill, on Tuesday 30 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250930223000 +0000" stop="20250930232000 +0000">
 		<title>Welsh First Minister's Questions - 30/09/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930222000 +0000" stop="20251001005000 +0000">
-		<title>Northern Ireland Assembly - 30/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 30 September.</desc>
+	<programme channel="bbcparliament" start="20250930232000 +0000" stop="20250930235000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Brief statements made by members of the legislative assembly, on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001005000 +0000" stop="20251001013500 +0000">
+	<programme channel="bbcparliament" start="20250930235000 +0000" stop="20251001013500 +0000">
+		<title>Northern Ireland Assembly - Skill Gaps Debate</title>
+		<desc>Coverage of the debate on addressing the skills gap between young people and businesses.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251001013500 +0000" stop="20251001021000 +0000">
 		<title>Northern Ireland Assembly - Finance Questions</title>
 		<desc>Questions to the finance minister, John O'Dowd, on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001013500 +0000" stop="20251001050000 +0000">
-		<title>Northern Ireland Assembly - 30/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 30 September.</desc>
+	<programme channel="bbcparliament" start="20251001021000 +0000" stop="20251001034500 +0000">
+		<title>Northern Ireland Assembly - Drug Testing Schemes</title>
+		<desc>Coverage of the debate on drug testing schemes, on Tuesday 30 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251001034500 +0000" stop="20251001050000 +0000">
+		<title>Northern Ireland Assembly - Northern Ireland Community Investment Fund</title>
+		<desc>Coverage of the ministerial statement on the Northern Ireland Community Investment Fund.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251001050000 +0000" stop="20251001083000 +0000">
-		<title>Scottish Parliament - 30/09/2025</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Tuesday 30 September.</desc>
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Coverage of topical questions to ministers in the Scottish government, on 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251001083000 +0000" stop="20251001110000 +0000">
@@ -6871,8 +6886,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251003053500 +0000" stop="20251003090500 +0000">
-		<title>Scottish Parliament - 30/09/2025</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Tuesday 30 September.</desc>
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Coverage of topical questions to ministers in the Scottish government, on 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251003090500 +0000" stop="20251003095500 +0000">
@@ -6956,13 +6971,13 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251004151000 +0000" stop="20251004165500 +0000">
-		<title>Scottish Parliament - 30/09/2025</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Tuesday 30 September.</desc>
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Coverage of topical questions to ministers in the Scottish government, on 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251004165500 +0000" stop="20251004184000 +0000">
-		<title>Scottish Parliament - 30/09/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Tuesday 30 September.</desc>
+		<title>Scottish Parliament - Techscaler Programme Statement</title>
+		<desc>Coverage of the ministerial statement on the Techscaler programme on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251004184000 +0000" stop="20251004215500 +0000">
@@ -7778,7 +7793,7 @@ Suzie Roberts reads Earball Katinka.</desc>
 	</programme>
 	<programme channel="s4c" start="20250930180000 +0000" stop="20250930183000 +0000">
 		<title>Heno - Tue, 30 Sep 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae Paul Davies yn ymweld â Neuadd Les Pendyrus ,yn y stiwdio mae'r newyddiadurwr Betha...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20250930183000 +0000" stop="20250930190000 +0000">
@@ -7983,7 +7998,7 @@ Suzie Roberts reads Earball Katinka.</desc>
 	</programme>
 	<programme channel="s4c" start="20251001113000 +0000" stop="20251001120000 +0000">
 		<title>Heno - Tue, 30 Sep 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae Paul Davies yn ymweld â Neuadd Les Pendyrus ,yn y stiwdio mae'r newyddiadurwr Betha...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251001120000 +0000" stop="20251001130000 +0000">
@@ -7998,7 +8013,7 @@ Suzie Roberts reads Earball Katinka.</desc>
 	</programme>
 	<programme channel="s4c" start="20251001130500 +0000" stop="20251001140000 +0000">
 		<title>Prynhawn Da - Wed, 01 Oct 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Bydd gan Sharon Leech syniadau Hydrefol ar gyfer y cartref ag i ni'n sgwrsio gyda aelod...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251001140000 +0000" stop="20251001140500 +0000">
@@ -8073,7 +8088,7 @@ Suzie Roberts reads Earball Katinka.</desc>
 	</programme>
 	<programme channel="s4c" start="20251001180000 +0000" stop="20251001183000 +0000">
 		<title>Heno - Wed, 01 Oct 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae cyflwynydd Heno, Mari Grug yn siarad yn onest am yr heriau o fyw gyda Chanser y Fro...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251001183000 +0000" stop="20251001190000 +0000">
@@ -8283,7 +8298,7 @@ Suzie Roberts reads Earball Katinka.</desc>
 	</programme>
 	<programme channel="s4c" start="20251002113000 +0000" stop="20251002120000 +0000">
 		<title>Heno - Wed, 01 Oct 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Mae cyflwynydd Heno, Mari Grug yn siarad yn onest am yr heriau o fyw gyda Chanser y Fro...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251002120000 +0000" stop="20251002123000 +0000">
