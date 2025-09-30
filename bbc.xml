@@ -298,7 +298,7 @@
 	<programme channel="bbcone" start="20251001214000 +0000" stop="20251001230000 +0000">
 		<title>UEFA Champions League - 2025/26: 5. Match Day 2 Highlights</title>
 		<desc>Kelly Cates presents highlights from Match Day 2 of the 2025-26 Champions League.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3c252.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5wzcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251001230000 +0000" stop="20251002004000 +0000">
 		<title>The Gift</title>
@@ -6611,9 +6611,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251005003000 +0000" stop="20251005010000 +0000">
-		<title>The Interview - The Interview: Ken Burns</title>
-		<desc>Caitriona Perry sits down with award winning America filmmaker Ken Burns.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3d1cg.jpg" />
+		<title>Scams &amp; Scandals  - The Botox Black Market</title>
+		<desc>Exposing dangerous medical professionals breaking rules in Britain's "Botox Wild West".</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3cd41.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251005010000 +0000" stop="20251005013000 +0000">
 		<title>BBC News - 05/10/2025</title>
@@ -6705,70 +6705,110 @@
 		<desc>Coverage of the debate on the 'failure to deliver an aviation strategy', on 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930180000 +0000" stop="20250930182000 +0000">
+	<programme channel="bbcparliament" start="20250930180000 +0000" stop="20250930182500 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
 		<desc>Coverage of topical questions to ministers in the Scottish government, on 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930182000 +0000" stop="20250930190000 +0000">
+	<programme channel="bbcparliament" start="20250930182500 +0000" stop="20250930190000 +0000">
 		<title>Scottish Parliament - Techscaler Programme Statement</title>
 		<desc>Coverage of the ministerial statement on the Techscaler programme on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930190000 +0000" stop="20250930210000 +0000">
+	<programme channel="bbcparliament" start="20250930190000 +0000" stop="20250930191500 +0000">
+		<title>Scottish Parliament - Guidance for Transgender Pupils in Schools Urgent Question</title>
+		<desc>Urgent question on guidance for transgender pupils in schools, on Tuesday 30 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20250930191500 +0000" stop="20250930212000 +0000">
 		<title>Scottish Parliament - Housing Bill, Part 1</title>
 		<desc>The debate on Stage 3 proceedings of the Housing (Scotland) Bill, on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930210000 +0000" stop="20250930223000 +0000">
+	<programme channel="bbcparliament" start="20250930212000 +0000" stop="20250930232000 +0000">
 		<title>Scottish Parliament - Housing Bill, Part 2</title>
 		<desc>The debate on Stage 3 proceedings of the Housing (Scotland) Bill, on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930223000 +0000" stop="20250930232000 +0000">
+	<programme channel="bbcparliament" start="20250930232000 +0000" stop="20251001000500 +0000">
 		<title>Welsh First Minister's Questions - 30/09/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930232000 +0000" stop="20250930235000 +0000">
+	<programme channel="bbcparliament" start="20251001000500 +0000" stop="20251001003500 +0000">
 		<title>Northern Ireland Assembly - Members' Statements</title>
 		<desc>Brief statements made by members of the legislative assembly, on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20250930235000 +0000" stop="20251001013500 +0000">
+	<programme channel="bbcparliament" start="20251001003500 +0000" stop="20251001014500 +0000">
 		<title>Northern Ireland Assembly - Skill Gaps Debate</title>
 		<desc>Coverage of the debate on addressing the skills gap between young people and businesses.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001013500 +0000" stop="20251001021000 +0000">
+	<programme channel="bbcparliament" start="20251001014500 +0000" stop="20251001023000 +0000">
 		<title>Northern Ireland Assembly - Finance Questions</title>
 		<desc>Questions to the finance minister, John O'Dowd, on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001021000 +0000" stop="20251001034500 +0000">
-		<title>Northern Ireland Assembly - Drug Testing Schemes</title>
+	<programme channel="bbcparliament" start="20251001023000 +0000" stop="20251001030500 +0000">
+		<title>Northern Ireland Assembly - Drug Testing Schemes Part 1</title>
 		<desc>Coverage of the debate on drug testing schemes, on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001034500 +0000" stop="20251001050000 +0000">
+	<programme channel="bbcparliament" start="20251001030500 +0000" stop="20251001034500 +0000">
+		<title>Northern Ireland Assembly - Drug Testing Schemes Part 2</title>
+		<desc>Debate in the Northern Ireland Assembly on drug testing schemes, on Tuesday 30 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251001034500 +0000" stop="20251001041500 +0000">
 		<title>Northern Ireland Assembly - Northern Ireland Community Investment Fund</title>
 		<desc>Coverage of the ministerial statement on the Northern Ireland Community Investment Fund.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001050000 +0000" stop="20251001083000 +0000">
+	<programme channel="bbcparliament" start="20251001041500 +0000" stop="20251001050000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Brief statements made by members of the Legislative Assembly, on Monday 29 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5tmqn.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251001050000 +0000" stop="20251001052500 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
 		<desc>Coverage of topical questions to ministers in the Scottish government, on 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001083000 +0000" stop="20251001110000 +0000">
+	<programme channel="bbcparliament" start="20251001052500 +0000" stop="20251001060000 +0000">
+		<title>Scottish Parliament - Techscaler Programme Statement</title>
+		<desc>Coverage of the ministerial statement on the Techscaler programme on Tuesday 30 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251001060000 +0000" stop="20251001061500 +0000">
+		<title>Scottish Parliament - Guidance for Transgender Pupils in Schools Urgent Question</title>
+		<desc>Urgent question on guidance for transgender pupils in schools, on Tuesday 30 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251001061500 +0000" stop="20251001083000 +0000">
+		<title>Select Committees - Health and Social Care Committee on Community Mental Health Services</title>
+		<desc>The Health and Social Care select committee session on community mental health services.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5q17s.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251001083000 +0000" stop="20251001103000 +0000">
 		<title>Scottish Parliament - 01/10/2025</title>
 		<desc>Coverage of committee proceedings in the Scottish Parliament on Wednesday 1 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001110000 +0000" stop="20251001130000 +0000">
-		<title>Northern Ireland Assembly - 29/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 29 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhh0.jpg" />
+	<programme channel="bbcparliament" start="20251001103000 +0000" stop="20251001110000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Brief statements made by members of the legislative assembly, on Tuesday 30 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251001110000 +0000" stop="20251001121000 +0000">
+		<title>Northern Ireland Assembly - Skill Gaps Debate</title>
+		<desc>Coverage of the debate on addressing the skills gap between young people and businesses.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251001121000 +0000" stop="20251001130000 +0000">
+		<title>Northern Ireland Assembly - Finance Questions</title>
+		<desc>Questions to the finance minister, John O'Dowd, on Tuesday 30 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251001130000 +0000" stop="20251001160000 +0000">
 		<title>Scottish Parliament - 01/10/2025</title>
