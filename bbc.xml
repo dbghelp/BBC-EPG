@@ -149,7 +149,7 @@
 	<programme channel="bbcone" start="20251001200000 +0000" stop="20251001210000 +0000">
 		<title>Panorama - Undercover in the Police</title>
 		<desc>Secret filming reveals evidence of racism and misogyny at Charing Cross Police Station.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l25ccf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m63l91.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251001210000 +0000" stop="20251001213000 +0000">
 		<title>BBC News at Ten - 01/10/2025</title>
@@ -297,7 +297,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251002214000 +0000" stop="20251002224000 +0000">
 		<title>Question Time - 2025: 02/10/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of debate from Belfast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251002224000 +0000" stop="20251002231000 +0000">
@@ -1375,13 +1375,13 @@
 	</programme>
 	<programme channel="bbctwo" start="20251006012500 +0000" stop="20251006022500 +0000">
 		<title>Question Time - 2025: 02/10/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of debate from Belfast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251006022500 +0000" stop="20251006032500 +0000">
 		<title>Panorama - Undercover in the Police</title>
 		<desc>Secret filming reveals evidence of racism and misogyny at Charing Cross Police Station.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l25ccf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m63l91.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251006032500 +0000" stop="20251006054500 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
@@ -5647,9 +5647,10 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251001173000 +0000" stop="20251001180000 +0000">
-		<title>The World Today with Maryam Moshiri - 01/10/2025</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
+		<title>BBC London - Evening News: 01/10/2025</title>
+		<desc>The latest news, sport and weather from London.
+</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251001180000 +0000" stop="20251001183000 +0000">
 		<title>The World Today with Maryam Moshiri - 01/10/2025</title>
@@ -5908,7 +5909,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251002200000 +0000" stop="20251002210000 +0000">
 		<title>Question Time - 2025: 02/10/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of debate from Belfast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251002210000 +0000" stop="20251002213000 +0000">
@@ -6624,12 +6625,12 @@
 	<programme channel="bbcparliament" start="20251001050000 +0000" stop="20251001052500 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
 		<desc>Coverage of topical questions to ministers in the Scottish government, on 30 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m63cw0.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251001052500 +0000" stop="20251001060000 +0000">
 		<title>Scottish Parliament - Techscaler Programme Statement</title>
 		<desc>Coverage of the ministerial statement on the Techscaler programme on Tuesday 30 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m63htq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251001060000 +0000" stop="20251001061500 +0000">
 		<title>Scottish Parliament - Guidance for Transgender Pupils in Schools Urgent Question</title>
@@ -6666,97 +6667,97 @@
 		<desc>Urgent question on guidance for transgender pupils in schools, on Tuesday 30 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001130000 +0000" stop="20251001164000 +0000">
+	<programme channel="bbcparliament" start="20251001130000 +0000" stop="20251001170500 +0000">
 		<title>Scottish Parliament - 01/10/2025</title>
 		<desc>Coverage of the day's proceedings in the Scottish Parliament on Wednesday 1 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001164000 +0000" stop="20251001172500 +0000">
+	<programme channel="bbcparliament" start="20251001170500 +0000" stop="20251001175500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Economy, Energy and Planning Questions</title>
 		<desc>Coverage of questions to economy, energy and planning minister Rebecca Evans.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001172500 +0000" stop="20251001181000 +0000">
+	<programme channel="bbcparliament" start="20251001175500 +0000" stop="20251001184500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Health and Social Care Questions</title>
 		<desc>Coverage of questions to the health and social care minister, Jeremy Miles.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001181000 +0000" stop="20251001183000 +0000">
+	<programme channel="bbcparliament" start="20251001184500 +0000" stop="20251001190500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Topical Questions</title>
 		<desc>Topical questions to ministers in the Welsh government, on Wednesday 1 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001183000 +0000" stop="20251001190000 +0000">
+	<programme channel="bbcparliament" start="20251001190500 +0000" stop="20251001193000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Fly-Tipping Bill</title>
 		<desc>The debate on a member's proposal for a Bill on fly-tipping, on Wednesday 1 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001190000 +0000" stop="20251001193000 +0000">
+	<programme channel="bbcparliament" start="20251001193000 +0000" stop="20251001200000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Swift Bricks Petition</title>
 		<desc>Debate on legislation to require the use of swift bricks in all new buildings in Wales.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001193000 +0000" stop="20251001203000 +0000">
+	<programme channel="bbcparliament" start="20251001200000 +0000" stop="20251001205000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Economy Debate</title>
 		<desc>Coverage of the debate tabled by the Welsh Conservatives on the economy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001203000 +0000" stop="20251001213000 +0000">
+	<programme channel="bbcparliament" start="20251001205000 +0000" stop="20251001214500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Child Poverty Debate</title>
 		<desc>Coverage of the debate tabled by Plaid Cymru on child poverty, on Wednesday 1 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001213000 +0000" stop="20251001215500 +0000">
+	<programme channel="bbcparliament" start="20251001214500 +0000" stop="20251001220500 +0000">
 		<title>Scottish Parliament - Rural Affairs, Land Reform and Islands Questions</title>
 		<desc>Questions to the rural affairs, land reform and islands secretary, Mairi Gougeon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001215500 +0000" stop="20251001222000 +0000">
+	<programme channel="bbcparliament" start="20251001220500 +0000" stop="20251001223500 +0000">
 		<title>Scottish Parliament - Health and Social Care Questions</title>
 		<desc>Coverage of questions to the cabinet secretary for health and social care, Neil Gray.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001222000 +0000" stop="20251001232000 +0000">
+	<programme channel="bbcparliament" start="20251001223500 +0000" stop="20251001234000 +0000">
 		<title>Scottish Parliament - Mobile Phones in Schools Debate</title>
 		<desc>Coverage of the debate tabled by Scottish Labour on mobile phones in schools.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251001232000 +0000" stop="20251002002000 +0000">
+	<programme channel="bbcparliament" start="20251001234000 +0000" stop="20251002005500 +0000">
 		<title>Scottish Parliament - Protecting Scotland's Fire Service Debate</title>
 		<desc>Coverage of the debate on 'protecting Scotland's Fire Service', on Wednesday 1 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002002000 +0000" stop="20251002010000 +0000">
+	<programme channel="bbcparliament" start="20251002005500 +0000" stop="20251002012500 +0000">
 		<title>Scottish Parliament - Urban Gulls Summit Statement</title>
 		<desc>Coverage of the statement on the Urban Gulls summit, on Wednesday 1 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002010000 +0000" stop="20251002014500 +0000">
+	<programme channel="bbcparliament" start="20251002012500 +0000" stop="20251002021500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Economy, Energy and Planning Questions</title>
 		<desc>Coverage of questions to economy, energy and planning minister Rebecca Evans.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002014500 +0000" stop="20251002023000 +0000">
+	<programme channel="bbcparliament" start="20251002021500 +0000" stop="20251002030500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Health and Social Care Questions</title>
 		<desc>Coverage of questions to the health and social care minister, Jeremy Miles.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002023000 +0000" stop="20251002025000 +0000">
+	<programme channel="bbcparliament" start="20251002030500 +0000" stop="20251002033000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Topical Questions</title>
 		<desc>Topical questions to ministers in the Welsh government, on Wednesday 1 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002025000 +0000" stop="20251002032000 +0000">
+	<programme channel="bbcparliament" start="20251002033000 +0000" stop="20251002035500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Fly-Tipping Bill</title>
 		<desc>The debate on a member's proposal for a Bill on fly-tipping, on Wednesday 1 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002032000 +0000" stop="20251002035000 +0000">
+	<programme channel="bbcparliament" start="20251002035500 +0000" stop="20251002042500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Swift Bricks Petition</title>
 		<desc>Debate on legislation to require the use of swift bricks in all new buildings in Wales.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002035000 +0000" stop="20251002045000 +0000">
+	<programme channel="bbcparliament" start="20251002042500 +0000" stop="20251002055000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Economy Debate</title>
 		<desc>Coverage of the debate tabled by the Welsh Conservatives on the economy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
@@ -6766,25 +6767,35 @@
 		<desc>Coverage of the debate tabled by Plaid Cymru on child poverty, on Wednesday 1 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002055000 +0000" stop="20251002070000 +0000">
-		<title>Scottish Parliament - 02/10/2025</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Wednesday 1 October.</desc>
+	<programme channel="bbcparliament" start="20251002055000 +0000" stop="20251002061500 +0000">
+		<title>Scottish Parliament - Rural Affairs, Land Reform and Islands Questions</title>
+		<desc>Questions to the rural affairs, land reform and islands secretary, Mairi Gougeon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002070000 +0000" stop="20251002074500 +0000">
+	<programme channel="bbcparliament" start="20251002061500 +0000" stop="20251002064000 +0000">
+		<title>Scottish Parliament - Health and Social Care Questions</title>
+		<desc>Coverage of questions to the cabinet secretary for health and social care, Neil Gray.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251002064000 +0000" stop="20251002075000 +0000">
+		<title>Northern Ireland Assembly - Skill Gaps Debate</title>
+		<desc>Coverage of the debate on addressing the skills gap between young people and businesses.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251002075000 +0000" stop="20251002083500 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhp4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002074500 +0000" stop="20251002083000 +0000">
+	<programme channel="bbcparliament" start="20251002083500 +0000" stop="20251002085000 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhy2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002083000 +0000" stop="20251002104000 +0000">
-		<title>Scottish Parliament - 02/10/2025</title>
-		<desc>Coverage of committee proceedings in the Scottish Parliament on Thursday 2 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	<programme channel="bbcparliament" start="20251002085000 +0000" stop="20251002104000 +0000">
+		<title>Scottish Parliament - Criminal Justice Committee</title>
+		<desc>The Scottish Parliament's Criminal Justice committee on drug abuse in Scottish prisons.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4s0vm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251002104000 +0000" stop="20251002110000 +0000">
 		<title>Scottish Parliament - General Questions</title>
@@ -6816,10 +6827,15 @@
 		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 2 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002163000 +0000" stop="20251002190000 +0000">
+	<programme channel="bbcparliament" start="20251002163000 +0000" stop="20251002181000 +0000">
 		<title>Scottish Parliament - Economy and Fair Work Committee</title>
 		<desc>Coverage of committee proceedings in the Scottish Parliament on Wednesday 1 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251002181000 +0000" stop="20251002190000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Senedd Cymru - Welsh Parliament · Welsh Place Names Statement</title>
+		<desc>Coverage of a statement on priorities for Welsh place names, on Tuesday 30 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251002190000 +0000" stop="20251002192000 +0000">
 		<title>Scottish Parliament - General Questions</title>
@@ -6831,35 +6847,75 @@
 		<desc>Questions to John Swinney, the first minister, on Thursday 2 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002200500 +0000" stop="20251002233500 +0000">
-		<title>Scottish Parliament - 02/10/2025</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 2 October.</desc>
+	<programme channel="bbcparliament" start="20251002200500 +0000" stop="20251002203500 +0000">
+		<title>Scottish Parliament - Rail and the Highlands</title>
+		<desc>Coverage of the members' business debate on rail and the Highlands, on Thursday 2 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251002233500 +0000" stop="20251003013500 +0000">
-		<title>Northern Ireland Assembly - 29/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 29 September.</desc>
+	<programme channel="bbcparliament" start="20251002203500 +0000" stop="20251002210000 +0000">
+		<title>Scottish Parliament - Social Justice and Housing Questions</title>
+		<desc>Questions to the cabinet secretary for social justice and housing Shirley-Anne Somerville.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251002210000 +0000" stop="20251002213000 +0000">
+		<title>Scottish Parliament - Scotland's Prison Population Statement</title>
+		<desc>The ministerial statement on Scotland's prison population, on Thursday 2 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251002213000 +0000" stop="20251002230000 +0000">
+		<title>Scottish Parliament - Dog Theft Bill</title>
+		<desc>Coverage of the Stage 1 debate on the general principles of the Dog Theft (Scotland) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251002230000 +0000" stop="20251002233500 +0000">
+		<title>Scottish Parliament - Scotland's Blood Supply</title>
+		<desc>Coverage of the members' business debate on Scotland's blood supply on Thursday 2 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251002233500 +0000" stop="20251003000500 +0000">
+		<title>Northern Ireland Assembly - Digital ID Cards</title>
+		<desc>Coverage of the debate on the UK government's plans for digital ID cards, on 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhh0.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251003013500 +0000" stop="20251003022000 +0000">
+	<programme channel="bbcparliament" start="20251003000500 +0000" stop="20251003003500 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Brief statements made by members of the legislative assembly, on Monday 29 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5tmqn.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251003003500 +0000" stop="20251003012500 +0000">
+		<title>Northern Ireland Assembly - School Uniforms Bill First Session</title>
+		<desc>Coverage of the debate on the Further Consideration stage of the School Uniforms Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5tpbn.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251003012500 +0000" stop="20251003020000 +0000">
+		<title>Northern Ireland Assembly - School Uniforms Bill Second Session</title>
+		<desc>Coverage of the debate on the Further Consideration stage of the School Uniforms Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251003020000 +0000" stop="20251003025000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhp4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251003022000 +0000" stop="20251003030500 +0000">
+	<programme channel="bbcparliament" start="20251003025000 +0000" stop="20251003030500 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5qhy2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251003030500 +0000" stop="20251003053500 +0000">
-		<title>Northern Ireland Assembly - 29/09/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 29 September.</desc>
+	<programme channel="bbcparliament" start="20251003030500 +0000" stop="20251003042500 +0000">
+		<title>Northern Ireland Assembly - Endometriosis Care</title>
+		<desc>The debate in the Northern Ireland Assembly on endometriosis care, on Monday 29 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251003042500 +0000" stop="20251003053500 +0000">
+		<title>Northern Ireland Assembly - Aviation Strategy</title>
+		<desc>Coverage of the debate on the 'failure to deliver an aviation strategy', on 29 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251003053500 +0000" stop="20251003090500 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
 		<desc>Coverage of topical questions to ministers in the Scottish government, on 30 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m63cw0.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251003090500 +0000" stop="20251003095500 +0000">
 		<title>Welsh First Minister's Questions - 30/09/2025</title>
@@ -6944,12 +7000,12 @@
 	<programme channel="bbcparliament" start="20251004151000 +0000" stop="20251004165500 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
 		<desc>Coverage of topical questions to ministers in the Scottish government, on 30 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m63cw0.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251004165500 +0000" stop="20251004184000 +0000">
 		<title>Scottish Parliament - Techscaler Programme Statement</title>
 		<desc>Coverage of the ministerial statement on the Techscaler programme on Tuesday 30 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m63htq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251004184000 +0000" stop="20251004215500 +0000">
 		<title>Select Committees - 04/10/2025</title>
@@ -6964,7 +7020,7 @@
 	<programme channel="bbcparliament" start="20251004224500 +0000" stop="20251005001500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - 30/09/2025</title>
 		<desc>Coverage of proceedings in the Senedd, the Welsh Parliament, on Tuesday 30 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m6394t.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251005001500 +0000" stop="20251005014500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - 30/09/2025 Part 2</title>
@@ -6989,12 +7045,12 @@
 	<programme channel="bbcparliament" start="20251005050000 +0000" stop="20251005073000 +0000">
 		<title>Northern Ireland Assembly - 30/09/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 30 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m637h8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251005073000 +0000" stop="20251005081500 +0000">
 		<title>Northern Ireland Assembly - Finance Questions</title>
 		<desc>Questions to the finance minister, John O'Dowd, on Tuesday 30 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m635n1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251005081500 +0000" stop="20251005113000 +0000">
 		<title>Northern Ireland Assembly - 30/09/2025</title>
