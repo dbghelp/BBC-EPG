@@ -877,12 +877,12 @@
 		<desc>With Tammy Wynette, Kris Kristofferson, Johnny Cash, Dolly Parton, Willie Nelson and more.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m67r4y.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251004224500 +0000" stop="20251005000000 +0000">
+	<programme channel="bbctwo" start="20251004224500 +0000" stop="20251005000500 +0000">
 		<title>Rebel Country</title>
 		<desc>A celebration of an exciting new crop of country music artists taking the genre by storm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5lfmg.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251005000000 +0000" stop="20251005021000 +0000">
+	<programme channel="bbctwo" start="20251005000500 +0000" stop="20251005021000 +0000">
 		<title>Law of Tehran</title>
 		<desc>A policeman in Tehran is after a local drug kingpin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fsf47r.jpg" />
@@ -5745,9 +5745,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251004193000 +0000" stop="20251004200000 +0000">
-		<title>Newscast - 04/10/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
+		<title>The President's Path - 03/10/2025</title>
+		<desc>Trump tests the limits of his power.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251004200000 +0000" stop="20251004210000 +0000">
 		<title>BBC News - 04/10/2025</title>
@@ -7234,10 +7234,15 @@
 		<desc>Local, national and international news and information from BBC ALBA.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8dxvk.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20251004162000 +0000" stop="20251004183000 +0000">
+	<programme channel="bbcalba" start="20251004162000 +0000" stop="20251004182500 +0000">
 		<title>SPFL  - 2025/26 Season: 3. League 1 - Queen of the South v Alloa Athletic</title>
 		<desc>Live football action from League One as Queen of the South host Alloa Athletic.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gfmhhj.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20251004182500 +0000" stop="20251004183000 +0000">
+		<title>Fraochy Bay - Series 1: 12. Eucoir air an tuath (Country Crimes)</title>
+		<desc>Officer MacLean is disappearing under a pile of paperwork.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01hf2wr.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20251004183000 +0000" stop="20251004190000 +0000">
 		<title>Òran Na Mnà  - Series 1: Episode 5</title>
