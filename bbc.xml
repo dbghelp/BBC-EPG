@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251006083000 +0000" stop="20251006094500 +0000">
 		<title>Morning Live - Series 7: 06/10/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Gethin Jones and Louise Minchin are joined by Michaela Strachan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m70r8h.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251006094500 +0000" stop="20251006103000 +0000">
@@ -854,32 +854,37 @@
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251006220000 +0000" stop="20251006235500 +0000">
+	<programme channel="bbctwo" start="20251006220000 +0000" stop="20251006224500 +0000">
+		<title>In My Own Words - Series 1: Jilly Cooper</title>
+		<desc>Best-selling novelist Dame Jilly Cooper candidly reflects on her life and work.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jsgz4n.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20251006224500 +0000" stop="20251007004000 +0000">
 		<title>If Beale Street Could Talk</title>
 		<desc>Tish, a young, pregnant woman, races against the clock to prove her lover's innocence.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09x1vrb.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251006235500 +0000" stop="20251007005000 +0000">
+	<programme channel="bbctwo" start="20251007004000 +0000" stop="20251007013500 +0000">
 		<title>Countryfile - The Supreme</title>
 		<desc>Matt Baker and Charlotte Smith are in Wrexham for the Supreme.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m56wj1.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251007005000 +0000" stop="20251007015000 +0000">
+	<programme channel="bbctwo" start="20251007013500 +0000" stop="20251007023500 +0000">
 		<title>Waterloo Road - Series 16: Episode 3</title>
 		<desc>Dwayne is under pressure when his deepest secrets are exposed to the entire school.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m49brf.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251007015000 +0000" stop="20251007025000 +0000">
+	<programme channel="bbctwo" start="20251007023500 +0000" stop="20251007033500 +0000">
 		<title>Waterloo Road - Series 16: Episode 4</title>
 		<desc>Hope takes on Portia, but all is forgotten when a shocking incident shakes the school.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m49btk.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251007025000 +0000" stop="20251007032000 +0000">
+	<programme channel="bbctwo" start="20251007033500 +0000" stop="20251007040500 +0000">
 		<title>Global Eye - 29/09/2025</title>
 		<desc>Investigation into Kenya's June 2024 protests and Waihiga Mwaura reports from Nairobi.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4r7mz.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251007032000 +0000" stop="20251007053000 +0000">
+	<programme channel="bbctwo" start="20251007040500 +0000" stop="20251007053000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -1411,7 +1416,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251006185500 +0000" stop="20251006190000 +0000">
 		<title>The Catch Up - 06/10/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Julia Belle.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251006190000 +0000" stop="20251006200000 +0000">
@@ -5437,9 +5442,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ddp8kd.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251006220000 +0000" stop="20251006223000 +0000">
-		<title>Scotcast - 06/10/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Swinney Heckled Over Palestine</title>
+		<desc>After John Swinney was jeered over Palestine, how is Gaza shaping British politics?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m723d1.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251006223000 +0000" stop="20251006230000 +0000">
 		<title>Our Lives - Series 6: Darts Dreams</title>
@@ -6826,14 +6831,9 @@
 		<desc>Questions to the health minister, Mike Nesbitt, on Monday 6 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251006143000 +0000" stop="20251006170000 +0000">
+	<programme channel="bbcparliament" start="20251006143000 +0000" stop="20251006190000 +0000">
 		<title>Northern Ireland Assembly - 06/10/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 6 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251006170000 +0000" stop="20251006190000 +0000">
-		<title>Northern Ireland Assembly - 06/10/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 6 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251006190000 +0000" stop="20251006194500 +0000">
@@ -6846,29 +6846,60 @@
 		<desc>Questions to the health minister, Mike Nesbitt, on Monday 6 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251006203000 +0000" stop="20251006230000 +0000">
-		<title>Northern Ireland Assembly - 06/10/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 6 October.</desc>
+	<programme channel="bbcparliament" start="20251006203000 +0000" stop="20251006215000 +0000">
+		<title>Westminster Hall - Adoption Fund</title>
+		<desc>Debate on the Adoption and Special Guardianship Support Fund, from Thursday 4 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251006215000 +0000" stop="20251006231000 +0000">
+		<title>Westminster Hall - Hydrogen Supply Chains</title>
+		<desc>The debate in Westminster Hall on hydrogen supply chains, from Tuesday 9 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251006231000 +0000" stop="20251006233000 +0000">
+		<title>Northern Ireland Assembly - Pipe Bomb at Newry Constituency Office</title>
+		<desc>Debate on the pipe bomb found outside a Sinn Féin constituency office in Newry town centre</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251006230000 +0000" stop="20251007010000 +0000">
-		<title>Northern Ireland Assembly - 06/10/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 6 October.</desc>
+	<programme channel="bbcparliament" start="20251006233000 +0000" stop="20251006235000 +0000">
+		<title>Northern Ireland Assembly - Gaza Flotilla</title>
+		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251007010000 +0000" stop="20251007014500 +0000">
+	<programme channel="bbcparliament" start="20251006235000 +0000" stop="20251007001000 +0000">
+		<title>Northern Ireland Assembly - Attack at Manchester Synagogue</title>
+		<desc>Coverage of the 'matter of the day' debate on the attack on a synagogue in Manchester.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251007001000 +0000" stop="20251007004000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Coverage of brief statements made by members of the legislative assembly, on 6 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251007004000 +0000" stop="20251007014000 +0000">
+		<title>Northern Ireland Assembly - Draft Disability and Work Strategy</title>
+		<desc>Statement by communities minister Gordon Lyons on the draft Disability and Work Strategy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251007014000 +0000" stop="20251007022500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251007014500 +0000" stop="20251007023000 +0000">
+	<programme channel="bbcparliament" start="20251007022500 +0000" stop="20251007031000 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Questions to the health minister, Mike Nesbitt, on Monday 6 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251007023000 +0000" stop="20251007050000 +0000">
-		<title>Northern Ireland Assembly - 06/10/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 6 October.</desc>
+	<programme channel="bbcparliament" start="20251007031000 +0000" stop="20251007034000 +0000">
+		<title>Northern Ireland Assembly - PSNI Support at London Protest</title>
+		<desc>Urgent oral questions on the Police Service of Northern Ireland at a protest in London. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251007034000 +0000" stop="20251007050000 +0000">
+		<title>Northern Ireland Assembly - Addressing Regional Imbalance</title>
+		<desc>A debate on addressing regional imbalance in Northern Ireland, on Monday 6 October.
+</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251007050000 +0000" stop="20251007070000 +0000">
@@ -6953,7 +6984,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20251008005000 +0000" stop="20251008013500 +0000">
 		<title>Northern Ireland Assembly - Infrastructure Questions</title>
-		<desc>Questions in Stormont to the infrastructure minister, Liz Kimmins, on Monday 7 October.</desc>
+		<desc>Questions in Stormont to the infrastructure minister, Liz Kimmins, on Tuesday 7 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251008013500 +0000" stop="20251008050000 +0000">
@@ -8006,12 +8037,12 @@
 		<desc>Mae Siôn awydd gwneud ffwl afal i'r bwyty, ond pan mae Menna'r afr yn bwyta'r afalau rh...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07g3ll8.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251007072500 +0000" stop="20251007073500 +0000">
-		<title>Caru Canu a Stori - Cyfres 1: Si Hei Lwli</title>
-		<desc>Mae anifeiliaid Ynys Lon wrth eu bodd pan mae Capten Twm yn galw. Mae'n dda am ddweud s...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p093t3gw.jpg" />
+	<programme channel="s4c" start="20251007072500 +0000" stop="20251007073000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251007073500 +0000" stop="20251007074500 +0000">
+	<programme channel="s4c" start="20251007073000 +0000" stop="20251007074500 +0000">
 		<title>Abadas - Cyfres 1: Angor</title>
 		<desc>Mae'r Abadas yn chwarae morladron yn chwilota am drysor a chaiff un lwcus gyfle i chwil...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02c72z7.jpg" />
