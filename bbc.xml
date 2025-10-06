@@ -5906,10 +5906,35 @@
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251007050000 +0000" stop="20251007080000 +0000">
-		<title>Breakfast - 07/10/2025</title>
-		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	<programme channel="bbcnews" start="20251007050000 +0000" stop="20251007053000 +0000">
+		<title>BBC News - 07/10/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251007053000 +0000" stop="20251007060000 +0000">
+		<title>Business Today - 07/10/2025</title>
+		<desc>The latest business news from London and around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251007060000 +0000" stop="20251007063000 +0000">
+		<title>BBC News - 07/10/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251007063000 +0000" stop="20251007070000 +0000">
+		<title>Business Today - 07/10/2025</title>
+		<desc>The latest business news from London and around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251007070000 +0000" stop="20251007073000 +0000">
+		<title>BBC News - 07/10/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251007073000 +0000" stop="20251007080000 +0000">
+		<title>BBC News - 07/10/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251007080000 +0000" stop="20251007083000 +0000">
 		<title>BBC News - 07/10/2025</title>
@@ -6903,13 +6928,18 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251007050000 +0000" stop="20251007070000 +0000">
-		<title>Northern Ireland Assembly - 06/10/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 6 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<title>Select Committees - Science, Innovation and Technology Committee on Life Sciences Investment</title>
+		<desc>The Science, Innovation and Technology committee on life sciences investment.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5pq8y.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251007070000 +0000" stop="20251007093000 +0000">
-		<title>Northern Ireland Assembly - 06/10/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 6 October.</desc>
+	<programme channel="bbcparliament" start="20251007070000 +0000" stop="20251007084500 +0000">
+		<title>Select Committees - Women and Equalities Committee on Sexually Transmitted Diseases</title>
+		<desc>The Women and Equalities committee on the prevalence of sexually-transmitted infections.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251007084500 +0000" stop="20251007093000 +0000">
+		<title>Northern Ireland Assembly - Executive Office Questions</title>
+		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251007093000 +0000" stop="20251007120000 +0000">
@@ -8474,7 +8504,7 @@
 	</programme>
 	<programme channel="s4c" start="20251008153000 +0000" stop="20251008154500 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 3: Sefyll yn Stond</title>
-		<desc>Beth sy'n digwydd ym myd Blero heddiw, tybed? What's happening in the Blero world today?</desc>
+		<desc>Mae Blero'n diodde' o binnau bach yn ei draed, sy'n creu helynt yng nghystadleuaeth Sef...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2n9w.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251008154500 +0000" stop="20251008160000 +0000">
