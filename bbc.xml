@@ -5352,7 +5352,7 @@
 	<programme channel="bbcscotland" start="20251007220000 +0000" stop="20251007223000 +0000">
 		<title>Scotcast - Tories Farage Dilemma</title>
 		<desc>Laura and Natalie ask what Russell Findlay needs to do with a Holyrood election looming. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m77mgj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m77xbw.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251007223000 +0000" stop="20251007230000 +0000">
 		<title>David Wilson's Crime Files - Series 4 - Scams and Scandals: 3. Impostors</title>
@@ -6661,7 +6661,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251012013000 +0000" stop="20251012020000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 08/10/2025</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>Two years on from the October 7th attacks, is peace in Gaza now possible?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251012020000 +0000" stop="20251012023000 +0000">
@@ -6716,7 +6716,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20251007093000 +0000" stop="20251007120000 +0000">
 		<title>Northern Ireland Assembly - 07/10/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 7 October.</desc>
+		<desc>Coverage of the proceedings in the Northern Ireland Assembly, on Tuesday 7 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251007120000 +0000" stop="20251007123000 +0000">
@@ -6759,40 +6759,85 @@
 		<desc>Coverage of the statement on the Mutual Investment Model, on Tuesday 7 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251007172000 +0000" stop="20251007180500 +0000">
+	<programme channel="bbcparliament" start="20251007172000 +0000" stop="20251007173500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - £1 Bus Journeys</title>
 		<desc>Coverage of the statement in the Senedd on £1 bus journeys, on Tuesday 7 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251007180500 +0000" stop="20251007182000 +0000">
+	<programme channel="bbcparliament" start="20251007173500 +0000" stop="20251007175000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Mental Health Bill</title>
 		<desc>Coverage of the short debate on the legislative consent motion for the Mental Health Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251007182000 +0000" stop="20251007213000 +0000">
-		<title>Scottish Parliament - 07/10/2025</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Tuesday 7 October.</desc>
+	<programme channel="bbcparliament" start="20251007175000 +0000" stop="20251007180500 +0000">
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Topical questions to ministers in the Scottish government on Tuesday 7 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251007213000 +0000" stop="20251007222000 +0000">
+	<programme channel="bbcparliament" start="20251007180500 +0000" stop="20251007202500 +0000">
+		<title>Scottish Parliament - Criminal Justice Modernisation Bill</title>
+		<desc>Stage 3 of the Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251007202500 +0000" stop="20251007212500 +0000">
 		<title>Welsh First Minister's Questions - 07/10/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 7 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251007222000 +0000" stop="20251008005000 +0000">
-		<title>Northern Ireland Assembly - 07/10/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 7 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20251007212500 +0000" stop="20251007220000 +0000">
+		<title>Scottish Parliament - Early Learning and Childcare Provision Debate</title>
+		<desc>A debate looking at the 'postcode lottery' of Early Learning and Childcare Provision.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251008005000 +0000" stop="20251008013500 +0000">
+	<programme channel="bbcparliament" start="20251007220000 +0000" stop="20251007224000 +0000">
+		<title>Scottish Parliament - Securing the Long-term Sustainability of Scotland's Health Service</title>
+		<desc>Coverage of a debate on the long-term sustainability of Scotland's Health Service.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251007224000 +0000" stop="20251007232500 +0000">
 		<title>Northern Ireland Assembly - Infrastructure Questions</title>
 		<desc>Questions in Stormont to the infrastructure minister, Liz Kimmins, on Tuesday 7 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251008013500 +0000" stop="20251008050000 +0000">
-		<title>Northern Ireland Assembly - 07/10/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 7 October.</desc>
+	<programme channel="bbcparliament" start="20251007232500 +0000" stop="20251007235500 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Members of the Northern Ireland Assembly making short statements in the chamber.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251007235500 +0000" stop="20251008001500 +0000">
+		<title>Northern Ireland Assembly - Avian Flu Statement</title>
+		<desc>Coverage from the Northern Ireland Assembly of a statement on avian flu measures.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251008001500 +0000" stop="20251008003000 +0000">
+		<title>Northern Ireland Assembly - Coronovirus Act Order</title>
+		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251008003000 +0000" stop="20251008015500 +0000">
+		<title>Northern Ireland Assembly - Mother and Baby Unit Debate</title>
+		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251008015500 +0000" stop="20251008021000 +0000">
+		<title>Northern Ireland Assembly - Support for Tenants Debate</title>
+		<desc>Coverage of the day's proceedings of the Northern Ireland Assembly, on Tuesday 7 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251008021000 +0000" stop="20251008040000 +0000">
+		<title>Northern Ireland Assembly - Reducing Household Energy Costs Debate</title>
+		<desc>Coverage of a debate on reducing household energy costs, on Tuesday 7 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251008040000 +0000" stop="20251008045000 +0000">
+		<title>Northern Ireland Assembly - Infrastructure Questions</title>
+		<desc>Questions in Stormont to the infrastructure minister, Liz Kimmins, on Tuesday 7 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251008045000 +0000" stop="20251008050000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251008050000 +0000" stop="20251008063500 +0000">
 		<title>Select Committees - Lords Justice and Home Affairs Committee on Electronic Monitoring</title>
@@ -7060,8 +7105,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251012014000 +0000" stop="20251012032500 +0000">
-		<title>Scottish Parliament - 07/10/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Tuesday 7 October.</desc>
+		<title>Scottish Parliament - Criminal Justice Modernisation Bill</title>
+		<desc>Stage 3 of the Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251012032500 +0000" stop="20251012041000 +0000">
