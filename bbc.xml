@@ -6811,12 +6811,12 @@
 	</programme>
 	<programme channel="bbcparliament" start="20251008001500 +0000" stop="20251008003000 +0000">
 		<title>Northern Ireland Assembly - Coronovirus Act Order</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Coverage of a statement on a Coronavirus Act order, on Tuesday 7 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251008003000 +0000" stop="20251008015500 +0000">
 		<title>Northern Ireland Assembly - Mother and Baby Unit Debate</title>
-		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
+		<desc>Debate on a mother and baby unit to support mothers with postpartum mental health issues.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251008015500 +0000" stop="20251008021000 +0000">
@@ -6859,10 +6859,21 @@
 		<desc>Coverage of committee proceedings in the Scottish Parliament on Wednesday 8 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251008110000 +0000" stop="20251008130000 +0000">
-		<title>Northern Ireland Assembly - 06/10/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on  Monday 6 October.</desc>
+	<programme channel="bbcparliament" start="20251008110000 +0000" stop="20251008114000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Coverage of brief statements made by members of the legislative assembly, on 6 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251008114000 +0000" stop="20251008125000 +0000">
+		<title>Northern Ireland Assembly - Addressing Regional Imbalance Debate</title>
+		<desc>A debate on addressing regional imbalance in Northern Ireland, on Monday 6 October.
+</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251008125000 +0000" stop="20251008130000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251008130000 +0000" stop="20251008160000 +0000">
 		<title>Scottish Parliament - 08/10/2025</title>
@@ -6975,8 +6986,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251010053500 +0000" stop="20251010090500 +0000">
-		<title>Scottish Parliament - 07/10/2025</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Tuesday 7 October.</desc>
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Topical questions to ministers in the Scottish government on Tuesday 7 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251010090500 +0000" stop="20251010095500 +0000">
@@ -7100,8 +7111,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251011235500 +0000" stop="20251012014000 +0000">
-		<title>Scottish Parliament - 07/10/2025</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Tuesday 7 October.</desc>
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Topical questions to ministers in the Scottish government on Tuesday 7 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251012014000 +0000" stop="20251012032500 +0000">
