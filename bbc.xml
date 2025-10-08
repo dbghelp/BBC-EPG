@@ -1343,7 +1343,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20251013014000 +0000" stop="20251013024000 +0000">
 		<title>Question Time - 2025: 09/10/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Shrewsbury.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251013024000 +0000" stop="20251013050000 +0000">
@@ -6168,7 +6168,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251011043000 +0000" stop="20251011050000 +0000">
 		<title>The Travel Show - Somaliland: The Way We See It</title>
-		<desc>YouTubers Kids of the Colony travel to Somaliland.</desc>
+		<desc>YouTubers, Kids of the Colony, travel to Somaliland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251011050000 +0000" stop="20251011080000 +0000">
@@ -6671,27 +6671,37 @@
 		<desc>Coverage of the day's proceedings in the Scottish Parliament on Wednesday 8 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251009050000 +0000" stop="20251009070000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="bbcparliament" start="20251009050000 +0000" stop="20251009072000 +0000">
+		<title>Scottish Parliament - Criminal Justice Modernisation Bill</title>
+		<desc>Stage 3 of the Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7ghpz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251009070000 +0000" stop="20251009074500 +0000">
+	<programme channel="bbcparliament" start="20251009072000 +0000" stop="20251009080500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m79j3l.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251009074500 +0000" stop="20251009083000 +0000">
+	<programme channel="bbcparliament" start="20251009080500 +0000" stop="20251009085000 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Questions to the health minister, Mike Nesbitt, on Monday 6 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m79j43.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251009083000 +0000" stop="20251009104500 +0000">
-		<title>Scottish Parliament - 09/10/2025</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	<programme channel="bbcparliament" start="20251009085000 +0000" stop="20251009093000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Coverage of brief statements made by members of the legislative assembly, on 6 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m79hf7.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251009104500 +0000" stop="20251009110000 +0000">
+	<programme channel="bbcparliament" start="20251009093000 +0000" stop="20251009100000 +0000">
+		<title>Northern Ireland Assembly - Attack at Manchester Synagogue</title>
+		<desc>Coverage of the 'matter of the day' debate on the attack on a synagogue in Manchester.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251009100000 +0000" stop="20251009104000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Winter Weather Resilience Planning</title>
+		<desc>Coverage of the statement on winter weather resilience planning, on Tuesday 7 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251009104000 +0000" stop="20251009110000 +0000">
 		<title>Scottish Parliament - General Questions</title>
 		<desc>Coverage of questions to ministers in the Scottish government, on Thursday 9 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
@@ -6764,7 +6774,7 @@
 	<programme channel="bbcparliament" start="20251010053500 +0000" stop="20251010090500 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
 		<desc>Topical questions to ministers in the Scottish government on Tuesday 7 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7g1wv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251010090500 +0000" stop="20251010095500 +0000">
 		<title>Welsh First Minister's Questions - 07/10/2025</title>
@@ -6889,12 +6899,12 @@
 	<programme channel="bbcparliament" start="20251011235500 +0000" stop="20251012014000 +0000">
 		<title>Scottish Parliament - Topical Questions</title>
 		<desc>Topical questions to ministers in the Scottish government on Tuesday 7 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7g1wv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251012014000 +0000" stop="20251012032500 +0000">
 		<title>Scottish Parliament - Criminal Justice Modernisation Bill</title>
 		<desc>Stage 3 of the Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews Bill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7ghpz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251012032500 +0000" stop="20251012041000 +0000">
 		<title>Scottish First Minister's Questions - 09/09/2025</title>
