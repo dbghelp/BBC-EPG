@@ -837,8 +837,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7d5v1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251008214500 +0000" stop="20251008221300 +0000">
-		<title>Newsnight - 08/10/2025</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
+		<title>Newsnight - Did Kemi Badenoch Charm Her Party?</title>
+		<desc>Has Kemi Badenoch done enough to see off the plotters for her crown?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251008221300 +0000" stop="20251008221500 +0000">
@@ -6631,45 +6631,70 @@
 		<desc>Questions to the cabinet secretary for housing and local government, Jayne Bryant.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251008182500 +0000" stop="20251008191000 +0000">
+	<programme channel="bbcparliament" start="20251008182500 +0000" stop="20251008192000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Education Questions</title>
 		<desc>Coverage of questions to the cabinet secretary for education, Lynne Neagle, on 8 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251008191000 +0000" stop="20251008193000 +0000">
+	<programme channel="bbcparliament" start="20251008192000 +0000" stop="20251008193000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Topical Questions</title>
 		<desc>Topical questions covering EU tariffs on steel, and the temporary closure of Menai bridge.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251008193000 +0000" stop="20251008203000 +0000">
+	<programme channel="bbcparliament" start="20251008193000 +0000" stop="20251008201500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Natural Resources Wales</title>
 		<desc>The debate on the annual report on Natural Resources Wales, on Wednesday 8 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251008203000 +0000" stop="20251008213000 +0000">
+	<programme channel="bbcparliament" start="20251008201500 +0000" stop="20251008205000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Housing Support for Vulnerable People</title>
 		<desc>The debate on the report on housing support for vulnerable people, on Wednesday 8 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251008213000 +0000" stop="20251008223000 +0000">
+	<programme channel="bbcparliament" start="20251008205000 +0000" stop="20251008214500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Sustainable Farming Scheme</title>
 		<desc>The debate tabled by the Welsh Conservatives on the sustainable farming scheme.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251008223000 +0000" stop="20251008233000 +0000">
-		<title>Scottish Parliament - 08/10/2025</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Wednesday 8 October.</desc>
+	<programme channel="bbcparliament" start="20251008214500 +0000" stop="20251008221000 +0000">
+		<title>Scottish Parliament - Constitution, External Affairs and Culture, and Parliamentary Business Portfolio Questions</title>
+		<desc>Constitution, External Affairs and Culture, and Parliamentary Business Portfolio questions</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251008233000 +0000" stop="20251009040000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - Housing and Local Government Questions</title>
-		<desc>Questions to the cabinet secretary for housing and local government, Jayne Bryant.</desc>
+	<programme channel="bbcparliament" start="20251008221000 +0000" stop="20251008223500 +0000">
+		<title>Scottish Parliament - Justice and Home Affairs Questions</title>
+		<desc>Coverage of Justice and Home Affairs Questions, on Wednesday 8 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251008223500 +0000" stop="20251008234500 +0000">
+		<title>Scottish Parliament - Illegal Migration and Housing Debate</title>
+		<desc>Coverage of a debate on stopping illegal immigration and its impact on housing.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251008234500 +0000" stop="20251009005500 +0000">
+		<title>Scottish Parliament - Scotland's Colleges and Apprenticeships Debate</title>
+		<desc>Coverage of a debate on backing Scotland's colleges and apprenticeships.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251009005500 +0000" stop="20251009012500 +0000">
+		<title>Scottish Parliament - Secure Accommodation Debate</title>
+		<desc>Coverage of a ministerial statement on the capacity and future of secure accommodation.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251009012500 +0000" stop="20251009022500 +0000">
+		<title>Scottish Parliament - Climate Change (Scotland) Act 2009 (Scottish Carbon Budgets) Amendment Regulations 2025 Debate</title>
+		<desc>Coverage of a debate on the Climate Change (Scotland) Act 2009 Amendment Regulations 2025.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251009022500 +0000" stop="20251009040500 +0000">
+		<title>Select Committees - Women and Equalities Committee on Sexually Transmitted Diseases</title>
+		<desc>The Women and Equalities committee on the prevalence of sexually-transmitted infections.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251009040500 +0000" stop="20251009050000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Education Questions</title>
+		<desc>Coverage of questions to the cabinet secretary for education, Lynne Neagle, on 8 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251009040000 +0000" stop="20251009050000 +0000">
-		<title>Scottish Parliament - 08/10/2025</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Wednesday 8 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251009050000 +0000" stop="20251009072000 +0000">
 		<title>Scottish Parliament - Criminal Justice Modernisation Bill</title>
