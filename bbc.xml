@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20251009083000 +0000" stop="20251009094500 +0000">
 		<title>Morning Live - Series 7: 09/10/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7m230.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251009094500 +0000" stop="20251009103000 +0000">
 		<title>Crimewatch Live - Series 22: 4. Hunt for a Killer</title>
@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251009180000 +0000" stop="20251009183000 +0000">
 		<title>The One Show - 09/10/2025</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Writer Ben Elton and wildlife cameraman Hamza Yassin join Alex and Roman on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251009183000 +0000" stop="20251009190000 +0000">
@@ -494,7 +494,7 @@
 	<programme channel="bbcone" start="20251012121500 +0000" stop="20251012130000 +0000">
 		<title>Songs of Praise - Young Chorister of the Year - Final</title>
 		<desc>Aled Jones and the Rev Kate Bottley host the final of BBC Young Chorister of the Year.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07zq95v.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7l7ml.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251012130000 +0000" stop="20251012131500 +0000">
 		<title>Points of View - 2025: 12/10/2025</title>
@@ -540,7 +540,7 @@
 	<programme channel="bbcone" start="20251012171500 +0000" stop="20251012181500 +0000">
 		<title>Hamza's Hidden Wild Isles - Series 1: 1. Spring</title>
 		<desc>Hamza Yassin travels the UK to uncover hidden wildlife spectacles in spring.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m6zkcc.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7mnhd.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251012181500 +0000" stop="20251012190000 +0000">
 		<title>Strictly Come Dancing - Series 23: Week 3 Results</title>
@@ -575,7 +575,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251012223000 +0000" stop="20251012232000 +0000">
 		<title>The Women's Football Show - 2025/26: 12/10/2025</title>
-		<desc>The latest action and the biggest talking points in the women's game.</desc>
+		<desc>Top matches include Chelsea at home against Tottenham Hotspur. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m6kr3q.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251012232000 +0000" stop="20251013001000 +0000">
@@ -2044,12 +2044,12 @@
 	<programme channel="bbcfour" start="20251013210000 +0000" stop="20251013213000 +0000">
 		<title>The Sky at Night - Brits in Space</title>
 		<desc>The team find out what it takes to become a European Space Agency astronaut.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02gbc72.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7lrsh.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20251013213000 +0000" stop="20251013214500 +0000">
 		<title>Remembers... - Professor Angie Hobbs Remembers... The Great Philosophers</title>
 		<desc>Professor Angie Hobbs gives a modern view on Bryan Magee’s highly influential 1987 series.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7fxrq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7lqp3.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20251013214500 +0000" stop="20251013223000 +0000">
 		<title>The Great Philosophers - Series 1: 1. Plato</title>
@@ -5381,7 +5381,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kg7n4v.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251012200000 +0000" stop="20251012210000 +0000">
-		<title>Highland Cops - Series 3: Episode 1</title>
+		<title>Highland Cops - Series 3: 1. Hunting the Salmon Snatchers</title>
 		<desc>Police tackle suspected salmon poachers on the Isle of Lewis and a drug gang in Inverness.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fcg13q.jpg" />
 	</programme>
@@ -5550,10 +5550,15 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251009120000 +0000" stop="20251009130000 +0000">
-		<title>BBC News at One - 09/10/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	<programme channel="bbcnews" start="20251009120000 +0000" stop="20251009123000 +0000">
+		<title>BBC News Now - 09/10/2025</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251009123000 +0000" stop="20251009130000 +0000">
+		<title>BBC News Now - 09/10/2025</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251009130000 +0000" stop="20251009133000 +0000">
 		<title>BBC News Now - 09/10/2025</title>
@@ -5585,15 +5590,10 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251009153000 +0000" stop="20251009154500 +0000">
-		<title>Business Today - 09/10/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251009154500 +0000" stop="20251009160000 +0000">
-		<title>Verified Live - 09/10/2025</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
+	<programme channel="bbcnews" start="20251009153000 +0000" stop="20251009160000 +0000">
+		<title>BBC News Special - Israel-Gaza deal? Your Questions Answered</title>
+		<desc>How did the Gaza deal come together, and where could it lead?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07hp9l7.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251009160000 +0000" stop="20251009163000 +0000">
 		<title>Verified Live - 09/10/2025</title>
@@ -5635,10 +5635,15 @@
 		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251009200000 +0000" stop="20251009210000 +0000">
-		<title>Question Time - 2025: 09/10/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate from Shrewsbury.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
+	<programme channel="bbcnews" start="20251009200000 +0000" stop="20251009203000 +0000">
+		<title>The Context USA - 09/10/2025</title>
+		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251009203000 +0000" stop="20251009210000 +0000">
+		<title>The Context USA - 09/10/2025</title>
+		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251009210000 +0000" stop="20251009213000 +0000">
 		<title>BBC News at Ten - 09/10/2025</title>
@@ -5921,8 +5926,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251011033000 +0000" stop="20251011040000 +0000">
-		<title>The Media Show - 11/10/2025</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - Reporting from Inside Putin’s Russia</title>
+		<desc>Steve Rosenberg on reporting truth and staying safe as a BBC journalist in Moscow.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251011040000 +0000" stop="20251011043000 +0000">
@@ -6081,8 +6086,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251011233000 +0000" stop="20251012000000 +0000">
-		<title>The Media Show - 11/10/2025</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - Reporting from Inside Putin’s Russia</title>
+		<desc>Steve Rosenberg on reporting truth and staying safe as a BBC journalist in Moscow.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251012000000 +0000" stop="20251012003000 +0000">
@@ -7842,7 +7847,7 @@
 	</programme>
 	<programme channel="s4c" start="20251010073500 +0000" stop="20251010074500 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 3: Robot Rhydlyd</title>
-		<desc>Wrth i Al Tal ddechrau rhydu mae'n rhaid i Blero a'i ffrindiau ddatrys y broblem. - Whe...</desc>
+		<desc>Pan mae Al Tal yn dechrau rhydu mae'n rhaid i Blero a'i ffrindiau ddatrys y broblem. - ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2n9w.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251010074500 +0000" stop="20251010080000 +0000">
@@ -8457,7 +8462,7 @@
 	</programme>
 	<programme channel="s4c" start="20251013073500 +0000" stop="20251013074500 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 3: Ciwcymbr y Gofod</title>
-		<desc>Oes yna'r fath beth â gormod o Blero? Mae Ocido ar fin darganfod.   Can there ever be s...</desc>
+		<desc>Mae hedyn o'r gofod yn glanio'n ddamweiniol yn fferm Ffermwr Ffred,ac mae Blero'n awydd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2n9w.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251013074500 +0000" stop="20251013080000 +0000">
