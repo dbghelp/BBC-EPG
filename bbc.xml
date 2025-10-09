@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20251009083000 +0000" stop="20251009094500 +0000">
 		<title>Morning Live - Series 7: 09/10/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251009094500 +0000" stop="20251009103000 +0000">
 		<title>Crimewatch Live - Series 22: 4. Hunt for a Killer</title>
@@ -768,7 +768,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20251009111500 +0000" stop="20251009120000 +0000">
 		<title>Politics Live - 09/10/2025</title>
-		<desc>The big political issues of the day.</desc>
+		<desc>Israel and Hamas agree to the first phase of a Gaza peace deal.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m496r1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251009120000 +0000" stop="20251009124500 +0000">
@@ -2637,7 +2637,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0krrnp4.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20251011080000 +0000" stop="20251011103000 +0000">
-		<title>Saturday Mash-Up! Live - Series 8: 8. Jack Rhodes, The Gilbert Twins &amp; Shereen is Pranked!</title>
+		<title>Saturday Mash-Up! Live - Series 8: 8. Jack Rhodes, The Gilbert Twins and Shereen is Pranked!</title>
 		<desc>Joe, Shereen and Stanley welcome magician Jack Rhodes into the studio.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lyjfht.jpg" />
 	</programme>
@@ -5490,10 +5490,25 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251009050000 +0000" stop="20251009080000 +0000">
-		<title>Breakfast - 09/10/2025</title>
-		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	<programme channel="bbcnews" start="20251009050000 +0000" stop="20251009060000 +0000">
+		<title>BBC News - 09/10/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251009060000 +0000" stop="20251009070000 +0000">
+		<title>BBC News - 09/10/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251009070000 +0000" stop="20251009073000 +0000">
+		<title>BBC News - 09/10/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251009073000 +0000" stop="20251009080000 +0000">
+		<title>BBC News - 09/10/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251009080000 +0000" stop="20251009083000 +0000">
 		<title>BBC News - 09/10/2025</title>
@@ -5515,15 +5530,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251009100000 +0000" stop="20251009103000 +0000">
+	<programme channel="bbcnews" start="20251009100000 +0000" stop="20251009104500 +0000">
 		<title>BBC News - 09/10/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251009103000 +0000" stop="20251009104500 +0000">
-		<title>Business Today - 09/10/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251009104500 +0000" stop="20251009110000 +0000">
 		<title>BBC News - 09/10/2025</title>
