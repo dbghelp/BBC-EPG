@@ -5640,15 +5640,10 @@
 		<desc>President Trump visits Israel, as Israeli hostages and Palestinian prisoners are released.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251013140000 +0000" stop="20251013170000 +0000">
+	<programme channel="bbcnews" start="20251013140000 +0000" stop="20251013173000 +0000">
 		<title>BBC News - Israel-Gaza Deal: Trump in Israel</title>
 		<desc>President Trump visits Israel, as Israeli hostages and Palestinian prisoners are released.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251013170000 +0000" stop="20251013173000 +0000">
-		<title>BBC News at Six - 13/10/2025</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251013173000 +0000" stop="20251013180000 +0000">
 		<title>The World Today with Maryam Moshiri - 13/10/2025</title>
@@ -6738,7 +6733,7 @@
 	<programme channel="bbcparliament" start="20251013133000 +0000" stop="20251013143000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Steve Reed on Monday 13 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8d5yc.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251013143000 +0000" stop="20251013153000 +0000">
 		<title>House of Commons - Manchester Synagogue Attack Statement</title>
@@ -6770,20 +6765,60 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 13 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251013230000 +0000" stop="20251014060000 +0000">
-		<title>House of Lords - 13/10/2025</title>
+	<programme channel="bbcparliament" start="20251013230000 +0000" stop="20251013231500 +0000">
+		<title>House of Lords - China Spying Case Private Notice Question</title>
+		<desc>A private notice question on the collapse of the China spying case, on Monday 13 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251013231500 +0000" stop="20251014012500 +0000">
+		<title>House of Lords - Border Security, Asylum and Immigration Bill Part 1</title>
 		<desc>Business in the House of Lords on Monday 13 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251014012500 +0000" stop="20251014032500 +0000">
+		<title>House of Lords - Border Security, Asylum and Immigration Bill Part 2</title>
+		<desc>Business in the House of Lords on Monday 13 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251014032500 +0000" stop="20251014042500 +0000">
+		<title>House of Lords - Border Security, Asylum and Immigration Bill Part 3</title>
+		<desc>Business in the House of Lords on Monday 13 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251014042500 +0000" stop="20251014045500 +0000">
+		<title>House of Lords - Border Security, Asylum and Immigration Bill Part 4</title>
+		<desc>Business in the House of Lords on Monday 13 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251014045500 +0000" stop="20251014060000 +0000">
+		<title>House of Lords - Bus Services Bill</title>
+		<desc>Business in the House of Lords, on Monday 13 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251014060000 +0000" stop="20251014070000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Steve Reed on Monday 13 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8d5yc.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251014070000 +0000" stop="20251014090000 +0000">
-		<title>House of Commons - 13/10/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 13 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20251014070000 +0000" stop="20251014080000 +0000">
+		<title>Westminster Hall - Pavement Parking</title>
+		<desc>A Westminster Hall debate on the issues caused by the parking of cars on pavements.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251014080000 +0000" stop="20251014083000 +0000">
+		<title>Westminster Hall - Housing Developments in North Staffordshire Debate</title>
+		<desc>Coverage of a Westminster Hall debate on housing developments in North Staffordshire.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251014083000 +0000" stop="20251014085000 +0000">
+		<title>Westminster Hall - Religious Crematoria Debate</title>
+		<desc>Coverage of a Westminster Hall debate on the provision of religious crematoria.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251014085000 +0000" stop="20251014090000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251014090000 +0000" stop="20251014103000 +0000">
 		<title>Select Committees - Education Committee on Ofsted</title>
