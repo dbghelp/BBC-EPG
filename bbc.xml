@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20251015083000 +0000" stop="20251015094500 +0000">
 		<title>Morning Live - Series 7: 15/10/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251015094500 +0000" stop="20251015103000 +0000">
 		<title>Crimewatch Live - Series 22: 8. Search for Truth</title>
@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251015180000 +0000" stop="20251015183000 +0000">
 		<title>The One Show - 15/10/2025</title>
-		<desc>Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+		<desc>Sir Bradley Wiggins, Channing Tatum and Kirsten Dunst join Alex and Vernon on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251015183000 +0000" stop="20251015190000 +0000">
@@ -848,7 +848,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20251015220500 +0000" stop="20251015223500 +0000">
 		<title>Unspun World with John Simpson - Series 5: 15/10/2025</title>
-		<desc>Two years on from the October 7th attacks - is peace in Gaza is now possible?</desc>
+		<desc>John Simpson explores who will actually be running Gaza in the wake of the ceasefire.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251015223500 +0000" stop="20251015231500 +0000">
@@ -2049,7 +2049,7 @@
 	<programme channel="bbcfour" start="20251018180000 +0000" stop="20251018190000 +0000">
 		<title>The Magic Roundabout Story</title>
 		<desc>A celebration of classic children's series The Magic Roundabout.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8pz4x.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20251018190000 +0000" stop="20251018190500 +0000">
 		<title>The Magic Roundabout - Four-Leaf Clover</title>
@@ -5673,15 +5673,10 @@
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251015180000 +0000" stop="20251015183000 +0000">
-		<title>The World Today with Maryam Moshiri - 15/10/2025</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251015183000 +0000" stop="20251015190000 +0000">
-		<title>The World Today with Maryam Moshiri - 15/10/2025</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
+	<programme channel="bbcnews" start="20251015180000 +0000" stop="20251015190000 +0000">
+		<title>Your Voice, Your Vote: Caerphilly</title>
+		<desc>Join Nick Servini and a live studio audience ahead of the Caerphilly Senedd by-election.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7nt23.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251015190000 +0000" stop="20251015193000 +0000">
 		<title>The Context - 15/10/2025</title>
@@ -6693,7 +6688,22 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 15 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251015113500 +0000" stop="20251015183000 +0000">
+	<programme channel="bbcparliament" start="20251015113500 +0000" stop="20251015120000 +0000">
+		<title>House of Commons - Jhoots Pharmacy Urgent Question</title>
+		<desc>Urgent question on the adequacy of the Jhoots chain as a pharmacy provider.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251015120000 +0000" stop="20251015124500 +0000">
+		<title>House of Commons - Ukraine Statement</title>
+		<desc>Coverage of the statement by foreign secretary Yvette Cooper on the war in Ukraine.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251015124500 +0000" stop="20251015131500 +0000">
+		<title>House of Commons - Pride in Place Statement</title>
+		<desc>The statement on the government's Pride in Place Strategy, on Wednesday 15 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251015131500 +0000" stop="20251015183000 +0000">
 		<title>House of Commons - 15/10/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 15 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -8281,7 +8291,7 @@
 	<programme channel="s4c" start="20251017183000 +0000" stop="20251017205000 +0000">
 		<title>Clwb Rygbi - Tymor 2025/26: Clwb Rygbi: Dreigiau v Caerdydd</title>
 		<desc>Gêm Bencampwriaeth Rygbi Unedig fyw rhwng y Dreigiau a Caerdydd. Rodney Parade. C/G 19....</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5lysh.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8pvk9.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251017205000 +0000" stop="20251017211500 +0000">
 		<title>GISDA - Pennod 5</title>
