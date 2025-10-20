@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251020083000 +0000" stop="20251020094500 +0000">
 		<title>Morning Live - Series 7: 20/10/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Big Zuu has an exclusive BBC Children in Need announcement.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251020094500 +0000" stop="20251020103000 +0000">
@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251020180000 +0000" stop="20251020183000 +0000">
 		<title>The One Show - 20/10/2025</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Larry Lamb, Stephen Moyer and Joe Swash join Alex Jones and Roman Kemp in the studio.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251020183000 +0000" stop="20251020190000 +0000">
@@ -695,7 +695,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251024200000 +0000" stop="20251024203000 +0000">
 		<title>Have I Got News for You - Series 70: Episode 4</title>
-		<desc>Adil Ray is host, with guest panellists including comedian Julian Clary.</desc>
+		<desc>Adil Ray is host, with guest panellists comedian Julian Clary and journalist Sophy Ridge.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7wpp5.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251024203000 +0000" stop="20251024210000 +0000">
@@ -3796,9 +3796,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tlw5c.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251020175000 +0000" stop="20251020175800 +0000">
-		<title>CBeebies Bedtime Stories - New: CBeebies Bedtime Stories</title>
-		<desc>A brand-new story for bedtime.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
+		<title>CBeebies Bedtime Stories - New and Trending: Nikita Kanda - Bandi Chhor Divas: Freedom Day</title>
+		<desc>Join Nikita Kanda as she celebrates the story of Bandi Chhor Divas.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9ndk3.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251020175800 +0000" stop="20251021043000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -3881,12 +3881,12 @@
 		<desc>A sleepy Tommy Brock is hoisted up into the Squirrel Camp.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02qfc3j.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251021070000 +0000" stop="20251021071500 +0000">
+	<programme channel="cbeebies" start="20251021070000 +0000" stop="20251021071000 +0000">
 		<title>Octonauts: Above &amp; Beyond - Series 4: 5. Mudslide</title>
 		<desc>When a rainstorm surges, the Octonauts contend with an oncoming mudslide.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h586yh.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251021071500 +0000" stop="20251021072000 +0000">
+	<programme channel="cbeebies" start="20251021071000 +0000" stop="20251021072000 +0000">
 		<title>Numberblocks - Series 8: The Great Bug Race</title>
 		<desc>One to Four's pet bugs are racing on special tracks, but can they follow the perimeter?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwvrhp.jpg" />
@@ -6852,20 +6852,40 @@
 		<desc>Coverage of questions to Bridget Phillipson on Monday 20 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251020143000 +0000" stop="20251020213000 +0000">
+	<programme channel="bbcparliament" start="20251020143000 +0000" stop="20251020151500 +0000">
+		<title>House of Commons - Spying Case Urgent Question</title>
+		<desc>Urgent question on the Home Office's involvement in the alleged case of spying against MPs</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251020151500 +0000" stop="20251020160000 +0000">
+		<title>House of Commons - Football Policing Urgent Question</title>
+		<desc>Question on banning Maccabi Tel Aviv football fans from their fixture against Aston Villa.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251020160000 +0000" stop="20251020170000 +0000">
+		<title>House of Commons - Post-16 Education and Skills Statement</title>
+		<desc>A statement by Bridget Phillipson on the Post-16 Education and Skills Strategy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251020170000 +0000" stop="20251020223000 +0000">
 		<title>House of Commons - 20/10/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 20 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251020213000 +0000" stop="20251020221500 +0000">
+	<programme channel="bbcparliament" start="20251020223000 +0000" stop="20251020231500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions to the Northern Ireland executive, with the first minister Michelle O'Neill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251020221500 +0000" stop="20251020230000 +0000">
+	<programme channel="bbcparliament" start="20251020231500 +0000" stop="20251021000000 +0000">
 		<title>Lords Questions - 20/10/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 20 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251021000000 +0000" stop="20251021060000 +0000">
+		<title>House of Lords - 20/10/2025</title>
+		<desc>Business in the House of Lords on Monday 20 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251020230000 +0000" stop="20251021060000 +0000">
 		<title>House of Lords - 20/10/2025</title>
@@ -7850,7 +7870,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251020190000 +0000" stop="20251020192500 +0000">
-		<title>Y Byd ar Bedwar - Cyfres 2025/26: Pennod 7</title>
+		<title>Y Byd ar Bedwar - Cyfres 2025/26: Colli Penrhos, colli popeth</title>
 		<desc>Clywn gan rai sydd wedi buddsoddi yn y cwmni sy'n berchen Parc Penrhos, The 79th Group ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhmg3f.jpg" />
 	</programme>
@@ -8470,7 +8490,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05q196v.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251022220000 +0000" stop="20251022223000 +0000">
-		<title>Y Byd ar Bedwar - Cyfres 2025/26: Pennod 7</title>
+		<title>Y Byd ar Bedwar - Cyfres 2025/26: Colli Penrhos, colli popeth</title>
 		<desc>Clywn gan rai sydd wedi buddsoddi yn y cwmni sy'n berchen Parc Penrhos, The 79th Group ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhmg3f.jpg" />
 	</programme>
@@ -8650,7 +8670,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p093s78p.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251023123000 +0000" stop="20251023130000 +0000">
-		<title>Y Byd ar Bedwar - Cyfres 2025/26: Pennod 7</title>
+		<title>Y Byd ar Bedwar - Cyfres 2025/26: Colli Penrhos, colli popeth</title>
 		<desc>Clywn gan rai sydd wedi buddsoddi yn y cwmni sy'n berchen Parc Penrhos, The 79th Group ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhmg3f.jpg" />
 	</programme>
