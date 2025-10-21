@@ -1344,7 +1344,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251021185500 +0000" stop="20251021190000 +0000">
 		<title>The Catch Up - 21/10/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Ruby Gleeson.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251021190000 +0000" stop="20251021200000 +0000">
@@ -5286,9 +5286,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9kyg8.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251021214500 +0000" stop="20251021221500 +0000">
-		<title>Scotcast - 21/10/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<title>Scotcast - Susie Wolff Interview</title>
+		<desc>Formula 1’s female pioneer Susie Wolff on making her name in a male-dominated sport.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9xb6l.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251021221500 +0000" stop="20251021224500 +0000">
 		<title>David Wilson's Crime Files - Series 4 - Scams and Scandals: 5. White Collar</title>
@@ -6705,49 +6705,74 @@
 		<desc>Coverage of the committee session on information and data security across government.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021103000 +0000" stop="20251021113000 +0000">
+	<programme channel="bbcparliament" start="20251021103000 +0000" stop="20251021114000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021113000 +0000" stop="20251021121500 +0000">
-		<title>House of Commons - Rape Gangs National Statutory Inquiry Urgent Question</title>
-		<desc>Urgent question on criticism of the national statutory inquiry into the rape gang scandal.</desc>
+	<programme channel="bbcparliament" start="20251021114000 +0000" stop="20251021123500 +0000">
+		<title>House of Commons - Grooming Gangs National Statutory Inquiry Urgent Question</title>
+		<desc>The urgent question on criticism of the national statutory inquiry into grooming gangs.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021121500 +0000" stop="20251021183000 +0000">
+	<programme channel="bbcparliament" start="20251021123500 +0000" stop="20251021183000 +0000">
 		<title>House of Commons - 21/10/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021183000 +0000" stop="20251021210000 +0000">
+	<programme channel="bbcparliament" start="20251021183000 +0000" stop="20251021220000 +0000">
 		<title>House of Lords - 21/10/2025</title>
 		<desc>Coverage of proceedings in the House of Lords on Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021210000 +0000" stop="20251021215000 +0000">
+	<programme channel="bbcparliament" start="20251021220000 +0000" stop="20251021225000 +0000">
 		<title>Welsh First Minister's Questions - 21/10/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021215000 +0000" stop="20251021223500 +0000">
+	<programme channel="bbcparliament" start="20251021225000 +0000" stop="20251021233500 +0000">
 		<title>Lords Questions - 21/10/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021223500 +0000" stop="20251022060000 +0000">
-		<title>House of Lords - 21/10/2025</title>
-		<desc>Business in the House of Lords on Tuesday 21 October.</desc>
+	<programme channel="bbcparliament" start="20251021233500 +0000" stop="20251021235000 +0000">
+		<title>House of Lords - Amazon Web Services Question</title>
+		<desc>A private notice question on the outage affecting Amazon Web Services, on 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251022060000 +0000" stop="20251022070000 +0000">
+	<programme channel="bbcparliament" start="20251021235000 +0000" stop="20251022000000 +0000">
+		<title>House of Lords - China Spying Case Statement</title>
+		<desc>A statement on Home Office involvement in the China spying case, on Tuesday 21 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251022000000 +0000" stop="20251022013000 +0000">
+		<title>House of Lords - Public Authorities (Fraud, Error and Recovery) Bill, Part 1</title>
+		<desc>The second day of debate on the Public Authorities (Fraud, Error and Recovery) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251022013000 +0000" stop="20251022030000 +0000">
+		<title>House of Lords - Public Authorities (Fraud, Error and Recovery) Bill, Part 2</title>
+		<desc>The second day of debate on the Public Authorities (Fraud, Error and Recovery) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251022030000 +0000" stop="20251022043000 +0000">
+		<title>House of Lords - Public Authorities (Fraud, Error and Recovery) Bill, Part 3</title>
+		<desc>The second day of debate on the Public Authorities (Fraud, Error and Recovery) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251022043000 +0000" stop="20251022060000 +0000">
+		<title>House of Lords - Public Authorities (Fraud, Error and Recovery) Bill, Part 4</title>
+		<desc>The second day of debate on the Public Authorities (Fraud, Error and Recovery) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251022060000 +0000" stop="20251022072000 +0000">
+		<title>House of Lords - Deprivation of Citizenship Orders Bill</title>
+		<desc>The remaining stages of the Deprivation of Citizenship Orders (Effect during Appeal) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251022072000 +0000" stop="20251022083000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 21 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251022070000 +0000" stop="20251022083000 +0000">
-		<title>House of Commons - 21/10/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251022083000 +0000" stop="20251022103000 +0000">
@@ -7924,7 +7949,7 @@
 	</programme>
 	<programme channel="s4c" start="20251022090000 +0000" stop="20251022090500 +0000">
 		<title>Olobobs - Cyfres 2: Caffi</title>
-		<desc>Cyfres animeiddiedig i blant yn dilyn anturiaethau Tib, Lalw a Bobl. An animated series...</desc>
+		<desc>Yn y bennod hon, mae'r Olobobs yng nghaffi Dino - mae breuddwyd Dino i gael caffi ei hu...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05d0w8y.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251022090500 +0000" stop="20251022092000 +0000">
