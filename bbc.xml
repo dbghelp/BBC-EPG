@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20251021083000 +0000" stop="20251021094500 +0000">
 		<title>Morning Live - Series 7: 21/10/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<desc>Gordon Smart and Louise Minchin chat to Atomic Kitten’s Natasha Hamilton. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9vxmt.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251021094500 +0000" stop="20251021103000 +0000">
 		<title>Crimewatch Live - Series 22: 12. Senseless Acts</title>
@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251021180000 +0000" stop="20251021183000 +0000">
 		<title>The One Show - 21/10/2025</title>
-		<desc>Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+		<desc>Petula Clark, Neil Morrissey and Jamie-Lee O’Donnell join Lauren Laverne and Clara Amfo.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251021183000 +0000" stop="20251021190000 +0000">
@@ -749,7 +749,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20251021111500 +0000" stop="20251021120000 +0000">
 		<title>Politics Live - 21/10/2025</title>
-		<desc>The big political issues of the day.</desc>
+		<desc>Former prime minister Boris Johnson gives evidence to the Covid Inquiry.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m496r1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251021120000 +0000" stop="20251021124500 +0000">
@@ -1603,9 +1603,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dmj0pb.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251024200000 +0000" stop="20251025000000 +0000">
-		<title>Cycling: Track World Championships - 2025: Day 3</title>
+		<title>Cycling: Track World Championships - 2025: Day 3: Women's Omnium Final, Individual Pursuit and Sprint Finals</title>
 		<desc>Day three of the Track Cycling World Championships in Santiago de Chile.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8b63s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9w3wk.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251025000000 +0000" stop="20251025010500 +0000">
 		<title>RuPaul's Drag Race UK - Series 7: Episode 5</title>
@@ -3730,9 +3730,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tlxww.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251021175000 +0000" stop="20251021175800 +0000">
-		<title>CBeebies Bedtime Stories - New and Trending: 21/10/2025</title>
-		<desc>A different story read each night just before bedtime.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
+		<title>CBeebies Bedtime Stories - New and Trending: Dame Laura Kenny - Thank You</title>
+		<desc>Legendary Olympian Dame Laura Kenny reads a story about all the things to be thankful for.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9vr56.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251021175800 +0000" stop="20251022043000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -5810,20 +5810,15 @@
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251022104500 +0000" stop="20251022110000 +0000">
+	<programme channel="bbcnews" start="20251022104500 +0000" stop="20251022105500 +0000">
 		<title>BBC News - 22/10/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251022110000 +0000" stop="20251022113000 +0000">
-		<title>BBC News Now - 22/10/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251022113000 +0000" stop="20251022120000 +0000">
-		<title>BBC News Now - 22/10/2025</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	<programme channel="bbcnews" start="20251022105500 +0000" stop="20251022120000 +0000">
+		<title>Politics Live - 22/10/2025</title>
+		<desc>The big political issues of the day.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m496r1.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251022120000 +0000" stop="20251022130000 +0000">
 		<title>BBC News at One - 22/10/2025</title>
@@ -6695,12 +6690,17 @@
 		<desc>A Bill on Welsh language provision in the register of births, marriages and deaths.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9rv8t.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021082500 +0000" stop="20251021083000 +0000">
+	<programme channel="bbcparliament" start="20251021082500 +0000" stop="20251021083500 +0000">
 		<title>This is BBC Parliament - This is BBC Parliament</title>
 		<desc>The top political and parliamentary stories from BBC News.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021083000 +0000" stop="20251021103000 +0000">
+	<programme channel="bbcparliament" start="20251021083500 +0000" stop="20251021084500 +0000">
+		<title>Lords Questions - 20/10/2025</title>
+		<desc>Questions in the House of Lords to government ministers on Monday 20 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251021084500 +0000" stop="20251021103000 +0000">
 		<title>Select Committees - Science, Innovation and Technology Committee</title>
 		<desc>Coverage of the committee session on information and data security across government.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
@@ -6710,7 +6710,12 @@
 		<desc>Coverage of questions to Wes Streeting on Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021113000 +0000" stop="20251021183000 +0000">
+	<programme channel="bbcparliament" start="20251021113000 +0000" stop="20251021121500 +0000">
+		<title>House of Commons - Rape Gangs National Statutory Inquiry Urgent Question</title>
+		<desc>Urgent question on criticism of the national statutory inquiry into the rape gang scandal.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251021121500 +0000" stop="20251021183000 +0000">
 		<title>House of Commons - 21/10/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7164,7 +7169,7 @@
 		<title>Sgeulachd Cogaidh na h-Artaig/Untold Arctic Wars - Series 2: The Cold War: Episode 1</title>
 		<desc>A look back at the Cold War between the US and the Soviet Union post WWII. 
 </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxyk10.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9trz4.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20251022205000 +0000" stop="20251022210000 +0000">
 		<title>Brunch le Abigail - Series 1: 9. Lof Banana</title>
@@ -7174,7 +7179,7 @@
 	<programme channel="bbcalba" start="20251022210000 +0000" stop="20251022213000 +0000">
 		<title>Cuirm @ Celtic - Celtic Connections at 30 - Part 2</title>
 		<desc>Concert celebrating the 30th year of Celtic Connections. Presented by Ellen MacDonald.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fgdw4d.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9tv1g.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20251022213000 +0000" stop="20251022220000 +0000">
 		<title>Transatlantic Sessions - Series 3: Episode 4</title>
@@ -7484,7 +7489,7 @@
 	<programme channel="bbcalba" start="20251025200000 +0000" stop="20251025213500 +0000">
 		<title>World Pipe Band Championships - 2025: Episode 2</title>
 		<desc>Farpais Chòmhlan Pìoba na Cruinne 2025. Music from the 2025 World Pipe Band Championships.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05c47n3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9vkbp.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20251025213500 +0000" stop="20251025215000 +0000">
 		<title>Rurachd (Foraging)  - Series 1: Episode 2</title>
@@ -8117,17 +8122,17 @@
 		<desc>Mae Cari wedi blino'n lân. Mae llwynogod swnllyd wedi bod yn ei chadw'n effro drwy'r no...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fgqzh2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023051000 +0000" stop="20251023052000 +0000">
+	<programme channel="s4c" start="20251023051000 +0000" stop="20251023052500 +0000">
 		<title>Sion y Chef - Cyfres 1: Ar Lan y Mor</title>
 		<desc>Mae Mario ac Izzy yn cystadlu i weld pwy all gasglu'r mwya' o gregyn gleision ar gyfer ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07g3lpg.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023052000 +0000" stop="20251023053500 +0000">
+	<programme channel="s4c" start="20251023052500 +0000" stop="20251023054000 +0000">
 		<title>Jen a Jim - Jen a Jim a'r Cywiadur: T - Ty o'r enw Twlc</title>
 		<desc>Mae 'na fochyn bach ar goll ar y traeth ond yn anffodus, dydy e ddim yn cofio lle mae'n...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04w3w45.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023053500 +0000" stop="20251023055000 +0000">
+	<programme channel="s4c" start="20251023054000 +0000" stop="20251023055000 +0000">
 		<title>Chwedlau Tinga Tinga - Cyfres 1: Pam Fod Siacal yn Udo at y Lle</title>
 		<desc>Straeon lliwgar o Affrica am anifeiliaid y byd. Heddiw cawn glywed pam mae Siacal yn ud...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02fv4ld.jpg" />
@@ -8167,12 +8172,12 @@
 		<desc>Cyfres o straeon bach cyn cysgu. Heddiw, Tara Bethan sy'n darllen Trysor. A series of b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x36bd.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023070500 +0000" stop="20251023071500 +0000">
+	<programme channel="s4c" start="20251023070500 +0000" stop="20251023072000 +0000">
 		<title>Tomos a'i Ffrindiau - Cyfres 4: Rhwdlyn Rhydlyd</title>
 		<desc>Mae Tomos yn taflu hoff gan olew Diesel oherwydd ei fod yn meddwl ei fod yn sbwriel. To...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fg029b.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023071500 +0000" stop="20251023073500 +0000">
+	<programme channel="s4c" start="20251023072000 +0000" stop="20251023073500 +0000">
 		<title>Ahoi! - Cyfres 1: Ysgol Nant Caerau, Caerdydd</title>
 		<desc>Heddiw, môr-ladron o Ysgol Nant Caerau sy'n ymuno â Ben Dant a Cadi i herio Capten Cnec...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05s641v.jpg" />
@@ -8202,12 +8207,12 @@
 		<desc>Heddiw, mae Meg yn gofyn 'Pam bod cymylau gyda ni?' Mae Tad-cu'n ateb efo stori am ei D...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09z32tw.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023083000 +0000" stop="20251023084500 +0000">
+	<programme channel="s4c" start="20251023083000 +0000" stop="20251023084000 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Ffarwel</title>
 		<desc>Mae Gwich yn dyheu i fynd a'i gwch ar antur ar y môr mawr! When his friends encourage h...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023084500 +0000" stop="20251023090000 +0000">
+	<programme channel="s4c" start="20251023084000 +0000" stop="20251023090000 +0000">
 		<title>Kim a Cêt a Twrch - Cyfres 1: Pennod 12</title>
 		<desc>Mae Kim a Cêt yn rhyddhau'r synau o'r peiriant - ond mae'r synau yn mynd yn ôl i'r anif...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fkxqkc.jpg" />
@@ -8227,12 +8232,12 @@
 		<desc>Dewch ar antur gyda ni i gwrdd ac anifeiliaid bach y byd, ac yn y rhaglen hon byddwn yn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08y0njz.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023093000 +0000" stop="20251023094500 +0000">
+	<programme channel="s4c" start="20251023093000 +0000" stop="20251023094000 +0000">
 		<title>Chwedlau Tinga Tinga - Cyfres 1: Pam Fod Madfall yn Cuddio o Da</title>
 		<desc>Heddiw, cawn glywed pam mae Madfall yn cuddio o dan greigiau. Today we find out why Liz...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02fv4ld.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023094500 +0000" stop="20251023100000 +0000">
+	<programme channel="s4c" start="20251023094000 +0000" stop="20251023100000 +0000">
 		<title>Deian a Loli - Cyfres 5: ...a'r Arceidwad</title>
 		<desc>Does dim gwell gan Deian a Loli na chwarae yn yr Arcêd, ac ma'r ddau'n benderfynol o gu...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kfcydq.jpg" />
@@ -8252,12 +8257,12 @@
 		<desc>Yn y bennod yma byddwn yn darganfod beth yw'r pethau defnyddiol mewn natur. In this epi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdbbh1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023103000 +0000" stop="20251023104500 +0000">
+	<programme channel="s4c" start="20251023103000 +0000" stop="20251023104000 +0000">
 		<title>Guto Gwningen - Cyfres 2: Hanes y Gwiwerod Cecrus</title>
 		<desc>Mae Felics a Watcyn yn ffraeo ac yn gadael y gwersyll mewn llanast. Mae Guto'n helpu'r ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07txhxv.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023104500 +0000" stop="20251023110000 +0000">
+	<programme channel="s4c" start="20251023104000 +0000" stop="20251023110000 +0000">
 		<title>Help Llaw - Cyfres 1: Rocco - Ailgylchu</title>
 		<desc>Mae Rocco a Malcolm Allen o'r Warws Werdd wedi gofyn i Harri ddod draw i beintio wal. R...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdcx91.jpg" />
@@ -8307,12 +8312,12 @@
 		<desc>Awn ati i drefnu priodas John a Becky o Hwlffordd. Mae ganddynt dri o blant, ac maent w...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdcrrq.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023150000 +0000" stop="20251023151000 +0000">
+	<programme channel="s4c" start="20251023150000 +0000" stop="20251023151500 +0000">
 		<title>Caru Canu a Stori - Cyfres 1: Pori mae yr Asyn</title>
 		<desc>Mae Alun Asyn yn teimlo'n unig. Hoffai chwarae gyda'i ffrindiau newydd, ond does neb yn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08vpnt5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251023151000 +0000" stop="20251023152000 +0000">
+	<programme channel="s4c" start="20251023151500 +0000" stop="20251023152000 +0000">
 		<title>Yr Whws - Cyfres 1: Brogaod Doniol</title>
 		<desc>Mae Eli yn dilyn brogaod i bwll ac ma'r Whws yn gweld jeli rhyfedd gyda dots du ynddo. ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lxycq0.jpg" />
@@ -8417,47 +8422,47 @@
 		<desc>Mae Harmoni, Melodi a Bop yn mynd ar y trên heddiw. Allwch chi gofio swn y trên er mwyn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hr2z2q.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024050500 +0000" stop="20251024052000 +0000">
+	<programme channel="s4c" start="20251024050500 +0000" stop="20251024051500 +0000">
 		<title>Twt - Cyfres 1: Gwyddau'n Galw</title>
 		<desc>Mae Twt wrth ei fodd pan mae gwyddau'n ymgartrefu yn yr harbwr ac ar ben ei ddigon yn c...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02hzfhg.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024052000 +0000" stop="20251024053000 +0000">
+	<programme channel="s4c" start="20251024051500 +0000" stop="20251024053000 +0000">
 		<title>Jambori - Cyfres 1: Pennod 11</title>
 		<desc>Ymunwch a Jam ar daith llawn synau, cerddoriaeth a lluniau - bydd cysgodion yn dawnsio ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x6yw7.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024053000 +0000" stop="20251024054500 +0000">
+	<programme channel="s4c" start="20251024053000 +0000" stop="20251024054000 +0000">
 		<title>Pentre Papur Pop - Pentre Papur Pop: Brenhines Mai-Mai</title>
 		<desc>Ar yr antur popwych heddiw mae Mai-Mai yn frenhines am y diwrnod! A fedrith hi adfer ha...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024054500 +0000" stop="20251024060000 +0000">
+	<programme channel="s4c" start="20251024054000 +0000" stop="20251024055500 +0000">
 		<title>Fferm Fach - Cyfres 3: Halen</title>
 		<desc>Mae Cai ar antur i Fferm Fach i weld o ble mae'r halen mae'n ei roi ar ei sglods yn dod...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdbdxv.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024060000 +0000" stop="20251024061000 +0000">
+	<programme channel="s4c" start="20251024055500 +0000" stop="20251024060500 +0000">
 		<title>Yr Whws - Cyfres 1: Aderyn Pigo</title>
 		<desc>Mae'r Whws yn darganfod bod y Pigwr Trogod Pipgoch yn helpu Eliffant coslyd trwy bigo p...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lxycq0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024061000 +0000" stop="20251024062000 +0000">
+	<programme channel="s4c" start="20251024060500 +0000" stop="20251024061500 +0000">
 		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 4</title>
 		<desc>Dewch ar antur gyda ni i gwrdd ag anifeiliaid bach y byd - sef y tro hwn, rhai o siarco...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024062000 +0000" stop="20251024063500 +0000">
+	<programme channel="s4c" start="20251024061500 +0000" stop="20251024063000 +0000">
 		<title>Dreigiau Cadi - Cyfres 2: Tren Blodau</title>
 		<desc>Mae cystadleuaeth y Trên Blodau yn cyd-fynd â noson arbennig Crugwen a Dai. Ond mae 'na...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd7hxx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024063500 +0000" stop="20251024064500 +0000">
+	<programme channel="s4c" start="20251024063000 +0000" stop="20251024064000 +0000">
 		<title>Sam Tân - Cyfres 10: Cyffro Cadetiaid</title>
 		<desc>Mae'r Cadetiaid Iau yn mynd ar ddiwrnod hyfforddi yn y goedwig. The Junior Cadets go on...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024064500 +0000" stop="20251024070000 +0000">
+	<programme channel="s4c" start="20251024064000 +0000" stop="20251024070000 +0000">
 		<title>Ne-wff-ion - Cyfres 3: Pennod 2</title>
 		<desc>Tro hwn, mae Lloyd yn ymweld â chlwb sglefrfyrddio arbennig yn Abertawe, ac fe gawn ni ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gn9n0t.jpg" />
@@ -8472,32 +8477,32 @@
 		<desc>Mae Guto yn defnyddio model o Dylluan i ddychryn Hen Ben ond mae'n dychryn y gwiwerod h...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07txhxv.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024072000 +0000" stop="20251024073500 +0000">
+	<programme channel="s4c" start="20251024072000 +0000" stop="20251024074000 +0000">
 		<title>Awyr Iach - Cyfres 2: Pennod 6</title>
 		<desc>Heddiw, bydd Huw a chriw o ffrindiau yn adeiladu rafft, ac fe gawn ni gwrdd a Hetti a'i...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd9v0r.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024073500 +0000" stop="20251024074500 +0000">
+	<programme channel="s4c" start="20251024074000 +0000" stop="20251024075000 +0000">
 		<title>Pablo - Cyfres 2: Bocs Botymau</title>
 		<desc>Mae gan Pablo ei ffordd ei hun o weld y byd, ac mae o wrth ei fodd gyda bocs botymau De...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bmwxql.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024074500 +0000" stop="20251024080000 +0000">
+	<programme channel="s4c" start="20251024075000 +0000" stop="20251024080500 +0000">
 		<title>Help Llaw - Cyfres 1: Rocco - Ailgylchu</title>
 		<desc>Mae Rocco a Malcolm Allen o'r Warws Werdd wedi gofyn i Harri ddod draw i beintio wal. R...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdcx91.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024080000 +0000" stop="20251024080500 +0000">
+	<programme channel="s4c" start="20251024080500 +0000" stop="20251024081000 +0000">
 		<title>Y Pitws Bychain - Cyfres 1: Dawns Bitw Fach</title>
 		<desc>Mae Lleia'n cael gwers bale, ac mae Mymryn yn ymuno am y tro cyntaf, dan arweiniad Cari...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxq8j0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024080500 +0000" stop="20251024082000 +0000">
+	<programme channel="s4c" start="20251024081000 +0000" stop="20251024082500 +0000">
 		<title>Patrôl Pawennau - Cyfres 3: Cwn yn achub draig</title>
 		<desc>Mae draig yn cadw'r Pawenlu allan o'r Pencadlys. Sut allent gael gwared arni? A fantasy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0645yv0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024082000 +0000" stop="20251024083000 +0000">
+	<programme channel="s4c" start="20251024082500 +0000" stop="20251024083000 +0000">
 		<title>Odo - Cyfres 1: Afal</title>
 		<desc>Cartwn hyfryd am gwdihw bach o'r enw Odo a'i ffrindiau yn y goedwig. Lovely cartoon abo...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c2dj8p.jpg" />
@@ -8522,12 +8527,12 @@
 		<desc>Mae Bobo yn cynhyrfu'n lân pan mae'n clywed am allu'r seren swyn i wireddu dymuniadau. ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03ms4wv.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024092000 +0000" stop="20251024093000 +0000">
+	<programme channel="s4c" start="20251024092000 +0000" stop="20251024093500 +0000">
 		<title>Pablo - Cyfres 1: Ceg Garbwl</title>
 		<desc>Mae gan Pablo ei ffordd ei hun o weld y byd, ac nid ydi o'n deall popeth mae mam yn ei ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09f9333.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024093000 +0000" stop="20251024094000 +0000">
+	<programme channel="s4c" start="20251024093500 +0000" stop="20251024094000 +0000">
 		<title>Odo - Cyfres 2: Bw Yr Ystlum!</title>
 		<desc>Mae Odo yn ofni Bw pan mae'n ei gyfarfod am y tro cynta. Tro'r ofn yn genfigen pan mae'...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdbjjz.jpg" />
@@ -8552,12 +8557,12 @@
 		<desc>Mae Bledd a Cef yn y sied yn chwilio am Ianto, anifail anwes newydd Bledd. Bledd and Ce...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd7hxx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024103000 +0000" stop="20251024104500 +0000">
+	<programme channel="s4c" start="20251024103000 +0000" stop="20251024104000 +0000">
 		<title>Patrôl Pawennau - Cyfres 4: Cwn yn Achub Reid Wyllt!</title>
 		<desc>Mae'r breichledi 'Gwna di, gwna fi' yn gadael i chwaraewyr gopio symudiadau Bow Wow Bwg...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0645yv0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251024104500 +0000" stop="20251024110000 +0000">
+	<programme channel="s4c" start="20251024104000 +0000" stop="20251024110000 +0000">
 		<title>Kim a Cai a Cranc - Cyfres 1: Pennod 11</title>
 		<desc>Ymunwch â Kim a Cai ar antur hudolus a chwareus sy'n llawn dawns a cherddoriaeth wrth i...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxn51r.jpg" />
@@ -8830,7 +8835,7 @@
 	<programme channel="s4c" start="20251025205000 +0000" stop="20251025215000 +0000">
 		<title>Pêl-droed Rhyngwladol - Pêl-droed: Cymru v Awstralia</title>
 		<desc>Pigion: Cymru sy'n chwarae Awstralia am y tro cyntaf, yn eu gêm gyntaf wedi rowndiau te...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9v196.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251025215000 +0000" stop="20251025225500 +0000">
 		<title>Radio Fa'ma - Cyfres 2: Llanidloes</title>
