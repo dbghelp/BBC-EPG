@@ -5706,8 +5706,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251021233000 +0000" stop="20251022000000 +0000">
-		<title>Newscast - 21/10/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Will Prince Andrew Keep Royal Lodge?</title>
+		<desc>Pressure builds on Prince Andrew after it emerges he has only paid a token annual rent.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251022000000 +0000" stop="20251022003000 +0000">
@@ -6715,50 +6715,60 @@
 		<desc>The urgent question on criticism of the national statutory inquiry into grooming gangs.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021123500 +0000" stop="20251021183000 +0000">
+	<programme channel="bbcparliament" start="20251021123500 +0000" stop="20251021185500 +0000">
 		<title>House of Commons - 21/10/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021183000 +0000" stop="20251021220000 +0000">
+	<programme channel="bbcparliament" start="20251021185500 +0000" stop="20251021210000 +0000">
 		<title>House of Lords - 21/10/2025</title>
 		<desc>Coverage of proceedings in the House of Lords on Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021220000 +0000" stop="20251021225000 +0000">
+	<programme channel="bbcparliament" start="20251021210000 +0000" stop="20251021215500 +0000">
 		<title>Welsh First Minister's Questions - 21/10/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021225000 +0000" stop="20251021233500 +0000">
+	<programme channel="bbcparliament" start="20251021215500 +0000" stop="20251021224000 +0000">
 		<title>Lords Questions - 21/10/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021233500 +0000" stop="20251021235000 +0000">
+	<programme channel="bbcparliament" start="20251021224000 +0000" stop="20251021225500 +0000">
 		<title>House of Lords - Amazon Web Services Question</title>
 		<desc>A private notice question on the outage affecting Amazon Web Services, on 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251021235000 +0000" stop="20251022000000 +0000">
+	<programme channel="bbcparliament" start="20251021225500 +0000" stop="20251021230500 +0000">
 		<title>House of Lords - China Spying Case Statement</title>
 		<desc>A statement on Home Office involvement in the China spying case, on Tuesday 21 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251022000000 +0000" stop="20251022013000 +0000">
+	<programme channel="bbcparliament" start="20251021230500 +0000" stop="20251022011500 +0000">
 		<title>House of Lords - Public Authorities (Fraud, Error and Recovery) Bill, Part 1</title>
 		<desc>The second day of debate on the Public Authorities (Fraud, Error and Recovery) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251022013000 +0000" stop="20251022030000 +0000">
+	<programme channel="bbcparliament" start="20251022011500 +0000" stop="20251022022000 +0000">
 		<title>House of Lords - Public Authorities (Fraud, Error and Recovery) Bill, Part 2</title>
 		<desc>The second day of debate on the Public Authorities (Fraud, Error and Recovery) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251022030000 +0000" stop="20251022043000 +0000">
+	<programme channel="bbcparliament" start="20251022022000 +0000" stop="20251022034000 +0000">
 		<title>House of Lords - Public Authorities (Fraud, Error and Recovery) Bill, Part 3</title>
 		<desc>The second day of debate on the Public Authorities (Fraud, Error and Recovery) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251022034000 +0000" stop="20251022040000 +0000">
+		<title>House of Lords - Deprivation of Citizenship Orders Bill</title>
+		<desc>The remaining stages of the Deprivation of Citizenship Orders (Effect during Appeal) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251022040000 +0000" stop="20251022060000 +0000">
+		<title>Select Committees - Education Committee on Ofsted</title>
+		<desc>Committee on the Office for Standards in Education, Children's Services and Skills.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8lw06.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251022043000 +0000" stop="20251022060000 +0000">
 		<title>House of Lords - Public Authorities (Fraud, Error and Recovery) Bill, Part 4</title>
