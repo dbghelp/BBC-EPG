@@ -292,7 +292,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251023214500 +0000" stop="20251023224500 +0000">
 		<title>Question Time - 2025: 23/10/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of debate from Swindon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251023224500 +0000" stop="20251023231500 +0000">
@@ -486,7 +486,7 @@
 	<programme channel="bbcone" start="20251025120000 +0000" stop="20251025130000 +0000">
 		<title>Bargain Hunt - Series 62-64 (Extended Versions): Newark 22 and 23</title>
 		<desc>Challenge yourself to guess today’s mystery object at Newark antiques fair.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m60n5b.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ldxk6y.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251025130000 +0000" stop="20251025153000 +0000">
 		<title>Rugby League: Internationals - 2025: England v Australia: First Test</title>
@@ -5138,7 +5138,7 @@
 	<programme channel="bbcscotland" start="20251022200000 +0000" stop="20251022210000 +0000">
 		<title>Debate Night - Series 7: 22/10/2025</title>
 		<desc>Topical debate from Glenrothes on the big issues affecting Scotland and beyond.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0brnqkq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mb5q64.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251022210000 +0000" stop="20251022213000 +0000">
 		<title>River City - 22/10/2025</title>
@@ -5300,10 +5300,15 @@
 		<desc>All your weekend national, UK-wide and international news on Saturday evening at 7.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdtr90.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20251025181500 +0000" stop="20251025191500 +0000">
+	<programme channel="bbcscotland" start="20251025181500 +0000" stop="20251025190000 +0000">
 		<title>Sportscene: Premiership Highlights - 2025/26: 25/10/2025</title>
 		<desc>Action and reaction to the afternoon’s three Scottish Premiership matches.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfvl6m.jpg" />
+	</programme>
+	<programme channel="bbcscotland" start="20251025190000 +0000" stop="20251025191500 +0000">
+		<title>Icons of Football - Series 2: 3. Joe Jordan</title>
+		<desc>How Joe Jordan became a Scotland hero and one of English football’s greatest tough guys.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hyp44c.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251025191500 +0000" stop="20251025194500 +0000">
 		<title>Sacked in the Morning - Series 2 - TV: 4. Lee Dixon</title>
