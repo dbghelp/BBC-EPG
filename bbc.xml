@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20251023083000 +0000" stop="20251023094500 +0000">
 		<title>Morning Live - Series 7: 23/10/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251023094500 +0000" stop="20251023103000 +0000">
 		<title>Crimewatch Live - Series 22: 14. Brewing Fraud</title>
@@ -999,7 +999,7 @@
 	<programme channel="bbctwo" start="20251025061500 +0000" stop="20251025064500 +0000">
 		<title>Blue Peter - Full Episodes: Halloween Makeovers and Spooky Reads</title>
 		<desc>Wicked actress Karis Musongole is in the studio for some Halloween fun.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m053p4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mb81cr.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251025064500 +0000" stop="20251025113000 +0000">
 		<title>Gymnastics: World Championships - 2025: 25/10/2025</title>
@@ -2535,7 +2535,7 @@
 	<programme channel="cbbc" start="20251024160000 +0000" stop="20251024162500 +0000">
 		<title>Blue Peter - Full Episodes: Halloween Makeovers and Spooky Reads</title>
 		<desc>Wicked actress Karis Musongole is in the studio for some Halloween fun.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m053p4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mb81cr.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20251024162500 +0000" stop="20251024163500 +0000">
 		<title>Grizzy and the Lemmings - Series 4: 2. Diabolical Labyrinth</title>
@@ -2625,7 +2625,7 @@
 	<programme channel="cbbc" start="20251025103000 +0000" stop="20251025105500 +0000">
 		<title>Blue Peter - Full Episodes: Halloween Makeovers and Spooky Reads</title>
 		<desc>Wicked actress Karis Musongole is in the studio for some Halloween fun.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m053p4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mb81cr.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20251025105500 +0000" stop="20251025111000 +0000">
 		<title>Go Get Arty - Series 1: 7. Monster Makes</title>
@@ -2821,7 +2821,7 @@
 	<programme channel="cbbc" start="20251026090000 +0000" stop="20251026092500 +0000">
 		<title>Blue Peter - Full Episodes: Halloween Makeovers and Spooky Reads</title>
 		<desc>Wicked actress Karis Musongole is in the studio for some Halloween fun.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m053p4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mb81cr.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20251026092500 +0000" stop="20251026095000 +0000">
 		<title>Stage Stars - Series 1: 4. Halloween</title>
@@ -6544,12 +6544,22 @@
 		<desc>Coverage of questions to Darren Jones on Thursday 23 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251023093000 +0000" stop="20251023103000 +0000">
+	<programme channel="bbcparliament" start="20251023093000 +0000" stop="20251023101500 +0000">
+		<title>House of Commons - Attorney General's Office and China Spying Case Urgent Question</title>
+		<desc>The urgent question on the decision to drop the alleged China spying prosecution.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251023101500 +0000" stop="20251023110000 +0000">
+		<title>House of Commons - Fishing and Coastal Growth Fund Urgent Question</title>
+		<desc>The urgent question on the Fishing and Coastal Growth Fund, on Thursday 23 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251023110000 +0000" stop="20251023123000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 23 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251023103000 +0000" stop="20251023163000 +0000">
+	<programme channel="bbcparliament" start="20251023123000 +0000" stop="20251023163000 +0000">
 		<title>House of Commons - 23/10/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 23 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7433,7 +7443,7 @@
 	<programme channel="bbcalba" start="20251027210000 +0000" stop="20251027213000 +0000">
 		<title>Eòrpa - Series 33: 9. Eòrpa's Archive: 2010 - Bridging the Isles</title>
 		<desc>Eòrpa reports on some of the most important issues from Scotland and across Europe.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kbr1wg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mb897w.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20251027213000 +0000" stop="20251027220000 +0000">
 		<title>Transatlantic Sessions - Series 3: Episode 5</title>
