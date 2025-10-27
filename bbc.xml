@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20251027093000 +0000" stop="20251027104500 +0000">
 		<title>Morning Live - Series 7: 27/10/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mc2n3m.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251027104500 +0000" stop="20251027111500 +0000">
 		<title>Crimewatch Caught - Series 2: Never Forgotten</title>
@@ -5559,9 +5559,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251027163000 +0000" stop="20251027164500 +0000">
-		<title>Business Today - 27/10/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+		<title>BBC News - 27/10/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251027164500 +0000" stop="20251027170000 +0000">
 		<title>Verified Live - 27/10/2025</title>
@@ -6706,7 +6706,7 @@
 	<programme channel="bbcparliament" start="20251027112000 +0000" stop="20251027120500 +0000">
 		<title>House of Lords - Post-16 Education and Skills Strategy Statement</title>
 		<desc>A statement on the Post-16 Education and Skills Strategy, on Wednesday 22 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mc3djy.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251027120500 +0000" stop="20251027121500 +0000">
 		<title>Ten Minute Rule Bill - Reporting of Cyber Extortion and Ransomware</title>
@@ -6721,12 +6721,12 @@
 	<programme channel="bbcparliament" start="20251027143000 +0000" stop="20251027153000 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 27 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mc3s65.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251027153000 +0000" stop="20251027161500 +0000">
 		<title>House of Commons - North Sea Oil and Gas Industry Urgent Question</title>
 		<desc>Coverage of an urgent question on the future of the North Sea oil and gas industry.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mc3tsx.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251027161500 +0000" stop="20251027173000 +0000">
 		<title>House of Commons - Prisoner Release Checks Statement</title>
@@ -6743,9 +6743,29 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 27 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251027231500 +0000" stop="20251028070000 +0000">
-		<title>House of Lords - 27/10/2025</title>
-		<desc>Business in the House of Lords on Monday 27 October.</desc>
+	<programme channel="bbcparliament" start="20251027231500 +0000" stop="20251027232500 +0000">
+		<title>House of Lords - Attorney General Office and Spying Case Statement</title>
+		<desc>Statement on the role of the Attorney General's Office in the China spying prosecution.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251027232500 +0000" stop="20251027233500 +0000">
+		<title>House of Lords - Fishing and Coastal Growth Fund Statement</title>
+		<desc>Coverage of the statement on the Fishing and Coastal Growth Fund, on Monday 27 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251027233500 +0000" stop="20251028013500 +0000">
+		<title>House of Lords - Planning and Infrastructure Bill, Part 1</title>
+		<desc>The third day of of debate on the report stage of the Planning and Infrastructure Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251028013500 +0000" stop="20251028033500 +0000">
+		<title>House of Lords - Planning and Infrastructure Bill, Part 2</title>
+		<desc>The third day of of debate on the report stage of the Planning and Infrastructure Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251028033500 +0000" stop="20251028053500 +0000">
+		<title>House of Lords - Planning and Infrastructure Bill, Part 3</title>
+		<desc>The third day of of debate on the report stage of the Planning and Infrastructure Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251028053500 +0000" stop="20251028070000 +0000">
@@ -6753,15 +6773,20 @@
 		<desc>The statement on Heathrow airport and the Airports National Policy Statement Review.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251028070000 +0000" stop="20251028080000 +0000">
+	<programme channel="bbcparliament" start="20251028070000 +0000" stop="20251028081000 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 27 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mc3s65.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251028080000 +0000" stop="20251028100000 +0000">
-		<title>House of Commons - 27/10/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 27 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20251028081000 +0000" stop="20251028085500 +0000">
+		<title>House of Commons - North Sea Oil and Gas Industry Urgent Question</title>
+		<desc>Coverage of an urgent question on the future of the North Sea oil and gas industry.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mc3tsx.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251028085500 +0000" stop="20251028100000 +0000">
+		<title>House of Commons - Heathrow Expansion Statement</title>
+		<desc>The statement on Heathrow expansion and the Airports National Policy Statement Review.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mb3635.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251028100000 +0000" stop="20251028113000 +0000">
 		<title>Select Committees - Treasury Committee on the Budget 2025</title>
