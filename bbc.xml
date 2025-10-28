@@ -1062,20 +1062,15 @@
 		<desc>Ed Gamble chats to the latest banished and murdered players alongside Series 3 winner Jake</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m69204.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251030223000 +0000" stop="20251030225800 +0000">
+	<programme channel="bbctwo" start="20251030223000 +0000" stop="20251030230000 +0000">
 		<title>Newsnight - 30/10/2025</title>
 		<desc>Insights and global interviews on the news stories of the day. With Paddy O'Connell.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251030225800 +0000" stop="20251030230000 +0000">
+	<programme channel="bbctwo" start="20251030230000 +0000" stop="20251030230500 +0000">
 		<title>BBC Weather - 30/10/2025</title>
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20251030230000 +0000" stop="20251030230500 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251030230500 +0000" stop="20251031000500 +0000">
 		<title>Once Upon a Time in Space - Series 1: 1. America First</title>
@@ -1730,7 +1725,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251101192000 +0000" stop="20251101193500 +0000">
 		<title>Doctor Who Confidential - Series 5 - 15 Minute Versions: 9. What Goes on Tour...</title>
-		<desc>Cameras follow the team as they travel the length of the UK to launch the series five.</desc>
+		<desc>Cameras follow the team as they travel the length of the UK to launch the new series.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gnp4sy.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251101193500 +0000" stop="20251101202000 +0000">
@@ -6636,17 +6631,17 @@
 		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251028051500 +0000" stop="20251028070000 +0000">
-		<title>House of Lords - Heathrow Expansion Statement</title>
-		<desc>The statement on Heathrow airport and the Airports National Policy Statement Review.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20251028055500 +0000" stop="20251028065500 +0000">
+		<title>House of Commons - Commons Business Questions</title>
+		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 23 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mbp466.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251028070000 +0000" stop="20251028081000 +0000">
+	<programme channel="bbcparliament" start="20251028065500 +0000" stop="20251028080000 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 27 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mc3s65.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251028081000 +0000" stop="20251028085500 +0000">
+	<programme channel="bbcparliament" start="20251028080000 +0000" stop="20251028085500 +0000">
 		<title>House of Commons - North Sea Oil and Gas Industry Urgent Question</title>
 		<desc>Coverage of an urgent question on the future of the North Sea oil and gas industry.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mc3tsx.jpg" />
