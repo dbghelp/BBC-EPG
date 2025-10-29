@@ -297,7 +297,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251030224000 +0000" stop="20251030234000 +0000">
 		<title>Question Time - 2025: 30/10/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Bradford.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251030234000 +0000" stop="20251031001000 +0000">
@@ -1373,7 +1373,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20251103022500 +0000" stop="20251103032500 +0000">
 		<title>Question Time - 2025: 30/10/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Bradford.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251103032500 +0000" stop="20251103035500 +0000">
@@ -2055,7 +2055,7 @@
 	<programme channel="bbcfour" start="20251101201000 +0000" stop="20251101210000 +0000">
 		<title>All Creatures Great and Small - Series 6: 6. Where Sheep May Safely Graze</title>
 		<desc>Alfred, the local confectioner’s beloved cat, falls ill, and James cannot find the cause.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb2wxd.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mck6jh.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20251101210000 +0000" stop="20251101211500 +0000">
 		<title>Remembers... - Ian McNeice Remembers... Edge of Darkness</title>
@@ -2095,7 +2095,7 @@
 	<programme channel="bbcfour" start="20251102015000 +0000" stop="20251102024000 +0000">
 		<title>All Creatures Great and Small - Series 6: 6. Where Sheep May Safely Graze</title>
 		<desc>Alfred, the local confectioner’s beloved cat, falls ill, and James cannot find the cause.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb2wxd.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mck6jh.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20251102024000 +0000" stop="20251102031000 +0000">
 		<title>Turtle, Eagle, Cheetah: A Slow Odyssey - 1. A Turtle's Journey</title>
@@ -5224,7 +5224,7 @@
 	<programme channel="bbcscotland" start="20251029230000 +0000" stop="20251029233000 +0000">
 		<title>Scotcast - Early Prisoner Release</title>
 		<desc>Martin Geissler and Laura Miller hear why prison officers believe our jails are in crisis.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4twh.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mck755.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251029233000 +0000" stop="20251030000000 +0000">
 		<title>The Trials That Shocked Scotland - Series 1: Episode 5</title>
@@ -5636,15 +5636,10 @@
 		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251029220000 +0000" stop="20251029223000 +0000">
+	<programme channel="bbcnews" start="20251029220000 +0000" stop="20251029230000 +0000">
 		<title>BBC News - 29/10/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251029223000 +0000" stop="20251029230000 +0000">
-		<title>BBC World News America - 29/10/2025</title>
-		<desc>In-depth reports on the major international and US news of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251029230000 +0000" stop="20251030000000 +0000">
 		<title>BBC World News America - 29/10/2025</title>
@@ -5883,7 +5878,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251030210000 +0000" stop="20251030220000 +0000">
 		<title>Question Time - 2025: 30/10/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Bradford.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251030220000 +0000" stop="20251030223000 +0000">
@@ -6726,9 +6721,14 @@
 		<desc>The fourth day of the report stage of the Planning and Infrastructure Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251030061500 +0000" stop="20251030070000 +0000">
+	<programme channel="bbcparliament" start="20251030061500 +0000" stop="20251030064500 +0000">
 		<title>House of Lords - Prisoner Release Checks Statement</title>
-		<desc>Business in the House of Lords on Wednesday 29 October.</desc>
+		<desc>Coverage of a statement on the government's changes to the prisoner release check system.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251030064500 +0000" stop="20251030070000 +0000">
+		<title>House of Lords - Jamaica and Hurricane Melissa Question</title>
+		<desc>Question on assisting the government of Jamaica to recover from Hurricane Melissa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251030070000 +0000" stop="20251030073000 +0000">
@@ -6741,10 +6741,20 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 29 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcgj8q.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251030080500 +0000" stop="20251030093000 +0000">
-		<title>House of Commons - 29/10/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 29 October.</desc>
+	<programme channel="bbcparliament" start="20251030080500 +0000" stop="20251030090000 +0000">
+		<title>House of Commons - Gaza Ceasefire Urgent Question</title>
+		<desc>An urgent question on the Gaza ceasefire agreement, on Wednesday 29 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251030090000 +0000" stop="20251030092000 +0000">
+		<title>House of Commons - European Convention on Human Rights (Withdrawal) Bill</title>
+		<desc>The European Convention on Human Rights (Withdrawal) Bill introduced by Nigel Farage.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251030092000 +0000" stop="20251030093000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251030093000 +0000" stop="20251030103000 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
@@ -8333,7 +8343,7 @@
 	</programme>
 	<programme channel="s4c" start="20251031170500 +0000" stop="20251031171500 +0000">
 		<title>Dennis a Dannedd - Cyfres 2: Cofnodion Sglodion</title>
-		<desc>Hwyl a sbri gyda'r direidus Dennis a Dannedd. Fun and games with the mischievous Dennis...</desc>
+		<desc>Mae Paul y Tatws yn syrthio mewn cariad â'r ferch poster tatws sy'n hysbysebu llinell n...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p091n67r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251031171500 +0000" stop="20251031173000 +0000">
@@ -8394,7 +8404,7 @@
 	<programme channel="s4c" start="20251031210000 +0000" stop="20251031213500 +0000">
 		<title>Bar Hansh - Cyfres 1: Pennod 2</title>
 		<desc>Chwech Cymro ifanc sy'n rhedeg bar Cymraeg cyntaf Zante. P2: Y sac cynta! Mae na her co...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8k0mp.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mck3g6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251031213500 +0000" stop="20251031224000 +0000">
 		<title>Calan Gaeaf Carys Eleri</title>
