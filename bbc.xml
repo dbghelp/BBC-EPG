@@ -163,8 +163,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251030234000 +0000" stop="20251031001000 +0000">
-		<title>Newscast - Series 6: 30/10/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Series 6: 15. Andrew Stripped of the Title of ‘Prince'</title>
+		<desc>Adam, Alex, Ben and Matthew Doyle discuss the news about Andrew, and possible tax rises.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251031001000 +0000" stop="20251031011000 +0000">
@@ -821,42 +821,42 @@
 		<desc>Ed Gamble chats to the latest banished and murdered players alongside Series 3 winner Jake</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m69204.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251030223000 +0000" stop="20251030230000 +0000">
-		<title>Newsnight - 30/10/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Paddy O'Connell.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+	<programme channel="bbctwo" start="20251030223000 +0000" stop="20251030231000 +0000">
+		<title>Newsnight - Andrew Mountbatten Windsor</title>
+		<desc>King Charles is to strip Prince Andrew of all his titles and kick him out of Royal Lodge.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcv69h.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251030230000 +0000" stop="20251030230500 +0000">
+	<programme channel="bbctwo" start="20251030231000 +0000" stop="20251030231500 +0000">
 		<title>BBC Weather - 30/10/2025</title>
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251030230500 +0000" stop="20251031000500 +0000">
+	<programme channel="bbctwo" start="20251030231500 +0000" stop="20251031001500 +0000">
 		<title>Once Upon a Time in Space - Series 1: 1. America First</title>
 		<desc>A pioneering class of astronauts is recruited by NASA to fly aboard its new Space Shuttle.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mb1gnz.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251031000500 +0000" stop="20251031010500 +0000">
+	<programme channel="bbctwo" start="20251031001500 +0000" stop="20251031011500 +0000">
 		<title>Rob Brydon's Honky Tonk Road Trip - Series 1: Episode 3</title>
 		<desc>Rob explores the rich, often-overlooked influence of black musicians on country music.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m6hrts.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251031010500 +0000" stop="20251031013500 +0000">
+	<programme channel="bbctwo" start="20251031011500 +0000" stop="20251031014500 +0000">
 		<title>How Are You? It's Alan (Partridge) - Series 1: Episode 4</title>
 		<desc>Alone in the Peaks with only a selfie stick, Alan asks: can nature heal a troubled mind?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4hq6b.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251031013500 +0000" stop="20251031023500 +0000">
+	<programme channel="bbctwo" start="20251031014500 +0000" stop="20251031024500 +0000">
 		<title>Dragons' Den - Series 22: Episode 12</title>
 		<desc>Emma Grede joins the Dragons.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7qzsv.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251031023500 +0000" stop="20251031030500 +0000">
+	<programme channel="bbctwo" start="20251031024500 +0000" stop="20251031031500 +0000">
 		<title>Global Eye - 20/10/2025</title>
 		<desc>BBC Eye uncovers a growing culture of surveillance and informants in Hong Kong.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m93gml.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251031030500 +0000" stop="20251031061500 +0000">
+	<programme channel="bbctwo" start="20251031031500 +0000" stop="20251031061500 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -5684,14 +5684,19 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251030210000 +0000" stop="20251030220000 +0000">
-		<title>Question Time - 2025: 30/10/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate from Bradford.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251030220000 +0000" stop="20251030230000 +0000">
 		<title>BBC News - 30/10/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251030220000 +0000" stop="20251030223000 +0000">
+		<title>BBC News - 30/10/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251030223000 +0000" stop="20251030230000 +0000">
+		<title>Newsnight - Andrew Mountbatten Windsor</title>
+		<desc>King Charles is to strip Prince Andrew of all his titles and kick him out of Royal Lodge.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcv69h.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251030230000 +0000" stop="20251031000000 +0000">
 		<title>BBC World News America - 30/10/2025</title>
@@ -6803,15 +6808,10 @@
 		<desc>Coverage of a statement on the compensation scheme for the infected blood scandal.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251031041500 +0000" stop="20251031070000 +0000">
-		<title>House of Commons - 30/10/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 30 October.</desc>
+	<programme channel="bbcparliament" start="20251031060500 +0000" stop="20251031070500 +0000">
+		<title>House of Commons - Ageing Population and End of Life Care Debate</title>
+		<desc>A debate in the House of Commons on an ageing population and end of life care.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251031070000 +0000" stop="20251031070500 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251031070500 +0000" stop="20251031100000 +0000">
 		<title>Westminster Hall - 27/10/2025</title>
@@ -7950,7 +7950,7 @@
 	</programme>
 	<programme channel="s4c" start="20251030190000 +0000" stop="20251030193000 +0000">
 		<title>Heno - Thu, 30 Oct 2025</title>
-		<desc>Heno, i ni'n croesawu, aelod o dìm dartiau Cymru ac Ameer Davies-Rana,sy'n son am ei gy...</desc>
+		<desc>Heno, ry' ni'n croesawu aelod o dìm dartiau Cymru ac Ameer Davies-Rana, sy'n son am ei ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251030193000 +0000" stop="20251030200000 +0000">
@@ -7975,7 +7975,7 @@
 	</programme>
 	<programme channel="s4c" start="20251030210000 +0000" stop="20251030220000 +0000">
 		<title>Pawb a'i Farn - Rhaglen Thu, 30 Oct 2025 21:00</title>
-		<desc>Rhaglen drafod materion cyfoes. Current Affairs debate programme.</desc>
+		<desc>Gofynwn os oes newid yn yr hinsawdd wleidyddol wedi bod yng Nghymru, a trafodwn blaenor...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0frr15r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251030220000 +0000" stop="20251030230000 +0000">
@@ -8145,7 +8145,7 @@
 	</programme>
 	<programme channel="s4c" start="20251031123000 +0000" stop="20251031130000 +0000">
 		<title>Heno - Thu, 30 Oct 2025</title>
-		<desc>Heno, i ni'n croesawu, aelod o dìm dartiau Cymru ac Ameer Davies-Rana,sy'n son am ei gy...</desc>
+		<desc>Heno, ry' ni'n croesawu aelod o dìm dartiau Cymru ac Ameer Davies-Rana, sy'n son am ei ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251031130000 +0000" stop="20251031133000 +0000">
@@ -8165,7 +8165,7 @@
 	</programme>
 	<programme channel="s4c" start="20251031140500 +0000" stop="20251031150000 +0000">
 		<title>Prynhawn Da - Fri, 31 Oct 2025</title>
-		<desc>Heddiw, mae Michelle yn y stiwdio yn coginio, ac mae'r Clwb Clecs yn barod i ddweud i d...</desc>
+		<desc>Heddiw, mae Michelle yn y stiwdio yn coginio, ac mae'r Clwb Clecs yn barod i ddweud eu ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251031150000 +0000" stop="20251031150500 +0000">
@@ -8255,7 +8255,7 @@
 	</programme>
 	<programme channel="s4c" start="20251031200000 +0000" stop="20251031202500 +0000">
 		<title>Heno - Heno Nos Wener</title>
-		<desc>Heno,mae Catrin Heledd yn y stiwdio, Mirain Iwerydd yng Ngwyl Lleisiau Eraill ac mae Ca...</desc>
+		<desc>Heno, mae Catrin Heledd yn y stiwdio, Mirain Iwerydd yng Ngwyl Lleisiau Eraill ac mae C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251031202500 +0000" stop="20251031205500 +0000">
@@ -8775,7 +8775,7 @@
 	</programme>
 	<programme channel="s4c" start="20251103130000 +0000" stop="20251103133000 +0000">
 		<title>Heno - Heno Nos Wener</title>
-		<desc>Heno,mae Catrin Heledd yn y stiwdio, Mirain Iwerydd yng Ngwyl Lleisiau Eraill ac mae Ca...</desc>
+		<desc>Heno, mae Catrin Heledd yn y stiwdio, Mirain Iwerydd yng Ngwyl Lleisiau Eraill ac mae C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251103133000 +0000" stop="20251103140000 +0000">
