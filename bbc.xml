@@ -1788,10 +1788,15 @@
 		<desc>Ben Robinson unlocks the ancient roots of the Northumberland village of Warkworth.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06sdr7g.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251102200000 +0000" stop="20251102213000 +0000">
+	<programme channel="bbcfour" start="20251102200000 +0000" stop="20251102211500 +0000">
 		<title>Inside Classical - Series 4: Inside Classical: Halloween Spooktacular</title>
 		<desc>Join Owain Wyn Evans for a thrilling concert from the BBC National Orchestra of Wales.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mczbls.jpg" />
+	</programme>
+	<programme channel="bbcfour" start="20251102211500 +0000" stop="20251102213000 +0000">
+		<title>BBC Proms - 2016: 14. BBC Proms Encores: Schubert's Rondo</title>
+		<desc>From the 2016 BBC Proms, Martha Argerich performs Schubert's Rondo in A.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08n7jjz.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20251102213000 +0000" stop="20251102220000 +0000">
 		<title>Man Alive - Living in Sin</title>
@@ -5572,10 +5577,20 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251102060000 +0000" stop="20251102090000 +0000">
-		<title>Breakfast - 02/11/2025</title>
-		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	<programme channel="bbcnews" start="20251102060000 +0000" stop="20251102070000 +0000">
+		<title>BBC News - 02/11/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251102070000 +0000" stop="20251102080000 +0000">
+		<title>BBC News - 02/11/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251102080000 +0000" stop="20251102090000 +0000">
+		<title>BBC News - 02/11/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251102090000 +0000" stop="20251102100000 +0000">
 		<title>Sunday with Laura Kuenssberg - 02/11/2025</title>
