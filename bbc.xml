@@ -98,7 +98,7 @@
 	<programme channel="bbcone" start="20251103150000 +0000" stop="20251103154500 +0000">
 		<title>Escape to the Country - Series 26: 11. North Somerset</title>
 		<desc>Alistair Appleton helps a young couple find a dream home in the Somerset countryside.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0tw3g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdgbqh.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251103154500 +0000" stop="20251103163000 +0000">
 		<title>Garden Rescue - Series 10: 22. Barnsley</title>
@@ -278,7 +278,7 @@
 		<title>Panorama - The Fall of Prince Andrew - Panorama</title>
 		<desc>Andrew Mountbatten Windsor's fall follows a scandal that’s been 25 years in the making. 
 </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l25ccf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdgx1b.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251104203000 +0000" stop="20251104210000 +0000">
 		<title>Garden Rescue - Series 7 (Shortened Versions): 6. Beeston</title>
@@ -873,7 +873,7 @@
 	<programme channel="bbctwo" start="20251104071500 +0000" stop="20251104080000 +0000">
 		<title>Escape to the Country - Series 26: 11. North Somerset</title>
 		<desc>Alistair Appleton helps a young couple find a dream home in the Somerset countryside.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0tw3g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdgbqh.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251104080000 +0000" stop="20251104090000 +0000">
 		<title>The Repair Shop - Series 15: Episode 2</title>
@@ -1447,7 +1447,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251104020000 +0000" stop="20251104030000 +0000">
 		<title>Behind Bars: Sex, Bribes and Murder - Series 1: Episode 2</title>
-		<desc>Mobeen’s investigation continues, and news of a murdered former officer hits the headlines</desc>
+		<desc>Mobeen’s investigation continues. News of a murdered former officer hits the headlines.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mb36c7.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251104030000 +0000" stop="20251104033000 +0000">
@@ -1507,7 +1507,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251104230000 +0000" stop="20251105000000 +0000">
 		<title>Behind Bars: Sex, Bribes and Murder - Series 1: Episode 2</title>
-		<desc>Mobeen’s investigation continues, and news of a murdered former officer hits the headlines</desc>
+		<desc>Mobeen’s investigation continues. News of a murdered former officer hits the headlines.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mb36c7.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251105000000 +0000" stop="20251105002500 +0000">
@@ -1607,7 +1607,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251106025500 +0000" stop="20251106035500 +0000">
 		<title>Behind Bars: Sex, Bribes and Murder - Series 1: Episode 2</title>
-		<desc>Mobeen’s investigation continues, and news of a murdered former officer hits the headlines</desc>
+		<desc>Mobeen’s investigation continues. News of a murdered former officer hits the headlines.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mb36c7.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251106035500 +0000" stop="20251106053000 +0000">
@@ -1662,7 +1662,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251107010000 +0000" stop="20251107020000 +0000">
 		<title>Behind Bars: Sex, Bribes and Murder - Series 1: Episode 2</title>
-		<desc>Mobeen’s investigation continues, and news of a murdered former officer hits the headlines</desc>
+		<desc>Mobeen’s investigation continues. News of a murdered former officer hits the headlines.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mb36c7.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251107020000 +0000" stop="20251107023000 +0000">
@@ -5704,12 +5704,7 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251103163000 +0000" stop="20251103164500 +0000">
-		<title>Business Today - 03/11/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251103164500 +0000" stop="20251103170000 +0000">
+	<programme channel="bbcnews" start="20251103163000 +0000" stop="20251103170000 +0000">
 		<title>Verified Live - 03/11/2025</title>
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
@@ -6921,7 +6916,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20251103153000 +0000" stop="20251103161500 +0000">
 		<title>House of Commons - Soldier F Trial Urgent Question</title>
-		<desc>The urgent question on the verdict in the trial of 'Soldier F', on Monday 3 November.</desc>
+		<desc>An urgent question on the verdict in the trial of 'Soldier F', on Monday 3 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251103161500 +0000" stop="20251103171500 +0000">
@@ -6969,15 +6964,25 @@
 		<desc>The fifth day of the report stage of the Planning and Infrastructure Bill, on 3 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251104070000 +0000" stop="20251104080000 +0000">
+	<programme channel="bbcparliament" start="20251104070000 +0000" stop="20251104081000 +0000">
 		<title>House of Commons - Defence Questions</title>
 		<desc>Coverage of questions to John Healey on Monday 3 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251104080000 +0000" stop="20251104103000 +0000">
-		<title>House of Commons - 03/11/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 3 November.</desc>
+	<programme channel="bbcparliament" start="20251104081000 +0000" stop="20251104090000 +0000">
+		<title>House of Commons - Soldier F Trial Urgent Question</title>
+		<desc>An urgent question on the verdict in the trial of 'Soldier F', on Monday 3 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251104090000 +0000" stop="20251104094000 +0000">
+		<title>House of Commons - Huntingdon Train Attack Statement</title>
+		<desc>The statement on the mass stabbing on a Saturday evening train from Doncaster to London.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251104094000 +0000" stop="20251104103000 +0000">
+		<title>Scottish First Minister's Questions - 30/10/2025</title>
+		<desc>Questions to John Swinney, the first minister, on Thursday 30 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcz5zk.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251104103000 +0000" stop="20251104113000 +0000">
 		<title>Select Committees - Defence Committee on the Afghan Data Breach</title>
@@ -7970,30 +7975,10 @@
 		<desc>Stori peilot o'r Ail Ryfel Byd sy'n datgelu gwybodaeth newydd am y ffilm 'The Great Esc...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcxsh7.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251103160000 +0000" stop="20251103160500 +0000">
-		<title>Y Pitws Bychain - Cyfres 1: Dal y Mwdyn</title>
-		<desc>Mae Macsen Mwydyn y Trydydd yn dianc i'r berllan. Mae'r Pitws Bychain yn chwilio amdano...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxq8j0.jpg" />
-	</programme>
-	<programme channel="s4c" start="20251103160500 +0000" stop="20251103162000 +0000">
-		<title>Pentre Papur Pop - Pentre Papur Pop: Gwibdaith Pip</title>
-		<desc>Ar yr antur popwych heddiw mae'r ffrindiau yn teithio ar y Pip Cyflym... trên sy'n teit...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
-	</programme>
-	<programme channel="s4c" start="20251103162000 +0000" stop="20251103163000 +0000">
-		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 2</title>
-		<desc>Dewch ar antur gyda ni i gwrdd ac anifeiliaid bach y byd ac yn y rhaglen hon byddwn yn ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08y0npp.jpg" />
-	</programme>
-	<programme channel="s4c" start="20251103163000 +0000" stop="20251103164500 +0000">
-		<title>Guto Gwningen - Cyfres 2: Hanes Trychineb Dili Minllyn</title>
-		<desc>Mae Mrs Minlllyn yn camddeall cyngor Guto ac yn ceisio cael cynhwysion o ardd Mr Puw. M...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07txhxv.jpg" />
-	</programme>
-	<programme channel="s4c" start="20251103164500 +0000" stop="20251103170000 +0000">
-		<title>Parc Glan Gwil - Pennod 9</title>
-		<desc>Mae hi'n ddiwrnod mabolgampau yn Parc Glan Gwil ac mae Dion Diogelwch yn gorfod dysgu f...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lt9p3v.jpg" />
+	<programme channel="s4c" start="20251103160000 +0000" stop="20251103170000 +0000">
+		<title>Cyw - Mon, 03 Nov 2025 16:00</title>
+		<desc>Rhaglenni ar gyfer y plant iau ar ôl ysgol. Programmes for youngsters after school.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02dwtxh.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251103170000 +0000" stop="20251103172000 +0000">
 		<title>Dreigiau Berc - Dreigiau: Gwarchodwyr Berc: Achub Cigfoch</title>
