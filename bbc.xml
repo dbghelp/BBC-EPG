@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20251103093000 +0000" stop="20251103104500 +0000">
 		<title>Morning Live - Series 7: 03/11/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251103104500 +0000" stop="20251103111500 +0000">
 		<title>Crimewatch Caught - Series 2: Fatal Collision</title>
@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251103190000 +0000" stop="20251103193000 +0000">
 		<title>The One Show - 03/11/2025</title>
-		<desc>Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+		<desc>Football legend Joe Cole and comedian Matt Lucas chat to Alex Jones and Lauren Laverne.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251103193000 +0000" stop="20251103200000 +0000">
@@ -750,8 +750,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251103121500 +0000" stop="20251103130000 +0000">
-		<title>Politics Live - 03/11/2025</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - What is Reform UK’s Economic Policy?</title>
+		<desc>Nigel Farage sets out his party’s position on cutting taxes and reducing borrowing.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251103130000 +0000" stop="20251103134500 +0000">
@@ -1396,7 +1396,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251103195800 +0000" stop="20251103200000 +0000">
 		<title>The Catch Up - 03/11/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Callum Tulley.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251103200000 +0000" stop="20251103210000 +0000">
@@ -5321,7 +5321,7 @@
 	<programme channel="bbcscotland" start="20251103193000 +0000" stop="20251103200000 +0000">
 		<title>Sportscene: Scottish Women's Premier League - Highlights 2025/26: 03/11/2025</title>
 		<desc>Jane Lewis presents highlights from the weekend’s fixtures in the SWPL.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfyh01.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdc8mf.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251103200000 +0000" stop="20251103203000 +0000">
 		<title>The Mountain - Series 1: Episode 2</title>
@@ -5336,7 +5336,7 @@
 	<programme channel="bbcscotland" start="20251103210000 +0000" stop="20251103220000 +0000">
 		<title>The Troops - Series 1: Episode 1</title>
 		<desc>From Estonia to Balmoral, soldiers train for war, duty and everything in-between.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mc8dh5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdcs7k.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251103220000 +0000" stop="20251103223000 +0000">
 		<title>River City - 03/11/2025</title>
@@ -5643,15 +5643,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251103110000 +0000" stop="20251103113000 +0000">
+	<programme channel="bbcnews" start="20251103110000 +0000" stop="20251103114500 +0000">
 		<title>BBC News - 03/11/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251103113000 +0000" stop="20251103114500 +0000">
-		<title>Business Today - 03/11/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251103114500 +0000" stop="20251103120000 +0000">
 		<title>BBC News - 03/11/2025</title>
@@ -8000,7 +7995,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251103200000 +0000" stop="20251103202500 +0000">
-		<title>Y Byd ar Bedwar - Cyfres 2025/26: Pennod 9</title>
+		<title>Y Byd ar Bedwar - Cyfres 2025/26: Yn fyw yn y cof</title>
 		<desc>Datgelu'r effaith drist y mae dementia Tony Thomas o Fôn yn cael ar ei ferch Erin, a'r ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhmg3f.jpg" />
 	</programme>
@@ -8615,7 +8610,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcztf8.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251105220000 +0000" stop="20251105223000 +0000">
-		<title>Y Byd ar Bedwar - Cyfres 2025/26: Pennod 9</title>
+		<title>Y Byd ar Bedwar - Cyfres 2025/26: Yn fyw yn y cof</title>
 		<desc>Datgelu'r effaith drist y mae dementia Tony Thomas o Fôn yn cael ar ei ferch Erin, a'r ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhmg3f.jpg" />
 	</programme>
@@ -8800,7 +8795,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p093s79p.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251106133000 +0000" stop="20251106140000 +0000">
-		<title>Y Byd ar Bedwar - Cyfres 2025/26: Pennod 9</title>
+		<title>Y Byd ar Bedwar - Cyfres 2025/26: Yn fyw yn y cof</title>
 		<desc>Datgelu'r effaith drist y mae dementia Tony Thomas o Fôn yn cael ar ei ferch Erin, a'r ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhmg3f.jpg" />
 	</programme>
