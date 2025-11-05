@@ -292,7 +292,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251106225000 +0000" stop="20251106235000 +0000">
 		<title>Question Time - 2025: 06/11/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Sunderland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251106235000 +0000" stop="20251107002000 +0000">
@@ -684,7 +684,7 @@
 	<programme channel="bbcone" start="20251109234500 +0000" stop="20251110003500 +0000">
 		<title>The Women's Football Show - 2025/26: 09/11/2025</title>
 		<desc>Highlights and analysis of all the action from the Women’s Super League.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m111x6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdynky.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251110003500 +0000" stop="20251110012500 +0000">
 		<title>The Graham Norton Show - Series 33: Episode 7</title>
@@ -809,7 +809,7 @@
 	<programme channel="bbctwo" start="20251105230000 +0000" stop="20251105233000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 05/11/2025</title>
 		<desc>John Simpson explores war-weariness in Russia and the problem it poses for the Kremlin.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdymh2.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251105233000 +0000" stop="20251106003500 +0000">
 		<title>Eye Investigations - Death in Dubai</title>
@@ -1086,12 +1086,18 @@
 		<desc>Panorama investigates the 'PayPal Mafia' and their influence on Trump’s rise to president.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mbmpn3.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251108021000 +0000" stop="20251108031000 +0000">
+	<programme channel="bbctwo" start="20251108021000 +0000" stop="20251108024000 +0000">
+		<title>Panorama - The Fall of Prince Andrew</title>
+		<desc>Andrew Mountbatten Windsor's fall follows a scandal that’s been 25 years in the making. 
+</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdgx1b.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20251108024000 +0000" stop="20251108034000 +0000">
 		<title>Riot Women - Series 1: Episode 4</title>
 		<desc>Six weeks on, and it’s the talent contest! But will everyone make it to the stage?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m761br.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251108031000 +0000" stop="20251108062500 +0000">
+	<programme channel="bbctwo" start="20251108034000 +0000" stop="20251108062500 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -1284,7 +1290,7 @@
 	<programme channel="bbctwo" start="20251109123000 +0000" stop="20251109125000 +0000">
 		<title>Nigel Slater's Dish of the Day - Series 1: Episode 8</title>
 		<desc>Dishes include ricotta beefburger, smoked mackerel coleslaw and lemon and thyme cake.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p094k4d6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdysth.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251109125000 +0000" stop="20251109141000 +0000">
 		<title>The Tommy Steele Story</title>
@@ -1294,7 +1300,7 @@
 	<programme channel="bbctwo" start="20251109141000 +0000" stop="20251109164000 +0000">
 		<title>Women's Super League - 2025/26: Everton v Manchester City</title>
 		<desc>Live coverage as Everton take on Manchester City in the WSL.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltbjgh.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdymgw.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251109164000 +0000" stop="20251109172000 +0000">
 		<title>Flog It! - Series 14: 19. Compilation 35</title>
@@ -1343,7 +1349,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20251110004000 +0000" stop="20251110014000 +0000">
 		<title>Question Time - 2025: 06/11/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Sunderland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251110014000 +0000" stop="20251110024000 +0000">
@@ -5585,12 +5591,7 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251105163000 +0000" stop="20251105164500 +0000">
-		<title>Business Today - 05/11/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251105164500 +0000" stop="20251105170000 +0000">
+	<programme channel="bbcnews" start="20251105163000 +0000" stop="20251105170000 +0000">
 		<title>Verified Live - 05/11/2025</title>
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
@@ -5897,7 +5898,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251106210000 +0000" stop="20251106220000 +0000">
 		<title>Question Time - 2025: 06/11/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Sunderland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251106220000 +0000" stop="20251106223000 +0000">
@@ -6263,7 +6264,7 @@
 	<programme channel="bbcnews" start="20251108113000 +0000" stop="20251108120000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 05/11/2025</title>
 		<desc>John Simpson explores war-weariness in Russia and the problem it poses for the Kremlin.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdymh2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251108120000 +0000" stop="20251108123000 +0000">
 		<title>BBC News - 08/11/2025</title>
@@ -6393,7 +6394,7 @@
 	<programme channel="bbcnews" start="20251109013000 +0000" stop="20251109020000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 05/11/2025</title>
 		<desc>John Simpson explores war-weariness in Russia and the problem it poses for the Kremlin.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdymh2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251109020000 +0000" stop="20251109023000 +0000">
 		<title>BBC News - 09/11/2025</title>
@@ -6727,22 +6728,22 @@
 	</programme>
 	<programme channel="bbcparliament" start="20251105233000 +0000" stop="20251106013000 +0000">
 		<title>House of Lords - Border Security, Asylum and Immigration Bill, Part 1</title>
-		<desc>Business in the House of Lords on Wednesday 5 November.</desc>
+		<desc>Report stage of the Border Security, Asylum and Immigration Bill, on Wednesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251106013000 +0000" stop="20251106033000 +0000">
 		<title>House of Lords - Border Security, Asylum and Immigration Bill, Part 2</title>
-		<desc>Business in the House of Lords on Wednesday 5 November.</desc>
+		<desc>Report stage of the Border Security, Asylum and Immigration Bill, on Wednesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251106033000 +0000" stop="20251106053000 +0000">
 		<title>House of Lords - Border Security, Asylum and Immigration Bill, Part 3</title>
-		<desc>Business in the House of Lords on Wednesday 5 November.</desc>
+		<desc>Report stage of the Border Security, Asylum and Immigration Bill, on Wednesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251106053000 +0000" stop="20251106070000 +0000">
 		<title>House of Lords - Border Security, Asylum and Immigration Bill, Part 4</title>
-		<desc>Business in the House of Lords on Wednesday 5 November.</desc>
+		<desc>Report stage of the Border Security, Asylum and Immigration Bill, on Wednesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251106070000 +0000" stop="20251106073000 +0000">
@@ -6755,14 +6756,19 @@
 		<desc>Coverage of questions to deputy prime minister David Lammy, on Wednesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdwv7p.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251106080500 +0000" stop="20251106094000 +0000">
-		<title>House of Commons - 05/11/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20251106080500 +0000" stop="20251106095000 +0000">
+		<title>Select Committees - Women and Equalities Committee on the Health Impacts of Cosmetic Procedures</title>
+		<desc>The Women and Equalities committee's session on the health impacts of cosmetic procedures.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251106094000 +0000" stop="20251106114000 +0000">
-		<title>Select Committees - 06/11/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20251106095000 +0000" stop="20251106100000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251106100000 +0000" stop="20251106114000 +0000">
+		<title>Select Committees - Foreign Affairs Committee on the Appointment of Lord Mandelson</title>
+		<desc>Foreign Affairs committee on the appointment of Lord Mandelson as UK ambassador to the US.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251106114000 +0000" stop="20251106120000 +0000">
@@ -6775,29 +6781,24 @@
 		<desc>Questions to John Swinney, the first minister, on Thursday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251106124500 +0000" stop="20251106133000 +0000">
+	<programme channel="bbcparliament" start="20251106124500 +0000" stop="20251106132000 +0000">
 		<title>Scottish Parliament - 06/11/2025</title>
 		<desc>Coverage of proceedings in the Scottish Parliament on Thursday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251106133000 +0000" stop="20251106143000 +0000">
+	<programme channel="bbcparliament" start="20251106132000 +0000" stop="20251106143000 +0000">
 		<title>House of Commons - Treasury Questions</title>
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 4 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdsfqg.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251106143000 +0000" stop="20251106154500 +0000">
+	<programme channel="bbcparliament" start="20251106143000 +0000" stop="20251106174000 +0000">
 		<title>Scottish Parliament - 06/11/2025</title>
 		<desc>Coverage of the afternoon proceedings in the Scottish Parliament on Thursday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251106154500 +0000" stop="20251106170000 +0000">
-		<title>Scottish Parliament - 06/11/2025</title>
-		<desc>Coverage of the afternoon proceedings in the Scottish Parliament on Thursday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251106170000 +0000" stop="20251106190000 +0000">
-		<title>Select Committees - 06/11/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20251106174000 +0000" stop="20251106190000 +0000">
+		<title>Select Committees - Foreign Affairs Committee on the Appointment of Lord Mandelson</title>
+		<desc>Foreign Affairs committee on the appointment of Lord Mandelson as UK ambassador to the US.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251106190000 +0000" stop="20251106192000 +0000">
@@ -6821,8 +6822,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251106232000 +0000" stop="20251107014000 +0000">
-		<title>Select Committees - 06/11/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+		<title>Select Committees - Foreign Affairs Committee on the Appointment of Lord Mandelson</title>
+		<desc>Foreign Affairs committee on the appointment of Lord Mandelson as UK ambassador to the US.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251107014000 +0000" stop="20251107020000 +0000">
@@ -6840,12 +6841,7 @@
 		<desc>Coverage of proceedings in the Scottish Parliament on Thursday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251107033000 +0000" stop="20251107044500 +0000">
-		<title>Scottish Parliament - 06/11/2025</title>
-		<desc>Coverage of the afternoon proceedings in the Scottish Parliament on Thursday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251107044500 +0000" stop="20251107060000 +0000">
+	<programme channel="bbcparliament" start="20251107033000 +0000" stop="20251107060000 +0000">
 		<title>Scottish Parliament - 06/11/2025</title>
 		<desc>Coverage of the afternoon proceedings in the Scottish Parliament on Thursday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
