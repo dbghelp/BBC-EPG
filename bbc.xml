@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20251107093000 +0000" stop="20251107104500 +0000">
 		<title>Morning Live - Series 7: 07/11/2025</title>
 		<desc>The latest crime headlines, the new Renters’ Rights Act and a weight-loss jab clinic.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mfctz8.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251107104500 +0000" stop="20251107111500 +0000">
 		<title>Crimewatch Caught - Series 2: Sparks Will Fly</title>
@@ -407,7 +407,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251109223000 +0000" stop="20251109234500 +0000">
 		<title>Match of the Day - 2025/26: 09/11/2025</title>
-		<desc>The world's most famous football show.</desc>
+		<desc>Highlights from five Premier League games, including Manchester City against Liverpool.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf49fb.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251109234500 +0000" stop="20251110003500 +0000">
@@ -1119,7 +1119,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20251110074500 +0000" stop="20251110090000 +0000">
 		<title>Match of the Day - 2025/26: 09/11/2025</title>
-		<desc>The world's most famous football show.</desc>
+		<desc>Highlights from five Premier League games, including Manchester City against Liverpool.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf49fb.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251110090000 +0000" stop="20251110121500 +0000">
@@ -1389,7 +1389,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251107195500 +0000" stop="20251107200000 +0000">
 		<title>The Catch Up - 07/11/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Lucy Elsie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251107200000 +0000" stop="20251107210000 +0000">
@@ -5771,7 +5771,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251108023000 +0000" stop="20251108030000 +0000">
-		<title>Ukrainecast - Ukrainecast: Is Russia About to Take a Key City?</title>
+		<title>Ukrainecast - Is Russia About to Take a Key City?</title>
 		<desc>Ukraine says there are 170,000 Russian troops on the outskirts of Pokrovsk.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
@@ -5877,7 +5877,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251108154500 +0000" stop="20251108160000 +0000">
 		<title>Newswatch - 08/11/2025</title>
-		<desc>Your views on the coverage of events by BBC News.</desc>
+		<desc>Did Panorama edit a speech of President Trump's last year in a way that misled viewers?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r0tr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251108160000 +0000" stop="20251108163000 +0000">
@@ -6156,7 +6156,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251110013000 +0000" stop="20251110020000 +0000">
-		<title>Ukrainecast - Ukrainecast: Is Russia About to Take a Key City?</title>
+		<title>Ukrainecast - Is Russia About to Take a Key City?</title>
 		<desc>Ukraine says there are 170,000 Russian troops on the outskirts of Pokrovsk.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
@@ -6830,90 +6830,85 @@
 		<desc>House of Commons proceedings in Westminster Hall from Tuesday 4 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251108110000 +0000" stop="20251108113500 +0000">
+	<programme channel="bbcparliament" start="20251108110000 +0000" stop="20251108114000 +0000">
 		<title>Prime Minister's Questions - 05/11/2025</title>
 		<desc>Coverage of questions to deputy prime minister David Lammy, on Wednesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdwv7p.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251108113500 +0000" stop="20251108122000 +0000">
+	<programme channel="bbcparliament" start="20251108114000 +0000" stop="20251108123000 +0000">
 		<title>Scottish First Minister's Questions - 06/11/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mfbq6l.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251108122000 +0000" stop="20251108131000 +0000">
+	<programme channel="bbcparliament" start="20251108123000 +0000" stop="20251108133000 +0000">
 		<title>Welsh First Minister's Questions - 04/11/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 4 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf0cxh.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251108131000 +0000" stop="20251108135500 +0000">
+	<programme channel="bbcparliament" start="20251108133000 +0000" stop="20251108142000 +0000">
 		<title>Northern Ireland Assembly - Infrastructure Questions</title>
 		<desc>Questions in Stormont to the infrastructure minister, Liz Kimmins, on Monday 3 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdmpkg.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251108135500 +0000" stop="20251108144000 +0000">
-		<title>House of Commons - 08/11/2025</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
+	<programme channel="bbcparliament" start="20251108142000 +0000" stop="20251108150500 +0000">
+		<title>Northern Ireland Assembly - Health Questions</title>
+		<desc>Questions in Stormont to the health minister, Mike Nesbitt, on Monday 3 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251108150500 +0000" stop="20251108165000 +0000">
+		<title>House of Commons - Welfare Spending Debate</title>
+		<desc>Coverage of the opposition day debate tabled by the Conservatives on welfare spending.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251108144000 +0000" stop="20251108152500 +0000">
-		<title>House of Lords - 08/11/2025</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251108152500 +0000" stop="20251108161000 +0000">
-		<title>Scottish Parliament - 08/11/2025</title>
-		<desc>Coverage of a debate in the Scottish Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251108161000 +0000" stop="20251108171500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 08/11/2025</title>
-		<desc>Coverage of a debate in the Welsh Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251108171500 +0000" stop="20251108180000 +0000">
-		<title>House of Lords - 08/11/2025</title>
-		<desc>Coverage of a private notice question in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251108180000 +0000" stop="20251109012000 +0000">
-		<title>Select Committees - Select Committees · 08/11/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251109012000 +0000" stop="20251109015500 +0000">
-		<title>Prime Minister's Questions - 05/11/2025</title>
-		<desc>Coverage of questions to deputy prime minister David Lammy, on Wednesday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdwv7p.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251109015500 +0000" stop="20251109024000 +0000">
-		<title>Scottish First Minister's Questions - 06/11/2025</title>
-		<desc>Questions to John Swinney, the first minister, on Thursday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mfbq6l.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251109024000 +0000" stop="20251109033000 +0000">
-		<title>Welsh First Minister's Questions - 04/11/2025</title>
-		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 4 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf0cxh.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251109033000 +0000" stop="20251109043000 +0000">
-		<title>House of Commons - Defence Questions</title>
-		<desc>Coverage of questions to John Healey on Monday 3 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdmgy1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251109043000 +0000" stop="20251109053000 +0000">
+	<programme channel="bbcparliament" start="20251108165000 +0000" stop="20251108180000 +0000">
 		<title>House of Commons - Treasury Questions</title>
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 4 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdsfqg.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251109053000 +0000" stop="20251109060000 +0000">
-		<title>House of Commons - Women and Equalities Questions</title>
-		<desc>Coverage of questions to Bridget Phillipson on Wednesday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf02xg.jpg" />
+	<programme channel="bbcparliament" start="20251108180000 +0000" stop="20251108200500 +0000">
+		<title>Select Committees - Treasury Committee on the Budget 2025</title>
+		<desc>Coverage of select committee proceedings on Wednesday 5 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf09g1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251109060000 +0000" stop="20251109061000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="bbcparliament" start="20251108200500 +0000" stop="20251108215000 +0000">
+		<title>Select Committees - Defence Committee on the Afghan Data Breach</title>
+		<desc>The defence select committee session on the Afghan data breach and resettlement schemes.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf0l6q.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251108215000 +0000" stop="20251108232500 +0000">
+		<title>Select Committees - Foreign Affairs Committee on the Appointment of Lord Mandelson</title>
+		<desc>Foreign Affairs committee on the appointment of Lord Mandelson as UK ambassador to the US.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251108232500 +0000" stop="20251109011500 +0000">
+		<title>Select Committees - Home Affairs Committee on Combatting Extremism</title>
+		<desc>Coverage of the Home Affairs select committee on combatting new forms of extremism.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251109011500 +0000" stop="20251109015500 +0000">
+		<title>Prime Minister's Questions - 05/11/2025</title>
+		<desc>Coverage of questions to deputy prime minister David Lammy, on Wednesday 5 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdwv7p.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251109015500 +0000" stop="20251109025000 +0000">
+		<title>Scottish First Minister's Questions - 06/11/2025</title>
+		<desc>Questions to John Swinney, the first minister, on Thursday 6 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mfbq6l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251109025000 +0000" stop="20251109035000 +0000">
+		<title>Welsh First Minister's Questions - 04/11/2025</title>
+		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 4 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf0cxh.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251109035000 +0000" stop="20251109050000 +0000">
+		<title>House of Commons - Defence Questions</title>
+		<desc>Coverage of questions to John Healey on Monday 3 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdmgy1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251109050000 +0000" stop="20251109061000 +0000">
+		<title>House of Commons - Treasury Questions</title>
+		<desc>Coverage of questions to Rachel Reeves on Tuesday 4 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdsfqg.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251109061000 +0000" stop="20251109111000 +0000">
 		<title>Westminster Hall - 05/11/2025</title>
@@ -6995,27 +6990,37 @@
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 4 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf0cxh.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251110060000 +0000" stop="20251110090500 +0000">
-		<title>Westminster Hall - 06/11/2025</title>
-		<desc>House of Commons proceedings in Westminster Hall from Thursday 6 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	<programme channel="bbcparliament" start="20251110060000 +0000" stop="20251110074500 +0000">
+		<title>Select Committees - Treasury Committee on the Budget 2025</title>
+		<desc>Coverage of the Treasury committee session on the Budget 2025, on Tuesday 28 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcthlz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251110090500 +0000" stop="20251110095000 +0000">
+	<programme channel="bbcparliament" start="20251110074500 +0000" stop="20251110083000 +0000">
+		<title>House of Commons - Sudan Urgent Question</title>
+		<desc>Coverage of the urgent question in the House of Commons on the conflict in Sudan.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdzmnj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251110083000 +0000" stop="20251110084000 +0000">
+		<title>Ten Minute Rule Bill - Fertility Treatment (Right to Time Off) Bill</title>
+		<desc>The introduction of a Bill on a right to paid time off work for fertility treatment.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251110084000 +0000" stop="20251110092500 +0000">
 		<title>Northern Ireland Assembly - Infrastructure Questions</title>
 		<desc>Questions in Stormont to the infrastructure minister, Liz Kimmins, on Monday 3 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdmpkg.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251110095000 +0000" stop="20251110104000 +0000">
+	<programme channel="bbcparliament" start="20251110092500 +0000" stop="20251110102500 +0000">
 		<title>Welsh First Minister's Questions - 04/11/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 4 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf0cxh.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251110104000 +0000" stop="20251110112500 +0000">
+	<programme channel="bbcparliament" start="20251110102500 +0000" stop="20251110112000 +0000">
 		<title>Scottish First Minister's Questions - 06/11/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 6 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mfbq6l.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251110112500 +0000" stop="20251110120000 +0000">
+	<programme channel="bbcparliament" start="20251110112000 +0000" stop="20251110120000 +0000">
 		<title>Prime Minister's Questions - 05/11/2025</title>
 		<desc>Coverage of questions to deputy prime minister David Lammy, on Wednesday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdwv7p.jpg" />
@@ -7035,28 +7040,8 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 10 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251110151500 +0000" stop="20251110161500 +0000">
+	<programme channel="bbcparliament" start="20251110151500 +0000" stop="20251110220000 +0000">
 		<title>House of Lords - 10/11/2025 Part 1</title>
-		<desc>Coverage of proceedings in the House of Lords on Monday 10 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251110161500 +0000" stop="20251110171500 +0000">
-		<title>House of Lords - 10/11/2025 Part 2</title>
-		<desc>Coverage of proceedings in the House of Lords on Monday 10 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251110171500 +0000" stop="20251110181500 +0000">
-		<title>House of Lords - 10/11/2025 Part 3</title>
-		<desc>Coverage of proceedings in the House of Lords on Monday 10 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251110181500 +0000" stop="20251110191500 +0000">
-		<title>House of Lords - 10/11/2025 Part 4</title>
-		<desc>Coverage of proceedings in the House of Lords on Monday 10 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251110191500 +0000" stop="20251110220000 +0000">
-		<title>House of Lords - 10/11/2025 Part 5</title>
 		<desc>Coverage of proceedings in the House of Lords on Monday 10 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -7095,14 +7080,14 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 10 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251111061500 +0000" stop="20251111093000 +0000">
+	<programme channel="bbcparliament" start="20251111061500 +0000" stop="20251111100000 +0000">
 		<title>House of Lords - 10/11/2025</title>
 		<desc>Highlights of proceedings in the House of Lords on Monday 10 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251111093000 +0000" stop="20251111120000 +0000">
-		<title>Select Committees - 11/11/2025</title>
-		<desc>Coverage of select committee proceedings on Tuesday 11 November.</desc>
+	<programme channel="bbcparliament" start="20251111100000 +0000" stop="20251111120000 +0000">
+		<title>Select Committees - Education Committee on Early Years Support</title>
+		<desc>The education select committee session on early years support for children and families.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251111120000 +0000" stop="20251111124500 +0000">
@@ -7130,28 +7115,8 @@
 		<desc>Coverage of questions to David Lammy on Tuesday 11 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251111153000 +0000" stop="20251111163000 +0000">
-		<title>House of Commons - 11/11/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 11 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251111163000 +0000" stop="20251111173000 +0000">
-		<title>House of Commons - 11/11/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 11 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251111173000 +0000" stop="20251111183000 +0000">
-		<title>House of Commons - 11/11/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 11 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251111183000 +0000" stop="20251111193000 +0000">
-		<title>House of Commons - 11/11/2025 Part 4</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 11 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251111193000 +0000" stop="20251111223000 +0000">
-		<title>House of Commons - 11/11/2025 Part 5</title>
+	<programme channel="bbcparliament" start="20251111153000 +0000" stop="20251111223000 +0000">
+		<title>House of Commons - 11/11/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 11 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -8604,7 +8569,7 @@
 	<programme channel="s4c" start="20251110183000 +0000" stop="20251110190000 +0000">
 		<title>Rownd a Rownd - Thu, 06 Nov 2025</title>
 		<desc>Mae'n ddiwrnod angladd Kelvin, ac ar ben y profiad o gladdu ei thad, poena Mia am weld ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ft73xl.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mfcklx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251110190000 +0000" stop="20251110193000 +0000">
 		<title>Heno - Mon, 10 Nov 2025</title>
@@ -8924,7 +8889,7 @@
 	<programme channel="s4c" start="20251111202500 +0000" stop="20251111205500 +0000">
 		<title>Rownd a Rownd - Tue, 11 Nov 2025</title>
 		<desc>Mae'r boen o golli Kelvin dal yn rhwygo Ken a Kay, ac aiff Lowri, Philip a Mia i dde Ll...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ft73xl.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mfckr3.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251111205500 +0000" stop="20251111210000 +0000">
 		<title>Newyddion S4C - Tue, 11 Nov 2025 20:55</title>
