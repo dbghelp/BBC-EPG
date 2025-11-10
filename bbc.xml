@@ -3293,7 +3293,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m053p4.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20251114172500 +0000" stop="20251114174500 +0000">
-		<title>Gladiators: Epic Pranks - Specials: Children in Need</title>
+		<title>Gladiators: Epic Pranks - Series 1: 16. Children in Need</title>
 		<desc>Nitro, Sabre, Alfie Watts and Pudsey spring a special Children in Need prank on Apollo.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdxgcd.jpg" />
 	</programme>
@@ -5311,7 +5311,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20251110233000 +0000" stop="20251111000000 +0000">
 		<title>Limmy's Show - Series 1: Episode 4</title>
-		<desc>Hard-bitten ex-junkie Jacqueline McCafferty wants a family portrait for her living room. </desc>
+		<desc>Hard-bitten ex-junkie Jacqueline McCafferty wants a family portrait for her living room.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08vt0tg.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251111000000 +0000" stop="20251111060000 +0000">
@@ -5695,9 +5695,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251110213000 +0000" stop="20251110220000 +0000">
-		<title>The Context USA - 10/11/2025</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
+		<title>BBC News - 10/11/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251110220000 +0000" stop="20251110223000 +0000">
 		<title>BBC News at Ten - 10/11/2025</title>
@@ -6904,19 +6904,44 @@
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 10 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251111053000 +0000" stop="20251111061500 +0000">
+	<programme channel="bbcparliament" start="20251111053000 +0000" stop="20251111061000 +0000">
 		<title>Lords Questions - 10/11/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 10 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251111061500 +0000" stop="20251111100000 +0000">
-		<title>House of Lords - 10/11/2025</title>
-		<desc>Highlights of proceedings in the House of Lords on Monday 10 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20251111061000 +0000" stop="20251111064500 +0000">
+		<title>Scottish Parliament - Protecting Scotland's Rivers</title>
+		<desc>A members' business debate on protecting Scotland's rivers, on Thursday 6 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mfbt6w.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251111100000 +0000" stop="20251111120000 +0000">
+	<programme channel="bbcparliament" start="20251111064500 +0000" stop="20251111072500 +0000">
+		<title>Scottish Parliament - Draft Climate Change Plan Statement</title>
+		<desc>The statement on the draft Climate Change Plan 2025 on Thursday 6 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mfwlp2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251111072500 +0000" stop="20251111074000 +0000">
+		<title>Ten Minute Rule Bill - Fertility Treatment (Right to Time Off) Bill</title>
+		<desc>The introduction of a Bill on a right to paid time off work for fertility treatment.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251111074000 +0000" stop="20251111100000 +0000">
+		<title>Select Committees - Culture Committee on Built Heritage</title>
+		<desc>Coverage of the culture, media and sport committee session on Tuesday 4 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251111100000 +0000" stop="20251111110000 +0000">
 		<title>Select Committees - Education Committee on Early Years Support</title>
 		<desc>The education select committee session on early years support for children and families.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251111110000 +0000" stop="20251111110500 +0000">
+		<title>BBC News Special - Two-Minute Silence</title>
+		<desc>Two-minute silence for Remembrance Day.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07hp9l7.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251111110500 +0000" stop="20251111120000 +0000">
+		<title>Select Committees - Education Committee on Early Years Support</title>
+		<desc>The Education select committee session on early years support for children and families.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251111120000 +0000" stop="20251111124500 +0000">
@@ -8210,12 +8235,12 @@
 		<desc>Newyddion S4C a'r Tywydd. S4C News and Weather.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251111120500 +0000" stop="20251111123000 +0000">
+	<programme channel="s4c" start="20251111120500 +0000" stop="20251111123500 +0000">
 		<title>Colleen Ramsey: Bywyd a Bwyd - Cyfres 1: Pennod 6</title>
 		<desc>Rhaglen ola'r gyfres. Mae Colleen yn dangos sut i greu prydau 'ffansi' sy'n edrych yn f...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dz9y5h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251111123000 +0000" stop="20251111130000 +0000">
+	<programme channel="s4c" start="20251111123500 +0000" stop="20251111130000 +0000">
 		<title>Heno - Mon, 10 Nov 2025</title>
 		<desc>Ymunwch â ni i ddathlu canmlwyddiant Richard Burton, ac fe fydd y cyfarwyddwr Mark Evan...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
