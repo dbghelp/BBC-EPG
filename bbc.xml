@@ -800,8 +800,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8kx4g.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251110223000 +0000" stop="20251110225800 +0000">
-		<title>Newsnight - 10/11/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Trump vs the BBC</title>
+		<desc>President Trump threatens the BBC with a $1 billion legal action.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251110225800 +0000" stop="20251110230000 +0000">
@@ -3293,7 +3293,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m053p4.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20251114172500 +0000" stop="20251114174500 +0000">
-		<title>Gladiators: Epic Pranks - Series 1: 16. Children in Need</title>
+		<title>Gladiators: Epic Pranks - Series 1: 16. Children in Need Special</title>
 		<desc>Nitro, Sabre, Alfie Watts and Pudsey spring a special Children in Need prank on Apollo.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdxgcd.jpg" />
 	</programme>
@@ -5705,8 +5705,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251110223000 +0000" stop="20251110230000 +0000">
-		<title>Newsnight - 10/11/2025</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Trump vs the BBC</title>
+		<desc>President Trump threatens the BBC with a $1 billion legal action.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251110230000 +0000" stop="20251111000000 +0000">
@@ -6879,29 +6879,44 @@
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251110224500 +0000" stop="20251110233000 +0000">
+	<programme channel="bbcparliament" start="20251110224500 +0000" stop="20251110232500 +0000">
 		<title>Lords Questions - 10/11/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 10 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251110233000 +0000" stop="20251111013000 +0000">
+	<programme channel="bbcparliament" start="20251110232500 +0000" stop="20251111011000 +0000">
 		<title>Northern Ireland Assembly - 10/11/2025</title>
 		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 10 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251111013000 +0000" stop="20251111021500 +0000">
+	<programme channel="bbcparliament" start="20251111011000 +0000" stop="20251111015500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251111021500 +0000" stop="20251111030000 +0000">
+	<programme channel="bbcparliament" start="20251111015500 +0000" stop="20251111024500 +0000">
 		<title>Northern Ireland Assembly - Justice Questions</title>
 		<desc>Questions to the justice minister Naomi Long, on Monday 10 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251111030000 +0000" stop="20251111053000 +0000">
-		<title>Northern Ireland Assembly - 10/11/2025</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 10 November.</desc>
+	<programme channel="bbcparliament" start="20251111024500 +0000" stop="20251111031500 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Proceedings in the Northern Ireland Assembly including members making short statements.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251111031500 +0000" stop="20251111034500 +0000">
+		<title>Northern Ireland Assembly - Education Authority Urgent Question ·</title>
+		<desc>The urgent question on education authority savings plans, on Monday 10 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251111034500 +0000" stop="20251111040000 +0000">
+		<title>Northern Ireland Assembly - Budget Overspend Urgent Question</title>
+		<desc>The urgent question on the budget overspend, on Monday 10 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251111040000 +0000" stop="20251111053000 +0000">
+		<title>Northern Ireland Assembly - Holding Ministers to Account Debate</title>
+		<desc>The opposition motion on holding ministers to account, on Monday 10 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251111053000 +0000" stop="20251111061000 +0000">
