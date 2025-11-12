@@ -778,8 +778,8 @@
 	</programme>
 	<programme channel="bbctwo" start="20251112230000 +0000" stop="20251112233000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 12/11/2025</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
+		<desc>John Simpson analyses why Russia is so keen to capture the Ukrainian city of Pokrovsk.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg86lk.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251112233000 +0000" stop="20251113013000 +0000">
 		<title>Green Book</title>
@@ -1114,7 +1114,7 @@
 	<programme channel="bbctwo" start="20251115093000 +0000" stop="20251115103000 +0000">
 		<title>Weatherman Walking  - Weatherman Walking for Children in Need 2025</title>
 		<desc>Derek is in Ceredigion for a special episode celebrating BBC Children in Need 2025.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j3rkfj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg87cc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251115103000 +0000" stop="20251115113000 +0000">
 		<title>Gardeners' World - 2025: Episode 31</title>
@@ -1323,7 +1323,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251112194000 +0000" stop="20251112194500 +0000">
 		<title>The Catch Up - 12/11/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Vanessa Igoe.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251112194500 +0000" stop="20251112221000 +0000">
@@ -5128,7 +5128,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20251112210000 +0000" stop="20251112220000 +0000">
 		<title>Debate Night - Series 7: 12/11/2025</title>
-		<desc>Topical debate on the big issues affecting Scotland and beyond.</desc>
+		<desc>Topical debate from Glasgow on the big issues affecting Scotland and beyond.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0brnqkq.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251112220000 +0000" stop="20251112223000 +0000">
@@ -5142,8 +5142,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k43mpq.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251112230000 +0000" stop="20251112233000 +0000">
-		<title>Scotcast - 12/11/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
+		<title>Scotcast - PM Plots and Teacher Workload</title>
+		<desc>Natalie Higgins and Phil Sim discuss gossip surrounding Keir Starmer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqwpf.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251112233000 +0000" stop="20251113000000 +0000">
@@ -5431,10 +5431,15 @@
 		<desc>Coverage of PMQs as rumours swirl that Keir Starmer could face a leadership challenge.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg6hdl.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251112130000 +0000" stop="20251112140000 +0000">
+	<programme channel="bbcnews" start="20251112130000 +0000" stop="20251112133000 +0000">
 		<title>BBC News at One - 12/11/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251112133000 +0000" stop="20251112140000 +0000">
+		<title>BBC News - 12/11/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251112140000 +0000" stop="20251112143000 +0000">
 		<title>BBC News Now - 12/11/2025</title>
@@ -6143,7 +6148,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251115113000 +0000" stop="20251115120000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 12/11/2025</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>John Simpson analyses why Russia is so keen to capture the Ukrainian city of Pokrovsk.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251115120000 +0000" stop="20251115123000 +0000">
@@ -6264,7 +6269,7 @@
 	<programme channel="bbcnews" start="20251116003000 +0000" stop="20251116010000 +0000">
 		<title>Arts in Motion - Series 2: Lina Ghotmeh</title>
 		<desc>Echoing history and crafting the extraordinary. A journey with architect Lina Ghotmeh.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf9gm2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg7s1c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251116010000 +0000" stop="20251116013000 +0000">
 		<title>BBC News - 16/11/2025</title>
@@ -6273,7 +6278,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251116013000 +0000" stop="20251116020000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 12/11/2025</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>John Simpson analyses why Russia is so keen to capture the Ukrainian city of Pokrovsk.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251116020000 +0000" stop="20251116023000 +0000">
@@ -6586,10 +6591,30 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251112232000 +0000" stop="20251113070000 +0000">
-		<title>House of Lords - 12/11/2025</title>
-		<desc>Business in the House of Lords on Wednesday 12 November.</desc>
+	<programme channel="bbcparliament" start="20251112232000 +0000" stop="20251113000000 +0000">
+		<title>House of Lords - BBC Leadership Statement</title>
+		<desc>Statement following the resignations of the BBC Director-General and the CEO of BBC News.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251113000000 +0000" stop="20251113020000 +0000">
+		<title>House of Lords - Sentencing Bill, Part 1</title>
+		<desc>Coverage of the debate in the House of Lords on the second reading of the Sentencing Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251113020000 +0000" stop="20251113040000 +0000">
+		<title>House of Lords - Sentencing Bill, Part 2</title>
+		<desc>Coverage of the debate in the House of Lords on the second reading of the Sentencing Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251113040000 +0000" stop="20251113060000 +0000">
+		<title>House of Lords - Sentencing Bill, Part 3</title>
+		<desc>Coverage of the debate in the House of Lords on the second reading of the Sentencing Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251113060000 +0000" stop="20251113070000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251113070000 +0000" stop="20251113073000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
@@ -6749,7 +6774,7 @@
 	<programme channel="bbcparliament" start="20251115110000 +0000" stop="20251115113500 +0000">
 		<title>Prime Minister's Questions - 12/11/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg6phw.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251115113500 +0000" stop="20251115122000 +0000">
 		<title>Scottish First Minister's Questions - 13/11/2025</title>
@@ -6799,7 +6824,7 @@
 	<programme channel="bbcparliament" start="20251116002000 +0000" stop="20251116005500 +0000">
 		<title>Prime Minister's Questions - 12/11/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg6phw.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251116005500 +0000" stop="20251116014000 +0000">
 		<title>Scottish First Minister's Questions - 13/11/2025</title>
@@ -6819,7 +6844,7 @@
 	<programme channel="bbcparliament" start="20251116033000 +0000" stop="20251116040000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
 		<desc>Coverage of questions to Liz Kendall on Wednesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg6nw8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251116040000 +0000" stop="20251116044000 +0000">
 		<title>House of Commons - Environment, Food and Rural Affairs Questions</title>
@@ -6869,7 +6894,7 @@
 	<programme channel="bbcparliament" start="20251116150500 +0000" stop="20251116154000 +0000">
 		<title>Prime Minister's Questions - 12/11/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg6phw.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251116154000 +0000" stop="20251116162500 +0000">
 		<title>Scottish First Minister's Questions - 13/11/2025</title>
@@ -6909,7 +6934,7 @@
 	<programme channel="bbcparliament" start="20251117022000 +0000" stop="20251117025000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
 		<desc>Coverage of questions to Liz Kendall on Wednesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg6nw8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251117025000 +0000" stop="20251117035000 +0000">
 		<title>House of Commons - Justice Questions</title>
@@ -6919,7 +6944,7 @@
 	<programme channel="bbcparliament" start="20251117035000 +0000" stop="20251117042500 +0000">
 		<title>Prime Minister's Questions - 12/11/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 12 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg6phw.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251117042500 +0000" stop="20251117051000 +0000">
 		<title>Scottish First Minister's Questions - 13/11/2025</title>
@@ -8556,7 +8581,7 @@
 	<programme channel="s4c" start="20251116200000 +0000" stop="20251116210000 +0000">
 		<title>Sean Fletcher: Cyfrinachau'r Llong - Pennod 1</title>
 		<desc>Ymchwiliwn i arwyddocâd rhyngwladol y llong ddirgel o'r 15fed ganrif a ffeindiwyd yn y ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg7zs8.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251116210000 +0000" stop="20251116220000 +0000">
 		<title>Stad - Cyfres 2: Pennod 2</title>
