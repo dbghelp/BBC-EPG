@@ -292,7 +292,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251113224000 +0000" stop="20251113234000 +0000">
 		<title>Question Time - 2025: 13/11/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251113234000 +0000" stop="20251114001000 +0000">
@@ -769,7 +769,7 @@
 	<programme channel="bbctwo" start="20251112223000 +0000" stop="20251112225800 +0000">
 		<title>Newsnight - 12/11/2025</title>
 		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg9w8h.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251112225800 +0000" stop="20251112230000 +0000">
 		<title>BBC Weather - 12/11/2025</title>
@@ -1278,7 +1278,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20251116235500 +0000" stop="20251117005500 +0000">
 		<title>Question Time - 2025: 13/11/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251117005500 +0000" stop="20251117012000 +0000">
@@ -5539,7 +5539,7 @@
 	<programme channel="bbcnews" start="20251112223000 +0000" stop="20251112230000 +0000">
 		<title>Newsnight - 12/11/2025</title>
 		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg9w8h.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251112230000 +0000" stop="20251113000000 +0000">
 		<title>BBC World News America - 12/11/2025</title>
@@ -5783,7 +5783,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251113210000 +0000" stop="20251113220000 +0000">
 		<title>Question Time - 2025: 13/11/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251113220000 +0000" stop="20251113223000 +0000">
@@ -6549,7 +6549,7 @@
 	<programme channel="bbcparliament" start="20251112081000 +0000" stop="20251112091500 +0000">
 		<title>House of Lords - Financial Provision on Divorce Debate</title>
 		<desc>Debate on measures of financial provision regarding divorce proceedings and agreements.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg9tzm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251112091500 +0000" stop="20251112113000 +0000">
 		<title>Select Committees - Transport Committee</title>
@@ -6576,40 +6576,55 @@
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251112193000 +0000" stop="20251112220000 +0000">
+	<programme channel="bbcparliament" start="20251112193000 +0000" stop="20251112204000 +0000">
 		<title>House of Lords - 12/11/2025</title>
 		<desc>Coverage of proceedings in the House of Lords on Wednesday 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251112220000 +0000" stop="20251112223500 +0000">
+	<programme channel="bbcparliament" start="20251112204000 +0000" stop="20251112220500 +0000">
+		<title>House of Commons - BBC Leadership Statement</title>
+		<desc>Statement on BBC resignations of director general Tim Davie and News CEO Deborah Turness.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg42kq.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251112220500 +0000" stop="20251112224000 +0000">
 		<title>Prime Minister's Questions - 12/11/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg6phw.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251112223500 +0000" stop="20251112232000 +0000">
+	<programme channel="bbcparliament" start="20251112224000 +0000" stop="20251112232500 +0000">
 		<title>Lords Questions - 12/11/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Wednesday 12 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251112232000 +0000" stop="20251113000000 +0000">
+	<programme channel="bbcparliament" start="20251112232500 +0000" stop="20251113000000 +0000">
 		<title>House of Lords - BBC Leadership Statement</title>
 		<desc>Statement following the resignations of the BBC Director-General and the CEO of BBC News.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251113000000 +0000" stop="20251113020000 +0000">
+	<programme channel="bbcparliament" start="20251113000000 +0000" stop="20251113020500 +0000">
 		<title>House of Lords - Sentencing Bill, Part 1</title>
 		<desc>Coverage of the debate in the House of Lords on the second reading of the Sentencing Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251113020000 +0000" stop="20251113040000 +0000">
+	<programme channel="bbcparliament" start="20251113020500 +0000" stop="20251113033000 +0000">
 		<title>House of Lords - Sentencing Bill, Part 2</title>
 		<desc>Coverage of the debate in the House of Lords on the second reading of the Sentencing Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251113040000 +0000" stop="20251113060000 +0000">
+	<programme channel="bbcparliament" start="20251113033000 +0000" stop="20251113041500 +0000">
 		<title>House of Lords - Sentencing Bill, Part 3</title>
 		<desc>Coverage of the debate in the House of Lords on the second reading of the Sentencing Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251113041500 +0000" stop="20251113055000 +0000">
+		<title>Select Committees - Foreign Affairs Committee on the Appointment of Lord Mandelson</title>
+		<desc>Foreign Affairs committee on the appointment of Lord Mandelson as UK ambassador to the US.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251113055000 +0000" stop="20251113060000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251113060000 +0000" stop="20251113063000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
