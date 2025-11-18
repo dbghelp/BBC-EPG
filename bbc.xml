@@ -807,15 +807,15 @@
 		<desc>Google's CEO talks about AI and its impact on jobs, truth and the environment.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mh431d.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251118193000 +0000" stop="20251118220000 +0000">
+	<programme channel="bbctwo" start="20251118193000 +0000" stop="20251118221500 +0000">
 		<title>Sportscene: International Football - 2025/26: World Cup Qualifier: Scotland v Denmark</title>
 		<desc>Live coverage as Scotland take on Denmark in their final World Cup qualifier.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg65p5.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251118220000 +0000" stop="20251118223000 +0000">
-		<title>QI - Series S: 5. Sugar and Spice</title>
-		<desc>Sandi Toksvig looks at sugar and spice, and all things nice.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09x3bkz.jpg" />
+	<programme channel="bbctwo" start="20251118221500 +0000" stop="20251118223000 +0000">
+		<title>QI XS - Series 2: 6. Quite Inedible</title>
+		<desc>A selection of classic clips from QI with a foodie feel.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gz57my.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251118223000 +0000" stop="20251118225800 +0000">
 		<title>Newsnight - 18/11/2025</title>
@@ -5255,27 +5255,22 @@
 		<desc>Laura Miller and Sheelagh McLaren are live from Hampden for Scotland v Denmark build-up.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7x7zd.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20251118191500 +0000" stop="20251118221500 +0000">
+	<programme channel="bbcscotland" start="20251118191500 +0000" stop="20251118230000 +0000">
 		<title>Sportscene: International Football - 2025/26: World Cup Qualifier: Scotland v Denmark</title>
 		<desc>Live coverage as Scotland take on Denmark in their final World Cup qualifier.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg65p5.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20251118221500 +0000" stop="20251118230000 +0000">
+	<programme channel="bbcscotland" start="20251118230000 +0000" stop="20251118234500 +0000">
 		<title>The Ridge - Series 1: Episode 5</title>
 		<desc>Mia gets closer as she digs into an earlier death, but a gruesome find puts her in danger.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9kygz.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20251118230000 +0000" stop="20251118233000 +0000">
+	<programme channel="bbcscotland" start="20251118234500 +0000" stop="20251119001500 +0000">
 		<title>Scotcast - Gambling Tax</title>
 		<desc>Martin and Natalie discuss reported plans to raise taxes on betting companies.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqxxy.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20251118233000 +0000" stop="20251119000000 +0000">
-		<title>Rewind - 1990s: 10. 1999</title>
-		<desc>Relive the end of a decade, a century and a millennium.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p077gbvg.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20251119000000 +0000" stop="20251119060000 +0000">
+	<programme channel="bbcscotland" start="20251119001500 +0000" stop="20251119060000 +0000">
 		<title>This is BBC Scotland - This is BBC Scotland</title>
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
@@ -5706,8 +5701,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251119003000 +0000" stop="20251119010000 +0000">
-		<title>Newscast - 19/11/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Google CEO on the AI Bubble and Economic Risks</title>
+		<desc>Adam and Faisal discuss Faisal's interview with Sundar Pichai, CEO of Google.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251119010000 +0000" stop="20251119013000 +0000">
@@ -6611,7 +6606,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251122163000 +0000" stop="20251122170000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 2: 21/11/2025</title>
+		<title>Political Thinking with Nick Robinson - Series 2: Shabana Mahmood</title>
 		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
