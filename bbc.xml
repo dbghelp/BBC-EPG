@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20251118093000 +0000" stop="20251118104500 +0000">
 		<title>Morning Live - Series 7: 18/11/2025</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251118104500 +0000" stop="20251118113000 +0000">
 		<title>Rip Off Britain - Series 17: 22. Broadband firm has trapped my car with a telegraph pole</title>
@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251118190000 +0000" stop="20251118193000 +0000">
 		<title>The One Show - 18/11/2025</title>
-		<desc>Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+		<desc>Elizabeth Olsen, Miles Teller, Robert James-Collier and Mandip Gill join Alex and Clara.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251118193000 +0000" stop="20251118200000 +0000">
@@ -690,12 +690,12 @@
 	<programme channel="bbcone" start="20251122200500 +0000" stop="20251122210500 +0000">
 		<title>Michael McIntyre's The Wheel - Series 6: Episode 5</title>
 		<desc>The celebrity experts include Clare Balding, Zoe Ball, Bill Bailey and Lou Sanders.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r6x0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mh9490.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251122210500 +0000" stop="20251122220000 +0000">
 		<title>Wild Cherry - Series 1: 3. Call It Mother’s Intuition or Whatever</title>
 		<desc>Juliet and Lorna fall out, while the app gets more dangerous and the police hunt for Iris.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf3sjw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mh94gh.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251122220000 +0000" stop="20251122221500 +0000">
 		<title>BBC Weekend News - Late News: 22/11/2025</title>
@@ -758,8 +758,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251118121500 +0000" stop="20251118130000 +0000">
-		<title>Politics Live - 18/11/2025</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - Budget Expectations</title>
+		<desc>Should the chancellor raise taxes or cut spending?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251118130000 +0000" stop="20251118134500 +0000">
@@ -5313,7 +5313,7 @@
 	<programme channel="bbcscotland" start="20251119210000 +0000" stop="20251119220000 +0000">
 		<title>BAFTA Scotland Awards - 2025</title>
 		<desc>Highlights of this year’s glittering BAFTA Scotland Awards.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b4v0wf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mh9rrm.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251119220000 +0000" stop="20251119223000 +0000">
 		<title>River City - 19/11/2025</title>
@@ -6765,7 +6765,17 @@
 		<desc>Coverage of questions to Ed Miliband on Tuesday 18 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251118123000 +0000" stop="20251118193000 +0000">
+	<programme channel="bbcparliament" start="20251118123000 +0000" stop="20251118133000 +0000">
+		<title>House of Commons - China Espionage and Government Security Response Statement</title>
+		<desc>Coverage of the statement on China espionage and the government's security response.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251118133000 +0000" stop="20251118143000 +0000">
+		<title>House of Commons - Gaza and Sudan Statement</title>
+		<desc>Coverage of the statement by foreign secretary Yvette Cooper on Gaza and Sudan.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251118143000 +0000" stop="20251118193000 +0000">
 		<title>House of Commons - 18/11/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 18 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
