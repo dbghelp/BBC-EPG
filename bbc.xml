@@ -163,8 +163,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251120234000 +0000" stop="20251121001000 +0000">
-		<title>Newscast - Series 6: 20/11/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Series 6: 18. The Covid Inquiry Report: 'Too Little, Too Late'</title>
+		<desc>Jim Reed and Dr Catherine Haddon join Adam to unpick the report from the Covid Inquiry.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251121001000 +0000" stop="20251121011000 +0000">
@@ -827,15 +827,15 @@
 		<desc>The River Nith in Scotland’s south west is the destination for Paul’s river grand tour.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b4kc0n.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251120193000 +0000" stop="20251120220000 +0000">
+	<programme channel="bbctwo" start="20251120193000 +0000" stop="20251120221500 +0000">
 		<title>UEFA Women's Champions League - 2025/26: Chelsea v Barcelona</title>
 		<desc>Live coverage from the UEFA Women's Champions League as Chelsea face Barcelona.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg655m.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251120220000 +0000" stop="20251120223000 +0000">
-		<title>Live at the Apollo - Series 19: Episode 7</title>
-		<desc>Tim Renkow welcomes comedians Janine Harouni and Stuart Goldsmith to the stage.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmm23l.jpg" />
+	<programme channel="bbctwo" start="20251120221500 +0000" stop="20251120223000 +0000">
+		<title>Live at the Apollo - Series 15 - Bites: Episode 4</title>
+		<desc>This episode of Apollo Bites features Guz Kahn, Rosie Jones and Rhys James.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06tz771.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251120223000 +0000" stop="20251120225800 +0000">
 		<title>Newsnight - 20/11/2025</title>
@@ -6045,8 +6045,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251122053000 +0000" stop="20251122060000 +0000">
-		<title>AI Decoded - 22/11/2025</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - Will the AI Boom Go Bust?</title>
+		<desc>AI Decoded explores whether the current AI boom is a bubble or a technological shift.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251122060000 +0000" stop="20251122090000 +0000">
@@ -6375,8 +6375,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251123223000 +0000" stop="20251123230000 +0000">
-		<title>AI Decoded - 22/11/2025</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - Will the AI Boom Go Bust?</title>
+		<desc>AI Decoded explores whether the current AI boom is a bubble or a technological shift.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251123230000 +0000" stop="20251123233000 +0000">
@@ -6405,7 +6405,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251124013000 +0000" stop="20251124020000 +0000">
-		<title>Ukrainecast - A special episode with Newsround</title>
+		<title>Ukrainecast: A special episode with Newsround</title>
 		<desc>The team answer questions from kids about the war in Ukraine.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhnb02.jpg" />
 	</programme>
@@ -6757,7 +6757,7 @@
 	<programme channel="bbcparliament" start="20251120093000 +0000" stop="20251120104000 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwtry.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251120104000 +0000" stop="20251120111000 +0000">
 		<title>House of Commons - Russian Ship Yantar Urgent Question</title>
@@ -6767,21 +6767,21 @@
 	<programme channel="bbcparliament" start="20251120111000 +0000" stop="20251120114500 +0000">
 		<title>House of Commons - Ukraine Urgent Question</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhws92.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251120114500 +0000" stop="20251120120500 +0000">
 		<title>House of Commons - Terrorist Offenders Urgent Question</title>
 		<desc>Urgent question on the disruption to the Separation Centre regime on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwpww.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251120120500 +0000" stop="20251120131000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwvdr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251120131000 +0000" stop="20251120140500 +0000">
 		<title>House of Commons - Asylum Policy Statement</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 20 November.</desc>
+		<desc>The statement by home secretary Shabana Mahmood on asylum policy, on Thursday 20 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhw33t.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251120140500 +0000" stop="20251120173000 +0000">
@@ -6792,7 +6792,7 @@
 	<programme channel="bbcparliament" start="20251120173000 +0000" stop="20251120181500 +0000">
 		<title>Scottish First Minister's Questions - 20/11/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwvlm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251120181500 +0000" stop="20251120190000 +0000">
 		<title>Lords Questions - 20/11/2025</title>
@@ -6802,12 +6802,12 @@
 	<programme channel="bbcparliament" start="20251120190000 +0000" stop="20251120190500 +0000">
 		<title>House of Lords - Introductions</title>
 		<desc>Coverage of the introduction of former MP Alan Whitehead to the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwtcy.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251120190500 +0000" stop="20251120194500 +0000">
 		<title>House of Lords - Asylum Policy Statement</title>
 		<desc>Coverage of a statement by home office minister Lord Hanson of Flint on asylum policy.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwx70.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251120194500 +0000" stop="20251120214000 +0000">
 		<title>House of Lords - Sustainable Aviation Fuel Bill, Part 1</title>
@@ -6827,12 +6827,12 @@
 	<programme channel="bbcparliament" start="20251120232000 +0000" stop="20251121002500 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwtry.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251121002500 +0000" stop="20251121013000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwvdr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251121013000 +0000" stop="20251121020000 +0000">
 		<title>House of Commons - Russian Ship Yantar Urgent Question</title>
@@ -6842,11 +6842,11 @@
 	<programme channel="bbcparliament" start="20251121020000 +0000" stop="20251121024000 +0000">
 		<title>House of Commons - Ukraine Urgent Question</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhws92.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251121024000 +0000" stop="20251121033500 +0000">
 		<title>House of Commons - Asylum Policy Statement</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 20 November.</desc>
+		<desc>The statement by home secretary Shabana Mahmood on asylum policy, on Thursday 20 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhw33t.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251121033500 +0000" stop="20251121051500 +0000">
@@ -6859,10 +6859,10 @@
 		<desc>Debate in the House of Lords on government policies on biodiversity and the countryside.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mgs54s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251121041500 +0000" stop="20251121070000 +0000">
-		<title>House of Commons - 20/11/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20251121064500 +0000" stop="20251121070000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251121070000 +0000" stop="20251121093000 +0000">
 		<title>Westminster Hall - 17/11/2025</title>
@@ -6892,7 +6892,7 @@
 	<programme channel="bbcparliament" start="20251121165500 +0000" stop="20251121173500 +0000">
 		<title>House of Commons - Ukraine Urgent Question</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhws92.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251121173500 +0000" stop="20251121174500 +0000">
 		<title>Ten Minute Rule Bill - Access to Finance for Women in Business</title>
@@ -6922,7 +6922,7 @@
 	<programme channel="bbcparliament" start="20251121210000 +0000" stop="20251121214500 +0000">
 		<title>Scottish First Minister's Questions - 20/11/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwvlm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251121214500 +0000" stop="20251121221000 +0000">
 		<title>Scottish Parliament - Deputy First Minister, Economy and Gaelic Questions</title>
@@ -6952,7 +6952,7 @@
 	<programme channel="bbcparliament" start="20251122010500 +0000" stop="20251122015500 +0000">
 		<title>Welsh First Minister's Questions - 18/11/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 18 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhww0j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251122015500 +0000" stop="20251122024500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Storm Claudia Statement</title>
@@ -6980,8 +6980,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mh5y8d.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251122051000 +0000" stop="20251122060000 +0000">
-		<title>Northern Ireland Assembly - 21/11/2025</title>
-		<desc>Highlights from the Northern Ireland Assembly.</desc>
+		<title>Northern Ireland Assembly - Economy Questions</title>
+		<desc>Questions to the minister for the economy, Dr Caoimhe Archibald, on Monday 17 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251122060000 +0000" stop="20251122110000 +0000">
@@ -6997,12 +6997,12 @@
 	<programme channel="bbcparliament" start="20251122113500 +0000" stop="20251122122000 +0000">
 		<title>Scottish First Minister's Questions - 20/11/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwvlm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251122122000 +0000" stop="20251122131000 +0000">
 		<title>Welsh First Minister's Questions - 18/11/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 18 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhww0j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251122131000 +0000" stop="20251122135500 +0000">
 		<title>Northern Ireland Assembly - Communities Questions</title>
@@ -7047,12 +7047,12 @@
 	<programme channel="bbcparliament" start="20251123005500 +0000" stop="20251123014000 +0000">
 		<title>Scottish First Minister's Questions - 20/11/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwvlm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251123014000 +0000" stop="20251123023000 +0000">
 		<title>Welsh First Minister's Questions - 18/11/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 18 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhww0j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251123023000 +0000" stop="20251123033000 +0000">
 		<title>House of Commons - Home Office Questions</title>
@@ -7072,7 +7072,7 @@
 	<programme channel="bbcparliament" start="20251123050000 +0000" stop="20251123060000 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwtry.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251123060000 +0000" stop="20251123110000 +0000">
 		<title>Westminster Hall - 19/11/2025</title>
@@ -7112,12 +7112,12 @@
 	<programme channel="bbcparliament" start="20251123154000 +0000" stop="20251123162500 +0000">
 		<title>Scottish First Minister's Questions - 20/11/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwvlm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251123162500 +0000" stop="20251123171500 +0000">
 		<title>Welsh First Minister's Questions - 18/11/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 18 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhww0j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251123171500 +0000" stop="20251123180000 +0000">
 		<title>Northern Ireland Assembly - Communities Questions</title>
@@ -7132,7 +7132,7 @@
 	<programme channel="bbcparliament" start="20251124002000 +0000" stop="20251124012000 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwtry.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251124012000 +0000" stop="20251124015000 +0000">
 		<title>House of Commons - Northern Ireland Office Questions</title>
@@ -7157,12 +7157,12 @@
 	<programme channel="bbcparliament" start="20251124042500 +0000" stop="20251124051000 +0000">
 		<title>Scottish First Minister's Questions - 20/11/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwvlm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251124051000 +0000" stop="20251124060000 +0000">
 		<title>Welsh First Minister's Questions - 18/11/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 18 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhww0j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251124060000 +0000" stop="20251124090500 +0000">
 		<title>Westminster Hall - 20/11/2025</title>
@@ -7177,12 +7177,12 @@
 	<programme channel="bbcparliament" start="20251124095000 +0000" stop="20251124104000 +0000">
 		<title>Welsh First Minister's Questions - 18/11/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 18 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhww0j.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251124104000 +0000" stop="20251124112500 +0000">
 		<title>Scottish First Minister's Questions - 20/11/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 20 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhwvlm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251124112500 +0000" stop="20251124120000 +0000">
 		<title>Prime Minister's Questions - 19/11/2025</title>
@@ -8511,25 +8511,20 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 		<desc>Mae Leisa angen pysen i chwarae gêm bêl-droed gyda gwelltyn. Mae Hywel, y ffermwr hud, ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdbdxv.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251123064500 +0000" stop="20251123065500 +0000">
+	<programme channel="s4c" start="20251123064500 +0000" stop="20251123065000 +0000">
 		<title>Odo - Cyfres 1: Twmpath Dawns</title>
 		<desc>Cartwn hyfryd am gwdihw bach o'r enw Odo a'i ffrindiau yn y goedwig. Lovely cartoon abo...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c2dj8p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251123065500 +0000" stop="20251123070000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="s4c" start="20251123065000 +0000" stop="20251123070000 +0000">
+		<title>Annibendod - Cyfres 1: Hadau Pw Pw</title>
+		<desc>Mae Gwyneth Gwrtaith wedi meddwl am gynllun busnes newydd sbon: gwerthu Hadau Adar Pw P...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ls87w6.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251123070000 +0000" stop="20251123071000 +0000">
+	<programme channel="s4c" start="20251123070000 +0000" stop="20251123071500 +0000">
 		<title>Pentre Papur Pop - Cyfres 1: Llwybr Beics-pop</title>
 		<desc>Ma Mabli ofn disgyn oddi ar ei beic newydd - a fydd hi'n gallu gorffen beicio gyda'i ff...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
-	</programme>
-	<programme channel="s4c" start="20251123071000 +0000" stop="20251123071500 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251123071500 +0000" stop="20251123073000 +0000">
 		<title>Help Llaw - Cyfres 1: Alex - Y Stiwdio Dywydd</title>
@@ -8686,37 +8681,37 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 		<desc>Ymunwch â Jam ar daith llawn synau, cerddoriaeth a lluniau - bydd cysgodion yn dawnsio ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x6yw7.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124063000 +0000" stop="20251124064500 +0000">
+	<programme channel="s4c" start="20251124063000 +0000" stop="20251124064000 +0000">
 		<title>Pentre Papur Pop - Cyfres 1: Y Daith At Y Copa Cerddorol</title>
 		<desc>Ar yr antur popwych heddiw mae Twm yn darganfod chwilen arbennig sy'n gallu canu. On to...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124064500 +0000" stop="20251124070000 +0000">
+	<programme channel="s4c" start="20251124064000 +0000" stop="20251124065500 +0000">
 		<title>Cacamwnci - Cyfres 3: Siwpyrtaid 2</title>
 		<desc>Mae Cacamwnci nôl gyda mwy o sgetsys dwl a doniol, a chymeriadau newydd sbon fel Clem C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05vqt69.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124070000 +0000" stop="20251124071000 +0000">
+	<programme channel="s4c" start="20251124065500 +0000" stop="20251124070500 +0000">
 		<title>Yr Whws - Cyfres 1: Diwrnod Gaeafol Whw</title>
 		<desc>Ar Ddiwrnod Gaeafol Whw mae Tomi eisiau rhoi anrheg bwyd i aderyn bach brown, ond all y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcs7yz.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124071000 +0000" stop="20251124072000 +0000">
+	<programme channel="s4c" start="20251124070500 +0000" stop="20251124071500 +0000">
 		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 17</title>
 		<desc>Cyfres i blant am anifeiliaid bach y byd. Y tro hwn: anifeiliaid fferm. Series for chil...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124072000 +0000" stop="20251124073500 +0000">
+	<programme channel="s4c" start="20251124071500 +0000" stop="20251124073000 +0000">
 		<title>Dreigiau Cadi - Cyfres 2: Sinema</title>
 		<desc>Mae'r dreigiau'n gyffrous gan fod Cadi yn mynd â nhw i'r sinema, ond mae'r ffilm wedi m...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd7hxx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124073500 +0000" stop="20251124074500 +0000">
+	<programme channel="s4c" start="20251124073000 +0000" stop="20251124074000 +0000">
 		<title>Sam Tân - Cyfres 10: Lein Wib y Farn</title>
 		<desc>Heddiw, mae Jams, Mandy a Norman gyda'i gilydd ar Arwr y Mynydd gyda Moose. Today, Jams...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124074500 +0000" stop="20251124080000 +0000">
+	<programme channel="s4c" start="20251124074000 +0000" stop="20251124080000 +0000">
 		<title>Parc Glan Gwil - Pennod 14</title>
 		<desc>Mae hi'n amser Eisteddfod Parc Glan Gwil ac mae Sioned Siop am gystadlu. Mae angen dysg...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lt9p3v.jpg" />
@@ -8726,12 +8721,12 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 		<desc>Mae gair heddiw'n rheswm gwych i fynd allan i chwarae gan mae 'welis' yw gair y dydd! T...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cy20hc.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124080500 +0000" stop="20251124082000 +0000">
+	<programme channel="s4c" start="20251124080500 +0000" stop="20251124081500 +0000">
 		<title>Guto Gwningen - Cyfres 2: Hanes Clychau'r Gog</title>
 		<desc>Mae cynllun Guto i gasglu clychau'r gog gynta'r  flwyddyn i'w fam yn cymryd tro annisgw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07txhxv.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124082000 +0000" stop="20251124083500 +0000">
+	<programme channel="s4c" start="20251124081500 +0000" stop="20251124083500 +0000">
 		<title>Awyr Iach - Cyfres 2: Pennod 2</title>
 		<desc>Heddiw, bydd Huw yn cwrdd a theulu sy'n mwynhau dringo, a bydd rhai o ddisgyblion Ysgol...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd9v0r.jpg" />
@@ -8756,17 +8751,17 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 		<desc>Pwy arall ond Maer Campus sydd yn dinistrio tiwlips Maer Morus y noson cyn y gystadleua...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0645yv0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124092000 +0000" stop="20251124093000 +0000">
+	<programme channel="s4c" start="20251124092000 +0000" stop="20251124092500 +0000">
 		<title>Odo - Cyfres 1: Anlwc!</title>
 		<desc>Stori am dylluan bach sy'n credu yn ei hun. Comedy driven stories about a little owl wh...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c2dj8p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124093000 +0000" stop="20251124094500 +0000">
+	<programme channel="s4c" start="20251124092500 +0000" stop="20251124094000 +0000">
 		<title>Joni Jet - Cyfres 1: SbloetBot X</title>
 		<desc>Mae bot danfon parseli'n mynd yn dw-lal, ac yn creu trafferthion mawr ar hyd a lled Dyf...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124094500 +0000" stop="20251124100000 +0000">
+	<programme channel="s4c" start="20251124094000 +0000" stop="20251124100000 +0000">
 		<title>Deian a Loli - Cyfres 3: ...a Becws y Coed</title>
 		<desc>Mae Deian a Loli yn brysur creu cacen ar gyfer y ffair haf, hyd nes i rywun ddwyn y rys...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0934gd5.jpg" />
@@ -8821,12 +8816,12 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 		<desc>Mae Syr Gwil yn trefnu parti pwll nofio, ond mae Dion Diogelwch yn ofnus - 'dio ddim yn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lt9p3v.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124170000 +0000" stop="20251124172500 +0000">
+	<programme channel="s4c" start="20251124170000 +0000" stop="20251124172000 +0000">
 		<title>Dreigiau Berc - Dreigiau: Gwarchodwyr Berc: Sgriliolaeth: Rhan 1</title>
 		<desc>Mae'r criw yn darganfod draig wedi ei chladdu yn y rhew - Sgril, sef draig y Lloerigion...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p036d79t.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251124172500 +0000" stop="20251124174500 +0000">
+	<programme channel="s4c" start="20251124172000 +0000" stop="20251124174500 +0000">
 		<title>Boom Bang! - Stwnsh 16 - Boom Bang!</title>
 		<desc>Description Coming Soon...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9p5m5.jpg" />
