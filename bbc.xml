@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20251121093000 +0000" stop="20251121104500 +0000">
 		<title>Morning Live - Series 7: 21/11/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>Infected-blood compensation, pension-tax refunds, mobile price hikes, and identity fraud.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mj21y7.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251121104500 +0000" stop="20251121113000 +0000">
 		<title>Rip Off Britain - Series 17: 25. Our holiday was not as advertised</title>
@@ -160,7 +160,7 @@
 	<programme channel="bbcone" start="20251121224000 +0000" stop="20251121233000 +0000">
 		<title>The Graham Norton Show - Series 33: Episode 8</title>
 		<desc>Graham's guests are Hugh Jackman, Kate Hudson, Ben Stiller and Da'Vine Joy Randolph.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m34s2n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mj2kvq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251121233000 +0000" stop="20251122003000 +0000">
 		<title>RuPaul's Drag Race UK - Series 7: Episode 9</title>
@@ -458,7 +458,7 @@
 	<programme channel="bbcone" start="20251124003000 +0000" stop="20251124012000 +0000">
 		<title>The Graham Norton Show - Series 33: Episode 8</title>
 		<desc>Graham's guests are Hugh Jackman, Kate Hudson, Ben Stiller and Da'Vine Joy Randolph.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m34s2n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mj2kvq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251124012000 +0000" stop="20251124012500 +0000">
 		<title>Weather for the Week Ahead - 24/11/2025</title>
@@ -5761,8 +5761,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251122003000 +0000" stop="20251122010000 +0000">
-		<title>Tech Now - 22/11/2025</title>
-		<desc>The scientists on a quest to improve our predictions of global sea level rise.</desc>
+		<title>Tech Now - Rising Seas: Can Tech Help Us Prepare?</title>
+		<desc>The scientists on a quest to improve our predictions of global sea-level rise.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mj1bld.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251122010000 +0000" stop="20251122013000 +0000">
@@ -5887,7 +5887,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251122154500 +0000" stop="20251122160000 +0000">
 		<title>Newswatch - 22/11/2025</title>
-		<desc>Why have we heard so much about next week’s budget, when we don’t know what’s in it yet?</desc>
+		<desc>Why have we heard so much about next week’s Budget, when we don’t know what’s in it yet?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r0tr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251122160000 +0000" stop="20251122163000 +0000">
@@ -6691,8 +6691,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251126013000 +0000" stop="20251126020000 +0000">
-		<title>Tech Now - 22/11/2025</title>
-		<desc>The scientists on a quest to improve our predictions of global sea level rise.</desc>
+		<title>Tech Now - Rising Seas: Can Tech Help Us Prepare?</title>
+		<desc>The scientists on a quest to improve our predictions of global sea-level rise.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mj1bld.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251126020000 +0000" stop="20251126023000 +0000">
@@ -6770,32 +6770,32 @@
 		<desc>An urgent question on the use of lasers by the Russian ship Yantar, on 20 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhw3kp.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251121100000 +0000" stop="20251121150000 +0000">
+	<programme channel="bbcparliament" start="20251121100000 +0000" stop="20251121150500 +0000">
 		<title>House of Lords - 21/11/2025</title>
 		<desc>Coverage of proceedings in the House of Lords on Friday 21 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251121150000 +0000" stop="20251121155000 +0000">
+	<programme channel="bbcparliament" start="20251121150500 +0000" stop="20251121155500 +0000">
 		<title>House of Lords - China Espionage Statement</title>
 		<desc>Coverage of the statement on China espionage and the government's security response.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhw48w.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251121155000 +0000" stop="20251121165500 +0000">
+	<programme channel="bbcparliament" start="20251121155500 +0000" stop="20251121170000 +0000">
 		<title>House of Commons - Home Office Questions</title>
 		<desc>Coverage of questions to Shabana Mahmood on Monday 17 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mh61xh.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251121165500 +0000" stop="20251121173500 +0000">
+	<programme channel="bbcparliament" start="20251121170000 +0000" stop="20251121173500 +0000">
 		<title>House of Commons - Ukraine Urgent Question</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 20 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhws92.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251121173500 +0000" stop="20251121174500 +0000">
+	<programme channel="bbcparliament" start="20251121173500 +0000" stop="20251121175000 +0000">
 		<title>Ten Minute Rule Bill - Access to Finance for Women in Business</title>
 		<desc>Introduction of a Bill on access to finance for women in business, on Tuesday 18 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251121174500 +0000" stop="20251121180000 +0000">
+	<programme channel="bbcparliament" start="20251121175000 +0000" stop="20251121180000 +0000">
 		<title>House of Lords - Budget Briefings Statement</title>
 		<desc>The statement on press briefings about the contents of the Budget, on Tuesday 18 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhvhk4.jpg" />
@@ -7136,7 +7136,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251125000000 +0000" stop="20251125070000 +0000">
-		<title>House of Lords - 24/11/2025 Part 1</title>
+		<title>House of Lords - 24/11/2025</title>
 		<desc>Business in the House of Lords on Monday 24 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
