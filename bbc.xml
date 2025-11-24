@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251124190000 +0000" stop="20251124193000 +0000">
 		<title>The One Show - 24/11/2025</title>
-		<desc>Alex Jones and Angellica Bell bring you the stories that matter from across the country.</desc>
+		<desc>Alex Jones and Angellica Bell chat to Jason Bateman, Ginnifer Goodwin and Max Whitlock.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251124193000 +0000" stop="20251124200000 +0000">
@@ -755,8 +755,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251124121500 +0000" stop="20251124130000 +0000">
-		<title>Politics Live - 24/11/2025</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - Reducing the Cost of Living</title>
+		<desc>Will Wednesday’s budget address the everyday expenses of food, energy and travel?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251124130000 +0000" stop="20251124134500 +0000">
@@ -1644,42 +1644,42 @@
 		<desc>Teams from Great Yarmouth, King’s Lynn and Glasgow test their picture knowledge.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gptj4j.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251127210000 +0000" stop="20251127221000 +0000">
+	<programme channel="bbcthree" start="20251127210000 +0000" stop="20251127221500 +0000">
 		<title>RuPaul's Drag Race UK - Series 7: Episode 10</title>
 		<desc>It’s the finale! The time has come for RuPaul to crown the UK’s Next Drag Race Superstar!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2yvcr.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251127221000 +0000" stop="20251127234000 +0000">
+	<programme channel="bbcthree" start="20251127221500 +0000" stop="20251127234500 +0000">
 		<title>Australian Survivor - Series 9: Episode 1</title>
 		<desc>Returning contestant Andy takes charge of the Water Tribe.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhjp1v.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251127234000 +0000" stop="20251128005500 +0000">
+	<programme channel="bbcthree" start="20251127234500 +0000" stop="20251128010000 +0000">
 		<title>Australian Survivor - Series 9: Episode 2</title>
 		<desc>Will Shay vote with her trusted alliance member Briana or support the unity of the tribe?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhjp2m.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251128005500 +0000" stop="20251128013000 +0000">
+	<programme channel="bbcthree" start="20251128010000 +0000" stop="20251128013500 +0000">
 		<title>Scam Land: Money, Mayhem and Maseratis - Series 1: 1. Free Cash</title>
 		<desc>Mobeen Azhar investigates rumours of a scam involving a student who handed out cash.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09j00q0.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251128013000 +0000" stop="20251128020000 +0000">
+	<programme channel="bbcthree" start="20251128013500 +0000" stop="20251128020500 +0000">
 		<title>Scam Land: Money, Mayhem and Maseratis - Series 1: 2. Blocked</title>
 		<desc>Mobeen hopes to find answers for the people who believe they were scammed.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09j00ql.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251128020000 +0000" stop="20251128024500 +0000">
-		<title>Confessions of a Teenage Fraudster - Series 1: Episode 2</title>
-		<desc>Fleeing bail and UK borders, Elliot fears that cops around the globe are hunting for him.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j1yhlp.jpg" />
+	<programme channel="bbcthree" start="20251128020500 +0000" stop="20251128023500 +0000">
+		<title>Tommy: The Good. The Bad. The Fury - Series 1: Episode 1</title>
+		<desc>Tommy’s at rock bottom after the worst year of his life, but he’s planning a comeback.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lvwkz6.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251128024500 +0000" stop="20251128035500 +0000">
+	<programme channel="bbcthree" start="20251128023500 +0000" stop="20251128035000 +0000">
 		<title>RuPaul's Drag Race UK - Series 7: Episode 10</title>
 		<desc>It’s the finale! The time has come for RuPaul to crown the UK’s Next Drag Race Superstar!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m2yvcr.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251128035500 +0000" stop="20251128053000 +0000">
+	<programme channel="bbcthree" start="20251128035000 +0000" stop="20251128053000 +0000">
 		<title>This is BBC Three - This is BBC Three</title>
 		<desc>Programmes start at 7.00pm</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvry0j.jpg" />
@@ -5625,12 +5625,7 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251124093000 +0000" stop="20251124100000 +0000">
-		<title>BBC News - 24/11/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251124100000 +0000" stop="20251124103000 +0000">
+	<programme channel="bbcnews" start="20251124093000 +0000" stop="20251124103000 +0000">
 		<title>BBC News - 24/11/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
@@ -6052,7 +6047,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251126013000 +0000" stop="20251126020000 +0000">
 		<title>Tech Now - Rising Seas: Can Tech Help Us Prepare?</title>
-		<desc>The scientists on a quest to improve our predictions of global sea-level rise.</desc>
+		<desc>The scientists on a quest to improve our predictions of global sea level rise.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mj1bld.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251126020000 +0000" stop="20251126023000 +0000">
@@ -6532,7 +6527,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251128013000 +0000" stop="20251128020000 +0000">
 		<title>The Media Show - Ed Sheeran's One-Shot Film</title>
-		<desc>The producer behind Ed Sheeran's new live performance show on how they did it.</desc>
+		<desc>Producer behind Ed Sheeran's new live performance show on how they did it.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251128020000 +0000" stop="20251128023000 +0000">
@@ -7844,7 +7839,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	</programme>
 	<programme channel="s4c" start="20251124190000 +0000" stop="20251124193000 +0000">
 		<title>Heno - Mon, 24 Nov 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Bydd Mari Grug yn y Ffair Aeaf. Cewn ni sgwrs a chan gydag Angharad Jenkins a Huw Warre...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251124193000 +0000" stop="20251124200000 +0000">
@@ -7860,7 +7855,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	<programme channel="s4c" start="20251124202500 +0000" stop="20251124205500 +0000">
 		<title>Tanwen &amp; Ollie - Cyfres 2: Pennod 1</title>
 		<desc>Cyfres newydd. Cawn fynediad arbennig i fywyd y cwpl wrth iddynt ddygymod â'u bywydau f...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k5v0ss.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjfkhv.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251124205500 +0000" stop="20251124210000 +0000">
 		<title>Newyddion S4C - Mon, 24 Nov 2025 20:55</title>
@@ -8060,7 +8055,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	<programme channel="s4c" start="20251125180000 +0000" stop="20251125183000 +0000">
 		<title>Tanwen &amp; Ollie - Cyfres 2: Pennod 1</title>
 		<desc>Cyfres newydd. Cawn fynediad arbennig i fywyd y cwpl wrth iddynt ddygymod â'u bywydau f...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k5v0ss.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjfkhv.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251125183000 +0000" stop="20251125190000 +0000">
 		<title>Sgorio - Cyfres 2025: Pennod 16</title>
@@ -8069,7 +8064,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	</programme>
 	<programme channel="s4c" start="20251125190000 +0000" stop="20251125193000 +0000">
 		<title>Heno - Tue, 25 Nov 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Bydd Eleri Sion yn cadw cwmni i ni yn y stiwdio a byddwn yn dal lan gyda Mhara Starling...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251125193000 +0000" stop="20251125200000 +0000">
@@ -8274,7 +8269,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	</programme>
 	<programme channel="s4c" start="20251126123000 +0000" stop="20251126130000 +0000">
 		<title>Heno - Tue, 25 Nov 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Bydd Eleri Sion yn cadw cwmni i ni yn y stiwdio a byddwn yn dal lan gyda Mhara Starling...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251126130000 +0000" stop="20251126140000 +0000">
@@ -8289,7 +8284,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	</programme>
 	<programme channel="s4c" start="20251126140500 +0000" stop="20251126150000 +0000">
 		<title>Prynhawn Da - Wed, 26 Nov 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Byddwn yn agor y clwb llyfrau gyda Rolant Tomos a bydd Dylan yn son am ddiodydd. Byddwn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251126150000 +0000" stop="20251126150500 +0000">
@@ -8385,7 +8380,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	<programme channel="s4c" start="20251126220000 +0000" stop="20251126223000 +0000">
 		<title>Tanwen &amp; Ollie - Cyfres 2: Pennod 1</title>
 		<desc>Cyfres newydd. Cawn fynediad arbennig i fywyd y cwpl wrth iddynt ddygymod â'u bywydau f...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k5v0ss.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjfkhv.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251126223000 +0000" stop="20251126230000 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2025/26: Arian parod, arian brwnt</title>
@@ -8584,7 +8579,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	</programme>
 	<programme channel="s4c" start="20251127140500 +0000" stop="20251127150000 +0000">
 		<title>Prynhawn Da - Thu, 27 Nov 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mi fydd Helen Humphreys yn y gornel Ffasiwn, byddwn yn agor drysau'r syrjeri gyda Dr Ce...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251127150000 +0000" stop="20251127150500 +0000">
@@ -8654,7 +8649,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	</programme>
 	<programme channel="s4c" start="20251127190000 +0000" stop="20251127193000 +0000">
 		<title>Heno - Thu, 27 Nov 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Gewn ni sgwrs a chan gyda Mei Gwynedd. Byddwn hefyd yn fyw o Lanuwchllyn. We'll have a ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251127193000 +0000" stop="20251127200000 +0000">
@@ -8859,7 +8854,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	</programme>
 	<programme channel="s4c" start="20251128123000 +0000" stop="20251128130000 +0000">
 		<title>Heno - Thu, 27 Nov 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Gewn ni sgwrs a chan gyda Mei Gwynedd. Byddwn hefyd yn fyw o Lanuwchllyn. We'll have a ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251128130000 +0000" stop="20251128133000 +0000">
@@ -8870,7 +8865,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	<programme channel="s4c" start="20251128133000 +0000" stop="20251128140000 +0000">
 		<title>Tanwen &amp; Ollie - Cyfres 2: Pennod 1</title>
 		<desc>Cyfres newydd. Cawn fynediad arbennig i fywyd y cwpl wrth iddynt ddygymod â'u bywydau f...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k5v0ss.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjfkhv.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251128140000 +0000" stop="20251128140500 +0000">
 		<title>Newyddion S4C - Fri, 28 Nov 2025 14:00</title>
@@ -8879,7 +8874,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	</programme>
 	<programme channel="s4c" start="20251128140500 +0000" stop="20251128150000 +0000">
 		<title>Prynhawn Da - Fri, 28 Nov 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Byddwn yn edrych mlaen at y penwythnos gyda'r Clwb Clecs a bydd Nerys yn y gegin. Hefyd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251128150000 +0000" stop="20251128150500 +0000">
@@ -8944,7 +8939,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	</programme>
 	<programme channel="s4c" start="20251128190000 +0000" stop="20251128193000 +0000">
 		<title>Heno - Heno Nos Wener</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Ar Heno nos Wener, byddwn mewn agoriad Ty'n Llan a bydd Mirain yn fyw o Ffrinj Abertawe...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251128193000 +0000" stop="20251128200000 +0000">
@@ -8954,7 +8949,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	</programme>
 	<programme channel="s4c" start="20251128200000 +0000" stop="20251128202500 +0000">
 		<title>Heno - Heno Nos Wener</title>
-		<desc>Description Coming Soon...</desc>
+		<desc>Ar Heno nos Wener, gewn ni sgwrs a chan gydag Elidyr Glyn a Mei Emrys. On Friday's Heno...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251128202500 +0000" stop="20251128205500 +0000">
