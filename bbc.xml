@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251125190000 +0000" stop="20251125193000 +0000">
 		<title>The One Show - 25/11/2025</title>
-		<desc>Alex Jones and Angellica Bell bring you the stories that matter from across the country.</desc>
+		<desc>Alex Jones and Angellica Bell are joined by Sue Perkins and Emma Mackey on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251125193000 +0000" stop="20251125200000 +0000">
@@ -645,7 +645,7 @@
 	<programme channel="bbcone" start="20251129175000 +0000" stop="20251129183500 +0000">
 		<title>Alan Carr's Picture Slam - Series 3: Episode 3</title>
 		<desc>Teams from Bedfordshire, Grimsby and Dunfermline compete in this high-octane picture quiz.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd284n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjp024.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251129183500 +0000" stop="20251129200500 +0000">
 		<title>Strictly Come Dancing - Series 23: Week 10</title>
@@ -655,12 +655,12 @@
 	<programme channel="bbcone" start="20251129200500 +0000" stop="20251129210500 +0000">
 		<title>Michael McIntyre's The Wheel - Series 6: Episode 6</title>
 		<desc>The celebrity experts include Rachel Riley, Ellie Simmonds and Richard Madeley.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r6x0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjp0yk.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251129210500 +0000" stop="20251129220500 +0000">
 		<title>Wild Cherry - Series 1: 4. This Town Is Turning Me Crazy</title>
 		<desc>Allegra panics as Grace is expelled, and a showdown at Gigi's wild party ends in tragedy.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf3sjw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjp14m.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251129220500 +0000" stop="20251129222000 +0000">
 		<title>BBC Weekend News - Late News: 29/11/2025</title>
@@ -1364,7 +1364,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251125195800 +0000" stop="20251125200000 +0000">
 		<title>The Catch Up - 25/11/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Callum Tulley.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251125200000 +0000" stop="20251125210000 +0000">
@@ -6574,12 +6574,12 @@
 		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251125055000 +0000" stop="20251125062000 +0000">
+	<programme channel="bbcparliament" start="20251125055000 +0000" stop="20251125061000 +0000">
 		<title>House of Lords - ExxonMobil Mossmorran Statement</title>
 		<desc>The statement by business minister Baroness Lloyd of Effra on ExxonMobil Mossmorran.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251125062000 +0000" stop="20251125070000 +0000">
+	<programme channel="bbcparliament" start="20251125061000 +0000" stop="20251125070000 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Coverage of questions in Stormont to ministers in the Northern Ireland executive.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
@@ -6587,7 +6587,7 @@
 	<programme channel="bbcparliament" start="20251125070000 +0000" stop="20251125081000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Steve Reed on Monday 24 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjnzgm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251125081000 +0000" stop="20251125094500 +0000">
 		<title>Select Committees - Treasury Committee on Cryptocurrency</title>
@@ -6609,7 +6609,17 @@
 		<desc>Coverage of questions to Wes Streeting on Tuesday 25 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251125123000 +0000" stop="20251125193000 +0000">
+	<programme channel="bbcparliament" start="20251125123000 +0000" stop="20251125133000 +0000">
+		<title>House of Commons - G20 and Ukraine Statement</title>
+		<desc>Statement on the G20 summit and the approach to current peace talks on the Ukraine war.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251125133000 +0000" stop="20251125141500 +0000">
+		<title>House of Commons - COP30 Statement</title>
+		<desc>The government statement on the recent COP30 climate change summit in Brazil.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251125141500 +0000" stop="20251125193000 +0000">
 		<title>House of Commons - 25/11/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 25 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6877,7 +6887,7 @@
 	<programme channel="bbcparliament" start="20251130023000 +0000" stop="20251130033000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Steve Reed on Monday 24 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjnzgm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251130033000 +0000" stop="20251130043000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
@@ -7568,7 +7578,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fdtf34.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251125100000 +0000" stop="20251125120000 +0000">
-		<title>Y Ffair Aeaf - Cyfres 2025: Y Ffair Aeaf 2025</title>
+		<title>Y Ffair Aeaf - Cyfres 2025: Bore Mawrth o'r Ffair</title>
 		<desc>Nia Roberts a'r tîm sy'n dod a chyffro a chystadlu brwd y bore o'r Ffair Aeaf yn Llanel...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhbgf3.jpg" />
 	</programme>
@@ -7578,7 +7588,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251125120500 +0000" stop="20251125140000 +0000">
-		<title>Y Ffair Aeaf - Cyfres 2025: Y Ffair Aeaf 2025</title>
+		<title>Y Ffair Aeaf - Cyfres 2025: Dros Ginio Mawrth o'r Ffair</title>
 		<desc>Ymunwch â Nia Roberts a'r tîm ar gyfer pinacl cystadlu'r Ffair Aeaf. Pwy fydd yn cipio'...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhbgf3.jpg" />
 	</programme>
@@ -7588,7 +7598,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251125140500 +0000" stop="20251125160000 +0000">
-		<title>Y Ffair Aeaf - Cyfres 2025: Y Ffair Aeaf 2025</title>
+		<title>Y Ffair Aeaf - Cyfres 2025: Prynhawn Mawrth o'r Ffair</title>
 		<desc>Mae Nia Roberts a'r tîm yn dod â holl gyffro arwerthiant mawr y gwartheg yn fyw o Lanel...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhbgf3.jpg" />
 	</programme>
@@ -7643,7 +7653,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjfkhv.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251125183000 +0000" stop="20251125190000 +0000">
-		<title>Sgorio - Cyfres 2025: Pennod 16</title>
+		<title>Sgorio - Tymor 2025/26: Pennod 16</title>
 		<desc>Uchafbwyntiau o drydedd rownd Cwpan Cymru JD, yn cynnwys Caerfyrddin v Bae Colwyn, Camb...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwhdzq.jpg" />
 	</programme>
@@ -7673,7 +7683,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251125210000 +0000" stop="20251125220000 +0000">
-		<title>Y Ffair Aeaf - Cyfres 2025: Y Ffair Aeaf 2025</title>
+		<title>Y Ffair Aeaf - Cyfres 2025: Uchafbwyntiau Dydd Mawrth</title>
 		<desc>Ymunwch â Ifan Jones Evans a Mari Lovgreen o'r Ffair Aeaf ar gyfer uchafbwyntiau'r prif...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhbgf3.jpg" />
 	</programme>
@@ -8259,7 +8269,7 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	</programme>
 	<programme channel="s4c" start="20251127210000 +0000" stop="20251127220000 +0000">
 		<title>Jonathan - Cyfres 2025: Thu, 27 Nov 2025</title>
-		<desc>Sgwrsio, rygbi a hiwmor gyda Jonathan, Nigel,Sarra a Lloyd, ac mae cyn-gapten Cymru, Al...</desc>
+		<desc>Sgwrsio, rygbi a hiwmor gyda Jonathan, Nigel, Sarra a Lloyd, ac mae cyn-gapten Cymru, A...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g9lvyn.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251127220000 +0000" stop="20251127230000 +0000">
@@ -8559,12 +8569,12 @@ Blasad de chultar a’ bhidhe ann am Bornholm.</desc>
 	</programme>
 	<programme channel="s4c" start="20251128220000 +0000" stop="20251128223000 +0000">
 		<title>Pêl-droed Rhyngwladol - Cymru v Gweriniaeth Corea</title>
-		<desc>Gêm gyfeillgar menywod Cymru. Friendly game - Wales women's football team.</desc>
+		<desc>Uchafbwyntiau gêm gyfeillgar ryngwladol rhwng tîm pêl-droed menywod Cymru a Gweriniaeth...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9v196.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251128223000 +0000" stop="20251128233500 +0000">
 		<title>Jonathan - Cyfres 2025: Thu, 27 Nov 2025</title>
-		<desc>Sgwrsio, rygbi a hiwmor gyda Jonathan, Nigel,Sarra a Lloyd, ac mae cyn-gapten Cymru, Al...</desc>
+		<desc>Sgwrsio, rygbi a hiwmor gyda Jonathan, Nigel, Sarra a Lloyd, ac mae cyn-gapten Cymru, A...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g9lvyn.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251128233500 +0000" stop="20251129004000 +0000">
