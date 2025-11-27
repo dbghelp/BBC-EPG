@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251127190000 +0000" stop="20251127193000 +0000">
 		<title>The One Show - 27/11/2025</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>With guests comedian Maisie Adam and actors Russell Tovey and Gugu Mbatha-Raw.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251127193000 +0000" stop="20251127200000 +0000">
@@ -1766,45 +1766,40 @@
 		<desc>Bjork and Jack Dee introduce the biggest-selling songs of 1995.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjzc46.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251128220500 +0000" stop="20251128230000 +0000">
+	<programme channel="bbcfour" start="20251128220500 +0000" stop="20251128233500 +0000">
 		<title>Country Music Association Awards - 2025</title>
 		<desc>Highlights of the 59th CMA Awards show from Bridgestone Arena, Nashville.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mg5l3m.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251128230000 +0000" stop="20251129000000 +0000">
+	<programme channel="bbcfour" start="20251128233500 +0000" stop="20251129003500 +0000">
 		<title>BBC Four Sessions - Bonnie Raitt</title>
 		<desc>Bonnie Raitt and her band perform songs including Love Has No Pride and Nick of Time.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03vblrw.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251129000000 +0000" stop="20251129004000 +0000">
+	<programme channel="bbcfour" start="20251129003500 +0000" stop="20251129011500 +0000">
 		<title>The Old Grey Whistle Test - Bonnie Raitt in Concert</title>
 		<desc>Bonnie Raitt in a special performance for the Old Grey Whistle Test from 1976.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0byf0k5.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251129004000 +0000" stop="20251129014000 +0000">
+	<programme channel="bbcfour" start="20251129011500 +0000" stop="20251129021500 +0000">
 		<title>Top of the Pops - Christmas Special 1995</title>
 		<desc>Bjork and Jack Dee introduce the biggest-selling songs of 1995.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjzc46.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251129014000 +0000" stop="20251129021000 +0000">
+	<programme channel="bbcfour" start="20251129021500 +0000" stop="20251129024500 +0000">
 		<title>Top of the Pops - 30/10/1998</title>
 		<desc>With Culture Club, The Beautiful South, Lynden David Hall, The Cardigans and Cher.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhnkz7.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251129021000 +0000" stop="20251129024000 +0000">
+	<programme channel="bbcfour" start="20251129024500 +0000" stop="20251129031500 +0000">
 		<title>Top of the Pops - 06/11/1998</title>
 		<desc>With Alanis Morissette, Billie Piper, Touch &amp; Go, Pras, Another Level, M People and Cher.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhnc7n.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251129024000 +0000" stop="20251129031000 +0000">
+	<programme channel="bbcfour" start="20251129031500 +0000" stop="20251129034500 +0000">
 		<title>Top of the Pops - 24/11/1977</title>
 		<desc>With Bonnie Tyler, Hot Chocolate, Darts, Leo Sayer, Abba, Wings and The Bee Gees.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhn9fs.jpg" />
-	</programme>
-	<programme channel="bbcfour" start="20251129031000 +0000" stop="20251129034500 +0000">
-		<title>Top of the Pops - 22/11/1984</title>
-		<desc>With Nick Heyward, The Human League, Billy Ocean, Murray Head and Chaka Khan.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhn8m1.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20251129034500 +0000" stop="20251129053000 +0000">
 		<title>This is BBC Four - This is BBC Four</title>
@@ -2249,9 +2244,10 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j9qbgw.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20251128081000 +0000" stop="20251128082500 +0000">
-		<title>SpongeBob SquarePants - Series 11: Don't Feed the Clowns</title>
-		<desc>A small clown gets left behind by the circus.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lxnbvn.jpg" />
+		<title>SpongeBob SquarePants - Series 11: Spot Returns</title>
+		<desc>Plankton's pet amoeba Spot has puppies.
+</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lxnb4g.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20251128082500 +0000" stop="20251128084000 +0000">
 		<title>Odd Squad - Series 1: 9. My Better Half</title>
@@ -2774,9 +2770,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jzdh6k.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20251130145500 +0000" stop="20251130150500 +0000">
-		<title>Total Dramarama - Series 1: 23. All Up in Your Drill</title>
-		<desc>Duncan stages a small coup to oust Courtney as their new official class fire officer.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fn0cmf.jpg" />
+		<title>Total Dramarama - Series 1: 3. The Date</title>
+		<desc>The kids invent an admirer for Chef, hoping to make him happy enough to order them pizza.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fn0bxf.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20251130150500 +0000" stop="20251130151500 +0000">
 		<title>Total Dramarama - Series 1: 24. Toys Will Be Toys</title>
@@ -3841,9 +3837,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tcmp2.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251128185000 +0000" stop="20251128185800 +0000">
-		<title>CBeebies Bedtime Stories - F-J: Geri Halliwell Horner - Rock 'n' Roll Soul</title>
-		<desc>Rock out with Geri Halliwell-Horner in today's Bedtime Story.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gy5xrf.jpg" />
+		<title>CBeebies Bedtime Stories - New and Trending: 28/11/2025</title>
+		<desc>A different story read each night just before bedtime.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251128185800 +0000" stop="20251129053000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -4110,12 +4106,12 @@
 		<desc>Swoppiton Bridge is falling down - can Mojo and Bo help Nori fix it in time?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0llm50s.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129154500 +0000" stop="20251129155500 +0000">
+	<programme channel="cbeebies" start="20251129154500 +0000" stop="20251129155000 +0000">
 		<title>Stan Can - Series 1: 1. Museum</title>
 		<desc>Stan gives the children a tour of the museum, which inspires them to make an exhibition.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lf6mnz.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129155500 +0000" stop="20251129160000 +0000">
+	<programme channel="cbeebies" start="20251129155000 +0000" stop="20251129160000 +0000">
 		<title>Supertato - Series 4: 1. Young Veggies: Part 1</title>
 		<desc>Evil Pea tells the story of how she and Supertato first met as young veggies.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m56w6k.jpg" />
@@ -4136,69 +4132,69 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03n6lsp.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251129163500 +0000" stop="20251129164000 +0000">
-		<title>Love Monster - Series 1: 17. Favourite Library Book Day</title>
-		<desc>Love Monster and Tiniest Fluffiest Bunny try to find Love Monster's favourite book.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p088km12.jpg" />
+		<title>Hey Duggee - Top of the Pups: The Transport Song</title>
+		<desc>Take a trip with Tino the Artistic Mouse high in the sky or on the ocean.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f82gqt.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129164000 +0000" stop="20251129165500 +0000">
+	<programme channel="cbeebies" start="20251129164000 +0000" stop="20251129165000 +0000">
 		<title>Vida the Vet - Series 1: 20. Fergie’s Wobbly Wheel</title>
 		<desc>When Fergie breaks her wheelchair doing an awesome trick, Vida gets her a new one.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hdd4zp.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129165500 +0000" stop="20251129170000 +0000">
+	<programme channel="cbeebies" start="20251129165000 +0000" stop="20251129165500 +0000">
 		<title>Big Lizard - Series 1: 27. The Day Ammon Overcame Her Fear</title>
 		<desc>Ammon overcomes her fear to rescue Cosima and Big Lizard from the rapids.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kjzs6m.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129170000 +0000" stop="20251129171000 +0000">
+	<programme channel="cbeebies" start="20251129165500 +0000" stop="20251129170500 +0000">
 		<title>Bluey - Series 2: 43. Duck Cake</title>
 		<desc>Bluey wants to help Dad make Bingo's birthday cake, but first she must put away her toys.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dxdc1j.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129171000 +0000" stop="20251129172000 +0000">
+	<programme channel="cbeebies" start="20251129170500 +0000" stop="20251129171500 +0000">
 		<title>Nikhil &amp; Jay - Series 1: 51. Nikhil and Jay and the Wonky Welly</title>
 		<desc>Nikhil, Jay and the family have a welly wanging competition at the allotment.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lz1g81.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129172000 +0000" stop="20251129173000 +0000">
+	<programme channel="cbeebies" start="20251129171500 +0000" stop="20251129173000 +0000">
 		<title>JoJo &amp; Gran Gran - Series 1 - Autumn: 8. It's Time to Visit the Dentist</title>
 		<desc>JoJo has a check-up at the dentist and is hoping to earn a special sticker.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08vxxmj.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129173000 +0000" stop="20251129174000 +0000">
+	<programme channel="cbeebies" start="20251129173000 +0000" stop="20251129173500 +0000">
 		<title>Puffin Rock - Series 3: 3. Rise and Shine</title>
 		<desc>Oona takes Isabelle on a midnight journey to see the amazing phytoplankton sea lights!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1kcz6.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129174000 +0000" stop="20251129175000 +0000">
+	<programme channel="cbeebies" start="20251129173500 +0000" stop="20251129174500 +0000">
 		<title>Sarah &amp; Duck - Series 3: 32. Comet's Coming</title>
 		<desc>Sarah and Duck are excited to visit the observatory to see a passing comet.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05m6kpr.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129175000 +0000" stop="20251129180000 +0000">
+	<programme channel="cbeebies" start="20251129174500 +0000" stop="20251129175500 +0000">
 		<title>Charlie and Lola - Series 2: 22. I Wish I Could Draw Exactly More Like You</title>
 		<desc>Everybody in the school has to make a picture of their house for open day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02m6gr4.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129180000 +0000" stop="20251129181000 +0000">
+	<programme channel="cbeebies" start="20251129175500 +0000" stop="20251129181000 +0000">
 		<title>Clangers - Series 2: 4. Snow Business</title>
 		<desc>The cloud goes on holiday in space, but returns freezing cold and snowing, not raining.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05f9tmm.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129181000 +0000" stop="20251129182500 +0000">
+	<programme channel="cbeebies" start="20251129181000 +0000" stop="20251129182000 +0000">
 		<title>BeddyByes - Series 1: 35. MeMo's Messy Painting</title>
 		<desc>MeMo is frustrated with a messy painting. BaBa and friends help MeMo see its beauty.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mgmr1s.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20251129182500 +0000" stop="20251129185000 +0000">
+	<programme channel="cbeebies" start="20251129182000 +0000" stop="20251129185000 +0000">
 		<title>In the Night Garden - Series 1: 10. Too Loud Tombliboos! Nice and Quiet</title>
 		<desc>The Tombliboos are practising their music so loudly it can be heard across the garden.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tcn3y.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251129185000 +0000" stop="20251129185800 +0000">
-		<title>CBeebies Bedtime Stories - P-T: Joe Talbot - Under the Love Umbrella</title>
-		<desc>Musician Joe Talbot reads a Bedtime Story celebrating love.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hcyjx5.jpg" />
+		<title>CBeebies Bedtime Stories - New and Trending: 29/11/2025</title>
+		<desc>A different story read each night just before bedtime.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251129185800 +0000" stop="20251130053000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -5291,9 +5287,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251127093000 +0000" stop="20251127100000 +0000">
-		<title>BBC News - 27/11/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+		<title>Nicky Campbell - 27/11/2025</title>
+		<desc>Nicky Campbell takes your calls on the day's talking points.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ff8nw5.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251127100000 +0000" stop="20251127103000 +0000">
 		<title>BBC News - 27/11/2025</title>
@@ -5691,8 +5687,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251128233000 +0000" stop="20251129000000 +0000">
-		<title>The President's Path - 28/11/2025</title>
-		<desc>A weekly discussion on the US presidency.</desc>
+		<title>The President's Path - Trump v California</title>
+		<desc>A special look at Trump v California.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251129000000 +0000" stop="20251129003000 +0000">
@@ -5731,8 +5727,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251129033000 +0000" stop="20251129040000 +0000">
-		<title>The Media Show - 29/11/2025</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - Another Day, Another BBC Editing Row?</title>
+		<desc>A disputed Reith Lectures cut adds to questions over BBC governance.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251129040000 +0000" stop="20251129043000 +0000">
@@ -5981,8 +5977,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251130113000 +0000" stop="20251130120000 +0000">
-		<title>The President's Path - 28/11/2025</title>
-		<desc>A weekly discussion on the US presidency.</desc>
+		<title>The President's Path - Trump v California</title>
+		<desc>A special look at Trump v California.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251130120000 +0000" stop="20251130123000 +0000">
@@ -6101,8 +6097,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251201003000 +0000" stop="20251201010000 +0000">
-		<title>The Media Show - 29/11/2025</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - Another Day, Another BBC Editing Row?</title>
+		<desc>A disputed Reith Lectures cut adds to questions over BBC governance.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251201010000 +0000" stop="20251201013000 +0000">
@@ -6460,12 +6456,17 @@
 		<desc>Coverage of Commissioners Questions in the House of Commons, on Thursday 27 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251127103000 +0000" stop="20251127113000 +0000">
+	<programme channel="bbcparliament" start="20251127103000 +0000" stop="20251127111000 +0000">
+		<title>House of Commons - Trial by Jury Urgent Question</title>
+		<desc>An urgent question on government plans to reform the legal system, on 27 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251127111000 +0000" stop="20251127123000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 27 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251127113000 +0000" stop="20251127173000 +0000">
+	<programme channel="bbcparliament" start="20251127123000 +0000" stop="20251127173000 +0000">
 		<title>House of Commons - Budget Debate</title>
 		<desc>Coverage of day two of the budget debate in the House of Commons, on Thursday 27 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6480,27 +6481,42 @@
 		<desc>Questions in the House of Lords to government ministers on Thursday 27 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251127190000 +0000" stop="20251128011500 +0000">
-		<title>House of Lords - 27/11/2025</title>
-		<desc>Business in the House of Lords on Thursday 27 November.</desc>
+	<programme channel="bbcparliament" start="20251127190000 +0000" stop="20251127210000 +0000">
+		<title>House of Lords - Crime and Policing Bill, Part 1</title>
+		<desc>Coverage of the fourth day of debate in the House of Lords on the Crime and Policing Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251128011500 +0000" stop="20251128015500 +0000">
+	<programme channel="bbcparliament" start="20251127210000 +0000" stop="20251127230000 +0000">
+		<title>House of Lords - Crime and Policing Bill, Part 2</title>
+		<desc>Coverage of the fourth day of debate in the House of Lords on the Crime and Policing Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251127230000 +0000" stop="20251128010000 +0000">
+		<title>House of Lords - Crime and Policing Bill, Part 3</title>
+		<desc>Coverage of the fourth day of debate in the House of Lords on the Crime and Policing Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251128010000 +0000" stop="20251128020000 +0000">
+		<title>House of Lords - Sudan Debate</title>
+		<desc>Coverage of the debate on the humanitarian situation in Sudan, on Thursday 27 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251128020000 +0000" stop="20251128024000 +0000">
 		<title>House of Commons - Culture, Media and Sport Questions</title>
 		<desc>Coverage of questions to Lisa Nandy on Thursday 27 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251128015500 +0000" stop="20251128021500 +0000">
+	<programme channel="bbcparliament" start="20251128024000 +0000" stop="20251128030000 +0000">
 		<title>House of Commons - Commissioners Questions</title>
 		<desc>Coverage of Commissioners Questions in the House of Commons, on Thursday 27 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251128021500 +0000" stop="20251128031500 +0000">
+	<programme channel="bbcparliament" start="20251128030000 +0000" stop="20251128041500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 27 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251128031500 +0000" stop="20251128060000 +0000">
+	<programme channel="bbcparliament" start="20251128041500 +0000" stop="20251128060000 +0000">
 		<title>House of Commons - 27/11/2025</title>
 		<desc>Highlights of proceedings in the House of Commons from Thursday 27 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7584,9 +7600,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khx0y5.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251127123000 +0000" stop="20251127130000 +0000">
-		<title>Heno - Wed, 26 Nov 2025</title>
-		<desc>Heno, mi fyddwn ni'n cwrdd â Mhara Starling. Hefyd, bydd Hana yn dysgu mwy am 'Deka' a ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
+		<title>Heno Aur - Cyfres 1: Pennod 9</title>
+		<desc>Y tro hwn, mae Angharad Mair a Siân Thomas yma i chwerthin a rhyfeddu ar rai o straeon ...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08p59s3.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251127130000 +0000" stop="20251127133000 +0000">
 		<title>Colleen Ramsey: Bywyd a Bwyd - Cyfres 3: Hyder i Coginio</title>
@@ -7605,7 +7621,7 @@
 	</programme>
 	<programme channel="s4c" start="20251127140500 +0000" stop="20251127150000 +0000">
 		<title>Prynhawn Da - Thu, 27 Nov 2025</title>
-		<desc>Mi fydd Helen Humphreys yn y gornel Ffasiwn, byddwn yn agor drysau'r syrjeri gyda Dr Ce...</desc>
+		<desc>Bydd Helen Humphreys yn y gornel ffasiwn, a byddwn yn agor drysau'r syrjeri gyda Dr Cel...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251127150000 +0000" stop="20251127150500 +0000">
