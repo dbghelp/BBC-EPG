@@ -752,7 +752,7 @@
 	<programme channel="bbctwo" start="20251201130000 +0000" stop="20251201171500 +0000">
 		<title>Snooker: UK Championship - 2025: Day 3, Afternoon</title>
 		<desc>Live coverage from day 3 of the 2025 UK Snooker Championship.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mktq3j.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mkx4j8.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251201171500 +0000" stop="20251201180000 +0000">
 		<title>Flog It! - Series 14: 20. Bowes Museum</title>
@@ -862,7 +862,7 @@
 	<programme channel="bbctwo" start="20251202130000 +0000" stop="20251202171500 +0000">
 		<title>Snooker: UK Championship - 2025: Day 4, Afternoon</title>
 		<desc>Live coverage from day 4 of the 2025 UK Snooker Championship.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mkghdy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mkx2mm.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251202171500 +0000" stop="20251202180000 +0000">
 		<title>Flog It! - Series 14: 21. Basingstoke 1</title>
@@ -1639,35 +1639,30 @@
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251201190000 +0000" stop="20251201220000 +0000">
+	<programme channel="bbcfour" start="20251201190000 +0000" stop="20251201230000 +0000">
 		<title>Snooker: UK Championship - 2025: Day 3, Evening</title>
 		<desc>Live coverage from day 3 of the 2025 UK Snooker Championship.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mkwnnw.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251201220000 +0000" stop="20251201233000 +0000">
+	<programme channel="bbcfour" start="20251201230000 +0000" stop="20251202003000 +0000">
 		<title>Saving Venice</title>
 		<desc>The radical engineering and knowledge from the past that Venetians hope will save Venice.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fmyz01.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251201233000 +0000" stop="20251202003000 +0000">
+	<programme channel="bbcfour" start="20251202003000 +0000" stop="20251202013000 +0000">
 		<title>Ian Rankin's Hidden Edinburgh</title>
 		<desc>Crime writer Ian Rankin revisits the key locations from his Inspector Rebus books.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hy3ly6.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251202003000 +0000" stop="20251202013000 +0000">
+	<programme channel="bbcfour" start="20251202013000 +0000" stop="20251202023000 +0000">
 		<title>Wainwright: The Man Who Loved the Lakes</title>
 		<desc>Documentary recalling the life of eccentric Lancastrian Alfred Wainwright.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhlkq3.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251202013000 +0000" stop="20251202030000 +0000">
+	<programme channel="bbcfour" start="20251202023000 +0000" stop="20251202035500 +0000">
 		<title>Saving Venice</title>
 		<desc>The radical engineering and knowledge from the past that Venetians hope will save Venice.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fmyz01.jpg" />
-	</programme>
-	<programme channel="bbcfour" start="20251202030000 +0000" stop="20251202035500 +0000">
-		<title>Ian Rankin's Hidden Edinburgh</title>
-		<desc>Crime writer Ian Rankin revisits the key locations from his Inspector Rebus books.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hy3ly6.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20251202035500 +0000" stop="20251202053000 +0000">
 		<title>This is BBC Four - This is BBC Four</title>
@@ -6740,9 +6735,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mkwgm2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251202080000 +0000" stop="20251202100000 +0000">
-		<title>House of Commons - 01/12/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 1 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<title>House of Commons - Budget 2025 Statement</title>
+		<desc>The Budget statement by chancellor of the exchequer Rachel Reeves, followed by responses.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mktbs9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251202100000 +0000" stop="20251202113000 +0000">
 		<title>Select Committees - Treasury Committee on the Budget</title>
