@@ -292,7 +292,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251204224000 +0000" stop="20251204234000 +0000">
 		<title>Question Time - 2025: 04/12/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce hosts a special edition of Question Time from Dover, focusing on immigration.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251204234000 +0000" stop="20251205001000 +0000">
@@ -657,7 +657,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251207194500 +0000" stop="20251207203000 +0000">
 		<title>Strictly Come Dancing - Series 23: Week 11 Results</title>
-		<desc>It’s act 2 of our musicals weekend, and a place in this year’s semi-final is up for grabs.</desc>
+		<desc>It’s act 2 of the musicals weekend, and a place in this year’s semi-final is up for grabs.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m6zwgj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251207203000 +0000" stop="20251207211500 +0000">
@@ -759,7 +759,7 @@
 	<programme channel="bbctwo" start="20251203190000 +0000" stop="20251203210000 +0000">
 		<title>Snooker: UK Championship - 2025: Day 5, Evening, Part 1</title>
 		<desc>Live coverage from day 5 of the 2025 UK Snooker Championship.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mkghdy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mldl2y.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251203210000 +0000" stop="20251203223000 +0000">
 		<title>Prisoner 951: The Hostages' Story</title>
@@ -1223,7 +1223,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20251208010500 +0000" stop="20251208020500 +0000">
 		<title>Question Time - 2025: 04/12/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce hosts a special edition of Question Time from Dover, focusing on immigration.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251208020500 +0000" stop="20251208030500 +0000">
@@ -1689,7 +1689,7 @@
 	<programme channel="bbcfour" start="20251203210000 +0000" stop="20251203220000 +0000">
 		<title>Snooker: UK Championship - 2025: Day 5, Evening, Part 2</title>
 		<desc>Live coverage from day 5 of the 2025 UK Snooker Championship.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mkghdy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mldl2y.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20251203220000 +0000" stop="20251203225500 +0000">
 		<title>The Tenant of Wildfell Hall - Episode 1</title>
@@ -5115,7 +5115,7 @@
 	<programme channel="bbcscotland" start="20251207203000 +0000" stop="20251207210000 +0000">
 		<title>The Entertainment Mix  - Series 2: Episode 7</title>
 		<desc>Rab C. Nesbitt star Gregor Fisher chats about his new live show.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k27693.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mlbqtj.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251207210000 +0000" stop="20251207223000 +0000">
 		<title>Nae Pasaran</title>
@@ -5554,7 +5554,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251204210000 +0000" stop="20251204220000 +0000">
 		<title>Question Time - 2025: 04/12/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce hosts a special edition of Question Time from Dover, focusing on immigration.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251204220000 +0000" stop="20251204223000 +0000">
@@ -6345,7 +6345,7 @@
 	<programme channel="bbcparliament" start="20251203123500 +0000" stop="20251203132000 +0000">
 		<title>House of Commons - Resignation of the Chair of the OBR Urgent Question</title>
 		<desc>Urgent question on the resignation of the chair of the Office for Budget Responsibility.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mldz58.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251203132000 +0000" stop="20251203140500 +0000">
 		<title>House of Commons - Espionage Cases and the Official Secrets Act Urgent Question</title>
@@ -6377,25 +6377,50 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 3 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251203232000 +0000" stop="20251204070000 +0000">
-		<title>House of Lords - 03/12/2025</title>
-		<desc>Business in the House of Lords on Wednesday 3 December.</desc>
+	<programme channel="bbcparliament" start="20251203232000 +0000" stop="20251204012000 +0000">
+		<title>House of Lords - Sentencing Bill, Part 1</title>
+		<desc>The third day of the committee stage of the Sentencing Bill, on Wednesday 3 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251204070000 +0000" stop="20251204073000 +0000">
+	<programme channel="bbcparliament" start="20251204012000 +0000" stop="20251204032000 +0000">
+		<title>House of Lords - Sentencing Bill, Part 2</title>
+		<desc>The third day of the committee stage of the Sentencing Bill, on Wednesday 3 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251204032000 +0000" stop="20251204052000 +0000">
+		<title>House of Lords - Sentencing Bill, Part 3</title>
+		<desc>The third day of the committee stage of the Sentencing Bill, on Wednesday 3 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251204052000 +0000" stop="20251204062500 +0000">
+		<title>House of Lords - Sentencing Bill, Part 4</title>
+		<desc>The third day of the committee stage of the Sentencing Bill, on Wednesday 3 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251204062500 +0000" stop="20251204070500 +0000">
+		<title>House of Lords - COP30 Statement</title>
+		<desc>The statement on the COP30 climate change summit in Brazil, on Wednesday 3 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251204070500 +0000" stop="20251204073000 +0000">
 		<title>House of Commons - Wales Office Questions</title>
 		<desc>Coverage of questions to Jo Stevens on Wednesday 3 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251204073000 +0000" stop="20251204080500 +0000">
+	<programme channel="bbcparliament" start="20251204073000 +0000" stop="20251204081000 +0000">
 		<title>Prime Minister's Questions - 03/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 3 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml8kz4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251204080500 +0000" stop="20251204093000 +0000">
-		<title>House of Commons - 03/12/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 3 December.</desc>
+	<programme channel="bbcparliament" start="20251204081000 +0000" stop="20251204084500 +0000">
+		<title>House of Commons - Resignation of the Chair of the OBR Urgent Question</title>
+		<desc>Urgent question on the resignation of the chair of the Office for Budget Responsibility.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251204084500 +0000" stop="20251204093000 +0000">
+		<title>House of Commons - Police Culture Inquiry Report Statement</title>
+		<desc>Statement on the inquiry into the murder of Sarah Everard and the crimes of David Carrick.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml3x6b.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251204093000 +0000" stop="20251204103000 +0000">
 		<title>House of Commons - Cabinet Office Questions</title>
