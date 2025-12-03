@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251203190000 +0000" stop="20251203193000 +0000">
 		<title>The One Show - 03/12/2025</title>
-		<desc>Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+		<desc>Jamie Oliver, Paul Bettany and Will Sharpe join Alex Jones and Clara Amfo.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251203193000 +0000" stop="20251203200000 +0000">
@@ -160,7 +160,7 @@
 	<programme channel="bbcone" start="20251203224000 +0000" stop="20251204001500 +0000">
 		<title>Match of the Day - 2025/26: 03/12/2025</title>
 		<desc>Highlights from nine Premier League matches across a busy midweek schedule.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lzslmf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml7s9c.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251204001500 +0000" stop="20251204010000 +0000">
 		<title>Alan Carr's Picture Slam - Series 3: Episode 3</title>
@@ -547,7 +547,7 @@
 	<programme channel="bbcone" start="20251206234500 +0000" stop="20251207000000 +0000">
 		<title>The Football Interview - Series 1: Mauricio Pochettino</title>
 		<desc>Kelly Somers in conversation with Mauricio Pochettino.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lx5bxw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml8yrf.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251207000000 +0000" stop="20251207003000 +0000">
 		<title>Tommy: The Good. The Bad. The Fury - Series 1: Episode 7</title>
@@ -732,9 +732,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251203111500 +0000" stop="20251203130000 +0000">
-		<title>Politics Live - 03/12/2025</title>
-		<desc>The big political issues of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
+		<title>Politics Live - Prime Minister's Questions</title>
+		<desc>The doctors' strike. Why is nuclear so expensive to develop in the UK?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml8b7z.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251203130000 +0000" stop="20251203171500 +0000">
 		<title>Snooker: UK Championship - 2025: Day 5, Afternoon</title>
@@ -1366,27 +1366,32 @@
 		<desc>Unmasking the Somerset high-flyer who conned his school friends and hundreds more.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mglzv5.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251205000500 +0000" stop="20251205012500 +0000">
+	<programme channel="bbcthree" start="20251205000500 +0000" stop="20251205011500 +0000">
 		<title>Australian Survivor - Series 9: Episode 9</title>
 		<desc>Sometimes old alliances don’t last, especially when Blood is involved.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhjp8r.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251205012500 +0000" stop="20251205030500 +0000">
+	<programme channel="bbcthree" start="20251205011500 +0000" stop="20251205023500 +0000">
 		<title>Australian Survivor - Series 9: Episode 10</title>
 		<desc>When the Kid becomes the game player, will his tribe follow the plan?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhjp8w.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251205030500 +0000" stop="20251205032500 +0000">
+	<programme channel="bbcthree" start="20251205023500 +0000" stop="20251205030500 +0000">
+		<title>Tommy: The Good. The Bad. The Fury - Series 1: Episode 7</title>
+		<desc>Injured and uncertain, Tommy trains in Marbella - will he be able to fight again?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mk73v4.jpg" />
+	</programme>
+	<programme channel="bbcthree" start="20251205030500 +0000" stop="20251205033000 +0000">
 		<title>My Mate's a Bad Date - Series 1: 3. Dami</title>
 		<desc>Can Londoner Dami ditch the interrogation and rudeness, and last an entire date?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07vkqpz.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251205032500 +0000" stop="20251205035500 +0000">
+	<programme channel="bbcthree" start="20251205033000 +0000" stop="20251205040000 +0000">
 		<title>Tommy: The Good. The Bad. The Fury - Series 1: Episode 8</title>
 		<desc>With his hand healed, Tommy’s back training, but John has had a health scare.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mk760r.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251205035500 +0000" stop="20251205053000 +0000">
+	<programme channel="bbcthree" start="20251205040000 +0000" stop="20251205053000 +0000">
 		<title>This is BBC Three - This is BBC Three</title>
 		<desc>Programmes start at 7.00pm</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvry0j.jpg" />
@@ -2821,7 +2826,7 @@
 	<programme channel="cbbc" start="20251206141000 +0000" stop="20251206144000 +0000">
 		<title>Zog</title>
 		<desc>The story of a keen young dragon in his first years at Dragon School.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07jgzp5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml8rgn.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20251206144000 +0000" stop="20251206150500 +0000">
 		<title>The Snail and the Whale</title>
@@ -4123,7 +4128,7 @@
 	<programme channel="cbeebies" start="20251205170500 +0000" stop="20251205173000 +0000">
 		<title>Zog</title>
 		<desc>The story of a keen young dragon in his first years at Dragon School.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07jgzp5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml8rgn.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251205173000 +0000" stop="20251205173500 +0000">
 		<title>Tiny Wonders - Series 5: 11. Holly</title>
@@ -4838,7 +4843,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tcns8.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251207185000 +0000" stop="20251207185800 +0000">
-		<title>CBeebies Bedtime Stories - P-T: Joanna Page - Snow</title>
+		<title>CBeebies Bedtime Stories - Christmas: Joanna Page - Snow</title>
 		<desc>Join Joanna Page for a wintry story about a little boy who wants to play in the snow.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07y5pff.jpg" />
 	</programme>
@@ -5208,9 +5213,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251203115500 +0000" stop="20251203130000 +0000">
-		<title>Politics Live - 03/12/2025</title>
-		<desc>The big political issues of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
+		<title>Politics Live - Prime Minister's Questions</title>
+		<desc>The doctors' strike. Why is nuclear so expensive to develop in the UK?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml8b7z.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251203130000 +0000" stop="20251203140000 +0000">
 		<title>BBC News at One - 03/12/2025</title>
@@ -6034,7 +6039,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251206233000 +0000" stop="20251207000000 +0000">
 		<title>Talking Business - 05/12/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Mark Lobel explores burnout at work.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251207000000 +0000" stop="20251207003000 +0000">
@@ -6094,7 +6099,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251207053000 +0000" stop="20251207060000 +0000">
 		<title>Talking Business - 05/12/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Mark Lobel explores burnout at work.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251207060000 +0000" stop="20251207090000 +0000">
@@ -6345,9 +6350,24 @@
 	<programme channel="bbcparliament" start="20251203120000 +0000" stop="20251203123500 +0000">
 		<title>Prime Minister's Questions - 03/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 3 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml8kz4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251203123500 +0000" stop="20251203193000 +0000">
+	<programme channel="bbcparliament" start="20251203123500 +0000" stop="20251203132000 +0000">
+		<title>House of Commons - Resignation of the Chair of the OBR Urgent Question</title>
+		<desc>Urgent question on the resignation of the chair of the Office for Budget Responsibility.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251203132000 +0000" stop="20251203140500 +0000">
+		<title>House of Commons - Espionage Cases and the Official Secrets Act Urgent Question</title>
+		<desc>Coverage of the urgent question on espionage cases and the Official Secrets Act.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251203140500 +0000" stop="20251203145000 +0000">
+		<title>House of Commons - US Military and Venezuela Urgent Question</title>
+		<desc>The urgent question in the House of Commons on the US military and Venezuela.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251203145000 +0000" stop="20251203193000 +0000">
 		<title>House of Commons - 03/12/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 3 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6360,7 +6380,7 @@
 	<programme channel="bbcparliament" start="20251203220000 +0000" stop="20251203223500 +0000">
 		<title>Prime Minister's Questions - 03/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 3 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml8kz4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251203223500 +0000" stop="20251203232000 +0000">
 		<title>Lords Questions - 03/12/2025</title>
@@ -6380,7 +6400,7 @@
 	<programme channel="bbcparliament" start="20251204073000 +0000" stop="20251204080500 +0000">
 		<title>Prime Minister's Questions - 03/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 3 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml8kz4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251204080500 +0000" stop="20251204093000 +0000">
 		<title>House of Commons - 03/12/2025</title>
@@ -6490,7 +6510,7 @@
 	<programme channel="bbcparliament" start="20251206110000 +0000" stop="20251206113500 +0000">
 		<title>Prime Minister's Questions - 03/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 3 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml8kz4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251206113500 +0000" stop="20251206122000 +0000">
 		<title>Scottish First Minister's Questions - 04/12/2025</title>
@@ -6540,7 +6560,7 @@
 	<programme channel="bbcparliament" start="20251207002000 +0000" stop="20251207005500 +0000">
 		<title>Prime Minister's Questions - 03/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 3 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml8kz4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251207005500 +0000" stop="20251207014000 +0000">
 		<title>Scottish First Minister's Questions - 04/12/2025</title>
@@ -7503,7 +7523,7 @@
 	</programme>
 	<programme channel="s4c" start="20251203190000 +0000" stop="20251203193000 +0000">
 		<title>Heno - Wed, 03 Dec 2025</title>
-		<desc>Ymunwch â ni am Sgwrs a chân gyda Clarie Jones ,gêm rygbi yng Nghaerdydd ac i ni gefn l...</desc>
+		<desc>Ymunwch â ni am sgwrs a chân gyda Clarie Jones, gêm rygbi yng Nghaerdydd, ac ry' ni gef...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251203193000 +0000" stop="20251203200000 +0000">
@@ -7708,7 +7728,7 @@
 	</programme>
 	<programme channel="s4c" start="20251204123000 +0000" stop="20251204130000 +0000">
 		<title>Heno - Wed, 03 Dec 2025</title>
-		<desc>Ymunwch â ni am Sgwrs a chân gyda Clarie Jones ,gêm rygbi yng Nghaerdydd ac i ni gefn l...</desc>
+		<desc>Ymunwch â ni am sgwrs a chân gyda Clarie Jones, gêm rygbi yng Nghaerdydd, ac ry' ni gef...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251204130000 +0000" stop="20251204133000 +0000">
@@ -7901,7 +7921,12 @@
 		<desc>Mae Sali Mali mewn penbleth wrth weld olion traed dieithr ar garreg y drws ac mae'n can...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p094j6rc.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251205080500 +0000" stop="20251205082000 +0000">
+	<programme channel="s4c" start="20251205080500 +0000" stop="20251205081000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	</programme>
+	<programme channel="s4c" start="20251205081000 +0000" stop="20251205082000 +0000">
 		<title>Sion y Chef - Cyfres 1: Yr Wyl Fwyd</title>
 		<desc>Mae Heledd yn dysgu gwers bwysig ynglyn â gwaith tîm. Heledd learns a lesson about team...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p076hrfm.jpg" />
