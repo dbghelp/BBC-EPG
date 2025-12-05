@@ -1323,7 +1323,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251205202300 +0000" stop="20251205202500 +0000">
 		<title>The Catch Up - 05/12/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Betty Douglas.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251205202500 +0000" stop="20251205204500 +0000">
@@ -1724,7 +1724,7 @@
 	<programme channel="bbcfour" start="20251205190000 +0000" stop="20251205200000 +0000">
 		<title>Snooker: UK Championship - 2025: Day 7, Evening, Part 1</title>
 		<desc>Live coverage from day 7 of the 2025 UK Snooker Championship.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mkghdy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mlw2nz.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20251205200000 +0000" stop="20251205203000 +0000">
 		<title>Top of the Pops - 13/11/1998</title>
@@ -4903,15 +4903,10 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20251205170000 +0000" stop="20251205183000 +0000">
+	<programme channel="bbcscotland" start="20251205170000 +0000" stop="20251205191000 +0000">
 		<title>FIFA World Cup 2026 - The Draw</title>
 		<desc>Live coverage from the Kennedy Centre in Washington DC of the draw for the 2026 World Cup.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mk3hqg.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20251205183000 +0000" stop="20251205191000 +0000">
-		<title>Reporting Scotland - Evening News: World Cup Draw Special</title>
-		<desc>The latest news and weather from BBC News Scotland.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7x7zd.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251205191000 +0000" stop="20251205194000 +0000">
 		<title>Sportscene - Sportscene: World Cup Draw Special</title>
@@ -5510,7 +5505,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251206154500 +0000" stop="20251206160000 +0000">
 		<title>Newswatch - 06/12/2025</title>
-		<desc>Your views on the coverage of events by BBC News.</desc>
+		<desc>What is the potential and the risk to BBC News from AI?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r0tr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251206160000 +0000" stop="20251206163000 +0000">
@@ -6728,14 +6723,14 @@
 		<desc>Coverage of questions to Pat McFadden on Monday 8 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251209080000 +0000" stop="20251209093000 +0000">
+	<programme channel="bbcparliament" start="20251209080000 +0000" stop="20251209094500 +0000">
 		<title>House of Commons - 08/12/2025</title>
 		<desc>Highlights of proceedings in the House of Commons from Monday 8 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251209093000 +0000" stop="20251209113000 +0000">
-		<title>Select Committees - 09/12/2025</title>
-		<desc>Coverage of select committee proceedings on Tuesday 9 December.</desc>
+	<programme channel="bbcparliament" start="20251209094500 +0000" stop="20251209113000 +0000">
+		<title>Select Committees - Science, Innovation and Technology Committee</title>
+		<desc>The Science, Innovation and Technology select committee on digital inclusion and telecoms.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251209113000 +0000" stop="20251209123000 +0000">
@@ -6743,23 +6738,8 @@
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 9 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251209123000 +0000" stop="20251209133000 +0000">
-		<title>House of Commons - 09/12/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 9 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251209133000 +0000" stop="20251209143000 +0000">
-		<title>House of Commons - 09/12/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 9 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251209143000 +0000" stop="20251209153000 +0000">
-		<title>House of Commons - 09/12/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 9 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251209153000 +0000" stop="20251209193000 +0000">
-		<title>House of Commons - 09/12/2025 Part 4</title>
+	<programme channel="bbcparliament" start="20251209123000 +0000" stop="20251209193000 +0000">
+		<title>House of Commons - 09/12/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6778,33 +6758,8 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251209233500 +0000" stop="20251210003500 +0000">
-		<title>House of Lords - 09/12/2025 Part 1</title>
-		<desc>Business in the House of Lords on Tuesday 9 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251210003500 +0000" stop="20251210013500 +0000">
-		<title>House of Lords - 09/12/2025 Part 2</title>
-		<desc>Business in the House of Lords on Tuesday 9 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251210013500 +0000" stop="20251210023500 +0000">
-		<title>House of Lords - 09/12/2025 Part 3</title>
-		<desc>Business in the House of Lords on Tuesday 9 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251210023500 +0000" stop="20251210033500 +0000">
-		<title>House of Lords - 09/12/2025 Part 4</title>
-		<desc>Business in the House of Lords on Tuesday 9 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251210033500 +0000" stop="20251210043500 +0000">
-		<title>House of Lords - 09/12/2025 Part 5</title>
-		<desc>Business in the House of Lords on Tuesday 9 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251210043500 +0000" stop="20251210070000 +0000">
-		<title>House of Lords - 09/12/2025 Part 6</title>
+	<programme channel="bbcparliament" start="20251209233500 +0000" stop="20251210070000 +0000">
+		<title>House of Lords - 09/12/2025</title>
 		<desc>Business in the House of Lords on Tuesday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -7771,7 +7726,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d02wnm.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251206194500 +0000" stop="20251206220500 +0000">
-		<title>Clwb Rygbi - Ewrop 2025/26: Rygbi Ewrop 2025/26</title>
+		<title>Clwb Rygbi - Ewrop 2025/26: Clwb Rygbi: Scarlets v Bryste</title>
 		<desc>Welsh language coverage: Live European Rugby Champions Cup - Scarlets v Bristol from Pa...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mltp14.jpg" />
 	</programme>
