@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251209190000 +0000" stop="20251209193000 +0000">
 		<title>The One Show - 09/12/2025</title>
-		<desc>Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+		<desc>With Martin Compston &amp; Celebrity Race Across the World stars Molly, Tyler, Dylan &amp; Jackie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251209193000 +0000" stop="20251209200000 +0000">
@@ -748,8 +748,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251209121500 +0000" stop="20251209130000 +0000">
-		<title>Politics Live - 09/12/2025</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - What does Trump’s National Security Strategy mean for Europe?</title>
+		<desc>Sebastian Gorka joins Politics Live to explain Trump’s National Security Strategy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251209130000 +0000" stop="20251209134500 +0000">
@@ -1389,7 +1389,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251209192800 +0000" stop="20251209193000 +0000">
 		<title>The Catch Up - 09/12/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Gloria Coles.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251209193000 +0000" stop="20251209201500 +0000">
@@ -2044,12 +2044,12 @@
 		<desc>Alan Bennett reads Lewis Carroll's Alice's Adventures through the Looking Glass.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mltc9l.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251213192500 +0000" stop="20251213201000 +0000">
+	<programme channel="bbcfour" start="20251213192500 +0000" stop="20251213201500 +0000">
 		<title>All Creatures Great and Small - Series 7: 10. Old Dogs, New Tricks</title>
 		<desc>James is not pleased that Tricki Woo is coming to stay.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mlm32y.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20251213201000 +0000" stop="20251213210500 +0000">
+	<programme channel="bbcfour" start="20251213201500 +0000" stop="20251213210500 +0000">
 		<title>All Creatures Great and Small - Series 7: 11. Hampered</title>
 		<desc>Mrs Pumphrey's great-niece Angela comes to stay.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mlm4bb.jpg" />
@@ -5458,12 +5458,7 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251209113000 +0000" stop="20251209114500 +0000">
-		<title>Business Today - 09/12/2025</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251209114500 +0000" stop="20251209120000 +0000">
+	<programme channel="bbcnews" start="20251209113000 +0000" stop="20251209120000 +0000">
 		<title>BBC News - 09/12/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
@@ -5478,10 +5473,15 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251209130000 +0000" stop="20251209140000 +0000">
+	<programme channel="bbcnews" start="20251209130000 +0000" stop="20251209133000 +0000">
 		<title>BBC News at One - 09/12/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20251209133000 +0000" stop="20251209140000 +0000">
+		<title>BBC News - 09/12/2025</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251209140000 +0000" stop="20251209143000 +0000">
 		<title>BBC News Now - 09/12/2025</title>
@@ -6626,7 +6626,7 @@
 	<programme channel="bbcparliament" start="20251209070000 +0000" stop="20251209080500 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 8 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmh9kr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251209080500 +0000" stop="20251209094500 +0000">
 		<title>Select Committees - Treasury Committee on the Budget 2025</title>
@@ -6851,7 +6851,7 @@
 	<programme channel="bbcparliament" start="20251213131000 +0000" stop="20251213135500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmhcs8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251213135500 +0000" stop="20251213144000 +0000">
 		<title>House of Commons - 13/12/2025</title>
@@ -6901,7 +6901,7 @@
 	<programme channel="bbcparliament" start="20251214023000 +0000" stop="20251214033000 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 8 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmh9kr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251214033000 +0000" stop="20251214043000 +0000">
 		<title>House of Commons - Treasury Questions</title>
@@ -7600,7 +7600,7 @@
 	</programme>
 	<programme channel="s4c" start="20251209140500 +0000" stop="20251209150000 +0000">
 		<title>Prynhawn Da - Tue, 09 Dec 2025</title>
-		<desc>Bydd Dr Llinos yn agor drysau'r syrjeri a chawn ni glywed can Carol yr Wyl Ysgol Aberys...</desc>
+		<desc>Bydd Dr Llinos yn agor drysau'r syrjeri a chawn glywed can Carol yr Wyl Ysgol Aberystwy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251209150000 +0000" stop="20251209150500 +0000">
@@ -7664,7 +7664,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjfklw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251209183000 +0000" stop="20251209190000 +0000">
-		<title>Sgorio - Tymor 2025/26: Sgorio 2025/26: uchafbwyntiau</title>
+		<title>Sgorio - Tymor 2025/26: Pennod 18</title>
 		<desc>Uchafbwyntiau rownd gynderfynol Cwpan Nathaniel MG, Y Seintiau Newydd v Llandudno a Cam...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwhdzq.jpg" />
 	</programme>
@@ -7694,7 +7694,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251209210000 +0000" stop="20251209220000 +0000">
-		<title>Llond Bol o Siapan - Cyfres 1: Pennod 1</title>
+		<title>Llond Bol o Japan - Cyfres 1: Pennod 1</title>
 		<desc>Mae Chris Flamebaster Roberts yn Japan lle mae'n cwrdd â meistr swshi ac yn ymweld â ma...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mlt29k.jpg" />
 	</programme>
@@ -7890,7 +7890,7 @@
 	</programme>
 	<programme channel="s4c" start="20251210140500 +0000" stop="20251210150000 +0000">
 		<title>Prynhawn Da - Wed, 10 Dec 2025</title>
-		<desc>Byddwn yn agor y clwb llyfrau gyda Bethan Mair a chawn ni glywed can Carol yr Wyl Ysgol...</desc>
+		<desc>Byddwn yn agor y clwb llyfrau gyda Bethan Mair a chawn glywed can Carol yr Wyl Ysgol Pe...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251210150000 +0000" stop="20251210150500 +0000">
@@ -7955,7 +7955,7 @@
 	</programme>
 	<programme channel="s4c" start="20251210190000 +0000" stop="20251210193000 +0000">
 		<title>Heno - Wed, 10 Dec 2025</title>
-		<desc>Cawn ni sgwrs a chan gyda Lowri Evans. Hefyd,  byddwn yn mynychu lansiad y llyfr C'mon ...</desc>
+		<desc>Cawn sgwrs a chan gyda Lowri Evans. Hefyd, byddwn yn mynychu lansiad y llyfr C'mon Midf...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251210193000 +0000" stop="20251210200000 +0000">
@@ -7965,7 +7965,7 @@
 	</programme>
 	<programme channel="s4c" start="20251210200000 +0000" stop="20251210202500 +0000">
 		<title>Pobol y Cwm - Wed, 10 Dec 2025</title>
-		<desc>Mae llythyr yn cyrraedd Maesyderi i Cheryl, gydag amheuon rhai o'r pentrefwyr yn cynydd...</desc>
+		<desc>Mae llythyr yn cyrraedd Maesyderi i Cheryl. Gydag amheuon rhai o'r pentrefwyr yn cynydd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08x5gq6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251210202500 +0000" stop="20251210205500 +0000">
@@ -8160,7 +8160,7 @@
 	</programme>
 	<programme channel="s4c" start="20251211123000 +0000" stop="20251211130000 +0000">
 		<title>Heno - Wed, 10 Dec 2025</title>
-		<desc>Cawn ni sgwrs a chan gyda Lowri Evans. Hefyd,  byddwn yn mynychu lansiad y llyfr C'mon ...</desc>
+		<desc>Cawn sgwrs a chan gyda Lowri Evans. Hefyd, byddwn yn mynychu lansiad y llyfr C'mon Midf...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251211130000 +0000" stop="20251211133000 +0000">
@@ -8180,7 +8180,7 @@
 	</programme>
 	<programme channel="s4c" start="20251211140500 +0000" stop="20251211150000 +0000">
 		<title>Prynhawn Da - Thu, 11 Dec 2025</title>
-		<desc>Bydd Caris Hedd Bowen yn y stiwdio a chawn ni glywed can Carol yr Wyl Ysgol Bryn y Môr ...</desc>
+		<desc>Bydd Caris Hedd Bowen yn y stiwdio a chawn glywed can Carol yr Wyl Ysgol Bryn y Môr (Ab...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251211150000 +0000" stop="20251211150500 +0000">
@@ -8250,7 +8250,7 @@
 	</programme>
 	<programme channel="s4c" start="20251211190000 +0000" stop="20251211193000 +0000">
 		<title>Heno - Thu, 11 Dec 2025</title>
-		<desc>Bydd Jemima Nicholas yn cadw cwmni i yn y stiwdio a bydd Llinos Lee mewn dangosiad arbe...</desc>
+		<desc>Bydd Jemima Nicholas yn cadw cwmni i ni yn y stiwdio a bydd Llinos Lee mewn dangosiad a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251211193000 +0000" stop="20251211200000 +0000">
@@ -8265,7 +8265,7 @@
 	</programme>
 	<programme channel="s4c" start="20251211202500 +0000" stop="20251211205500 +0000">
 		<title>Rownd a Rownd - Thu, 11 Dec 2025</title>
-		<desc>Mae'r noson karaoke wedi cyrraedd ac mae gan Cai lond gwlad o waith trefnu. It's the ni...</desc>
+		<desc>Mae'r noson karaoke wedi cyrraedd ac mae gan Cai llwyth o waith trefnu. It's the night ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ft73xl.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251211205500 +0000" stop="20251211210000 +0000">
@@ -8455,7 +8455,7 @@
 	</programme>
 	<programme channel="s4c" start="20251212123000 +0000" stop="20251212130000 +0000">
 		<title>Heno - Thu, 11 Dec 2025</title>
-		<desc>Bydd Jemima Nicholas yn cadw cwmni i yn y stiwdio a bydd Llinos Lee mewn dangosiad arbe...</desc>
+		<desc>Bydd Jemima Nicholas yn cadw cwmni i ni yn y stiwdio a bydd Llinos Lee mewn dangosiad a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251212130000 +0000" stop="20251212133000 +0000">
@@ -8475,7 +8475,7 @@
 	</programme>
 	<programme channel="s4c" start="20251212140500 +0000" stop="20251212150000 +0000">
 		<title>Prynhawn Da - Fri, 12 Dec 2025</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Cawn glywed can Carol yr Wyl Ysgol Mynydd Bychan, a byddwn yn ffonio enillydd lwcus fyd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251212150000 +0000" stop="20251212150500 +0000">
@@ -8484,7 +8484,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251212150500 +0000" stop="20251212160000 +0000">
-		<title>Llond Bol o Siapan - Cyfres 1: Pennod 1</title>
+		<title>Llond Bol o Japan - Cyfres 1: Pennod 1</title>
 		<desc>Mae Chris Flamebaster Roberts yn Japan lle mae'n cwrdd â meistr swshi ac yn ymweld â ma...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mlt29k.jpg" />
 	</programme>
@@ -8550,7 +8550,7 @@
 	</programme>
 	<programme channel="s4c" start="20251212190000 +0000" stop="20251212193000 +0000">
 		<title>Heno - Fri, 12 Dec 2025</title>
-		<desc>Bydd Rhodri yn dal lan gyda Mike Bubbins a chawn ni sgwrs gyda Brigyn. A byddwn yn ffon...</desc>
+		<desc>Bydd Rhodri yn dal lan gyda Mike Bubbins a chawn sgwrs gyda Brigyn. Byddwn hefyd yn ffo...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251212193000 +0000" stop="20251212200000 +0000">
@@ -8674,7 +8674,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hnby8z.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251213133000 +0000" stop="20251213143000 +0000">
-		<title>Llond Bol o Siapan - Cyfres 1: Pennod 1</title>
+		<title>Llond Bol o Japan - Cyfres 1: Pennod 1</title>
 		<desc>Mae Chris Flamebaster Roberts yn Japan lle mae'n cwrdd â meistr swshi ac yn ymweld â ma...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mlt29k.jpg" />
 	</programme>
