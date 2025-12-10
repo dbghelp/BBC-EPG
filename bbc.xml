@@ -297,7 +297,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251211224000 +0000" stop="20251211234000 +0000">
 		<title>Question Time - 2025: 11/12/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of debate from Paisley.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251211234000 +0000" stop="20251212001000 +0000">
@@ -419,7 +419,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251212210000 +0000" stop="20251212213500 +0000">
 		<title>Have I Got News for You - Series 70: Episode 10</title>
-		<desc>Martin Clunes is host, with guest panellists including comedian Phil Wang.</desc>
+		<desc>Martin Clunes is host, with guest panellists Janet Street-Porter and Phil Wang.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m7wpp5.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251212213500 +0000" stop="20251212220000 +0000">
@@ -1348,7 +1348,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20251215003000 +0000" stop="20251215013000 +0000">
 		<title>Question Time - 2025: 11/12/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of debate from Paisley.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251215013000 +0000" stop="20251215023000 +0000">
@@ -1388,7 +1388,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251210195800 +0000" stop="20251210200000 +0000">
 		<title>The Catch Up - 10/12/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Gloria Coles.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251210200000 +0000" stop="20251210211500 +0000">
@@ -5149,7 +5149,7 @@
 	<programme channel="bbcscotland" start="20251211193000 +0000" stop="20251211200000 +0000">
 		<title>The Entertainment Mix  - Series 2: Episode 8</title>
 		<desc>Kiefer Sutherland, Hebridean Baker, Glasvegas, Alice Faye and Citizen’s Theatre.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k27693.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmrxqk.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251211200000 +0000" stop="20251211203000 +0000">
 		<title>Beechgrove Garden - Craft Christmas at Beechgrove: Episode 3</title>
@@ -5319,7 +5319,7 @@
 	<programme channel="bbcscotland" start="20251214201500 +0000" stop="20251214204500 +0000">
 		<title>The Entertainment Mix  - Series 2: Episode 8</title>
 		<desc>Kiefer Sutherland, Hebridean Baker, Glasvegas, Alice Faye and Citizen’s Theatre.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k27693.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmrxqk.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251214204500 +0000" stop="20251214210000 +0000">
 		<title>Grand Tours of Scotland's Lochs - Series 3 Compilations: 5. A Double Life</title>
@@ -5763,7 +5763,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251211210000 +0000" stop="20251211220000 +0000">
 		<title>Question Time - 2025: 11/12/2025</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of debate from Paisley.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251211220000 +0000" stop="20251211223000 +0000">
@@ -6576,8 +6576,13 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 10 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20251210232000 +0000" stop="20251210233000 +0000">
+		<title>House of Lords - AJAX Statement</title>
+		<desc>Statement on the problems with the AJAX class armoured vehicles used by the British Army.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20251210233000 +0000" stop="20251210234000 +0000">
-		<title>House of Lords - Trials by Jury Statement</title>
+		<title>House of Lords - Jury Trials Statement</title>
 		<desc>A statement on the government's plans to reduce the number of trials by jury.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -8516,17 +8521,17 @@
 		<desc>Mae Mike Bubbins yn chwilio am syniadau newydd i ddysgu, mae dathlu Santes Dwynwen gyda...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjwpdh.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251214210000 +0000" stop="20251214220000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="s4c" start="20251214210000 +0000" stop="20251214220500 +0000">
+		<title>Stad - Cyfres 2: Pennod 6</title>
+		<desc>Does dim byd hapus am y penblwydd yma ond rhaid i rhywun geisio cadw'r teulu rhag chwal...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdwv6z.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251214220000 +0000" stop="20251214234500 +0000">
+	<programme channel="s4c" start="20251214220500 +0000" stop="20251214235000 +0000">
 		<title>Clwb Rygbi - Ewrop 2025/26: Clwb Rygbi: Bordeaux v Scarlets</title>
 		<desc>Cyfle i weld gêm Cwpan Pencampwyr Ewrop rhwng Bordeaux a'r Scarlets a chwaraewyd ddoe. ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mltpkg.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251214234500 +0000" stop="20251215060000 +0000">
+	<programme channel="s4c" start="20251214235000 +0000" stop="20251215060000 +0000">
 		<title>Watch Live</title>
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
