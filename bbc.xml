@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20251210093000 +0000" stop="20251210104500 +0000">
 		<title>Morning Live - Series 7: 10/12/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>Advice on staying stocked up with medication over Christmas, and drip pricing.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmqq11.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251210104500 +0000" stop="20251210113000 +0000">
 		<title>Animal Park - Christmas 2022: Episode 1</title>
@@ -465,7 +465,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251213100000 +0000" stop="20251213113000 +0000">
 		<title>Saturday Kitchen - Countdown to Christmas (13/12/2025)</title>
-		<desc>Matt is joined by Rick Stein, Angela Hartnett and Ching-He Huang and Hugh Bonneville.</desc>
+		<desc>Matt is joined by Rick Stein, Angela Hartnett and Ching He Huang and Hugh Bonneville.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08zkqzw.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251213113000 +0000" stop="20251213120000 +0000">
@@ -642,7 +642,7 @@
 	<programme channel="bbcone" start="20251214135000 +0000" stop="20251214140000 +0000">
 		<title>Lifeline - Harry's HAT</title>
 		<desc>Gaby Roslin presents an appeal on behalf of Harry's HAT.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hyl7fb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmqqm7.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251214140000 +0000" stop="20251214145500 +0000">
 		<title>Kingdom - Series 1: 5. Olimba's Last Chance</title>
@@ -1021,10 +1021,15 @@
 		<desc>Derek explores castles near Cardiff, the coast of Gower and the relics of the River Wye.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5xk7f.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251212090000 +0000" stop="20251212130000 +0000">
+	<programme channel="bbctwo" start="20251212090000 +0000" stop="20251212123000 +0000">
 		<title>BBC News - 12/12/2025</title>
 		<desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20251212123000 +0000" stop="20251212130000 +0000">
+		<title>Political Thinking with Nick Robinson - Series 2: Jordan Bardella</title>
+		<desc>An exclusive interview with the 30-year-old populist hoping to be France's next president</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251212130000 +0000" stop="20251212134500 +0000">
 		<title>Impossible - Series 5: Episode 20</title>
@@ -5112,9 +5117,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h3phn0.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251210233000 +0000" stop="20251211000000 +0000">
-		<title>Scotcast - 10/12/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqwpf.jpg" />
+		<title>Scotcast - Botched Botox</title>
+		<desc>Martin and Laura hear what it’s like working on the front line of the aesthetics industry.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdykvh.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251211000000 +0000" stop="20251211060000 +0000">
 		<title>This is BBC Scotland - This is BBC Scotland</title>
@@ -6122,7 +6127,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251213113000 +0000" stop="20251213120000 +0000">
-		<title>Ukrainecast - 14/12/2025</title>
+		<title>Ukrainecast - 13/12/2025</title>
 		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
@@ -6177,7 +6182,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251213163000 +0000" stop="20251213170000 +0000">
-		<title>Ukrainecast - 14/12/2025</title>
+		<title>Ukrainecast - 13/12/2025</title>
 		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
@@ -6252,7 +6257,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251214013000 +0000" stop="20251214020000 +0000">
-		<title>Ukrainecast - 14/12/2025</title>
+		<title>Ukrainecast - 13/12/2025</title>
 		<desc>In-depth coverage and analysis of the ongoing war in Ukraine.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm390h.jpg" />
 	</programme>
@@ -6514,7 +6519,7 @@
 	<programme channel="bbcparliament" start="20251210055000 +0000" stop="20251210061500 +0000">
 		<title>House of Lords - Armed Forces Chaplains Debate</title>
 		<desc>The short debate in the House of Lords on a measure relating to armed forces chaplains.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmqzwf.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251210061500 +0000" stop="20251210070000 +0000">
 		<title>Northern Ireland Assembly - Communities Questions</title>
@@ -6571,9 +6576,34 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 10 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251210232000 +0000" stop="20251211070000 +0000">
-		<title>House of Lords - 10/12/2025</title>
-		<desc>Business in the House of Lords on Wednesday 10 December.</desc>
+	<programme channel="bbcparliament" start="20251210233000 +0000" stop="20251210234000 +0000">
+		<title>House of Lords - Trials by Jury Statement</title>
+		<desc>A statement on the government's plans to reduce the number of trials by jury.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251210234000 +0000" stop="20251210235000 +0000">
+		<title>House of Lords - Operation Kenova Statement</title>
+		<desc>Coverage of a statement on Operation Kenova from Wednesday 10 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251210235000 +0000" stop="20251211015000 +0000">
+		<title>House of Lords - Planning and Infrastructure Bill</title>
+		<desc>Coverage of a debate on the Commons amendments to the Planning and Infrastructure Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251211015000 +0000" stop="20251211035000 +0000">
+		<title>House of Lords - Employment Rights Bill</title>
+		<desc>A debate in the House of Lords on Commons amendments to the Employment Rights Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251211035000 +0000" stop="20251211055000 +0000">
+		<title>House of Lords - Sustainable Aviation Fuel Bill, Part 1</title>
+		<desc>Coverage of a debate on the committee stage of the Sustainable Aviation Fuel Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251211055000 +0000" stop="20251211070000 +0000">
+		<title>House of Lords - Sustainable Aviation Fuel Bill, Part 2</title>
+		<desc>Coverage of a debate on the committee stage of the Sustainable Aviation Fuel Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251211070000 +0000" stop="20251211073000 +0000">
@@ -6694,7 +6724,7 @@
 	<programme channel="bbcparliament" start="20251213110000 +0000" stop="20251213113500 +0000">
 		<title>Prime Minister's Questions - 10/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmpsxp.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251213113500 +0000" stop="20251213122000 +0000">
 		<title>Scottish First Minister's Questions - 11/12/2025</title>
@@ -6744,7 +6774,7 @@
 	<programme channel="bbcparliament" start="20251214002000 +0000" stop="20251214005500 +0000">
 		<title>Prime Minister's Questions - 10/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmpsxp.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251214005500 +0000" stop="20251214014000 +0000">
 		<title>Scottish First Minister's Questions - 11/12/2025</title>
@@ -6809,7 +6839,7 @@
 	<programme channel="bbcparliament" start="20251214150500 +0000" stop="20251214154000 +0000">
 		<title>Prime Minister's Questions - 10/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmpsxp.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251214154000 +0000" stop="20251214162500 +0000">
 		<title>Scottish First Minister's Questions - 11/12/2025</title>
@@ -6854,7 +6884,7 @@
 	<programme channel="bbcparliament" start="20251215035000 +0000" stop="20251215042500 +0000">
 		<title>Prime Minister's Questions - 10/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmpsxp.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251215042500 +0000" stop="20251215051000 +0000">
 		<title>Scottish First Minister's Questions - 11/12/2025</title>
@@ -8201,12 +8231,12 @@
 		<desc>Mae Gareth yr Orangutan yn teithio yn ei Gaban Banana, Anifeiliaid y Sw ydi'r pwnc traf...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwgf1c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251213060500 +0000" stop="20251213061500 +0000">
+	<programme channel="s4c" start="20251213060500 +0000" stop="20251213062000 +0000">
 		<title>Pentre Papur Pop - Cyfres 1: Blodau'r Gwanwyn</title>
 		<desc>Ar yr antur popwych heddiw mae ffrindiau Pip yn dod i seremoni ei arddangosfa blodau. O...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251213061500 +0000" stop="20251213063000 +0000">
+	<programme channel="s4c" start="20251213062000 +0000" stop="20251213063000 +0000">
 		<title>Byd Tad-Cu - Cyfres 1: Beth yw Enfys?</title>
 		<desc>'Beth yw Enfys?' yw cwestiwn Ceris heddiw a'r tro ma mae tad-cu ag ateb dwl am Wini'r W...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09t9404.jpg" />
@@ -8216,27 +8246,27 @@
 		<desc>Mae Bronwen yn llwyfannu sioe nofio gyda'r plant, a Norman yn cloi Jams mewn stafell ne...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251213064000 +0000" stop="20251213065000 +0000">
+	<programme channel="s4c" start="20251213064000 +0000" stop="20251213065500 +0000">
 		<title>Ein Byd Bach Ni - Cyfres 1: De Corea</title>
 		<desc>Heddiw, teithiwn i benrhyn Corea i weld gwlad De Corea. Dyma wlad sy'n siarad yr iaith ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f39wrw.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251213065000 +0000" stop="20251213070500 +0000">
+	<programme channel="s4c" start="20251213065500 +0000" stop="20251213071000 +0000">
 		<title>Awyr Iach - Cyfres 2: Pennod 7</title>
 		<desc>Heddiw, bydd Meleri a'r criw yn cyfeiriannu ym Mharc Craig y Nos, ac fe fydd Alys a'i f...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd9v0r.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251213070500 +0000" stop="20251213072000 +0000">
+	<programme channel="s4c" start="20251213071000 +0000" stop="20251213072500 +0000">
 		<title>Guto Gwningen - Cyfres 2: Guto Gwningen 2</title>
 		<desc>Mae Guto Gwningen yn achub Nel Gynffonwen pan mae Sami a Tomi Broch yn dwyn eu cerbyd. ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07txhxv.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251213072000 +0000" stop="20251213073000 +0000">
+	<programme channel="s4c" start="20251213072500 +0000" stop="20251213073500 +0000">
 		<title>Annibendod - Cyfres 1: Cuddio</title>
 		<desc>Mae Anni a Cai'n penderfynu chwarae cuddio. Ond mae Cai a Bochau'n methu dod o hyd i An...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5s4y2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251213073000 +0000" stop="20251213074500 +0000">
+	<programme channel="s4c" start="20251213073500 +0000" stop="20251213074500 +0000">
 		<title>Joni Jet - Cyfres 1: Arwr Bach Arbennig</title>
 		<desc>Mae Jet-fam yn gyrru Jetboi ar dasgau "diflas". Ond, o dipyn i beth, mae'n sylweddoli m...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
