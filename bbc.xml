@@ -163,8 +163,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251211234000 +0000" stop="20251212001000 +0000">
-		<title>Newscast - Series 6: 11/12/2025</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Series 6: 21. How much pressure is the prime minister really under?</title>
+		<desc>Adam, Chris, Alex and Faisal discuss potential challenges to the prime minister.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251212001000 +0000" stop="20251212011000 +0000">
@@ -1388,7 +1388,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251211195500 +0000" stop="20251211200000 +0000">
 		<title>The Catch Up - 11/12/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Gloria Coles.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251211200000 +0000" stop="20251211213000 +0000">
@@ -6534,60 +6534,85 @@
 		<desc>A statement on a new government plan to end homelessness, on Thursday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251211133000 +0000" stop="20251211173000 +0000">
+	<programme channel="bbcparliament" start="20251211133000 +0000" stop="20251211172000 +0000">
 		<title>House of Commons - 11/12/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251211173000 +0000" stop="20251211181500 +0000">
+	<programme channel="bbcparliament" start="20251211172000 +0000" stop="20251211181000 +0000">
 		<title>Scottish First Minister's Questions - 11/12/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251211181500 +0000" stop="20251211190000 +0000">
+	<programme channel="bbcparliament" start="20251211181000 +0000" stop="20251211185000 +0000">
 		<title>Lords Questions - 11/12/2025</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251211190000 +0000" stop="20251211194000 +0000">
+	<programme channel="bbcparliament" start="20251211185000 +0000" stop="20251211192000 +0000">
 		<title>House of Lords - Safeguarding Statement</title>
 		<desc>A statement in the House of Lords on safeguarding measures, on Thursday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251211194000 +0000" stop="20251211210000 +0000">
+	<programme channel="bbcparliament" start="20251211192000 +0000" stop="20251211195500 +0000">
 		<title>House of Lords - Infected Blood Compensation Scheme Debate</title>
 		<desc>Coverage of a debate in the House of Lords on the Infected Blood Compensation Scheme.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251211210000 +0000" stop="20251211220000 +0000">
+	<programme channel="bbcparliament" start="20251211195500 +0000" stop="20251211205000 +0000">
 		<title>House of Lords - Equitable Wheelchair and Community Equipment Provision Debate</title>
 		<desc>Coverage of a short debate on a strategy for wheelchair provision on the NHS.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251211220000 +0000" stop="20251212000000 +0000">
+	<programme channel="bbcparliament" start="20251211205000 +0000" stop="20251211221000 +0000">
 		<title>House of Lords - Population Growth in the UK Debate, Part 1</title>
 		<desc>A debate on the report looking at the projected population growth of the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251212000000 +0000" stop="20251212021500 +0000">
+	<programme channel="bbcparliament" start="20251211221000 +0000" stop="20251211235500 +0000">
 		<title>House of Lords - Population Growth in the UK Debate, Part 2</title>
 		<desc>A debate on the report looking at the projected population growth of the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251212021500 +0000" stop="20251212031500 +0000">
+	<programme channel="bbcparliament" start="20251211235500 +0000" stop="20251212001500 +0000">
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Topical questions to ministers in the Scottish government, from Tuesday 11 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251212001500 +0000" stop="20251212004500 +0000">
+		<title>Scottish Parliament - Education Statistics Statement</title>
+		<desc>The statement on education statistics and the 2026 National Improvement Framework.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251212004500 +0000" stop="20251212010000 +0000">
+		<title>Scottish Parliament - Sandie Peggie and NHS Fife Urgent Question</title>
+		<desc>Question on the employment tribunal of nurse Sandie Peggie and NHS Fife health board.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251212010000 +0000" stop="20251212021000 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to Peter Kyle on Thursday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251212031500 +0000" stop="20251212041500 +0000">
+	<programme channel="bbcparliament" start="20251212021000 +0000" stop="20251212032500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251212041500 +0000" stop="20251212070000 +0000">
-		<title>House of Commons - 11/12/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 11 December.</desc>
+	<programme channel="bbcparliament" start="20251212032500 +0000" stop="20251212040500 +0000">
+		<title>House of Commons - US Security Strategy Urgent Question</title>
+		<desc>An urgent question on current US national security strategy, on Thursday 11 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251212040500 +0000" stop="20251212045500 +0000">
+		<title>House of Commons - National Plan to End Homelessness Statement</title>
+		<desc>A statement on a new government plan to end homelessness, on Thursday 11 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251212045500 +0000" stop="20251212070000 +0000">
+		<title>House of Commons - St Andrew's Day Debate on Scottish Affairs</title>
+		<desc>The St Andrew's Day debate in the House of Commons, focusing on Scottish affairs.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251212070000 +0000" stop="20251212100000 +0000">
@@ -6595,19 +6620,35 @@
 		<desc>House of Commons proceedings in Westminster Hall from Monday 8 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251212100000 +0000" stop="20251212150000 +0000">
+	<programme channel="bbcparliament" start="20251212100000 +0000" stop="20251212150500 +0000">
 		<title>House of Lords - 12/12/2025</title>
 		<desc>Coverage of proceedings in the House of Lords on Friday 12 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251212150000 +0000" stop="20251212180000 +0000">
-		<title>House of Lords - 12/12/2025</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
+	<programme channel="bbcparliament" start="20251212150500 +0000" stop="20251212160000 +0000">
+		<title>House of Lords - Equitable Wheelchair and Community Equipment Provision Debate</title>
+		<desc>Coverage of a short debate on a strategy for wheelchair provision on the NHS.
+</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251212180000 +0000" stop="20251212210000 +0000">
-		<title>Select Committees - 12/12/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20251212160000 +0000" stop="20251212172000 +0000">
+		<title>House of Commons - Child Poverty Strategy</title>
+		<desc>The statement by education secretary Bridget Phillipson on the child poverty strategy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmhpnv.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251212172000 +0000" stop="20251212180000 +0000">
+		<title>House of Commons - Ajax Armoured Vehicles Urgent Question</title>
+		<desc>Urgent question on safety concerns regarding the new Ajax class armoured vehicles.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmh73k.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251212180000 +0000" stop="20251212191000 +0000">
+		<title>Select Committees - Environmental Audit Committee on the Cop30 Climate Change Summit</title>
+		<desc>The Environmental Audit committee session on the Cop30 climate change summit in Brazil.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251212191000 +0000" stop="20251212210000 +0000">
+		<title>Select Committees - Science, Innovation and Technology Committee</title>
+		<desc>The Science, Innovation and Technology select committee on digital inclusion and telecoms.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251212210000 +0000" stop="20251212214500 +0000">
@@ -6615,19 +6656,49 @@
 		<desc>Questions to John Swinney, the first minister, on Thursday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251212214500 +0000" stop="20251213010000 +0000">
-		<title>Scottish Parliament - 12/12/2025</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20251212214500 +0000" stop="20251212221000 +0000">
+		<title>Scottish Parliament - Deputy First Minister's Questions</title>
+		<desc>Questions to deputy first minister and economy and Gaelic cabinet secretary Kate Forbes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251213010000 +0000" stop="20251213015000 +0000">
+	<programme channel="bbcparliament" start="20251212221000 +0000" stop="20251212223500 +0000">
+		<title>Scottish Parliament - Finance and Local Government Questions</title>
+		<desc>Coverage of questions to the finance and local government cabinet secretary Shona Robison.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251212223500 +0000" stop="20251212234500 +0000">
+		<title>Scottish Parliament - Benefits Spending Debate</title>
+		<desc>The debate tabled by the Scottish Conservatives on benefits spending in Scotland.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251212234500 +0000" stop="20251213010000 +0000">
+		<title>Scottish Parliament - Connecting Scotland Debate</title>
+		<desc>The debate tabled by the Scottish Conservatives on the road network in Scotland.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251213010000 +0000" stop="20251213015500 +0000">
 		<title>Welsh First Minister's Questions - 09/12/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251213015000 +0000" stop="20251213043000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 12/12/2025</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20251213015500 +0000" stop="20251213022000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
+		<desc>Questions to the counsel general Julie James, on Tuesday 9 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251213022000 +0000" stop="20251213030000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Wales Investment Summit Statement</title>
+		<desc>The statement by the first minister Eluned Morgan on the Wales Investment Summit.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251213030000 +0000" stop="20251213033500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Ambulance Service Statement</title>
+		<desc>Statement on the ambulance service and delays to patient handovers into hospitals.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251213033500 +0000" stop="20251213043000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Child Poverty Statement</title>
+		<desc>The statement on the child poverty strategy progress report, from Tuesday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251213043000 +0000" stop="20251213051500 +0000">
@@ -6636,8 +6707,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmhcs8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251213051500 +0000" stop="20251213060000 +0000">
-		<title>Northern Ireland Assembly - 12/12/2025</title>
-		<desc>Highlights from the Northern Ireland Assembly.</desc>
+		<title>Northern Ireland Assembly - Communities Questions</title>
+		<desc>Coverage of questions to the communities minister Gordon Lyons, on Monday 8 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251213060000 +0000" stop="20251213110000 +0000">
