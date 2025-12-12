@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20251212093000 +0000" stop="20251212104500 +0000">
 		<title>Morning Live - Series 7: 12/12/2025</title>
 		<desc>Nick Knowles and Janette Manrara discuss why cash is harder to access this Christmas.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mn908j.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251212104500 +0000" stop="20251212113000 +0000">
 		<title>Animal Park - Christmas 2022: Episode 3</title>
@@ -199,7 +199,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251213120000 +0000" stop="20251213124500 +0000">
 		<title>Football Focus - 13/12/2025</title>
-		<desc>A preview of all the top football action with detailed analysis from an expert panel.</desc>
+		<desc>Weekend preview, including Mo Salah latest, Bernardo Silva, Marcus Rashford and Celtic.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lyg4qc.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251213124500 +0000" stop="20251213125500 +0000">
@@ -1049,7 +1049,7 @@
 	<programme channel="bbctwo" start="20251214164000 +0000" stop="20251214174000 +0000">
 		<title>European Cross Country Championships - 2025: Highlights</title>
 		<desc>Highlights from the 2025 European Cross Country Championships in Lagoa, Portugal.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mn446k.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mn8mr1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251214174000 +0000" stop="20251214184000 +0000">
 		<title>Celebrity Race Across the World - Series 3: Episode 6</title>
@@ -6599,137 +6599,163 @@
 		<desc>Coverage of questions to the communities minister Gordon Lyons, on Monday 8 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251213060000 +0000" stop="20251213110000 +0000">
+	<programme channel="bbcparliament" start="20251213060000 +0000" stop="20251213095000 +0000">
 		<title>Westminster Hall - 09/12/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Tuesday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251213095000 +0000" stop="20251213110000 +0000">
+		<title>House of Commons - Treasury Questions</title>
+		<desc>Coverage of questions to Rachel Reeves on Tuesday 9 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmjssq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251213110000 +0000" stop="20251213113500 +0000">
 		<title>Prime Minister's Questions - 10/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmpsxp.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251213113500 +0000" stop="20251213122000 +0000">
+	<programme channel="bbcparliament" start="20251213113500 +0000" stop="20251213122500 +0000">
 		<title>Scottish First Minister's Questions - 11/12/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mn29jn.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251213122000 +0000" stop="20251213131000 +0000">
+	<programme channel="bbcparliament" start="20251213122500 +0000" stop="20251213132000 +0000">
 		<title>Welsh First Minister's Questions - 09/12/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251213131000 +0000" stop="20251213135500 +0000">
+	<programme channel="bbcparliament" start="20251213132000 +0000" stop="20251213140500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmhcs8.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251213135500 +0000" stop="20251213144000 +0000">
-		<title>House of Commons - 13/12/2025</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20251213140500 +0000" stop="20251213152500 +0000">
+		<title>House of Commons - Child Poverty Strategy</title>
+		<desc>The statement by education secretary Bridget Phillipson on the child poverty strategy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmhpnv.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251213144000 +0000" stop="20251213152500 +0000">
-		<title>House of Lords - 13/12/2025</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20251213152500 +0000" stop="20251213155000 +0000">
+		<title>House of Lords - Angiolini Inquiry Statement</title>
+		<desc>The statement on the inquiry set up after the murder of Sarah Everard by a police officer.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmjrwx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251213152500 +0000" stop="20251213161000 +0000">
-		<title>Scottish Parliament - 13/12/2025</title>
-		<desc>Coverage of a debate in the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20251213155000 +0000" stop="20251213161000 +0000">
+		<title>Scottish Parliament - Scottish Parliament · General Questions</title>
+		<desc>Coverage of general questions to ministers in the Scottish government, on 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251213161000 +0000" stop="20251213171500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 13/12/2025</title>
-		<desc>Coverage of a debate in the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20251213161000 +0000" stop="20251213164500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Ambulance Service Statement</title>
+		<desc>Statement on the ambulance service and delays to patient handovers into hospitals.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251213171500 +0000" stop="20251213180000 +0000">
-		<title>House of Lords - 13/12/2025</title>
-		<desc>Coverage of a private notice question in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20251213164500 +0000" stop="20251213170000 +0000">
+		<title>House of Lords - AJAX Statement</title>
+		<desc>Statement on the problems with the AJAX class armoured vehicles used by the British Army.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmxgnv.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251213180000 +0000" stop="20251214002000 +0000">
-		<title>Select Committees - 13/12/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20251213170000 +0000" stop="20251213173500 +0000">
+		<title>House of Commons - US Security Strategy Urgent Question</title>
+		<desc>An urgent question on current US national security strategy, on Thursday 11 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mn28v3.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251213173500 +0000" stop="20251213180000 +0000">
+		<title>Ten Minute Rule Bill - EU Customs Union</title>
+		<desc>A bill on a duty to negotiate a UK-EU customs union, from Tuesday 9 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251213180000 +0000" stop="20251213195000 +0000">
+		<title>Select Committees - Treasury Committee with Rachel Reeves</title>
+		<desc>Treasury select committee session on the Budget with evidence from the Rachel Reeves.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmpsv5.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251213195000 +0000" stop="20251213213500 +0000">
+		<title>Select Committees - Treasury Committee on the Bank of England Monetary Policy Reports</title>
+		<desc>Treasury committee on the recent monetary policy reports on interest rates and inflation.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214002000 +0000" stop="20251214005500 +0000">
+	<programme channel="bbcparliament" start="20251213213500 +0000" stop="20251213235000 +0000">
+		<title>Select Committees - Transport Committee on the Railways Bill</title>
+		<desc>The Transport select committee on the Railways Bill, which sets up Great British Railways.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251213235000 +0000" stop="20251214002000 +0000">
 		<title>Prime Minister's Questions - 10/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmpsxp.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214005500 +0000" stop="20251214014000 +0000">
+	<programme channel="bbcparliament" start="20251214002000 +0000" stop="20251214011000 +0000">
 		<title>Scottish First Minister's Questions - 11/12/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mn29jn.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214014000 +0000" stop="20251214023000 +0000">
+	<programme channel="bbcparliament" start="20251214011000 +0000" stop="20251214020500 +0000">
 		<title>Welsh First Minister's Questions - 09/12/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214023000 +0000" stop="20251214033000 +0000">
+	<programme channel="bbcparliament" start="20251214020500 +0000" stop="20251214031500 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 8 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmh9kr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214033000 +0000" stop="20251214043000 +0000">
+	<programme channel="bbcparliament" start="20251214031500 +0000" stop="20251214042500 +0000">
 		<title>House of Commons - Treasury Questions</title>
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmjssq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214043000 +0000" stop="20251214050000 +0000">
+	<programme channel="bbcparliament" start="20251214042500 +0000" stop="20251214045000 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Wednesday 10 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmsyrn.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214050000 +0000" stop="20251214060000 +0000">
+	<programme channel="bbcparliament" start="20251214045000 +0000" stop="20251214060000 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to the ministers in the department for business and trade.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mn2g03.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214060000 +0000" stop="20251214110000 +0000">
+	<programme channel="bbcparliament" start="20251214060000 +0000" stop="20251214104000 +0000">
 		<title>Westminster Hall - 10/12/2025</title>
 		<desc>House of Commons proceedings in Westminster Hall from Wednesday 10 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214110000 +0000" stop="20251214114500 +0000">
-		<title>House of Lords - 13/12/2025</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
+	<programme channel="bbcparliament" start="20251214104000 +0000" stop="20251214113500 +0000">
+		<title>House of Lords - Equitable Wheelchair and Community Equipment Provision Debate</title>
+		<desc>Coverage of a short debate on a strategy for wheelchair provision on the NHS.
+</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214114500 +0000" stop="20251214125000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 13/12/2025</title>
-		<desc>Coverage of a debate in the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20251214113500 +0000" stop="20251214121500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Wales Investment Summit Statement</title>
+		<desc>The statement by the first minister Eluned Morgan on the Wales Investment Summit.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214125000 +0000" stop="20251214133500 +0000">
-		<title>Scottish Parliament - 13/12/2025</title>
-		<desc>Coverage of a debate in the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20251214121500 +0000" stop="20251214134500 +0000">
+		<title>Scottish Parliament - Ferguson Marine Debate</title>
+		<desc>Coverage of the debate on a report by the Public Audit committee on Ferguson Marine.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214133500 +0000" stop="20251214142000 +0000">
-		<title>House of Commons - 13/12/2025</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20251214134500 +0000" stop="20251214143000 +0000">
+		<title>House of Commons - Operation Kenova Urgent Question</title>
+		<desc>Coverage of the urgent question on Operation Kenova, on Tuesday 9 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmjxk5.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214142000 +0000" stop="20251214150500 +0000">
-		<title>House of Lords - 13/12/2025</title>
-		<desc>Coverage of a private notice question in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20251214143000 +0000" stop="20251214145500 +0000">
+		<title>House of Lords - Angiolini Inquiry Statement</title>
+		<desc>The statement on the inquiry set up after the murder of Sarah Everard by a police officer.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmjrwx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214150500 +0000" stop="20251214154000 +0000">
+	<programme channel="bbcparliament" start="20251214145500 +0000" stop="20251214153000 +0000">
 		<title>Prime Minister's Questions - 10/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmpsxp.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214154000 +0000" stop="20251214162500 +0000">
+	<programme channel="bbcparliament" start="20251214153000 +0000" stop="20251214162000 +0000">
 		<title>Scottish First Minister's Questions - 11/12/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mn29jn.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214162500 +0000" stop="20251214171500 +0000">
+	<programme channel="bbcparliament" start="20251214162000 +0000" stop="20251214171500 +0000">
 		<title>Welsh First Minister's Questions - 09/12/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
@@ -6739,50 +6765,55 @@
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmhcs8.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251214180000 +0000" stop="20251215002000 +0000">
-		<title>Select Committees - 14/12/2025</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20251214180000 +0000" stop="20251214201500 +0000">
+		<title>Select Committees - Foreign Affairs Committee on the Work of the Foreign Office</title>
+		<desc>Foreign Affairs committee on the work of the Foreign, Commonwealth and Development Office.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251215002000 +0000" stop="20251215012000 +0000">
+	<programme channel="bbcparliament" start="20251214201500 +0000" stop="20251214213000 +0000">
+		<title>Select Committees - Public Administration and Constitutional Affairs Committee on House of Lords Appointments</title>
+		<desc>The committee examining the work of the House of Lords Appointments Commission.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251214213000 +0000" stop="20251214235500 +0000">
+		<title>Select Committees - Energy Security and Net Zero Committee on the Cost of Energy</title>
+		<desc>The Energy Security and Net Zero select committee session on the cost of energy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251214235500 +0000" stop="20251215010500 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to the ministers in the department for business and trade.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mn2g03.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251215012000 +0000" stop="20251215015000 +0000">
+	<programme channel="bbcparliament" start="20251215010500 +0000" stop="20251215013000 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Wednesday 10 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmsyrn.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251215015000 +0000" stop="20251215025000 +0000">
+	<programme channel="bbcparliament" start="20251215013000 +0000" stop="20251215024000 +0000">
 		<title>House of Commons - Treasury Questions</title>
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmjssq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251215025000 +0000" stop="20251215035000 +0000">
+	<programme channel="bbcparliament" start="20251215024000 +0000" stop="20251215035000 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 8 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmh9kr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251215035000 +0000" stop="20251215042500 +0000">
+	<programme channel="bbcparliament" start="20251215035000 +0000" stop="20251215042000 +0000">
 		<title>Prime Minister's Questions - 10/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 10 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmpsxp.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251215042500 +0000" stop="20251215051000 +0000">
+	<programme channel="bbcparliament" start="20251215042000 +0000" stop="20251215051000 +0000">
 		<title>Scottish First Minister's Questions - 11/12/2025</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 11 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mn29jn.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251215051000 +0000" stop="20251215060000 +0000">
+	<programme channel="bbcparliament" start="20251215051000 +0000" stop="20251215061000 +0000">
 		<title>Welsh First Minister's Questions - 09/12/2025</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 9 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251215060000 +0000" stop="20251215061000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251215061000 +0000" stop="20251215090500 +0000">
 		<title>Westminster Hall - 11/12/2025</title>
@@ -6824,28 +6855,8 @@
 		<desc>Coverage of questions to John Healey on Monday 15 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251215153000 +0000" stop="20251215163000 +0000">
-		<title>House of Commons - 15/12/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 15 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251215163000 +0000" stop="20251215173000 +0000">
-		<title>House of Commons - 15/12/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 15 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251215173000 +0000" stop="20251215183000 +0000">
-		<title>House of Commons - 15/12/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 15 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251215183000 +0000" stop="20251215193000 +0000">
-		<title>House of Commons - 15/12/2025 Part 4</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 15 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251215193000 +0000" stop="20251215223000 +0000">
-		<title>House of Commons - 15/12/2025 Part 5</title>
+	<programme channel="bbcparliament" start="20251215153000 +0000" stop="20251215223000 +0000">
+		<title>House of Commons - 15/12/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 15 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6854,38 +6865,8 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 15 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251215231500 +0000" stop="20251216001500 +0000">
-		<title>House of Lords - 15/12/2025 Part 1</title>
-		<desc>Business in the House of Lords on Monday 15 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251216001500 +0000" stop="20251216011500 +0000">
-		<title>House of Lords - 15/12/2025 Part 2</title>
-		<desc>Business in the House of Lords on Monday 15 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251216011500 +0000" stop="20251216021500 +0000">
-		<title>House of Lords - 15/12/2025 Part 3</title>
-		<desc>Business in the House of Lords on Monday 15 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251216021500 +0000" stop="20251216031500 +0000">
-		<title>House of Lords - 15/12/2025 Part 4</title>
-		<desc>Business in the House of Lords on Monday 15 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251216031500 +0000" stop="20251216041500 +0000">
-		<title>House of Lords - 15/12/2025 Part 5</title>
-		<desc>Business in the House of Lords on Monday 15 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251216041500 +0000" stop="20251216051500 +0000">
-		<title>House of Lords - 15/12/2025 Part 6</title>
-		<desc>Business in the House of Lords on Monday 15 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251216051500 +0000" stop="20251216070000 +0000">
-		<title>House of Lords - 15/12/2025 Part 7</title>
+	<programme channel="bbcparliament" start="20251215231500 +0000" stop="20251216070000 +0000">
+		<title>House of Lords - 15/12/2025</title>
 		<desc>Business in the House of Lords on Monday 15 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -6894,14 +6875,14 @@
 		<desc>Coverage of questions to John Healey on Monday 15 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251216080000 +0000" stop="20251216093000 +0000">
+	<programme channel="bbcparliament" start="20251216080000 +0000" stop="20251216100000 +0000">
 		<title>House of Commons - 15/12/2025</title>
 		<desc>Highlights of proceedings in the House of Commons from Monday 15 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251216093000 +0000" stop="20251216113000 +0000">
-		<title>Select Committees - 16/12/2025</title>
-		<desc>Coverage of select committee proceedings on Tuesday 16 December.</desc>
+	<programme channel="bbcparliament" start="20251216100000 +0000" stop="20251216113000 +0000">
+		<title>Select Committees - Culture, Media and Sport Committee</title>
+		<desc>The Culture, Media and Sport select committee session on children's TV and video content.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251216113000 +0000" stop="20251216123000 +0000">
@@ -6909,23 +6890,8 @@
 		<desc>Coverage of questions to David Lammy on Tuesday 16 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251216123000 +0000" stop="20251216133000 +0000">
-		<title>House of Commons - 16/12/2025 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 16 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251216133000 +0000" stop="20251216143000 +0000">
-		<title>House of Commons - 16/12/2025 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 16 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251216143000 +0000" stop="20251216153000 +0000">
-		<title>House of Commons - 16/12/2025 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 16 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251216153000 +0000" stop="20251216193000 +0000">
-		<title>House of Commons - 16/12/2025 Part 4</title>
+	<programme channel="bbcparliament" start="20251216123000 +0000" stop="20251216193000 +0000">
+		<title>House of Commons - 16/12/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 16 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6944,33 +6910,8 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 16 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251216233500 +0000" stop="20251217003500 +0000">
-		<title>House of Lords - 16/12/2025 Part 1</title>
-		<desc>Business in the House of Lords on Tuesday 16 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251217003500 +0000" stop="20251217013500 +0000">
-		<title>House of Lords - 16/12/2025 Part 2</title>
-		<desc>Business in the House of Lords on Tuesday 16 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251217013500 +0000" stop="20251217023500 +0000">
-		<title>House of Lords - 16/12/2025 Part 3</title>
-		<desc>Business in the House of Lords on Tuesday 16 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251217023500 +0000" stop="20251217033500 +0000">
-		<title>House of Lords - 16/12/2025 Part 4</title>
-		<desc>Business in the House of Lords on Tuesday 16 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251217033500 +0000" stop="20251217043500 +0000">
-		<title>House of Lords - 16/12/2025 Part 5</title>
-		<desc>Business in the House of Lords on Tuesday 16 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20251217043500 +0000" stop="20251217070000 +0000">
-		<title>House of Lords - 16/12/2025 Part 6</title>
+	<programme channel="bbcparliament" start="20251216233500 +0000" stop="20251217070000 +0000">
+		<title>House of Lords - 16/12/2025</title>
 		<desc>Business in the House of Lords on Tuesday 16 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
