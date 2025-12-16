@@ -123,7 +123,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251216190000 +0000" stop="20251216193000 +0000">
 		<title>The One Show - 16/12/2025</title>
-		<desc>Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+		<desc>Lorraine Kelly, Ronan Keating, Keith Duffy and Shane Lynch are on the sofa. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251216193000 +0000" stop="20251216200000 +0000">
@@ -380,7 +380,7 @@
 	<programme channel="bbcone" start="20251218190000 +0000" stop="20251218210000 +0000">
 		<title>BBC Sports Personality of the Year - 2025</title>
 		<desc>The iconic show celebrating the past sporting year returns for its 72nd edition.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmwtw5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mnwh6f.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251218210000 +0000" stop="20251218220000 +0000">
 		<title>Sir Chris Hoy: Cancer, Courage and Me</title>
@@ -6477,7 +6477,27 @@
 		<desc>Coverage of questions to David Lammy on Tuesday 16 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251216123000 +0000" stop="20251216193000 +0000">
+	<programme channel="bbcparliament" start="20251216123000 +0000" stop="20251216131500 +0000">
+		<title>House of Commons - Chagos Islands Deal Urgent Question</title>
+		<desc>Urgent question on the rights of British Chagossians, on Tuesday 16 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251216131500 +0000" stop="20251216140000 +0000">
+		<title>House of Commons - UK's New Approach to Africa Urgent Question</title>
+		<desc>Urgent question on the UK's new approach to Africa, on Tuesday 16 December.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251216140000 +0000" stop="20251216150000 +0000">
+		<title>House of Commons - Electoral Resilience Statement</title>
+		<desc>A statement by local government secretary Steve Reed on electoral resilience.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251216150000 +0000" stop="20251216160000 +0000">
+		<title>House of Commons - Planning Reform Statement</title>
+		<desc>A statement by housing and planning minister Matthew Pennycook on planning reform.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251216160000 +0000" stop="20251216193000 +0000">
 		<title>House of Commons - 16/12/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 16 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
