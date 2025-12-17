@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20251217093000 +0000" stop="20251217104500 +0000">
 		<title>Morning Live - Series 7: 17/12/2025</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>Louise Minchin joins Gaby Roslin and Rav Wilding to explain how to return unwanted gifts.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mp4jsz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251217104500 +0000" stop="20251217113000 +0000">
 		<title>Animal Park - Christmas 2024: Episode 1</title>
@@ -123,7 +123,7 @@
 	</programme>
 	<programme channel="bbcone" start="20251217190000 +0000" stop="20251217193000 +0000">
 		<title>The One Show - 17/12/2025</title>
-		<desc>Alex Jones and Clara Amfo bring you the stories that matter from across the country.</desc>
+		<desc>Tess Daly, Tom Fletcher and Buzz Fletcher join Alex Jones and Clara Amfo.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251217193000 +0000" stop="20251217200000 +0000">
@@ -4873,8 +4873,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04lj77f.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251217230000 +0000" stop="20251217233000 +0000">
-		<title>Scotcast - 17/12/2025</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
+		<title>Scotcast - STV’s Cost-Cutting Boss</title>
+		<desc>Martin Geissler and Laura Miller talk to STV’s chief executive.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqwpf.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251217233000 +0000" stop="20251218000000 +0000">
@@ -6327,12 +6327,12 @@
 		<desc>Coverage of an urgent question in the House of Commons on the Northern Ireland Troubles.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251217132000 +0000" stop="20251217140500 +0000">
+	<programme channel="bbcparliament" start="20251217132000 +0000" stop="20251217142500 +0000">
 		<title>House of Commons - Puberty Suppressants Trial Urgent Question</title>
 		<desc>An urgent question in the House of Commons on the PATHWAYS puberty blockers trial.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251217140500 +0000" stop="20251217150500 +0000">
+	<programme channel="bbcparliament" start="20251217142500 +0000" stop="20251217150500 +0000">
 		<title>House of Commons - UK-EU Common Understandings Negotiation Statement</title>
 		<desc>Coverage of a statement on the UK-EU Common Understandings negotiations.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6367,9 +6367,24 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 17 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251217232000 +0000" stop="20251218070000 +0000">
-		<title>House of Lords - 17/12/2025</title>
-		<desc>Business in the House of Lords on Wednesday 17 December.</desc>
+	<programme channel="bbcparliament" start="20251217233000 +0000" stop="20251218013000 +0000">
+		<title>House of Lords - Crime and Policing Bill, Part 1</title>
+		<desc>The seventh day of debate on the committee stage of the Crime and Policing Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251218013000 +0000" stop="20251218033000 +0000">
+		<title>House of Lords - Crime and Policing Bill, Part 2</title>
+		<desc>The seventh day of debate on the committee stage of the Crime and Policing Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251218033000 +0000" stop="20251218053000 +0000">
+		<title>House of Lords - Crime and Policing Bill, Part 3</title>
+		<desc>The seventh day of debate on the committee stage of the Crime and Policing Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251218053000 +0000" stop="20251218070000 +0000">
+		<title>House of Lords - Conviction of Jimmy Lai Statement</title>
+		<desc>Coverage of the statement on the conviction of pro-democracy Hong Kong tycoon Jimmy Lai.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251218070000 +0000" stop="20251218073000 +0000">
