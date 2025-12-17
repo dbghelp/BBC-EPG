@@ -4473,8 +4473,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tcx1c.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251220185000 +0000" stop="20251220185800 +0000">
-		<title>CBeebies Bedtime Stories - Christmas: 20/12/2025</title>
-		<desc>A different story read each night just before bedtime.</desc>
+		<title>CBeebies Bedtime Stories - Christmas: Jessica Gunning - The Street Where Santa Lives</title>
+		<desc>Jessica Gunning reads a festive, feel-good tale that celebrates the joy of community.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20251220185800 +0000" stop="20251221053000 +0000">
@@ -4875,7 +4875,7 @@
 	<programme channel="bbcscotland" start="20251217230000 +0000" stop="20251217233000 +0000">
 		<title>Scotcast - STV’s Cost-Cutting Boss</title>
 		<desc>Martin Geissler and Laura Miller talk to STV’s chief executive.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqwpf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdykvh.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251217233000 +0000" stop="20251218000000 +0000">
 		<title>Best of Chewin' the Fat - Series 1: Episode 5</title>
@@ -6004,7 +6004,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251220233000 +0000" stop="20251221000000 +0000">
 		<title>Talking Business - 19/12/2025</title>
-		<desc>Ben Thompson speaks to America's first national cyber director about cyberhackers. </desc>
+		<desc>Ben Thompson speaks to America's first national cyber director about cyberhackers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251221000000 +0000" stop="20251221003000 +0000">
@@ -6064,7 +6064,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251221053000 +0000" stop="20251221060000 +0000">
 		<title>Talking Business - 19/12/2025</title>
-		<desc>Ben Thompson speaks to America's first national cyber director about cyberhackers. </desc>
+		<desc>Ben Thompson speaks to America's first national cyber director about cyberhackers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251221060000 +0000" stop="20251221090000 +0000">
@@ -6367,6 +6367,11 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 17 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20251217232000 +0000" stop="20251217233000 +0000">
+		<title>House of Lords - Violence Against Women and Girls Strategy</title>
+		<desc>Coverage of a statement on the Violence Against Women and Girls Strategy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20251217233000 +0000" stop="20251218013000 +0000">
 		<title>House of Lords - Crime and Policing Bill, Part 1</title>
 		<desc>The seventh day of debate on the committee stage of the Crime and Policing Bill.</desc>
@@ -6387,20 +6392,25 @@
 		<desc>Coverage of the statement on the conviction of pro-democracy Hong Kong tycoon Jimmy Lai.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251218070000 +0000" stop="20251218073000 +0000">
+	<programme channel="bbcparliament" start="20251218070000 +0000" stop="20251218072500 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
 		<desc>Coverage of questions to Liz Kendall on Wednesday 17 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251218073000 +0000" stop="20251218080500 +0000">
+	<programme channel="bbcparliament" start="20251218072500 +0000" stop="20251218080500 +0000">
 		<title>Prime Minister's Questions - 17/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 17 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mp3jfx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251218080500 +0000" stop="20251218093000 +0000">
-		<title>House of Commons - 17/12/2025</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 17 December.</desc>
+	<programme channel="bbcparliament" start="20251218080500 +0000" stop="20251218085000 +0000">
+		<title>House of Commons - Northern Ireland Troubles Urgent Question</title>
+		<desc>Coverage of an urgent question in the House of Commons on the Northern Ireland Troubles.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251218085000 +0000" stop="20251218093000 +0000">
+		<title>Scottish Parliament - Protecting Children from Harm Statement</title>
+		<desc>Coverage of a statement in the Scottish Parliament on protecting children from harm.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251218093000 +0000" stop="20251218101000 +0000">
 		<title>House of Commons - Environment, Food and Rural Affairs Questions</title>
@@ -7889,17 +7899,17 @@
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251220060000 +0000" stop="20251220060500 +0000">
+	<programme channel="s4c" start="20251220060000 +0000" stop="20251220061000 +0000">
 		<title>Caban Banana Gareth - Cyfres 1: Nadolig 1</title>
 		<desc>Mae Gareth yr Orangutan yn teithio ysgolion ledled Cymru yn ei Gaban Banana, Y Nadolig ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwgf1c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251220060500 +0000" stop="20251220061500 +0000">
+	<programme channel="s4c" start="20251220061000 +0000" stop="20251220062000 +0000">
 		<title>Pentre Papur Pop - Cyfres 1: Diwrnod Mawr Huwcyn</title>
 		<desc>Ar yr antur popwych heddiw mae Huwcyn wedi paratoi diwrnod ar y traeth i'w ffrindiau! H...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251220061500 +0000" stop="20251220063000 +0000">
+	<programme channel="s4c" start="20251220062000 +0000" stop="20251220063000 +0000">
 		<title>Byd Tad-Cu - Cyfres 1: Pam bod anifeiliad yn gaeafgys</title>
 		<desc>'Pam bod anifeiliaid yn gaeafgysgu?' yw cwestiwn Meg heddiw ac mae Tad-cu'n adrodd stor...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09t9404.jpg" />
@@ -7914,12 +7924,12 @@
 		<desc>Beth am deithio i wlad De Americanaidd o'r enw Chile? Yma, byddwn ni'n dysgu am fwyd fe...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f2tv6n.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251220065000 +0000" stop="20251220070500 +0000">
+	<programme channel="s4c" start="20251220065000 +0000" stop="20251220071000 +0000">
 		<title>Awyr Iach - Cyfres 2: Pennod 9</title>
 		<desc>Mae Meleri a'r criw yn chwilio am micro-blastigau ar draeth Amroth ac ma criw o ddisgyb...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd9v0r.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251220070500 +0000" stop="20251220072000 +0000">
+	<programme channel="s4c" start="20251220071000 +0000" stop="20251220072000 +0000">
 		<title>Guto Gwningen - Cyfres 2: Guto Gwningen 2</title>
 		<desc>Pan mae Guto'n mynd â Mr Crwban am dro yn y goedwig mae'n dysgu peidio barnu. Guto lear...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07txhxv.jpg" />
@@ -8054,22 +8064,22 @@
 		<desc>Dewch ar antur gyda ni i gwrdd ag anifeiliaid y byd. Y tro hwn, fe ddown i nabod y pal ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251221065500 +0000" stop="20251221071000 +0000">
+	<programme channel="s4c" start="20251221065500 +0000" stop="20251221070500 +0000">
 		<title>Dreigiau Cadi - Cyfres 3: Dwbl Trwbl</title>
 		<desc>Mae Dai a Mr Jenkins yn perswadio Crugwen i esgus fod yn Cadi! Dai and Mr Jenkins convi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd7hxx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251221071000 +0000" stop="20251221072000 +0000">
+	<programme channel="s4c" start="20251221070500 +0000" stop="20251221072000 +0000">
 		<title>Pablo - Cyfres 2: Rownd a Rownd a Rownd</title>
 		<desc>Mae Pablo'n hoff iawn o ganeuon, ac un cân yn arbennig. Ond yw gwrando ar yr un gân dro...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bmwxql.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251221072000 +0000" stop="20251221073500 +0000">
+	<programme channel="s4c" start="20251221072000 +0000" stop="20251221073000 +0000">
 		<title>Ne-wff-ion - Cyfres 3: Pennod 3</title>
 		<desc>Mae Owen ym Machynlleth gyda Cerys Hafana, a dysgwn fwy hefyd am Nansi Richards, y dely...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gn9n0t.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251221073500 +0000" stop="20251221074500 +0000">
+	<programme channel="s4c" start="20251221073000 +0000" stop="20251221074500 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Hamog</title>
 		<desc>Mae Crawc yn falch iawn o'i hamog newydd ond yn gwrthod gadael i'w ffrindiau gael tro y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
