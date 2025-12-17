@@ -532,7 +532,7 @@
 	<programme channel="bbcone" start="20251220235000 +0000" stop="20251221000500 +0000">
 		<title>The Football Interview - Series 1: Yaya Touré</title>
 		<desc>Kelly Somers in conversation with Yaya Touré.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lx5bxw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mp3s94.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251221000500 +0000" stop="20251221013500 +0000">
 		<title>Planes, Trains and Automobiles</title>
@@ -704,7 +704,7 @@
 	<programme channel="bbctwo" start="20251217111500 +0000" stop="20251217130000 +0000">
 		<title>Politics Live - Prime Minister’s Questions</title>
 		<desc>Keir Starmer faces Kemi Badenoch for the final Prime Minister's Questions of the year.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mp2xw1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251217130000 +0000" stop="20251217134500 +0000">
 		<title>Impossible - Series 6: Episode 3</title>
@@ -886,17 +886,17 @@
 		<desc>Austria, Krampusnacht 1977. Who has been good and who has been bad this Christmas?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04kmyy8.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251218223000 +0000" stop="20251218230300 +0000">
+	<programme channel="bbctwo" start="20251218223000 +0000" stop="20251218225800 +0000">
 		<title>Newsnight - 18/12/2025</title>
 		<desc>Insights and global interviews on the news stories of the day. With Nick Watt.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251218230300 +0000" stop="20251218230500 +0000">
+	<programme channel="bbctwo" start="20251218225800 +0000" stop="20251218230000 +0000">
 		<title>BBC Weather - 18/12/2025</title>
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20251218230500 +0000" stop="20251219000000 +0000">
+	<programme channel="bbctwo" start="20251218230000 +0000" stop="20251219000000 +0000">
 		<title>Civilisations: Rise and Fall - Series 1: 4. Japan</title>
 		<desc>For 250 years, Japan has thrived, mostly cut off from the west – until US gunboats arrive.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhhpfy.jpg" />
@@ -1004,7 +1004,7 @@
 	<programme channel="bbctwo" start="20251219210000 +0000" stop="20251219220000 +0000">
 		<title>Hidden Treasures of the National Trust - Christmas Treasures of the National Trust</title>
 		<desc>The countdown to Christmas is on as three unique houses get ready for the festive season.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mll65v.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mp3mtr.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251219220000 +0000" stop="20251219223000 +0000">
 		<title>QI - Series W: 8. Weird and Wonderful</title>
@@ -1313,7 +1313,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251217190000 +0000" stop="20251217190500 +0000">
 		<title>The Catch Up - 17/12/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Ben Henley-Washford.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251217190500 +0000" stop="20251217200500 +0000">
@@ -1341,12 +1341,12 @@
 		<desc>Mobeen receives a visit from armed police, but will he snitch on the real culprit?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07jm7b7.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251217233000 +0000" stop="20251217235000 +0000">
+	<programme channel="bbcthree" start="20251217233000 +0000" stop="20251217235500 +0000">
 		<title>Man Like Mobeen - Series 1: 2. Wifey Riddim</title>
 		<desc>Mobeen realises that he might not be the best role model for his little sister.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05r2sx7.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251217235000 +0000" stop="20251218001500 +0000">
+	<programme channel="bbcthree" start="20251217235500 +0000" stop="20251218001500 +0000">
 		<title>Man Like Mobeen - Series 1: 3. Upper Room</title>
 		<desc>When Mobeen visits Eight’s Dadha on his death bed, he's disturbed to hear his dark secret.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05qs7z7.jpg" />
@@ -5147,12 +5147,7 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20251217093000 +0000" stop="20251217100000 +0000">
-		<title>BBC News - 17/12/2025</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20251217100000 +0000" stop="20251217103000 +0000">
+	<programme channel="bbcnews" start="20251217093000 +0000" stop="20251217103000 +0000">
 		<title>BBC News - 17/12/2025</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
@@ -5180,7 +5175,7 @@
 	<programme channel="bbcnews" start="20251217115500 +0000" stop="20251217130000 +0000">
 		<title>Politics Live - Prime Minister’s Questions</title>
 		<desc>Keir Starmer faces Kemi Badenoch for the final Prime Minister's Questions of the year.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mp2xw1.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251217130000 +0000" stop="20251217140000 +0000">
 		<title>BBC News at One - 17/12/2025</title>
@@ -6009,7 +6004,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251220233000 +0000" stop="20251221000000 +0000">
 		<title>Talking Business - 19/12/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Ben Thompson speaks to America's first national cyber director about cyberhackers. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251221000000 +0000" stop="20251221003000 +0000">
@@ -6069,7 +6064,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20251221053000 +0000" stop="20251221060000 +0000">
 		<title>Talking Business - 19/12/2025</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Ben Thompson speaks to America's first national cyber director about cyberhackers. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20251221060000 +0000" stop="20251221090000 +0000">
@@ -6325,9 +6320,34 @@
 	<programme channel="bbcparliament" start="20251217120000 +0000" stop="20251217123500 +0000">
 		<title>Prime Minister's Questions - 17/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 17 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mp3jfx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20251217123500 +0000" stop="20251217193000 +0000">
+	<programme channel="bbcparliament" start="20251217123500 +0000" stop="20251217132000 +0000">
+		<title>House of Commons - Northern Ireland Troubles Urgent Question</title>
+		<desc>Coverage of an urgent question in the House of Commons on the Northern Ireland Troubles.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251217132000 +0000" stop="20251217140500 +0000">
+		<title>House of Commons - Puberty Suppressants Trial Urgent Question</title>
+		<desc>An urgent question in the House of Commons on the PATHWAYS puberty blockers trial.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251217140500 +0000" stop="20251217150500 +0000">
+		<title>House of Commons - UK-EU Common Understandings Negotiation Statement</title>
+		<desc>Coverage of a statement on the UK-EU Common Understandings negotiations.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251217150500 +0000" stop="20251217160500 +0000">
+		<title>House of Commons - Local Government Finance Statement</title>
+		<desc>A statement on the provisional Local Government Finance Settlement for 2026-27.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251217160500 +0000" stop="20251217170500 +0000">
+		<title>House of Commons - Grangemouth and Ineos Chemicals Statement</title>
+		<desc>Coverage of a statement on government support for the Grangemouth industrial complex.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20251217170500 +0000" stop="20251217193000 +0000">
 		<title>House of Commons - 17/12/2025</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 17 December.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6340,7 +6360,7 @@
 	<programme channel="bbcparliament" start="20251217220000 +0000" stop="20251217223500 +0000">
 		<title>Prime Minister's Questions - 17/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 17 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mp3jfx.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251217223500 +0000" stop="20251217232000 +0000">
 		<title>Lords Questions - 17/12/2025</title>
@@ -6360,7 +6380,7 @@
 	<programme channel="bbcparliament" start="20251218073000 +0000" stop="20251218080500 +0000">
 		<title>Prime Minister's Questions - 17/12/2025</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 17 December.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mp3jfx.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20251218080500 +0000" stop="20251218093000 +0000">
 		<title>House of Commons - 17/12/2025</title>
@@ -7221,7 +7241,7 @@
 	</programme>
 	<programme channel="s4c" start="20251217190000 +0000" stop="20251217193000 +0000">
 		<title>Heno - Wed, 17 Dec 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Sgwrs a chân gyda Alastair James ac fe fydd Emyr Wyn yn son am y ffilm 'Y Dyn Nath Ddwy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251217193000 +0000" stop="20251217200000 +0000">
@@ -7231,7 +7251,7 @@
 	</programme>
 	<programme channel="s4c" start="20251217200000 +0000" stop="20251217202500 +0000">
 		<title>Pobol y Cwm - Wed, 17 Dec 2025</title>
-		<desc>O weld Kelly'n ddigalon, mae Rhys am ddod a ysbryd Nadoligaidd iddi. Mae Cassie'n bende...</desc>
+		<desc>O weld Kelly'n ddigalon, mae Rhys am ddod ag ysbryd Nadoligaidd iddi. Mae Cassie'n bend...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08x5gq6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251217202500 +0000" stop="20251217205500 +0000">
@@ -7426,7 +7446,7 @@
 	</programme>
 	<programme channel="s4c" start="20251218123000 +0000" stop="20251218130000 +0000">
 		<title>Heno - Wed, 17 Dec 2025</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Sgwrs a chân gyda Alastair James ac fe fydd Emyr Wyn yn son am y ffilm 'Y Dyn Nath Ddwy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251218130000 +0000" stop="20251218133000 +0000">
