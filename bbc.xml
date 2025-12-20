@@ -130,12 +130,12 @@
 		<desc>After three months of hard-fought competition, the 2025 Strictly champion is crowned.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m6zwgj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20251220211000 +0000" stop="20251220220000 +0000">
+	<programme channel="bbcone" start="20251220211000 +0000" stop="20251220220500 +0000">
 		<title>Michael McIntyre's The Wheel - Series 6: Episode 9</title>
 		<desc>The celebrity experts include George Clarke, Kelly Cates, Jason Manford and Judi Love.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mm9kqg.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20251220220000 +0000" stop="20251220221500 +0000">
+	<programme channel="bbcone" start="20251220220500 +0000" stop="20251220221500 +0000">
 		<title>BBC Weekend News - Late News: 20/12/2025</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -1260,10 +1260,15 @@
 		<desc>A foul and festive treat with a unique blend of sketches, pastiche and song.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01gz0tf.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20251220193000 +0000" stop="20251220223000 +0000">
+	<programme channel="bbcthree" start="20251220193000 +0000" stop="20251220221500 +0000">
 		<title>Boxing - Callum Simpson v Troy Williamson</title>
 		<desc>Callum Simpson and Troy Williamson in a super-middleweight title fight in Leeds.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmwx7j.jpg" />
+	</programme>
+	<programme channel="bbcthree" start="20251220221500 +0000" stop="20251220223000 +0000">
+		<title>BBC Comedy Short Films - I Am Darren</title>
+		<desc>Sports mockumentary about GB Paralympian Darren Silverstone.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jl00qq.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251220223000 +0000" stop="20251220235000 +0000">
 		<title>Extras - Christmas Special</title>
@@ -4596,7 +4601,7 @@
 	<programme channel="bbcscotland" start="20251220191500 +0000" stop="20251220201500 +0000">
 		<title>Sportscene: Premiership Highlights - 2025/26: 20/12/2025</title>
 		<desc>Highlights from the afternoon's fixtures in the Scottish Premiership.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfvl6m.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mpxc27.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20251220201500 +0000" stop="20251220211000 +0000">
 		<title>Scotcast - Review of the Year</title>
