@@ -74,11 +74,16 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20251224134500 +0000" stop="20251224135500 +0000">
+	<programme channel="bbcone" start="20251224134500 +0000" stop="20251224135000 +0000">
 		<title>BBC London - Lunchtime News: 24/12/2025</title>
 		<desc>The latest news, sport and weather from London.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20251224135000 +0000" stop="20251224135500 +0000">
+		<title>BBC News at One - 24/12/2025</title>
+		<desc>The latest national and international news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20251224135500 +0000" stop="20251224142500 +0000">
 		<title>Shaun the Sheep: The Flight Before Christmas</title>
@@ -724,7 +729,7 @@
 	<programme channel="bbctwo" start="20251224200000 +0000" stop="20251224203000 +0000">
 		<title>Only Connect - Series 21 Specials: 2. Christmas Special: Whitcombes v Gardners</title>
 		<desc>Two families from past series have come together to play an exasperating Christmas game.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mmsfkg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mqjs29.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251224203000 +0000" stop="20251224210000 +0000">
 		<title>University Challenge - Christmas 2025: 3. Keble College, Oxford v Hull</title>
@@ -1069,7 +1074,7 @@
 	<programme channel="bbctwo" start="20251227163000 +0000" stop="20251227173500 +0000">
 		<title>Final Score - 27/12/2025</title>
 		<desc>The goals, news, analysis and reaction from the afternoon’s biggest football matches.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mpn54r.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mqjqyj.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20251227173500 +0000" stop="20251227183500 +0000">
 		<title>Dad's Army - Battle of the Giants</title>
@@ -1258,7 +1263,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20251224190000 +0000" stop="20251224190500 +0000">
 		<title>The Catch Up - 24/12/2025</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Vanessa Igoe.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20251224190500 +0000" stop="20251224204500 +0000">
@@ -6724,7 +6729,7 @@
 	<programme channel="s4c" start="20251224213000 +0000" stop="20251224223000 +0000">
 		<title>Noson Lawen - Cyfres 2025/26: Noson Lawen 2025</title>
 		<desc>Ymunwch â Hywel Pitts ar gyfer hwyl y Nadolig yng nghwmni Cabarela, Rose Datta, Elen Wy...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mny6f7.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mqj7nj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251224223000 +0000" stop="20251224233500 +0000">
 		<title>Tudur Owen: Go Brin</title>
@@ -6869,7 +6874,7 @@
 	<programme channel="s4c" start="20251225150000 +0000" stop="20251225160000 +0000">
 		<title>Noson Lawen - Cyfres 2025/26: Noson Lawen 2025</title>
 		<desc>Ymunwch â Hywel Pitts ar gyfer hwyl y Nadolig yng nghwmni Cabarela, Rose Datta, Elen Wy...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mny6f7.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mqj7nj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251225160000 +0000" stop="20251225161000 +0000">
 		<title>Nos Da Cyw - Cyfres 6: Cyw 16 - Nos Da Cyw</title>
@@ -7179,7 +7184,7 @@
 	<programme channel="s4c" start="20251226210000 +0000" stop="20251226224000 +0000">
 		<title>Y Crwydryn</title>
 		<desc>Dyma bererindod gerddorol Wil Tân drwy Gymru wledig yn archwilio bywyd, marwolaeth a ch...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mqj88k.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251226224000 +0000" stop="20251226235000 +0000">
 		<title>Mike Bubbins - Un Mewn Miliwn - Magu Hyder</title>
@@ -7231,15 +7236,10 @@
 		<desc>Mae Gwyneth Gwrtaith yn benderfynol o ymlacio ond mae swn ymhob man! Gwyneth Gwrtaith i...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5s53f.jpg" />
 	</programme>
-	<programme channel="s4c" start="20251227073500 +0000" stop="20251227074500 +0000">
+	<programme channel="s4c" start="20251227073500 +0000" stop="20251227075000 +0000">
 		<title>Joni Jet - Cyfres 1: Cuddfan Lili Lafan</title>
 		<desc>Mae Joni a Jini yn dysgu gwers am fod yn or-hyderus wrth geisio atal Lili Lafant rhag d...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
-	</programme>
-	<programme channel="s4c" start="20251227074500 +0000" stop="20251227075000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251227075000 +0000" stop="20251227080000 +0000">
 		<title>Dal Dy Ddannedd - Cyfres 2: Ysgol Gellionnen</title>
@@ -7519,7 +7519,7 @@
 	<programme channel="s4c" start="20251228213000 +0000" stop="20251228223000 +0000">
 		<title>Noson Lawen - Cyfres 2025/26: Noson Lawen 2025</title>
 		<desc>Ymunwch â Hywel Pitts ar gyfer hwyl y Nadolig yng nghwmni Cabarela, Rose Datta, Elen Wy...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mny6f7.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mqj7nj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20251228223000 +0000" stop="20251228233000 +0000">
 		<title>Sgwrs Dan y Lloer - Cyfres 7: Delwyn Sion</title>
