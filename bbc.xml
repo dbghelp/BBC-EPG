@@ -5488,10 +5488,20 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260103060000 +0000" stop="20260103090000 +0000">
+	<programme channel="bbcnews" start="20260103060000 +0000" stop="20260103073000 +0000">
 		<title>Breakfast - 03/01/2026</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260103073000 +0000" stop="20260103080000 +0000">
+		<title>BBC News - 03/01/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260103080000 +0000" stop="20260103090000 +0000">
+		<title>BBC News - 03/01/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260103090000 +0000" stop="20260103100000 +0000">
 		<title>BBC News - 03/01/2026</title>
