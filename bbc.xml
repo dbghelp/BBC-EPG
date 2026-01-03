@@ -5578,15 +5578,10 @@
 		<desc>The latest news from the BBC including a round-up of the day's sporting action.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260103200000 +0000" stop="20260103203000 +0000">
+	<programme channel="bbcnews" start="20260103200000 +0000" stop="20260103210000 +0000">
 		<title>BBC News - 03/01/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260103203000 +0000" stop="20260103210000 +0000">
-		<title>Newscast - 03/01/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260103210000 +0000" stop="20260103220000 +0000">
 		<title>BBC News - 03/01/2026</title>
@@ -7774,7 +7769,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mq39bf.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260104210000 +0000" stop="20260104220000 +0000">
-		<title>Dal y Mellt - Cyfres 2: Y Gwir yn Brifo</title>
+		<title>Dal y Mellt - Cyfres 2: 1. Y Gwir yn Brifo</title>
 		<desc>Cyfres 2. Wedi heist lwyddiannus mae Carbo a'r criw ar ben y byd - ond daw tro ar fyd w...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mppykw.jpg" />
 	</programme>
@@ -8664,7 +8659,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260107210000 +0000" stop="20260107220000 +0000">
-		<title>Dal y Mellt - Cyfres 2: Y Gwir yn Brifo</title>
+		<title>Dal y Mellt - Cyfres 2: 1. Y Gwir yn Brifo</title>
 		<desc>Cyfres 2. Wedi heist lwyddiannus mae Carbo a'r criw ar ben y byd - ond daw tro ar fyd w...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mppykw.jpg" />
 	</programme>
