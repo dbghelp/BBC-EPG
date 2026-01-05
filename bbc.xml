@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260105190000 +0000" stop="20260105193000 +0000">
 		<title>The One Show - 05/01/2026</title>
-		<desc>Angellica Bell and Lauren Laverne bring you the stories that matter.</desc>
+		<desc>James Nesbitt, Phil Daniels, Josh Finan and Helen Skelton join Angellica and Lauren.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260105193000 +0000" stop="20260105200000 +0000">
@@ -5618,10 +5618,20 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260105130000 +0000" stop="20260105140000 +0000">
-		<title>BBC News at One - 05/01/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	<programme channel="bbcnews" start="20260105130000 +0000" stop="20260105133000 +0000">
+		<title>BBC News Now - 05/01/2026</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260105133000 +0000" stop="20260105135500 +0000">
+		<title>BBC News Now - 05/01/2026</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260105135500 +0000" stop="20260105140000 +0000">
+		<title>Tech Now - 24/11/2025</title>
+		<desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260105140000 +0000" stop="20260105143000 +0000">
 		<title>BBC News Now - 05/01/2026</title>
@@ -7935,7 +7945,7 @@
 	</programme>
 	<programme channel="s4c" start="20260105140500 +0000" stop="20260105150000 +0000">
 		<title>Prynhawn Da - Mon, 05 Jan 2026</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Mae gan Nerys rysait iachus ac mae digon o tips ar gyfer cadw'n heini gan Elin Wyn Will...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260105150000 +0000" stop="20260105150500 +0000">
@@ -8005,7 +8015,7 @@
 	</programme>
 	<programme channel="s4c" start="20260105190000 +0000" stop="20260105193000 +0000">
 		<title>Heno - Mon, 05 Jan 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Wrth i'r trimins Nadolig ddod i lawr, mae Gerallt yn dathlu traddodiadau Nos Ystwyll ac...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260105193000 +0000" stop="20260105200000 +0000">
@@ -8215,7 +8225,7 @@
 	</programme>
 	<programme channel="s4c" start="20260106123000 +0000" stop="20260106130000 +0000">
 		<title>Heno - Mon, 05 Jan 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Wrth i'r trimins Nadolig ddod i lawr, mae Gerallt yn dathlu traddodiadau Nos Ystwyll ac...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260106130000 +0000" stop="20260106133000 +0000">
