@@ -6899,8 +6899,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260106100000 +0000" stop="20260106113000 +0000">
-		<title>Select Committees - 06/01/2026</title>
-		<desc>Coverage of select committee proceedings on Tuesday 6 January.</desc>
+		<title>Select Committees - Environment Committee on Reforming the Water Sector</title>
+		<desc>The Environment, Food and Rural Affairs committee on reforming the UK water sector.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260106113000 +0000" stop="20260106123000 +0000">
@@ -6908,23 +6908,8 @@
 		<desc>Coverage of questions to Ed Miliband on Tuesday 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260106123000 +0000" stop="20260106133000 +0000">
-		<title>House of Commons - 06/01/2026 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260106133000 +0000" stop="20260106143000 +0000">
-		<title>House of Commons - 06/01/2026 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260106143000 +0000" stop="20260106153000 +0000">
-		<title>House of Commons - 06/01/2026 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260106153000 +0000" stop="20260106193000 +0000">
-		<title>House of Commons - 06/01/2026 Part 4</title>
+	<programme channel="bbcparliament" start="20260106123000 +0000" stop="20260106193000 +0000">
+		<title>House of Commons - 06/01/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6938,38 +6923,8 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260106224500 +0000" stop="20260106234500 +0000">
-		<title>House of Lords - 06/01/2026 Part 1</title>
-		<desc>Business in the House of Lords on Tuesday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260106234500 +0000" stop="20260107004500 +0000">
-		<title>House of Lords - 06/01/2026 Part 2</title>
-		<desc>Business in the House of Lords on Tuesday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260107004500 +0000" stop="20260107014500 +0000">
-		<title>House of Lords - 06/01/2026 Part 3</title>
-		<desc>Business in the House of Lords on Tuesday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260107014500 +0000" stop="20260107024500 +0000">
-		<title>House of Lords - 06/01/2026 Part 4</title>
-		<desc>Business in the House of Lords on Tuesday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260107024500 +0000" stop="20260107034500 +0000">
-		<title>House of Lords - 06/01/2026 Part 5</title>
-		<desc>Business in the House of Lords on Tuesday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260107034500 +0000" stop="20260107044500 +0000">
-		<title>House of Lords - 06/01/2026 Part 6</title>
-		<desc>Business in the House of Lords on Tuesday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260107044500 +0000" stop="20260107070000 +0000">
-		<title>House of Lords - 06/01/2026 Part 7</title>
+	<programme channel="bbcparliament" start="20260106224500 +0000" stop="20260107070000 +0000">
+		<title>House of Lords - 06/01/2026</title>
 		<desc>Business in the House of Lords on Tuesday 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -8220,7 +8175,7 @@
 	</programme>
 	<programme channel="s4c" start="20260106140500 +0000" stop="20260106150000 +0000">
 		<title>Prynhawn Da - Tue, 06 Jan 2026</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Byddwn yn agor drysau'r syrjeri gyda Dr Llinos. Hefyd, gewn ni gwmni Gethin Thomas. We'...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260106150000 +0000" stop="20260106150500 +0000">
@@ -8285,7 +8240,7 @@
 	</programme>
 	<programme channel="s4c" start="20260106190000 +0000" stop="20260106193000 +0000">
 		<title>Heno - Tue, 06 Jan 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Byddwn yn sgwrsio gyda'r dylanwadwr, Tom Gardiner. Hefyd, byddwn ni'n fyw mewn Plygain ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260106193000 +0000" stop="20260106200000 +0000">
@@ -8495,7 +8450,7 @@
 	</programme>
 	<programme channel="s4c" start="20260107123000 +0000" stop="20260107130000 +0000">
 		<title>Heno - Tue, 06 Jan 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Byddwn yn sgwrsio gyda'r dylanwadwr, Tom Gardiner. Hefyd, byddwn ni'n fyw mewn Plygain ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260107130000 +0000" stop="20260107133000 +0000">
