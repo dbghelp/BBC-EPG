@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20260109093000 +0000" stop="20260109104500 +0000">
 		<title>Morning Live - Series 7: 09/01/2026</title>
 		<desc>Gethin Jones and Michelle Ackerley are joined by Dr Punam, who shares her cancer diagnosis</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt4yj9.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260109104500 +0000" stop="20260109113000 +0000">
 		<title>Rip Off Britain - Series 17: 35. Slimed by sludge pipe leak during our dream cruise</title>
@@ -139,7 +139,7 @@
 	<programme channel="bbcone" start="20260109210500 +0000" stop="20260109213000 +0000">
 		<title>The Traitors: Uncloaked - Traitors Series 4: Episode 6</title>
 		<desc>Ed Gamble discusses episode 6 with series 1 Traitor Amanda and Charlotte Church!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msjw4j.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt57jq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260109213000 +0000" stop="20260109220000 +0000">
 		<title>Amanda &amp; Alan's Greek Job - Series 1: Episode 2</title>
@@ -1018,7 +1018,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20260111171500 +0000" stop="20260111180000 +0000">
 		<title>Ski Sunday - 2026: 11/01/2026</title>
-		<desc>World Cup racing and stories from the world of snowsport.</desc>
+		<desc>Ed Leigh and Chemmy Alcott with high-octane action from the Austrian resort of Zauchansee.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h4b81g.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260111180000 +0000" stop="20260111190000 +0000">
@@ -1524,7 +1524,7 @@
 	<programme channel="bbcthree" start="20260112010500 +0000" stop="20260112013000 +0000">
 		<title>The Traitors: Uncloaked - Traitors Series 4: Episode 6</title>
 		<desc>Ed Gamble discusses episode 6 with series 1 Traitor Amanda and Charlotte Church!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msjw4j.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt57jq.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260112013000 +0000" stop="20260112023500 +0000">
 		<title>Top Gear - Patagonia Special: Part 1</title>
@@ -5675,7 +5675,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260110154500 +0000" stop="20260110160000 +0000">
 		<title>Newswatch - 10/01/2026</title>
-		<desc>Your views on the coverage of events by BBC News.</desc>
+		<desc>What are the big issues BBC News will be facing in 2026?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r0tr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260110160000 +0000" stop="20260110163000 +0000">
@@ -6548,7 +6548,7 @@
 	<programme channel="bbcparliament" start="20260109070500 +0000" stop="20260109085000 +0000">
 		<title>Westminster Hall - 05/01/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall from Monday 5 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt5dz9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260109085000 +0000" stop="20260109100000 +0000">
 		<title>House of Commons - Home Office Questions</title>
@@ -6635,172 +6635,177 @@
 		<desc>Debate tabled by the Scottish Conservatives on stopping planned business tax increases.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260110060000 +0000" stop="20260110110000 +0000">
+	<programme channel="bbcparliament" start="20260110060000 +0000" stop="20260110105000 +0000">
 		<title>Westminster Hall - 06/01/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall from Tuesday 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260110110000 +0000" stop="20260110113500 +0000">
+	<programme channel="bbcparliament" start="20260110105000 +0000" stop="20260110110000 +0000">
+		<title>Ten Minute Rule Bill - Property Registration</title>
+		<desc>The introduction of a bill on the registration and valuation of property.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt58vk.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260110110000 +0000" stop="20260110114000 +0000">
 		<title>Prime Minister's Questions - 07/01/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 7 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msjyb8.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260110113500 +0000" stop="20260110122000 +0000">
+	<programme channel="bbcparliament" start="20260110114000 +0000" stop="20260110123000 +0000">
 		<title>Scottish First Minister's Questions - 08/01/2026</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 8 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt3m00.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260110122000 +0000" stop="20260110132000 +0000">
-		<title>House of Commons - 10/01/2026</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260110123000 +0000" stop="20260110144500 +0000">
+		<title>House of Commons - Venezuela Statement</title>
+		<desc>The statement in the House of Commons by foreign secretary Yvette Cooper on Venezuela.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mscngn.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260110132000 +0000" stop="20260110141500 +0000">
-		<title>House of Lords - 10/01/2026</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20260110144500 +0000" stop="20260110152500 +0000">
+		<title>House of Lords - Venezuela Statement</title>
+		<desc>Coverage of the statement in the House of Lords on Venezuela, on Tuesday 6 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt3xx1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260110141500 +0000" stop="20260110151500 +0000">
-		<title>Scottish Parliament - 10/01/2025</title>
-		<desc>Coverage of a statement in the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20260110152500 +0000" stop="20260110153500 +0000">
+		<title>House of Lords - Agricultural Property Relief Statement</title>
+		<desc>Statement on planned changes to Agricultural Property Relief and Business Property Relief.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msk123.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260110153500 +0000" stop="20260110154500 +0000">
+		<title>House of Lords - Northern Ireland Troubles Bill Statement</title>
+		<desc>Statement on the impact of the Northern Ireland Troubles Bill on armed forces recruitment.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt3stg.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260110154500 +0000" stop="20260110161500 +0000">
+		<title>Scottish Parliament - Education and Skills Questions</title>
+		<desc>Coverage of questions to the cabinet secretary for education and skills, Jenny Gilruth.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260110151500 +0000" stop="20260110161000 +0000">
-		<title>House of Commons - Housing, Communities and Local Government Questions</title>
-		<desc>Coverage of questions to Steve Reed on Monday 12 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260110161500 +0000" stop="20260110165500 +0000">
+		<title>House of Commons - Northern Ireland Troubles Bill Urgent Question</title>
+		<desc>The question on the impact of the Northern Ireland Troubles Bill on military recruitment.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mscmnw.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260110161000 +0000" stop="20260110170500 +0000">
-		<title>House of Lords - 10/01/2026</title>
-		<desc>Coverage of a private notice question in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260110170500 +0000" stop="20260110180000 +0000">
-		<title>Scottish Parliament - 10/01/2025</title>
-		<desc>Coverage of a debate in the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20260110165500 +0000" stop="20260110180000 +0000">
+		<title>Scottish Parliament - Lowering Workers' Bills Debate</title>
+		<desc>The debate tabled by the Scottish Conservatives on lowering bills for workers in Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260110180000 +0000" stop="20260111001000 +0000">
-		<title>Select Committees - 10/01/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20260110180000 +0000" stop="20260110211000 +0000">
+		<title>Select Committees - Environment Committee on Reforming the Water Sector</title>
+		<desc>The Environment, Food and Rural Affairs committee on reforming the UK water sector.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msjw02.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260110211000 +0000" stop="20260110231500 +0000">
+		<title>Select Committees - Foreign Affairs Committee with Foreign Secretary Yvette Cooper</title>
+		<desc>The Foreign Affairs committee with evidence from the foreign secretary Yvette Cooper.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260111001000 +0000" stop="20260111004500 +0000">
+	<programme channel="bbcparliament" start="20260110231500 +0000" stop="20260110235500 +0000">
 		<title>Prime Minister's Questions - 07/01/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 7 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msjyb8.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260111004500 +0000" stop="20260111013000 +0000">
+	<programme channel="bbcparliament" start="20260110235500 +0000" stop="20260111004000 +0000">
 		<title>Scottish First Minister's Questions - 08/01/2026</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 8 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt3m00.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260111013000 +0000" stop="20260111023000 +0000">
+	<programme channel="bbcparliament" start="20260111004000 +0000" stop="20260111015000 +0000">
 		<title>House of Commons - Home Office Questions</title>
 		<desc>Coverage of questions to Shabana Mahmood on Monday 5 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ms7n5h.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260111023000 +0000" stop="20260111033000 +0000">
+	<programme channel="bbcparliament" start="20260111015000 +0000" stop="20260111030000 +0000">
 		<title>House of Commons - Energy Security and Net Zero Questions</title>
 		<desc>Coverage of questions to Ed Miliband on Tuesday 6 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msjws4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260111033000 +0000" stop="20260111040000 +0000">
+	<programme channel="bbcparliament" start="20260111030000 +0000" stop="20260111033000 +0000">
 		<title>House of Commons - Northern Ireland Office Questions</title>
 		<desc>Coverage of questions to Hilary Benn on Wednesday 7 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msys88.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260111040000 +0000" stop="20260111050000 +0000">
+	<programme channel="bbcparliament" start="20260111033000 +0000" stop="20260111044000 +0000">
 		<title>House of Commons - Transport Questions</title>
 		<desc>Coverage of questions to Heidi Alexander on Thursday 8 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msylvq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260111050000 +0000" stop="20260111060000 +0000">
+	<programme channel="bbcparliament" start="20260111044000 +0000" stop="20260111060000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 8 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msyrvf.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260111060000 +0000" stop="20260111110000 +0000">
+	<programme channel="bbcparliament" start="20260111060000 +0000" stop="20260111102000 +0000">
 		<title>Westminster Hall - 07/01/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall from Wednesday 7 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260111110000 +0000" stop="20260111115500 +0000">
-		<title>Scottish Parliament - 10/01/2025</title>
-		<desc>Coverage of a debate in the Scottish Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260111115500 +0000" stop="20260111125000 +0000">
-		<title>House of Lords - 10/01/2026</title>
-		<desc>Coverage of a private notice question in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260111125000 +0000" stop="20260111134500 +0000">
-		<title>House of Commons - Housing, Communities and Local Government Questions</title>
-		<desc>Coverage of questions to Steve Reed on Monday 12 January.</desc>
+	<programme channel="bbcparliament" start="20260111102000 +0000" stop="20260111135500 +0000">
+		<title>House of Commons - Cyber Security and Resilience Bill</title>
+		<desc>The debate on the Cyber Security and Resilience (Network and Information Systems) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260111134500 +0000" stop="20260111144500 +0000">
-		<title>Scottish Parliament - 10/01/2025</title>
-		<desc>Coverage of a statement in the Scottish Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	<programme channel="bbcparliament" start="20260111135500 +0000" stop="20260111155500 +0000">
+		<title>Scottish Parliament - Building Safety Levy Bill</title>
+		<desc>Coverage of a debate at Holyrood on the Building Safety Levy Bill, on Thursday 8 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt3r42.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260111144500 +0000" stop="20260111154000 +0000">
-		<title>House of Lords - 10/01/2026</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260111154000 +0000" stop="20260111164000 +0000">
-		<title>House of Commons - 10/01/2026</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260111164000 +0000" stop="20260111171500 +0000">
-		<title>Prime Minister's Questions - 07/01/2026</title>
-		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 7 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msjyb8.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260111171500 +0000" stop="20260111180000 +0000">
-		<title>Scottish First Minister's Questions - 08/01/2026</title>
-		<desc>Questions to John Swinney, the first minister, on Thursday 8 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt3m00.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260111180000 +0000" stop="20260112001000 +0000">
-		<title>Select Committees - 11/01/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260112001000 +0000" stop="20260112011000 +0000">
-		<title>House of Commons - Transport Questions</title>
-		<desc>Coverage of questions to Heidi Alexander on Thursday 8 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msylvq.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260112011000 +0000" stop="20260112021000 +0000">
-		<title>House of Commons - Commons Business Questions</title>
-		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 8 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msyrvf.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260112021000 +0000" stop="20260112024000 +0000">
+	<programme channel="bbcparliament" start="20260111155500 +0000" stop="20260111162500 +0000">
 		<title>House of Commons - Northern Ireland Office Questions</title>
 		<desc>Coverage of questions to Hilary Benn on Wednesday 7 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msys88.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260112024000 +0000" stop="20260112034000 +0000">
-		<title>House of Commons - Energy Security and Net Zero Questions</title>
-		<desc>Coverage of questions to Ed Miliband on Tuesday 6 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msjws4.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260112034000 +0000" stop="20260112044000 +0000">
-		<title>House of Commons - Home Office Questions</title>
-		<desc>Coverage of questions to Shabana Mahmood on Monday 5 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ms7n5h.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260112044000 +0000" stop="20260112051500 +0000">
+	<programme channel="bbcparliament" start="20260111162500 +0000" stop="20260111170500 +0000">
 		<title>Prime Minister's Questions - 07/01/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 7 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msjyb8.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260112051500 +0000" stop="20260112060000 +0000">
+	<programme channel="bbcparliament" start="20260111170500 +0000" stop="20260111175000 +0000">
+		<title>Scottish First Minister's Questions - 08/01/2026</title>
+		<desc>Questions to John Swinney, the first minister, on Thursday 8 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt3m00.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260111175000 +0000" stop="20260111204000 +0000">
+		<title>Select Committees - Home Affairs Committee on Football Policing</title>
+		<desc>Coverage of the Home Affairs select committee on football policing from Tuesday 6 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260111204000 +0000" stop="20260111231500 +0000">
+		<title>Select Committees - Transport Committee on the Railways Bill</title>
+		<desc>The Transport select committee session on the Railways Bill, from Wednesday 7 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260111231500 +0000" stop="20260112002500 +0000">
+		<title>House of Commons - Transport Questions</title>
+		<desc>Coverage of questions to Heidi Alexander on Thursday 8 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msylvq.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260112002500 +0000" stop="20260112014500 +0000">
+		<title>House of Commons - Commons Business Questions</title>
+		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 8 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msyrvf.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260112014500 +0000" stop="20260112021000 +0000">
+		<title>House of Commons - Northern Ireland Office Questions</title>
+		<desc>Coverage of questions to Hilary Benn on Wednesday 7 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msys88.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260112021000 +0000" stop="20260112032000 +0000">
+		<title>House of Commons - Energy Security and Net Zero Questions</title>
+		<desc>Coverage of questions to Ed Miliband on Tuesday 6 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msjws4.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260112032000 +0000" stop="20260112043000 +0000">
+		<title>House of Commons - Home Office Questions</title>
+		<desc>Coverage of questions to Shabana Mahmood on Monday 5 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ms7n5h.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260112043000 +0000" stop="20260112051000 +0000">
+		<title>Prime Minister's Questions - 07/01/2026</title>
+		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 7 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msjyb8.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260112051000 +0000" stop="20260112060000 +0000">
 		<title>Scottish First Minister's Questions - 08/01/2026</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 8 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt3m00.jpg" />
@@ -6813,7 +6818,7 @@
 	<programme channel="bbcparliament" start="20260112082500 +0000" stop="20260112083500 +0000">
 		<title>Ten Minute Rule Bill - Student Finance</title>
 		<desc>The introduction of a Bill on a review of payment schedules for student financel.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mt5chm.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260112083500 +0000" stop="20260112092500 +0000">
 		<title>Scottish First Minister's Questions - 08/01/2026</title>
