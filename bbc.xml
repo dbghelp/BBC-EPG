@@ -1694,10 +1694,15 @@
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20260112190000 +0000" stop="20260112220000 +0000">
+	<programme channel="bbcfour" start="20260112190000 +0000" stop="20260112213000 +0000">
 		<title>Snooker: The Masters - 2026: Day 2, Part 2</title>
 		<desc>Coverage from the second day of the 2026 Masters snooker tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msw33v.jpg" />
+	</programme>
+	<programme channel="bbcfour" start="20260112213000 +0000" stop="20260112220000 +0000">
+		<title>Dangerous Earth - 6. Iceberg</title>
+		<desc>Dr Helen Czerski reveals the latest scientific insights into icebergs.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04hq9nf.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260112220000 +0000" stop="20260112230000 +0000">
 		<title>Lee Miller: A Life on the Front Line</title>
