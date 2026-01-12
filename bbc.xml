@@ -88,7 +88,7 @@
 	<programme channel="bbcone" start="20260112140000 +0000" stop="20260112143000 +0000">
 		<title>Lost and Found in the Lakes - Series 2: 5. The Ring at the Jetty</title>
 		<desc>A challenging search for the divers as they scour a jetty, seeking a beloved lost ring.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mqk1l9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtltdm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260112143000 +0000" stop="20260112150000 +0000">
 		<title>Animal Park - Summer 2025: Episode 6</title>
@@ -711,7 +711,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260116224000 +0000" stop="20260116233000 +0000">
 		<title>The Graham Norton Show - Series 33: Episode 14</title>
-		<desc>Graham's guests include Martin Freeman, Erin Doherty and Olivia Dean.</desc>
+		<desc>Guests include Sir Idris Elba, Martin Freeman, Erin Doherty, Olivia Dean and Wunmi Mosaku.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m34s2n.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260116233000 +0000" stop="20260117010000 +0000">
@@ -754,10 +754,15 @@
 		<desc>Should under-16s be banned from accessing social media platforms?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260112130000 +0000" stop="20260112171500 +0000">
+	<programme channel="bbctwo" start="20260112130000 +0000" stop="20260112164500 +0000">
 		<title>Snooker: The Masters - 2026: Day 2, Part 1</title>
 		<desc>Coverage from the second day of the 2026 Masters snooker tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msw2d0.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260112164500 +0000" stop="20260112171500 +0000">
+		<title>The Wonder of Animals - 5. Foxes</title>
+		<desc>How the fox's senses, intelligence and flexibility help it compete in the modern world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p025z3rf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260112171500 +0000" stop="20260112180000 +0000">
 		<title>Flog It! - Series 11: 60. Exeter 58</title>
@@ -6637,7 +6642,7 @@
 	<programme channel="bbcnews" start="20260117023000 +0000" stop="20260117030000 +0000">
 		<title>Kevin Sinfield: 7 in 7 Together</title>
 		<desc>The rugby league legend runs seven ultramarathons in seven days.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtlhq1.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260117030000 +0000" stop="20260117033000 +0000">
 		<title>BBC News - 17/01/2026</title>
@@ -6692,32 +6697,32 @@
 	<programme channel="bbcparliament" start="20260112100500 +0000" stop="20260112113000 +0000">
 		<title>Select Committees - Foreign Affairs Committee on Disinformation Diplomacy</title>
 		<desc>Committee on disinformation diplomacy and the threats from Russia, China and Iran.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtlvgd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260112113000 +0000" stop="20260112140000 +0000">
 		<title>House of Lords - Visas for Language Teachers Debate</title>
 		<desc>A debate on visa waivers and foreign language teachers in schools and universities.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtlw9q.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260112140000 +0000" stop="20260112143000 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 12 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtlwkq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260112143000 +0000" stop="20260112153000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Steve Reed on Monday 12 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtly89.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260112153000 +0000" stop="20260112161500 +0000">
 		<title>House of Commons - Helicopter Contract Urgent Question</title>
 		<desc>Urgent question on delays to the awarding of the New Medium Helicopter contract.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtlz9t.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260112161500 +0000" stop="20260112170000 +0000">
 		<title>House of Commons - Water Supplies Urgent Question</title>
 		<desc>An urgent question on the ongoing interruption to water supplies in East Grinstead.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtm128.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260112170000 +0000" stop="20260112180000 +0000">
 		<title>House of Commons - Deepfakes on Social Media Statement</title>
@@ -6732,12 +6737,17 @@
 	<programme channel="bbcparliament" start="20260112223000 +0000" stop="20260112231500 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 12 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtlwkq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260112231500 +0000" stop="20260113000000 +0000">
 		<title>Lords Questions - 12/01/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 12 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260113000000 +0000" stop="20260113001000 +0000">
+		<title>House of Lords - Introductions</title>
+		<desc>The introduction to the House of Lords of new peers Lord Doyle and Lord Duvall.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260113001000 +0000" stop="20260113002500 +0000">
 		<title>House of Lords - Iran Private Notice Question</title>
@@ -6759,25 +6769,20 @@
 		<desc>A debate on the third reading of the Sentencing Bill, on Monday 12 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260113045500 +0000" stop="20260113065500 +0000">
+	<programme channel="bbcparliament" start="20260113045500 +0000" stop="20260113064000 +0000">
 		<title>House of Lords - Biodiversity Beyond National Jurisdiction Bill</title>
 		<desc>A debate on the report stage of the Biodiversity Beyond National Jurisdiction Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260113065500 +0000" stop="20260113070000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260113070000 +0000" stop="20260113080000 +0000">
+	<programme channel="bbcparliament" start="20260113064000 +0000" stop="20260113074500 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Steve Reed on Monday 12 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtly89.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260113080000 +0000" stop="20260113100000 +0000">
-		<title>House of Commons - 13/01/2026</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 12 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260113074500 +0000" stop="20260113100000 +0000">
+		<title>Select Committees - Culture, Media and Sport Committee on Built Heritage</title>
+		<desc>The Culture, Media and Sport select committee session on protecting built heritage.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260113100000 +0000" stop="20260113113000 +0000">
 		<title>Select Committees - Housing, Communities and Local Government Committee</title>
@@ -6977,7 +6982,7 @@
 	<programme channel="bbcparliament" start="20260117043000 +0000" stop="20260117051500 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 12 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtlwkq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260117051500 +0000" stop="20260117060000 +0000">
 		<title>Northern Ireland Assembly - 16/12/2025</title>
