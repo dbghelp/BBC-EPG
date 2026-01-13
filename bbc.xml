@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260113190000 +0000" stop="20260113193000 +0000">
 		<title>The One Show - 13/01/2026</title>
-		<desc>Roman Kemp and Lauren Laverne bring you the stories that matter from across the country.</desc>
+		<desc>Griff Rhys Jones, Paddy McGuinness and Cherry Healey join Roman Kemp and Lauren Laverne.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260113193000 +0000" stop="20260113200000 +0000">
@@ -733,8 +733,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260113121500 +0000" stop="20260113130000 +0000">
-		<title>Politics Live - 13/01/2026</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - Corridor Care in the NHS</title>
+		<desc>The government warns X over Grok AI deepfakes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260113130000 +0000" stop="20260113171500 +0000">
@@ -3016,15 +3016,15 @@
 		<desc>Nitro, Legend and Freddie Fraser fool Apollo, Athena, Fury and Giant.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtj2ls.jpg" />
 	</programme>
-	<programme channel="cbbc" start="20260117092000 +0000" stop="20260117103000 +0000">
-		<title>Scooby-Doo and the Alien Invaders</title>
-		<desc>Stranded in a remote desert town, the gang soon discover plenty of mysteries to solve.</desc>
+	<programme channel="cbbc" start="20260117092000 +0000" stop="20260117103500 +0000">
+		<title>Scooby-Doo! Abracadabra-Doo</title>
+		<desc>A school for magicians faces danger from a fantastical flying creature and sinister forces</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8qps2.jpg" />
 	</programme>
-	<programme channel="cbbc" start="20260117103000 +0000" stop="20260117104500 +0000">
-		<title>Total Dramarama - Series 1: 20. Bananas &amp; Cheese</title>
-		<desc>Duncan is determined to stop the musical duo Bananas &amp; Cheese from coming to the daycare.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fn0cgx.jpg" />
+	<programme channel="cbbc" start="20260117103500 +0000" stop="20260117104500 +0000">
+		<title>Grizzy and the Lemmings - Series 3: 12. Tai Chi Lemmings</title>
+		<desc>The Lemmings discover tai chi movements that generate balls of energy!</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g0grmg.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260117104500 +0000" stop="20260117105500 +0000">
 		<title>Total Dramarama - Series 1: 21. From Badge to Worse</title>
@@ -5470,25 +5470,15 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260113140000 +0000" stop="20260113143000 +0000">
+	<programme channel="bbcnews" start="20260113140000 +0000" stop="20260113141500 +0000">
 		<title>BBC News Now - 13/01/2026</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260113143000 +0000" stop="20260113144500 +0000">
-		<title>Business Today - NYSE Opening Bell - 13/01/2026</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260113144500 +0000" stop="20260113150000 +0000">
-		<title>BBC News Now - 13/01/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260113150000 +0000" stop="20260113153000 +0000">
-		<title>Verified Live - 13/01/2026</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
+	<programme channel="bbcnews" start="20260113141500 +0000" stop="20260113153000 +0000">
+		<title>Politics Scotland - Budget Special</title>
+		<desc>Gary Robertson presents live coverage of the 2026 Budget from the Scottish Parliament.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lyflv.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260113153000 +0000" stop="20260113160000 +0000">
 		<title>Verified Live - 13/01/2026</title>
@@ -6635,7 +6625,27 @@
 		<desc>Coverage of questions to Wes Streeting on Tuesday 13 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260113123000 +0000" stop="20260113193000 +0000">
+	<programme channel="bbcparliament" start="20260113123000 +0000" stop="20260113131500 +0000">
+		<title>House of Commons - Chinese Embassy Urgent Question</title>
+		<desc>Urgent question on the unredacted plans for the proposed new Chinese Embassy in London.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260113131500 +0000" stop="20260113140000 +0000">
+		<title>House of Commons - Storm Goretti Urgent Question</title>
+		<desc>Coverage of an urgent question calling for a statement following Storm Goretti.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260113140000 +0000" stop="20260113143000 +0000">
+		<title>House of Commons - Commons Business Statement</title>
+		<desc>Questions to Alan Campbell, the leader of the Commons, on Tuesday 13 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260113143000 +0000" stop="20260113153000 +0000">
+		<title>House of Commons - Iran Statement</title>
+		<desc>Coverage of a statement by foreign secretary Yvette Cooper on the situation in Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260113153000 +0000" stop="20260113193000 +0000">
 		<title>House of Commons - 13/01/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 13 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -7333,7 +7343,7 @@
 	<programme channel="bbcalba" start="20260116193000 +0000" stop="20260116212500 +0000">
 		<title>Rugbaidh air BBC ALBA/Rugby on BBC ALBA - Men's Premiership 2025/26: 3. Melrose v Selkirk</title>
 		<desc>Live action from the Men’s Premiership as Borders rivals Melrose and Selkirk face off.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m32mf4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtqg9c.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260116212500 +0000" stop="20260116213000 +0000">
 		<title>Skipinnish Aig A' Chaisteal - Skipinnish Shorts: Episode 7</title>
@@ -7672,7 +7682,7 @@
 	</programme>
 	<programme channel="s4c" start="20260113140500 +0000" stop="20260113150000 +0000">
 		<title>Prynhawn Da - Tue, 13 Jan 2026</title>
-		<desc>Byddwn yn trafod cyngor arian gyda Steff a, gyda Marc Hamilton, byddwn yn trafod gofal ...</desc>
+		<desc>Byddwn yn trafod cyngor arian gyda Steff, ac mae Marc Hamilton yma yn trafod gofal croe...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260113150000 +0000" stop="20260113150500 +0000">
@@ -7747,7 +7757,7 @@
 	</programme>
 	<programme channel="s4c" start="20260113200000 +0000" stop="20260113202500 +0000">
 		<title>Pobol y Cwm - Tue, 13 Jan 2026</title>
-		<desc>Mae Gaynor yn derbyn newyddion pellach am farwolaeth Cheryl. Ydi perthynas Eleri a Jinx...</desc>
+		<desc>Mae Gaynor yn derbyn newyddion pellach am farwolaeth Cheryl. Ydy perthynas Eleri a Jinx...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mpmhtm.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260113202500 +0000" stop="20260113205500 +0000">
