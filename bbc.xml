@@ -5435,12 +5435,7 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260113100000 +0000" stop="20260113103000 +0000">
-		<title>BBC News - 13/01/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260113103000 +0000" stop="20260113110000 +0000">
+	<programme channel="bbcnews" start="20260113100000 +0000" stop="20260113110000 +0000">
 		<title>BBC News - 13/01/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
@@ -6626,8 +6621,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtly89.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260113074000 +0000" stop="20260113100000 +0000">
-		<title>Select Committees - Culture, Media and Sport Committee on Built Heritage</title>
-		<desc>The Culture, Media and Sport select committee session on protecting built heritage.</desc>
+		<title>Select Committees - Public Accounts Committee on the BBC World Service</title>
+		<desc>A committee session on the BBC World Service for 2024-25, from Thursday 8 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260113100000 +0000" stop="20260113113000 +0000">
