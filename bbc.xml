@@ -737,8 +737,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260114111500 +0000" stop="20260114130000 +0000">
-		<title>Politics Live - 14/01/2026</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - Prime Minister’s Questions</title>
+		<desc>Digital ID cards, Northern Powerhouse Rail project, and the UK Town of Culture competition</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260114130000 +0000" stop="20260114171500 +0000">
@@ -5420,8 +5420,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260114115500 +0000" stop="20260114130000 +0000">
-		<title>Politics Live - 14/01/2026</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - Prime Minister’s Questions</title>
+		<desc>Digital ID cards, Northern Powerhouse Rail project, and the UK Town of Culture competition</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260114130000 +0000" stop="20260114140000 +0000">
@@ -6534,27 +6534,27 @@
 		<desc>The ninth day of debate on the committee stage of the Crime and Policing Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260114064500 +0000" stop="20260114074500 +0000">
+	<programme channel="bbcparliament" start="20260114064500 +0000" stop="20260114074000 +0000">
 		<title>House of Lords - Crime and Policing Bill, Part 4</title>
 		<desc>The ninth day of debate on the committee stage of the Crime and Policing Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260114074500 +0000" stop="20260114080000 +0000">
+	<programme channel="bbcparliament" start="20260114074000 +0000" stop="20260114075500 +0000">
 		<title>Ten Minute Rule Bill - Life-Saving Skills in Schools</title>
 		<desc>The introduction of a Bill on emergency and life-saving skills in schools.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260114080000 +0000" stop="20260114091500 +0000">
+	<programme channel="bbcparliament" start="20260114075500 +0000" stop="20260114091000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 13 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtrzz7.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260114091500 +0000" stop="20260114095500 +0000">
+	<programme channel="bbcparliament" start="20260114091000 +0000" stop="20260114095000 +0000">
 		<title>House of Commons - Storm Goretti Urgent Question</title>
 		<desc>Coverage of an urgent question calling for a statement following Storm Goretti.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mts1bc.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260114095500 +0000" stop="20260114113000 +0000">
+	<programme channel="bbcparliament" start="20260114095000 +0000" stop="20260114113000 +0000">
 		<title>Scottish Parliament - Budget Statement</title>
 		<desc>The Budget statement and the spending review by finance secretary Shona Robison.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
@@ -7459,15 +7459,10 @@
 		<desc>Heddiw cawn glywed pam mae gan Iâr Gini ddotiau. Colourful stories from Africa about th...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02fv4ld.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260114064000 +0000" stop="20260114065500 +0000">
+	<programme channel="s4c" start="20260114064000 +0000" stop="20260114070000 +0000">
 		<title>Amser Maith Maith yn Ôl - Cyfres 3: Eistedd</title>
 		<desc>Mae rhywbeth mawr yn digwydd yn Llys Llywelyn heddiw - rhywbeth o'r enw Eisteddfod! The...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06sjjvg.jpg" />
-	</programme>
-	<programme channel="s4c" start="20260114065500 +0000" stop="20260114070000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260114070000 +0000" stop="20260114070500 +0000">
 		<title>Caban Banana Gareth - Cyfres 1: Gwyliau 2</title>
