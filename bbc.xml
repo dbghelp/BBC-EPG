@@ -56,7 +56,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260118090000 +0000" stop="20260118100000 +0000">
 		<title>Sunday with Laura Kuenssberg - Lisa Nandy, RIchard Tice, and Mike Johnson</title>
-		<desc>Laura Kuenssberg is joined by Lisa Nandy MP, RIchard Tice MP, and US Speaker Mike Johnson.</desc>
+		<desc>Laura Kuenssberg is joined by Lisa Nandy MP, Richard Tice MP, and US Speaker Mike Johnson.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260118100000 +0000" stop="20260118103000 +0000">
@@ -5497,7 +5497,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260118090000 +0000" stop="20260118100000 +0000">
 		<title>Sunday with Laura Kuenssberg - Lisa Nandy, RIchard Tice, and Mike Johnson</title>
-		<desc>Laura Kuenssberg is joined by Lisa Nandy MP, RIchard Tice MP, and US Speaker Mike Johnson.</desc>
+		<desc>Laura Kuenssberg is joined by Lisa Nandy MP, Richard Tice MP, and US Speaker Mike Johnson.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260118100000 +0000" stop="20260118103000 +0000">
@@ -5560,15 +5560,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260118160000 +0000" stop="20260118163000 +0000">
+	<programme channel="bbcnews" start="20260118160000 +0000" stop="20260118170000 +0000">
 		<title>BBC News - 18/01/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260118163000 +0000" stop="20260118170000 +0000">
-		<title>Global Eye - 12/01/2026</title>
-		<desc>Joe Tidy reports from Silicon Valley on the race to create the Ultimate AI.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtbg06.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260118170000 +0000" stop="20260118180000 +0000">
 		<title>BBC News - 18/01/2026</title>
@@ -5601,8 +5596,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260118203000 +0000" stop="20260118210000 +0000">
-		<title>Newscast - 18/01/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Trump’s Tariff Threats Over Greenland</title>
+		<desc>The US president plans more tariffs on countries against his proposed Greenland takeover.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260118210000 +0000" stop="20260118220000 +0000">
