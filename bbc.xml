@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260119093000 +0000" stop="20260119104500 +0000">
 		<title>Morning Live - Series 7: 19/01/2026</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Winterwatch presenter Jack Baddams previews the Big Garden Birdwatch.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260119104500 +0000" stop="20260119113000 +0000">
@@ -6872,7 +6872,7 @@
 	<programme channel="bbcparliament" start="20260119143000 +0000" stop="20260119153000 +0000">
 		<title>House of Commons - Education Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Monday 19 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mvxqhq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260119153000 +0000" stop="20260119161500 +0000">
 		<title>House of Commons - Business Rates Urgent Question</title>
@@ -6919,6 +6919,11 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 19 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20260120000000 +0000" stop="20260120001000 +0000">
+		<title>House of Lords - Introductions</title>
+		<desc>The introduction to the House of Lords of Lord Docherty of Milngavie and Lord Pitt-Watson.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20260120001000 +0000" stop="20260120002500 +0000">
 		<title>House of Lords - US Tariffs Question</title>
 		<desc>Private notice question on the proposed US trade tariffs on the UK economy over Greenland.</desc>
@@ -6954,20 +6959,20 @@
 		<desc>The statement on the Contracts for Difference Allocation Round 7 offshore wind results.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260120000000 +0000" stop="20260120070000 +0000">
-		<title>House of Lords - 20/01/2026</title>
-		<desc>Business in the House of Lords on Monday 19 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260120070000 +0000" stop="20260120080000 +0000">
+	<programme channel="bbcparliament" start="20260120070000 +0000" stop="20260120080500 +0000">
 		<title>House of Commons - Education Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Monday 19 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mvxqhq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260120080000 +0000" stop="20260120101500 +0000">
-		<title>House of Commons - 19/01/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 19 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260120080500 +0000" stop="20260120082000 +0000">
+		<title>House of Lords - Sentencing Bill</title>
+		<desc>A debate on the third reading of the Sentencing Bill, on Monday 12 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtrt7w.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260120082000 +0000" stop="20260120101500 +0000">
+		<title>Select Committees - Education Select Committee on Ofqual</title>
+		<desc>Education committee on the Office of Qualifications and Examinations Regulation (Ofqual).</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260120101500 +0000" stop="20260120113000 +0000">
 		<title>Select Committees - Defence Committee on the Afghan Data Leak</title>
@@ -8634,17 +8639,17 @@
 		<desc>Mae problemau priodasol Mici yn parhau a Meri yn gwneud ei gorau i geisio helpu'r sefyl...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mppywk.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260121220000 +0000" stop="20260121230000 +0000">
+	<programme channel="s4c" start="20260121220000 +0000" stop="20260121230500 +0000">
 		<title>Llond Bol o Japan - Cyfres 1: Pennod 3</title>
 		<desc>Mae Chris 'Flamebaster' Roberts yn Tokyo ac yn bwyta cig wagyu, cyw iâr amrwd a phen ti...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mlt29k.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260121230000 +0000" stop="20260121233500 +0000">
+	<programme channel="s4c" start="20260121230500 +0000" stop="20260121234000 +0000">
 		<title>Rhys Patchell: Japan a'r Gic Olaf - Pennod 3</title>
 		<desc>Rhaglen yn dilyn y maswr, Rhys Patchell, wrth iddo gymryd y cam mawr i chwarae rygbi pr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m5vngx.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260121233500 +0000" stop="20260122060000 +0000">
+	<programme channel="s4c" start="20260121234000 +0000" stop="20260122060000 +0000">
 		<title>Watch Live</title>
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
