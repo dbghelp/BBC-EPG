@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20260120093000 +0000" stop="20260120104500 +0000">
 		<title>Morning Live - Series 7: 20/01/2026</title>
 		<desc>Gethin Jones and Helen Skelton speak to actress Jenny Agutter about Call the Midwife.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw2s1k.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260120104500 +0000" stop="20260120113000 +0000">
 		<title>Rip Off Britain - Series 17: 42. Van seized after fake debt ruling</title>
@@ -680,12 +680,12 @@
 	<programme channel="bbcone" start="20260124174500 +0000" stop="20260124184500 +0000">
 		<title>Gladiators - Series 3: Episode 2</title>
 		<desc>Gladiators ready! Another brand new, terrifying event is revealed to the brave Contenders.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msdb3z.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw31sg.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260124184500 +0000" stop="20260124194500 +0000">
 		<title>Michael McIntyre's Big Show - Series 9: Episode 2</title>
 		<desc>Michael's guests include KSI, Sophie Ellis-Bextor, Angela Scanlon and Myles Smith.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtr5b4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw33rk.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260124194500 +0000" stop="20260124203500 +0000">
 		<title>The Weakest Link - Series 5: Episode 9</title>
@@ -695,7 +695,7 @@
 	<programme channel="bbcone" start="20260124203500 +0000" stop="20260124212500 +0000">
 		<title>Casualty - Learning Curve: Episode 3</title>
 		<desc>There’s a rude awakening for Flynn when the CQC turn up at the ED.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msb6vf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw362w.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260124212500 +0000" stop="20260124221000 +0000">
 		<title>Waiting for the Out - Series 1: Episode 4</title>
@@ -934,7 +934,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20260121230000 +0000" stop="20260121233000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 21/01/2026</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>Caroline Hawley looks at Donald Trump’s first year of his second term.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260121233000 +0000" stop="20260122012500 +0000">
@@ -5632,9 +5632,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260120180000 +0000" stop="20260120183000 +0000">
-		<title>BBC News at Six - 20/01/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
+		<title>The World Today with Maryam Moshiri - 20/01/2026</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260120183000 +0000" stop="20260120190000 +0000">
 		<title>The World Today with Maryam Moshiri - 20/01/2026</title>
@@ -6091,10 +6091,15 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260122130000 +0000" stop="20260122140000 +0000">
-		<title>BBC News at One - 22/01/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	<programme channel="bbcnews" start="20260122130000 +0000" stop="20260122133000 +0000">
+		<title>BBC News - 22/01/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260122133000 +0000" stop="20260122140000 +0000">
+		<title>The Oscars - 2026: The Nominations</title>
+		<desc>Lewis Vaughan Jones presents as the nominations for the Oscars are announced in Hollywood.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02gz7cn.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260122140000 +0000" stop="20260122143000 +0000">
 		<title>BBC News Now - 22/01/2026</title>
@@ -6543,7 +6548,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260124113000 +0000" stop="20260124120000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 21/01/2026</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>Caroline Hawley looks at Donald Trump’s first year of his second term.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260124120000 +0000" stop="20260124123000 +0000">
@@ -6673,7 +6678,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260125013000 +0000" stop="20260125020000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 21/01/2026</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>Caroline Hawley looks at Donald Trump’s first year of his second term.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260125020000 +0000" stop="20260125023000 +0000">
@@ -6719,7 +6724,7 @@
 	<programme channel="bbcparliament" start="20260120043500 +0000" stop="20260120070000 +0000">
 		<title>Select Committees - Foreign Affairs Committee on Disinformation Diplomacy</title>
 		<desc>Coverage of the Foreign Affairs select committee session on disinformation diplomacy.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw3lxh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260120070000 +0000" stop="20260120080500 +0000">
 		<title>House of Commons - Education Questions</title>
@@ -6734,27 +6739,27 @@
 	<programme channel="bbcparliament" start="20260120082000 +0000" stop="20260120101500 +0000">
 		<title>Select Committees - Education Select Committee on Ofqual</title>
 		<desc>Education committee on the Office of Qualifications and Examinations Regulation (Ofqual).</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw2zrh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260120101500 +0000" stop="20260120113000 +0000">
 		<title>Select Committees - Defence Committee on the Afghan Data Leak</title>
 		<desc>The Defence select committee session on the Afghan data breach and resettlement schemes.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw324r.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260120113000 +0000" stop="20260120124500 +0000">
 		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
 		<desc>Coverage of questions to Yvette Cooper on Tuesday 20 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw32qh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260120124500 +0000" stop="20260120140000 +0000">
 		<title>House of Commons - Social Media Statement</title>
 		<desc>The statement on children's relationship with mobile phones and social media.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw34q1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260120140000 +0000" stop="20260120151000 +0000">
 		<title>House of Commons - China Statement</title>
 		<desc>The statement on China and the new Chinese embassy in London, on Tuesday 20 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw35sj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260120151000 +0000" stop="20260120193000 +0000">
 		<title>House of Commons - 20/01/2026</title>
@@ -6777,7 +6782,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260120233500 +0000" stop="20260120234500 +0000">
-		<title>House of Lords - Introduction</title>
+		<title>House of Lords - Introductions</title>
 		<desc>Coverage of the introduction of Baroness Gill and Baroness Davies of Devonport.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -6798,7 +6803,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20260121040000 +0000" stop="20260121050000 +0000">
 		<title>House of Lords - Atrocity Crimes Debate</title>
-		<desc>Business in the House of Lords on Tuesday 20 January.</desc>
+		<desc>Coverage of the debate on the evaluation of crimes against humanity and genocide.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260121050000 +0000" stop="20260121070000 +0000">
@@ -6807,14 +6812,19 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260121070000 +0000" stop="20260121080000 +0000">
+		<title>House of Lords - Crime and Policing Bill, Part 4</title>
+		<desc>The eleventh day of debate on the committee stage of the Crime and Policing Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260121080000 +0000" stop="20260121091500 +0000">
 		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
 		<desc>Coverage of questions to Yvette Cooper on Tuesday 20 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw32qh.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260121080000 +0000" stop="20260121100000 +0000">
-		<title>House of Commons - 20/01/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 20 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260121091500 +0000" stop="20260121100000 +0000">
+		<title>House of Commons - Iran Urgent Question</title>
+		<desc>The urgent question on the brutal crackdown on protests by the Iranian regime.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw1ksx.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260121100000 +0000" stop="20260121113000 +0000">
 		<title>Select Committees - Home Affairs Committee on Immigration Routes</title>
@@ -7044,7 +7054,7 @@
 	<programme channel="bbcparliament" start="20260125033000 +0000" stop="20260125043000 +0000">
 		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
 		<desc>Coverage of questions to Yvette Cooper on Tuesday 20 January.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw32qh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260125043000 +0000" stop="20260125050000 +0000">
 		<title>House of Commons - Wales Office Questions</title>
