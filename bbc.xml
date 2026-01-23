@@ -194,7 +194,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260124113000 +0000" stop="20260124120000 +0000">
 		<title>Football Focus - 24/01/2026</title>
-		<desc>Jeanette Kwakye and guests kick off your weekend of football.</desc>
+		<desc>Weekend preview including Morgan Rogers and the latest from Spurs, Man City and West Ham.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lyg4qc.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260124120000 +0000" stop="20260124121000 +0000">
@@ -325,7 +325,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260125103000 +0000" stop="20260125113000 +0000">
 		<title>Sunday Morning Live - Series 16: 25/01/2026</title>
-		<desc>Live ethical debates on topical issues. Join in online and on social media.</desc>
+		<desc>The future of the ‘special relationship’ after a dramatic week in international relations</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j14rjb.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260125113000 +0000" stop="20260125120000 +0000">
@@ -756,10 +756,15 @@
 		<desc>The old world order is not coming back, says the deputy prime minister.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260123130000 +0000" stop="20260123171500 +0000">
+	<programme channel="bbctwo" start="20260123130000 +0000" stop="20260123164500 +0000">
 		<title>Bowls: World Indoor Championships - 2026: 23/01/2026</title>
 		<desc>Live coverage of the most prestigious tournament in world indoor bowls.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mv59s3.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260123164500 +0000" stop="20260123171500 +0000">
+		<title>The Wonder of Animals - 4. Ants</title>
+		<desc>Chris Packham explores how ants have collaborated to achieve their global success.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p025hprt.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260123171500 +0000" stop="20260123180000 +0000">
 		<title>Flog It! - Series 12: 13. Sheffield 15</title>
@@ -1139,7 +1144,7 @@
 	<programme channel="bbctwo" start="20260126190000 +0000" stop="20260126193000 +0000">
 		<title>Global Eye - 26/01/2026</title>
 		<desc>Bringing forensic journalism from all corners of the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m12cyb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mwvgq2.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260126193000 +0000" stop="20260126200000 +0000">
 		<title>Celebrity Mastermind - 2025/26: Episode 14</title>
@@ -5844,7 +5849,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260124154500 +0000" stop="20260124160000 +0000">
 		<title>Newswatch - 24/01/2026</title>
-		<desc>Your views on the coverage of events by BBC News.</desc>
+		<desc>How does the BBC get information out of Iran when journalism is banned there?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r0tr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260124160000 +0000" stop="20260124163000 +0000">
@@ -6722,15 +6727,15 @@
 		<desc>The seventh day of debate on the Terminally Ill Adults (End of Life) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260123180000 +0000" stop="20260123203000 +0000">
+	<programme channel="bbcparliament" start="20260123180000 +0000" stop="20260123203500 +0000">
 		<title>Select Committees - Defence Committee on the Afghan Data Leak</title>
 		<desc>The Defence select committee session on the Afghan data breach and resettlement schemes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw324r.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260123203000 +0000" stop="20260123204000 +0000">
-		<title>Ten Minute Rule Bill - Glaucoma Care in England</title>
-		<desc>Introduction of a bill tabled by Independent MP Shockat Adam on glaucoma care in England.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	<programme channel="bbcparliament" start="20260123203500 +0000" stop="20260123204000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260123204000 +0000" stop="20260123210000 +0000">
 		<title>Scottish Parliament - General Questions</title>
