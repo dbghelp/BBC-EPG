@@ -5271,17 +5271,17 @@
 		<desc>All the weekend national, UK-wide and international news on Saturday evening at 7.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdtr90.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260124191500 +0000" stop="20260124201500 +0000">
+	<programme channel="bbcscotland" start="20260124191500 +0000" stop="20260124200000 +0000">
 		<title>Sportscene: Premiership Highlights - 2025/26: 24/01/2026</title>
 		<desc>Steven Thompson presents extended highlights of today's matches.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfvl6m.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260124201500 +0000" stop="20260124204500 +0000">
+	<programme channel="bbcscotland" start="20260124200000 +0000" stop="20260124203000 +0000">
 		<title>Icons of Football - Series 1: 1. Charlie Nicholas</title>
 		<desc>How Charlie Nicholas’s amazing goal-scoring talent earned him the name Champagne Charlie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fsykqk.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260124204500 +0000" stop="20260124210000 +0000">
+	<programme channel="bbcscotland" start="20260124203000 +0000" stop="20260124210000 +0000">
 		<title>Sacked in the Morning - Series 2 Shorts: 1. John Hartson</title>
 		<desc>Legendary striker John Hartson on throwing sandwiches and playing for his country.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d55k3v.jpg" />
@@ -5638,15 +5638,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260124153000 +0000" stop="20260124154500 +0000">
+	<programme channel="bbcnews" start="20260124153000 +0000" stop="20260124160000 +0000">
 		<title>BBC News - 24/01/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260124154500 +0000" stop="20260124160000 +0000">
-		<title>Newswatch - 24/01/2026</title>
-		<desc>How does the BBC get information out of Iran when journalism is banned there?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r0tr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260124160000 +0000" stop="20260124163000 +0000">
 		<title>BBC News - 24/01/2026</title>
