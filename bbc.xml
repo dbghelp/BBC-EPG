@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260127190000 +0000" stop="20260127193000 +0000">
 		<title>The One Show - 27/01/2026</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Take That and Mika join Alex Jones and Roman Kemp on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260127193000 +0000" stop="20260127200000 +0000">
@@ -778,8 +778,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260127121500 +0000" stop="20260127130000 +0000">
-		<title>Politics Live - 27/01/2026</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - Leasehold Reform</title>
+		<desc>Is the government doing enough to help leaseholders?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260127130000 +0000" stop="20260127134500 +0000">
@@ -1413,7 +1413,7 @@
 		<desc>Interpol whistleblower reveals abuse of Wanted list by Russia and Katya Adler is in Nuuk.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mwvgq2.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260201035000 +0000" stop="20260201062500 +0000">
+	<programme channel="bbctwo" start="20260201035000 +0000" stop="20260201062000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -4914,12 +4914,12 @@
 		<desc>At the chemist, Bluey, Bingo and their friends have fun playing with the CCTV screens.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l23rkr.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20260130164500 +0000" stop="20260130165500 +0000">
+	<programme channel="cbeebies" start="20260130164500 +0000" stop="20260130165000 +0000">
 		<title>Bluey - Series 2: 1. Dance Mode</title>
 		<desc>After Dad eats her last chip, Bingo gets three chances to put Mum and Dad in ‘dance mode’.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cn6dfq.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20260130165500 +0000" stop="20260130170500 +0000">
+	<programme channel="cbeebies" start="20260130165000 +0000" stop="20260130170500 +0000">
 		<title>Piripenguins - Series 1: 5. The Piri Fitness Craze</title>
 		<desc>A fitness device craze leads the Piris to compete for points, with a most unlikely winner.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l8qvb6.jpg" />
@@ -5700,15 +5700,10 @@
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260127114500 +0000" stop="20260127120000 +0000">
+	<programme channel="bbcnews" start="20260127114500 +0000" stop="20260127123000 +0000">
 		<title>BBC News - 27/01/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260127120000 +0000" stop="20260127123000 +0000">
-		<title>BBC News Now - 27/01/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260127123000 +0000" stop="20260127130000 +0000">
 		<title>BBC News Now - 27/01/2026</title>
@@ -6880,7 +6875,17 @@
 		<desc>Coverage of questions to Rachel Reeves on Tuesday 27 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260127123000 +0000" stop="20260127193000 +0000">
+	<programme channel="bbcparliament" start="20260127123000 +0000" stop="20260127133000 +0000">
+		<title>House of Commons - Leasehold Reform Statement</title>
+		<desc>Statement by housing minister Matthew Pennycook on commonhold and leasehold reform.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260127133000 +0000" stop="20260127143000 +0000">
+		<title>House of Commons - Business Rates Statement</title>
+		<desc>Statement by exchequer secretary Dan Tomlinson on business rates, on Tuesday 27 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260127143000 +0000" stop="20260127193000 +0000">
 		<title>House of Commons - 27/01/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 27 January.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
