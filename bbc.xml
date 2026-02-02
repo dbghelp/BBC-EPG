@@ -1117,7 +1117,7 @@
 	<programme channel="bbctwo" start="20260204210000 +0000" stop="20260204220000 +0000">
 		<title>Reform: Ready to Rule?</title>
 		<desc>Laura Kuenssberg examines whether Reform UK is ready to be a party of government.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mympbz.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260204220000 +0000" stop="20260204223000 +0000">
 		<title>One Foot in the Grave - Series 1: 5. The Eternal Quadrangle</title>
@@ -3303,8 +3303,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fn0cmp.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260206170000 +0000" stop="20260206172500 +0000">
-		<title>Blue Peter - Full Episodes: Horrible Histories and Fire Fighter Challenge</title>
-		<desc>Packed full of amazing celeb guests, epic challenges and lols galore!</desc>
+		<title>Blue Peter - Full Episodes: Horrible Histories Takeover</title>
+		<desc>The cast of Horrible Histories – The Concert bring history to life in the studio.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m053p4.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260206172500 +0000" stop="20260206174500 +0000">
@@ -5362,7 +5362,7 @@
 	<programme channel="bbcscotland" start="20260202230000 +0000" stop="20260202233000 +0000">
 		<title>Scotcast - 02/02/2026</title>
 		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqwpf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqxxy.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260202233000 +0000" stop="20260203000000 +0000">
 		<title>Situationships with Sophie and Christine - Series 1: Episode 7</title>
@@ -5705,9 +5705,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260202153000 +0000" stop="20260202160000 +0000">
-		<title>Verified Live - 02/02/2026</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
+		<title>BBC News - 02/02/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260202160000 +0000" stop="20260202163000 +0000">
 		<title>Verified Live - 02/02/2026</title>
@@ -6919,7 +6919,17 @@
 		<desc>Coverage of questions to John Healey on Monday 2 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260202153000 +0000" stop="20260202223000 +0000">
+	<programme channel="bbcparliament" start="20260202153000 +0000" stop="20260202163000 +0000">
+		<title>House of Commons - China and Japan Statement</title>
+		<desc>Statement by prime minister Keir Starmer on his recent diplomatic trips to China and Japan</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260202163000 +0000" stop="20260202173000 +0000">
+		<title>House of Commons - Epstein Files Statement</title>
+		<desc>Statement on the release of further files by the US Department of Justice (DoJ).</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260202173000 +0000" stop="20260202223000 +0000">
 		<title>House of Commons - 02/02/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 2 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6934,10 +6944,35 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 2 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260203000000 +0000" stop="20260203070000 +0000">
-		<title>House of Lords - 02/02/2026</title>
-		<desc>Business in the House of Lords on Monday 2 February.</desc>
+	<programme channel="bbcparliament" start="20260203000000 +0000" stop="20260203001000 +0000">
+		<title>House of Lords - Introductions: 02/02/2026</title>
+		<desc>Ceremony to introduce Baroness Linforth and Lord Isaac to the House of Lords.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260203001000 +0000" stop="20260203002500 +0000">
+		<title>House of Lords - China Question</title>
+		<desc>A private notice question on China, human rights and threats to UK national security.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260203002500 +0000" stop="20260203022500 +0000">
+		<title>House of Lords - Crime and Policing Bill, Part 1</title>
+		<desc>The 14th day of debate on the committee stage of the Crime and Policing Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260203022500 +0000" stop="20260203042500 +0000">
+		<title>House of Lords - Crime and Policing Bill, Part 2</title>
+		<desc>The 14th day of debate on the committee stage of the Crime and Policing Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260203042500 +0000" stop="20260203062500 +0000">
+		<title>House of Lords - Crime and Policing Bill, Part 3</title>
+		<desc>The 14th day of debate on the committee stage of the Crime and Policing Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260203062500 +0000" stop="20260203070000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260203070000 +0000" stop="20260203080000 +0000">
 		<title>House of Commons - Defence Questions</title>
@@ -7674,22 +7709,22 @@
 		<desc>Live Friday night rugby action from the Men’s Premiership as Currie go up against Kelso. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m32mf4.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260206212500 +0000" stop="20260206213500 +0000">
+	<programme channel="bbcalba" start="20260206212500 +0000" stop="20260206214000 +0000">
 		<title>Belladrum - 2025: 7. Fanny Lumsden</title>
 		<desc>Australian country music singer-songwriter Fanny Lumsden at Belladrum 2025. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltkv00.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260206213500 +0000" stop="20260206220500 +0000">
+	<programme channel="bbcalba" start="20260206214000 +0000" stop="20260206221000 +0000">
 		<title>Lios Mhàiri/Mairi’s Hebridean Garden - Series 1: Episode 1</title>
 		<desc>Mairi Gillies plans to transform the old garden round her new home on the island of Lewis.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hl1bdq.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260206220500 +0000" stop="20260206230000 +0000">
+	<programme channel="bbcalba" start="20260206221000 +0000" stop="20260206230500 +0000">
 		<title>Mnathan-brathaidh an Dàrna Cogaidh/Female Spies of WWII - Series 1: Episode 3</title>
 		<desc>How courageous women defied societal norms to play pivotal roles as spies during wartime.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l91600.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260206230000 +0000" stop="20260207000000 +0000">
+	<programme channel="bbcalba" start="20260206230500 +0000" stop="20260207000000 +0000">
 		<title>Cuirm aig Celtic - 2025/26: 1. Sian</title>
 		<desc>Sian &amp; Bon Débarras aig Celtic Connections. Sian and Bon Débarras at Celtic Connections.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0myl1yd.jpg" />
@@ -8189,12 +8224,12 @@
 		<desc>Mae thema pêl-droed priodas Nicky ac Adam wedi dewis gan eu plant Kian a Kai sy'n gefno...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw0tf2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260203160000 +0000" stop="20260203160500 +0000">
+	<programme channel="s4c" start="20260203160000 +0000" stop="20260203161000 +0000">
 		<title>Egin Bach - Cyfres 1: Mynydd y Bonyn a Antur Malwen</title>
 		<desc>Mae gan Ato a Nano syniadau gwahanol iawn am sut i ddringo bonyn coeden. Atto and Nano ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m97mf9.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260203160500 +0000" stop="20260203162000 +0000">
+	<programme channel="s4c" start="20260203161000 +0000" stop="20260203162000 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Chec Dim Mêts</title>
 		<desc>Mae Pigog yn dysgu chwarae gwyddbwyll ond mae'n casáu colli. Cyn bo hir 'does neb eisia...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
@@ -8204,27 +8239,27 @@
 		<desc>Mae'n amser cinio yng ngardd gefn Blwi. Ond, mae pob barbeciw angen salad. It's lunchti...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mp5bdc.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260203163000 +0000" stop="20260203165000 +0000">
+	<programme channel="s4c" start="20260203163000 +0000" stop="20260203164500 +0000">
 		<title>Dal Dy Ddannedd - Cyfres 1: Ysgol Casnewydd</title>
 		<desc>Timau o Ysgol Casnewydd sy'n ymuno â Pwdryn a Melys i chwarae llond trol o gemau lliwga...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hdf387.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260203165000 +0000" stop="20260203170000 +0000">
+	<programme channel="s4c" start="20260203164500 +0000" stop="20260203170000 +0000">
 		<title>Annibendod - Cyfres 1: Codi Arian</title>
 		<desc>Rhaid meddwl sut i godi arian i brynu offer chwaraeon newydd rhag ofn na fydd Gari Gofa...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5s4n5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260203170000 +0000" stop="20260203171000 +0000">
+	<programme channel="s4c" start="20260203170000 +0000" stop="20260203170500 +0000">
 		<title>Oi! Osgar - Pop</title>
 		<desc>Mae Osgar sychedig a phoeth yn ceisio dwyn peiriant gwerthu o lori Roco. A thirsty and ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03kl59n.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260203171000 +0000" stop="20260203173500 +0000">
+	<programme channel="s4c" start="20260203170500 +0000" stop="20260203173000 +0000">
 		<title>Mwy o Stwnsh Sadwrn - Cyfres 2025: Pennod 21</title>
 		<desc>Cipolwg yn ôl dros rai o uchafbwyntiau rhaglen dydd Sadwrn. Tune in to relive some of t...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m6bw66.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260203173500 +0000" stop="20260203180000 +0000">
+	<programme channel="s4c" start="20260203173000 +0000" stop="20260203180000 +0000">
 		<title>HE-MAN a Meistri'r Bydysawd - Bytholfyd 2000</title>
 		<desc>Mae He-Man a Sgeletor yn cystadlu am ddarn o'r swyndlws.  Mosgitara causes trouble as H...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m07lvd.jpg" />
@@ -8542,7 +8577,7 @@
 	<programme channel="s4c" start="20260204182500 +0000" stop="20260204183000 +0000">
 		<title>Darllediad Gwleidyddol Llafur Cymru</title>
 		<desc>Description Coming Soon...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mymlqk.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260204183000 +0000" stop="20260204190000 +0000">
 		<title>Rownd a Rownd - Tue, 03 Feb 2026</title>
