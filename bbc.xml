@@ -640,13 +640,13 @@
 	</programme>
 	<programme channel="bbctwo" start="20260208163500 +0000" stop="20260208180000 +0000">
 		<title>Winter Olympics 2026 - Live: Day 2: BBC Two - Afternoon: Featuring Men's 5000m Speed Skating</title>
-		<desc>Action from the men's 5000m speed skating &amp; the men's singles in the luge. </desc>
+		<desc>Action from the men's 5000m speed skating and the men's singles in the luge. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mzws4z.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260208180000 +0000" stop="20260208220000 +0000">
-		<title>Winter Olympics 2026 - Live: Day 2: BBC Two - Evening</title>
-		<desc>Coverage of day 2 of the Milano Cortina 2026 Olympic Winter Games.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mx8yw9.jpg" />
+		<title>Winter Olympics 2026 - Live: Day 2: BBC Two - Evening: Featuring Women’s Big Air Qualification</title>
+		<desc>Team GB’s Mia Brookes begins her bid for a medal.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mzx61x.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260208220000 +0000" stop="20260209000000 +0000">
 		<title>Emily</title>
@@ -4993,35 +4993,25 @@
 		<desc>All the weekend national, UK-wide and international news on Sunday evening at 7.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdtr90.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260208191500 +0000" stop="20260208220000 +0000">
+	<programme channel="bbcscotland" start="20260208191500 +0000" stop="20260208223000 +0000">
 		<title>Sportscene: Scottish Cup - 2025/26: Fifth Round: Stenhousemuir v Falkirk</title>
 		<desc>Live Scottish Cup fifth round action as Stenhousemuir take on Premiership side Falkirk.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mz2g10.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260208220000 +0000" stop="20260208223000 +0000">
+	<programme channel="bbcscotland" start="20260208223000 +0000" stop="20260208230000 +0000">
 		<title>Still Game - Series 7: 2. The Undrinkables</title>
 		<desc>Jack and Victor discover bootleg hooch all over Craiglang. But where is it coming from?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p049tsbp.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260208223000 +0000" stop="20260208230000 +0000">
+	<programme channel="bbcscotland" start="20260208230000 +0000" stop="20260208233000 +0000">
 		<title>Dinosaur - Series 2: Episode 1</title>
 		<desc>Nina finds herself with a tough decision to make while working away on the Isle of Wight.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxyr3q.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260208230000 +0000" stop="20260208232500 +0000">
+	<programme channel="bbcscotland" start="20260208233000 +0000" stop="20260209000000 +0000">
 		<title>Dinosaur - Series 2: Episode 2</title>
 		<desc>Back in Glasgow, a day full of surprises leaves Nina reeling.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxyr4c.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20260208232500 +0000" stop="20260208235500 +0000">
-		<title>The Sunday Show - Series 5: 08/02/2026</title>
-		<desc>Gary Robertson brings you all the main issues from the world of politics and beyond.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m9xc72.jpg" />
-	</programme>
-	<programme channel="bbcscotland" start="20260208235500 +0000" stop="20260209000000 +0000">
-		<title>Loop - Shorts: The Art of Southern African Sound</title>
-		<desc>Composer Nyo Vilakazi and his Scottish/African choir present Shona the Musical.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dpp9fx.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260209000000 +0000" stop="20260209060000 +0000">
 		<title>This is BBC Scotland - This is BBC Scotland</title>
@@ -5068,7 +5058,7 @@
 	<programme channel="bbcscotland" start="20260209193000 +0000" stop="20260209200000 +0000">
 		<title>Sportscene: Scottish Women's Premier League - Highlights 2025/26: 09/02/2026</title>
 		<desc>Charlotte Cohen presents highlights from the weekend's fixtures in the SWPL.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfyh01.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mzwz0x.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260209200000 +0000" stop="20260209204500 +0000">
 		<title>The Repair Shop on the Road - Series 2: Alloa</title>
