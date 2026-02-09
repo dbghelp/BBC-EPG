@@ -640,9 +640,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260209171500 +0000" stop="20260209220000 +0000">
-		<title>Winter Olympics 2026 - Live: Day 3: BBC Two - Evening</title>
-		<desc>Coverage of day 3 of the Milano Cortina 2026 Olympic Winter Games.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mx8yw9.jpg" />
+		<title>Winter Olympics 2026 - Live: Day 3: BBC Two - Evening: Featuring Women's Big Air Final &amp; Figure Skating</title>
+		<desc>Mia Brookes bids to become Great Britain's first gold medallist on snow. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n03l7j.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260209220000 +0000" stop="20260209223000 +0000">
 		<title>Small Prophets - Series 1: Episode 1</title>
@@ -6683,10 +6683,15 @@
 		<desc>The statement in the House of Commons on standards in public life, on Monday 9 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260209171500 +0000" stop="20260209223000 +0000">
+	<programme channel="bbcparliament" start="20260209171500 +0000" stop="20260209222000 +0000">
 		<title>House of Commons - 09/02/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 9 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260209222000 +0000" stop="20260209223000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260209223000 +0000" stop="20260209231500 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
@@ -6708,22 +6713,22 @@
 		<desc>The question on representations to China to free Hong Kong media tycoon Jimmy Lai.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260210002500 +0000" stop="20260210012500 +0000">
+	<programme channel="bbcparliament" start="20260210002500 +0000" stop="20260210004500 +0000">
 		<title>House of Lords - Children's Wellbeing and Schools Bill</title>
 		<desc>Coverage of the debate on the third reading of the Children's Wellbeing and Schools Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260210012500 +0000" stop="20260210032500 +0000">
+	<programme channel="bbcparliament" start="20260210004500 +0000" stop="20260210024000 +0000">
 		<title>House of Lords - Victims and Courts Bill, Part 1</title>
 		<desc>The first day of debate on the committee stage of the Victims and Courts Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260210032500 +0000" stop="20260210052500 +0000">
+	<programme channel="bbcparliament" start="20260210024000 +0000" stop="20260210041500 +0000">
 		<title>House of Lords - Victims and Courts Bill, Part 2</title>
 		<desc>The first day of debate on the committee stage of the Victims and Courts Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260210052500 +0000" stop="20260210055500 +0000">
+	<programme channel="bbcparliament" start="20260210041500 +0000" stop="20260210061500 +0000">
 		<title>House of Lords - Victims and Courts Bill, Part 3</title>
 		<desc>The first day of debate on the committee stage of the Victims and Courts Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
