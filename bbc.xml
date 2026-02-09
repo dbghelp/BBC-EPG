@@ -93,7 +93,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260209190000 +0000" stop="20260209193000 +0000">
 		<title>The One Show - 09/02/2026</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Ben Shephard, Sinéad Keenan, and Jon Richardson chat to Alex and Roman.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260209193000 +0000" stop="20260209200000 +0000">
@@ -620,8 +620,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mx8yw9.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260209140000 +0000" stop="20260209144500 +0000">
-		<title>Politics Live - 09/02/2026</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - More pressure on Starmer</title>
+		<desc>Where next for the prime minister after the resignation of his chief of staff?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260209144500 +0000" stop="20260209153000 +0000">
@@ -5432,15 +5432,10 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260209140000 +0000" stop="20260209143000 +0000">
+	<programme channel="bbcnews" start="20260209140000 +0000" stop="20260209144500 +0000">
 		<title>BBC News Now - 09/02/2026</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260209143000 +0000" stop="20260209144500 +0000">
-		<title>Business Today - NYSE Opening Bell - 09/02/2026</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260209144500 +0000" stop="20260209150000 +0000">
 		<title>BBC News Now - 09/02/2026</title>
@@ -6595,7 +6590,7 @@
 	<programme channel="bbcnews" start="20260214023000 +0000" stop="20260214030000 +0000">
 		<title>Playing to Be Seen</title>
 		<desc>Two young female athletes use sport to fight back against child marriage and prejudice.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n00gyf.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260214030000 +0000" stop="20260214033000 +0000">
 		<title>BBC News - 14/02/2026</title>
@@ -7609,7 +7604,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bmwxql.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260209112000 +0000" stop="20260209113000 +0000">
-		<title>Misho - Cyfres 1: ...Cysgu yn Nhy Mam-gu</title>
+		<title>Misho - Cyfres 1: Cysgu yn Nhy Mam-gu</title>
 		<desc>Teimlad o bryder sydd dan sylw heddiw, ac mae Mr Diarth yn ei gwneud hi'n anodd i blent...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f3hlxt.jpg" />
 	</programme>
@@ -7650,7 +7645,7 @@
 	</programme>
 	<programme channel="s4c" start="20260209140500 +0000" stop="20260209150000 +0000">
 		<title>Prynhawn Da - Mon, 09 Feb 2026</title>
-		<desc>Cyfres gylchgrawn gydag eitemau coginio a ffasiwn a chyngor am bopeth o addurno'ch cart...</desc>
+		<desc>Byddwn ni'n dathlu wythnos prentisiaethau gyda Angharad Beynon ac fe gewn ni tips nosta...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260209150000 +0000" stop="20260209150500 +0000">
@@ -7720,7 +7715,7 @@
 	</programme>
 	<programme channel="s4c" start="20260209190000 +0000" stop="20260209193000 +0000">
 		<title>Heno - Mon, 09 Feb 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Byddwn ni'n tynnu enwau ar gyfer rownd-gynderfynol Cwpan JD a Bute Energy Cymru ac mae ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260209193000 +0000" stop="20260209200000 +0000">
@@ -7930,7 +7925,7 @@
 	</programme>
 	<programme channel="s4c" start="20260210123000 +0000" stop="20260210130000 +0000">
 		<title>Heno - Mon, 09 Feb 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Byddwn ni'n tynnu enwau ar gyfer rownd-gynderfynol Cwpan JD a Bute Energy Cymru ac mae ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260210130000 +0000" stop="20260210133000 +0000">
@@ -8644,7 +8639,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260212210000 +0000" stop="20260212220000 +0000">
-		<title>Jonathan - Cyfres 2025: Thu, 12 Feb 2026</title>
+		<title>Jonathan - Cyfres 2026: Thu, 12 Feb 2026</title>
 		<desc>Ymunwch â Jonathan Davies, Nigel Owens,Sarra Elgan a Lloyd Lewis wrth iddyn nhw groesaw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g9lvyn.jpg" />
 	</programme>
@@ -8949,7 +8944,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hdnrdl.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260213225500 +0000" stop="20260213235500 +0000">
-		<title>Jonathan - Cyfres 2025: Thu, 12 Feb 2026</title>
+		<title>Jonathan - Cyfres 2026: Thu, 12 Feb 2026</title>
 		<desc>Ymunwch â Jonathan Davies, Nigel Owens,Sarra Elgan a Lloyd Lewis wrth iddyn nhw groesaw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g9lvyn.jpg" />
 	</programme>
