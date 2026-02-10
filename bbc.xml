@@ -614,7 +614,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20260210093000 +0000" stop="20260210104500 +0000">
 		<title>Morning Live - Series 7: 10/02/2026</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Rav Wilding and Helen Skelton bring you the latest on car finance mis-selling.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260210104500 +0000" stop="20260210111500 +0000">
@@ -658,9 +658,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260210171500 +0000" stop="20260210220000 +0000">
-		<title>Winter Olympics 2026 - Live: Day 4: BBC Two - Evening</title>
-		<desc>Coverage of day 4 of the Milano Cortina 2026 Olympic Winter Games.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mx8yw9.jpg" />
+		<title>Winter Olympics 2026 - Live: Day 4: BBC Two - Evening: Featuring Figure Skating Men’s Single Short Programme</title>
+		<desc>Ilia Malinin looks to add to his team gold, with a strong field in the singles programme.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n09g21.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260210220000 +0000" stop="20260210223000 +0000">
 		<title>QI - Series W: 15. VG: Part 1</title>
@@ -6604,15 +6604,25 @@
 		<desc>Statement by energy security and net zero secretary Ed Miliband on the Local Power Plan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n08knk.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260210150000 +0000" stop="20260210193000 +0000">
+	<programme channel="bbcparliament" start="20260210150000 +0000" stop="20260210163000 +0000">
 		<title>House of Commons - 10/02/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 10 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260210193000 +0000" stop="20260210220000 +0000">
+	<programme channel="bbcparliament" start="20260210163000 +0000" stop="20260210201000 +0000">
 		<title>House of Lords - 10/02/2026</title>
 		<desc>Coverage of proceedings in the House of Lords on Tuesday 10 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260210201000 +0000" stop="20260210212000 +0000">
+		<title>House of Commons - Energy Security and Net Zero Questions</title>
+		<desc>Coverage of questions to Ed Miliband on Tuesday 10 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n08g93.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260210212000 +0000" stop="20260210220000 +0000">
+		<title>House of Commons - Palantir Ministry of Defence Contracts Urgent Question</title>
+		<desc>The urgent question on the Ministry of Defence's contracts with the US tech firm Palantir.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n08hb5.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260210220000 +0000" stop="20260210225000 +0000">
 		<title>Welsh First Minister's Questions - 10/02/2026</title>
@@ -6629,30 +6639,35 @@
 		<desc>The introductions of Lord Nagaraju and Lord Redwood to the House of Lords, on 10 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260210234500 +0000" stop="20260211014500 +0000">
-		<title>House of Lords - Sustainable Aviation Fuel Bill, Part 1</title>
+	<programme channel="bbcparliament" start="20260210234500 +0000" stop="20260211015500 +0000">
+		<title>House of Lords - Sustainable Aviation Fuel Bill</title>
 		<desc>Debate in the House of Lords on the report stage of the Sustainable Aviation Fuel Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260211014500 +0000" stop="20260211024500 +0000">
-		<title>House of Lords - Sustainable Aviation Fuel Bill, Part 2</title>
-		<desc>Debate in the House of Lords on the report stage of the Sustainable Aviation Fuel Bill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260211024500 +0000" stop="20260211031500 +0000">
+	<programme channel="bbcparliament" start="20260211015500 +0000" stop="20260211024000 +0000">
 		<title>House of Lords - Standards in Public Life Statement</title>
 		<desc>Statement by leader of the House, Baroness Smith of Basildon, on standards in public life.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260211031500 +0000" stop="20260211051500 +0000">
+	<programme channel="bbcparliament" start="20260211024000 +0000" stop="20260211034500 +0000">
 		<title>House of Lords - Scotland Act Motion</title>
 		<desc>Debate on the Scottish Parliament's powers over assisted dying for terminally ill adults.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260211051500 +0000" stop="20260211070000 +0000">
+	<programme channel="bbcparliament" start="20260211034500 +0000" stop="20260211040000 +0000">
 		<title>House of Lords - Separation Centres Review Statement</title>
 		<desc>The statement by prisons minister Lord Timpson on the separation centres review.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260211040000 +0000" stop="20260211050500 +0000">
+		<title>House of Commons - Standards in Public Life Statement</title>
+		<desc>The statement in the House of Commons on standards in public life, on Monday 9 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0637b.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260211050500 +0000" stop="20260211070000 +0000">
+		<title>Select Committees - Housing Committee on the Affordability of Home Ownership</title>
+		<desc>The Housing, Communities and Local Government committee on home ownership affordability.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n08dg2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260211070000 +0000" stop="20260211081000 +0000">
 		<title>House of Commons - Energy Security and Net Zero Questions</title>
@@ -7697,7 +7712,7 @@
 	</programme>
 	<programme channel="s4c" start="20260210190000 +0000" stop="20260210193000 +0000">
 		<title>Heno - Tue, 10 Feb 2026</title>
-		<desc>Byddwn ni'n datgelu kit newydd tîm pêl-rwyd Y Dreigiau ac i ni yn nhafarn Y Glôb, Bango...</desc>
+		<desc>Byddwn ni'n datgelu kit newydd tîm pêl-rwyd Y Dreigiau ac ry' ni yn nhafarn Y Glôb, Ban...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260210193000 +0000" stop="20260210200000 +0000">
@@ -7712,7 +7727,7 @@
 	</programme>
 	<programme channel="s4c" start="20260210202500 +0000" stop="20260210205500 +0000">
 		<title>Rownd a Rownd - Tue, 10 Feb 2026</title>
-		<desc>Mae Sian yn cael sioc bod Rhys yn yr ysbyty a Trystan ffaelu deall pam fod Rhys wedi gw...</desc>
+		<desc>Mae Sian yn cael sioc bod Rhys yn yr ysbyty, a Trystan methu deall pam fod Rhys wedi gw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ft73xl.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260210205500 +0000" stop="20260210210000 +0000">
@@ -7902,7 +7917,7 @@
 	</programme>
 	<programme channel="s4c" start="20260211123000 +0000" stop="20260211130000 +0000">
 		<title>Heno - Tue, 10 Feb 2026</title>
-		<desc>Byddwn ni'n datgelu kit newydd tîm pêl-rwyd Y Dreigiau ac i ni yn nhafarn Y Glôb, Bango...</desc>
+		<desc>Byddwn ni'n datgelu kit newydd tîm pêl-rwyd Y Dreigiau ac ry' ni yn nhafarn Y Glôb, Ban...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260211130000 +0000" stop="20260211133000 +0000">
@@ -7922,7 +7937,7 @@
 	</programme>
 	<programme channel="s4c" start="20260211140500 +0000" stop="20260211150000 +0000">
 		<title>Prynhawn Da - Wed, 11 Feb 2026</title>
-		<desc>Byddwn ni'n paratoi coctels i ddathlu San ffolant a syniadau i ddiddanu'r plant yn ysto...</desc>
+		<desc>Byddwn ni'n paratoi coctels Sant Ffolant, a rhannwn syniadau i ddiddanu'r plant yn ysto...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260211150000 +0000" stop="20260211150500 +0000">
@@ -7997,7 +8012,7 @@
 	</programme>
 	<programme channel="s4c" start="20260211183000 +0000" stop="20260211190000 +0000">
 		<title>Rownd a Rownd - Tue, 10 Feb 2026</title>
-		<desc>Mae Sian yn cael sioc bod Rhys yn yr ysbyty a Trystan ffaelu deall pam fod Rhys wedi gw...</desc>
+		<desc>Mae Sian yn cael sioc bod Rhys yn yr ysbyty, a Trystan methu deall pam fod Rhys wedi gw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ft73xl.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260211190000 +0000" stop="20260211193000 +0000">
@@ -8017,7 +8032,7 @@
 	</programme>
 	<programme channel="s4c" start="20260211202500 +0000" stop="20260211205500 +0000">
 		<title>Y Deis - Cyfres 1: Pennod 14</title>
-		<desc>Gêm gwis gwreiddiol. Yn cystadlu am y Jacpot heno mae cystadleuwyr o Fala, Caerdydd, Ab...</desc>
+		<desc>Gêm gwis gwreiddiol. Yn cystadlu am y Jacpot heno mae cystadleuwyr o'r Bala, Caerdydd, ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mhskqt.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260211205500 +0000" stop="20260211210000 +0000">
