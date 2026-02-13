@@ -154,7 +154,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260214120000 +0000" stop="20260214124500 +0000">
 		<title>Football Focus - 14/02/2026</title>
-		<desc>Alex Scott, Glenn Murray and Leon Osman preview all the FA Cup fourth-round action.</desc>
+		<desc>FA Cup fourth-round preview and all the latest from the Premier League.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lyg4qc.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260214124500 +0000" stop="20260214125500 +0000">
@@ -676,20 +676,20 @@
 		<desc>Paul Martin presents from De Monfort Hall in Leicester.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260213171500 +0000" stop="20260213220000 +0000">
-		<title>Winter Olympics 2026 - Live: Day 7: BBC Two - Evening</title>
-		<desc>Coverage of day 7 of the Milano Cortina 2026 Olympic Winter Games.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mx8yw9.jpg" />
+	<programme channel="bbctwo" start="20260213171500 +0000" stop="20260213220500 +0000">
+		<title>Winter Olympics 2026 - Live: Day 7: BBC Two - Evening: Featuring Skeleton Men’s Singles Heats 3&amp;4</title>
+		<desc>Matt Weston aims to secure GB's first medal of these Games.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n11jn0.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260213220000 +0000" stop="20260213223000 +0000">
-		<title>Live at the Apollo - Series 19: Episode 7</title>
-		<desc>Tim Renkow welcomes comedians Janine Harouni and Stuart Goldsmith to the stage.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmm23l.jpg" />
+	<programme channel="bbctwo" start="20260213220500 +0000" stop="20260213223000 +0000">
+		<title>Saving Lives at Sea - Series 9: 6. Spinal Emergency</title>
+		<desc>The Humber crew must pull off the dangerous medivac of a fisherman with a spinal injury.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hwndvd.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260213223000 +0000" stop="20260213225800 +0000">
 		<title>Newsnight - 13/02/2026</title>
 		<desc>Insights and global interviews on the crucial news stories of the day. With Katie Razzall.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n11mm6.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260213225800 +0000" stop="20260213230000 +0000">
 		<title>BBC Weather - 13/02/2026</title>
@@ -5407,7 +5407,7 @@
 	<programme channel="bbcnews" start="20260213223000 +0000" stop="20260213230000 +0000">
 		<title>Newsnight - 13/02/2026</title>
 		<desc>Insights and global interviews on the crucial news stories of the day. With Katie Razzall.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j6bty0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n11mm6.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260213230000 +0000" stop="20260213233000 +0000">
 		<title>BBC World News America - 13/02/2026</title>
@@ -5481,10 +5481,20 @@
 		<desc>World Central Kitchen hits one million meals a day delivered in Gaza.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0sx4z.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260214060000 +0000" stop="20260214090000 +0000">
+	<programme channel="bbcnews" start="20260214060000 +0000" stop="20260214080000 +0000">
 		<title>Breakfast - 14/02/2026</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260214080000 +0000" stop="20260214083000 +0000">
+		<title>BBC News - 14/02/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260214083000 +0000" stop="20260214090000 +0000">
+		<title>Global Women - 2025: Syria's Woman at the Top</title>
+		<desc>For Global Women, Lyse Doucet meets Hind Kabawat, Syria's only female cabinet minister.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n00bbs.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260214090000 +0000" stop="20260214100000 +0000">
 		<title>BBC News - 14/02/2026</title>
