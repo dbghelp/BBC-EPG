@@ -2013,12 +2013,12 @@
 		<desc>Grizzy and the Lemmings are victims of inexplicable thefts.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j0yywy.jpg" />
 	</programme>
-	<programme channel="cbbc" start="20260217101500 +0000" stop="20260217102000 +0000">
+	<programme channel="cbbc" start="20260217101500 +0000" stop="20260217102500 +0000">
 		<title>Grizzy and the Lemmings - Series 4: 4. Strong Will</title>
 		<desc>Grizzy and the Lemmings use a frog with hypnotising powers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j0yyxg.jpg" />
 	</programme>
-	<programme channel="cbbc" start="20260217102000 +0000" stop="20260217103000 +0000">
+	<programme channel="cbbc" start="20260217102500 +0000" stop="20260217103000 +0000">
 		<title>Grizzy and the Lemmings - Series 4: 17. Frosty Cup</title>
 		<desc>Grizzy and the Lemmings get into super-fast snowmobiles and launch into a race.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j140y0.jpg" />
@@ -5437,17 +5437,7 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260217110000 +0000" stop="20260217113000 +0000">
-		<title>BBC News - 17/02/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260217113000 +0000" stop="20260217114500 +0000">
-		<title>Business Today - 17/02/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260217114500 +0000" stop="20260217120000 +0000">
+	<programme channel="bbcnews" start="20260217110000 +0000" stop="20260217120000 +0000">
 		<title>BBC News - 17/02/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
