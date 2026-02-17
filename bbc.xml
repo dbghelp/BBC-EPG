@@ -93,7 +93,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260217190000 +0000" stop="20260217193000 +0000">
 		<title>The One Show - 17/02/2026</title>
-		<desc>Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+		<desc>Andi Oliver, Phil Wang, Dame Maggie Aderin and Alex James are the guests on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260217193000 +0000" stop="20260217200000 +0000">
@@ -535,12 +535,12 @@
 	<programme channel="bbcone" start="20260221191500 +0000" stop="20260221201500 +0000">
 		<title>Gladiators - Series 3: Episode 6</title>
 		<desc>Four brave Contenders battle against the Gladiators in the first of the quarter-finals.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0msdb3z.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1ldkl.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260221201500 +0000" stop="20260221211500 +0000">
 		<title>Michael McIntyre's Big Show - Series 9: Episode 5</title>
 		<desc>Michael's guests include Peter Crouch, Abbey Clancy, B*Witched and Katherine Jenkins.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtr5b4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1lgwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260221211500 +0000" stop="20260221220500 +0000">
 		<title>The Walsh Sisters - Series 1: 1. We're All Grand</title>
@@ -1189,7 +1189,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260217190000 +0000" stop="20260217190500 +0000">
 		<title>The Catch Up - 17/02/2026</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Aisling Taylor.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260217190500 +0000" stop="20260217193000 +0000">
@@ -1900,7 +1900,7 @@
 	<programme channel="bbcfour" start="20260221225500 +0000" stop="20260221233000 +0000">
 		<title>Wogan - Jenny Agutter, Laurie Lee, John Garnett</title>
 		<desc>Terry Wogan is joined by Jenny Agutter, Laurie Lee, John Garnett and Barbara Dickson.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hmh9x2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1l31c.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260221233000 +0000" stop="20260222000500 +0000">
 		<title>Comic Roots - Kenneth Williams</title>
@@ -1995,7 +1995,7 @@
 	</programme>
 	<programme channel="cbbc" start="20260217090000 +0000" stop="20260217091000 +0000">
 		<title>Despicable Me Presents: Minion Madness</title>
-		<desc>Minion Madness presents six new mini movies from the creators of Despicable Me.</desc>
+		<desc>Minion Madness presents three new mini movies from the creators of Despicable Me.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0n87m.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260217091000 +0000" stop="20260217100000 +0000">
@@ -2892,7 +2892,7 @@
 	<programme channel="cbbc" start="20260220170000 +0000" stop="20260220172500 +0000">
 		<title>Blue Peter - Full Episodes: Six the Musical and The Next Step</title>
 		<desc>The queens from Six the Musical perform a show-stopping song.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m053p4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1kxym.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260220172500 +0000" stop="20260220173500 +0000">
 		<title>Monsters v Aliens: Night of the Living Carrots</title>
@@ -3012,7 +3012,7 @@
 	<programme channel="cbbc" start="20260221113000 +0000" stop="20260221115500 +0000">
 		<title>Blue Peter - Full Episodes: Six the Musical and The Next Step</title>
 		<desc>The queens from Six the Musical perform a show-stopping song.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m053p4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1kxym.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260221115500 +0000" stop="20260221120500 +0000">
 		<title>What's Cooking Omari? - Series 1: 6. Omari's Kickin' Jackfruit Curry</title>
@@ -6632,10 +6632,20 @@
 		<desc>Coverage of proceedings in the Scottish Parliament on Tuesday 17 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260217173000 +0000" stop="20260217200000 +0000">
-		<title>Select Committees - 17/02/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	<programme channel="bbcparliament" start="20260217173000 +0000" stop="20260217192500 +0000">
+		<title>Select Committees - Work and Pensions Committee on Employment Support for Disabled People</title>
+		<desc>The Work and Pensions select committee session on employment support for disabled people.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1flsx.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260217192500 +0000" stop="20260217195000 +0000">
+		<title>Northern Ireland Assembly - Gender Identity Services</title>
+		<desc>An urgent oral question on the Cass Assessment Report for Gender Identity Services.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260217195000 +0000" stop="20260217200000 +0000">
+		<title>Northern Ireland Assembly - NSMC Meeting on Special EU Programmes</title>
+		<desc>Statement on the recent North South Ministerial Council meeting on Special EU Programmes.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260217200000 +0000" stop="20260217223000 +0000">
 		<title>Northern Ireland Assembly - 17/02/2026</title>
@@ -7796,7 +7806,7 @@
 	<programme channel="s4c" start="20260217210000 +0000" stop="20260217220000 +0000">
 		<title>Amour &amp; Mynydd - Cyfres 2: Pennod 3</title>
 		<desc>Mae Connor wedi gadael am adra ond Pwy sy mewn peryg o adael?  Gall unrhyw beth ddigwyd...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxv630.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1kqzv.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260217220000 +0000" stop="20260217230000 +0000">
 		<title>Taith Bywyd - Jason Mohammad</title>
@@ -8096,12 +8106,12 @@
 	<programme channel="s4c" start="20260218210000 +0000" stop="20260218220000 +0000">
 		<title>Amour &amp; Mynydd - Cyfres 2: Pennod 4</title>
 		<desc>Mae'r criw wedi hen setlo yn yr Alpau Ffrengig erbyn hyn, a chyplau yn dechrau ffurfio....</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxv630.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1krhs.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260218220000 +0000" stop="20260218223000 +0000">
 		<title>Amour &amp; Mynydd - Cyfres 2: Apres: Amour &amp; Mynydd 2</title>
 		<desc>Mel Owen sy'n ymuno gyda Mari Beard a Meilir Rhys Williams. Maen nhw hefyd yn cael hane...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxv630.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1krw2.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260218223000 +0000" stop="20260218230000 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2025/26: Cwmni mewn creisis</title>
@@ -8406,7 +8416,7 @@
 	<programme channel="s4c" start="20260219220000 +0000" stop="20260219230000 +0000">
 		<title>Amour &amp; Mynydd - Cyfres 2: Pennod 3</title>
 		<desc>Mae Connor wedi gadael am adra ond Pwy sy mewn peryg o adael?  Gall unrhyw beth ddigwyd...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxv630.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1kqzv.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260219230000 +0000" stop="20260220000500 +0000">
 		<title>Cynefin - Cyfres 1: Rhydaman</title>
@@ -8816,12 +8826,12 @@
 	<programme channel="s4c" start="20260221220000 +0000" stop="20260221230000 +0000">
 		<title>Amour &amp; Mynydd - Cyfres 2: Pennod 4</title>
 		<desc>Mae'r criw wedi hen setlo yn yr Alpau Ffrengig erbyn hyn, a chyplau yn dechrau ffurfio....</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxv630.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1krhs.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260221230000 +0000" stop="20260221233500 +0000">
 		<title>Amour &amp; Mynydd - Cyfres 2: Apres: Amour &amp; Mynydd 2</title>
 		<desc>Mel Owen sy'n ymuno gyda Mari Beard a Meilir Rhys Williams. Maen nhw hefyd yn cael hane...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxv630.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1krw2.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260221233500 +0000" stop="20260222060000 +0000">
 		<title>Watch Live</title>
