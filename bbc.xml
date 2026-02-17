@@ -345,7 +345,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260219224000 +0000" stop="20260219234000 +0000">
 		<title>Question Time - 2026: 19/02/2026</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Ringwood.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260219234000 +0000" stop="20260220001000 +0000">
@@ -677,37 +677,42 @@
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260217230000 +0000" stop="20260218005000 +0000">
+	<programme channel="bbctwo" start="20260217230000 +0000" stop="20260218000000 +0000">
+		<title>Fern Britton Meets... - Series 2: 3. Jesse Jackson</title>
+		<desc>Fern Britton travels to America to meet the Reverend Jesse Jackson.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01gytxx.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260218000000 +0000" stop="20260218015000 +0000">
 		<title>Bonnie and Clyde</title>
 		<desc>Clyde Barrow and Bonnie Parker carry out a series of robberies in 1930s America.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gzjwq9.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260218005000 +0000" stop="20260218011500 +0000">
+	<programme channel="bbctwo" start="20260218015000 +0000" stop="20260218021500 +0000">
 		<title>What We Do in the Shadows - Series 6: 6. Laszlo's Father</title>
 		<desc>Laszlo’s father’s ghost returns to make amends. Nadja and Nandor deal with shape-shifters.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mrgrv3.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260218011500 +0000" stop="20260218014000 +0000">
+	<programme channel="bbctwo" start="20260218021500 +0000" stop="20260218024000 +0000">
 		<title>What We Do in the Shadows - Series 6: 7. March Madness</title>
 		<desc>Laszlo and Nandor try to exorcise the demon who has possessed their neighbour Sean.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mrgrwz.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260218014000 +0000" stop="20260218024000 +0000">
+	<programme channel="bbctwo" start="20260218024000 +0000" stop="20260218034000 +0000">
 		<title>Lord of the Flies - Series 1: 2. Jack</title>
 		<desc>Tensions rise as Jack’s hunting jeopardises a chance of rescue.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxl4lf.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260218024000 +0000" stop="20260218031000 +0000">
+	<programme channel="bbctwo" start="20260218034000 +0000" stop="20260218041000 +0000">
 		<title>Can You Keep a Secret? - Series 1: Episode 6</title>
 		<desc>The blackmailer has had enough of Debbie’s games. Is it all over for the Fendons?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mr9chh.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260218031000 +0000" stop="20260218034000 +0000">
+	<programme channel="bbctwo" start="20260218041000 +0000" stop="20260218044000 +0000">
 		<title>Amanda &amp; Alan's Greek Job - Series 1: Episode 7</title>
 		<desc>Alan looks to the past, while Amanda embraces AI as the besties take on separate spaces.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mnx562.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260218034000 +0000" stop="20260218061500 +0000">
+	<programme channel="bbctwo" start="20260218044000 +0000" stop="20260218061500 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -6059,7 +6064,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260219210000 +0000" stop="20260219220000 +0000">
 		<title>Question Time - 2026: 19/02/2026</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of topical debate from Ringwood.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260219220000 +0000" stop="20260219223000 +0000">
@@ -6627,94 +6632,204 @@
 		<desc>Coverage of questions to Shabana Mahmood on Monday 9 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n02gfp.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260217140000 +0000" stop="20260217173000 +0000">
+	<programme channel="bbcparliament" start="20260217140000 +0000" stop="20260217184500 +0000">
 		<title>Scottish Parliament - 17/02/2026</title>
 		<desc>Coverage of proceedings in the Scottish Parliament on Tuesday 17 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260217173000 +0000" stop="20260217192500 +0000">
+	<programme channel="bbcparliament" start="20260217184500 +0000" stop="20260217204000 +0000">
 		<title>Select Committees - Work and Pensions Committee on Employment Support for Disabled People</title>
 		<desc>The Work and Pensions select committee session on employment support for disabled people.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1flsx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260217192500 +0000" stop="20260217195000 +0000">
+	<programme channel="bbcparliament" start="20260217204000 +0000" stop="20260217210500 +0000">
 		<title>Northern Ireland Assembly - Gender Identity Services</title>
 		<desc>An urgent oral question on the Cass Assessment Report for Gender Identity Services.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260217195000 +0000" stop="20260217200000 +0000">
+	<programme channel="bbcparliament" start="20260217210500 +0000" stop="20260217211500 +0000">
 		<title>Northern Ireland Assembly - NSMC Meeting on Special EU Programmes</title>
 		<desc>Statement on the recent North South Ministerial Council meeting on Special EU Programmes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260217200000 +0000" stop="20260217223000 +0000">
-		<title>Northern Ireland Assembly - 17/02/2026</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 17 February.</desc>
+	<programme channel="bbcparliament" start="20260217211500 +0000" stop="20260217215000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Members' statements in the Northern Ireland Assembly on Tuesday 17 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260217223000 +0000" stop="20260218020000 +0000">
-		<title>Scottish Parliament - 17/02/2026</title>
-		<desc>Coverage of proceedings in the Scottish Parliament on Tuesday 17 February.</desc>
+	<programme channel="bbcparliament" start="20260217215000 +0000" stop="20260217221000 +0000">
+		<title>Northern Ireland Assembly - Insolvency (Amendment) Bill</title>
+		<desc>Coverage of a debate on the consideration stage of the Insolvency (Amendment) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260217221000 +0000" stop="20260217234000 +0000">
+		<title>Northern Ireland Assembly - Casement Park Debate</title>
+		<desc>A debate on creating a 'clawback' mechanism for public funds spent on Casement Park.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260217234000 +0000" stop="20260218003000 +0000">
+		<title>Northern Ireland Assembly - Communities Questions</title>
+		<desc>Coverage of questions to the communities minister Gordon Lyons, on Tuesday 17 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218003000 +0000" stop="20260218005000 +0000">
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Topical questions on NHS Ayrshire and Arran, palliative care and Peter Murrell's trial.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260218020000 +0000" stop="20260218043000 +0000">
-		<title>Northern Ireland Assembly - 17/02/2026</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 17 February.</desc>
+	<programme channel="bbcparliament" start="20260218005000 +0000" stop="20260218020000 +0000">
+		<title>Scottish Parliament - Freedom of Information Reform Bill</title>
+		<desc>The debate on the general principles of the Freedom of Information Reform (Scotland) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218020000 +0000" stop="20260218023500 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Members' statements in the Northern Ireland Assembly on Tuesday 17 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218023500 +0000" stop="20260218025500 +0000">
+		<title>Northern Ireland Assembly - Insolvency (Amendment) Bill</title>
+		<desc>Coverage of a debate on the consideration stage of the Insolvency (Amendment) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218025500 +0000" stop="20260218042500 +0000">
+		<title>Northern Ireland Assembly - Casement Park Debate</title>
+		<desc>A debate on creating a 'clawback' mechanism for public funds spent on Casement Park.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218042500 +0000" stop="20260218051500 +0000">
+		<title>Northern Ireland Assembly - Communities Questions</title>
+		<desc>Coverage of questions to the communities minister Gordon Lyons, on Tuesday 17 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218051500 +0000" stop="20260218053500 +0000">
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Topical questions on NHS Ayrshire and Arran, palliative care and Peter Murrell's trial.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218053500 +0000" stop="20260218064500 +0000">
+		<title>Scottish Parliament - Freedom of Information Reform Bill</title>
+		<desc>The debate on the general principles of the Freedom of Information Reform (Scotland) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260218043000 +0000" stop="20260218080000 +0000">
 		<title>Scottish Parliament - 17/02/2026</title>
 		<desc>Coverage of proceedings in the Scottish Parliament on Tuesday 17 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260218080000 +0000" stop="20260218113000 +0000">
-		<title>Scottish Parliament - 17/02/2026</title>
-		<desc>Coverage of proceedings in the Scottish Parliament on Tuesday 17 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	<programme channel="bbcparliament" start="20260218080000 +0000" stop="20260218110000 +0000">
+		<title>Westminster Hall - Indefinite Leave to Remain</title>
+		<desc>Debate in Westminster Hall on the planned changes to the indefinite leave to remain rules.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260218113000 +0000" stop="20260218140000 +0000">
-		<title>Northern Ireland Assembly - 17/02/2026</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Tuesday 17 February.</desc>
+	<programme channel="bbcparliament" start="20260218110000 +0000" stop="20260218113000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Members' statements in the Northern Ireland Assembly on Tuesday 17 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260218140000 +0000" stop="20260218173000 +0000">
+	<programme channel="bbcparliament" start="20260218113000 +0000" stop="20260218115000 +0000">
+		<title>Northern Ireland Assembly - Insolvency (Amendment) Bill</title>
+		<desc>Coverage of a debate on the consideration stage of the Insolvency (Amendment) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218115000 +0000" stop="20260218125500 +0000">
+		<title>Northern Ireland Assembly - Accessing Mental Health Data</title>
+		<desc>Coverage of a debate in the Northern Ireland Assembly on accessing mental health data.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218125500 +0000" stop="20260218134500 +0000">
+		<title>Northern Ireland Assembly - Communities Questions</title>
+		<desc>Coverage of questions to the communities minister Gordon Lyons, on Tuesday 17 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218134500 +0000" stop="20260218140000 +0000">
+		<title>Ten Minute Rule Bill - Short-term Lets</title>
+		<desc>The introduction of a bill on data sharing requirements for short-term let accommodation.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1fwpl.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218140000 +0000" stop="20260218171000 +0000">
 		<title>Scottish Parliament - 18/02/2026</title>
-		<desc>Coverage of proceedings in the Scottish Parliament on Wednesday 18 February.</desc>
+		<desc>Coverage of proceedings in the Scottish parliament on Wednesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260218173000 +0000" stop="20260218200000 +0000">
-		<title>Select Committees - 18/02/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20260218171000 +0000" stop="20260218182500 +0000">
+		<title>Select Committees - Lords Economic Affairs Committee on the UK's Fiscal Framework</title>
+		<desc>The Lords Economic Affairs select committee session on the UK's fiscal framework.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260218200000 +0000" stop="20260218233000 +0000">
-		<title>Scottish Parliament - 18/02/2026</title>
-		<desc>Coverage of proceedings in the Scottish Parliament on Wednesday 18 February.</desc>
+	<programme channel="bbcparliament" start="20260218182500 +0000" stop="20260218194000 +0000">
+		<title>Select Committees - Northern Ireland Affairs Committee on Economic Growth</title>
+		<desc>The Northern Ireland Affairs committee on economic growth, from Wednesday 4 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n08d26.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218194000 +0000" stop="20260218200500 +0000">
+		<title>Scottish Parliament - Topical Questions</title>
+		<desc>Topical questions on NHS Ayrshire and Arran, palliative care and Peter Murrell's trial.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260218233000 +0000" stop="20260219013000 +0000">
-		<title>Northern Ireland Assembly - 16/02/2026</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 16 February.</desc>
+	<programme channel="bbcparliament" start="20260218200500 +0000" stop="20260218231500 +0000">
+		<title>Scottish Parliament - 18/02/2026</title>
+		<desc>Coverage of proceedings in the Scottish parliament on Wednesday 18 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218231500 +0000" stop="20260218234500 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>The members' statements in the Northern Ireland Assembly on Monday 16 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260218234500 +0000" stop="20260219000000 +0000">
+		<title>Northern Ireland Assembly - Matter of the Day Debate</title>
+		<desc>Debate on the court ruling on the proscription of Palestine Action as a terrorist group.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1frrq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260219013000 +0000" stop="20260219021500 +0000">
+	<programme channel="bbcparliament" start="20260219000000 +0000" stop="20260219001500 +0000">
+		<title>Northern Ireland Assembly - NSMC Meeting on Special EU Programmes</title>
+		<desc>Statement on the recent North South Ministerial Council meeting on Special EU Programmes.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260219001500 +0000" stop="20260219003000 +0000">
+		<title>Northern Ireland Assembly - Greenhouse Gas Emissions Scheme Motion</title>
+		<desc>A debate on a motion covering the greenhouse gas emissions trading scheme.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260219003000 +0000" stop="20260219004000 +0000">
+		<title>Northern Ireland Assembly - Energy Bill Relief Scheme Motion</title>
+		<desc>A debate in the Northern Ireland Assembly on a motion on the energy bill relief scheme.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260219004000 +0000" stop="20260219012500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions to the Northern Ireland executive, with the first minister Michelle O'Neill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1fv3k.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260219021500 +0000" stop="20260219030000 +0000">
+	<programme channel="bbcparliament" start="20260219012500 +0000" stop="20260219021500 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister Andrew Muir.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260219030000 +0000" stop="20260219053000 +0000">
-		<title>Northern Ireland Assembly - 16/02/2026</title>
-		<desc>Coverage of the proceedings in the Northern Ireland Assembly on Monday 16 February.</desc>
+	<programme channel="bbcparliament" start="20260219021500 +0000" stop="20260219024000 +0000">
+		<title>Northern Ireland Assembly - Gender Identity Services</title>
+		<desc>An urgent oral question on the Cass Assessment Report for Gender Identity Services.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260219053000 +0000" stop="20260219090000 +0000">
+	<programme channel="bbcparliament" start="20260219024000 +0000" stop="20260219030500 +0000">
+		<title>Northern Ireland Assembly - Illegal Billboards</title>
+		<desc>An urgent oral question in the Northern Ireland Assembly on illegal billboards in Newry.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260219030500 +0000" stop="20260219043000 +0000">
+		<title>Northern Ireland Assembly - Potholes Debate</title>
+		<desc>Coverage of a debate in the Northern Ireland Assembly on tackling dangerous potholes.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260219043000 +0000" stop="20260219053500 +0000">
+		<title>Northern Ireland Assembly - Accessing Mental Health Data</title>
+		<desc>Coverage of a debate in the Northern Ireland Assembly on accessing mental health data.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260219053500 +0000" stop="20260219090000 +0000">
 		<title>Scottish Parliament - 18/02/2026</title>
-		<desc>Coverage of proceedings in the Scottish Parliament on Wednesday 18 February.</desc>
+		<desc>Coverage of proceedings in the Scottish parliament on Wednesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260219090000 +0000" stop="20260219102000 +0000">
@@ -6819,7 +6934,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20260220151000 +0000" stop="20260220184000 +0000">
 		<title>Scottish Parliament - 18/02/2026</title>
-		<desc>Coverage of proceedings in the Scottish Parliament on Wednesday 18 February.</desc>
+		<desc>Coverage of proceedings in the Scottish parliament on Wednesday 18 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260220184000 +0000" stop="20260220204000 +0000">
