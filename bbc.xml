@@ -49,8 +49,13 @@
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260219090000 +0000" stop="20260219130000 +0000">
-		<title>Winter Olympics 2026 - Live: Day 13: BBC One - Morning</title>
+	<programme channel="bbcone" start="20260219090000 +0000" stop="20260219102000 +0000">
+		<title>Winter Olympics 2026 - Live: Day 13: BBC One - Morning Part 1</title>
+		<desc>Coverage of day 13 of the Milano Cortina 2026 Olympic Winter Games.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mx8yw9.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260219102000 +0000" stop="20260219130000 +0000">
+		<title>Winter Olympics 2026 - Live: Day 13: BBC One - Morning Part 2</title>
 		<desc>Coverage of day 13 of the Milano Cortina 2026 Olympic Winter Games.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mx8yw9.jpg" />
 	</programme>
@@ -98,7 +103,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260219190000 +0000" stop="20260219193000 +0000">
 		<title>The One Show - 19/02/2026</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Bear Grylls, Tessa Peake-Jones and Vicky Pattison join Alex Jones and Roman Kemp.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260219193000 +0000" stop="20260219200000 +0000">
@@ -349,7 +354,7 @@
 	<programme channel="bbcone" start="20260221234000 +0000" stop="20260221235500 +0000">
 		<title>The Football Interview - Series 1: Michael Carrick</title>
 		<desc>Mark Chapman in conversation with Michael Carrick.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lx5bxw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n20j42.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260221235500 +0000" stop="20260222004500 +0000">
 		<title>The Kingdom: Kansas City Chiefs - Series 1: 5. Heartland</title>
@@ -537,7 +542,7 @@
 	<programme channel="bbcone" start="20260223140000 +0000" stop="20260223143000 +0000">
 		<title>Bear Grylls - Wild Reckoning - Series 1: Don't Follow in My Footsteps</title>
 		<desc>A worried dad fears his 18-year-old son is going off the rails. Can he change his ways?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mr9rn8.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n20vrr.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260223143000 +0000" stop="20260223150000 +0000">
 		<title>Marcus Wareing Simply Provence - Series 1: Episode 9</title>
@@ -614,7 +619,7 @@
 	<programme channel="bbcone" start="20260223224000 +0000" stop="20260223234000 +0000">
 		<title>Industry - Series 4: 7. Points of Emphasis</title>
 		<desc>Surprising secrets come to light at both Tender and SternTao.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mplr90.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n20c27.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260223234000 +0000" stop="20260224003000 +0000">
 		<title>The Traitors Ireland - Series 1: Episode 11</title>
@@ -671,20 +676,10 @@
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260219104500 +0000" stop="20260219111500 +0000">
-		<title>Dr Xand's Con or Cure - Series 3: Episode 9</title>
-		<desc>The beauticians illegally offering dodgy injectables without a prescription.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l4b13l.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260219111500 +0000" stop="20260219121500 +0000">
-		<title>Homes Under the Hammer - Series 26: Episode 32</title>
-		<desc>Featuring properties in Worksop, Wakefield and Dewsbury.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dlcg50.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260219121500 +0000" stop="20260219130000 +0000">
-		<title>Bargain Hunt - Series  61: Shrewsbury 10</title>
-		<desc>Christina Trevanion heads to Shrewsbury with experts Philip Serrell and Izzie Balmer.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0byl9r7.jpg" />
+	<programme channel="bbctwo" start="20260219104500 +0000" stop="20260219130000 +0000">
+		<title>BBC News Special - 19/02/2026</title>
+		<desc>Live coverage of breaking stories and special reports from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07hp9l7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260219130000 +0000" stop="20260219140000 +0000">
 		<title>Winter Olympics 2026 - Live: Day 13: BBC Two - Afternoon</title>
@@ -1023,7 +1018,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20260222180000 +0000" stop="20260222190000 +0000">
 		<title>Six Nations Rugby - 2026: Rugby Special: Third Weekend</title>
-		<desc>Ugo Monye, John Barclay and Sam Warburton round-up the third weekend of the Six Nations.</desc>
+		<desc>Ugo Monye, John Barclay and Sam Warburton round up the third weekend of the Six Nations.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0gbgx.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260222190000 +0000" stop="20260222220000 +0000">
@@ -5451,135 +5446,25 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260219093000 +0000" stop="20260219100000 +0000">
+	<programme channel="bbcnews" start="20260219093000 +0000" stop="20260219120000 +0000">
 		<title>BBC News - 19/02/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260219100000 +0000" stop="20260219103000 +0000">
+	<programme channel="bbcnews" start="20260219120000 +0000" stop="20260219180000 +0000">
+		<title>BBC News - 19/02/2026</title>
+		<desc>The latest breaking news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260219180000 +0000" stop="20260219210000 +0000">
 		<title>BBC News - 19/02/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219103000 +0000" stop="20260219110000 +0000">
-		<title>BBC News - 19/02/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219110000 +0000" stop="20260219113000 +0000">
-		<title>BBC News - 19/02/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219113000 +0000" stop="20260219114500 +0000">
-		<title>Business Today - 19/02/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219114500 +0000" stop="20260219120000 +0000">
-		<title>BBC News - 19/02/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219120000 +0000" stop="20260219123000 +0000">
-		<title>BBC News Now - 19/02/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219123000 +0000" stop="20260219130000 +0000">
-		<title>BBC News Now - 19/02/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219130000 +0000" stop="20260219140000 +0000">
-		<title>BBC News at One - 19/02/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219140000 +0000" stop="20260219143000 +0000">
-		<title>BBC News Now - 19/02/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219143000 +0000" stop="20260219144500 +0000">
-		<title>Business Today - NYSE Opening Bell - 19/02/2026</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219144500 +0000" stop="20260219150000 +0000">
-		<title>BBC News Now - 19/02/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219150000 +0000" stop="20260219153000 +0000">
-		<title>Verified Live - 19/02/2026</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219153000 +0000" stop="20260219160000 +0000">
-		<title>Verified Live - 19/02/2026</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219160000 +0000" stop="20260219163000 +0000">
-		<title>Verified Live - 19/02/2026</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219163000 +0000" stop="20260219164500 +0000">
-		<title>Business Today - 19/02/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219164500 +0000" stop="20260219170000 +0000">
-		<title>Verified Live - 19/02/2026</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219170000 +0000" stop="20260219173000 +0000">
-		<title>Verified Live - 19/02/2026</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219173000 +0000" stop="20260219180000 +0000">
-		<title>BBC News - 19/02/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219180000 +0000" stop="20260219183000 +0000">
-		<title>BBC News at Six - 19/02/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219183000 +0000" stop="20260219190000 +0000">
-		<title>The World Today with Maryam Moshiri - 19/02/2026</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219190000 +0000" stop="20260219193000 +0000">
-		<title>The World Today with Maryam Moshiri - 19/02/2026</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219193000 +0000" stop="20260219200000 +0000">
-		<title>The World Today with Maryam Moshiri - 19/02/2026</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219200000 +0000" stop="20260219203000 +0000">
-		<title>The Context - 19/02/2026</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260219203000 +0000" stop="20260219210000 +0000">
-		<title>The Context - 19/02/2026</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260219210000 +0000" stop="20260219220000 +0000">
-		<title>Question Time - 2026: 19/02/2026</title>
-		<desc>Fiona Bruce presents an hour of topical debate from Ringwood.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
+		<title>BBC News - 19/02/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260219220000 +0000" stop="20260219223000 +0000">
 		<title>BBC News at Ten - 19/02/2026</title>
@@ -7573,7 +7458,7 @@
 	</programme>
 	<programme channel="bbcalba" start="20260223213000 +0000" stop="20260223223000 +0000">
 		<title>Trusadh - Series 13: 12. Beatha air an Oir/Lost Villages</title>
-		<desc>Evelyn Coull Macleod visits deserted villages in Uig, Harris and the district of Lochs.</desc>
+		<desc>Evelyn Coull MacLeod visits deserted villages in Uig, Harris and the district of Lochs.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09vtzht.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260223223000 +0000" stop="20260223231500 +0000">
@@ -8735,7 +8620,7 @@
 	<programme channel="s4c" start="20260223200000 +0000" stop="20260223202500 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2025/26: Ail Frwydr Llangyndeyrn</title>
 		<desc>Wedi ennill un frwydr enwog, mae Llangyndeyrn yn wynebu brwydr arall - i gadw ei ysgol ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhmg3f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1zyz2.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260223202500 +0000" stop="20260223205500 +0000">
 		<title>Ciao! Colleen ag Owain - 4. Llyn Como</title>
