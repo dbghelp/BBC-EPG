@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260223190000 +0000" stop="20260223193000 +0000">
 		<title>The One Show - 23/02/2026</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Professor Hannah Fry, Dame Prue Leith and Will Mellor join Alex and Roman on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260223193000 +0000" stop="20260223200000 +0000">
@@ -170,12 +170,12 @@
 	<programme channel="bbcone" start="20260223234000 +0000" stop="20260224003000 +0000">
 		<title>The Traitors Ireland - Series 1: Episode 11</title>
 		<desc>Both Faithful and Traitor lie for their lives in an attempt to get to the grand final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtpyvg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2qm10.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260224003000 +0000" stop="20260224012500 +0000">
 		<title>The Traitors Ireland - Series 1: Episode 12</title>
 		<desc>The final mission has another 10,000 euros at stake, but who will claim it?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtpyvg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2qmc6.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260224012500 +0000" stop="20260224013000 +0000">
 		<title>Weather for the Week Ahead - 24/02/2026</title>
@@ -1456,12 +1456,12 @@
 	<programme channel="bbcthree" start="20260223210000 +0000" stop="20260223215500 +0000">
 		<title>The Traitors Ireland - Series 1: Episode 11</title>
 		<desc>Both Faithful and Traitor lie for their lives in an attempt to get to the grand final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtpyvg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2qm10.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260223215500 +0000" stop="20260223224500 +0000">
 		<title>The Traitors Ireland - Series 1: Episode 12</title>
 		<desc>The final mission has another 10,000 euros at stake, but who will claim it?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtpyvg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2qmc6.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260223224500 +0000" stop="20260223231500 +0000">
 		<title>Amandaland - Series 1: 1. House Party</title>
@@ -1801,12 +1801,12 @@
 	<programme channel="bbcthree" start="20260227223500 +0000" stop="20260227232500 +0000">
 		<title>The Traitors Ireland - Series 1: Episode 11</title>
 		<desc>Both Faithful and Traitor lie for their lives in an attempt to get to the grand final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtpyvg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2qm10.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260227232500 +0000" stop="20260228002000 +0000">
 		<title>The Traitors Ireland - Series 1: Episode 12</title>
 		<desc>The final mission has another 10,000 euros at stake, but who will claim it?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mtpyvg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2qmc6.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260228002000 +0000" stop="20260228012000 +0000">
 		<title>Top Gear - Series 13: Episode 2</title>
@@ -5776,15 +5776,10 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260223143000 +0000" stop="20260223144500 +0000">
-		<title>Business Today - NYSE Opening Bell - 23/02/2026</title>
-		<desc>The latest business news from New York and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260223144500 +0000" stop="20260223150000 +0000">
-		<title>BBC News Now - 23/02/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	<programme channel="bbcnews" start="20260223143000 +0000" stop="20260223150000 +0000">
+		<title>BBC News - 23/02/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260223150000 +0000" stop="20260223153000 +0000">
 		<title>Verified Live - 23/02/2026</title>
@@ -6149,7 +6144,7 @@
 	<programme channel="bbcnews" start="20260225010000 +0000" stop="20260225050000 +0000">
 		<title>President Trump's Address to Congress</title>
 		<desc>Live coverage of President Trump's State of the Union address.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kvym3b.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260225050000 +0000" stop="20260225053000 +0000">
 		<title>BBC News - 25/02/2026</title>
@@ -7378,9 +7373,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p019ztgc.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260224233000 +0000" stop="20260225000000 +0000">
-		<title>Alleluia! - Series 7: Episode 3</title>
-		<desc>Fergus Munro and Ewen Henderson perform Seinnibh  Dhan Tighearna.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b4tdsk.jpg" />
+		<title>Alleluia! - Series 7: Episode 2</title>
+		<desc>Chloe Steele performs Sìn do làmh, a Mhoire.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b54sdy.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260225000000 +0000" stop="20260225060000 +0000">
 		<title>Alba Today - Alba Today</title>
@@ -8280,7 +8275,7 @@
 	<programme channel="s4c" start="20260224210000 +0000" stop="20260224220000 +0000">
 		<title>Amour &amp; Mynydd - Cyfres 2: Pennod 5</title>
 		<desc>Mae na sypreis yn cyrraedd y Chalet i gynhyrfu'r dyfroedd, ac mae gan Elin gyhoeddiad a...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxv630.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2qfsp.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260224220000 +0000" stop="20260224230000 +0000">
 		<title>Taith Bywyd - Peredur ap Gwynedd</title>
@@ -8890,7 +8885,7 @@
 	<programme channel="s4c" start="20260226220000 +0000" stop="20260226230000 +0000">
 		<title>Amour &amp; Mynydd - Cyfres 2: Pennod 5</title>
 		<desc>Mae na sypreis yn cyrraedd y Chalet i gynhyrfu'r dyfroedd, ac mae gan Elin gyhoeddiad a...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxv630.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2qfsp.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260226230000 +0000" stop="20260227000500 +0000">
 		<title>Cynefin - Cyfres 1: Y Bala</title>
