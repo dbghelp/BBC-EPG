@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260224190000 +0000" stop="20260224193000 +0000">
 		<title>The One Show - 24/02/2026</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Olympians Matt Weston and Tabby Stoecker are among the guests joining Alex and Roman.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260224193000 +0000" stop="20260224200000 +0000">
@@ -638,7 +638,7 @@
 	<programme channel="bbcone" start="20260228134500 +0000" stop="20260228144500 +0000">
 		<title>Escape to the Country - Series 22 (Extended Versions): 14. Kent</title>
 		<desc>Steve Brown helps a pair of sisters from London to buy a house each in Kent.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mn4ypw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fm8jcm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260228144500 +0000" stop="20260228153000 +0000">
 		<title>Money for Nothing - Series 17: 9. A Stitch in Time</title>
@@ -762,8 +762,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260224121500 +0000" stop="20260224130000 +0000">
-		<title>Politics Live - 24/02/2026</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - Youth Minimum Wage Rise</title>
+		<desc> The impact of minimum wage rise on young workers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260224130000 +0000" stop="20260224134500 +0000">
@@ -1109,7 +1109,7 @@
 	<programme channel="bbctwo" start="20260226230000 +0000" stop="20260227000000 +0000">
 		<title>AI Confidential with Hannah Fry - Series 1: 1. The Boy Who Tried to Kill the Queen</title>
 		<desc>A chatbot encourages a teenager to try to kill Queen Elizabeth II. Who is responsible?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1mkdh.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2y93f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260227000000 +0000" stop="20260227012500 +0000">
 		<title>Mindhorn</title>
@@ -1561,12 +1561,12 @@
 		<desc>Don’t be afraid to embrace the beast within - even if it means scoffing loads of men.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpz2lx.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260226024500 +0000" stop="20260226040000 +0000">
+	<programme channel="bbcthree" start="20260226024500 +0000" stop="20260226035000 +0000">
 		<title>RuPaul’s Drag Race UK vs the World - Series 3: Episode 5</title>
 		<desc>The queens take on a silent movie-acting challenge. With Russell T Davies and Will Poulter</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2b7t4.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260226040000 +0000" stop="20260226053000 +0000">
+	<programme channel="bbcthree" start="20260226035000 +0000" stop="20260226053000 +0000">
 		<title>This is BBC Three - This is BBC Three</title>
 		<desc>Programmes start at 7.00pm</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvry0j.jpg" />
@@ -5692,12 +5692,17 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260224123000 +0000" stop="20260224130000 +0000">
+	<programme channel="bbcnews" start="20260224123000 +0000" stop="20260224124500 +0000">
 		<title>BBC News Now - 24/02/2026</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260224130000 +0000" stop="20260224140000 +0000">
+	<programme channel="bbcnews" start="20260224124500 +0000" stop="20260224133000 +0000">
+		<title>BBC News - 24/02/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260224133000 +0000" stop="20260224140000 +0000">
 		<title>BBC News at One - 24/02/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
@@ -5735,7 +5740,7 @@
 	<programme channel="bbcnews" start="20260224163000 +0000" stop="20260224170000 +0000">
 		<title>War in Ukraine: What Happens Next?</title>
 		<desc>Lucy Hockings presents a special programme from Kyiv in Ukraine.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2x3h6.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260224170000 +0000" stop="20260224173000 +0000">
 		<title>Verified Live - 24/02/2026</title>
@@ -6797,17 +6802,32 @@
 		<desc>The Public Administration and Constitutional Affairs committee on standards in public life</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260224113000 +0000" stop="20260224123000 +0000">
+	<programme channel="bbcparliament" start="20260224113000 +0000" stop="20260224124000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 24 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260224123000 +0000" stop="20260224193000 +0000">
+	<programme channel="bbcparliament" start="20260224124000 +0000" stop="20260224125000 +0000">
+		<title>House of Commons - Ten Minute Rule Bill on Labelling of Kosher and Halal Meat</title>
+		<desc>The introduction of a ten minute rule bill on the labelling of halal and kosher meat.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260224125000 +0000" stop="20260224160000 +0000">
+		<title>House of Commons - Andrew Mountbatten-Windsor Debate</title>
+		<desc>Debate on the appointment of Andrew Mountbatten-Windsor as a trade envoy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260224160000 +0000" stop="20260224190000 +0000">
+		<title>House of Commons - Social Media Access for Under-16s Debate</title>
+		<desc>Coverage of the debate on setting up an age classification system for social media.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260224190000 +0000" stop="20260224210000 +0000">
 		<title>House of Commons - 24/02/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 24 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260224193000 +0000" stop="20260224220000 +0000">
+	<programme channel="bbcparliament" start="20260224210000 +0000" stop="20260224220000 +0000">
 		<title>House of Lords - 24/02/2026</title>
 		<desc>Coverage of proceedings in the House of Lords on Tuesday 24 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
@@ -7744,7 +7764,7 @@
 	</programme>
 	<programme channel="s4c" start="20260224123000 +0000" stop="20260224130000 +0000">
 		<title>Heno - Mon, 23 Feb 2026</title>
-		<desc>Gawn ni holl hanes Gwobrau Selar ac mi fyddwn ni'n cael cwmni Catrin Finch yn y stiwdio...</desc>
+		<desc>Cawn ni holl hanes Gwobrau Selar ac mi fyddwn ni'n cael cwmni Catrin Finch yn y stiwdio...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lj4psw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260224130000 +0000" stop="20260224133000 +0000">
@@ -8752,17 +8772,7 @@
 		<desc>Ymunwch â Jonathan, Nigel, Sarra a Lloyd wrth iddyn nhw groesawu eu gwesteion, James Wi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g9lvyn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260227234500 +0000" stop="20260228003000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
-	</programme>
-	<programme channel="s4c" start="20260228003000 +0000" stop="20260228010000 +0000">
-		<title>Oakhouse Foods</title>
-		<desc>Description Coming Soon...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
-	</programme>
-	<programme channel="s4c" start="20260228010000 +0000" stop="20260228060000 +0000">
+	<programme channel="s4c" start="20260227234500 +0000" stop="20260228060000 +0000">
 		<title>Watch Live</title>
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
