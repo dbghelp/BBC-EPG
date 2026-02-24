@@ -442,7 +442,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260226224000 +0000" stop="20260226234000 +0000">
 		<title>Question Time - 2026: 26/02/2026</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<desc>Fiona Bruce presents an hour of debate from Birmingham.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260226234000 +0000" stop="20260227001000 +0000">
@@ -1162,7 +1162,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260227123000 +0000" stop="20260227130000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 2: 27/02/2026</title>
+		<title>Political Thinking with Nick Robinson - Series 2: Omid Djalili</title>
 		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
@@ -6584,7 +6584,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260228113000 +0000" stop="20260228120000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 25/02/2026</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>John Simpson explores the mood in Ukraine after four years of war.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260228120000 +0000" stop="20260228123000 +0000">
@@ -6638,7 +6638,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260228163000 +0000" stop="20260228170000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 2: 27/02/2026</title>
+		<title>Political Thinking with Nick Robinson - Series 2: Omid Djalili</title>
 		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
@@ -6714,7 +6714,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260301013000 +0000" stop="20260301020000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 25/02/2026</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>John Simpson explores the mood in Ukraine after four years of war.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260301020000 +0000" stop="20260301023000 +0000">
@@ -6800,12 +6800,12 @@
 	<programme channel="bbcparliament" start="20260224113000 +0000" stop="20260224124000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 24 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n301xl.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260224124000 +0000" stop="20260224125000 +0000">
 		<title>House of Commons - Ten Minute Rule Bill on Labelling of Kosher and Halal Meat</title>
 		<desc>The introduction of a ten minute rule bill on the labelling of halal and kosher meat.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n30463.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260224125000 +0000" stop="20260224160000 +0000">
 		<title>House of Commons - Andrew Mountbatten-Windsor Debate</title>
@@ -6827,42 +6827,47 @@
 		<desc>Coverage of proceedings in the House of Lords on Tuesday 24 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260224220000 +0000" stop="20260224225000 +0000">
+	<programme channel="bbcparliament" start="20260224220000 +0000" stop="20260224230500 +0000">
 		<title>Welsh First Minister's Questions - 24/02/2026</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 24 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260224225000 +0000" stop="20260224233500 +0000">
+	<programme channel="bbcparliament" start="20260224230500 +0000" stop="20260224235000 +0000">
 		<title>Lords Questions - 24/02/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 24 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260224234500 +0000" stop="20260224235500 +0000">
+	<programme channel="bbcparliament" start="20260224235000 +0000" stop="20260225000000 +0000">
+		<title>House of Lords - Sustainable Aviation Fuel Bill</title>
+		<desc>Debate in the House of Lords on the third reading of the Sustainable Aviation Fuel Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260225000000 +0000" stop="20260225001000 +0000">
 		<title>House of Lords - Labour Together Inquiry Statement</title>
-		<desc>Business in the House of Lords on Tuesday 24 February.</desc>
+		<desc>The statement on the Cabinet Office inquiry into Labour Together and APCO Worldwide.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260224235500 +0000" stop="20260225003500 +0000">
+	<programme channel="bbcparliament" start="20260225001000 +0000" stop="20260225005000 +0000">
 		<title>House of Lords - Lord Mandelson Documents Statement</title>
-		<desc>Business in the House of Lords on Tuesday 24 February.</desc>
+		<desc>The statement on the appointment of Lord Mandelson as the UK's ambassador to the US.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260225003500 +0000" stop="20260225023500 +0000">
+	<programme channel="bbcparliament" start="20260225005000 +0000" stop="20260225025000 +0000">
 		<title>House of Lords - Tobacco and Vapes Bill, Part 1</title>
-		<desc>Business in the House of Lords on Tuesday 24 February.</desc>
+		<desc>The first day of debate on the report stage of the Tobacco and Vapes Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260225023500 +0000" stop="20260225043500 +0000">
+	<programme channel="bbcparliament" start="20260225025000 +0000" stop="20260225045000 +0000">
 		<title>House of Lords - Tobacco and Vapes Bill, Part 2</title>
-		<desc>Business in the House of Lords on Tuesday 24 February.</desc>
+		<desc>The first day of debate on the report stage of the Tobacco and Vapes Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260225043500 +0000" stop="20260225053500 +0000">
+	<programme channel="bbcparliament" start="20260225045000 +0000" stop="20260225055000 +0000">
 		<title>House of Lords - Tobacco and Vapes Bill, Part 3</title>
-		<desc>Business in the House of Lords on Tuesday 24 February.</desc>
+		<desc>The first day of debate on the report stage of the Tobacco and Vapes Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260225053500 +0000" stop="20260225070000 +0000">
+	<programme channel="bbcparliament" start="20260225055000 +0000" stop="20260225070000 +0000">
 		<title>House of Lords - SEND Provision in England Statement</title>
 		<desc>The statement on special educational needs and disabilities provision in England.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
@@ -6870,7 +6875,7 @@
 	<programme channel="bbcparliament" start="20260225070000 +0000" stop="20260225080500 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 24 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n301xl.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260225080500 +0000" stop="20260225081000 +0000">
 		<title>This is BBC Parliament - This is BBC Parliament</title>
@@ -7040,7 +7045,7 @@
 	<programme channel="bbcparliament" start="20260228051500 +0000" stop="20260228060000 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 23 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n306m8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260228060000 +0000" stop="20260228110000 +0000">
 		<title>Westminster Hall - 24/02/2026</title>
@@ -7120,7 +7125,7 @@
 	<programme channel="bbcparliament" start="20260301033000 +0000" stop="20260301043000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 24 February.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n301xl.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260301043000 +0000" stop="20260301050000 +0000">
 		<title>House of Commons - Scotland Office Questions</title>
