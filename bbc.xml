@@ -821,8 +821,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1tsvs.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260225223000 +0000" stop="20260225225800 +0000">
-		<title>Newsnight - 25/02/2026</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Student Loan Reform?</title>
+		<desc>Change to the student loan system could be coming through the government.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260225225800 +0000" stop="20260225230000 +0000">
@@ -5727,8 +5727,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260225223000 +0000" stop="20260225230000 +0000">
-		<title>Newsnight - 25/02/2026</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+		<title>Newsnight - Student Loan Reform?</title>
+		<desc>Change to the student loan system could be coming through the government.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260225230000 +0000" stop="20260226000000 +0000">
@@ -6766,45 +6766,65 @@
 		<desc>Statement on the green paper on the future of the Post Office, on Wednesday 25 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260225160500 +0000" stop="20260225193000 +0000">
+	<programme channel="bbcparliament" start="20260225160500 +0000" stop="20260225190000 +0000">
 		<title>House of Commons - 25/02/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 25 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260225193000 +0000" stop="20260225220000 +0000">
+	<programme channel="bbcparliament" start="20260225190000 +0000" stop="20260225213000 +0000">
 		<title>House of Lords - 25/02/2026</title>
 		<desc>Coverage of proceedings in the House of Lords on Wednesday 25 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260225220000 +0000" stop="20260225223500 +0000">
+	<programme channel="bbcparliament" start="20260225213000 +0000" stop="20260225220000 +0000">
+		<title>House of Commons - Dual Nationals Urgent Question</title>
+		<desc>Urgent question on the impact of new electronic travel authorisation rules.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260225220000 +0000" stop="20260225224000 +0000">
 		<title>Prime Minister's Questions - 25/02/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 25 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n34f1f.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260225223500 +0000" stop="20260225232000 +0000">
+	<programme channel="bbcparliament" start="20260225224000 +0000" stop="20260225232500 +0000">
 		<title>Lords Questions - 25/02/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Wednesday 25 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260225233500 +0000" stop="20260226013500 +0000">
+	<programme channel="bbcparliament" start="20260225232500 +0000" stop="20260225233500 +0000">
+		<title>House of Lords - Medical Training (Prioritisation) Bill</title>
+		<desc>Coverage of the debate on the third reading of the Medical Training (Prioritisation) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260225233500 +0000" stop="20260226012500 +0000">
 		<title>House of Lords - Crime and Policing Bill, Part 1</title>
 		<desc>Coverage of the first day of debate on the report stage of the Crime and Policing Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260226013500 +0000" stop="20260226033500 +0000">
+	<programme channel="bbcparliament" start="20260226012500 +0000" stop="20260226031000 +0000">
 		<title>House of Lords - Crime and Policing Bill, Part 2</title>
 		<desc>Coverage of the first day of debate on the report stage of the Crime and Policing Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260226033500 +0000" stop="20260226053500 +0000">
+	<programme channel="bbcparliament" start="20260226031000 +0000" stop="20260226033000 +0000">
 		<title>House of Lords - Crime and Policing Bill, Part 3</title>
 		<desc>Coverage of the first day of debate on the report stage of the Crime and Policing Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260226053500 +0000" stop="20260226070000 +0000">
+	<programme channel="bbcparliament" start="20260226033000 +0000" stop="20260226040500 +0000">
 		<title>House of Lords - Local Elections Statement</title>
 		<desc>The statement on local government reorganisation and local elections in England.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260226040500 +0000" stop="20260226051000 +0000">
+		<title>Welsh First Minister's Questions - 24/02/2026</title>
+		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 24 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260226051000 +0000" stop="20260226070000 +0000">
+		<title>Select Committees - Public Administration Committee on Standards in Public Life</title>
+		<desc>The Public Administration and Constitutional Affairs committee on standards in public life</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n30119.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260226070000 +0000" stop="20260226073000 +0000">
 		<title>House of Commons - Scotland Office Questions</title>
@@ -7191,32 +7211,32 @@
 		<desc>Local, national and international news and information from BBC ALBA.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8dxvk.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260225193500 +0000" stop="20260225214500 +0000">
+	<programme channel="bbcalba" start="20260225193500 +0000" stop="20260225215000 +0000">
 		<title>SPFL Challenge Cup - 2025/26 Season: 4. Airdrieonians v Raith Rovers</title>
 		<desc>Live football as Airdrieonians welcome Raith Rovers to the Excelsior Stadium.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n36d3s.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260225214500 +0000" stop="20260225220000 +0000">
+	<programme channel="bbcalba" start="20260225215000 +0000" stop="20260225220500 +0000">
 		<title>Belladrum - 2025: 11. Fourth Daughter</title>
 		<desc>An acoustic session from electro-pop artist Fourth Daughter at Belladrum.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltqcpc.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260225220000 +0000" stop="20260225223000 +0000">
+	<programme channel="bbcalba" start="20260225220500 +0000" stop="20260225223500 +0000">
 		<title>OMC! - Series 1: Episode 2</title>
 		<desc>Sketch show featuring a collection of comic characters and spoofs.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bt4511.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260225223000 +0000" stop="20260225232000 +0000">
+	<programme channel="bbcalba" start="20260225223500 +0000" stop="20260225232500 +0000">
 		<title>Cumhachd Hitler | Hitler's Power - Series 1: 2. Am na h-Uabhais | Reign of Terror</title>
 		<desc>Hitler’s establishment of a totalitarian dictatorship after becoming Reich chancellor.  </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n07dkb.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260225232000 +0000" stop="20260225233000 +0000">
+	<programme channel="bbcalba" start="20260225232500 +0000" stop="20260225233500 +0000">
 		<title>Brunch le Abigail - Series 1: 7. Bircher Muesli</title>
 		<desc>Abigail ag ullachadh Bircher Muesli. Abigail prepares a Bircher muesli.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrf3xk.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260225233000 +0000" stop="20260226000000 +0000">
+	<programme channel="bbcalba" start="20260225233500 +0000" stop="20260226000000 +0000">
 		<title>Transatlantic Sessions - Series 3: Episode 2</title>
 		<desc>Featuring performances from Mary Chapin Carpenter, Aly Bain, Fiona Kennedy &amp; Dan Tyminski.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gjkm6v.jpg" />
@@ -8516,17 +8536,17 @@
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260228060000 +0000" stop="20260228061000 +0000">
+	<programme channel="s4c" start="20260228060000 +0000" stop="20260228061500 +0000">
 		<title>Joni Jet - Cyfres 1: Arswyd yn yr Amgueddfa</title>
 		<desc>Mae Cwstenin Cranc yn torri mewn i'r amgueddfa i ddwyn delw dychrynllyd, yr un noson â ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jxqbs2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260228061000 +0000" stop="20260228062000 +0000">
+	<programme channel="s4c" start="20260228061500 +0000" stop="20260228062500 +0000">
 		<title>Annibendod - Cyfres 1: Hud a Lledrith</title>
 		<desc>Mae Gari'n poeni bod llygoden yn yr ysgol ond yn methu ei ddal, ac mae Miss Enfys wedi ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5s51p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260228062000 +0000" stop="20260228063500 +0000">
+	<programme channel="s4c" start="20260228062500 +0000" stop="20260228063500 +0000">
 		<title>Pablo - Cyfres 1: Y Llowciwr Oglau</title>
 		<desc>Mae gan Pablo ei ffordd ei hun o weld y byd. Mae'n rhaid iddo stopio'r Llowciwr Oglau r...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09f9333.jpg" />
@@ -8536,22 +8556,22 @@
 		<desc>Mae Cranc yn sylweddoli nad yw nyth pigog Gwylan yn gartre' cyfforddus o gwbl! Cranc re...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kntrv3.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260228065000 +0000" stop="20260228070000 +0000">
+	<programme channel="s4c" start="20260228065000 +0000" stop="20260228065500 +0000">
 		<title>Odo - Cyfres 2: Y Gnoc Gudd</title>
 		<desc>Mae Odo a Dwdl wedi adeiladu den cudd ac yn penderfynu ar gnoc gyfrinachol i agor y drw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdbjjz.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260228070000 +0000" stop="20260228070500 +0000">
+	<programme channel="s4c" start="20260228065500 +0000" stop="20260228070500 +0000">
 		<title>Caban Banana Gareth - Cyfres 1: Gwely 1</title>
 		<desc>Mae Gareth yr Orangutan yn teithio ysgolion Cymru yn trafod pynciau difyr. Tro ma, Amse...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwgf1c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260228070500 +0000" stop="20260228072000 +0000">
+	<programme channel="s4c" start="20260228070500 +0000" stop="20260228071500 +0000">
 		<title>Twm Twrch - Cyfres 1: Y Ffair Wyddonol</title>
 		<desc>Mae Twm Twrch a'i fam yn edrych ymlaen i fynd a'u dyfais i'r gystadleuaeth wyddonol - o...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdrq1h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260228072000 +0000" stop="20260228073000 +0000">
+	<programme channel="s4c" start="20260228071500 +0000" stop="20260228073000 +0000">
 		<title>Byd Tad-Cu - Cyfres 1: Llysiau'n dda</title>
 		<desc>Heddiw, mae Owen yn gofyn 'Pam bod llysiau yn dda i ti?'. Wrth gwrs, mae gan Tad-cu ate...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09t9404.jpg" />
@@ -8681,17 +8701,17 @@
 		<desc>Dydy Mari ddim yn credu Mam bod Cennin Pedr yn tyfu o fwlb felly mae Hywel y ffermwr hu...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b6k9t9.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260301071500 +0000" stop="20260301073000 +0000">
+	<programme channel="s4c" start="20260301071500 +0000" stop="20260301072500 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 3: Drew-onen</title>
 		<desc>Rhaid i Blero ddod â Ddrew-onen anferth ar gyfer Dydd Teisen Drew-onen cyn iddi pydru a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2n9w.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260301073000 +0000" stop="20260301074500 +0000">
+	<programme channel="s4c" start="20260301072500 +0000" stop="20260301074000 +0000">
 		<title>Deian a Loli - Cyfres 4: a'r Ofergoelion</title>
 		<desc>Ma chwarae'n troi'n chwerw wrth I Deian a Loli dorri drych a dysgu bod 7 mlynedd o anlw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dssck2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260301074500 +0000" stop="20260301075500 +0000">
+	<programme channel="s4c" start="20260301074000 +0000" stop="20260301075500 +0000">
 		<title>Sion y Chef - Cyfres 1: Riwbob i Bawb</title>
 		<desc>Mae Siôn awydd gwneud ffwl afal i'r bwyty, ond pan mae Menna'r afr yn bwyta'r afalau rh...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07g3ll8.jpg" />
@@ -8706,17 +8726,17 @@
 		<desc>Mae Guto Gwningen yn cael ei orfodi i ddatgelu lleoliad y ty coeden gyfrinachol i Flops...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07txhxv.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260301082500 +0000" stop="20260301083500 +0000">
+	<programme channel="s4c" start="20260301082500 +0000" stop="20260301083000 +0000">
 		<title>Blwi - Y Doctor</title>
 		<desc>Mae Blwi'n eistedd tu ôl i ddesg y dderbynfa, ac yn gofyn i Honey aros ei thro i weld y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0x92c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260301083500 +0000" stop="20260301085000 +0000">
+	<programme channel="s4c" start="20260301083000 +0000" stop="20260301084500 +0000">
 		<title>Ne-wff-ion - Cyfres 3: Pennod 1</title>
 		<desc>Mae problem yn stiwdio Newffion heddiw gan fod y gweithwyr i gyd ar streic, felly bydd ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gn9n0t.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260301085000 +0000" stop="20260301090000 +0000">
+	<programme channel="s4c" start="20260301084500 +0000" stop="20260301090000 +0000">
 		<title>Penblwyddi Cyw - Sun, 01 Mar 2026</title>
 		<desc>Cyfle i edych 'nôl dros rai o gyfarchion pen-blwydd yr wythnos. A look back at some of ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09g8pl3.jpg" />
