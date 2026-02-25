@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260225093000 +0000" stop="20260225104500 +0000">
 		<title>Morning Live - Series 7: 25/02/2026</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Gethin Jones and Helen Skelton are joined by Nitro to discuss Gladiators.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n34jr6.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260225104500 +0000" stop="20260225111500 +0000">
@@ -1126,7 +1126,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n20n8z.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260228031500 +0000" stop="20260228034500 +0000">
-		<title>Global Eye - Inside Nepal's Gen Z Uprising</title>
+		<title>Global Eye - Ukraine: Growing Up Without Dad</title>
 		<desc>Zhanna Bezpiatchuk reports from Kyiv on four years of war, death, destruction and hope.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n29jnk.jpg" />
 	</programme>
@@ -6462,7 +6462,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260301033000 +0000" stop="20260301040000 +0000">
-		<title>Global Eye - Inside Nepal's Gen Z Uprising</title>
+		<title>Global Eye - Ukraine: Growing Up Without Dad</title>
 		<desc>Zhanna Bezpiatchuk reports from Kyiv on four years of war, death, destruction and hope.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n29jnk.jpg" />
 	</programme>
@@ -6562,7 +6562,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260301163000 +0000" stop="20260301170000 +0000">
-		<title>Global Eye - Inside Nepal's Gen Z Uprising</title>
+		<title>Global Eye - Ukraine: Growing Up Without Dad</title>
 		<desc>Zhanna Bezpiatchuk reports from Kyiv on four years of war, death, destruction and hope.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n29jnk.jpg" />
 	</programme>
@@ -6617,7 +6617,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260301233000 +0000" stop="20260302000000 +0000">
-		<title>Global Eye - Inside Nepal's Gen Z Uprising</title>
+		<title>Global Eye - Ukraine: Growing Up Without Dad</title>
 		<desc>Zhanna Bezpiatchuk reports from Kyiv on four years of war, death, destruction and hope.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n29jnk.jpg" />
 	</programme>
@@ -6811,15 +6811,25 @@
 		<desc>Coverage of questions to Douglas Alexander on Wednesday 25 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260226073000 +0000" stop="20260226080500 +0000">
+	<programme channel="bbcparliament" start="20260226073000 +0000" stop="20260226081000 +0000">
 		<title>Prime Minister's Questions - 25/02/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 25 February.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n34f1f.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260226080500 +0000" stop="20260226093000 +0000">
-		<title>House of Commons - 25/02/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 25 February.</desc>
+	<programme channel="bbcparliament" start="20260226081000 +0000" stop="20260226084000 +0000">
+		<title>House of Commons - Dual Nationals Urgent Question</title>
+		<desc>Urgent question on the impact of new electronic travel authorisation rules.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260226084000 +0000" stop="20260226092500 +0000">
+		<title>House of Commons - Chagos Islands Urgent Question</title>
+		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 25 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260226092500 +0000" stop="20260226093000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260226093000 +0000" stop="20260226101000 +0000">
 		<title>House of Commons - Culture, Media and Sport Questions</title>
@@ -7914,7 +7924,7 @@
 	<programme channel="s4c" start="20260225220000 +0000" stop="20260225223000 +0000">
 		<title>Amour &amp; Mynydd - Cyfres 2: Apres: Amour &amp; Mynydd 3</title>
 		<desc>Yws Gwynedd sy'n ymuno gyda Mari Beard a Meilir Rhys Williams i drafod a dadansoddi dwy...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxv630.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n36w7r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260225223000 +0000" stop="20260225230000 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2025/26: Ail Frwydr Llangyndeyrn</title>
@@ -8629,7 +8639,7 @@
 	<programme channel="s4c" start="20260228231500 +0000" stop="20260228235000 +0000">
 		<title>Amour &amp; Mynydd - Cyfres 2: Apres: Amour &amp; Mynydd 3</title>
 		<desc>Yws Gwynedd sy'n ymuno gyda Mari Beard a Meilir Rhys Williams i drafod a dadansoddi dwy...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxv630.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n36w7r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260228235000 +0000" stop="20260301060000 +0000">
 		<title>Watch Live</title>
