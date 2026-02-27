@@ -820,9 +820,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dsvy10.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260227223000 +0000" stop="20260227225800 +0000">
-		<title>Newsnight - 27/02/2026</title>
-		<desc>Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<title>Newsnight - Is Starmer in trouble?</title>
+		<desc>Analysis of the Gorton and Denton by-election. With Matt Chorley.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3sx8y.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260227225800 +0000" stop="20260227230000 +0000">
 		<title>BBC Weather - 27/02/2026</title>
@@ -1175,9 +1175,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2yl9j.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260302190000 +0000" stop="20260302193000 +0000">
-		<title>Global Eye - Inside Nepal's Gen Z Uprising</title>
-		<desc>The untold story of last year’s mass protests in Nepal that toppled the government.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m12cyb.jpg" />
+		<title>Global Eye - The Untold Story of Nepal's Mass Protests</title>
+		<desc>We go behind the mass protests in Nepal in 2025 that toppled the government.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3sbtn.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260302193000 +0000" stop="20260302200000 +0000">
 		<title>Grand Tours of Scotland's Rivers - Series 1: 6. Salt of the Earth</title>
@@ -5746,9 +5746,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260227223000 +0000" stop="20260227230000 +0000">
-		<title>Newsnight - 27/02/2026</title>
-		<desc>Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<title>Newsnight - Is Starmer in trouble?</title>
+		<desc>Analysis of the Gorton and Denton by-election. With Matt Chorley.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3sx8y.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260227230000 +0000" stop="20260227233000 +0000">
 		<title>BBC World News America - 27/02/2026</title>
@@ -5797,7 +5797,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260228033000 +0000" stop="20260228040000 +0000">
 		<title>The Media Show - The Andrew Photo</title>
-		<desc>The backstory of an image that has defined the Royal crisis.</desc>
+		<desc>The backstory of an image that has defined the royal crisis.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260228040000 +0000" stop="20260228043000 +0000">
@@ -5877,7 +5877,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260228143000 +0000" stop="20260228150000 +0000">
 		<title>The Media Show - The Andrew Photo</title>
-		<desc>The backstory of an image that has defined the Royal crisis.</desc>
+		<desc>The backstory of an image that has defined the royal crisis.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260228150000 +0000" stop="20260228153000 +0000">
@@ -6162,7 +6162,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260302003000 +0000" stop="20260302010000 +0000">
 		<title>The Media Show - The Andrew Photo</title>
-		<desc>The backstory of an image that has defined the Royal crisis.</desc>
+		<desc>The backstory of an image that has defined the royal crisis.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260302010000 +0000" stop="20260302013000 +0000">
@@ -7200,15 +7200,10 @@
 		<desc>Local, national and international news and information from BBC ALBA.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8dxvk.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260227193000 +0000" stop="20260227212500 +0000">
+	<programme channel="bbcalba" start="20260227193000 +0000" stop="20260227213000 +0000">
 		<title>Rugbaidh air BBC ALBA/Rugby on BBC ALBA - Men's Premiership 2025/26: 5. Live Rugby Men's Premiership - Playoff - Currie v Heriots</title>
 		<desc>Currie Chieftains face Heriots in the first play-off match for a spot in the final. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3j06p.jpg" />
-	</programme>
-	<programme channel="bbcalba" start="20260227212500 +0000" stop="20260227213000 +0000">
-		<title>Skipinnish Aig A' Chaisteal - Skipinnish Shorts: Episode 7</title>
-		<desc>Skipinnish perform Last of the Hunters at a concert from Edinburgh Castle. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lvltnc.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260227213000 +0000" stop="20260227220000 +0000">
 		<title>Belladrum - 2025: 4. Paul Heaton</title>
