@@ -818,9 +818,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n35yz1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260228194500 +0000" stop="20260228203000 +0000">
-		<title>Natural World - 2018-2019: 2. Nature's Biggest Beasts</title>
-		<desc>How the world's biggest beasts overcome the challenges of their size.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p063wn2g.jpg" />
+		<title>BBC News Special - Iran Conflict</title>
+		<desc>Clive Myrie presents special news coverage as the US and Israel launch strikes on Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3y088.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260228203000 +0000" stop="20260228221500 +0000">
 		<title>Radio 2's Piano Room - Classic Hits in the Piano Room</title>
@@ -5308,7 +5308,7 @@
 	<programme channel="bbcscotland" start="20260228191500 +0000" stop="20260228203000 +0000">
 		<title>Sportscene: Premiership Highlights - 2025/26: 28/02/2026</title>
 		<desc>Featuring Falkirk v Kilmarnock, Hearts v Aberdeen and Livingston v St Mirren.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfvl6m.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3x843.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260228203000 +0000" stop="20260228210000 +0000">
 		<title>Icons of Football - Series 2: 1. Frank McAvennie</title>
@@ -5695,20 +5695,15 @@
 		<desc>The latest news from the BBC including a round-up of the day's sporting action.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260228190000 +0000" stop="20260228193000 +0000">
+	<programme channel="bbcnews" start="20260228190000 +0000" stop="20260228194500 +0000">
 		<title>BBC News - 28/02/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260228193000 +0000" stop="20260228200000 +0000">
-		<title>BBC News - 28/02/2026</title>
-		<desc>The latest news from the BBC including a round-up of the day's sporting action.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260228200000 +0000" stop="20260228203000 +0000">
-		<title>BBC News - 28/02/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	<programme channel="bbcnews" start="20260228194500 +0000" stop="20260228203000 +0000">
+		<title>BBC News Special - Iran Conflict</title>
+		<desc>Clive Myrie presents special news coverage as the US and Israel launch strikes on Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3y088.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260228203000 +0000" stop="20260228210000 +0000">
 		<title>Newscast - 28/02/2026</title>
