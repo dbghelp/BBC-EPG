@@ -5605,10 +5605,25 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260228060000 +0000" stop="20260228090000 +0000">
+	<programme channel="bbcnews" start="20260228060000 +0000" stop="20260228063000 +0000">
 		<title>Breakfast - 28/02/2026</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260228063000 +0000" stop="20260228070000 +0000">
+		<title>BBC News - 28/02/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260228070000 +0000" stop="20260228080000 +0000">
+		<title>BBC News - 28/02/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260228080000 +0000" stop="20260228090000 +0000">
+		<title>BBC News - 28/02/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260228090000 +0000" stop="20260228100000 +0000">
 		<title>BBC News - 28/02/2026</title>
@@ -5625,15 +5640,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260228110000 +0000" stop="20260228113000 +0000">
+	<programme channel="bbcnews" start="20260228110000 +0000" stop="20260228120000 +0000">
 		<title>BBC News - 28/02/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260228113000 +0000" stop="20260228120000 +0000">
-		<title>Unspun World with John Simpson - Series 5: 25/02/2026</title>
-		<desc>John Simpson explores the mood in Ukraine after four years of war.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n36153.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260228120000 +0000" stop="20260228123000 +0000">
 		<title>BBC News - 28/02/2026</title>
