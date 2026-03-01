@@ -116,8 +116,8 @@
 	</programme>
 	<programme channel="bbcone" start="20260301173500 +0000" stop="20260301175000 +0000">
 		<title>BBC Weekend News - Evening News: 01/03/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
+		<desc>Three US service members have been killed in action during the operation on Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n41bl3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260301175000 +0000" stop="20260301175500 +0000">
 		<title>BBC London - Evening News: 01/03/2026</title>
@@ -150,33 +150,33 @@
 		<desc>A violent ambush spells trouble for Piggy, and Ralph finds himself outnumbered.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxl4pg.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260301220000 +0000" stop="20260301222500 +0000">
+	<programme channel="bbcone" start="20260301220000 +0000" stop="20260301223000 +0000">
 		<title>BBC Weekend News - Late News: 01/03/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n41cdl.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260301222500 +0000" stop="20260301223000 +0000">
+	<programme channel="bbcone" start="20260301223000 +0000" stop="20260301223500 +0000">
 		<title>BBC London - Late News: 01/03/2026</title>
 		<desc>The latest news, sport and weather from London.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260301223000 +0000" stop="20260301234500 +0000">
+	<programme channel="bbcone" start="20260301223500 +0000" stop="20260301235000 +0000">
 		<title>Match of the Day - 2025/26: 01/03/2026</title>
 		<desc>Highlights of the day's four Premier League games, including Arsenal against Chelsea.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3rybk.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260301234500 +0000" stop="20260302003000 +0000">
+	<programme channel="bbcone" start="20260301235000 +0000" stop="20260302004000 +0000">
 		<title>The Graham Norton Show - Series 33: 20. Compilation Show 1</title>
 		<desc>First of two compilations of highlights from the recent series, featuring a host of stars.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3pys9.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260302003000 +0000" stop="20260302003500 +0000">
+	<programme channel="bbcone" start="20260302004000 +0000" stop="20260302004500 +0000">
 		<title>Weather for the Week Ahead - 02/03/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260302003500 +0000" stop="20260302060000 +0000">
+	<programme channel="bbcone" start="20260302004500 +0000" stop="20260302060000 +0000">
 		<title>Joins BBC News - 02/03/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -5324,7 +5324,7 @@
 	<programme channel="bbcscotland" start="20260301191500 +0000" stop="20260301201500 +0000">
 		<title>Sportscene: Premiership Highlights - 2025/26: 01/03/2026</title>
 		<desc>Extended highlights of Rangers v Celtic.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfvl6m.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n40z3t.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260301201500 +0000" stop="20260301210000 +0000">
 		<title>The Repair Shop on the Road - Series 1: Perthshire - Rebuilding an Ancient Settlement</title>
@@ -5676,15 +5676,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260301140000 +0000" stop="20260301143000 +0000">
+	<programme channel="bbcnews" start="20260301140000 +0000" stop="20260301150000 +0000">
 		<title>BBC News - 01/03/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260301143000 +0000" stop="20260301150000 +0000">
-		<title>The Big Cases - Undercover: Exposing a Terror Plot</title>
-		<desc>A planned antisemitic gun attack on UK soil, and the undercover operative who stopped it.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mzzpxl.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260301150000 +0000" stop="20260301153000 +0000">
 		<title>BBC News - 01/03/2026</title>
@@ -5702,9 +5697,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260301163000 +0000" stop="20260301170000 +0000">
-		<title>Global Eye - Ukraine: Growing Up Without Dad</title>
-		<desc>Zhanna Bezpiatchuk reports from Kyiv on four years of war, death, destruction and hope.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n29jnk.jpg" />
+		<title>BBC News - 01/03/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260301170000 +0000" stop="20260301180000 +0000">
 		<title>BBC News - 01/03/2026</title>
