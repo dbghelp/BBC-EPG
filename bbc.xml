@@ -5626,10 +5626,20 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260301060000 +0000" stop="20260301090000 +0000">
-		<title>Breakfast - 01/03/2026</title>
-		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	<programme channel="bbcnews" start="20260301060000 +0000" stop="20260301070000 +0000">
+		<title>BBC News - 01/03/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260301070000 +0000" stop="20260301080000 +0000">
+		<title>BBC News - 01/03/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260301080000 +0000" stop="20260301090000 +0000">
+		<title>BBC News - 01/03/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260301090000 +0000" stop="20260301100000 +0000">
 		<title>Sunday with Laura Kuenssberg - 01/03/2026</title>
