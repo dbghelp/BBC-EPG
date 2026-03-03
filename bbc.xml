@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260303190000 +0000" stop="20260303193000 +0000">
 		<title>The One Show - 03/03/2026</title>
-		<desc>Alex Jones and Lauren Laverne bring you the stories that matter from across the country.</desc>
+		<desc>Alex Jones and Lauren Laverne are joined by Billy Idol and Penny Lancaster.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260303193000 +0000" stop="20260303200000 +0000">
@@ -701,7 +701,7 @@
 	<programme channel="bbctwo" start="20260303121500 +0000" stop="20260303133000 +0000">
 		<title>Politics Live - The Chancellor’s Spring Statement</title>
 		<desc>The chancellor delivers her Spring Statement as the conflict in the Middle East continues.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n47hp9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4c2wz.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260303133000 +0000" stop="20260303141500 +0000">
 		<title>Impossible - Series 2: Episode 7</title>
@@ -1171,7 +1171,7 @@
 	<programme channel="bbctwo" start="20260306200000 +0000" stop="20260306210000 +0000">
 		<title>Gardeners' World - Compilations 2026: Episode 4</title>
 		<desc>With a new season to look forward to, Monty revisits inspirational stories from 2025.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08jbf3w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4bv2x.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260306210000 +0000" stop="20260306220000 +0000">
 		<title>Big Cats 24/7 - Series 2: 2. The Chase</title>
@@ -1281,7 +1281,7 @@
 	<programme channel="bbctwo" start="20260307091500 +0000" stop="20260307101500 +0000">
 		<title>Gardeners' World - Compilations 2026: Episode 4</title>
 		<desc>With a new season to look forward to, Monty revisits inspirational stories from 2025.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08jbf3w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4bv2x.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260307101500 +0000" stop="20260307120500 +0000">
 		<title>The Great Caruso</title>
@@ -2717,9 +2717,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdxgcd.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260305123500 +0000" stop="20260305124500 +0000">
-		<title>Octonauts - Series 4: 20. Octonauts and the Bomber Worms</title>
-		<desc>While diving down to the Midnight Zone, the Octonauts are attacked by bomber worms.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05k9fjc.jpg" />
+		<title>Octonauts - Series 4: 2. Octonauts and the Hidden Lake</title>
+		<desc>In Antarctica, Shellington discovers strange microscopic creatures living under the ice.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p032ks47.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260305124500 +0000" stop="20260305125500 +0000">
 		<title>Big Lizard - Series 1: 39. The Vegetable Robbery!</title>
@@ -5484,7 +5484,7 @@
 	<programme channel="bbcscotland" start="20260306193000 +0000" stop="20260306220000 +0000">
 		<title>Sportscene: Scottish Cup - 2025/26: Quarter-Finals: Falkirk v Dundee United</title>
 		<desc>Live Scottish Cup quarter-final action as Falkirk host Dundee United.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m6s4dw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4bn55.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260306220000 +0000" stop="20260306223000 +0000">
 		<title>Still Game - Series 7: 6. Down and Out</title>
@@ -5637,14 +5637,24 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260303123000 +0000" stop="20260303130000 +0000">
+		<title>BBC News - 03/03/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260303130000 +0000" stop="20260303133000 +0000">
 		<title>BBC News Now - 03/03/2026</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260303130000 +0000" stop="20260303140000 +0000">
-		<title>BBC News at One - 03/03/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	<programme channel="bbcnews" start="20260303133000 +0000" stop="20260303135500 +0000">
+		<title>BBC News Now - 03/03/2026</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260303135500 +0000" stop="20260303140000 +0000">
+		<title>World's Ultimate Adventures - 03/03/2026</title>
+		<desc>World's Ultimate Adventures travels the globe in search of extraordinary experiences.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260303140000 +0000" stop="20260303143000 +0000">
 		<title>BBC News Now - 03/03/2026</title>
