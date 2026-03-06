@@ -359,33 +359,33 @@
 		<desc>A devastating attack puts new boss of SO15, Rachel Carey, at the heart of a conspiracy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4rfqv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260308220000 +0000" stop="20260308222500 +0000">
+	<programme channel="bbcone" start="20260308220000 +0000" stop="20260308223000 +0000">
 		<title>BBC Weekend News - Late News: 08/03/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260308222500 +0000" stop="20260308223000 +0000">
+	<programme channel="bbcone" start="20260308223000 +0000" stop="20260308223500 +0000">
 		<title>BBC London - Late News: 08/03/2026</title>
 		<desc>The latest news, sport and weather from London.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260308223000 +0000" stop="20260308235000 +0000">
+	<programme channel="bbcone" start="20260308223500 +0000" stop="20260308235500 +0000">
 		<title>The FA Cup - 2025/26: Fifth-Round Highlights - Sunday</title>
 		<desc>Highlights of the fifth-round ties in the 2025/26 FA Cup.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4tsbh.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260308235000 +0000" stop="20260309004000 +0000">
+	<programme channel="bbcone" start="20260308235500 +0000" stop="20260309004500 +0000">
 		<title>The Graham Norton Show - Series 33: 21. Compilation Show 2</title>
 		<desc>A second compilation of highlights from the recent series, featuring a host of stars.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n51ryg.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260309004000 +0000" stop="20260309004500 +0000">
+	<programme channel="bbcone" start="20260309004500 +0000" stop="20260309005000 +0000">
 		<title>Weather for the Week Ahead - 09/03/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260309004500 +0000" stop="20260309060000 +0000">
+	<programme channel="bbcone" start="20260309005000 +0000" stop="20260309060000 +0000">
 		<title>Joins BBC News - 09/03/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -2411,7 +2411,7 @@
 	<programme channel="cbbc" start="20260307120000 +0000" stop="20260307130000 +0000">
 		<title>500 Words - 2026: 1. Grand Final</title>
 		<desc>Alex Jones and Roman Kemp host the final of the 500 Words children's writing competition.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n466kr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n54k39.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260307130000 +0000" stop="20260307131000 +0000">
 		<title>Odd Squad - Series 1: 66. Assistants' Creed</title>
@@ -2603,7 +2603,7 @@
 	<programme channel="cbbc" start="20260308093000 +0000" stop="20260308103000 +0000">
 		<title>500 Words - 2026: 1. Grand Final</title>
 		<desc>Alex Jones and Roman Kemp host the final of the 500 Words children's writing competition.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n466kr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n54k39.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260308103000 +0000" stop="20260308115500 +0000">
 		<title>My Mum Tracy Beaker - Film: 1. The Whole Story</title>
@@ -5786,7 +5786,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260307154500 +0000" stop="20260307160000 +0000">
 		<title>Newswatch - 07/03/2026</title>
-		<desc>Your views on the coverage of events by BBC News.</desc>
+		<desc>Has BBC News excluded other stories this week with wall-to-wall coverage of the Iran War?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r0tr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260307160000 +0000" stop="20260307163000 +0000">
@@ -6524,7 +6524,12 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260310183000 +0000" stop="20260310190000 +0000">
+	<programme channel="bbcnews" start="20260310183000 +0000" stop="20260310184500 +0000">
+		<title>The Iran War - Today: 10/03/2026</title>
+		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260310184500 +0000" stop="20260310190000 +0000">
 		<title>The World Today with Maryam Moshiri - 10/03/2026</title>
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
@@ -6657,7 +6662,7 @@
 	<programme channel="bbcparliament" start="20260306065500 +0000" stop="20260306084000 +0000">
 		<title>Westminster Hall - 02/03/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall from Monday 2 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n53llb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260306084000 +0000" stop="20260306094500 +0000">
 		<title>Select Committees - Women and Equalities Committee on Female Entrepreneurship</title>
@@ -6667,7 +6672,7 @@
 	<programme channel="bbcparliament" start="20260306094500 +0000" stop="20260306100000 +0000">
 		<title>Ten Minute Rule Bill - Police Declarations of Membership</title>
 		<desc>Bill on requiring police to declare their membership of some societies or organisations.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n53n1t.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260306100000 +0000" stop="20260306152500 +0000">
 		<title>House of Lords - 06/03/2026</title>
@@ -6803,7 +6808,7 @@
 	<programme channel="bbcparliament" start="20260307203000 +0000" stop="20260307223500 +0000">
 		<title>Select Committees - Northern Ireland Affairs Committee with Hilary Benn</title>
 		<desc>The Northern Ireland Affairs committee with the Northern Ireland Secretary, Hilary Benn.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n535v1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260307223500 +0000" stop="20260307235000 +0000">
 		<title>House of Commons - Commonwealth Troops in the First World War</title>
@@ -6913,7 +6918,7 @@
 	<programme channel="bbcparliament" start="20260308235000 +0000" stop="20260309000000 +0000">
 		<title>Ten Minute Rule Bill - Police Declarations of Membership</title>
 		<desc>Bill on requiring police to declare their membership of some societies or organisations.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n53n1t.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260309000000 +0000" stop="20260309022000 +0000">
 		<title>House of Commons - Middle East Statement by the Prime Minister</title>
@@ -8449,7 +8454,7 @@
 	<programme channel="s4c" start="20260309220500 +0000" stop="20260309230500 +0000">
 		<title>Mike Bubbins - Un Mewn Miliwn - Magu Hyder</title>
 		<desc>Wrth i fisoedd ola'r her nesáu, mae Mike Bubbins yn siarad Cymraeg gyda'r Prif Weinidog...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mjwpdh.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n539j3.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260309230500 +0000" stop="20260309233000 +0000">
 		<title>Ar Led - Cyfres 1: Porn &amp; Perthynas Iach</title>
