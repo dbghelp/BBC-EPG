@@ -885,9 +885,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3d8p0.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260309190000 +0000" stop="20260309193000 +0000">
-		<title>Global Eye - 09/03/2026</title>
-		<desc>Bringing forensic journalism from all corners of the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m12cyb.jpg" />
+		<title>Global Eye - The Week That Changed The Middle East</title>
+		<desc>Carine Torbey reports from Lebanon on the US-Israel war with Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5d3p3.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260309193000 +0000" stop="20260309200000 +0000">
 		<title>Grand Tours of Scotland's Lochs - Series 4: 2. A Fyne Tour</title>
@@ -5632,25 +5632,15 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260308190000 +0000" stop="20260308193000 +0000">
+	<programme channel="bbcnews" start="20260308190000 +0000" stop="20260308200000 +0000">
 		<title>BBC News - 08/03/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260308193000 +0000" stop="20260308200000 +0000">
-		<title>BBC News - 08/03/2026</title>
-		<desc>The latest news from the BBC including a round-up of the day's sporting action.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260308200000 +0000" stop="20260308203000 +0000">
+	<programme channel="bbcnews" start="20260308200000 +0000" stop="20260308210000 +0000">
 		<title>BBC News - 08/03/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260308203000 +0000" stop="20260308210000 +0000">
-		<title>Newscast - 08/03/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260308210000 +0000" stop="20260308220000 +0000">
 		<title>BBC News - 08/03/2026</title>
@@ -5822,10 +5812,25 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260309130000 +0000" stop="20260309140000 +0000">
-		<title>BBC News at One - 09/03/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	<programme channel="bbcnews" start="20260309130000 +0000" stop="20260309133000 +0000">
+		<title>BBC News Now - 09/03/2026</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260309133000 +0000" stop="20260309134500 +0000">
+		<title>Business Today - NYSE Opening Bell - 09/03/2026</title>
+		<desc>The latest business news from New York and around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260309134500 +0000" stop="20260309135500 +0000">
+		<title>BBC News Now - 09/03/2026</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260309135500 +0000" stop="20260309140000 +0000">
+		<title>Tech Now - 15/09/2025</title>
+		<desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260309140000 +0000" stop="20260309143000 +0000">
 		<title>BBC News Now - 09/03/2026</title>
