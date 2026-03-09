@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260309190000 +0000" stop="20260309193000 +0000">
 		<title>The One Show - 09/03/2026</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>With Dame Elaine Paige, Tina Sinatra, Joel Harper-Jackson and the Reverend Richard Coles.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260309193000 +0000" stop="20260309200000 +0000">
@@ -746,8 +746,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260309121500 +0000" stop="20260309130000 +0000">
-		<title>Politics Live - 09/03/2026</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - The Economic Impact of the Iran War</title>
+		<desc>How high could the conflict in the Middle East push oil prices?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260309130000 +0000" stop="20260309134500 +0000">
@@ -1227,7 +1227,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20260312220000 +0000" stop="20260312223000 +0000">
 		<title>The Apprentice: Unfinished Business - Apprentice Series 20: 7. Gamified Fitness</title>
-		<desc>Angela Scanlon and guests take a deep dive into the candidates' performances.</desc>
+		<desc>Angela Scanlon is joined by guests OJ Borg and Karen Hauer.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxmyxr.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260312223000 +0000" stop="20260312225800 +0000">
@@ -5377,15 +5377,15 @@
 		<desc>Banjo creates a rustic gin bar using salvaged materials on the farm where he lives.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fctzm2.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260309160000 +0000" stop="20260309190000 +0000">
+	<programme channel="bbcscotland" start="20260309160000 +0000" stop="20260309183000 +0000">
 		<title>This is BBC Scotland - This is BBC Scotland</title>
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260309190000 +0000" stop="20260309193000 +0000">
-		<title>Reporting Scotland - News at Seven: 09/03/2026</title>
-		<desc>Bringing you more from the day’s top stories and communities across Scotland.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4rpph.jpg" />
+	<programme channel="bbcscotland" start="20260309183000 +0000" stop="20260309193000 +0000">
+		<title>Reporting Scotland - Evening News: 09/03/2026</title>
+		<desc>A special extended edition on the fire next to Glasgow Central Station.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7x7zd.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260309193000 +0000" stop="20260309200000 +0000">
 		<title>Our Lives - Series 6: Sarah the Lumberjill</title>
@@ -5747,15 +5747,10 @@
 		<desc>The latest business news from New York and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260309134500 +0000" stop="20260309135500 +0000">
+	<programme channel="bbcnews" start="20260309134500 +0000" stop="20260309140000 +0000">
 		<title>BBC News Now - 09/03/2026</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260309135500 +0000" stop="20260309140000 +0000">
-		<title>Tech Now - 15/09/2025</title>
-		<desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260309140000 +0000" stop="20260309143000 +0000">
 		<title>BBC News Now - 09/03/2026</title>
@@ -8056,7 +8051,7 @@
 	<programme channel="s4c" start="20260309200000 +0000" stop="20260309202500 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2025/26: Iran, Israel a'r UDA</title>
 		<desc>Rhyfel Iran, ac effaith hynny ar deuluoedd yng Nghymru a'r gymdeithas yn ehangach. The ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhmg3f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5j0yb.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260309202500 +0000" stop="20260309205500 +0000">
 		<title>Ciao! Colleen ag Owain - 6. Genova a Portofino</title>
@@ -8093,22 +8088,22 @@
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310060000 +0000" stop="20260310060500 +0000">
+	<programme channel="s4c" start="20260310060000 +0000" stop="20260310061000 +0000">
 		<title>Brethyn &amp; Fflwff - Cyfres 1: Dwr</title>
 		<desc>Mae diferion o ddwr yn disgyn o'r to! Mae Fflwff wedi'i hudo gan ddwr ond 'dyw e ddim e...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cq69.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310060500 +0000" stop="20260310061500 +0000">
+	<programme channel="s4c" start="20260310061000 +0000" stop="20260310062000 +0000">
 		<title>Sion y Chef - Cyfres 1: Merlod Mentrus</title>
 		<desc>Mae Sid Singh yn mynd â'r plant ar drip natur, ond aiff pethau'n draed moch pan mae Mar...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07g3lny.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310061500 +0000" stop="20260310063000 +0000">
+	<programme channel="s4c" start="20260310062000 +0000" stop="20260310063500 +0000">
 		<title>Cacamwnci - Cyfres 3: Pennod 6</title>
 		<desc>Mae Cacamwnci yn ôl gyda mwy o sgetsys dwl a doniol, a chymeriadau newydd sbon fel Clem...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05vqt69.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310063000 +0000" stop="20260310064500 +0000">
+	<programme channel="s4c" start="20260310063500 +0000" stop="20260310064500 +0000">
 		<title>Octonots - Cyfres 3: a'r Crwbanod Môr Bach</title>
 		<desc>Wrth i grwbanod môr newydd-anedig anelu am y cefnfor, mae'n rhaid i'r Octonots eu hamdd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04n9vrz.jpg" />
@@ -8123,22 +8118,22 @@
 		<desc>Mae tri yn agor Parc Stampolîn,ac mae ei ffrindiau'n cael hwyl yn gwneud printiau inc o...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310070500 +0000" stop="20260310072000 +0000">
+	<programme channel="s4c" start="20260310070500 +0000" stop="20260310071500 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Rhed Crawc, Rhed!</title>
 		<desc>Mae Crawc yn penderfynu cadw'n heini er mwyn ennill ras yn erbyn y gwencwn. Crawc resol...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310072000 +0000" stop="20260310073000 +0000">
+	<programme channel="s4c" start="20260310071500 +0000" stop="20260310072500 +0000">
 		<title>Bendibwmbwls - Cyfres 1: Ysgol Bro Teyron</title>
 		<desc>Mae Ben Dant ar antur newydd i ailgylchu a throi sbwriel yn sbeshal, efo disgyblion Ysg...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h225zn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310073000 +0000" stop="20260310074500 +0000">
+	<programme channel="s4c" start="20260310072500 +0000" stop="20260310074000 +0000">
 		<title>Twm Twrch - Cyfres 1: Tyrchod y Gofod</title>
 		<desc>Mae Dorti a Twm Twrch yn mynd ar daith i ddarganfod beth yw'r golau rhyfedd a welodd Tw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdrq1h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310074500 +0000" stop="20260310080000 +0000">
+	<programme channel="s4c" start="20260310074000 +0000" stop="20260310080000 +0000">
 		<title>Ne-wff-ion - Cyfres 3: Pennod 5</title>
 		<desc>Dysgwn am y bocsiwr Cuthbert Taylor o Ferthyr, a pham na chafodd fod yn bencampwr oherw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gn9n0t.jpg" />
@@ -8198,17 +8193,17 @@
 		<desc>Mae Brethyn yn ceisio croesi'r bont sigledig i nôl y Botwm Gwyllt, ond mae Fflwff yn ce...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cq69.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310100500 +0000" stop="20260310101500 +0000">
+	<programme channel="s4c" start="20260310100500 +0000" stop="20260310102000 +0000">
 		<title>Sion y Chef - Cyfres 1: Ble mae Elis?</title>
 		<desc>Mae Mario'n gofalu am Elis, ci Sam Spratt, ond cyn pen dim mae'r ci bach yn rhedeg i ff...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p076hrfm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310101500 +0000" stop="20260310103000 +0000">
+	<programme channel="s4c" start="20260310102000 +0000" stop="20260310103500 +0000">
 		<title>Cacamwnci - Cyfres 3: Pennod 2</title>
 		<desc>Mae Cacamwnci yn ôl gyda mwy o sgetsys dwl a doniol, a chymeriadau newydd sbon fel Clem...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05vqt69.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310103000 +0000" stop="20260310104500 +0000">
+	<programme channel="s4c" start="20260310103500 +0000" stop="20260310104500 +0000">
 		<title>Octonots - Cyfres 3: a'r Llyffaint Dart Gwenwynig</title>
 		<desc>Mae'r Octonots yn dod ar draws llyffaint dart gwenwynig ar ôl i eger llanw peryglus dar...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04mqsqk.jpg" />
@@ -8223,22 +8218,22 @@
 		<desc>Mae Pump a'i ffrindiau'n mynd ar daith odli drwy'r goedwig, ond maen nhw'n cymysgu o hy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310110500 +0000" stop="20260310112000 +0000">
+	<programme channel="s4c" start="20260310110500 +0000" stop="20260310111500 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Ffrind newydd Crawc</title>
 		<desc>Mae Crawc wrth ei fodd pan mae hwyaden fach newydd yn deor ac yn closio ato'n syth. In ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310112000 +0000" stop="20260310113000 +0000">
+	<programme channel="s4c" start="20260310111500 +0000" stop="20260310113000 +0000">
 		<title>Bendibwmbwls - Cyfres 1: Ysgol Gwenllian</title>
 		<desc>Cyfres gomedi, celf a chân i blant 4-7 mlwydd oed lle mae Aeron Pugh fel y cymeriad Ben...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h225zn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310113000 +0000" stop="20260310114500 +0000">
+	<programme channel="s4c" start="20260310113000 +0000" stop="20260310114000 +0000">
 		<title>Twm Twrch - Cyfres 1: Cynog Cyhyrog</title>
 		<desc>Mae cefnder Twm Twrch o Awstralia wedi cyrraedd ac yn barod i fynd ar antur fawr. Twm T...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdrq1h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310114500 +0000" stop="20260310120000 +0000">
+	<programme channel="s4c" start="20260310114000 +0000" stop="20260310120000 +0000">
 		<title>Ne-wff-ion - Cyfres 3: Pennod 3</title>
 		<desc>Mae Owen ym Machynlleth gyda Cerys Hafana, a dysgwn fwy hefyd am Nansi Richards, y dely...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gn9n0t.jpg" />
@@ -8293,17 +8288,17 @@
 		<desc>Mae Og yn siomedig iawn pan mae'r glaw yn difetha ei gynlluniau am y diwrnod. Og is rea...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g0wprr.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310161000 +0000" stop="20260310162000 +0000">
+	<programme channel="s4c" start="20260310161000 +0000" stop="20260310162500 +0000">
 		<title>Pablo - Cyfres 1: Fflapio'n Ffri</title>
 		<desc>Mae gan Pablo ei ffordd ei hun o weld y byd, a phan mae o'n hapus mae o'n hoffi fflapio...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09f9333.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310162000 +0000" stop="20260310163000 +0000">
+	<programme channel="s4c" start="20260310162500 +0000" stop="20260310163500 +0000">
 		<title>Bendibwmbwls - Cyfres 1: Ysgol Dyffryn Trannon</title>
 		<desc>Mae Ben Dant ar antur newydd i ailgylchu - i droi sbwriel yn sbeshal a gwastraff yn gam...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h225zn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310163000 +0000" stop="20260310164500 +0000">
+	<programme channel="s4c" start="20260310163500 +0000" stop="20260310164500 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Pwer y Ceffyl</title>
 		<desc>Mae Crawc yn penderfynu marchogaeth ei geffyl am y tro cyntaf gan nad yw ei gar na'i ga...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
@@ -8318,17 +8313,17 @@
 		<desc>Cyfres newydd yn dilyn plant a'u teuluoedd wrth iddyn nhw deithio mewn car gyda'i gilyd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08jb2pb.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310171000 +0000" stop="20260310173500 +0000">
+	<programme channel="s4c" start="20260310171000 +0000" stop="20260310173000 +0000">
 		<title>Mwy o Stwnsh Sadwrn - Cyfres 2025/26: Pennod 26</title>
 		<desc>Cipolwg yn ôl dros rai o uchafbwyntiau rhaglen dydd Sadwrn. Tune in to relive some of t...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m6bw66.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310173500 +0000" stop="20260310174000 +0000">
+	<programme channel="s4c" start="20260310173000 +0000" stop="20260310173500 +0000">
 		<title>SeliGo - Jelibin a'r Goeden Ffa</title>
 		<desc>Beth sy'n digwydd ym myd SeliGo heddiw? What's happening in the SeliGo world today?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06pzcb8.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260310174000 +0000" stop="20260310180000 +0000">
+	<programme channel="s4c" start="20260310173500 +0000" stop="20260310180000 +0000">
 		<title>Y Galeri Luniau - Pennod 5</title>
 		<desc>Chwaraeon ydy'r thema y tro yma i'n pedwar cystadleuydd talentog sy'n cynrychioli Gogle...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n463hn.jpg" />
