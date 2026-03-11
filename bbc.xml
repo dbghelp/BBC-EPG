@@ -108,7 +108,7 @@
 	<programme channel="bbcone" start="20260311163000 +0000" stop="20260311171500 +0000">
 		<title>The Finish Line - Series 4: Episode 3</title>
 		<desc>Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4ldsz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4bfcl.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260311171500 +0000" stop="20260311180000 +0000">
 		<title>Pointless - Series 29: Episode 3</title>
@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260311190000 +0000" stop="20260311193000 +0000">
 		<title>The One Show - 11/03/2026</title>
-		<desc>Vernon Kay and Clara Amfo bring you the stories that matter from across the country.</desc>
+		<desc>Danny Dyer and Fearne Cotton join Clara and Vernon on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260311193000 +0000" stop="20260311200000 +0000">
@@ -241,7 +241,7 @@
 	<programme channel="bbcone" start="20260312163000 +0000" stop="20260312171500 +0000">
 		<title>The Finish Line - Series 4: Episode 4</title>
 		<desc>Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4lpgy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4bfcl.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260312171500 +0000" stop="20260312180000 +0000">
 		<title>Pointless - Series 29: Episode 4</title>
@@ -374,7 +374,7 @@
 	<programme channel="bbcone" start="20260313163000 +0000" stop="20260313171500 +0000">
 		<title>The Finish Line - Series 4: Episode 5</title>
 		<desc>Roman Kemp, with sidekick Sarah Greene, hosts the quiz show where knowledge equals speed.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4lrr8.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4bfcl.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260313171500 +0000" stop="20260313180000 +0000">
 		<title>Pointless - Series 29: Episode 5</title>
@@ -722,9 +722,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260311111500 +0000" stop="20260311130000 +0000">
-		<title>Politics Live - 11/03/2026</title>
-		<desc>The big political issues of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
+		<title>Politics Live - Why did Starmer appoint Mandelson as US ambassador?</title>
+		<desc>The documents shedding light on the appointment of Lord Mandelson as ambassador to the US.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5wzsd.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260311130000 +0000" stop="20260311134500 +0000">
 		<title>Impossible - Series 2: Episode 13</title>
@@ -803,7 +803,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20260311230000 +0000" stop="20260311233000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 11/03/2026</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>Caroline Hawley explores what life is like in Iran as the war intensifies.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260311233000 +0000" stop="20260312003000 +0000">
@@ -1381,20 +1381,10 @@
 		<desc>A young boy is shipwrecked on a remote island and must adapt to facing life alone.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lsr4yl.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260312005000 +0000" stop="20260312015000 +0000">
-		<title>Men of the Manosphere</title>
-		<desc>James Blake enters the manosphere, joining men seeking status, wealth and relationships.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2ss9k.jpg" />
-	</programme>
-	<programme channel="bbcthree" start="20260312015000 +0000" stop="20260312022000 +0000">
-		<title>EastEnders Investigates: The Manosphere</title>
-		<desc>The cast of the long-running soap explore the issues raised by Joel’s misogyny storyline.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m67rrg.jpg" />
-	</programme>
-	<programme channel="bbcthree" start="20260312022000 +0000" stop="20260312024500 +0000">
-		<title>My Mate's a Bad Date - Series 1: 2. Khalil</title>
-		<desc>Will 21-year-old Khalil ever remember his date's name, or will she always be 'baby girl'?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07vkq0m.jpg" />
+	<programme channel="bbcthree" start="20260312005000 +0000" stop="20260312024500 +0000">
+		<title>Pride</title>
+		<desc>Uplifting comedy drama with George MacKay, Ben Schnetzer and Imelda Staunton.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07jj1tc.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260312024500 +0000" stop="20260312035500 +0000">
 		<title>RuPaul’s Drag Race UK vs the World - Series 3: Episode 7</title>
@@ -5314,7 +5304,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20260312193000 +0000" stop="20260312200000 +0000">
 		<title>The Entertainment Mix  - Series 2: Episode 14</title>
-		<desc>Michelle McManus presents the biggest news in entertainment and culture across Scotland.</desc>
+		<desc>With Romesh Ranganathan, Toyah Willcox, Mark Nelson, Pat Hamilton and Alan Bissett.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k27693.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260312200000 +0000" stop="20260312210000 +0000">
@@ -5375,7 +5365,7 @@
 	<programme channel="bbcscotland" start="20260313193000 +0000" stop="20260313220000 +0000">
 		<title>Sportscene: Championship Live - 2025/26: Greenock Morton v Partick Thistle</title>
 		<desc>Live Championship football as promotion-chasing Partick travel to Greenock Morton.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jgc8hv.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5w70h.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260313220000 +0000" stop="20260313223000 +0000">
 		<title>Still Game - Series 8: 1. Fly Fishing</title>
@@ -5484,7 +5474,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20260315203000 +0000" stop="20260315210000 +0000">
 		<title>The Entertainment Mix  - Series 2: Episode 14</title>
-		<desc>Michelle McManus presents the biggest news in entertainment and culture across Scotland.</desc>
+		<desc>With Romesh Ranganathan, Toyah Willcox, Mark Nelson, Pat Hamilton and Alan Bissett.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k27693.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260315210000 +0000" stop="20260315220000 +0000">
@@ -5583,9 +5573,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260311115500 +0000" stop="20260311130000 +0000">
-		<title>Politics Live - 11/03/2026</title>
-		<desc>The big political issues of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
+		<title>Politics Live - Why did Starmer appoint Mandelson as US ambassador?</title>
+		<desc>The documents shedding light on the appointment of Lord Mandelson as ambassador to the US.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5wzsd.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260311130000 +0000" stop="20260311133000 +0000">
 		<title>BBC News Now - 11/03/2026</title>
@@ -5597,15 +5587,10 @@
 		<desc>The latest business news from New York and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260311134500 +0000" stop="20260311135500 +0000">
+	<programme channel="bbcnews" start="20260311134500 +0000" stop="20260311140000 +0000">
 		<title>BBC News Now - 11/03/2026</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260311135500 +0000" stop="20260311140000 +0000">
-		<title>Tech Now - 01/10/2025</title>
-		<desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260311140000 +0000" stop="20260311143000 +0000">
 		<title>BBC News Now - 11/03/2026</title>
@@ -6309,7 +6294,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260314113000 +0000" stop="20260314120000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 11/03/2026</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>Caroline Hawley explores what life is like in Iran as the war intensifies.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260314120000 +0000" stop="20260314123000 +0000">
@@ -6439,7 +6424,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260315013000 +0000" stop="20260315020000 +0000">
 		<title>Unspun World with John Simpson - Series 5: 11/03/2026</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+		<desc>Caroline Hawley explores what life is like in Iran as the war intensifies.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260315020000 +0000" stop="20260315023000 +0000">
@@ -6725,9 +6710,24 @@
 	<programme channel="bbcparliament" start="20260311120000 +0000" stop="20260311123500 +0000">
 		<title>Prime Minister's Questions - 11/03/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5x41q.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260311123500 +0000" stop="20260311193000 +0000">
+	<programme channel="bbcparliament" start="20260311123500 +0000" stop="20260311132000 +0000">
+		<title>House of Commons - Post Office Urgent Question</title>
+		<desc>The urgent question on the Royal Mail's failure to meet its universal service obligation.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260311132000 +0000" stop="20260311142000 +0000">
+		<title>House of Commons - Protest Policing Statement</title>
+		<desc>Statement on the policing of protests and the banning of the Al Quds march.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260311142000 +0000" stop="20260311152000 +0000">
+		<title>House of Commons - Mandelson Documents Statement</title>
+		<desc>Statement on the publication of documents related to Lord Mandelson on Wednesday 11 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260311152000 +0000" stop="20260311193000 +0000">
 		<title>House of Commons - 11/03/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 11 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6740,7 +6740,7 @@
 	<programme channel="bbcparliament" start="20260311220000 +0000" stop="20260311223500 +0000">
 		<title>Prime Minister's Questions - 11/03/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5x41q.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260311223500 +0000" stop="20260311232000 +0000">
 		<title>Lords Questions - 11/03/2026</title>
@@ -6760,7 +6760,7 @@
 	<programme channel="bbcparliament" start="20260312073000 +0000" stop="20260312080500 +0000">
 		<title>Prime Minister's Questions - 11/03/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5x41q.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260312080500 +0000" stop="20260312093000 +0000">
 		<title>House of Commons - 11/03/2026</title>
@@ -6865,7 +6865,7 @@
 	<programme channel="bbcparliament" start="20260314110000 +0000" stop="20260314113500 +0000">
 		<title>Prime Minister's Questions - 11/03/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5x41q.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260314113500 +0000" stop="20260314122000 +0000">
 		<title>Scottish First Minister's Questions - 12/03/2026</title>
@@ -6915,7 +6915,7 @@
 	<programme channel="bbcparliament" start="20260315002000 +0000" stop="20260315005500 +0000">
 		<title>Prime Minister's Questions - 11/03/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5x41q.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260315005500 +0000" stop="20260315014000 +0000">
 		<title>Scottish First Minister's Questions - 12/03/2026</title>
@@ -6980,7 +6980,7 @@
 	<programme channel="bbcparliament" start="20260315150500 +0000" stop="20260315154000 +0000">
 		<title>Prime Minister's Questions - 11/03/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5x41q.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260315154000 +0000" stop="20260315162500 +0000">
 		<title>Scottish First Minister's Questions - 12/03/2026</title>
@@ -7025,7 +7025,7 @@
 	<programme channel="bbcparliament" start="20260316035000 +0000" stop="20260316042500 +0000">
 		<title>Prime Minister's Questions - 11/03/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 11 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5x41q.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260316042500 +0000" stop="20260316051000 +0000">
 		<title>Scottish First Minister's Questions - 12/03/2026</title>
