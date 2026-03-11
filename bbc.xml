@@ -5587,10 +5587,25 @@
 		<desc>The big political issues of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260311130000 +0000" stop="20260311140000 +0000">
-		<title>BBC News at One - 11/03/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	<programme channel="bbcnews" start="20260311130000 +0000" stop="20260311133000 +0000">
+		<title>BBC News Now - 11/03/2026</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260311133000 +0000" stop="20260311134500 +0000">
+		<title>Business Today - NYSE Opening Bell - 11/03/2026</title>
+		<desc>The latest business news from New York and around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260311134500 +0000" stop="20260311135500 +0000">
+		<title>BBC News Now - 11/03/2026</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260311135500 +0000" stop="20260311140000 +0000">
+		<title>Tech Now - 01/10/2025</title>
+		<desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260311140000 +0000" stop="20260311143000 +0000">
 		<title>BBC News Now - 11/03/2026</title>
