@@ -118,7 +118,7 @@
 	<programme channel="bbcone" start="20260312180000 +0000" stop="20260312183000 +0000">
 		<title>BBC News at Six - 12/03/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n69b3x.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260312183000 +0000" stop="20260312190000 +0000">
 		<title>BBC London - Evening News: 12/03/2026</title>
@@ -479,7 +479,7 @@
 	<programme channel="bbcone" start="20260315135000 +0000" stop="20260315163500 +0000">
 		<title>Women's League Cup - 2025/26: Final - Chelsea v Manchester United</title>
 		<desc>Coverage of Chelsea v Manchester United in the final of the Women's League Cup.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52s36.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n69tlz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260315163500 +0000" stop="20260315173500 +0000">
 		<title>Gladiators - Series 3: Episode 9</title>
@@ -1099,7 +1099,7 @@
 	<programme channel="bbctwo" start="20260314225500 +0000" stop="20260315005500 +0000">
 		<title>Cabaret</title>
 		<desc>Liza Minnelli stars as a love-struck cabaret singer living in decadent 1930s Berlin.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01j1vbb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n68xk1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260315005500 +0000" stop="20260315033000 +0000">
 		<title>New York, New York</title>
@@ -1999,7 +1999,7 @@
 	<programme channel="bbcfour" start="20260316190000 +0000" stop="20260316200000 +0000">
 		<title>Golf: The Players Championship - 2026 Highlights</title>
 		<desc>Highlights from the 2026 Players Championship at Sawgrass.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n695hw.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260316200000 +0000" stop="20260316210000 +0000">
 		<title>Ireland's Treasures Uncovered</title>
@@ -5641,9 +5641,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260312180000 +0000" stop="20260312183000 +0000">
-		<title>BBC News at Six - 12/03/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
+		<title>The World Today with Maryam Moshiri - 12/03/2026</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260312183000 +0000" stop="20260312184500 +0000">
 		<title>The Iran War - Today: 12/03/2026</title>
@@ -6780,47 +6780,57 @@
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 12 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260312173000 +0000" stop="20260312181500 +0000">
+	<programme channel="bbcparliament" start="20260312173000 +0000" stop="20260312182500 +0000">
 		<title>Scottish First Minister's Questions - 12/03/2026</title>
 		<desc>Questions to John Swinney, the first minister, on Thursday 12 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260312181500 +0000" stop="20260312190000 +0000">
-		<title>Lords Questions - 12/03/2026</title>
-		<desc>Questions in the House of Lords to government ministers on Thursday 12 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260312190000 +0000" stop="20260312210000 +0000">
-		<title>House of Lords - Greenhouse Gas Emissions Trading Scheme</title>
-		<desc>Coverage of the debate on a motion on the greenhouse gas emissions trading scheme.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260312210000 +0000" stop="20260312230000 +0000">
-		<title>House of Lords - Universal Credit (Removal of the Two Child Limit) Bill</title>
-		<desc>The debate on all stages of the Universal Credit (Removal of the Two Child Limit) Bill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260312230000 +0000" stop="20260313010000 +0000">
-		<title>House of Lords - Industry and Exports (Financial Assistance) Bill</title>
-		<desc>The debate on all stages of the Industry and Exports (Financial Assistance) Bill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260313010000 +0000" stop="20260313021500 +0000">
-		<title>House of Lords - Schools Regulations Motion</title>
-		<desc>The debate on a motion on the reporting of seclusion and restraint in schools in England.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260313021500 +0000" stop="20260313031500 +0000">
+	<programme channel="bbcparliament" start="20260312182500 +0000" stop="20260312192500 +0000">
 		<title>House of Commons - Business and Trade Questions</title>
 		<desc>Coverage of questions to Peter Kyle on Thursday 12 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260313031500 +0000" stop="20260313041500 +0000">
+	<programme channel="bbcparliament" start="20260312192500 +0000" stop="20260312205500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 12 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260313041500 +0000" stop="20260313070000 +0000">
+	<programme channel="bbcparliament" start="20260312205500 +0000" stop="20260312215000 +0000">
+		<title>House of Commons - Defending Democracy Taskforce Statement</title>
+		<desc>Coverage of the statement on the Defending Democracy Taskforce, on Thursday 12 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260312215000 +0000" stop="20260312223500 +0000">
+		<title>Lords Questions - 12/03/2026</title>
+		<desc>Questions in the House of Lords to government ministers on Thursday 12 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260312223500 +0000" stop="20260313002500 +0000">
+		<title>House of Lords - Greenhouse Gas Emissions Trading Scheme, Part 1</title>
+		<desc>Coverage of the debate on a motion on the greenhouse gas emissions trading scheme.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260313002500 +0000" stop="20260313012500 +0000">
+		<title>House of Lords - Greenhouse Gas Emissions Trading Scheme, Part 2</title>
+		<desc>Coverage of the debate on a motion on the greenhouse gas emissions trading scheme.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260313012500 +0000" stop="20260313040500 +0000">
+		<title>House of Lords - Universal Credit (Removal of the Two Child Limit) Bill</title>
+		<desc>The debate on all stages of the Universal Credit (Removal of the Two Child Limit) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260313040500 +0000" stop="20260313045000 +0000">
+		<title>House of Lords - Industry and Exports (Financial Assistance) Bill</title>
+		<desc>The debate on all stages of the Industry and Exports (Financial Assistance) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260313045000 +0000" stop="20260313055000 +0000">
+		<title>House of Lords - Schools Regulations Motion</title>
+		<desc>The debate on a motion on the reporting of seclusion and restraint in schools in England.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260313055000 +0000" stop="20260313070000 +0000">
 		<title>House of Commons - 12/03/2026</title>
 		<desc>Highlights of proceedings in the House of Commons from Thursday 12 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
