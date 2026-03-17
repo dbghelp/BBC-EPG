@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20260317093000 +0000" stop="20260317104500 +0000">
 		<title>Morning Live - Series 7: 17/03/2026</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n74gsr.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260317104500 +0000" stop="20260317113000 +0000">
 		<title>Crimewatch Live - Series 23: 12. The Extremist</title>
@@ -667,17 +667,17 @@
 		<desc>Highlights from five Premier League games, including Everton v Chelsea.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lzslmf.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260321234000 +0000" stop="20260321235500 +0000">
+	<programme channel="bbcone" start="20260321234000 +0000" stop="20260322000000 +0000">
 		<title>The Football Interview - Series 1: James Milner</title>
 		<desc>Kelly Somers in conversation with James Milner.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lx5bxw.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260321235500 +0000" stop="20260322000000 +0000">
+	<programme channel="bbcone" start="20260322000000 +0000" stop="20260322000500 +0000">
 		<title>Weather for the Week Ahead - 22/03/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260322000000 +0000" stop="20260322060000 +0000">
+	<programme channel="bbcone" start="20260322000500 +0000" stop="20260322060000 +0000">
 		<title>Joins BBC News - 22/03/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -1103,7 +1103,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5pbvz.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260320083000 +0000" stop="20260320090000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 2: 20/03/2026</title>
+		<title>Political Thinking with Nick Robinson - Series 2: Political Thinking with Nick Robinson: Zack Polanski</title>
 		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
@@ -5232,7 +5232,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20260319193000 +0000" stop="20260319200000 +0000">
 		<title>The Entertainment Mix  - Series 2: Episode 15</title>
-		<desc>Michelle McManus presents the biggest news in entertainment and culture across Scotland.</desc>
+		<desc>Sir Lenny Henry, Katherine Jenkins, Iain Anderson, Alan Davies, Gaïa and Hippfest.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k27693.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260319200000 +0000" stop="20260319210000 +0000">
@@ -5252,7 +5252,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20260319220000 +0000" stop="20260319223000 +0000">
 		<title>Situationships with Sophie and Christine - Series 2: Episode 5</title>
-		<desc>Sophie Gravia and Christine McGuinness chat relationships, dating dramas and more.</desc>
+		<desc>To sex or not to sex? Sophie and Christine talk about celibacy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lhlp8x.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260319223000 +0000" stop="20260319230000 +0000">
@@ -5465,15 +5465,10 @@
 		<desc>The latest business news from New York and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvwlbb.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260317134500 +0000" stop="20260317135500 +0000">
+	<programme channel="bbcnews" start="20260317134500 +0000" stop="20260317140000 +0000">
 		<title>BBC News Now - 17/03/2026</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260317135500 +0000" stop="20260317140000 +0000">
-		<title>Discover the World - 17/03/2026</title>
-		<desc>A journey across the world to uncover the stories that make each place unique.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260317140000 +0000" stop="20260317143000 +0000">
 		<title>BBC News Now - 17/03/2026</title>
@@ -6481,7 +6476,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260321163000 +0000" stop="20260321170000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 2: 20/03/2026</title>
+		<title>Political Thinking with Nick Robinson - Series 2: Political Thinking with Nick Robinson: Zack Polanski</title>
 		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
@@ -6660,34 +6655,34 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 17 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260317233500 +0000" stop="20260318003500 +0000">
-		<title>House of Lords - 17/03/2026 Part 1</title>
-		<desc>Business in the House of Lords on Tuesday 17 March.</desc>
+	<programme channel="bbcparliament" start="20260317233500 +0000" stop="20260317234500 +0000">
+		<title>House of Lords - GP Contracts Statement</title>
+		<desc>A statement by health minister Baroness Merron on changes to the GP Contract 2026/27.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260318003500 +0000" stop="20260318013500 +0000">
-		<title>House of Lords - 17/03/2026 Part 2</title>
-		<desc>Business in the House of Lords on Tuesday 17 March.</desc>
+	<programme channel="bbcparliament" start="20260317234500 +0000" stop="20260318002500 +0000">
+		<title>House of Lords - Mandelson Files Statement</title>
+		<desc>Coverage of a statement on the appointment of Peter Mandelson as UK ambassador to the USA.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260318013500 +0000" stop="20260318023500 +0000">
-		<title>House of Lords - 17/03/2026 Part 3</title>
-		<desc>Business in the House of Lords on Tuesday 17 March.</desc>
+	<programme channel="bbcparliament" start="20260318002500 +0000" stop="20260318012500 +0000">
+		<title>House of Lords - Victims and Courts Bill</title>
+		<desc>A debate in the House of Lords on the third reading of the Victims and Courts Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260318023500 +0000" stop="20260318033500 +0000">
-		<title>House of Lords - 17/03/2026 Part 4</title>
-		<desc>Business in the House of Lords on Tuesday 17 March.</desc>
+	<programme channel="bbcparliament" start="20260318012500 +0000" stop="20260318032500 +0000">
+		<title>House of Lords - Spring Forecast and Finance Bill Debate, Part 1</title>
+		<desc>A debate on the government's economic Spring Statement and the Finance (No.2) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260318033500 +0000" stop="20260318043500 +0000">
-		<title>House of Lords - 17/03/2026 Part 5</title>
-		<desc>Business in the House of Lords on Tuesday 17 March.</desc>
+	<programme channel="bbcparliament" start="20260318032500 +0000" stop="20260318052500 +0000">
+		<title>House of Lords - Spring Forecast and Finance Bill Debate, Part 2</title>
+		<desc>A debate on the government's economic Spring Statement and the Finance (No.2) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260318043500 +0000" stop="20260318070000 +0000">
-		<title>House of Lords - 17/03/2026 Part 6</title>
-		<desc>Business in the House of Lords on Tuesday 17 March.</desc>
+	<programme channel="bbcparliament" start="20260318052500 +0000" stop="20260318070000 +0000">
+		<title>House of Lords - National Minimum Wage Regulations</title>
+		<desc>A debate in the House of Lords on the National Minimum Wage (Amendment) Regulations 2026.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260318070000 +0000" stop="20260318080000 +0000">
@@ -8327,35 +8322,35 @@
 	</programme>
 	<programme channel="s4c" start="20260319210000 +0000" stop="20260319220000 +0000">
 		<title>Pawb a'i Farn - Rhaglen Thu, 19 Mar 2026 21:00</title>
-		<desc>Description Coming Soon...</desc>
+		<desc>Mi fydd Pawb a'i Farn yr wythnos hon yn dod o Hystings Cenedlaethol yr Urdd yng Nghaerd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0frr15r.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260319220000 +0000" stop="20260319223000 +0000">
+	<programme channel="s4c" start="20260319220000 +0000" stop="20260319223500 +0000">
 		<title>Barcud</title>
 		<desc>Mae dyn ifanc yn gadael ei gymuned glos ar Ynys Môn am fyd modelu Llundain. A young man...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n6xwdc.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260319223000 +0000" stop="20260319233500 +0000">
+	<programme channel="s4c" start="20260319223500 +0000" stop="20260319234000 +0000">
 		<title>Teulu, Dad a Fi - Iwerddon</title>
 		<desc>Cyfle arall i weld yn ystod Mis Hanes Pobl Ddu. Tro hwn mae Wayne a Connagh yn Iwerddon...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f6bn07.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260319233500 +0000" stop="20260320060000 +0000">
+	<programme channel="s4c" start="20260319234000 +0000" stop="20260320060000 +0000">
 		<title>Watch Live</title>
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260320060000 +0000" stop="20260320060500 +0000">
+	<programme channel="s4c" start="20260320060000 +0000" stop="20260320061000 +0000">
 		<title>Sali Mali - Cyfres 3: Y Bwgan Brain</title>
 		<desc>Mae Jac Do yn chwarae tric ar ei ffrindiau trwy guddio dan het bwgan brain, ond mae ei ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p093ssp1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260320060500 +0000" stop="20260320061500 +0000">
+	<programme channel="s4c" start="20260320061000 +0000" stop="20260320062000 +0000">
 		<title>Twt - Cyfres 1: Twt a'r Sioe Dalent</title>
 		<desc>Mae Twt wedi cyffroi'n lân - mae'r Harbwr Feistr wedi cytuno i gynnal cystadleuaeth yn ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02hzfl9.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260320061500 +0000" stop="20260320063000 +0000">
+	<programme channel="s4c" start="20260320062000 +0000" stop="20260320063000 +0000">
 		<title>Guto Gwningen - Cyfres 2: Hanes y Lladron Llwglyd</title>
 		<desc>Pan fydd Sami Wisgars yn twyllo tair llygoden ddiniwed i ddwyn tarten eirin y cwningod,...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07txhxv.jpg" />
