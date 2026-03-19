@@ -163,8 +163,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260319234000 +0000" stop="20260320001000 +0000">
-		<title>Newscast - Series 6: 19/03/2026</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
+		<title>Newscast - Series 6: 31. How Has the War in Iran Escalated?</title>
+		<desc>Adam Fleming, Chris Faisal and Jane Corbin discuss the latest strikes in the Iran war.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260320001000 +0000" stop="20260320001500 +0000">
@@ -802,8 +802,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7k1nm.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260319223000 +0000" stop="20260319225800 +0000">
-		<title>Newsnight - 19/03/2026</title>
-		<desc>Insights and global interviews on the news stories of the day. With Patrick O'Connell.</desc>
+		<title>Newsnight - Trump: War over 'soon'</title>
+		<desc>As oil prices spike globally, how much longer can the global economy hold on?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260319225800 +0000" stop="20260319230000 +0000">
@@ -5538,8 +5538,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260319223000 +0000" stop="20260319230000 +0000">
-		<title>Newsnight - 19/03/2026</title>
-		<desc>Insights and global interviews on the news stories of the day. With Patrick O'Connell.</desc>
+		<title>Newsnight - Trump: War over 'soon'</title>
+		<desc>As oil prices spike globally, how much longer can the global economy hold on?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260319230000 +0000" stop="20260320000000 +0000">
@@ -6412,7 +6412,12 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260323183000 +0000" stop="20260323190000 +0000">
+	<programme channel="bbcnews" start="20260323183000 +0000" stop="20260323184500 +0000">
+		<title>The Iran War - The Iran War Today</title>
+		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260323184500 +0000" stop="20260323190000 +0000">
 		<title>The World Today with Maryam Moshiri - 23/03/2026</title>
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
