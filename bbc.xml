@@ -464,7 +464,7 @@
 	<programme channel="bbcone" start="20260322133000 +0000" stop="20260322140500 +0000">
 		<title>Songs of Praise - Faith and Money</title>
 		<desc>Sean Fletcher is in London to explore how Christians should approach money and wealth.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07zq95v.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7j4zw.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260322140500 +0000" stop="20260322150500 +0000">
 		<title>Gladiators - Series 3: Episode 10</title>
@@ -474,12 +474,12 @@
 	<programme channel="bbcone" start="20260322150500 +0000" stop="20260322155000 +0000">
 		<title>Crookhaven - Series 1: 1. Word to the Wise</title>
 		<desc>Gabriel must decide whether to accept his place at a secret school for crooks.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2sb77.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7j3zv.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260322155000 +0000" stop="20260322163500 +0000">
 		<title>Crookhaven - Series 1: 2. The Break-In</title>
 		<desc>School rivalries intensify when the Merits and Legacies attempt the break-in challenge.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2sb77.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7j3zz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260322163500 +0000" stop="20260322173500 +0000">
 		<title>Comic Relief - 2026: More Funny for Money</title>
@@ -2895,12 +2895,12 @@
 	<programme channel="cbbc" start="20260322172500 +0000" stop="20260322181000 +0000">
 		<title>Crookhaven - Series 1: 1. Word to the Wise</title>
 		<desc>Gabriel must decide whether to accept his place at a secret school for crooks.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2sb77.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7j3zv.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260322181000 +0000" stop="20260322185800 +0000">
 		<title>Crookhaven - Series 1: 2. The Break-In</title>
 		<desc>School rivalries intensify when the Merits and Legacies attempt the break-in challenge.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2sb77.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7j3zz.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260322185800 +0000" stop="20260323053000 +0000">
 		<title>This is CBBC! - This is CBBC!</title>
@@ -6532,10 +6532,15 @@
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260319052000 +0000" stop="20260319070000 +0000">
+	<programme channel="bbcparliament" start="20260319055000 +0000" stop="20260319063500 +0000">
 		<title>House of Lords - Digital ID Statement</title>
 		<desc>A statement on the public consultation on Digital ID, from Wednesday 18 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260319063500 +0000" stop="20260319070000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260319070000 +0000" stop="20260319072500 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
@@ -6573,17 +6578,17 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260319113000 +0000" stop="20260319123000 +0000">
-		<title>House of Commons - 19/03/2026 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 19 March.</desc>
+		<title>House of Commons - International Development Statement</title>
+		<desc>Statement on international development with foreign secretary Yvette Cooper.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260319123000 +0000" stop="20260319133000 +0000">
-		<title>House of Commons - 19/03/2026 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 19 March.</desc>
+		<title>House of Commons - UK Steel Strategy Statement</title>
+		<desc>Statement on the UK steel strategy with the business and trade secretary.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260319133000 +0000" stop="20260319173000 +0000">
-		<title>House of Commons - 19/03/2026 Part 3</title>
+		<title>House of Commons - 19/03/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 19 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
