@@ -812,7 +812,7 @@
 	<programme channel="bbctwo" start="20260323223000 +0000" stop="20260323225800 +0000">
 		<title>Newsnight - 23/03/2026</title>
 		<desc>Insights and global interviews on the news stories of the day. With Katie Razzall.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8ctyt.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260323225800 +0000" stop="20260323230000 +0000">
 		<title>BBC Weather - 23/03/2026</title>
@@ -5687,7 +5687,7 @@
 	<programme channel="bbcnews" start="20260323223000 +0000" stop="20260323230000 +0000">
 		<title>Newsnight - 23/03/2026</title>
 		<desc>Insights and global interviews on the news stories of the day. With Katie Razzall.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8ctyt.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260323230000 +0000" stop="20260324000000 +0000">
 		<title>BBC World News America - 23/03/2026</title>
@@ -6839,10 +6839,20 @@
 		<desc>Coverage of the statement on the arson attack on four ambulances in north London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260323173000 +0000" stop="20260323223000 +0000">
+	<programme channel="bbcparliament" start="20260323173000 +0000" stop="20260323215500 +0000">
 		<title>House of Commons - 23/03/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 23 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260323215500 +0000" stop="20260323222000 +0000">
+		<title>House of Commons - Solicitor General Questions</title>
+		<desc>Coverage of questions to Ellie Reeves on Thursday 19 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7lqg7.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260323222000 +0000" stop="20260323223000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260323223000 +0000" stop="20260323231500 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
@@ -6854,25 +6864,35 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 23 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260324000000 +0000" stop="20260324001000 +0000">
+	<programme channel="bbcparliament" start="20260324000000 +0000" stop="20260324002000 +0000">
 		<title>House of Lords - Iranian Missile Question</title>
 		<desc>A private notice question on the capability of Iranian ballistic missiles to reach the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260324001000 +0000" stop="20260324021000 +0000">
+	<programme channel="bbcparliament" start="20260324002000 +0000" stop="20260324021000 +0000">
 		<title>House of Lords - Pension Schemes Bill, Part 1</title>
 		<desc>The third day of the report stage of the Pension Schemes Bill, on Monday 23 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260324021000 +0000" stop="20260324041000 +0000">
+	<programme channel="bbcparliament" start="20260324021000 +0000" stop="20260324035500 +0000">
 		<title>House of Lords - Pension Schemes Bill, Part 2</title>
 		<desc>The third day of the report stage of the Pension Schemes Bill, on Monday 23 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260324041000 +0000" stop="20260324054000 +0000">
-		<title>House of Lords - Pension Schemes Bill, Part 3</title>
-		<desc>The third day of the report stage of the Pension Schemes Bill, on Monday 23 March.</desc>
+	<programme channel="bbcparliament" start="20260324035500 +0000" stop="20260324044000 +0000">
+		<title>House of Lords - UK Steel Strategy Statement</title>
+		<desc>The statement in the House of Lords on the UK Steel Strategy, on Monday 23 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260324044000 +0000" stop="20260324045000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260324045000 +0000" stop="20260324065000 +0000">
+		<title>Select Committees - Health and Social Care Committee</title>
+		<desc>The Health and Social Care select committee session on Education, Health and Care Plans.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7c48l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260324054000 +0000" stop="20260324065000 +0000">
 		<title>House of Lords - UK Steel Strategy Statement</title>
@@ -7801,7 +7821,7 @@
 	</programme>
 	<programme channel="s4c" start="20260323140500 +0000" stop="20260323150000 +0000">
 		<title>Prynhawn Da - Mon, 23 Mar 2026</title>
-		<desc>Mae Lisa Fearn yn y gegin ac i ni mewn cynhadledd 'Menywod mewn chwaraeon'. Llinos Ann ...</desc>
+		<desc>Mae Lisa Fearn yn y gegin ac ry' ni mewn cynhadledd 'Menywod mewn chwaraeon'. Llinos An...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260323150000 +0000" stop="20260323150500 +0000">
@@ -7871,7 +7891,7 @@
 	</programme>
 	<programme channel="s4c" start="20260323190000 +0000" stop="20260323193000 +0000">
 		<title>Heno - Mon, 23 Mar 2026</title>
-		<desc>Byddwn ni'n dathlu hyfforddwyr gyrru ac yn cyfarfod a rhai cymeriad tu ôl i'r olwyn. He...</desc>
+		<desc>Dathlwn hyfforddwyr gyrru a chawn gyfarfod a rhai o'r cymeriadau tu ôl i'r olwyn. Hefyd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260323193000 +0000" stop="20260323200000 +0000">
@@ -7896,7 +7916,7 @@
 	</programme>
 	<programme channel="s4c" start="20260323213500 +0000" stop="20260323222000 +0000">
 		<title>Y Llinell Las - Y Llinell Las: Lladron Gwartheg</title>
-		<desc>Rhaglen arbennig sy'n dilyn tîm plismona cefn gwlad yn ymchwilio i ladrad gwartheg £20,...</desc>
+		<desc>Dilynwn tîm plismona cefn gwlad sy'n ymchwilio i ladrad gwartheg £20,000 ar Ynys Môn. A...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n79xtt.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260323222000 +0000" stop="20260323225000 +0000">
@@ -8076,7 +8096,7 @@
 	</programme>
 	<programme channel="s4c" start="20260324123000 +0000" stop="20260324130000 +0000">
 		<title>Heno - Mon, 23 Mar 2026</title>
-		<desc>Byddwn ni'n dathlu hyfforddwyr gyrru ac yn cyfarfod a rhai cymeriad tu ôl i'r olwyn. He...</desc>
+		<desc>Dathlwn hyfforddwyr gyrru a chawn gyfarfod a rhai o'r cymeriadau tu ôl i'r olwyn. Hefyd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260324130000 +0000" stop="20260324133000 +0000">
