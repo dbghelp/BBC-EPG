@@ -747,15 +747,15 @@
 		<desc>Four chefs compete for north east England and Yorkshire with canapes, starters and fish.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7b15h.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260324193000 +0000" stop="20260324220000 +0000">
+	<programme channel="bbctwo" start="20260324193000 +0000" stop="20260324220500 +0000">
 		<title>UEFA Women's Champions League - 2025/26: Quarter-Final: Arsenal v Chelsea, First Leg</title>
 		<desc>Arsenal v Chelsea in the first leg of their UEFA Women's Champions League quarter-final.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7tvsq.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260324220000 +0000" stop="20260324223000 +0000">
-		<title>Inside No. 9 - Series 6: 1. Wuthering Heist</title>
-		<desc>Pantalone has hired a total bunch of clowns in a plan to steal a consignment of diamonds.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09gp2qn.jpg" />
+	<programme channel="bbctwo" start="20260324220500 +0000" stop="20260324223000 +0000">
+		<title>Saving Lives at Sea - Series 6 (Shortened Versions): Episode 5</title>
+		<desc>The RNLI crew battle through huge waves to try to rescue a surfer.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09w0yfq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260324223000 +0000" stop="20260324225800 +0000">
 		<title>Newsnight - 24/03/2026</title>
@@ -5587,10 +5587,15 @@
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260324193000 +0000" stop="20260324200000 +0000">
-		<title>The World Today with Maryam Moshiri - 24/03/2026</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
+	<programme channel="bbcnews" start="20260324193000 +0000" stop="20260324194500 +0000">
+		<title>The Iran War - The Iran War Today</title>
+		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260324194500 +0000" stop="20260324200000 +0000">
+		<title>BBC News - 24/03/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260324200000 +0000" stop="20260324203000 +0000">
 		<title>The Context USA - 24/03/2026</title>
@@ -6672,45 +6677,60 @@
 		<desc>Statement on the economic impact of the situation in the Middle East, on Tuesday 24 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8hrkp.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260324133000 +0000" stop="20260324193000 +0000">
+	<programme channel="bbcparliament" start="20260324133000 +0000" stop="20260324194500 +0000">
 		<title>House of Commons - 24/03/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 24 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260324193000 +0000" stop="20260324220000 +0000">
+	<programme channel="bbcparliament" start="20260324194500 +0000" stop="20260324211000 +0000">
 		<title>House of Lords - 24/03/2026</title>
 		<desc>Coverage of proceedings in the House of Lords on Tuesday 24 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260324220000 +0000" stop="20260324225000 +0000">
+	<programme channel="bbcparliament" start="20260324211000 +0000" stop="20260324211500 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260324211500 +0000" stop="20260324220000 +0000">
+		<title>Northern Ireland Assembly - Economy Questions</title>
+		<desc>Coverage of questions to the economy minister on Monday 23 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260324220000 +0000" stop="20260324231500 +0000">
 		<title>Welsh First Minister's Questions - 24/03/2026</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 24 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260324225000 +0000" stop="20260324233500 +0000">
+	<programme channel="bbcparliament" start="20260324231500 +0000" stop="20260324235500 +0000">
 		<title>Lords Questions - 24/03/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 24 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260324233500 +0000" stop="20260325013500 +0000">
+	<programme channel="bbcparliament" start="20260324235500 +0000" stop="20260325015000 +0000">
 		<title>House of Lords - English Devolution Bill, Part 1</title>
 		<desc>First day of the report stage of the English Devolution and Community Empowerment Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260325013500 +0000" stop="20260325033500 +0000">
+	<programme channel="bbcparliament" start="20260325015000 +0000" stop="20260325034000 +0000">
 		<title>House of Lords - English Devolution Bill, Part 2</title>
 		<desc>First day of the report stage of the English Devolution and Community Empowerment Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260325033500 +0000" stop="20260325053500 +0000">
+	<programme channel="bbcparliament" start="20260325034000 +0000" stop="20260325043000 +0000">
 		<title>House of Lords - English Devolution Bill, Part 3</title>
 		<desc>First day of the report stage of the English Devolution and Community Empowerment Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260325053500 +0000" stop="20260325065500 +0000">
+	<programme channel="bbcparliament" start="20260325043000 +0000" stop="20260325051500 +0000">
 		<title>House of Lords - Youth Employment Statement</title>
 		<desc>The statement by work and pensions minister Baroness Sherlock on youth employment.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260325051500 +0000" stop="20260325065500 +0000">
+		<title>Select Committees - Treasury Committee on the Office for Budget Responsibility</title>
+		<desc>The Treasury select committee on 15 years of the Office for Budget Responsibility.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n75yf6.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260325065500 +0000" stop="20260325075500 +0000">
 		<title>House of Commons - Energy Security and Net Zero Questions</title>
