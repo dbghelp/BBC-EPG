@@ -772,9 +772,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8qmb7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260325223000 +0000" stop="20260325231800 +0000">
-		<title>Newsnight - Epstein Survivors</title>
+		<title>Newsnight - The Epstein survivors speak</title>
 		<desc>Victoria Derbyshire talks to survivors of Jeffrey Epstein in a special Newsnight.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8rxtx.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260325231800 +0000" stop="20260325232000 +0000">
 		<title>BBC Weather - 25/03/2026</title>
@@ -5536,16 +5536,11 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260325180000 +0000" stop="20260325183000 +0000">
-		<title>BBC News at Six - 25/03/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8qq4g.jpg" />
+		<title>BBC News - 25/03/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260325183000 +0000" stop="20260325184500 +0000">
-		<title>The Iran War - The Iran War Today</title>
-		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260325184500 +0000" stop="20260325190000 +0000">
+	<programme channel="bbcnews" start="20260325183000 +0000" stop="20260325190000 +0000">
 		<title>BBC News - 25/03/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
@@ -5586,9 +5581,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260325223000 +0000" stop="20260325231500 +0000">
-		<title>Newsnight - Epstein Survivors</title>
+		<title>Newsnight - The Epstein survivors speak</title>
 		<desc>Victoria Derbyshire talks to survivors of Jeffrey Epstein in a special Newsnight.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8rxtx.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260325231500 +0000" stop="20260326000000 +0000">
 		<title>BBC World News America - 25/03/2026</title>
@@ -6600,12 +6595,12 @@
 		<desc>The statement on the Rycroft review into foreign financial interference in UK politics.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260325133500 +0000" stop="20260325193000 +0000">
+	<programme channel="bbcparliament" start="20260325133500 +0000" stop="20260325165500 +0000">
 		<title>House of Commons - 25/03/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260325193000 +0000" stop="20260325220000 +0000">
+	<programme channel="bbcparliament" start="20260325165500 +0000" stop="20260325220000 +0000">
 		<title>House of Lords - 25/03/2026</title>
 		<desc>Coverage of proceedings in the House of Lords on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
@@ -6616,7 +6611,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8nhtj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260325223500 +0000" stop="20260325232000 +0000">
-		<title>Scottish First Minister's Questions - 26/03/2026</title>
+		<title>Scottish First Minister's Questions - 25/03/2026</title>
 		<desc>Questions to John Swinney, the first minister, on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
@@ -6627,12 +6622,12 @@
 	</programme>
 	<programme channel="bbcparliament" start="20260326000500 +0000" stop="20260326013500 +0000">
 		<title>House of Lords - Crime and Policing Bill, Part 1</title>
-		<desc>Business in the House of Lords on Wednesday 25 March.</desc>
+		<desc>Third reading of the Crime and Policing Bill and a motion of regret on the legislation.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260326013500 +0000" stop="20260326030500 +0000">
 		<title>House of Lords - Crime and Policing Bill, Part 2</title>
-		<desc>Business in the House of Lords on Wednesday 25 March.</desc>
+		<desc>Third reading of the Crime and Policing Bill and a motion of regret on the legislation.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260326030500 +0000" stop="20260326043500 +0000">
@@ -6650,20 +6645,25 @@
 		<desc>The debate on the National Insurance Contributions (Employer Pensions Contributions) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260326070000 +0000" stop="20260326073000 +0000">
+	<programme channel="bbcparliament" start="20260326070000 +0000" stop="20260326072500 +0000">
+		<title>House of Commons - Science, Innovation and Technology Questions</title>
+		<desc>Coverage of questions to Liz Kendall on Wednesday 18 March. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7c615.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260326072500 +0000" stop="20260326075500 +0000">
 		<title>House of Commons - Northern Ireland Office Questions</title>
 		<desc>Coverage of questions to Hilary Benn on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8pkvs.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260326073000 +0000" stop="20260326080500 +0000">
+	<programme channel="bbcparliament" start="20260326075500 +0000" stop="20260326084000 +0000">
 		<title>Prime Minister's Questions - 25/03/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8nhtj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260326080500 +0000" stop="20260326093000 +0000">
-		<title>House of Commons - 25/03/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 25 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260326084000 +0000" stop="20260326093000 +0000">
+		<title>Scottish First Minister's Questions - 25/03/2026</title>
+		<desc>Questions to John Swinney, the first minister, on Wednesday 25 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260326093000 +0000" stop="20260326103000 +0000">
 		<title>House of Commons - Transport Questions</title>
@@ -6681,7 +6681,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260326173000 +0000" stop="20260326181500 +0000">
-		<title>Scottish First Minister's Questions - 26/03/2026</title>
+		<title>Scottish First Minister's Questions - 25/03/2026</title>
 		<desc>Questions to John Swinney, the first minister, on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
@@ -6726,7 +6726,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260327210000 +0000" stop="20260327214500 +0000">
-		<title>Scottish First Minister's Questions - 26/03/2026</title>
+		<title>Scottish First Minister's Questions - 25/03/2026</title>
 		<desc>Questions to John Swinney, the first minister, on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
@@ -6766,7 +6766,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8nhtj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260328113500 +0000" stop="20260328122000 +0000">
-		<title>Scottish First Minister's Questions - 26/03/2026</title>
+		<title>Scottish First Minister's Questions - 25/03/2026</title>
 		<desc>Questions to John Swinney, the first minister, on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
@@ -6816,7 +6816,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8nhtj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260329005500 +0000" stop="20260329014000 +0000">
-		<title>Scottish First Minister's Questions - 26/03/2026</title>
+		<title>Scottish First Minister's Questions - 25/03/2026</title>
 		<desc>Questions to John Swinney, the first minister, on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
@@ -6876,7 +6876,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8nhtj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260329144000 +0000" stop="20260329152500 +0000">
-		<title>Scottish First Minister's Questions - 26/03/2026</title>
+		<title>Scottish First Minister's Questions - 25/03/2026</title>
 		<desc>Questions to John Swinney, the first minister, on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
@@ -6921,7 +6921,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8nhtj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260330032500 +0000" stop="20260330041000 +0000">
-		<title>Scottish First Minister's Questions - 26/03/2026</title>
+		<title>Scottish First Minister's Questions - 25/03/2026</title>
 		<desc>Questions to John Swinney, the first minister, on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
