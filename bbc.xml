@@ -163,8 +163,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260326234000 +0000" stop="20260327001000 +0000">
-		<title>Newscast - Series 6: 26/03/2026</title>
-		<desc>Lighthearted discussion of the week's political events.</desc>
+		<title>Newscast - Series 6: 32. Are Iran and the US negotiating?</title>
+		<desc>Adam, Chris, Lyse and Stephanie Flanders discuss possible peace talks in Iran.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260327001000 +0000" stop="20260327001500 +0000">
@@ -776,47 +776,47 @@
 		<desc>Only one chef can go through to represent north east England and Yorkshire.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7b25g.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260326193000 +0000" stop="20260326220000 +0000">
+	<programme channel="bbctwo" start="20260326193000 +0000" stop="20260326224000 +0000">
 		<title>Match of the Day Wales - 2025/26: Wales v Bosnia and Herzegovina</title>
 		<desc>Live coverage of Wales’s World Cup play-off semi-final against Bosnia and Herzegovina.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n73zf1.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260326220000 +0000" stop="20260326223000 +0000">
-		<title>The Apprentice: Unfinished Business - Apprentice Series 20: 9. TV Selling</title>
-		<desc>Angela Scanlon, Lauren Layfield and Tre Lowe dive into the candidates' performances.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8xn3k.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260326223000 +0000" stop="20260326225800 +0000">
+	<programme channel="bbctwo" start="20260326224000 +0000" stop="20260326230800 +0000">
 		<title>Newsnight - 26/03/2026</title>
 		<desc>Insights and global interviews on the news stories of the day. With Patrick O'Connell.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260326225800 +0000" stop="20260326230000 +0000">
+	<programme channel="bbctwo" start="20260326230800 +0000" stop="20260326231000 +0000">
 		<title>BBC Weather - 26/03/2026</title>
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260326230000 +0000" stop="20260327000000 +0000">
+	<programme channel="bbctwo" start="20260326231000 +0000" stop="20260326234000 +0000">
+		<title>The Apprentice: Unfinished Business - Apprentice Series 20: 9. TV Selling</title>
+		<desc>Angela Scanlon, Lauren Layfield and Tre Lowe dive into the candidates' performances.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8xn3k.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260326234000 +0000" stop="20260327004000 +0000">
 		<title>Clash of the Superpowers: America vs China - Series 1: Episode 1</title>
 		<desc>In his first term, Trump upends America’s relationship with Beijing.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7j775.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260327000000 +0000" stop="20260327021000 +0000">
+	<programme channel="bbctwo" start="20260327004000 +0000" stop="20260327025000 +0000">
 		<title>Licorice Pizza</title>
 		<desc>LA, 1973. Aimless 20-something Alana is drawn into the quirky world of 15-year-old Gary.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gjdjc3.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260327021000 +0000" stop="20260327031000 +0000">
+	<programme channel="bbctwo" start="20260327025000 +0000" stop="20260327035000 +0000">
 		<title>Great British Menu - Series 21: 14. North East England and Yorkshire: Main and Dessert</title>
 		<desc>Chefs from north east England and Yorkshire compete over mains and desserts.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7b238.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260327031000 +0000" stop="20260327034000 +0000">
+	<programme channel="bbctwo" start="20260327035000 +0000" stop="20260327041000 +0000">
 		<title>The Other Bennet Sister - Series 1: 3. Chapter 3</title>
 		<desc>After tragedy strikes the Bennet family, Mary is offered the chance of a fresh start.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n6xmm6.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260327034000 +0000" stop="20260327061500 +0000">
+	<programme channel="bbctwo" start="20260327041000 +0000" stop="20260327061500 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -5171,7 +5171,7 @@
 	<programme channel="bbcscotland" start="20260326193000 +0000" stop="20260326200000 +0000">
 		<title>The Entertainment Mix  - Series 2: Episode 16</title>
 		<desc>Susie McCabe, The High Life’s Alan Cumming &amp; Forbes Masson, Maisie Adam, Des Clarke.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k27693.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n91r5z.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260326200000 +0000" stop="20260326210000 +0000">
 		<title>Icons of Style - Series 1: Episode 2</title>
@@ -5296,7 +5296,7 @@
 	<programme channel="bbcscotland" start="20260328191500 +0000" stop="20260328194500 +0000">
 		<title>The Entertainment Mix  - Series 2: Episode 16</title>
 		<desc>Susie McCabe, The High Life’s Alan Cumming &amp; Forbes Masson, Maisie Adam, Des Clarke.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k27693.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n91r5z.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260328194500 +0000" stop="20260328204500 +0000">
 		<title>Mackintosh's Tea Room</title>
@@ -6773,10 +6773,10 @@
 		<desc>A statement on industrial action by resident doctors, on Thursday 26 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260327041500 +0000" stop="20260327070000 +0000">
-		<title>House of Commons - 26/03/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 26 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260327062000 +0000" stop="20260327070000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Further and Higher Education Statement</title>
+		<desc>A statement on support for further and higher education students, from Tuesday 24 March.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260327070000 +0000" stop="20260327092500 +0000">
 		<title>Westminster Hall - 23/03/2026</title>
@@ -7894,22 +7894,22 @@
 		<desc>Newyddion S4C a'r Tywydd. S4C News and Weather.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260326192000 +0000" stop="20260326220500 +0000">
+	<programme channel="s4c" start="20260326192000 +0000" stop="20260326225000 +0000">
 		<title>Sgorio - Tymor 2025: Cymru v Bosnia a Herzegovina</title>
 		<desc>Pêl-droed rhyngwladol byw o'r gemau ail gyfle i gyrraedd Cwpan y Byd FIFA 2026: Cymru v...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7j9f5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260326220500 +0000" stop="20260326224500 +0000">
+	<programme channel="s4c" start="20260326225000 +0000" stop="20260326233000 +0000">
 		<title>Sgrap</title>
 		<desc>Dogfen yn dilyn bywydau 3 pherson wrth iddynt baratoi at noson flynyddol i sgrapwyr caw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5y9ys.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260326224500 +0000" stop="20260326235000 +0000">
+	<programme channel="s4c" start="20260326233000 +0000" stop="20260327003500 +0000">
 		<title>Teulu, Dad a Fi - Jamaica</title>
 		<desc>Y tro hwn, mae'r pâr yn teithio i'r Caribî i ddysgu mwy am eu gwreiddiau yn Jamaica. An...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f963m0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260326235000 +0000" stop="20260327060000 +0000">
+	<programme channel="s4c" start="20260327003500 +0000" stop="20260327060000 +0000">
 		<title>Watch Live</title>
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
