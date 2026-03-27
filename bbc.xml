@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260327093000 +0000" stop="20260327104500 +0000">
 		<title>Morning Live - Series 7: 27/03/2026</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Greg Rutherford and Holly Hamilton hear from finance expert Laura Pomfret.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260327104500 +0000" stop="20260327111500 +0000">
@@ -123,7 +123,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260327190000 +0000" stop="20260327193000 +0000">
 		<title>The One Show - 27/03/2026</title>
-		<desc>Clara Amfo and JB Gill bring you the stories that matter from across the country.</desc>
+		<desc>Clara and JB are joined by comedian Susan Calman and star of The Capture Ben Miles.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260327193000 +0000" stop="20260327200000 +0000">
@@ -1017,8 +1017,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b6jqdn.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260329130000 +0000" stop="20260329150500 +0000">
-		<title>World Figure Skating Championships - 2026: 29/03/2026</title>
-		<desc>Action from the 2026 World Figure Skating Championships in Prague.</desc>
+		<title>World Figure Skating Championships - 2026: Highlights</title>
+		<desc>Highlights from the 2026 World Figure Skating Championships in Prague.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7yqs2.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260329150500 +0000" stop="20260329170000 +0000">
@@ -1536,17 +1536,17 @@
 		<desc>A shy 17-year-old outsider is marked for ‘abduction’ as part of a town’s annual tradition.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxnkmh.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260329233500 +0000" stop="20260329234500 +0000">
+	<programme channel="bbcthree" start="20260329233500 +0000" stop="20260329235000 +0000">
 		<title>Long Story Short - Series 1: Doppelgänger</title>
 		<desc>Josie confronts her doppelgänger and settles some scores.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxtcjy.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260329234500 +0000" stop="20260330000000 +0000">
+	<programme channel="bbcthree" start="20260329235000 +0000" stop="20260330000500 +0000">
 		<title>Long Story Short - Series 1: Privileged</title>
 		<desc>Raw Belfast comedian Tony has been cancelled by his uni’s most powerful influencers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxtcl3.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260330000000 +0000" stop="20260330001500 +0000">
+	<programme channel="bbcthree" start="20260330000500 +0000" stop="20260330001500 +0000">
 		<title>Long Story Short - Series 1: Jealous People Are Ugly People</title>
 		<desc>Vasilly is beginning to think he might be responsible for his best friend's misfortunes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxtcmb.jpg" />
@@ -3634,9 +3634,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tcp62.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260327185000 +0000" stop="20260327185800 +0000">
-		<title>CBeebies Bedtime Stories - New and Trending: 27/03/2026</title>
-		<desc>A different story read each night just before bedtime.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
+		<title>CBeebies Bedtime Stories - New and Trending: Claire Foy - Stop! That's Not My Story!</title>
+		<desc>Claire Foy reads a story about a girl who goes on an adventure through lots of books.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n95gcp.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260327185800 +0000" stop="20260328053000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -5222,8 +5222,8 @@
 	</programme>
 	<programme channel="bbcscotland" start="20260327223000 +0000" stop="20260327231500 +0000">
 		<title>A View from the Terrace - Series 8: Episode 13</title>
-		<desc>Every inch of Scottish football from top to bottom, as seen by the fans on the terrace.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jssdp9.jpg" />
+		<desc>Craig Fowler and Tony Anderson join Telfer to look back at the week in Scottish football.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n94f6n.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260327231500 +0000" stop="20260327234500 +0000">
 		<title>Two Doors Down - Series 2: Episode 6</title>
@@ -5462,7 +5462,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20260331181500 +0000" stop="20260331204500 +0000">
 		<title>Sportscene: International Football - 2025/26: Ivory Coast v Scotland</title>
-		<desc>Live coverage as Scotland travel to Ivory Coast for a World Cup warm-up match.</desc>
+		<desc>Live coverage of Ivory Coast v Scotland in a World Cup warm-up match.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8y612.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260331204500 +0000" stop="20260331213000 +0000">
@@ -5726,8 +5726,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260328053000 +0000" stop="20260328060000 +0000">
-		<title>AI Decoded - 28/03/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - Will AI Transform Gaming?</title>
+		<desc>With NVIDIA's latest AI graphics upgrade, will gaming ever be the same again? </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260328060000 +0000" stop="20260328090000 +0000">
@@ -5776,8 +5776,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260328133000 +0000" stop="20260328140000 +0000">
-		<title>AI Decoded - 28/03/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - Will AI Transform Gaming?</title>
+		<desc>With NVIDIA's latest AI graphics upgrade, will gaming ever be the same again? </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260328140000 +0000" stop="20260328143000 +0000">
@@ -5901,8 +5901,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260329023000 +0000" stop="20260329030000 +0000">
-		<title>AI Decoded - 28/03/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - Will AI Transform Gaming?</title>
+		<desc>With NVIDIA's latest AI graphics upgrade, will gaming ever be the same again? </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260329030000 +0000" stop="20260329033000 +0000">
@@ -6976,27 +6976,27 @@
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 24 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260330050000 +0000" stop="20260330080500 +0000">
-		<title>Westminster Hall - 26/03/2026</title>
-		<desc>House of Commons proceedings in Westminster Hall from Thursday 26 March.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	<programme channel="bbcparliament" start="20260330050000 +0000" stop="20260330072500 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260330080500 +0000" stop="20260330085000 +0000">
+	<programme channel="bbcparliament" start="20260330072500 +0000" stop="20260330081000 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
 		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 23 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8hlx3.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260330085000 +0000" stop="20260330094000 +0000">
+	<programme channel="bbcparliament" start="20260330081000 +0000" stop="20260330092500 +0000">
 		<title>Welsh First Minister's Questions - 24/03/2026</title>
 		<desc>Questions to Eluned Morgan, the first minister, on Tuesday 24 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260330094000 +0000" stop="20260330102500 +0000">
+	<programme channel="bbcparliament" start="20260330092500 +0000" stop="20260330101500 +0000">
 		<title>Scottish First Minister's Questions - 25/03/2026</title>
 		<desc>Questions to John Swinney, the first minister, on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8wh8z.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260330102500 +0000" stop="20260330110000 +0000">
+	<programme channel="bbcparliament" start="20260330101500 +0000" stop="20260330110000 +0000">
 		<title>Prime Minister's Questions - 25/03/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 25 March.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8nhtj.jpg" />
@@ -7764,7 +7764,7 @@
 	<programme channel="s4c" start="20260327133000 +0000" stop="20260327140000 +0000">
 		<title>Cegin Bryn - Y Dosbarth Meistr: Rhaglen 1</title>
 		<desc>Nia Erain sy'n cael dosbarth meistr yng nghegin Odette's ar sut i goginio cig eidion sy...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04ylzzv.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n95fs5.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260327140000 +0000" stop="20260327140500 +0000">
 		<title>Newyddion S4C - Fri, 27 Mar 2026 14:00</title>
@@ -8727,9 +8727,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260331182000 +0000" stop="20260331210000 +0000">
-		<title>Sgorio - Tymor 2025: Pennod 8</title>
-		<desc>Pêl-droed rhyngwladol byw. Y cyfan yng nghwmni Dylan Ebenezer, Osian Roberts, Gwennan H...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lyhkkg.jpg" />
+		<title>Sgorio - Tymor 2025: Cymru v Gogledd Iwerddon</title>
+		<desc>Ar ôl y siom o golli allan ar le yng Nghwpan y Byd, bydd Cymru yn wynebu Gogledd Iwerdd...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n956xl.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260331210000 +0000" stop="20260331213000 +0000">
 		<title>Clwb Rygbi - Tymor 2025/26: Clwb Rygbi Uchafbwyntiau</title>
