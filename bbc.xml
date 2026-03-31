@@ -133,7 +133,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260331180000 +0000" stop="20260331183000 +0000">
 		<title>The One Show - 31/03/2026</title>
-		<desc>JB Gill and Lauren Laverne bring you the stories that matter from across the country.</desc>
+		<desc>Lucy Beaumont, Harry Clark and Holly Humberstone join Lauren Laverne and JB Gill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260331183000 +0000" stop="20260331190000 +0000">
@@ -5573,10 +5573,20 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260331120000 +0000" stop="20260331130000 +0000">
-		<title>BBC News at One - 31/03/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	<programme channel="bbcnews" start="20260331120000 +0000" stop="20260331123000 +0000">
+		<title>BBC News - 31/03/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260331123000 +0000" stop="20260331125500 +0000">
+		<title>BBC News - 31/03/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260331125500 +0000" stop="20260331130000 +0000">
+		<title>The SpeciaList - 25/11/2024</title>
+		<desc>A travel guide to everywhere you want to be, curated by celebrated local insiders.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2jcbg.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260331130000 +0000" stop="20260331133000 +0000">
 		<title>BBC News - 31/03/2026</title>
@@ -5704,7 +5714,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260331233000 +0000" stop="20260401000000 +0000">
-		<title>Newscast - 30/03/2026</title>
+		<title>Newscast - 31/03/2026</title>
 		<desc>Lighthearted discussion of the day's news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
@@ -5744,8 +5754,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260401024500 +0000" stop="20260401030000 +0000">
-		<title>Asia Specific - 01/04/2026</title>
-		<desc>Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+		<title>Asia Specific - The Rise of the Political Right in Australia</title>
+		<desc>Once fringe anti-immigration party One Nation now polls at record highs nationwide fast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n24m0y.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260401030000 +0000" stop="20260401033000 +0000">
@@ -5759,8 +5769,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260401034500 +0000" stop="20260401040000 +0000">
-		<title>Asia Specific - 01/04/2026</title>
-		<desc>Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+		<title>Asia Specific - The Rise of the Political Right in Australia</title>
+		<desc>Once fringe anti-immigration party One Nation now polls at record highs nationwide fast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n24m0y.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260401040000 +0000" stop="20260401043000 +0000">
@@ -7825,7 +7835,7 @@
 	</programme>
 	<programme channel="s4c" start="20260401110000 +0000" stop="20260401110500 +0000">
 		<title>Newyddion S4C - Wed, 01 Apr 2026 12:00</title>
-		<desc>Description Coming Soon...</desc>
+		<desc>Newyddion S4C a'r Tywydd.  S4C News &amp; Weather.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260401110500 +0000" stop="20260401113000 +0000">
@@ -7850,7 +7860,7 @@
 	</programme>
 	<programme channel="s4c" start="20260401130000 +0000" stop="20260401130500 +0000">
 		<title>Newyddion S4C - Wed, 01 Apr 2026 14:00</title>
-		<desc>Description Coming Soon...</desc>
+		<desc>Newyddion S4C a'r Tywydd. S4C News &amp; Weather.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260401130500 +0000" stop="20260401140000 +0000">
@@ -8525,12 +8535,12 @@
 	</programme>
 	<programme channel="s4c" start="20260403190000 +0000" stop="20260403192500 +0000">
 		<title>Rownd a Rownd - Fri, 03 Apr 2026</title>
-		<desc>Description Coming Soon...</desc>
+		<desc>Dydy Philip ddim yn hapus - mae Arthur yn cael cadarnhad bod ei gais am iawndal yn ddil...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b1w6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260403192500 +0000" stop="20260403195500 +0000">
 		<title>Rownd a Rownd - Fri, 03 Apr 2026</title>
-		<desc>Description Coming Soon...</desc>
+		<desc>Mae'n ddiwrnod arddangos y cwilt ac mae Mel yn nerfus pan glyw fod Heno am ddod i ffilm...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b1w6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260403195500 +0000" stop="20260403200000 +0000">
