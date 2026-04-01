@@ -501,7 +501,7 @@
 	<programme channel="bbcone" start="20260404144000 +0000" stop="20260404154000 +0000">
 		<title>Attenborough and the Giant Egg</title>
 		<desc>David Attenborough returns to the island of Madagascar on a very personal quest.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01h0qby.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nb3n7b.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260404154000 +0000" stop="20260404155000 +0000">
 		<title>BBC Weekend News - Evening News: 04/04/2026</title>
@@ -602,7 +602,7 @@
 	<programme channel="bbcone" start="20260405123000 +0000" stop="20260405130500 +0000">
 		<title>Songs of Praise - Easter Sunday</title>
 		<desc>Pam Rhodes joins Christians in Cornwall for the raising of the Carn Brea Easter Cross.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nb3gc8.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nb3hpw.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260405130500 +0000" stop="20260405140500 +0000">
 		<title>Attenborough's Life in Colour - Series 1: 2. Hiding in Colour</title>
@@ -4305,8 +4305,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tcx5m.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260403175000 +0000" stop="20260403175800 +0000">
-		<title>CBeebies Bedtime Stories - New and Trending: 03/04/2026</title>
-		<desc>A different story read each night just before bedtime.</desc>
+		<title>CBeebies Bedtime Stories - New and Trending: Jessica Gunning - Jenny Peckles Lays Eggs with Speckles</title>
+		<desc>Jessica Gunning is tricked by some deceptive chickens.
+</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260403175800 +0000" stop="20260404043000 +0000">
@@ -5557,15 +5558,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260401183000 +0000" stop="20260401185500 +0000">
+	<programme channel="bbcnews" start="20260401183000 +0000" stop="20260401190000 +0000">
 		<title>BBC News - 01/04/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260401185500 +0000" stop="20260401190000 +0000">
-		<title>Tech Now - 01/04/2026</title>
-		<desc>Tech Now explores the latest innovations and technologies shaping our lives.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260401190000 +0000" stop="20260401193000 +0000">
 		<title>The Context USA - 01/04/2026</title>
@@ -6153,8 +6149,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260404033000 +0000" stop="20260404040000 +0000">
-		<title>The Media Show - 04/04/2026</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - How Far Should Reporters Go with AI?</title>
+		<desc>The journalist using AI to produce over 600 stories a year.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260404040000 +0000" stop="20260404043000 +0000">
@@ -6213,8 +6209,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260404123000 +0000" stop="20260404130000 +0000">
-		<title>The Media Show - 04/04/2026</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - How Far Should Reporters Go with AI?</title>
+		<desc>The journalist using AI to produce over 600 stories a year.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260404130000 +0000" stop="20260404133000 +0000">
@@ -6313,8 +6309,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260404233000 +0000" stop="20260405000000 +0000">
-		<title>The Media Show - 04/04/2026</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - How Far Should Reporters Go with AI?</title>
+		<desc>The journalist using AI to produce over 600 stories a year.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260405000000 +0000" stop="20260405003000 +0000">
@@ -6483,8 +6479,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260405193000 +0000" stop="20260405200000 +0000">
-		<title>The Media Show - 04/04/2026</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - How Far Should Reporters Go with AI?</title>
+		<desc>The journalist using AI to produce over 600 stories a year.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260405200000 +0000" stop="20260405210000 +0000">
