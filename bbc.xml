@@ -766,20 +766,20 @@
 		<desc>Four chefs compete for Northern Ireland with canapes, starters and fish dishes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8wkw9.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260401183000 +0000" stop="20260401210000 +0000">
+	<programme channel="bbctwo" start="20260401183000 +0000" stop="20260401210500 +0000">
 		<title>UEFA Women's Champions League - 2025/26: Quarter-Final: Chelsea v Arsenal, Second Leg</title>
 		<desc>Chelsea v Arsenal in the second leg of their UEFA Women's Champions League quarter-final.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8nvql.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260401210000 +0000" stop="20260401213000 +0000">
-		<title>Live at the Apollo - Series 14: Episode 2</title>
-		<desc>Dara O Briain introduces the wonderful Felicity Ward and the sensational Mo Gilligan.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07jmv8z.jpg" />
+	<programme channel="bbctwo" start="20260401210500 +0000" stop="20260401213000 +0000">
+		<title>Mortimer &amp; Whitehouse: Gone Fishing - Series 7: 7. Thornwood Springs, Essex - Rudd</title>
+		<desc>Paul, Bob and Ted take the short trip to Epping in Essex to fish for rudd.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k0vqbh.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260401213000 +0000" stop="20260401215800 +0000">
-		<title>Newsnight - 01/04/2026</title>
-		<desc>Insights and global interviews on the crucial news stories of the day. With Adam Fleming.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<title>Newsnight - Trump’s Iran 'update'</title>
+		<desc>President Trump promises an 'important update on Iran'. How far are we from a ceasefire?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nb55m1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260401215800 +0000" stop="20260401220000 +0000">
 		<title>BBC Weather - 01/04/2026</title>
@@ -5583,7 +5583,12 @@
 		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260401210000 +0000" stop="20260401220000 +0000">
+	<programme channel="bbcnews" start="20260401210000 +0000" stop="20260401213000 +0000">
+		<title>BBC News at Ten - 01/04/2026</title>
+		<desc>The latest national and international news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260401213000 +0000" stop="20260401220000 +0000">
 		<title>BBC World News America - 01/04/2026</title>
 		<desc>In-depth reports on the major international and US news of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
