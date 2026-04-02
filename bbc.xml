@@ -133,7 +133,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260402180000 +0000" stop="20260402183000 +0000">
 		<title>The One Show - 02/04/2026</title>
-		<desc>Clara Amfo and Angellica Bell bring you the stories that matter from across the country.</desc>
+		<desc>Ant &amp; Dec, Bill Bailey and Ricky Wilson join Clara Amfo and Angellica Bell on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260402183000 +0000" stop="20260402190000 +0000">
@@ -500,7 +500,7 @@
 	<programme channel="bbcone" start="20260405160000 +0000" stop="20260405170000 +0000">
 		<title>Countryfile - Easter - The Sights and Sounds of Spring</title>
 		<desc>Matt Baker and Margherita Taylor visit Bisterne Estate in Hampshire’s Avon Valley.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrrhhq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nb8lls.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260405170000 +0000" stop="20260405180000 +0000">
 		<title>Secret Garden - Series 1: 1. Oxfordshire</title>
@@ -3884,8 +3884,7 @@
 	</programme>
 	<programme channel="cbeebies" start="20260403175000 +0000" stop="20260403175800 +0000">
 		<title>CBeebies Bedtime Stories - New and Trending: Jessica Gunning - Jenny Peckles Lays Eggs with Speckles</title>
-		<desc>Jessica Gunning is tricked by some deceptive chickens.
-</desc>
+		<desc>Jessica Gunning is tricked by some deceptive chickens.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nb73f3.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260403175800 +0000" stop="20260404043000 +0000">
@@ -4799,7 +4798,7 @@
 	<programme channel="cbeebies" start="20260406094000 +0000" stop="20260406095000 +0000">
 		<title>What’s in Your Plant Pot? - Series 1: 1. Chilli</title>
 		<desc>Chilli farmer Amrit Madhoo reveals the surprising world of chillies.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8qpp9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nb8jcf.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260406095000 +0000" stop="20260406100500 +0000">
 		<title>Monster Makes - Series 1: 16. Carrots!</title>
@@ -5149,7 +5148,7 @@
 	<programme channel="bbcscotland" start="20260403213000 +0000" stop="20260403221500 +0000">
 		<title>A View from the Terrace - Series 8: Episode 14</title>
 		<desc>Every inch of Scottish football from top to bottom, as seen by the fans on the terrace.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jssdp9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nb80ft.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260403221500 +0000" stop="20260403224500 +0000">
 		<title>Two Doors Down - Series 3: 1. Burns Supper</title>
@@ -5706,10 +5705,20 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260403120000 +0000" stop="20260403130000 +0000">
+	<programme channel="bbcnews" start="20260403120000 +0000" stop="20260403123000 +0000">
 		<title>BBC News - 03/04/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260403123000 +0000" stop="20260403125500 +0000">
+		<title>BBC News - 03/04/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260403125500 +0000" stop="20260403130000 +0000">
+		<title>The Travel Show - 03/04/2026</title>
+		<desc>Join the team on their journey of discovery as they explore the globe.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260403130000 +0000" stop="20260403133000 +0000">
 		<title>BBC News - 03/04/2026</title>
@@ -5823,7 +5832,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260403233000 +0000" stop="20260404000000 +0000">
 		<title>Talking Business - 03/04/2026</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Could threats to oil supply through the Strait of Hormuz advance the shift to renewables?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260404000000 +0000" stop="20260404003000 +0000">
@@ -5832,7 +5841,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260404003000 +0000" stop="20260404010000 +0000">
-		<title>Tech Now - Blenheim Palace: Can tech help to restore it?</title>
+		<title>Tech Now - Blenheim Palace: Can Tech Help to Restore it?</title>
 		<desc>Shiona McCallum tours Blenheim Palace, exploring the tech aiding its restoration.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9zb5q.jpg" />
 	</programme>
@@ -5842,7 +5851,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260404013000 +0000" stop="20260404020000 +0000">
-		<title>Rachel Khoo's Kitchen Notebook - Cosmopolitan Cook: 1. Amalfi Coast</title>
+		<title>Rachel Khoo's Kitchen Notebook - Cosmopolitan Cook: Amalfi Coast</title>
 		<desc>Passionate cook Rachel Khoo is in Southern Italy's Amalfi Coast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9lkgj.jpg" />
 	</programme>
@@ -5903,7 +5912,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260404103000 +0000" stop="20260404110000 +0000">
 		<title>Talking Business - 03/04/2026</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Could threats to oil supply through the Strait of Hormuz advance the shift to renewables?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260404110000 +0000" stop="20260404113000 +0000">
@@ -5982,7 +5991,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260404183000 +0000" stop="20260404190000 +0000">
-		<title>Tech Now - Blenheim Palace: Can tech help to restore it?</title>
+		<title>Tech Now - Blenheim Palace: Can Tech Help to Restore it?</title>
 		<desc>Shiona McCallum tours Blenheim Palace, exploring the tech aiding its restoration.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9zb5q.jpg" />
 	</programme>
@@ -6013,7 +6022,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260404223000 +0000" stop="20260404230000 +0000">
 		<title>Talking Business - 03/04/2026</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Could threats to oil supply through the Strait of Hormuz advance the shift to renewables?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260404230000 +0000" stop="20260404233000 +0000">
@@ -6072,7 +6081,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260405043000 +0000" stop="20260405050000 +0000">
-		<title>Rachel Khoo's Kitchen Notebook - Cosmopolitan Cook: 1. Amalfi Coast</title>
+		<title>Rachel Khoo's Kitchen Notebook - Cosmopolitan Cook: Amalfi Coast</title>
 		<desc>Passionate cook Rachel Khoo is in Southern Italy's Amalfi Coast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9lkgj.jpg" />
 	</programme>
@@ -6132,7 +6141,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260405133000 +0000" stop="20260405140000 +0000">
-		<title>Tech Now - Blenheim Palace: Can tech help to restore it?</title>
+		<title>Tech Now - Blenheim Palace: Can Tech Help to Restore it?</title>
 		<desc>Shiona McCallum tours Blenheim Palace, exploring the tech aiding its restoration.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9zb5q.jpg" />
 	</programme>
@@ -6487,7 +6496,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260406233000 +0000" stop="20260407000000 +0000">
-		<title>Tech Now - Blenheim Palace: Can tech help to restore it?</title>
+		<title>Tech Now - Blenheim Palace: Can Tech Help to Restore it?</title>
 		<desc>Shiona McCallum tours Blenheim Palace, exploring the tech aiding its restoration.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9zb5q.jpg" />
 	</programme>
@@ -6498,7 +6507,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260407003000 +0000" stop="20260407010000 +0000">
 		<title>Talking Business - 03/04/2026</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Could threats to oil supply through the Strait of Hormuz advance the shift to renewables?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260407010000 +0000" stop="20260407013000 +0000">
@@ -7349,7 +7358,7 @@
 	<programme channel="s4c" start="20260402170000 +0000" stop="20260402173000 +0000">
 		<title>Nol o'r Dibyn gyda Iolo Williams - Pennod 1</title>
 		<desc>Yn y bennod hon, edrychwn ar nifer o enghreifftiau o ymdrechion cadwraeth, gan gynnwys ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8p9zb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nb962t.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260402173000 +0000" stop="20260402180000 +0000">
 		<title>Clwb Rygbi - Tymor 2025/26: Clwb Rygbi Uchafbwyntiau</title>
