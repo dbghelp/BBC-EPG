@@ -5624,12 +5624,7 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nc7ydt.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260408173000 +0000" stop="20260408174500 +0000">
-		<title>The Iran War - Today: 08/04/2026</title>
-		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260408174500 +0000" stop="20260408180000 +0000">
+	<programme channel="bbcnews" start="20260408173000 +0000" stop="20260408180000 +0000">
 		<title>The World Today with Maryam Moshiri - 08/04/2026</title>
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
@@ -5639,7 +5634,12 @@
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260408183000 +0000" stop="20260408190000 +0000">
+	<programme channel="bbcnews" start="20260408183000 +0000" stop="20260408184500 +0000">
+		<title>The Iran War - Today: 08/04/2026</title>
+		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260408184500 +0000" stop="20260408190000 +0000">
 		<title>The World Today with Maryam Moshiri - 08/04/2026</title>
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
