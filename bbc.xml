@@ -5991,7 +5991,12 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260414173000 +0000" stop="20260414180000 +0000">
+	<programme channel="bbcnews" start="20260414173000 +0000" stop="20260414174500 +0000">
+		<title>The Iran War - Today: 14/04/2026</title>
+		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260414174500 +0000" stop="20260414180000 +0000">
 		<title>The World Today with Maryam Moshiri - 14/04/2026</title>
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
@@ -6762,9 +6767,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260417173000 +0000" stop="20260417180000 +0000">
-		<title>The World Today with Maryam Moshiri - 17/04/2026</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
+		<title>The Iran War - This Week: 17/04/2026</title>
+		<desc>A briefing from BBC News on the latest developments on Israel-US war in Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260417180000 +0000" stop="20260417183000 +0000">
 		<title>The World Today with Maryam Moshiri - 17/04/2026</title>
@@ -6898,7 +6903,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20260413143000 +0000" stop="20260413160000 +0000">
 		<title>House of Commons - Middle East Statement by the Prime Minister</title>
-		<desc>A statement by Sir Keir Starmer on the situation in the Middle East, on Monday 13 April.</desc>
+		<desc>Statement by the prime minister, Sir Keir Starmer, on the situation in the Middle East.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd5pz0.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260413160000 +0000" stop="20260413170000 +0000">
@@ -6951,10 +6956,15 @@
 		<desc>Business in the House of Lords on Monday 13 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260414044500 +0000" stop="20260414060000 +0000">
+	<programme channel="bbcparliament" start="20260414044500 +0000" stop="20260414053500 +0000">
 		<title>House of Lords - English Devolution and Community Empowerment Bill, Part 4</title>
 		<desc>Business in the House of Lords on Monday 13 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260414053500 +0000" stop="20260414060000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260414060000 +0000" stop="20260414070000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
