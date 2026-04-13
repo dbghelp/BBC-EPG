@@ -118,7 +118,7 @@
 	<programme channel="bbcone" start="20260413170000 +0000" stop="20260413173000 +0000">
 		<title>BBC News at Six - 13/04/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd5sbh.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260413173000 +0000" stop="20260413175500 +0000">
 		<title>BBC London - Evening News: 13/04/2026</title>
@@ -245,7 +245,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260414144500 +0000" stop="20260414153000 +0000">
 		<title>I Made It at Market - Series 1: 6. Metal Artwork and Keepsake Jewellery</title>
-		<desc>Dom revisits Lindon and Andie, who've made serious money thanks to his business bootcamp.</desc>
+		<desc>Dom revisits Lindon and Andie, who've made serious money thanks to his business boot camp.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9kj1w.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260414153000 +0000" stop="20260414161500 +0000">
@@ -1217,7 +1217,7 @@
 	<programme channel="bbctwo" start="20260416210000 +0000" stop="20260416213000 +0000">
 		<title>The Apprentice: Unfinished Business - Apprentice Series 20: 12. The Final</title>
 		<desc>The Apprentice has a winner! Angela hears from Lord Sugar and his new business partner.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxmyxr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd5p9p.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260416213000 +0000" stop="20260416215800 +0000">
 		<title>Newsnight - 16/04/2026</title>
@@ -1401,7 +1401,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260413180000 +0000" stop="20260413180500 +0000">
 		<title>The Catch Up - 13/04/2026</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Ben Henley-Washford.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260413180500 +0000" stop="20260413183000 +0000">
@@ -5352,8 +5352,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05xb0yd.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260413220000 +0000" stop="20260413223000 +0000">
-		<title>Scotcast - 13/04/2026</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
+		<title>Scotcast - Streeting's Indyref Row</title>
+		<desc>Martin Geissler asks who benefits from a fresh row about another independence referendum. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mk6vmp.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260413223000 +0000" stop="20260413230000 +0000">
@@ -5724,7 +5724,7 @@
 	<programme channel="bbcnews" start="20260413170000 +0000" stop="20260413173000 +0000">
 		<title>BBC News at Six - 13/04/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd5sbh.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260413173000 +0000" stop="20260413174500 +0000">
 		<title>The Iran War - Today: 13/04/2026</title>
@@ -6506,7 +6506,12 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260416173000 +0000" stop="20260416180000 +0000">
+	<programme channel="bbcnews" start="20260416173000 +0000" stop="20260416174500 +0000">
+		<title>The Iran War - Today: 16/04/2026</title>
+		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260416174500 +0000" stop="20260416180000 +0000">
 		<title>The World Today with Maryam Moshiri - 16/04/2026</title>
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
@@ -6884,82 +6889,77 @@
 	<programme channel="bbcparliament" start="20260413130000 +0000" stop="20260413133000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd5m84.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260413133000 +0000" stop="20260413143000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Steve Reed on Monday 13 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd5pch.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260413143000 +0000" stop="20260413160000 +0000">
+		<title>House of Commons - Middle East Statement by the Prime Minister</title>
+		<desc>A statement by Sir Keir Starmer on the situation in the Middle East, on Monday 13 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd5pz0.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260413160000 +0000" stop="20260413170000 +0000">
+		<title>House of Commons - Southport Inquiry Statement</title>
+		<desc>A statement on the Southport Inquiry, on Monday 13 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260413143000 +0000" stop="20260413153000 +0000">
-		<title>House of Commons - 13/04/2026 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 13 April.</desc>
+	<programme channel="bbcparliament" start="20260413170000 +0000" stop="20260413180000 +0000">
+		<title>House of Commons - Chagos Island Legislation Statement</title>
+		<desc>A statement on the Diego Garcia Military Base and British Indian Ocean Territory Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260413153000 +0000" stop="20260413163000 +0000">
-		<title>House of Commons - 13/04/2026 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 13 April.</desc>
+	<programme channel="bbcparliament" start="20260413180000 +0000" stop="20260413190000 +0000">
+		<title>House of Commons - North Atlantic Activity Statement</title>
+		<desc>A statement on recent Russian activity in the North Atlantic, on Monday 13 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260413163000 +0000" stop="20260413173000 +0000">
-		<title>House of Commons - 13/04/2026 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 13 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260413173000 +0000" stop="20260413183000 +0000">
-		<title>House of Commons - 13/04/2026 Part 4</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Monday 13 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260413183000 +0000" stop="20260413213000 +0000">
-		<title>House of Commons - 13/04/2026 Part 5</title>
+	<programme channel="bbcparliament" start="20260413190000 +0000" stop="20260413213000 +0000">
+		<title>House of Commons - 13/04/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 13 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260413213000 +0000" stop="20260413221500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd5m84.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260413221500 +0000" stop="20260413230000 +0000">
 		<title>Lords Questions - 13/04/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 13 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260413230000 +0000" stop="20260414000000 +0000">
-		<title>House of Lords - 13/04/2026 Part 1</title>
+	<programme channel="bbcparliament" start="20260413230000 +0000" stop="20260413231500 +0000">
+		<title>House of Lords - Strait of Hormuz Private Notice Question</title>
+		<desc>A question on UK assistance with mine clearance operations in the Strait of Hormuz.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260413231500 +0000" stop="20260414011500 +0000">
+		<title>House of Lords - English Devolution and Community Empowerment Bill, Part 1</title>
 		<desc>Business in the House of Lords on Monday 13 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260414000000 +0000" stop="20260414010000 +0000">
-		<title>House of Lords - 13/04/2026 Part 2</title>
+	<programme channel="bbcparliament" start="20260414011500 +0000" stop="20260414031500 +0000">
+		<title>House of Lords - English Devolution and Community Empowerment Bill, Part 2</title>
+		<desc>Debate on the report stage of the English Devolution and Community Empowerment Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260414031500 +0000" stop="20260414044500 +0000">
+		<title>House of Lords - English Devolution and Community Empowerment Bill, Part 3</title>
 		<desc>Business in the House of Lords on Monday 13 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260414010000 +0000" stop="20260414020000 +0000">
-		<title>House of Lords - 13/04/2026 Part 3</title>
-		<desc>Business in the House of Lords on Monday 13 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260414020000 +0000" stop="20260414030000 +0000">
-		<title>House of Lords - 13/04/2026 Part 4</title>
-		<desc>Business in the House of Lords on Monday 13 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260414030000 +0000" stop="20260414040000 +0000">
-		<title>House of Lords - 13/04/2026 Part 5</title>
-		<desc>Business in the House of Lords on Monday 13 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260414040000 +0000" stop="20260414060000 +0000">
-		<title>House of Lords - 13/04/2026 Part 6</title>
+	<programme channel="bbcparliament" start="20260414044500 +0000" stop="20260414060000 +0000">
+		<title>House of Lords - English Devolution and Community Empowerment Bill, Part 4</title>
 		<desc>Business in the House of Lords on Monday 13 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260414060000 +0000" stop="20260414070000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Steve Reed on Monday 13 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd5pch.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260414070000 +0000" stop="20260414083000 +0000">
 		<title>House of Commons - 13/04/2026</title>
@@ -7254,7 +7254,7 @@
 	<programme channel="bbcparliament" start="20260417200000 +0000" stop="20260417204500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd5m84.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260417204500 +0000" stop="20260418000000 +0000">
 		<title>Northern Ireland Assembly - 17/04/2026</title>
@@ -7264,12 +7264,12 @@
 	<programme channel="bbcparliament" start="20260418000000 +0000" stop="20260418010000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Steve Reed on Monday 13 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd5pch.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260418010000 +0000" stop="20260418014500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister Emma Little-Pengelly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd5m84.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260418014500 +0000" stop="20260418050000 +0000">
 		<title>Northern Ireland Assembly - 17/04/2026</title>
@@ -9173,7 +9173,7 @@
 	</programme>
 	<programme channel="s4c" start="20260417113000 +0000" stop="20260417120000 +0000">
 		<title>Heno - Thu, 16 Apr 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Bydd Lisa Angharad yn ymuno a Trystan, a byddwn yn trafod y 'Shell Suit'. Lisa Angharad...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260417120000 +0000" stop="20260417123000 +0000">
@@ -9193,7 +9193,7 @@
 	</programme>
 	<programme channel="s4c" start="20260417130500 +0000" stop="20260417140000 +0000">
 		<title>Prynhawn Da - Fri, 17 Apr 2026</title>
-		<desc>Cyfres gylchgrawn gydag eitemau am lyfrau, coginio, ffasiwn a chyngor am bopeth o addur...</desc>
+		<desc>Digon o fargeinion gan Angharad Roche, Rysáit blasus gan Gareth a pha glecs fydd da'r C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260417140000 +0000" stop="20260417140500 +0000">
@@ -9258,12 +9258,12 @@
 	</programme>
 	<programme channel="s4c" start="20260417170000 +0000" stop="20260417173000 +0000">
 		<title>Garddio a Mwy - Cyfres 2026: Pennod 2</title>
-		<desc>Mae Meinir yn ymweld â'r Ardd Fotaneg Genedlaethol a Adam yn hel atgofion am raw ei dad...</desc>
+		<desc>Mae Meinir yn ymweld â'r Ardd Fotaneg Genedlaethol ac Adam yn hel atgofion am raw ei da...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9m6y7.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260417173000 +0000" stop="20260417180000 +0000">
 		<title>Heno - Fri, 17 Apr 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Byddwn ni yn noson wobrwyo RTS Cymru. Hefyd, bydd Dom James gyda ni. We'll be at the RT...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260417180000 +0000" stop="20260417183000 +0000">
