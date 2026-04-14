@@ -118,7 +118,7 @@
 	<programme channel="bbcone" start="20260414170000 +0000" stop="20260414173000 +0000">
 		<title>BBC News at Six - 14/04/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0hp3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ndcb9n.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260414173000 +0000" stop="20260414180000 +0000">
 		<title>BBC London - Evening News: 14/04/2026</title>
@@ -588,7 +588,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260418090000 +0000" stop="20260418103000 +0000">
 		<title>Saturday Kitchen - 18/04/2026</title>
-		<desc>Matt Tebbutt is joined by chefs Nathan Outlaw, Andi Oliver and Sophia Handschuh.</desc>
+		<desc>Matt Tebbutt is joined by Nathan Outlaw, Andi Oliver, Sophia Handschuh and Judi Love.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08zkqzw.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260418103000 +0000" stop="20260418110000 +0000">
@@ -682,27 +682,27 @@
 		<desc>The latest weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260418212500 +0000" stop="20260418224500 +0000">
+	<programme channel="bbcone" start="20260418212500 +0000" stop="20260418223500 +0000">
 		<title>Match of the Day - 2025/26: 18/04/2026</title>
 		<desc>Highlights of five Premier League matches, including Manchester United’s trip to Chelsea.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lzslmf.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260418224500 +0000" stop="20260418230000 +0000">
+	<programme channel="bbcone" start="20260418223500 +0000" stop="20260418225000 +0000">
 		<title>The Football Interview - Series 1: Elliot Anderson</title>
 		<desc>Kelly Somers in conversation with Elliot Anderson.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lx5bxw.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260418230000 +0000" stop="20260419005500 +0000">
+	<programme channel="bbcone" start="20260418225000 +0000" stop="20260419004500 +0000">
 		<title>Planet of the Apes</title>
 		<desc>An astronaut crash-lands on a mysterious planet where apes dominate humans.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j9fkqk.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260419005500 +0000" stop="20260419010000 +0000">
+	<programme channel="bbcone" start="20260419004500 +0000" stop="20260419005000 +0000">
 		<title>Weather for the Week Ahead - 19/04/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260419010000 +0000" stop="20260419050000 +0000">
+	<programme channel="bbcone" start="20260419005000 +0000" stop="20260419050000 +0000">
 		<title>Joins BBC News - 19/04/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -919,7 +919,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20260415173000 +0000" stop="20260415180000 +0000">
 		<title>Great Japanese Railway Journeys - Series 1: 3. Shima Peninsula to Nara</title>
-		<desc>Michael takes a luxury, panoramic Shimikaze train to the beautiful Shima peninsula.</desc>
+		<desc>Michael takes a luxury, panoramic Shimikaze train to the beautiful Shima Peninsula.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nc6lzm.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260415180000 +0000" stop="20260415190000 +0000">
@@ -6863,19 +6863,24 @@
 		<desc>Coverage of a debate in the House of Lords on the planned changes to immigration rules.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260415060000 +0000" stop="20260415070000 +0000">
+	<programme channel="bbcparliament" start="20260415060000 +0000" stop="20260415071000 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to Wes Streeting on Tuesday 14 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ndbftg.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260415070000 +0000" stop="20260415083000 +0000">
-		<title>House of Commons - 14/04/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 14 April.</desc>
+	<programme channel="bbcparliament" start="20260415071000 +0000" stop="20260415081500 +0000">
+		<title>House of Commons - Knife Crime Statement</title>
+		<desc>Coverage of a statement by Sarah Jones on the government's plan to halve knife crime.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20260415081500 +0000" stop="20260415083000 +0000">
+		<title>Ten Minute Rule Bill - Diabetes Screening</title>
+		<desc>Introduction of a bill on a national screening programme for type 1 diabetes in children.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20260415083000 +0000" stop="20260415103000 +0000">
-		<title>Select Committees - 15/04/2026</title>
-		<desc>Coverage of select committee proceedings on Wednesday 15 April.</desc>
+		<title>Select Committees - Work and Pensions Committee on the Child Poverty Strategy</title>
+		<desc>The Work and Pensions committee session on delivering the child poverty strategy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260415103000 +0000" stop="20260415110000 +0000">
@@ -6888,23 +6893,8 @@
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 15 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260415113500 +0000" stop="20260415123000 +0000">
-		<title>House of Commons - 15/04/2026 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 15 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260415123000 +0000" stop="20260415133000 +0000">
-		<title>House of Commons - 15/04/2026 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 15 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260415133000 +0000" stop="20260415143000 +0000">
-		<title>House of Commons - 15/04/2026 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 15 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260415143000 +0000" stop="20260415183000 +0000">
-		<title>House of Commons - 15/04/2026 Part 4</title>
+	<programme channel="bbcparliament" start="20260415113500 +0000" stop="20260415183000 +0000">
+		<title>House of Commons - 15/04/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 15 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6923,33 +6913,8 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 15 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260415222000 +0000" stop="20260415232000 +0000">
-		<title>House of Lords - 15/04/2026 Part 1</title>
-		<desc>Business in the House of Lords on Wednesday 15 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260415232000 +0000" stop="20260416002000 +0000">
-		<title>House of Lords - 15/04/2026 Part 2</title>
-		<desc>Business in the House of Lords on Wednesday 15 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260416002000 +0000" stop="20260416012000 +0000">
-		<title>House of Lords - 15/04/2026 Part 3</title>
-		<desc>Business in the House of Lords on Wednesday 15 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260416012000 +0000" stop="20260416022000 +0000">
-		<title>House of Lords - 15/04/2026 Part 4</title>
-		<desc>Business in the House of Lords on Wednesday 15 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260416022000 +0000" stop="20260416032000 +0000">
-		<title>House of Lords - 15/04/2026 Part 5</title>
-		<desc>Business in the House of Lords on Wednesday 15 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260416032000 +0000" stop="20260416060000 +0000">
-		<title>House of Lords - 15/04/2026 Part 6</title>
+	<programme channel="bbcparliament" start="20260415222000 +0000" stop="20260416060000 +0000">
+		<title>House of Lords - 15/04/2026</title>
 		<desc>Business in the House of Lords on Wednesday 15 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
@@ -8608,10 +8573,20 @@
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260417050000 +0000" stop="20260417053000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="s4c" start="20260417050000 +0000" stop="20260417051000 +0000">
+		<title>Sali Mali - Cyfres 3: Y Robot</title>
+		<desc>Torra Jac Do ei galon wrth ddod o hyd i robot tegan, a gollodd amser maith yn ôl, mewn ...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p097tr2h.jpg" />
+	</programme>
+	<programme channel="s4c" start="20260417051000 +0000" stop="20260417052000 +0000">
+		<title>Twt - Cyfres 1: Mae'r gwynt wedi mynd</title>
+		<desc>Mae'r cychod yn bwriadu cynnal regata ond mae'r gwynt yn gostegu. Sut mae creu awel tyb...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02lp9cr.jpg" />
+	</programme>
+	<programme channel="s4c" start="20260417052000 +0000" stop="20260417053000 +0000">
+		<title>Guto Gwningen - Cyfres 2: Hanes Parti Nel Gynffonwen</title>
+		<desc>Mae Guto'n addo mwydod i'r Llyg i'w ddenu i barti pen-blwydd Nel Gynffonwen,ond mae'n r...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nbblcp.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260417053000 +0000" stop="20260417054500 +0000">
 		<title>Pentre Papur Pop - Cyfres 1: Howdi Huwcyn</title>
@@ -8703,10 +8678,50 @@
 		<desc>Mae ffrindiau Sali Mali'n gwneud twrw mawr, ond mae hi'n cael trefn arnynt ac yn ffurfi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p097tr29.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260417090500 +0000" stop="20260417110000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="s4c" start="20260417090500 +0000" stop="20260417092000 +0000">
+		<title>Twt - Cyfres 1: Twt a'r Ras Fawr</title>
+		<desc>Mae HP a Twt yn cystadlu yn erbyn ei gilydd i weld pwy yw cwch cyflyma'r harbwr. HP and...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02kgn3r.jpg" />
+	</programme>
+	<programme channel="s4c" start="20260417092000 +0000" stop="20260417093000 +0000">
+		<title>Guto Gwningen - Cyfres 2: Hanes Moi Malwen</title>
+		<desc>Mae Benja yn cael malwen anwes,ond dyw Guto Gwningen ai ffrindiau ddim gweld yr apêl.  ...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nbblcp.jpg" />
+	</programme>
+	<programme channel="s4c" start="20260417093000 +0000" stop="20260417094000 +0000">
+		<title>Pentre Papur Pop - Cyfres 1: Y Daith At Y Copa Cerddorol</title>
+		<desc>Ar yr antur popwych heddiw mae Twm yn darganfod chwilen arbennig sy'n gallu canu. On to...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2240c.jpg" />
+	</programme>
+	<programme channel="s4c" start="20260417094000 +0000" stop="20260417100000 +0000">
+		<title>Help Llaw - Cyfres 1: Alex - Y Stiwdio Dywydd</title>
+		<desc>Mae ymbarel Tanwen, cyflwynydd y tywydd, wedi torri. Mae hi'n gwneud apêl yn fyw ar y t...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdcx91.jpg" />
+	</programme>
+	<programme channel="s4c" start="20260417100000 +0000" stop="20260417100500 +0000">
+		<title>Cywion Bach - Cyfres 3: Wy</title>
+		<desc>Dere ar antur geiriau gyda'r Cywion Bach wrth iddyn nhw ddysgu ac arwyddo'r gair, Wy. C...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ncqksj.jpg" />
+	</programme>
+	<programme channel="s4c" start="20260417100500 +0000" stop="20260417102000 +0000">
+		<title>Joni Jet - Cyfres 1: Trwbwl Dwbwl</title>
+		<desc>Mae Joni a Jini yn methu datrys eu gwahaniaethau. Ond diolch i beiriant clonio, maen nh...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nbbhjm.jpg" />
+	</programme>
+	<programme channel="s4c" start="20260417102000 +0000" stop="20260417103000 +0000">
+		<title>Jambori - Cyfres 2: Pennod 5</title>
+		<desc>Ymunwch â Jam ar daith llawn synau, cerddoriaeth a lluniau - gyda hwyaid yn dawnsio yn ...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nbbjvq.jpg" />
+	</programme>
+	<programme channel="s4c" start="20260417103000 +0000" stop="20260417104000 +0000">
+		<title>Tomos a'i Ffrindiau - Cyfres 4: Dirgelwch y Deinosor</title>
+		<desc>Mae Tomos a'r injans eraill yn cynllunio eu danfoniad o esgyrn T-Rex sydd newydd eu dar...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fg029b.jpg" />
+	</programme>
+	<programme channel="s4c" start="20260417104000 +0000" stop="20260417110000 +0000">
+		<title>Kim a Cai a Cranc - Cyfres 1: Pennod 8</title>
+		<desc>Wrth ddilyn y dolffiniaid, mae Kim a Cai yn syrthio o dan y dwr, ble maen nhw'n cwrdd â...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kr864x.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260417110000 +0000" stop="20260417110500 +0000">
 		<title>Newyddion S4C - Fri, 17 Apr 2026 12:00</title>
