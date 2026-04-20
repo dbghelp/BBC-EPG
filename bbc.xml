@@ -51,8 +51,8 @@
 	</programme>
 	<programme channel="bbcone" start="20260420083000 +0000" stop="20260420094500 +0000">
 		<title>Morning Live - Series 8: 20/04/2026</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
+		<desc>Rav Wilding and Helen Skelton speak with Paralympian Kadeena Cox.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfhw0r.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260420094500 +0000" stop="20260420101500 +0000">
 		<title>Expert Witness - Series 4: 1. The Murder of Sarah Payne: Fields of Evidence</title>
@@ -133,7 +133,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260420180000 +0000" stop="20260420183000 +0000">
 		<title>The One Show - 20/04/2026</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Alex Jones and Roman Kemp are joined by Hugh Jackman and Lena Dunham.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260420183000 +0000" stop="20260420190000 +0000">
@@ -769,15 +769,15 @@
 		<desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260420090000 +0000" stop="20260420114500 +0000">
+	<programme channel="bbctwo" start="20260420090000 +0000" stop="20260420120000 +0000">
 		<title>Snooker: World Championship - 2026: Day 3, Morning Session</title>
 		<desc>Coverage of day 3 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nffhqf.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260420114500 +0000" stop="20260420123000 +0000">
-		<title>Talking Snooker - 1. The People's Champions</title>
-		<desc>A look at the lives and careers of Alex Higgins, Jimmy White and Ronnie O'Sullivan.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p089p8rb.jpg" />
+	<programme channel="bbctwo" start="20260420120000 +0000" stop="20260420123000 +0000">
+		<title>The Hairy Bikers' Pubs That Built Britain - Oxford</title>
+		<desc>Si visits Brasenose College for a taste of one of their ancient rituals.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03s93r7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260420123000 +0000" stop="20260420131500 +0000">
 		<title>Politics Live - Mandelson vetting row</title>
@@ -787,7 +787,7 @@
 	<programme channel="bbctwo" start="20260420131500 +0000" stop="20260420170000 +0000">
 		<title>Snooker: World Championship - 2026: Day 3, Afternoon Session</title>
 		<desc>Coverage of day 3 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ncsm82.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfhkjc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260420170000 +0000" stop="20260420173000 +0000">
 		<title>Richard Osman's House of Games - Series 8: Week 4: Monday</title>
@@ -6726,7 +6726,17 @@
 		<desc>Coverage of questions to Bridget Phillipson on Monday 20 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260420143000 +0000" stop="20260420213000 +0000">
+	<programme channel="bbcparliament" start="20260420143000 +0000" stop="20260420160000 +0000">
+		<title>House of Commons - Prime Minister's Statement on Lord Mandelson</title>
+		<desc>The statement by prime minister Keir Starmer on the security vetting of Lord Mandelson.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260420160000 +0000" stop="20260420170000 +0000">
+		<title>House of Commons - Antisemitic Attacks Statement</title>
+		<desc>Statement by Dan Jarvis on recent antisemitic attacks against synagogues and buildings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260420170000 +0000" stop="20260420213000 +0000">
 		<title>House of Commons - 20/04/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 20 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
