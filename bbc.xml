@@ -803,10 +803,10 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d5flsg.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260421213000 +0000" stop="20260421215800 +0000">
-		<title>Newsnight - 21/04/2026</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.
+		<title>Newsnight - Is Starmer's Authority Shredded?</title>
+		<desc>What is the state of Sir Keir Starmer's authority - with his party and the country?
 </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfswxz.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260421215800 +0000" stop="20260421220000 +0000">
 		<title>BBC Weather - 21/04/2026</title>
@@ -5120,32 +5120,32 @@
 		<desc>More from the day’s top stories and communities across Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4rpph.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260421183000 +0000" stop="20260421210000 +0000">
+	<programme channel="bbcscotland" start="20260421183000 +0000" stop="20260421211500 +0000">
 		<title>Sportscene: Championship Live - 2025/26: Dunfermline v St Johnstone</title>
 		<desc>Live coverage of Dunfermline v St Johnstone in the Scottish Championship.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf729f.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260421210000 +0000" stop="20260421213000 +0000">
+	<programme channel="bbcscotland" start="20260421211500 +0000" stop="20260421214500 +0000">
 		<title>Limbs in the Loch: Catching a Killer - Series 1: Episode 1</title>
 		<desc>The limbs of a young man are found by chance in Loch Lomond.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1ql8g.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260421213000 +0000" stop="20260421220000 +0000">
+	<programme channel="bbcscotland" start="20260421214500 +0000" stop="20260421221500 +0000">
 		<title>Limbs in the Loch: Catching a Killer - Series 1: Episode 2</title>
 		<desc>Detectives hunt for William Beggs in relation to the murder of Barry Wallace.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k1qlkc.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260421220000 +0000" stop="20260421223000 +0000">
+	<programme channel="bbcscotland" start="20260421221500 +0000" stop="20260421224500 +0000">
 		<title>Scotcast - Energy Announcement</title>
 		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqxxy.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260421223000 +0000" stop="20260421230000 +0000">
+	<programme channel="bbcscotland" start="20260421224500 +0000" stop="20260421231500 +0000">
 		<title>Jules and Greg's Wild Swim - Series 1: Episode 3</title>
 		<desc>Jules and Greg finally find their Zen in the iconic River Tay.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h3pk7r.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260421230000 +0000" stop="20260422050000 +0000">
+	<programme channel="bbcscotland" start="20260421231500 +0000" stop="20260422050000 +0000">
 		<title>This is BBC Scotland - This is BBC Scotland</title>
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cg8m68.jpg" />
@@ -5561,10 +5561,10 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260421213000 +0000" stop="20260421220000 +0000">
-		<title>Newsnight - 21/04/2026</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.
+		<title>Newsnight - Is Starmer's Authority Shredded?</title>
+		<desc>What is the state of Sir Keir Starmer's authority - with his party and the country?
 </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfswxz.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260421220000 +0000" stop="20260421230000 +0000">
 		<title>BBC World News America - 21/04/2026</title>
@@ -6646,50 +6646,65 @@
 		<desc>The emergency debate on the appointment of Peter Mandelson as UK ambassador to the US.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfprwq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260421154000 +0000" stop="20260421183000 +0000">
+	<programme channel="bbcparliament" start="20260421154000 +0000" stop="20260421200500 +0000">
 		<title>House of Commons - 21/04/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 21 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260421183000 +0000" stop="20260421210000 +0000">
-		<title>House of Lords - 21/04/2026</title>
-		<desc>Coverage of proceedings in the House of Lords on Tuesday 21 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20260421200500 +0000" stop="20260421205500 +0000">
+		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
+		<desc>Questions to the agriculture, environment and rural affairs minister Andrew Muir.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfk59q.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260421205500 +0000" stop="20260421210000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260421210000 +0000" stop="20260421214500 +0000">
 		<title>Lords Questions - 21/04/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 21 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260421214500 +0000" stop="20260421222500 +0000">
+	<programme channel="bbcparliament" start="20260421214500 +0000" stop="20260421221500 +0000">
 		<title>House of Lords - Infected Blood Compensation Scheme</title>
 		<desc>Coverage of the statement on the Infected Blood Compensation Scheme, on Tuesday 21 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260421222500 +0000" stop="20260421232500 +0000">
+	<programme channel="bbcparliament" start="20260421221500 +0000" stop="20260421223500 +0000">
 		<title>House of Lords - Package Travel Regulations</title>
 		<desc>Debate on the Package Travel and Linked Travel Arrangements (Amendment) Regulations 2026.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260421232500 +0000" stop="20260422002500 +0000">
+	<programme channel="bbcparliament" start="20260421223500 +0000" stop="20260421225000 +0000">
 		<title>House of Lords - Ministerial Salaries Order</title>
 		<desc>The debate on the Ministerial and Other Salaries Act 1975 (Amendment) Order 2026.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260422002500 +0000" stop="20260422012500 +0000">
+	<programme channel="bbcparliament" start="20260421225000 +0000" stop="20260421231000 +0000">
 		<title>House of Lords - Criminal Justice Orders</title>
 		<desc>Coverage of the debate on 2026 Criminal Justice Orders, on Tuesday 21 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260422012500 +0000" stop="20260422022500 +0000">
+	<programme channel="bbcparliament" start="20260421231000 +0000" stop="20260422001500 +0000">
 		<title>House of Lords - Immigration Accommodation Regulations</title>
 		<desc>Coverage of the debate on 2026 Immigration Accommodation Regulations, on Tuesday 21 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260422022500 +0000" stop="20260422050500 +0000">
+	<programme channel="bbcparliament" start="20260422001500 +0000" stop="20260422005500 +0000">
 		<title>House of Lords - Local Elections Order</title>
 		<desc>Coverage of the debate on 2026 Local Elections Order, on Tuesday 21 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260422005500 +0000" stop="20260422040000 +0000">
+		<title>House of Commons - Government Accountability over Peter Mandelson Appointment Debate</title>
+		<desc>The emergency debate on the appointment of Peter Mandelson as UK ambassador to the US.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfprwq.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260422040000 +0000" stop="20260422050500 +0000">
+		<title>House of Commons - Antisemitic Attacks Statement</title>
+		<desc>Statement by Dan Jarvis on recent antisemitic attacks against synagogues and buildings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfp426.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260422050500 +0000" stop="20260422073000 +0000">
 		<title>Select Committees - Foreign Affairs Committee with Olly Robbins</title>
