@@ -1680,7 +1680,7 @@
 	<programme channel="bbcfour" start="20260423180000 +0000" stop="20260423210000 +0000">
 		<title>Snooker: World Championship - 2026: Day 6, Evening Session</title>
 		<desc>Coverage of day 6 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ng6mzr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ng88d0.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260423210000 +0000" stop="20260423223000 +0000">
 		<title>The Wicker Man</title>
@@ -6650,29 +6650,54 @@
 		<desc>The debate on a motion to consider the contribution of allied health professionals.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260424032500 +0000" stop="20260424045500 +0000">
+	<programme channel="bbcparliament" start="20260424032500 +0000" stop="20260424045000 +0000">
 		<title>House of Commons - Drivers and Vehicles Licensing Agency Debate</title>
-		<desc>The debate on reform of the Driver and Vehicle Licensing Agency, on Thursday 23 April.</desc>
+		<desc>Debate on a motion to consider reform of the Driver and Vehicle Licensing Agency (DVLA).</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260424045000 +0000" stop="20260424045500 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260424045500 +0000" stop="20260424060000 +0000">
 		<title>House of Commons - Antisemitic Attacks Statement</title>
 		<desc>Statement by Dan Jarvis on recent antisemitic attacks against synagogues and buildings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfp426.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260424060000 +0000" stop="20260424090000 +0000">
+	<programme channel="bbcparliament" start="20260424060000 +0000" stop="20260424082000 +0000">
 		<title>Westminster Hall - 20/04/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Monday 20 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260424090000 +0000" stop="20260424170000 +0000">
-		<title>House of Lords - 24/04/2026</title>
+	<programme channel="bbcparliament" start="20260424082000 +0000" stop="20260424090000 +0000">
+		<title>Prime Minister's Questions - 22/04/2026</title>
+		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 22 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfw9fv.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260424090000 +0000" stop="20260424142500 +0000">
+		<title>House of Lords - Assisted Dying Bill</title>
 		<desc>Coverage of proceedings in the House of Lords on Friday 24 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260424170000 +0000" stop="20260424200000 +0000">
-		<title>Select Committees - 24/04/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20260424142500 +0000" stop="20260424151000 +0000">
+		<title>Lords Questions - 20/04/2026</title>
+		<desc>Questions in the House of Lords to government ministers on Monday 20 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfr701.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260424151000 +0000" stop="20260424170000 +0000">
+		<title>Select Committees - EU Dynamic Alignment Committee</title>
+		<desc>European Affairs committee session on dynamic alignment with the European Union.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260424170000 +0000" stop="20260424183500 +0000">
+		<title>Select Committees - UK Supreme Court Committee</title>
+		<desc>The Constitution committee's annual session on the work of the UK Supreme Court.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ng06pr.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260424183500 +0000" stop="20260424200000 +0000">
+		<title>Select Committees - Northern Ireland Troubles Bill Committee</title>
+		<desc>Human Rights joint committee's legislative scrutiny of the Northern Ireland Troubles Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260424200000 +0000" stop="20260424204500 +0000">
@@ -6680,25 +6705,50 @@
 		<desc>Questions to the agriculture, environment and rural affairs minister Andrew Muir.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfk59q.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260424204500 +0000" stop="20260425000000 +0000">
-		<title>Northern Ireland Assembly - 24/04/2026</title>
-		<desc>Highlights from the Northern Ireland Assembly.</desc>
+	<programme channel="bbcparliament" start="20260424204500 +0000" stop="20260424213500 +0000">
+		<title>Northern Ireland Assembly - Communities Questions</title>
+		<desc>Questions in Stormont to the communities minister Gordon Lyons on Monday 20 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260425000000 +0000" stop="20260425010000 +0000">
+	<programme channel="bbcparliament" start="20260424213500 +0000" stop="20260424222000 +0000">
+		<title>Northern Ireland Assembly - Economy Questions</title>
+		<desc>Questions in Stormont to the economy minister Caoimhe Archibald on Tuesday 21 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260424222000 +0000" stop="20260424225000 +0000">
+		<title>Northern Ireland Assembly - Ulster University Job Losses</title>
+		<desc>The debate in Stormont on potential job losses at Ulster University, from Monday 20 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260424225000 +0000" stop="20260424232500 +0000">
+		<title>Northern Ireland Assembly - A&amp;E Excess Deaths Debate</title>
+		<desc>An urgent question on excess deaths linked to long waits in emergency departments.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260424232500 +0000" stop="20260425001500 +0000">
+		<title>Northern Ireland Assembly - Marriage and Civil Partnerships Bill</title>
+		<desc>The debate in Stormont on the Marriage and Civil Partnerships Bill at second stage.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260425001500 +0000" stop="20260425011500 +0000">
 		<title>House of Commons - Education Questions</title>
 		<desc>Coverage of questions to Bridget Phillipson on Monday 20 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfk3sc.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260425010000 +0000" stop="20260425014500 +0000">
+	<programme channel="bbcparliament" start="20260425011500 +0000" stop="20260425025000 +0000">
+		<title>Select Committees - UK Supreme Court Committee</title>
+		<desc>The Constitution committee's annual session on the work of the UK Supreme Court.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ng06pr.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260425025000 +0000" stop="20260425041500 +0000">
+		<title>Select Committees - Northern Ireland Troubles Bill Committee</title>
+		<desc>Human Rights joint committee's legislative scrutiny of the Northern Ireland Troubles Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260425041500 +0000" stop="20260425050000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister Andrew Muir.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfk59q.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260425014500 +0000" stop="20260425050000 +0000">
-		<title>Northern Ireland Assembly - 24/04/2026</title>
-		<desc>Highlights from the Northern Ireland Assembly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260425050000 +0000" stop="20260425100000 +0000">
 		<title>Westminster Hall - 21/04/2026</title>
