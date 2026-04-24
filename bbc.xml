@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20260424083000 +0000" stop="20260424094500 +0000">
 		<title>Morning Live - Series 8: 24/04/2026</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kb9jx4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260424094500 +0000" stop="20260424101500 +0000">
 		<title>Expert Witness - Series 4: 6. Murderers, Messages and the Breakfast Killer</title>
@@ -124,11 +124,11 @@
 	<programme channel="bbcone" start="20260424175500 +0000" stop="20260424180000 +0000">
 		<title>Party Election Broadcasts: Labour - 24/04/2026</title>
 		<desc>A party election broadcast by the Labour Party for the local elections on 7 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09c8xg1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngbxf3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260424180000 +0000" stop="20260424183000 +0000">
 		<title>The One Show - 24/04/2026</title>
-		<desc>Lauren Laverne and Angellica Bell with the stories that matter from across the country.</desc>
+		<desc>The stars of The Devil Wears Prada 2 join Lauren Laverne and Angellica Bell on the sofa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260424183000 +0000" stop="20260424190000 +0000">
@@ -165,7 +165,7 @@
 	<programme channel="bbcone" start="20260424214000 +0000" stop="20260424222500 +0000">
 		<title>The Claudia Winkleman Show - Series 1: 7. Compilation</title>
 		<desc>Claudia looks back at some of the highlights from the series.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52l2y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngbvgn.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260424222500 +0000" stop="20260425000500 +0000">
 		<title>Chaos Walking</title>
@@ -408,7 +408,7 @@
 	<programme channel="bbcone" start="20260426225000 +0000" stop="20260426233500 +0000">
 		<title>The Claudia Winkleman Show - Series 1: 7. Compilation</title>
 		<desc>Claudia looks back at some of the highlights from the series.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52l2y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngbvgn.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260426233500 +0000" stop="20260426234000 +0000">
 		<title>Weather for the Week Ahead - 27/04/2026</title>
@@ -729,7 +729,7 @@
 	<programme channel="bbctwo" start="20260424090000 +0000" stop="20260424120000 +0000">
 		<title>Snooker: World Championship - 2026: Day 7, Morning Session</title>
 		<desc>Coverage of day 7 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ncsm82.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngb6c1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260424120000 +0000" stop="20260424124500 +0000">
 		<title>The Tournament - Series 1: Episode 24</title>
@@ -5092,7 +5092,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20260424214500 +0000" stop="20260424223000 +0000">
 		<title>A View from the Terrace - Series 8: Episode 17</title>
-		<desc>Every inch of Scottish football from top to bottom, as seen by the fans on the terrace.</desc>
+		<desc>Craig Telfer is joined by Amy Canavan and Tony Anderson to talk over another manic week.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jssdp9.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260424223000 +0000" stop="20260424230000 +0000">
@@ -5435,10 +5435,15 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260424120000 +0000" stop="20260424130000 +0000">
-		<title>BBC News at One - 24/04/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	<programme channel="bbcnews" start="20260424120000 +0000" stop="20260424123000 +0000">
+		<title>BBC News Now - 24/04/2026</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260424123000 +0000" stop="20260424130000 +0000">
+		<title>BBC News Now - 24/04/2026</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260424130000 +0000" stop="20260424133000 +0000">
 		<title>BBC News Now - 24/04/2026</title>
