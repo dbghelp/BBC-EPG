@@ -5335,15 +5335,25 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfw934.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260426050000 +0000" stop="20260426080000 +0000">
-		<title>Breakfast - 26/04/2026</title>
-		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	<programme channel="bbcnews" start="20260426050000 +0000" stop="20260426060000 +0000">
+		<title>BBC News - 26/04/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260426060000 +0000" stop="20260426070000 +0000">
+		<title>BBC News - 26/04/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260426070000 +0000" stop="20260426080000 +0000">
+		<title>BBC News - 26/04/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260426080000 +0000" stop="20260426090000 +0000">
-		<title>Sunday with Laura Kuenssberg - 26/04/2026</title>
-		<desc>Laura Kuenssberg talks to Darren Jones MP and Chris Philp MP.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
+		<title>BBC News - 26/04/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260426090000 +0000" stop="20260426093000 +0000">
 		<title>BBC News - 26/04/2026</title>
