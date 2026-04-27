@@ -5585,12 +5585,7 @@
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260427173000 +0000" stop="20260427174500 +0000">
-		<title>The Iran War - 27/04/2026</title>
-		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260427174500 +0000" stop="20260427180000 +0000">
+	<programme channel="bbcnews" start="20260427173000 +0000" stop="20260427180000 +0000">
 		<title>The World Today with Maryam Moshiri - 27/04/2026</title>
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
@@ -6763,7 +6758,7 @@
 	<programme channel="bbcparliament" start="20260427133000 +0000" stop="20260427143000 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 27 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngxlk9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260427143000 +0000" stop="20260427151500 +0000">
 		<title>House of Commons - Dunmurry Police Station Bomb Urgent Question</title>
@@ -6825,24 +6820,24 @@
 		<desc>The debate on the Agriculture (Delinked Payments) (Reductions) (England) Regulations 2026.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260428054000 +0000" stop="20260428060000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260428060000 +0000" stop="20260428070000 +0000">
+	<programme channel="bbcparliament" start="20260428054000 +0000" stop="20260428064500 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 27 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngxlk9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260428064500 +0000" stop="20260428072000 +0000">
+		<title>House of Commons - Dunmurry Police Station Bomb Urgent Question</title>
+		<desc>Coverage of an urgent question on the car bomb attack outside Dunmurray Police Station.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260428070000 +0000" stop="20260428083000 +0000">
-		<title>House of Commons - 27/04/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 27 April.</desc>
+	<programme channel="bbcparliament" start="20260428072000 +0000" stop="20260428080000 +0000">
+		<title>House of Commons - Mandelson Documents Statement</title>
+		<desc>A statement related to the appointment of Lord Mandelson as UK ambassador to the US.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260428083000 +0000" stop="20260428103000 +0000">
-		<title>Select Committees - 28/04/2026</title>
-		<desc>Coverage of select committee proceedings on Tuesday 28 April.</desc>
+	<programme channel="bbcparliament" start="20260428080000 +0000" stop="20260428103000 +0000">
+		<title>Select Committees - Foreign Affairs Committee on Lord Mandelson</title>
+		<desc>Foreign Affairs committee on the appointment of Lord Mandelson as UK ambassador to the US.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260428103000 +0000" stop="20260428113000 +0000">
@@ -6993,7 +6988,7 @@
 	<programme channel="bbcparliament" start="20260501200000 +0000" stop="20260501204500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to first minister Michelle O'Neill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngxjbv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260501204500 +0000" stop="20260502000000 +0000">
 		<title>Northern Ireland Assembly - 01/05/2026</title>
@@ -7003,12 +6998,12 @@
 	<programme channel="bbcparliament" start="20260502000000 +0000" stop="20260502010000 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 27 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngxlk9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260502010000 +0000" stop="20260502014500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to first minister Michelle O'Neill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngxjbv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260502014500 +0000" stop="20260502050000 +0000">
 		<title>Northern Ireland Assembly - 01/05/2026</title>
