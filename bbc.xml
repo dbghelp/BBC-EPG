@@ -133,7 +133,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260429180000 +0000" stop="20260429183000 +0000">
 		<title>The One Show - 29/04/2026</title>
-		<desc>Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+		<desc>Alex Jones and Vernon Kay are joined by Chris McCausland and Gregor Fisher.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260429183000 +0000" stop="20260429190000 +0000">
@@ -5570,20 +5570,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260429170000 +0000" stop="20260429173000 +0000">
-		<title>BBC News at Six - 29/04/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhbcss.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260429173000 +0000" stop="20260429174500 +0000">
-		<title>The Iran War - 29/04/2026</title>
-		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260429174500 +0000" stop="20260429180000 +0000">
-		<title>The World Today with Maryam Moshiri - 29/04/2026</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
+	<programme channel="bbcnews" start="20260429170000 +0000" stop="20260429180000 +0000">
+		<title>BBC News - 29/04/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260429180000 +0000" stop="20260429183000 +0000">
 		<title>The World Today with Maryam Moshiri - 29/04/2026</title>
@@ -6668,7 +6658,7 @@
 	<programme channel="bbcparliament" start="20260429121500 +0000" stop="20260429130500 +0000">
 		<title>House of Lords - Prorogation Ceremony</title>
 		<desc>Prorogation ceremony in the House of Lords, marking the end of this parliamentary session.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhblfx.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260429130500 +0000" stop="20260429141500 +0000">
 		<title>Northern Ireland Assembly - Sign Language Bill</title>
@@ -6686,7 +6676,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngrq6p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260429164000 +0000" stop="20260429185000 +0000">
-		<title>Select Committees - Food Supply Committee</title>
+		<title>Select Committees - Environment, Food and Rural Affairs Committee on the Food Supply</title>
 		<desc>Environment, Food and Rural Affairs committee session on fairness in the food supply chain</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfs2r.jpg" />
 	</programme>
@@ -6703,7 +6693,7 @@
 	<programme channel="bbcparliament" start="20260429215500 +0000" stop="20260429224000 +0000">
 		<title>House of Lords - Prorogation Ceremony</title>
 		<desc>Prorogation ceremony in the House of Lords, marking the end of this parliamentary session.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhblfx.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260429224000 +0000" stop="20260429225000 +0000">
 		<title>Ten Minute Rule Bill - Local Area Energy Plans</title>
@@ -6731,59 +6721,99 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngrq6p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260430042000 +0000" stop="20260430063500 +0000">
-		<title>Select Committees - Food Supply Committee</title>
+		<title>Select Committees - Environment, Food and Rural Affairs Committee on the Food Supply</title>
 		<desc>Environment, Food and Rural Affairs committee session on fairness in the food supply chain</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfs2r.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260430063500 +0000" stop="20260430070500 +0000">
+	<programme channel="bbcparliament" start="20260430063500 +0000" stop="20260430070000 +0000">
+		<title>House of Commons - Women and Equalities Questions</title>
+		<desc>Coverage of questions to Bridget Phillipson on Wednesday 29 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh99c2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260430070000 +0000" stop="20260430074000 +0000">
 		<title>Prime Minister's Questions - 29/04/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 29 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7zgq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260430070500 +0000" stop="20260430083000 +0000">
-		<title>House of Commons - 29/04/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 29 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260430074000 +0000" stop="20260430075000 +0000">
+		<title>Ten Minute Rule Bill - In-Person Banking Services</title>
+		<desc>The introduction a Bill on in-person banking services, from Wednesday 29 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260430083000 +0000" stop="20260430093000 +0000">
-		<title>House of Commons - Business and Trade Questions</title>
-		<desc>Coverage of questions to Peter Kyle on Thursday 30 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260430075000 +0000" stop="20260430083000 +0000">
+		<title>House of Lords - Prorogation Ceremony</title>
+		<desc>Prorogation ceremony in the House of Lords, marking the end of this parliamentary session.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhblfx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260430093000 +0000" stop="20260430103000 +0000">
-		<title>House of Commons - Commons Business Questions</title>
-		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 30 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260430083000 +0000" stop="20260430090500 +0000">
+		<title>Northern Ireland Assembly - Dunmurry Car Bomb Urgent Question</title>
+		<desc>The urgent question in Stormont on the Dunmurry car bomb attack at a police station.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260430103000 +0000" stop="20260430163000 +0000">
-		<title>House of Commons - 30/04/2026</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 30 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260430090500 +0000" stop="20260430094000 +0000">
+		<title>House of Commons - Dunmurry Police Station Bomb Urgent Question</title>
+		<desc>Coverage of an urgent question on the car bomb attack outside Dunmurray Police Station.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh1p7j.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260430163000 +0000" stop="20260430171500 +0000">
-		<title>Lords Questions - 30/04/2026</title>
-		<desc>Questions in the House of Lords to government ministers on Thursday 30 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	<programme channel="bbcparliament" start="20260430094000 +0000" stop="20260430110000 +0000">
+		<title>Select Committees - Home Affairs Committee on Organised Crime</title>
+		<desc>Committee on the impact of serious and organised crime on local neighbourhoods.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngwyqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260430171500 +0000" stop="20260501004500 +0000">
-		<title>House of Lords - 30/04/2026 Part 1</title>
-		<desc>Business in the House of Lords on Thursday 30 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20260430110000 +0000" stop="20260430133500 +0000">
+		<title>Select Committees - Education Committee on Screen Time and Social Media Use</title>
+		<desc>Education Committee session on screen time and social media use, on Tuesday 21 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngrhwr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260501004500 +0000" stop="20260501014500 +0000">
-		<title>House of Commons - Business and Trade Questions</title>
-		<desc>Coverage of questions to Peter Kyle on Thursday 30 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260430133500 +0000" stop="20260430155500 +0000">
+		<title>Select Committees - China and the UK Economy Committee</title>
+		<desc>The Business and Trade committee session on China and the UK economy, on Tuesday 21 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngx9yb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260501014500 +0000" stop="20260501024500 +0000">
-		<title>House of Commons - Commons Business Questions</title>
-		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 30 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260430155500 +0000" stop="20260430163000 +0000">
+		<title>House of Lords - Middle East and Economic Update Statement</title>
+		<desc>Statement by Lord Livermore on the economic impact of the situation in the Middle East.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh9byt.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260501024500 +0000" stop="20260501060000 +0000">
-		<title>House of Commons - 30/04/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 30 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260430163000 +0000" stop="20260430170000 +0000">
+		<title>House of Lords - Pension Schemes Statement</title>
+		<desc>Coverage of the statement on the status of current pension schemes, on Tuesday 28 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhbgwg.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260430170000 +0000" stop="20260430183000 +0000">
+		<title>Select Committees - Joint Committee on the National Security Strategy</title>
+		<desc>National Security Strategy Joint Committee's session on the UK's defence and resilience.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260430183000 +0000" stop="20260430200000 +0000">
+		<title>Select Committees - UK Supreme Court Committee</title>
+		<desc>The Constitution committee's annual session on the work of the UK Supreme Court.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ng06pr.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260430200000 +0000" stop="20260430212500 +0000">
+		<title>Select Committees - Northern Ireland Troubles Bill Committee</title>
+		<desc>Human Rights joint committee's legislative scrutiny of the Northern Ireland Troubles Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngn3hn.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260430212500 +0000" stop="20260430224500 +0000">
+		<title>Select Committees - Home Affairs Committee on Organised Crime</title>
+		<desc>Committee on the impact of serious and organised crime on local neighbourhoods.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngwyqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260430224500 +0000" stop="20260501012000 +0000">
+		<title>Select Committees - Education Committee on Screen Time and Social Media Use</title>
+		<desc>Education Committee session on screen time and social media use, on Tuesday 21 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngrhwr.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501012000 +0000" stop="20260501034000 +0000">
+		<title>Select Committees - China and the UK Economy Committee</title>
+		<desc>The Business and Trade committee session on China and the UK economy, on Tuesday 21 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngx9yb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501034000 +0000" stop="20260501060000 +0000">
+		<title>Select Committees - Environment, Food and Rural Affairs Committee on the Food Supply</title>
+		<desc>Environment, Food and Rural Affairs committee session on fairness in the food supply chain</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfs2r.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260501060000 +0000" stop="20260501090000 +0000">
 		<title>Westminster Hall - 27/04/2026</title>
