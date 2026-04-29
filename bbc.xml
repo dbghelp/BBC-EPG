@@ -3681,15 +3681,10 @@
 		<desc>The Go Jetters face their trickiest mission yet: organising a surprise party for Ubercorn.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08z23lc.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20260430065000 +0000" stop="20260430065800 +0000">
+	<programme channel="cbeebies" start="20260430065000 +0000" stop="20260430070000 +0000">
 		<title>Peter Rabbit - Series 2: 48. The Tale of the Sleepy Hedgehog</title>
 		<desc>Peter takes a sleepy Mrs Tiggy-Winkle home for her winter hibernation.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p037rhdq.jpg" />
-	</programme>
-	<programme channel="cbeebies" start="20260430065800 +0000" stop="20260430070000 +0000">
-		<title>My Petsaurus - Series 4: 11. Café</title>
-		<desc>Topsy isn’t happy about being the only one who has to wait outside the local café.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09ft3fp.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260430070000 +0000" stop="20260430071500 +0000">
 		<title>Octonauts - Series 1: 19. The Snapping Shrimp</title>
@@ -3706,10 +3701,15 @@
 		<desc>Z has left the others in charge while he has a nap, but before long disaster strikes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p078lkt3.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20260430072500 +0000" stop="20260430073500 +0000">
+	<programme channel="cbeebies" start="20260430072500 +0000" stop="20260430073300 +0000">
 		<title>Nick Cope's Popcast - Series 2: 19. The Blackbird and the Bluebird</title>
 		<desc>Nick hears birds singing and a strange sound - a broken clock. Can he find the key?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bw245x.jpg" />
+	</programme>
+	<programme channel="cbeebies" start="20260430073300 +0000" stop="20260430073500 +0000">
+		<title>My Petsaurus - Series 4: 11. Café</title>
+		<desc>Topsy isn’t happy about being the only one who has to wait outside the local café.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09ft3fp.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260430073500 +0000" stop="20260430080000 +0000">
 		<title>Playtime Towers - Series 1: 3. Gloves</title>
