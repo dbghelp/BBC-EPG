@@ -5596,9 +5596,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260430180000 +0000" stop="20260430190000 +0000">
-		<title>Question Time - 2026: 30/04/2026</title>
-		<desc>Fiona Bruce presents an hour of topical debate.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
+		<title>BBC News - 30/04/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260430190000 +0000" stop="20260430193000 +0000">
 		<title>The Context USA - 30/04/2026</title>
@@ -5610,15 +5610,10 @@
 		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260430200000 +0000" stop="20260430203000 +0000">
-		<title>The Context - 30/04/2026</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260430203000 +0000" stop="20260430210000 +0000">
-		<title>The Context - 30/04/2026</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
+	<programme channel="bbcnews" start="20260430200000 +0000" stop="20260430210000 +0000">
+		<title>Question Time - 2026: 30/04/2026</title>
+		<desc>Fiona Bruce presents an hour of topical debate.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260430210000 +0000" stop="20260430213000 +0000">
 		<title>BBC News at Ten - 30/04/2026</title>
@@ -6735,45 +6730,140 @@
 		<desc>Environment, Food and Rural Affairs committee session on fairness in the food supply chain</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfs2r.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260501060000 +0000" stop="20260501090000 +0000">
+	<programme channel="bbcparliament" start="20260501060000 +0000" stop="20260501081500 +0000">
 		<title>Westminster Hall - 27/04/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Monday 27 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260501090000 +0000" stop="20260501170000 +0000">
-		<title>House of Lords - 01/05/2026</title>
-		<desc>Coverage of proceedings in the House of Lords on Friday 1 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20260501081500 +0000" stop="20260501083000 +0000">
+		<title>House of Lords - Strait of Hormuz Private Notice Question</title>
+		<desc>A question on UK assistance with mine clearance operations in the Strait of Hormuz.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd7hbl.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260501170000 +0000" stop="20260501200000 +0000">
-		<title>Select Committees - 01/05/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	<programme channel="bbcparliament" start="20260501083000 +0000" stop="20260501091500 +0000">
+		<title>Lords Questions - 27/04/2026</title>
+		<desc>Questions in the House of Lords to government ministers on Monday 27 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh3p38.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260501200000 +0000" stop="20260501204500 +0000">
-		<title>Northern Ireland Assembly - Executive Office Questions</title>
-		<desc>Questions in the Northern Ireland Assembly to first minister Michelle O'Neill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngxjbv.jpg" />
+	<programme channel="bbcparliament" start="20260501091500 +0000" stop="20260501100000 +0000">
+		<title>Lords Questions - 28/04/2026</title>
+		<desc>Questions in the House of Lords to government ministers on Tuesday 28 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhgkm1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260501204500 +0000" stop="20260502000000 +0000">
-		<title>Northern Ireland Assembly - 01/05/2026</title>
-		<desc>Highlights from the Northern Ireland Assembly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20260501100000 +0000" stop="20260501104500 +0000">
+		<title>House of Lords - Antisemitic Attacks Statement</title>
+		<desc>Statement by Lord Hanson of Flint on the recent antisemitic attacks, on Monday 27 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh21t5.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260502000000 +0000" stop="20260502010000 +0000">
+	<programme channel="bbcparliament" start="20260501104500 +0000" stop="20260501110000 +0000">
+		<title>House of Lords - Fuel Private Notice Question</title>
+		<desc>The private notice question on plans to activate the National Emergency Plan for Fuel.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhbyjb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501110000 +0000" stop="20260501114000 +0000">
+		<title>House of Lords - Middle East and Economic Update Statement</title>
+		<desc>Statement by Lord Livermore on the economic impact of the situation in the Middle East.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh9byt.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501114000 +0000" stop="20260501121000 +0000">
+		<title>House of Lords - Pension Schemes Statement</title>
+		<desc>Coverage of the statement on the status of current pension schemes, on Tuesday 28 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhbgwg.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501121000 +0000" stop="20260501125000 +0000">
+		<title>House of Lords - Research Institution Protocol Statement</title>
+		<desc>Coverage of the statement by Lord Vallance of Balham on the research institution protocol.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh9g7w.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501125000 +0000" stop="20260501133500 +0000">
+		<title>House of Lords - Prorogation Ceremony</title>
+		<desc>Prorogation ceremony in the House of Lords, marking the end of this parliamentary session.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhblfx.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501133500 +0000" stop="20260501144500 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 27 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngxlk9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260502010000 +0000" stop="20260502014500 +0000">
+	<programme channel="bbcparliament" start="20260501144500 +0000" stop="20260501155000 +0000">
+		<title>House of Commons - Treasury Questions</title>
+		<desc>Coverage of questions to Rachel Reeves on Tuesday 28 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh2wgl.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501155000 +0000" stop="20260501162000 +0000">
+		<title>House of Commons - Women and Equalities Questions</title>
+		<desc>Coverage of questions to Bridget Phillipson on Wednesday 29 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh99c2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501162000 +0000" stop="20260501170000 +0000">
+		<title>Prime Minister's Questions - 29/04/2026</title>
+		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 29 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7zgq.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501170000 +0000" stop="20260501194500 +0000">
+		<title>Select Committees - Environment Committee on the Water Sector</title>
+		<desc>Environment, Food &amp; Rural Affairs select committee session on reform of the water sector.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nd9mg4.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501194500 +0000" stop="20260501203000 +0000">
+		<title>Northern Ireland Assembly - Education Questions</title>
+		<desc>Questions in Stormont to the education minister, Paul Givan, on Monday 27 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501203000 +0000" stop="20260501212000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to first minister Michelle O'Neill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngxjbv.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260502014500 +0000" stop="20260502050000 +0000">
-		<title>Northern Ireland Assembly - 01/05/2026</title>
-		<desc>Highlights from the Northern Ireland Assembly.</desc>
+	<programme channel="bbcparliament" start="20260501212000 +0000" stop="20260501215500 +0000">
+		<title>Northern Ireland Assembly - Dunmurry Car Bomb Urgent Question</title>
+		<desc>The urgent question in Stormont on the Dunmurry car bomb attack at a police station.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501215500 +0000" stop="20260501224000 +0000">
+		<title>Northern Ireland Assembly - Finance Questions</title>
+		<desc>Questions in the Northern Ireland Assembly to the finance minister, John O'Dowd, 28 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhgj36.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501224000 +0000" stop="20260501232500 +0000">
+		<title>Northern Ireland Assembly - Petroleum Exploration Bill</title>
+		<desc>Debate in Stormont on the Petroleum Exploration and Licensing (Repeal) Bill, on 27 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260501232500 +0000" stop="20260502002500 +0000">
+		<title>Northern Ireland Assembly - Climate Change Regulations</title>
+		<desc>Debate on the Climate Change (Just Transition Commission) Regulations (Northern Ireland).</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260502002500 +0000" stop="20260502003500 +0000">
+		<title>Northern Ireland Assembly - Criminal Justice (Sentencing Etc) Bill</title>
+		<desc>Debate in Stormont on the Criminal Justice (Sentencing etc) Bill, on Monday 27 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260502003500 +0000" stop="20260502014500 +0000">
+		<title>Northern Ireland Assembly - Bovine Tuberculosis</title>
+		<desc>Debate in Stormont on a motion on bovine tuberculosis, on Monday 27 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260502014500 +0000" stop="20260502025500 +0000">
+		<title>Northern Ireland Assembly - Sign Language Bill</title>
+		<desc>Debate on the final stage of the Sign Language Bill, from Tuesday 28 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260502025500 +0000" stop="20260502042500 +0000">
+		<title>Northern Ireland Assembly - Access to NHS Dentists</title>
+		<desc>Debate on tackling barriers to accessing an NHS dentist, from Tuesday 28 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260502042500 +0000" stop="20260502043000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260502043000 +0000" stop="20260502050000 +0000">
+		<title>House of Commons - Women and Equalities Questions</title>
+		<desc>Coverage of questions to Bridget Phillipson on Wednesday 29 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh99c2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260502050000 +0000" stop="20260502100000 +0000">
 		<title>Westminster Hall - 28/04/2026</title>
