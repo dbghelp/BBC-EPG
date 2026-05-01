@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20260501083000 +0000" stop="20260501094500 +0000">
 		<title>Morning Live - Series 8: 01/05/2026</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhggnm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhsdfg.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260501094500 +0000" stop="20260501103000 +0000">
 		<title>Rip Off Britain - Series 18: 5. Holidays: Our flight took off while the board still said ‘Please Wait’</title>
@@ -397,7 +397,7 @@
 	<programme channel="bbcone" start="20260503161500 +0000" stop="20260503171500 +0000">
 		<title>Countryfile - The Chalk of the Chilterns</title>
 		<desc>Matt Baker and Vick Hope explore the chalk landscapes of the Chilterns.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrrhhq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhsh59.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260503171500 +0000" stop="20260503181500 +0000">
 		<title>Secret Garden - Series 1: 5. The Western Highlands</title>
@@ -766,20 +766,15 @@
 		<desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260501090000 +0000" stop="20260501115000 +0000">
+	<programme channel="bbctwo" start="20260501090000 +0000" stop="20260501123500 +0000">
 		<title>Snooker: World Championship - 2026: Day 14, Morning Session</title>
 		<desc>Coverage of day 14 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhlnnm.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260501115000 +0000" stop="20260501120000 +0000">
+	<programme channel="bbctwo" start="20260501123500 +0000" stop="20260501124500 +0000">
 		<title>Lifeline - Action for ME</title>
 		<desc>Montell Douglas presents an appeal on behalf of Action for ME.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfvcb.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260501120000 +0000" stop="20260501124500 +0000">
-		<title>Natural World - 2010-2011: 4. The Himalayas</title>
-		<desc>Documentary looking at the variety of wild animals inhabiting the Himalayas.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08qsbsn.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260501124500 +0000" stop="20260501131500 +0000">
 		<title>Lightning - Series 1: Episode 15</title>
@@ -5667,7 +5662,7 @@
 	<programme channel="bbcnews" start="20260502003000 +0000" stop="20260502010000 +0000">
 		<title>Tech Now - 02/05/2026</title>
 		<desc>Harriet Bradshaw finds out how AI is being used to help solve an art history mystery. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nht181.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260502010000 +0000" stop="20260502013000 +0000">
 		<title>BBC News - 02/05/2026</title>
@@ -5765,8 +5760,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260502133000 +0000" stop="20260502140000 +0000">
-		<title>AI Decoded - 02/05/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - The AI Too Dangerous to Release</title>
+		<desc>AI Decoded talks with Scott Galloway on the controversy over Anthropic's Claude Mythos AI.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260502140000 +0000" stop="20260502143000 +0000">
@@ -5822,7 +5817,7 @@
 	<programme channel="bbcnews" start="20260502183000 +0000" stop="20260502190000 +0000">
 		<title>Tech Now - 02/05/2026</title>
 		<desc>Harriet Bradshaw finds out how AI is being used to help solve an art history mystery. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nht181.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260502190000 +0000" stop="20260502193000 +0000">
 		<title>BBC News - 02/05/2026</title>
@@ -5890,8 +5885,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260503023000 +0000" stop="20260503030000 +0000">
-		<title>AI Decoded - 02/05/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - The AI Too Dangerous to Release</title>
+		<desc>AI Decoded talks with Scott Galloway on the controversy over Anthropic's Claude Mythos AI.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260503030000 +0000" stop="20260503033000 +0000">
@@ -5960,8 +5955,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260503123000 +0000" stop="20260503130000 +0000">
-		<title>AI Decoded - 02/05/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - The AI Too Dangerous to Release</title>
+		<desc>AI Decoded talks with Scott Galloway on the controversy over Anthropic's Claude Mythos AI.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260503130000 +0000" stop="20260503133000 +0000">
@@ -5972,7 +5967,7 @@
 	<programme channel="bbcnews" start="20260503133000 +0000" stop="20260503140000 +0000">
 		<title>Tech Now - 02/05/2026</title>
 		<desc>Harriet Bradshaw finds out how AI is being used to help solve an art history mystery. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nht181.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260503140000 +0000" stop="20260503143000 +0000">
 		<title>BBC News - 03/05/2026</title>
@@ -6020,8 +6015,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260503183000 +0000" stop="20260503190000 +0000">
-		<title>AI Decoded - 02/05/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - The AI Too Dangerous to Release</title>
+		<desc>AI Decoded talks with Scott Galloway on the controversy over Anthropic's Claude Mythos AI.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260503190000 +0000" stop="20260503193000 +0000">
@@ -6050,8 +6045,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260503223000 +0000" stop="20260503230000 +0000">
-		<title>AI Decoded - 02/05/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - The AI Too Dangerous to Release</title>
+		<desc>AI Decoded talks with Scott Galloway on the controversy over Anthropic's Claude Mythos AI.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260503230000 +0000" stop="20260503233000 +0000">
@@ -6325,8 +6320,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260504233000 +0000" stop="20260505000000 +0000">
-		<title>AI Decoded - 02/05/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - The AI Too Dangerous to Release</title>
+		<desc>AI Decoded talks with Scott Galloway on the controversy over Anthropic's Claude Mythos AI.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260505000000 +0000" stop="20260505003000 +0000">
@@ -6439,10 +6434,15 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260505110000 +0000" stop="20260505120000 +0000">
+	<programme channel="bbcnews" start="20260505110000 +0000" stop="20260505111500 +0000">
 		<title>BBC News - 05/05/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260505111500 +0000" stop="20260505120000 +0000">
+		<title>Politics Live - 05/05/2026</title>
+		<desc>The big political issues of the day.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260505120000 +0000" stop="20260505130000 +0000">
 		<title>BBC News at One - 05/05/2026</title>
@@ -6547,7 +6547,7 @@
 	<programme channel="bbcnews" start="20260506003000 +0000" stop="20260506010000 +0000">
 		<title>Tech Now - 02/05/2026</title>
 		<desc>Harriet Bradshaw finds out how AI is being used to help solve an art history mystery. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nht181.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260506010000 +0000" stop="20260506013000 +0000">
 		<title>Newsday - 06/05/2026</title>
@@ -7693,7 +7693,7 @@
 	<programme channel="s4c" start="20260501070500 +0000" stop="20260501071500 +0000">
 		<title>Sam Tân - Cyfres 10: Pwy Adawodd y Gath Mas?!</title>
 		<desc>Pan mae Sam yn achub cath o ddraen, rhoddir y dasg i Hanna, Mandy, a Norman o ofalu amd...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nht7yz.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260501071500 +0000" stop="20260501073000 +0000">
 		<title>Jambori - Cyfres 2: Pennod 11</title>
@@ -8128,7 +8128,7 @@
 	<programme channel="s4c" start="20260503054500 +0000" stop="20260503055500 +0000">
 		<title>Sam Tân - Cyfres 10: Y Deuawd Dirgel!</title>
 		<desc>Mae Norman a Hanna yn ymchwilio i ddigwyddiadau lleol dirgel. Norman and Hanna investig...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nht7yz.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260503055500 +0000" stop="20260503060500 +0000">
 		<title>Blwi - Chwarae Ceffylau</title>
@@ -8243,7 +8243,7 @@
 	<programme channel="s4c" start="20260503190000 +0000" stop="20260503200000 +0000">
 		<title>Am Dro! - Cyfres 10: Pennod 1</title>
 		<desc>Jaime, Rhydian, Bethan a Richard sy'n mynd â ni 'Am Dro' y tro hwn. Jaime, Rhydian, Bet...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k70jr7.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhslwv.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260503200000 +0000" stop="20260503203000 +0000">
 		<title>Anfamol - Cyfres 2: Pennod 5</title>
@@ -8323,7 +8323,7 @@
 	<programme channel="s4c" start="20260504071000 +0000" stop="20260504072000 +0000">
 		<title>Sam Tân - Cyfres 10: O Mam Fach!!!</title>
 		<desc>Mae Dilys ar ras yn ceisio cael Norman i'r Ganolfan Weithgareddau Mynydd er mwyn hedfan...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02d6bh0.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nht7yz.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260504072000 +0000" stop="20260504073000 +0000">
 		<title>Jambori - Cyfres 2: Pennod 12</title>
@@ -8596,8 +8596,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngt7v4.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260505061000 +0000" stop="20260505061500 +0000">
-		<title>Howie - Howie Shorts</title>
-		<desc>Description Coming Soon...</desc>
+		<title>Howie - Afalau Arbennig?</title>
+		<desc>Mae'n amser casglu afalau o'r goeden ond all yr hipopotamws barus osgoi llowcio'r cyfan...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhrkmz.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260505061500 +0000" stop="20260505062500 +0000">
@@ -8732,7 +8732,7 @@
 	</programme>
 	<programme channel="s4c" start="20260505122500 +0000" stop="20260505130000 +0000">
 		<title>Ffermio - Mon, 04 May 2026</title>
-		<desc>Description Coming Soon...</desc>
+		<desc>Diwrnod gwaith maes CFFI Cymru, Sioe Siop Fferm a Deli, a bachgen sy'n hoff o'i dractor...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9m08j.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260505130000 +0000" stop="20260505130500 +0000">
@@ -8753,7 +8753,7 @@
 	<programme channel="s4c" start="20260505140500 +0000" stop="20260505150000 +0000">
 		<title>Am Dro! - Cyfres 10: Pennod 1</title>
 		<desc>Jaime, Rhydian, Bethan a Richard sy'n mynd â ni 'Am Dro' y tro hwn. Jaime, Rhydian, Bet...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k70jr7.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhslwv.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260505150000 +0000" stop="20260505150500 +0000">
 		<title>Howie - Hufen iâ - Waa!</title>
@@ -8801,9 +8801,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0glv8jj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260505172500 +0000" stop="20260505173000 +0000">
-		<title>Darllediad Etholiadol gan Llafur Cymru</title>
-		<desc>Description Coming Soon...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02bnq7y.jpg" />
+		<title>Darllediad Etholiadol Llafur Cymru</title>
+		<desc>Darllediad etholiadol gan Llafur Cymru. Political broadcast by Welsh Labour.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhslg3.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260505173000 +0000" stop="20260505180000 +0000">
 		<title>Cartrefi Cymru - Cyfres 3: Cartrefi Cymru - Blaenau Ffestiniog</title>
