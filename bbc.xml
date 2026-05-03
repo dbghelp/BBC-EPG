@@ -89,15 +89,15 @@
 		<desc>Viewers have their say on the BBC’s television shows. Email your thoughts to pov@bbc.co.uk</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhrb4s.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260503120000 +0000" stop="20260503150000 +0000">
+	<programme channel="bbcone" start="20260503120000 +0000" stop="20260503154500 +0000">
 		<title>Snooker: World Championship - 2026: Day 16, Afternoon Session</title>
 		<desc>Coverage of day 16 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nj2268.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260503150000 +0000" stop="20260503160000 +0000">
-		<title>Secret Garden - Series 1: 4. The Wye Valley</title>
-		<desc>David Attenborough reveals how owls, badgers and dormice survive in a Welsh garden.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9qvh0.jpg" />
+	<programme channel="bbcone" start="20260503154500 +0000" stop="20260503160000 +0000">
+		<title>Planet Earth Live - Specials: 2. A Lion's Tale</title>
+		<desc>The story of Moja, a five-month-old lion cub living with his single lioness mum.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f29wqc.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260503160000 +0000" stop="20260503160500 +0000">
 		<title>BBC Weekend News - Evening News: 03/05/2026</title>
@@ -5074,12 +5074,12 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfw934.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260503120000 +0000" stop="20260503150000 +0000">
+	<programme channel="bbcscotland" start="20260503120000 +0000" stop="20260503154500 +0000">
 		<title>Snooker: World Championship - 2026: Day 16, Afternoon Session</title>
 		<desc>Coverage of day 16 of the World Snooker Championship at the Crucible Theatre, Sheffield.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nj2268.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260503150000 +0000" stop="20260503180000 +0000">
+	<programme channel="bbcscotland" start="20260503154500 +0000" stop="20260503180000 +0000">
 		<title>This is BBC Scotland - This is BBC Scotland</title>
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfw934.jpg" />
@@ -5510,8 +5510,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260503193000 +0000" stop="20260503200000 +0000">
-		<title>Newscast - 03/05/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Electioncast: The Mega May Run In</title>
+		<desc>A look ahead to a massive week in British politics.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260503200000 +0000" stop="20260503210000 +0000">
@@ -6562,7 +6562,7 @@
 	<programme channel="bbcparliament" start="20260504034500 +0000" stop="20260504050000 +0000">
 		<title>Northern Ireland Assembly - Sign Language Bill</title>
 		<desc>Debate on the final stage of the Sign Language Bill, from Tuesday 28 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nj4kpd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260504050000 +0000" stop="20260504064000 +0000">
 		<title>Select Committees - Foreign Affairs Committee with Sir Philip Barton</title>
@@ -6597,7 +6597,7 @@
 	<programme channel="bbcparliament" start="20260504145000 +0000" stop="20260504172000 +0000">
 		<title>Select Committees - Transport Committee on Electric Vehicles</title>
 		<desc>Coverage of the Transport select committee session on the transition to electric vehicles.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nj47fv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260504172000 +0000" stop="20260504193500 +0000">
 		<title>Select Committees - Home Affairs Committee on Violence Against Women and Girls</title>
@@ -6672,7 +6672,7 @@
 	<programme channel="bbcparliament" start="20260505183000 +0000" stop="20260505210000 +0000">
 		<title>Select Committees - Transport Committee on Electric Vehicles</title>
 		<desc>Coverage of the Transport select committee session on the transition to electric vehicles.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nj47fv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260505210000 +0000" stop="20260505214500 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
