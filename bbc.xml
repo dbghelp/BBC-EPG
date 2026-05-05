@@ -5529,10 +5529,20 @@
 		<desc>The big political issues of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260505120000 +0000" stop="20260505130000 +0000">
-		<title>BBC News at One - 05/05/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	<programme channel="bbcnews" start="20260505120000 +0000" stop="20260505123000 +0000">
+		<title>BBC News Now - 05/05/2026</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260505123000 +0000" stop="20260505125500 +0000">
+		<title>BBC News Now - 05/05/2026</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260505125500 +0000" stop="20260505130000 +0000">
+		<title>A Taste of the City - A Taste of Malaga</title>
+		<desc>Food lover Kate Hardie-Buckley travels to Malaga.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bgl0yt.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260505130000 +0000" stop="20260505140000 +0000">
 		<title>BBC News - 05/05/2026</title>
@@ -5630,7 +5640,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260506003000 +0000" stop="20260506010000 +0000">
-		<title>Tech Now - 02/05/2026</title>
+		<title>Tech Now - Art Mystery: Can AI Solve It?</title>
 		<desc>Harriet Bradshaw finds out how AI is being used to help solve an art history mystery. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nht181.jpg" />
 	</programme>
