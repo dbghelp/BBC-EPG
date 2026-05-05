@@ -290,22 +290,22 @@
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260506214000 +0000" stop="20260506224000 +0000">
+	<programme channel="bbcone" start="20260506214000 +0000" stop="20260506223000 +0000">
 		<title>UEFA Champions League - 2025/26: Match of the Day: Semi-Finals, Second Legs</title>
 		<desc>Highlights of the second-leg matches in the semi-finals of the UEFA Champions League.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhv1f7.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260506224000 +0000" stop="20260506232500 +0000">
+	<programme channel="bbcone" start="20260506223000 +0000" stop="20260506231500 +0000">
 		<title>Bridge of Lies - Celebrity Specials, Series 4: Episode 3</title>
 		<desc>Phil Wang, Anna Williamson, Miles Jupp and Jamie-Lee O’Donnell face the Bridge of Lies.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh0pmm.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260506232500 +0000" stop="20260506233000 +0000">
+	<programme channel="bbcone" start="20260506231500 +0000" stop="20260506232000 +0000">
 		<title>Weather for the Week Ahead - 07/05/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260506233000 +0000" stop="20260507050000 +0000">
+	<programme channel="bbcone" start="20260506232000 +0000" stop="20260507050000 +0000">
 		<title>Joins BBC News - 07/05/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -590,12 +590,12 @@
 	<programme channel="bbcone" start="20260509164000 +0000" stop="20260509172500 +0000">
 		<title>Bridge of Lies - Celebrity Specials, Series 4: Episode 4</title>
 		<desc>Charlie Brooks, Dr Amir Khan, Sara Damergi and Tim Vine face the Bridge of Lies.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nc59pg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njdgn6.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260509172500 +0000" stop="20260509180000 +0000">
 		<title>Blankety Blank - Series 5: Episode 5</title>
 		<desc>The celebrities joining Bradley include Julian Clary, Sophie Willan and Harry Pinero.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nc4vbw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njdk5l.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260509180000 +0000" stop="20260509190000 +0000">
 		<title>Michael McIntyre's Big Show - Series 7: Episode 3</title>
@@ -610,7 +610,7 @@
 	<programme channel="bbcone" start="20260509194500 +0000" stop="20260509203000 +0000">
 		<title>Casualty - Lethal Legacy: Episode 3</title>
 		<desc>Matty risks his career for Stevie.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfn2wb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njdmj9.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260509203000 +0000" stop="20260509210000 +0000">
 		<title>Not Going Out - Series 14: 6. Hotel Room</title>
@@ -787,7 +787,12 @@
 		<desc>Sarah’s gone viral, and rumours about a famous footballer put everyone under pressure.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nb89t0.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260506024000 +0000" stop="20260506054500 +0000">
+	<programme channel="bbctwo" start="20260506024000 +0000" stop="20260506034000 +0000">
+		<title>Inside Barlinnie - Series 2: Episode 2</title>
+		<desc>Billy's new start is on a knife edge, and Alan is tempted back to his old ways.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9y7dh.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260506034000 +0000" stop="20260506054500 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -5200,8 +5205,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4rpph.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260505183000 +0000" stop="20260505210000 +0000">
-		<title>Sportscene - 2025/26: Premiership Play-Off Quarter-Final</title>
-		<desc>Live coverage from the Scottish Premiership quarter-final play-offs.</desc>
+		<title>Sportscene - 2025/26: Premiership Play-Off Quarter-Final: Dunfermline v Arbroath, First Leg</title>
+		<desc>Live coverage of Dunfermline v Arbroath in the Premiership play-off quarter-finals.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nj12t8.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260505210000 +0000" stop="20260505213000 +0000">
@@ -5362,17 +5367,17 @@
 	<programme channel="bbcscotland" start="20260508083000 +0000" stop="20260508110000 +0000">
 		<title>Election 2026 Scotland - Part 1</title>
 		<desc>Reaction and analysis as the final results come in.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngwdjk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njdw6m.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260508110000 +0000" stop="20260508140000 +0000">
 		<title>Election 2026 Scotland - Part 2</title>
 		<desc>Reaction and analysis as the final results come in.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngwdjk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njdw6m.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260508140000 +0000" stop="20260508170000 +0000">
 		<title>Election 2026 Scotland - Part 3</title>
 		<desc>Reaction and analysis as the final results come in.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngwdjk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njdw6m.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260508170000 +0000" stop="20260508173000 +0000">
 		<title>This is BBC Scotland - This is BBC Scotland</title>
@@ -5385,8 +5390,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7x7zd.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260508181500 +0000" stop="20260508204500 +0000">
-		<title>Sportscene - 2025/26: Premiership Play-Off Quarter-Final</title>
-		<desc>Live coverage from the Scottish Premiership quarter-final play-offs.</desc>
+		<title>Sportscene - 2025/26: Premiership Play-Off Quarter-Final: Arbroath v Dunfermline, Second Leg</title>
+		<desc>Live coverage of Arbroath v Dunfermline in the Premiership play-off quarter-finals.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nj1nk8.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260508204500 +0000" stop="20260508210000 +0000">
@@ -5665,8 +5670,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260506024500 +0000" stop="20260506030000 +0000">
-		<title>Asia Specific - 06/05/2026</title>
-		<desc>Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+		<title>Asia Specific - Can China Unwind a Two-Billion-Dollar Tech Deal?</title>
+		<desc>China's government is demanding that Meta's acquisition of AI company Manus be reversed.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n24m0y.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260506030000 +0000" stop="20260506033000 +0000">
@@ -5680,8 +5685,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260506034500 +0000" stop="20260506040000 +0000">
-		<title>Asia Specific - 06/05/2026</title>
-		<desc>Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+		<title>Asia Specific - Can China Unwind a Two-Billion-Dollar Tech Deal?</title>
+		<desc>China's government is demanding that Meta's acquisition of AI company Manus be reversed.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n24m0y.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260506040000 +0000" stop="20260506043000 +0000">
@@ -6447,7 +6452,7 @@
 	<programme channel="bbcparliament" start="20260505050000 +0000" stop="20260505071500 +0000">
 		<title>Westminster Hall - 27/04/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Monday 27 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njfr6q.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260505071500 +0000" stop="20260505093000 +0000">
 		<title>Select Committees - Environment, Food and Rural Affairs Committee on the Food Supply</title>
@@ -6497,7 +6502,7 @@
 	<programme channel="bbcparliament" start="20260506050000 +0000" stop="20260506091000 +0000">
 		<title>Westminster Hall - 28/04/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Tuesday 28 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njftrw.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260506091000 +0000" stop="20260506110000 +0000">
 		<title>Select Committees - 06/05/2026</title>
@@ -6602,7 +6607,7 @@
 	<programme channel="bbcparliament" start="20260509050000 +0000" stop="20260509100000 +0000">
 		<title>Westminster Hall - 28/04/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Tuesday 28 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njftrw.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260509100000 +0000" stop="20260509103500 +0000">
 		<title>Prime Minister's Questions - 29/04/2026</title>
