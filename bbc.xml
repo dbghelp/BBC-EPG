@@ -564,7 +564,7 @@
 	<programme channel="bbcone" start="20260509130000 +0000" stop="20260509153000 +0000">
 		<title>Rugby League: Challenge Cup - 2026: Semi-Final: St Helens v Wigan Warriors</title>
 		<desc>St Helens take on 21-time winners Wigan in the first of the Challenge Cup semi-finals.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kg9t1b.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njhlzp.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260509153000 +0000" stop="20260509162500 +0000">
 		<title>Final Score - 2025/26: 09/05/2026</title>
@@ -6344,14 +6344,9 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260509173000 +0000" stop="20260509174500 +0000">
-		<title>The Iran War - Today: 09/05/2026</title>
-		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260509174500 +0000" stop="20260509180000 +0000">
+	<programme channel="bbcnews" start="20260509173000 +0000" stop="20260509180000 +0000">
 		<title>BBC News - 09/05/2026</title>
-		<desc>The latest news from the BBC.</desc>
+		<desc>The latest news from the BBC, including a round-up of the day's sporting action.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260509180000 +0000" stop="20260509183000 +0000">
@@ -6494,52 +6489,62 @@
 		<desc>Coverage of questions in Stormont to the health minister, Mike Nesbitt, on Tuesday 5 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njg332.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260505214500 +0000" stop="20260505220500 +0000">
+	<programme channel="bbcparliament" start="20260505214500 +0000" stop="20260505221000 +0000">
 		<title>Northern Ireland Assembly - Springhill Inquest Debate</title>
 		<desc>The debate on the outcome of the Springhill inquest into army shootings in 1972, on 5 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260505220500 +0000" stop="20260505224000 +0000">
+	<programme channel="bbcparliament" start="20260505221000 +0000" stop="20260505224500 +0000">
 		<title>Northern Ireland Assembly - Members' Statements</title>
 		<desc>Coverage of the members' statements in the Northern Ireland Assembly, on Tuesday 5 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260505224000 +0000" stop="20260505234000 +0000">
+	<programme channel="bbcparliament" start="20260505224500 +0000" stop="20260505234500 +0000">
 		<title>Northern Ireland Assembly - Katie Simpson Review Statement</title>
 		<desc>Statement by justice minister Naomi Long on the Katie Simpson review, on Tuesday 5 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260505234000 +0000" stop="20260506001500 +0000">
+	<programme channel="bbcparliament" start="20260505234500 +0000" stop="20260506013500 +0000">
 		<title>Northern Ireland Assembly - Northern Ireland Fiscal Council Bill</title>
 		<desc>The debate in the Northern Ireland Assembly on the Northern Ireland Fiscal Council Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260506001500 +0000" stop="20260506010000 +0000">
+	<programme channel="bbcparliament" start="20260506013500 +0000" stop="20260506014500 +0000">
 		<title>Northern Ireland Assembly - Courts and Tribunals Order</title>
 		<desc>The debate on a motion relating to live links for courts and tribunals, on Tuesday 5 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260506010000 +0000" stop="20260506020000 +0000">
+	<programme channel="bbcparliament" start="20260506014500 +0000" stop="20260506020000 +0000">
 		<title>Northern Ireland Assembly - Farmer Payments</title>
 		<desc>The debate on the timetabling of the Areas with Natural Constraints (Payments) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260506020000 +0000" stop="20260506040000 +0000">
+	<programme channel="bbcparliament" start="20260506020000 +0000" stop="20260506033000 +0000">
 		<title>Northern Ireland Assembly - Voluntary Sector Funding Debate</title>
 		<desc>Coverage of the debate on voluntary and community sector funding, on Tuesday 5 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260506033000 +0000" stop="20260506045500 +0000">
+		<title>Northern Ireland Assembly - Victims of Coercive Control Debate</title>
+		<desc>Coverage of the debate on protecting victims of coercive control, on Tuesday 5 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260506045500 +0000" stop="20260506050000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260506050000 +0000" stop="20260506091000 +0000">
 		<title>Westminster Hall - 28/04/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Tuesday 28 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njftrw.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260506091000 +0000" stop="20260506110000 +0000">
-		<title>Select Committees - 06/05/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20260506091000 +0000" stop="20260506111500 +0000">
+		<title>Select Committees - Northern Powerhouse Rail Committee</title>
+		<desc>The Public Accounts committee session on Northern Powerhouse Rail, on Monday 27 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260506110000 +0000" stop="20260506170000 +0000">
+	<programme channel="bbcparliament" start="20260506111500 +0000" stop="20260506170000 +0000">
 		<title>Select Committees - 06/05/2026</title>
 		<desc>Recorded coverage of select committee proceedings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
