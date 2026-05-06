@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20260506083000 +0000" stop="20260506094500 +0000">
 		<title>Morning Live - Series 8: 06/05/2026</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhggnm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njmjp2.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260506094500 +0000" stop="20260506103000 +0000">
 		<title>Rip Off Britain - Series 18: 8. Scams: ‘Ghost’ MOTs for sale!</title>
@@ -123,7 +123,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260506180000 +0000" stop="20260506183000 +0000">
 		<title>The One Show - 06/05/2026</title>
-		<desc>Alex Jones and JB Gill bring you the stories that matter from across the country.</desc>
+		<desc>Comedian Greg Davies and actor Daniel Mays join Alex Jones and JB Gill on the sofa. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260506183000 +0000" stop="20260506190000 +0000">
@@ -764,7 +764,7 @@
 	<programme channel="bbctwo" start="20260506220000 +0000" stop="20260506223000 +0000">
 		<title>Unspun World with John Simpson - Series 6: 06/05/2026</title>
 		<desc>John Simpson analyses the Iranian position in their confrontation with the United States.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njmnbr.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260506223000 +0000" stop="20260506231000 +0000">
 		<title>This Is a Bomb: The Nevada Casino Heist - Series 1: 1. The Bomb</title>
@@ -1039,7 +1039,7 @@
 	<programme channel="bbctwo" start="20260508200000 +0000" stop="20260508203000 +0000">
 		<title>Have I Got News for You - Series 71: Episode 6</title>
 		<desc>Steph McGovern hosts, with Jon Richardson and Sheila Hancock joining Ian and Paul.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8hrph.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njmdzm.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260508203000 +0000" stop="20260508213000 +0000">
 		<title>Saving Lives at Sea - Series 9: 9. Trapped by the Tide</title>
@@ -2229,7 +2229,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7ljzc.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260506153500 +0000" stop="20260506155000 +0000">
-		<title>Odd Squad - Series 6 - UK HQ: 23. Cake Day</title>
+		<title>Odd Squad - Series 6 - UK HQ: 23. Cake Day, Part 1</title>
 		<desc>Ozzie and Orli travel to the future with the hope of saving Odd Squad.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngtncg.jpg" />
 	</programme>
@@ -2471,7 +2471,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7lk51.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260507153500 +0000" stop="20260507155000 +0000">
-		<title>Odd Squad - Series 6 - UK HQ: 24. Cake Day 2</title>
+		<title>Odd Squad - Series 6 - UK HQ: 24. Cake Day, Part 2</title>
 		<desc>Ozzie and Orli must stop Techie Tallulah.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngtnfs.jpg" />
 	</programme>
@@ -5484,15 +5484,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260506110000 +0000" stop="20260506111500 +0000">
+	<programme channel="bbcnews" start="20260506110000 +0000" stop="20260506120000 +0000">
 		<title>BBC News - 06/05/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260506111500 +0000" stop="20260506120000 +0000">
-		<title>Politics Live - 06/05/2026</title>
-		<desc>The big political issues of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260506120000 +0000" stop="20260506130000 +0000">
 		<title>BBC News at One - 06/05/2026</title>
@@ -6152,7 +6147,7 @@
 	<programme channel="bbcnews" start="20260510013000 +0000" stop="20260510020000 +0000">
 		<title>Unspun World with John Simpson - Series 6: 06/05/2026</title>
 		<desc>John Simpson analyses the Iranian position in their confrontation with the United States.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bqh04f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njmnbr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260510020000 +0000" stop="20260510023000 +0000">
 		<title>BBC News - 10/05/2026</title>
@@ -6431,8 +6426,8 @@
 	</programme>
 	<programme channel="bbcparliament" start="20260506202500 +0000" stop="20260506230000 +0000">
 		<title>Select Committees - Transport Committee on Electric Vehicles</title>
-		<desc>Transport select committee session on the transition to electric vehicles on Wed 29 April.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<desc>Coverage of the Transport select committee session on the transition to electric vehicles.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nj47fv.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260506230000 +0000" stop="20260507010000 +0000">
 		<title>Select Committees - Foreign Affairs Committee on Disinformation</title>
@@ -6512,7 +6507,7 @@
 	<programme channel="bbcparliament" start="20260508111500 +0000" stop="20260508160000 +0000">
 		<title>Northern Ireland Assembly - 05/05/2026</title>
 		<desc>Coverage of proceedings in the Northern Ireland Assembly on Tuesday 5 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njlnn6.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260508160000 +0000" stop="20260508164000 +0000">
 		<title>Prime Minister's Questions - 29/04/2026</title>
@@ -8229,7 +8224,7 @@
 	<programme channel="s4c" start="20260510123000 +0000" stop="20260510141500 +0000">
 		<title>Clwb Rygbi - Tymor 2025/26: Clwb Rygbi: Dreigiau v Caeredin</title>
 		<desc>Cyfle i wylio'r gêm Pencampwriaeth Rygbi Unedig rhwng y Dreigiau a Caeredin, a chwaraew...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m32ykz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njlqdg.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260510141500 +0000" stop="20260510152000 +0000">
 		<title>Pobol y Cwm - Sun, 10 May 2026</title>
