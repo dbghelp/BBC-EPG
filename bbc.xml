@@ -500,9 +500,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lzslmf.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260509223000 +0000" stop="20260509224500 +0000">
-		<title>The Football Interview - Series 1: 09/05/2026</title>
-		<desc>Bold, in-depth conversations full of insight about the nation's favourite sport.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhgg9j.jpg" />
+		<title>The Football Interview - Series 1: Lucy Bronze</title>
+		<desc>Kelly Somers chats to England’s most decorated female footballer Lucy Bronze.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m0kwcl.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260509224500 +0000" stop="20260510003500 +0000">
 		<title>Road House</title>
@@ -6459,35 +6459,105 @@
 		<desc>The Foreign Affairs select committee on disinformation diplomacy, from Tuesday 14 April.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf1vhr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260507053000 +0000" stop="20260507110000 +0000">
-		<title>Select Committees - 07/05/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20260507053000 +0000" stop="20260507062500 +0000">
+		<title>Select Committees - Foreign Affairs Committee on Ukraine</title>
+		<desc>The Foreign Affairs committee session on the current situation in Ukraine, on 9 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1fk0y.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260507062500 +0000" stop="20260507075500 +0000">
+		<title>Select Committees - Foreign Affairs Committee on Venezuela</title>
+		<desc>The Foreign Affairs committee on the lessons from Venezuela, from Tuesday 3 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0jypg.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260507075500 +0000" stop="20260507102000 +0000">
+		<title>Select Committees - Foreign Affairs Committee on Disinformation Diplomacy</title>
+		<desc>The Foreign Affairs committee session on disinformation diplomacy, on Tuesday 13 January.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mw3lxh.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260507102000 +0000" stop="20260507122000 +0000">
+		<title>Select Committees - Foreign Affairs Committee on Disinformation</title>
+		<desc>The Foreign Affairs committee session on disinformation and the undermining of democracy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7wjg6.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260507122000 +0000" stop="20260507131500 +0000">
+		<title>Select Committees - Foreign Affairs Committee on Ukraine</title>
+		<desc>The Foreign Affairs committee session on the current situation in Ukraine, on 9 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1fk0y.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260507131500 +0000" stop="20260507143000 +0000">
+		<title>Select Committees - Lords International Relations Committee on the UK's Relationship with the US</title>
+		<desc>Lords International Relations and Defence committee on the UK's relationship with the US.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n88y9s.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260507143000 +0000" stop="20260507165000 +0000">
+		<title>Select Committees - Future of UK Aid Committee</title>
+		<desc>International Development committee on the future of UK aid and development assistance.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260507110000 +0000" stop="20260507170000 +0000">
-		<title>Select Committees - 07/05/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	<programme channel="bbcparliament" start="20260507165000 +0000" stop="20260507183500 +0000">
+		<title>Select Committees - International Development Committee on Post-Assad Syria</title>
+		<desc>Coverage of the International Development select committee session on post-Assad Syria.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n89z1v.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260507170000 +0000" stop="20260507210000 +0000">
-		<title>Select Committees - 07/05/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	<programme channel="bbcparliament" start="20260507183500 +0000" stop="20260507200500 +0000">
+		<title>Select Committees - Foreign Affairs Committee on Disinformation Diplomacy</title>
+		<desc>The Foreign Affairs select committee on disinformation diplomacy, from Tuesday 14 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf1vhr.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260507200500 +0000" stop="20260507210000 +0000">
+		<title>Select Committees - Foreign Affairs Committee on Ukraine</title>
+		<desc>The Foreign Affairs committee session on the current situation in Ukraine, on 9 February.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n1fk0y.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260507210000 +0000" stop="20260507214500 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Coverage of questions in Stormont to the health minister, Mike Nesbitt, on Tuesday 5 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njg332.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260507214500 +0000" stop="20260508001500 +0000">
-		<title>Northern Ireland Assembly - 05/05/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Tuesday 5 May.</desc>
+	<programme channel="bbcparliament" start="20260507214500 +0000" stop="20260507221000 +0000">
+		<title>Northern Ireland Assembly - Springhill Inquest Debate</title>
+		<desc>The debate on the outcome of the Springhill inquest into army shootings in 1972, on 5 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njg2m9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260508001500 +0000" stop="20260508050000 +0000">
-		<title>Northern Ireland Assembly - 05/05/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Tuesday 5 May.</desc>
+	<programme channel="bbcparliament" start="20260507221000 +0000" stop="20260507224500 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Coverage of the members' statements in the Northern Ireland Assembly, on Tuesday 5 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njm2b5.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260507224500 +0000" stop="20260507234500 +0000">
+		<title>Northern Ireland Assembly - Katie Simpson Review Statement</title>
+		<desc>Statement by justice minister Naomi Long on the Katie Simpson review, on Tuesday 5 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260507234500 +0000" stop="20260508013500 +0000">
+		<title>Northern Ireland Assembly - Northern Ireland Fiscal Council Bill</title>
+		<desc>The debate in the Northern Ireland Assembly on the Northern Ireland Fiscal Council Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njlnn6.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260508013500 +0000" stop="20260508014500 +0000">
+		<title>Northern Ireland Assembly - Courts and Tribunals Order</title>
+		<desc>The debate on a motion relating to live links for courts and tribunals, on Tuesday 5 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260508014500 +0000" stop="20260508020000 +0000">
+		<title>Northern Ireland Assembly - Farmer Payments</title>
+		<desc>The debate on the timetabling of the Areas with Natural Constraints (Payments) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njlxw7.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260508020000 +0000" stop="20260508033000 +0000">
+		<title>Northern Ireland Assembly - Voluntary Sector Funding Debate</title>
+		<desc>Coverage of the debate on voluntary and community sector funding, on Tuesday 5 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260508033000 +0000" stop="20260508045500 +0000">
+		<title>Northern Ireland Assembly - Victims of Coercive Control Debate</title>
+		<desc>Coverage of the debate on protecting victims of coercive control, on Tuesday 5 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260508045500 +0000" stop="20260508050000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260508050000 +0000" stop="20260508063000 +0000">
 		<title>Westminster Hall - 29/04/2026</title>
