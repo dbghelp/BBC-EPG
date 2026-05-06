@@ -113,7 +113,7 @@
 	<programme channel="bbcone" start="20260506170000 +0000" stop="20260506173000 +0000">
 		<title>BBC News at Six - 06/05/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njp81g.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260506173000 +0000" stop="20260506180000 +0000">
 		<title>BBC London - Evening News: 06/05/2026</title>
@@ -659,7 +659,7 @@
 	<programme channel="bbctwo" start="20260506054500 +0000" stop="20260506063000 +0000">
 		<title>Bargain Hunt - Series 74: Exeter 11</title>
 		<desc>Buckle up for a fast and furious episode of the show as the teams shop in Devon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh8vpn.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gvfkc7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260506063000 +0000" stop="20260506070000 +0000">
 		<title>Great Korean Railway Journeys  - Series 1: 1. DMZ to Seoul</title>
@@ -1329,7 +1329,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260506180000 +0000" stop="20260506180500 +0000">
 		<title>The Catch Up - 06/05/2026</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Ben Henley-Washford.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260506180500 +0000" stop="20260506183000 +0000">
@@ -5180,9 +5180,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h3phn0.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260506220000 +0000" stop="20260506223000 +0000">
-		<title>Scotcast - 06/05/2026</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqwpf.jpg" />
+		<title>Scotcast - Knife crime</title>
+		<desc>What are the changes in society that are fuelling youth violence today? </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3hdn8.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260506223000 +0000" stop="20260506230000 +0000">
 		<title>Scotland's Greatest Escape - Series 3: 5. Dumfries &amp; Galloway</title>
@@ -5517,7 +5517,7 @@
 	<programme channel="bbcnews" start="20260506170000 +0000" stop="20260506173000 +0000">
 		<title>BBC News at Six - 06/05/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njp81g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260506173000 +0000" stop="20260506180000 +0000">
 		<title>Newscast - 06/05/2026</title>
@@ -6074,9 +6074,14 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260509173000 +0000" stop="20260509180000 +0000">
+	<programme channel="bbcnews" start="20260509173000 +0000" stop="20260509174500 +0000">
+		<title>The Iran War - Today: 09/05/2026</title>
+		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260509174500 +0000" stop="20260509180000 +0000">
 		<title>BBC News - 09/05/2026</title>
-		<desc>The latest news from the BBC, including a round-up of the day's sporting action.</desc>
+		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260509180000 +0000" stop="20260509183000 +0000">
@@ -6085,9 +6090,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260509183000 +0000" stop="20260509190000 +0000">
-		<title>Tech Now - 09/05/2026</title>
-		<desc>Andrew Rogers explores new tech trials helping people stay underwater for longer.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+		<title>BBC News - 09/05/2026</title>
+		<desc>The latest news from the BBC, including a round-up of the day's sporting action.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260509190000 +0000" stop="20260509193000 +0000">
 		<title>BBC News - 09/05/2026</title>
@@ -6269,9 +6274,14 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260510173000 +0000" stop="20260510180000 +0000">
+	<programme channel="bbcnews" start="20260510173000 +0000" stop="20260510174500 +0000">
+		<title>The Iran War - Today: 10/05/2026</title>
+		<desc>A daily briefing from BBC News on the latest developments on the Israel-US war in Iran.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n52x9v.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260510174500 +0000" stop="20260510180000 +0000">
 		<title>BBC News - 10/05/2026</title>
-		<desc>The latest news from the BBC, including a round-up of the day's sporting action.</desc>
+		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260510180000 +0000" stop="20260510183000 +0000">
@@ -6280,9 +6290,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260510183000 +0000" stop="20260510190000 +0000">
-		<title>What Happened at...? - What Happened at Chernobyl?</title>
-		<desc>Jordan Dunbar examines the world’s worst nuclear accident at Chernobyl in 1986.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ndzjsn.jpg" />
+		<title>BBC News - 10/05/2026</title>
+		<desc>The latest news from the BBC, including a round-up of the day's sporting action.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260510190000 +0000" stop="20260510193000 +0000">
 		<title>BBC News - 10/05/2026</title>
@@ -7946,12 +7956,12 @@
 		<desc>Mae Hiena yn credu ei bod yn clywed Whw sydd angen help - ond mae methu ffeindio pwy! H...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf2clr.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260509052000 +0000" stop="20260509053500 +0000">
+	<programme channel="s4c" start="20260509052000 +0000" stop="20260509054000 +0000">
 		<title>Awyr Iach - Cyfres 1: Pennod 9</title>
 		<desc>Heddiw: ymuno a chriw o syrffwyr ifanc yn Ninas Dinlle, garddio ar y rhandir yng Nghaer...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bz8cvm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260509053500 +0000" stop="20260509054500 +0000">
+	<programme channel="s4c" start="20260509054000 +0000" stop="20260509054500 +0000">
 		<title>Blwi - Bob y Bilbi</title>
 		<desc>Tro Bingo yw hi i ddod â phyped y feithrinfa adref ac mae'r teulu'n penderfynu mynd heb...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0f65j.jpg" />
@@ -7966,17 +7976,17 @@
 		<desc>Heddiw, mae dau archwiliwr tanddwr yn ymuno â Mari a Hari wrth iddyn nhw gyfarch Carado...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mwhxzt.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260509060500 +0000" stop="20260509062000 +0000">
+	<programme channel="s4c" start="20260509060500 +0000" stop="20260509061500 +0000">
 		<title>Pentre Papur Pop - Cyfres 1: Diwrnod Mabolgampau</title>
 		<desc>Ar yr antur popwych heddiw mae'n ddiwrnod chwaraeon Pentre Papur Pop! On today's poptas...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngt7v4.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260509062000 +0000" stop="20260509063500 +0000">
+	<programme channel="s4c" start="20260509061500 +0000" stop="20260509063000 +0000">
 		<title>Help Llaw - Cyfres 3: Harry</title>
 		<desc>Mae Mr P.Casso angen help Harri i hongian ei ddarlun newydd cyn agoriad yr oriel. Mr P....</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf1k21.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260509063500 +0000" stop="20260509064500 +0000">
+	<programme channel="s4c" start="20260509063000 +0000" stop="20260509064500 +0000">
 		<title>Mojo Swoptops - Mojo Swoptop</title>
 		<desc>Mae Beti, y fan hufen iâ, yn cael trafferth i stopio, felly mae'n ras i Mojo a Bo i ach...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ndbwjk.jpg" />
@@ -7986,12 +7996,12 @@
 		<desc>Mae hi'n ddiwrnod poeth a does gan Cai Caffi ddim lolipops yn y caffi. It's a hot day a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7d8v.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260509070000 +0000" stop="20260509072000 +0000">
+	<programme channel="s4c" start="20260509070000 +0000" stop="20260509072500 +0000">
 		<title>Dyffryn Mwmin - Fi Fach yn Gadael</title>
 		<desc>Mae Fi Fach yn mynd rhy bell wrth bryfoco Mwmintrol. Fi Fach goes too far in teasing Mo...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ncqw6x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260509072000 +0000" stop="20260509073000 +0000">
+	<programme channel="s4c" start="20260509072500 +0000" stop="20260509073000 +0000">
 		<title>Oi! Osgar - Streic!</title>
 		<desc>Beth sy'n digwydd ym myd Osgar heddiw?  Mae Osgar yn ceisio echdynnu dwr cnau coco o gn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngg0py.jpg" />
@@ -8006,12 +8016,12 @@
 		<desc>Mae Dai a Pwpgi yn fudur iawn 'rôl bod yn chwarae tu allan yn y dymp lleol, mor fudur n...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfkqg.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260509081000 +0000" stop="20260509083500 +0000">
+	<programme channel="s4c" start="20260509081000 +0000" stop="20260509083000 +0000">
 		<title>Dreigiau Berc - Dreigiau: Gwarchodwyr Berc: Yr Ynysoedd Coll</title>
 		<desc>Mae Igion, Annest a Sgodraed yn dod ar draws hen elyn peryglus sydd yn anelu tuag at Be...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p035crgh.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260509083500 +0000" stop="20260509090000 +0000">
+	<programme channel="s4c" start="20260509083000 +0000" stop="20260509090000 +0000">
 		<title>Pigo Dy Drwyn - Cyfres 5: Pennod 11</title>
 		<desc>Yn cystadlu am y Tlws heddi mae Ysgol Gymraeg Bro Morgannwg &amp; Ysgol Gynradd Gymraeg y C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngt9wt.jpg" />
@@ -8248,7 +8258,7 @@
 	</programme>
 	<programme channel="s4c" start="20260510190000 +0000" stop="20260510200000 +0000">
 		<title>Am Dro! - Cyfres 10: Pennod 2</title>
-		<desc>Eleri, Gwyn, Heti a Sion sy'n mynd â ni 'Am Dro' y tro hwn. Eleri, Gwyn, Heti and Sion ...</desc>
+		<desc>Eleri, Gwyn, Heti a Sion sy'n mynd â ni 'Am Dro' i Gorwen, Llyn Llech Owain ger Gorslas...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhvnfb.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260510200000 +0000" stop="20260510210000 +0000">
