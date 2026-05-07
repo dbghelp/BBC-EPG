@@ -123,7 +123,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260507180000 +0000" stop="20260507183000 +0000">
 		<title>The One Show - 07/05/2026</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Pedro Pascal, Sigourney Weaver, Jon Favreau and Grogu join Alex Jones and Roman Kemp.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260507183000 +0000" stop="20260507190000 +0000">
@@ -1459,7 +1459,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260509180000 +0000" stop="20260509184500 +0000">
 		<title>Doctor Who (2005–2022) - Series 8: 2. Into the Dalek</title>
-		<desc>A Dalek fleet surrounds a lone rebel ship and only the Doctor can help it.</desc>
+		<desc>A Dalek fleet surrounds a lone rebel ship, and only the Doctor can help it.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p025lbjh.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260509184500 +0000" stop="20260509193500 +0000">
@@ -1594,7 +1594,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260511012000 +0000" stop="20260511021000 +0000">
 		<title>Doctor Who (2005–2022) - Series 8: 2. Into the Dalek</title>
-		<desc>A Dalek fleet surrounds a lone rebel ship and only the Doctor can help it.</desc>
+		<desc>A Dalek fleet surrounds a lone rebel ship, and only the Doctor can help it.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p025lbjh.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260511021000 +0000" stop="20260511025500 +0000">
@@ -2498,9 +2498,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hfc6wz.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260508164500 +0000" stop="20260508174500 +0000">
-		<title>Africa - 2. Savannah</title>
-		<desc>David Attenborough looks at the unique and constantly changing landscape of East Africa.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gkdm4z.jpg" />
+		<title>Africa - 5. Sahara</title>
+		<desc>A look at how animals survive in the extreme environment of the Sahara Desert.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gkk264.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260508174500 +0000" stop="20260508175800 +0000">
 		<title>Blue Peter - Challenges: Can Shini and Abby Survive a Night in a Haunted House?</title>
@@ -5754,12 +5754,12 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260508213000 +0000" stop="20260508220000 +0000">
+	<programme channel="bbcnews" start="20260508213000 +0000" stop="20260508221500 +0000">
 		<title>Newsnight - 08/05/2026</title>
 		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260508220000 +0000" stop="20260508223000 +0000">
+	<programme channel="bbcnews" start="20260508221500 +0000" stop="20260508223000 +0000">
 		<title>BBC World News America - 08/05/2026</title>
 		<desc>The BBC presents in-depth reports on the major international and US news of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
@@ -5815,8 +5815,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260509033000 +0000" stop="20260509040000 +0000">
-		<title>The Media Show - 09/05/2026</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - The Accidental BBC News Star</title>
+		<desc>How Guy Coma arrived for a job interview, ended up on live television, and created a meme.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260509040000 +0000" stop="20260509043000 +0000">
@@ -5980,8 +5980,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260509233000 +0000" stop="20260510000000 +0000">
-		<title>The Media Show - 09/05/2026</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - The Accidental BBC News Star</title>
+		<desc>How Guy Coma arrived for a job interview, ended up on live television, and created a meme.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260510000000 +0000" stop="20260510003000 +0000">
@@ -6010,8 +6010,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260510023000 +0000" stop="20260510030000 +0000">
-		<title>The Media Show - 09/05/2026</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - The Accidental BBC News Star</title>
+		<desc>How Guy Coma arrived for a job interview, ended up on live television, and created a meme.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260510030000 +0000" stop="20260510033000 +0000">
@@ -6080,8 +6080,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260510123000 +0000" stop="20260510130000 +0000">
-		<title>The Media Show - 09/05/2026</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - The Accidental BBC News Star</title>
+		<desc>How Guy Coma arrived for a job interview, ended up on live television, and created a meme.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260510130000 +0000" stop="20260510133000 +0000">
@@ -6170,8 +6170,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260510223000 +0000" stop="20260510230000 +0000">
-		<title>The Media Show - 09/05/2026</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+		<title>The Media Show - The Accidental BBC News Star</title>
+		<desc>How Guy Coma arrived for a job interview, ended up on live television, and created a meme.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260510230000 +0000" stop="20260510233000 +0000">
