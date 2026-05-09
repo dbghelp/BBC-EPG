@@ -79,12 +79,12 @@
 		<desc>Two teams of amateur collectors have an hour to acquire the best bargains.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jm39v9.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260509130000 +0000" stop="20260509153000 +0000">
+	<programme channel="bbcone" start="20260509130000 +0000" stop="20260509153500 +0000">
 		<title>Rugby League: Challenge Cup - 2026: Semi-Final: St Helens v Wigan Warriors</title>
 		<desc>St Helens take on 21-time winners Wigan in the first of the Challenge Cup semi-finals.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njhlzp.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260509153000 +0000" stop="20260509162500 +0000">
+	<programme channel="bbcone" start="20260509153500 +0000" stop="20260509162500 +0000">
 		<title>Final Score - 2025/26: 09/05/2026</title>
 		<desc>Jason Mohammad brings you all the goals and latest news from the afternoon's football.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ndz112.jpg" />
@@ -5667,15 +5667,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260509143000 +0000" stop="20260509144500 +0000">
+	<programme channel="bbcnews" start="20260509143000 +0000" stop="20260509150000 +0000">
 		<title>BBC News - 09/05/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260509144500 +0000" stop="20260509150000 +0000">
-		<title>Newswatch - 09/05/2026</title>
-		<desc>Did the BBC allocate airtime fairly to the different parties in the election campaign?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r0tr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260509150000 +0000" stop="20260509153000 +0000">
 		<title>BBC News - 09/05/2026</title>
@@ -5683,9 +5678,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260509153000 +0000" stop="20260509160000 +0000">
-		<title>What Happened at...? - What Happened at Chernobyl?</title>
-		<desc>Jordan Dunbar examines the world’s worst nuclear accident at Chernobyl in 1986.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ndzjsn.jpg" />
+		<title>BBC News - 09/05/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260509160000 +0000" stop="20260509170000 +0000">
 		<title>BBC News - 09/05/2026</title>
@@ -7992,13 +7987,13 @@
 		<desc>Cipolwg yn ôl dros ddigwyddiadau'r wythnos yng Nghwmderi. Omnibus edition looking back ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf09k9.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260510152000 +0000" stop="20260510180000 +0000">
+	<programme channel="s4c" start="20260510152000 +0000" stop="20260510181000 +0000">
 		<title>Clwb Rygbi - SRC Tymor 2025/26: Clwb Rygbi: Glynebwy v Llanymddyfri</title>
 		<desc>Rownd derfynol Super Rygbi Cymru rhwng Glynebwy a Llanymddyfri. C/G 16:45. Super Rygbi ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njlbgz.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260510180000 +0000" stop="20260510183000 +0000">
-		<title>Newyddion S4C - Sun, 10 May 2026 19:00</title>
+	<programme channel="s4c" start="20260510181000 +0000" stop="20260510183000 +0000">
+		<title>Newyddion S4C - Sun, 10 May 2026 19:10</title>
 		<desc>Newyddion S4C a'r Tywydd. S4C News and Weather.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
