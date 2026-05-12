@@ -635,7 +635,7 @@
 	<programme channel="bbcone" start="20260516165500 +0000" stop="20260516174000 +0000">
 		<title>Bridge of Lies - Celebrity Specials, Series 4: Episode 5</title>
 		<desc>A team of soap stars take on the Bridge of Lies for their chosen charities.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nc59pg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkr9cj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260516174000 +0000" stop="20260516181500 +0000">
 		<title>Blankety Blank - Series 3: Episode 5</title>
@@ -670,7 +670,7 @@
 	<programme channel="bbcone" start="20260516234500 +0000" stop="20260517003500 +0000">
 		<title>The Women's Football Show - 2025/26: 16/05/2026</title>
 		<desc>Highlights and analysis of all the action from the Women’s Super League.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m111x6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkr4kt.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260517003500 +0000" stop="20260517004000 +0000">
 		<title>Weather for the Week Ahead - 17/05/2026</title>
@@ -924,8 +924,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0njfl67.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260513185500 +0000" stop="20260513190000 +0000">
-		<title>The Secret Genius of Modern Life - Series 1: The Best Bits</title>
-		<desc>Hannah Fry uncovers the secrets behind the miraculous technologies of the modern world.</desc>
+		<title>The Secret Genius of Modern Life - Series 1: Bank Card</title>
+		<desc>Hannah Fry takes a look at the bank card, the digital key to accessing cash.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ks6gnr.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260513190000 +0000" stop="20260513200000 +0000">
@@ -1705,7 +1705,7 @@
 	<programme channel="bbcthree" start="20260516180000 +0000" stop="20260516185000 +0000">
 		<title>The Women's Football Show - 2025/26: 16/05/2026</title>
 		<desc>Highlights and analysis of all the action from the Women’s Super League.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m111x6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkr4kt.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260516185000 +0000" stop="20260516194000 +0000">
 		<title>Doctor Who (2005–2022) - Series 8: 4. Listen</title>
@@ -5330,8 +5330,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4rpph.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260512183000 +0000" stop="20260512210000 +0000">
-		<title>Sportscene - 2025/26: Premiership Play-Off Semi-Final</title>
-		<desc>Live coverage from the Scottish Premiership play-off semi-finals.</desc>
+		<title>Sportscene - 2025/26: Premiership Play-Off Semi-Final: Dunfermline v Partick Thistle, First Leg</title>
+		<desc>Live coverage of Dunfermline v Partick Thistle in the Premiership play-off semi-finals.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkkr3l.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260512210000 +0000" stop="20260512214500 +0000">
@@ -5505,8 +5505,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4rpph.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260515183000 +0000" stop="20260515210000 +0000">
-		<title>Sportscene - 2025/26: Premiership Play-Off Semi-Final</title>
-		<desc>Live coverage from the Scottish Premiership play-off semi-finals.</desc>
+		<title>Sportscene - 2025/26: Premiership Play-Off Semi-Final: Partick Thistle v Dunfermline, Second Leg</title>
+		<desc>Live coverage of Partick Thistle v Dunfermline in the Premiership play-off semi-finals.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkkr4w.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260515210000 +0000" stop="20260515213000 +0000">
@@ -5644,25 +5644,20 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260512103000 +0000" stop="20260512104500 +0000">
-		<title>Business Today - 12/05/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260512104500 +0000" stop="20260512110000 +0000">
+	<programme channel="bbcnews" start="20260512103000 +0000" stop="20260512110000 +0000">
 		<title>BBC News - 12/05/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260512110000 +0000" stop="20260512113000 +0000">
+	<programme channel="bbcnews" start="20260512110000 +0000" stop="20260512111500 +0000">
 		<title>BBC News Now - 12/05/2026</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260512113000 +0000" stop="20260512120000 +0000">
-		<title>BBC News Now - 12/05/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	<programme channel="bbcnews" start="20260512111500 +0000" stop="20260512120000 +0000">
+		<title>Politics Live - 14/05/2026</title>
+		<desc>The big political issues of the day.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260512120000 +0000" stop="20260512130000 +0000">
 		<title>BBC News at One - 12/05/2026</title>
@@ -5825,8 +5820,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260513024500 +0000" stop="20260513030000 +0000">
-		<title>Asia Specific - 13/05/2026</title>
-		<desc>Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+		<title>Asia Specific - What the US and China Get Wrong About Each Other</title>
+		<desc>How well do the leaders, and the public of the US and China understand each other?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n24m0y.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260513030000 +0000" stop="20260513033000 +0000">
@@ -5840,8 +5835,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260513034500 +0000" stop="20260513040000 +0000">
-		<title>Asia Specific - 13/05/2026</title>
-		<desc>Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+		<title>Asia Specific - What the US and China Get Wrong About Each Other</title>
+		<desc>How well do the leaders, and the public of the US and China understand each other?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n24m0y.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260513040000 +0000" stop="20260513043000 +0000">
@@ -6562,7 +6557,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260516003000 +0000" stop="20260516010000 +0000">
 		<title>Tech Now - 16/05/2026</title>
-		<desc>Nick Kwek explores new innovations in hydrogen car technology at the University of Texas.</desc>
+		<desc>Adrienne Murray explores how new 3D imaging is supporting heart procedures.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260516010000 +0000" stop="20260516013000 +0000">
@@ -7172,8 +7167,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8dxvk.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260512183500 +0000" stop="20260512204500 +0000">
-		<title>Ball-coise air BBC ALBA/Football on BBC ALBA - 1. League 1 Play-off 2026</title>
-		<desc>Football action from the League One play-offs, first leg.</desc>
+		<title>Ball-coise air BBC ALBA/Football on BBC ALBA - 1. League 1 Play-off 2026: Clyde FC v Hamilton Academical FC</title>
+		<desc>Clyde FC v Hamilton Academical FC in the first leg of the League One play-offs.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkbrvg.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260512204500 +0000" stop="20260512210500 +0000">
