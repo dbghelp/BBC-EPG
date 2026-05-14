@@ -479,7 +479,7 @@
 	<programme channel="bbcone" start="20260517123500 +0000" stop="20260517125000 +0000">
 		<title>Points of View - 2026: 17/05/2026</title>
 		<desc>Viewers have their say on the BBC’s television shows. Email your thoughts to pov@bbc.co.uk</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf2s02.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl6vf9.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260517125000 +0000" stop="20260517133500 +0000">
 		<title>Bargain Hunt - Series 62: Ardingly 17</title>
@@ -724,7 +724,7 @@
 	<programme channel="bbctwo" start="20260514111500 +0000" stop="20260514120000 +0000">
 		<title>Politics Live - 14/05/2026</title>
 		<desc>The big political issues of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl49jm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl5q2r.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260514120000 +0000" stop="20260514124500 +0000">
 		<title>Impossible - Series 3: Episode 19</title>
@@ -5570,20 +5570,25 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260514110000 +0000" stop="20260514113000 +0000">
+	<programme channel="bbcnews" start="20260514110000 +0000" stop="20260514111500 +0000">
 		<title>BBC News Now - 14/05/2026</title>
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260514113000 +0000" stop="20260514120000 +0000">
-		<title>BBC News Now - 14/05/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	<programme channel="bbcnews" start="20260514111500 +0000" stop="20260514120000 +0000">
+		<title>Politics Live - 14/05/2026</title>
+		<desc>The big political issues of the day.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl5q2r.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260514120000 +0000" stop="20260514130000 +0000">
+	<programme channel="bbcnews" start="20260514120000 +0000" stop="20260514122000 +0000">
 		<title>BBC News at One - 14/05/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260514122000 +0000" stop="20260514130000 +0000">
+		<title>BBC News - 14/05/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260514130000 +0000" stop="20260514133000 +0000">
 		<title>BBC News Now - 14/05/2026</title>
@@ -6720,17 +6725,17 @@
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 14 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260514093000 +0000" stop="20260514103000 +0000">
+	<programme channel="bbcparliament" start="20260514093000 +0000" stop="20260514100500 +0000">
 		<title>House of Commons - Dillon Judgment Statement</title>
 		<desc>Coverage of a statement on the UK Supreme Court's Dillon judgment, on Thursday 14 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260514103000 +0000" stop="20260514113000 +0000">
+	<programme channel="bbcparliament" start="20260514100500 +0000" stop="20260514110000 +0000">
 		<title>House of Commons - National Security Statement</title>
 		<desc>Coverage of a statement on national security with the Home Office minister Dan Jarvis.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260514113000 +0000" stop="20260514163000 +0000">
+	<programme channel="bbcparliament" start="20260514110000 +0000" stop="20260514163000 +0000">
 		<title>House of Commons - King's Speech Debate, Day 2</title>
 		<desc>Coverage of the second day of debate on the King's speech on Thursday 14 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6753,7 +6758,7 @@
 	<programme channel="bbcparliament" start="20260515083000 +0000" stop="20260515090000 +0000">
 		<title>House of Commons - Loyal Address</title>
 		<desc>Coverage from the House of Commons of MPs giving the Loyal Address on Wednesday 13 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl0c41.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl6q5y.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260515090000 +0000" stop="20260515170000 +0000">
 		<title>House of Lords - King's Speech Debate, Day 1</title>
@@ -7658,7 +7663,7 @@
 	<programme channel="s4c" start="20260514074000 +0000" stop="20260514075500 +0000">
 		<title>Deian a Loli - Cyfres 3: a'r Deyrnas Ddidoli</title>
 		<desc>Mae'r cloc lawrm yn canu sy'n golygu bod hi'n amser rhoi gorau i chwarae gemau cyfrifia...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0934gd5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl74xm.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260514075500 +0000" stop="20260514080500 +0000">
 		<title>Cymylaubychain - Cyfres 1: Y Sbonciwr Gorau</title>
