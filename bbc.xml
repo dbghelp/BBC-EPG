@@ -859,7 +859,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20260515113000 +0000" stop="20260515120000 +0000">
 		<title>Political Thinking with Nick Robinson - Series 3: Miatta Fahnbulleh</title>
-		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
+		<desc>Miatta Fahnbulleh talks about mistakes in Downing Street and the PM’s leadership.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260515120000 +0000" stop="20260515124500 +0000">
@@ -5696,9 +5696,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260514233000 +0000" stop="20260515000000 +0000">
-		<title>Newscast - 14/05/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
+		<title>Tech Now - Deep Dive: Underwater Tech</title>
+		<desc>Andrew Rogers explores new tech trials helping people stay underwater for longer.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nk3nqg.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260515000000 +0000" stop="20260515003000 +0000">
 		<title>BBC News - 15/05/2026</title>
@@ -6092,7 +6092,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260516153000 +0000" stop="20260516160000 +0000">
 		<title>Political Thinking with Nick Robinson - Series 3: Miatta Fahnbulleh</title>
-		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
+		<desc>Miatta Fahnbulleh talks about mistakes in Downing Street and the PM’s leadership.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260516160000 +0000" stop="20260516170000 +0000">
@@ -6738,32 +6738,37 @@
 	<programme channel="bbcparliament" start="20260514125000 +0000" stop="20260514143000 +0000">
 		<title>House of Commons - King's Speech Debate, Day Two - Part 2</title>
 		<desc>Coverage of the second day of debate on the King's speech on Thursday 14 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl9t8l.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260514143000 +0000" stop="20260514163000 +0000">
+	<programme channel="bbcparliament" start="20260514143000 +0000" stop="20260514154500 +0000">
 		<title>House of Commons - King's Speech Debate, Day Two - Part 3</title>
 		<desc>Coverage of the second day of debate on the King's speech on Thursday 14 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl9vjt.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260514163000 +0000" stop="20260514183000 +0000">
+	<programme channel="bbcparliament" start="20260514154500 +0000" stop="20260514175000 +0000">
 		<title>House of Lords - King's Speech Debate, Day One - Part 1</title>
 		<desc>The first day of debate in the House of Lords on the King's speech, from Thursday 14 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl9xd1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260514183000 +0000" stop="20260514203000 +0000">
+	<programme channel="bbcparliament" start="20260514175000 +0000" stop="20260514195500 +0000">
 		<title>House of Lords - King's Speech Debate, Day One - Part 2</title>
 		<desc>The first day of debate in the House of Lords on the King's speech, from Thursday 14 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260514203000 +0000" stop="20260514223000 +0000">
+	<programme channel="bbcparliament" start="20260514195500 +0000" stop="20260514212000 +0000">
 		<title>House of Lords - King's Speech Debate, Day One - Part 3</title>
 		<desc>The first day of debate in the House of Lords on the King's speech, from Thursday 14 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260514223000 +0000" stop="20260515003000 +0000">
+	<programme channel="bbcparliament" start="20260514212000 +0000" stop="20260514221000 +0000">
 		<title>House of Lords - King's Speech Debate, Day One - Part 4</title>
 		<desc>The first day of debate in the House of Lords on the King's speech, from Thursday 14 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260514221000 +0000" stop="20260515003000 +0000">
+		<title>Select Committees - Home Affairs Committee on Antisemitism</title>
+		<desc>The Home Affairs select committee session on antisemitism in the UK, from Thursday 14 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260515003000 +0000" stop="20260515012500 +0000">
 		<title>House of Commons - Commons Business Questions</title>
@@ -6775,55 +6780,70 @@
 		<desc>Coverage of the second day of debate on the King's speech on Thursday 14 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl8zjx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260515031500 +0000" stop="20260515051500 +0000">
+	<programme channel="bbcparliament" start="20260515031500 +0000" stop="20260515051000 +0000">
 		<title>House of Commons - King's Speech Debate, Day Two - Part 2</title>
 		<desc>Coverage of the second day of debate on the King's speech on Thursday 14 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl9t8l.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260515051500 +0000" stop="20260515061500 +0000">
+	<programme channel="bbcparliament" start="20260515051000 +0000" stop="20260515053000 +0000">
 		<title>House of Commons - King's Speech Debate, Day Two - Part 3</title>
 		<desc>Coverage of the second day of debate on the King's speech on Thursday 14 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl9vjt.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260515053000 +0000" stop="20260515061500 +0000">
+		<title>Northern Ireland Assembly - St Patrick's Day Debate</title>
+		<desc>The debate on the development of St Patrick's Day in Downpatrick, on Tuesday 12 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkzdfb.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260515061500 +0000" stop="20260515065500 +0000">
 		<title>House of Commons - Dillon Judgment Statement</title>
 		<desc>Coverage of a statement on the UK Supreme Court's Dillon judgment, on Thursday 14 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl7sqc.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260515065500 +0000" stop="20260515075000 +0000">
+	<programme channel="bbcparliament" start="20260515065500 +0000" stop="20260515074500 +0000">
 		<title>House of Commons - National Security Statement</title>
 		<desc>Coverage of a statement on national security with the Home Office minister Dan Jarvis.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl8mcs.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260515075000 +0000" stop="20260515082500 +0000">
+	<programme channel="bbcparliament" start="20260515074500 +0000" stop="20260515082500 +0000">
 		<title>House of Commons - Loyal Address</title>
 		<desc>Coverage from the House of Commons of MPs giving the Loyal Address on Wednesday 13 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl6q5y.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260515082500 +0000" stop="20260515090000 +0000">
+	<programme channel="bbcparliament" start="20260515082500 +0000" stop="20260515085500 +0000">
 		<title>Northern Ireland Assembly - Renewable Heat Incentive Bill</title>
 		<desc>The debate on the Renewable Heat Incentive (Closure of Non-Domestic Scheme) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkzq10.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260515090000 +0000" stop="20260515110000 +0000">
+	<programme channel="bbcparliament" start="20260515085500 +0000" stop="20260515105500 +0000">
 		<title>House of Lords - King's Speech Debate, Day One - Part 1</title>
 		<desc>The first day of debate in the House of Lords on the King's speech, from Thursday 14 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl9xd1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260515110000 +0000" stop="20260515130000 +0000">
+	<programme channel="bbcparliament" start="20260515105500 +0000" stop="20260515130500 +0000">
 		<title>House of Lords - King's Speech Debate, Day One - Part 2</title>
 		<desc>The first day of debate in the House of Lords on the King's speech, from Thursday 14 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260515130000 +0000" stop="20260515150000 +0000">
+	<programme channel="bbcparliament" start="20260515130500 +0000" stop="20260515143000 +0000">
 		<title>House of Lords - King's Speech Debate, Day One - Part 3</title>
 		<desc>The first day of debate in the House of Lords on the King's speech, from Thursday 14 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260515150000 +0000" stop="20260515170000 +0000">
+	<programme channel="bbcparliament" start="20260515143000 +0000" stop="20260515152000 +0000">
 		<title>House of Lords - King's Speech Debate, Day One - Part 4</title>
 		<desc>The first day of debate in the House of Lords on the King's speech, from Thursday 14 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260515152000 +0000" stop="20260515163000 +0000">
+		<title>Westminster Hall - Wheelchair Provision</title>
+		<desc>A debate on an independent national review body to oversee wheelchair provision.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngw997.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260515163000 +0000" stop="20260515170000 +0000">
+		<title>Westminster Hall - Sex Trafficking in Scotland</title>
+		<desc>Debate in the House of Commons second chamber on sex trafficking in Scotland, on 21 April.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkm7hd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260515170000 +0000" stop="20260515190500 +0000">
 		<title>Select Committees - Education Committee on Children's Reading</title>
@@ -6850,12 +6870,12 @@
 		<desc>Questions to the justice minister, Naomi Long, from Tuesday 12 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkt1nk.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260515221500 +0000" stop="20260516001000 +0000">
+	<programme channel="bbcparliament" start="20260515221500 +0000" stop="20260516001500 +0000">
 		<title>Northern Ireland Assembly - Draft Budget Debate</title>
 		<desc>Coverage of the debate on the draft Budget for 2026-2029, on Monday 11 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkssby.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260516001000 +0000" stop="20260516011000 +0000">
+	<programme channel="bbcparliament" start="20260516001500 +0000" stop="20260516011000 +0000">
 		<title>Northern Ireland Assembly - Belfast City Airport Debate</title>
 		<desc>Coverage of the debate on the Belfast City Airport Master Plan, on Monday 11 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nks0b5.jpg" />
@@ -6875,12 +6895,12 @@
 		<desc>Questions to the justice minister, Naomi Long, from Tuesday 12 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkt1nk.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260516032500 +0000" stop="20260516050000 +0000">
+	<programme channel="bbcparliament" start="20260516032500 +0000" stop="20260516050500 +0000">
 		<title>Northern Ireland Assembly - Autism Services Debate</title>
 		<desc>Coverage of the debate in the Northern Ireland Assembly on delivering autism services.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkz986.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260516050000 +0000" stop="20260516100000 +0000">
+	<programme channel="bbcparliament" start="20260516050500 +0000" stop="20260516100000 +0000">
 		<title>Select Committees - 16/05/2026</title>
 		<desc>Recorded coverage of select committee proceedings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
@@ -7932,7 +7952,7 @@
 	</programme>
 	<programme channel="s4c" start="20260514200000 +0000" stop="20260514204500 +0000">
 		<title>Y Byd yn ei Le - Cyfres 2026/27: Pennod 6</title>
-		<desc>Wythnos ers etholiad y Senedd, byddwn yn trafod y newidiadau sydd ar y gweill. Bydd cyf...</desc>
+		<desc>Wythnos ers etholiad y Senedd, rydym yn trafod y newidiadau sydd ar y gweill. Bydd cyfw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n6jq1p.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260514204500 +0000" stop="20260514215000 +0000">
