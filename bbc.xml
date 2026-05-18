@@ -113,7 +113,7 @@
 	<programme channel="bbcone" start="20260518170000 +0000" stop="20260518173000 +0000">
 		<title>BBC News at Six - 18/05/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nlyf6z.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260518173000 +0000" stop="20260518180000 +0000">
 		<title>BBC London - Evening News: 18/05/2026</title>
@@ -1413,7 +1413,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260518180000 +0000" stop="20260518180500 +0000">
 		<title>The Catch Up - 18/05/2026</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Ben Henley-Washford.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260518180500 +0000" stop="20260518183000 +0000">
@@ -2855,7 +2855,7 @@
 	<programme channel="cbbc" start="20260520170000 +0000" stop="20260520173000 +0000">
 		<title>Jamie Johnson FC - Series 4: 5. Sabotage</title>
 		<desc>Madison makes a shocking decision before Hawx’s home match against Foxborough.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngdcl5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nly4d5.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260520173000 +0000" stop="20260520175000 +0000">
 		<title>The Next Step - Series 7: 3. Alternate Universe</title>
@@ -3106,7 +3106,7 @@
 	<programme channel="cbbc" start="20260521170000 +0000" stop="20260521173000 +0000">
 		<title>Jamie Johnson FC - Series 4: 6. Enemy Lines</title>
 		<desc>As Hawx play away at Foxborough, a bombshell threatens to ruin their entire season.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngdcl5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nly4df.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260521173000 +0000" stop="20260521175000 +0000">
 		<title>The Next Step - Series 7: 4. Three's a Crowd</title>
@@ -5760,7 +5760,7 @@
 	<programme channel="bbcnews" start="20260518170000 +0000" stop="20260518173000 +0000">
 		<title>BBC News at Six - 18/05/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nlyf6z.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260518173000 +0000" stop="20260518174500 +0000">
 		<title>The Iran War - Today: 18/05/2026</title>
@@ -6880,7 +6880,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260523003000 +0000" stop="20260523010000 +0000">
 		<title>Tech Now - 23/05/2026</title>
-		<desc>Harriet Bradshaw finds out how gym equipment is being invented to help exercise in space.</desc>
+		<desc>Shiona McCallum meets a medical expert testing out the future of prosthetics.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260523010000 +0000" stop="20260523013000 +0000">
@@ -6978,6 +6978,11 @@
 		<desc>Questions in the House of Lords to government ministers on Monday 18 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20260518230000 +0000" stop="20260519010000 +0000">
+		<title>House of Lords - King's Speech Debate, Day Two - Part 1</title>
+		<desc>The second day of debate in the House of Lords on the King's speech, from Monday 18 May.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20260519010000 +0000" stop="20260519030000 +0000">
 		<title>House of Lords - King's Speech Debate, Day Two - Part 2</title>
 		<desc>The second day of debate in the House of Lords on the King's speech, from Monday 18 May.</desc>
@@ -6993,10 +6998,15 @@
 		<desc>The second day of debate in the House of Lords on the King's speech, from Monday 18 May.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260519060000 +0000" stop="20260519090000 +0000">
-		<title>House of Commons - 18/05/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 18 May.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260519060000 +0000" stop="20260519071000 +0000">
+		<title>Westminster Hall - At-risk Children</title>
+		<desc>Coverage of the debate in Westminster Hall on an e-petition on at-risk children.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nlvwqk.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260519071000 +0000" stop="20260519090000 +0000">
+		<title>Select Committees - Public Accounts Committee on Shared Services</title>
+		<desc>Public Accounts committee on government spending on services across the public sector.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nlvxt5.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260519090000 +0000" stop="20260519103000 +0000">
 		<title>Select Committees - Culture, Media and Sport Committee on the BBC</title>
@@ -8358,27 +8368,27 @@
 		<desc>Mae Penny wedi gwneud smonach o gymysgedd briwsion bara Siôn ond mae Izzy, Mario a Jay'...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07g3lnc.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520054500 +0000" stop="20260520055500 +0000">
+	<programme channel="s4c" start="20260520054500 +0000" stop="20260520060000 +0000">
 		<title>Bendibwmbwls - Cyfres 2: Ysgol Dyffryn Cledlyn</title>
 		<desc>Mae Ben Dant ar antur i droi sbwriel yn sbeshal. Heddiw mae'n ymuno gyda disgyblion Ysg...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9582v.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520055500 +0000" stop="20260520060000 +0000">
+	<programme channel="s4c" start="20260520060000 +0000" stop="20260520060500 +0000">
 		<title>Caban Banana Gareth - Cyfres 1: Natur 2</title>
 		<desc>Natur ydi'r pwnc trafod wrth i Gareth yr Orangutan teithio ysgolion ledled Cymru yn ei ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwgf1c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520060000 +0000" stop="20260520061500 +0000">
+	<programme channel="s4c" start="20260520060500 +0000" stop="20260520061500 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 3: Cer i Bobi, Blero</title>
 		<desc>Mae'n ddiwrnod Cer i Bobi yn Ocido,mae Blero'n hyderus ei fod yn gwybod sut i bobi'r ga...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2n9w.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520061500 +0000" stop="20260520063000 +0000">
+	<programme channel="s4c" start="20260520061500 +0000" stop="20260520063500 +0000">
 		<title>Fferm Fach - Cyfres 2: Cocos</title>
 		<desc>Mae Guto eisiau gwybod o ble mae cocos yn dod. Felly, mae Hywel, y ffermwr hud, yn mynd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f56yqk.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520063000 +0000" stop="20260520064500 +0000">
+	<programme channel="s4c" start="20260520063500 +0000" stop="20260520064500 +0000">
 		<title>Pablo - Cyfres 2: Grwn Grwn Grwnian</title>
 		<desc>Mae gan Pablo ei ffordd ei hun o weld y byd, ond heddiw rhyw swn aflafar sy'n mynd o da...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngg3fs.jpg" />
@@ -8438,22 +8448,22 @@
 		<desc>Mae Kim a Cai yn cwrdd â chreadur bach direidus ar y traeth - Cranc. Kim and Cai meet a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kg7qb2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520090000 +0000" stop="20260520090500 +0000">
+	<programme channel="s4c" start="20260520090000 +0000" stop="20260520091000 +0000">
 		<title>Caban Banana Gareth - Cyfres 1: Anifeiliaid Anwes 2</title>
 		<desc>Mae Gareth yr Orangutan yn teithio ysgolion ledled Cymru yn ei Gaban Banana, ac yn traf...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwgf1c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520090500 +0000" stop="20260520091500 +0000">
+	<programme channel="s4c" start="20260520091000 +0000" stop="20260520092000 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 3: Ffa Ffermwr Ffred</title>
 		<desc>Mae pawb yn Ocido'n teimlo'n flinedig iawn felly mae Blero'n darganfod sut mae bwyd yn ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2n9w.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520091500 +0000" stop="20260520093000 +0000">
+	<programme channel="s4c" start="20260520092000 +0000" stop="20260520093500 +0000">
 		<title>Fferm Fach - Cyfres 2: Caws</title>
 		<desc>Mae Nel eisiau gwybod o ble mae caws yn dod. Felly, mae Hywel y ffermwr hud yn mynd â h...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f56yqk.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520093000 +0000" stop="20260520094500 +0000">
+	<programme channel="s4c" start="20260520093500 +0000" stop="20260520094500 +0000">
 		<title>Pablo - Cyfres 2: Hwyliau Llwyd</title>
 		<desc>Mae gan Pablo ei ffordd ei hun o weld y byd. Heddiw mae'r niwl yn gwneud i bopeth edryc...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngg3fs.jpg" />
@@ -8478,12 +8488,12 @@
 		<desc>Mae angen i Gwen wybod o ble mae tatws yn dod felly mae'n mynd ar daith i Fferm Fach gy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b6k9t9.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520103000 +0000" stop="20260520104500 +0000">
+	<programme channel="s4c" start="20260520103000 +0000" stop="20260520104000 +0000">
 		<title>Joni Jet - Cyfres 1: Sut I Fod Yn Arwr</title>
 		<desc>Mae Joni wrth ei fodd â'i rôl fel arwr. Ond rhaid cofio beth mae'n olygu i fod yn arwr ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nbbhjm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520104500 +0000" stop="20260520110000 +0000">
+	<programme channel="s4c" start="20260520104000 +0000" stop="20260520110000 +0000">
 		<title>Awyr Iach - Cyfres 1: Pennod 2</title>
 		<desc>Huw sy'n beicio yn Coed y Brenin gyda Gruff, Tryfan &amp; Elen, bydd disgyblion Ysgol Penma...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bf718p.jpg" />
@@ -8533,12 +8543,12 @@
 		<desc>Ailddarllediad yn wythnos Eisteddfod yr Urdd. Mari Emlyn sy'n dilyn hanes ei nain, Eiry...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkrrw6.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520150000 +0000" stop="20260520151000 +0000">
+	<programme channel="s4c" start="20260520150000 +0000" stop="20260520150500 +0000">
 		<title>Og Y Draenog Hapus - Cyfres 1: Coed yn Cwympo</title>
 		<desc>Mae Og a Cwac bach yn cael ofn ar ôl clywed swn mawr uchel. Beth yw'r swn?Og and Cwac b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4jlxw.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260520151000 +0000" stop="20260520152000 +0000">
+	<programme channel="s4c" start="20260520150500 +0000" stop="20260520152000 +0000">
 		<title>Sam Tân - Cyfres 10: Pondis Norman!</title>
 		<desc>Mae Norman wedi cael ofn ar ol gweld ffilm ofnus ac yn credu fod pawb yn troi mewn i so...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nht7yz.jpg" />
