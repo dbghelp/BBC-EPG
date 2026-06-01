@@ -128,7 +128,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260601180000 +0000" stop="20260601183000 +0000">
 		<title>The One Show - 01/06/2026</title>
-		<desc>Alex Jones and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Malala Yousefzai, Russell T Davies and Clare Balding join Alex Jones and Roman Kemp.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kmcnwz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260601183000 +0000" stop="20260601190000 +0000">
@@ -770,8 +770,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260601111500 +0000" stop="20260601120000 +0000">
-		<title>Politics Live - 01/06/2026</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - Getting Young People Into Work</title>
+		<desc>Have recent governments made it too expensive to employ youngsters?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcg9qf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260601120000 +0000" stop="20260601124500 +0000">
@@ -1422,7 +1422,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260601180000 +0000" stop="20260601180500 +0000">
 		<title>The Catch Up - 01/06/2026</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Vanessa Igoe.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260601180500 +0000" stop="20260601183000 +0000">
@@ -2616,10 +2616,15 @@
 		<desc>A group of young dancers try to win gold at the world’s biggest street dance competition.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m687kh.jpg" />
 	</programme>
-	<programme channel="cbbc" start="20260602173000 +0000" stop="20260602175800 +0000">
+	<programme channel="cbbc" start="20260602173000 +0000" stop="20260602175000 +0000">
 		<title>The Next Step: Cheer - Series 1: 7. Choreo Camp</title>
 		<desc>Kenzie tries to keep a secret from Melody, and Heath tries to one-up Jax.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nlhsb5.jpg" />
+	</programme>
+	<programme channel="cbbc" start="20260602175000 +0000" stop="20260602175800 +0000">
+		<title>Blue Peter - Access All Areas: Behind the Scenes at Radio One Big Weekend</title>
+		<desc>Joel meets some of the incredible acts performing at Radio 1’s Big Weekend.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n961w1.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260602175800 +0000" stop="20260603043000 +0000">
 		<title>This is CBBC! - This is CBBC!</title>
@@ -7980,7 +7985,7 @@
 	<programme channel="s4c" start="20260601163500 +0000" stop="20260601164500 +0000">
 		<title>Y Tri Mysgedwr - Ffloridor</title>
 		<desc>Mae de Tréville yn cael ei arestio ac mae D'Artagnan ac Alex yn clywed am actor o'r enw...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9thly.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npfdd6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260601164500 +0000" stop="20260601170000 +0000">
 		<title>Newyddion Ni - Mon, 01 Jun 2026</title>
@@ -8010,7 +8015,7 @@
 	<programme channel="s4c" start="20260601190000 +0000" stop="20260601192500 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2026/27: Awtistiaeth fy mab</title>
 		<desc>Golwg ar yr her o fod yn rhiant i blentyn awtistig gyda mam sy'n poeni am ddyfodol ei m...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n949q8.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npf3x9.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260601192500 +0000" stop="20260601195500 +0000">
 		<title>Garddio a Mwy - Cyfres 2026: Pennod 7</title>
@@ -8024,12 +8029,12 @@
 	</programme>
 	<programme channel="s4c" start="20260601200000 +0000" stop="20260601203500 +0000">
 		<title>Ffermio - Mon, 01 Jun 2026</title>
-		<desc>Cyfres sy'n edrych ar y byd amaeth, yn cynnwys rai o bynciau llosg y diwydiant, gan hol...</desc>
+		<desc>Bydd Nia yn cyfweld gyda'r Gweinidog Llyr Gruffydd. Bydd Meinir yn clywed am beryglon y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9m08j.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260601203500 +0000" stop="20260601210500 +0000">
 		<title>Ralio+ - Cyfres 2026: Ralio+: Japan</title>
-		<desc>Uchafbwyntiau Pencampwriaeth Rali'r Byd - ac fe fyddwn ni'n cadw llygad barcud ar y gyr...</desc>
+		<desc>Uchafbwyntiau Pencampwriaeth Rali'r Byd o Japan. Byddwn ni'n cadw llygad barcud ar y gy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n6jlk1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260601210500 +0000" stop="20260601214000 +0000">
@@ -8224,7 +8229,7 @@
 	</programme>
 	<programme channel="s4c" start="20260602123000 +0000" stop="20260602130000 +0000">
 		<title>Ffermio - Mon, 01 Jun 2026</title>
-		<desc>Cyfres sy'n edrych ar y byd amaeth, yn cynnwys rai o bynciau llosg y diwydiant, gan hol...</desc>
+		<desc>Bydd Nia yn cyfweld gyda'r Gweinidog Llyr Gruffydd. Bydd Meinir yn clywed am beryglon y...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9m08j.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260602130000 +0000" stop="20260602130500 +0000">
@@ -8245,7 +8250,7 @@
 	<programme channel="s4c" start="20260602140500 +0000" stop="20260602150000 +0000">
 		<title>Am Dro! - Cyfres 10: Pennod 4</title>
 		<desc>Gwennan, Bowen, Mark a Heulwen sy'n mynd â ni 'Am Dro' y tro hwn. Gwennan, Bowen, Mark ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhslwv.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npdwxj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260602150000 +0000" stop="20260602150500 +0000">
 		<title>Howie - Oeda am Eiliad Howie!</title>
@@ -8289,7 +8294,7 @@
 	</programme>
 	<programme channel="s4c" start="20260602170000 +0000" stop="20260602173000 +0000">
 		<title>Ralio+ - Cyfres 2026: Ralio+: Japan</title>
-		<desc>Uchafbwyntiau Pencampwriaeth Rali'r Byd - ac fe fyddwn ni'n cadw llygad barcud ar y gyr...</desc>
+		<desc>Uchafbwyntiau Pencampwriaeth Rali'r Byd o Japan. Byddwn ni'n cadw llygad barcud ar y gy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n6jlk1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260602173000 +0000" stop="20260602180000 +0000">
@@ -8610,7 +8615,7 @@
 	<programme channel="s4c" start="20260603203000 +0000" stop="20260603210000 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2026/27: Awtistiaeth fy mab</title>
 		<desc>Golwg ar yr her o fod yn rhiant i blentyn awtistig gyda mam sy'n poeni am ddyfodol ei m...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n949q8.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npf3x9.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260603210000 +0000" stop="20260603213000 +0000">
 		<title>Codi Hwyl - Cyfres 3: Pennod 1</title>
@@ -8800,7 +8805,7 @@
 	<programme channel="s4c" start="20260604123000 +0000" stop="20260604130000 +0000">
 		<title>Y Byd ar Bedwar - Cyfres 2026/27: Awtistiaeth fy mab</title>
 		<desc>Golwg ar yr her o fod yn rhiant i blentyn awtistig gyda mam sy'n poeni am ddyfodol ei m...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n949q8.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npf3x9.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260604130000 +0000" stop="20260604130500 +0000">
 		<title>Newyddion S4C - Thu, 04 Jun 2026 14:00</title>
@@ -9079,7 +9084,7 @@
 	</programme>
 	<programme channel="s4c" start="20260605120000 +0000" stop="20260605123000 +0000">
 		<title>Ralio+ - Cyfres 2026: Ralio+: Japan</title>
-		<desc>Uchafbwyntiau Pencampwriaeth Rali'r Byd - ac fe fyddwn ni'n cadw llygad barcud ar y gyr...</desc>
+		<desc>Uchafbwyntiau Pencampwriaeth Rali'r Byd o Japan. Byddwn ni'n cadw llygad barcud ar y gy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n6jlk1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260605123000 +0000" stop="20260605130000 +0000">
@@ -9145,7 +9150,7 @@
 	<programme channel="s4c" start="20260605163500 +0000" stop="20260605164500 +0000">
 		<title>Y Tri Mysgedwr - Ysbrydion y Louvre</title>
 		<desc>Clywir synau rhyfedd yn y Louvre gyda'r nôs - ond ai ysbrydion ydyn nhw go iawn? There ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9thly.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npfdfk.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260605164500 +0000" stop="20260605170000 +0000">
 		<title>Newyddion Ni - Fri, 05 Jun 2026</title>
@@ -9190,7 +9195,7 @@
 	<programme channel="s4c" start="20260605210000 +0000" stop="20260605220000 +0000">
 		<title>Am Dro! - Cyfres 10: Pennod 4</title>
 		<desc>Gwennan, Bowen, Mark a Heulwen sy'n mynd â ni 'Am Dro' y tro hwn. Gwennan, Bowen, Mark ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhslwv.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npdwxj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260605220000 +0000" stop="20260605230500 +0000">
 		<title>Gwesty Aduniad - Cyfres 3: Pennod 7</title>
