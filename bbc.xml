@@ -163,8 +163,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260604224000 +0000" stop="20260604231000 +0000">
-		<title>Newscast - Series 7: 04/06/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Series 7: 7. The Henry Nowak Murder</title>
+		<desc>Adam, Alex, Chris and Faisal discuss the political debate following Henry Nowak’s murder.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260604231000 +0000" stop="20260604234500 +0000">
@@ -5304,7 +5304,7 @@
 	<programme channel="bbcscotland" start="20260606181500 +0000" stop="20260606183000 +0000">
 		<title>Scotland's Most Iconic Goal</title>
 		<desc>Scotland’s most iconic goal is crowned, as voted by the BBC viewers.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs7b9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nq5mns.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260606183000 +0000" stop="20260606190000 +0000">
 		<title>Icons of Football - Icons of Scotland</title>
@@ -6772,25 +6772,55 @@
 		<desc>Highlights of proceedings in the House of Commons from Thursday 4 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260605060000 +0000" stop="20260605090000 +0000">
+	<programme channel="bbcparliament" start="20260605060000 +0000" stop="20260605082500 +0000">
 		<title>Westminster Hall - 01/06/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Monday 1 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260605082500 +0000" stop="20260605090000 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Coverage of the members' statements in the Northern Ireland Assembly, on Monday 1 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260605090000 +0000" stop="20260605140000 +0000">
 		<title>House of Lords - Artificial Intelligence Debate</title>
 		<desc>Coverage of proceedings in the House of Lords on Friday 5 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260605140000 +0000" stop="20260605170000 +0000">
-		<title>House of Lords - 05/06/2026</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20260605140000 +0000" stop="20260605144500 +0000">
+		<title>Lords Questions - 01/06/2026</title>
+		<desc>Questions in the House of Lords to government ministers on Monday 1 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npm5k4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260605170000 +0000" stop="20260605200000 +0000">
-		<title>Select Committees - 05/06/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	<programme channel="bbcparliament" start="20260605144500 +0000" stop="20260605150500 +0000">
+		<title>House of Lords - Political Party Donations Private Notice Question</title>
+		<desc>The private notice question on tightening the rules on donations to political parties.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npnyyk.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260605150500 +0000" stop="20260605154000 +0000">
+		<title>House of Lords - Middle East and Economy Statement</title>
+		<desc>A statement on the economic impact and the response to the situation in the Middle East.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npp1xh.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260605154000 +0000" stop="20260605155000 +0000">
+		<title>House of Lords - UK-India Free Trade Deal</title>
+		<desc>A private notice question on the UK-India free trade deal and British steel production.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npsvqy.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260605155000 +0000" stop="20260605170000 +0000">
+		<title>House of Commons - Defence Questions</title>
+		<desc>Coverage of questions to John Healey on Monday 1 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nphjpw.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260605170000 +0000" stop="20260605191500 +0000">
+		<title>Select Committees - Health and Social Care Committee on Food and Weight Management</title>
+		<desc>The Health and Social Care committee on food and weight management, on Wednesday 3 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npwz6v.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260605191500 +0000" stop="20260605200000 +0000">
+		<title>House of Commons - South East Water Urgent Question</title>
+		<desc>Urgent question on the disruption of water supplies to areas served by South East Water.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npwvmy.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260605200000 +0000" stop="20260605203000 +0000">
 		<title>Scottish First Minister's Questions - 02/06/2026</title>
@@ -6802,20 +6832,45 @@
 		<desc>Questions to John Swinney, the first minister, on Thursday 4 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260605210000 +0000" stop="20260606000000 +0000">
-		<title>Scottish Parliament - 05/06/2026</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20260605210000 +0000" stop="20260605235500 +0000">
+		<title>Scottish Parliament - NHS Debate</title>
+		<desc>The debate on 'investing, protecting and renewing Scotland's NHS', on Wednesday 3 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260606000000 +0000" stop="20260606005000 +0000">
+	<programme channel="bbcparliament" start="20260605235500 +0000" stop="20260606000500 +0000">
+		<title>House of Lords - UK-India Free Trade Deal</title>
+		<desc>A private notice question on the UK-India free trade deal and British steel production.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npsvqy.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260606000500 +0000" stop="20260606010500 +0000">
 		<title>Welsh First Minister's Questions - 02/06/2026</title>
 		<desc>Questions in the Senedd to Rhun ap Iorwerth, the first minister, on Tuesday 2 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npx4x5.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260606005000 +0000" stop="20260606033000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 05/06/2026</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20260606010500 +0000" stop="20260606011000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Counsel General Appointment</title>
+		<desc>The announcement of the appointment of former MP Elfyn Llwyd as the counsel general.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260606011000 +0000" stop="20260606013000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Senedd Business Statement</title>
+		<desc>Coverage of the statement in the Senedd on upcoming business in the chamber.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260606013000 +0000" stop="20260606022000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Health and Care Priorities</title>
+		<desc>The statement on the Welsh government's priorities for health and social care.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260606022000 +0000" stop="20260606031000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Energy Priorities</title>
+		<desc>The statement on the Welsh government's energy priorities, from Tuesday 2 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260606031000 +0000" stop="20260606033000 +0000">
+		<title>Northern Ireland Assembly - Agriculture Statement</title>
+		<desc>Statement on the North South Ministerial Council on the agriculture and farming sectors.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260606033000 +0000" stop="20260606041500 +0000">
 		<title>Northern Ireland Assembly - Education Questions</title>
@@ -6823,8 +6878,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nphf69.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260606041500 +0000" stop="20260606050000 +0000">
-		<title>Northern Ireland Assembly - 05/06/2026</title>
-		<desc>Highlights from the Northern Ireland Assembly.</desc>
+		<title>Northern Ireland Assembly - Finance Questions</title>
+		<desc>Questions in Stormont to the finance minister, John O'Dowd, on Monday 1 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260606050000 +0000" stop="20260606100000 +0000">
