@@ -5631,9 +5631,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260609233000 +0000" stop="20260610000000 +0000">
-		<title>Newscast - 09/06/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
+		<title>Talking Business - 05/06/2026</title>
+		<desc>What is the impact of AI on graduates' prospects?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260610000000 +0000" stop="20260610003000 +0000">
 		<title>BBC News - 10/06/2026</title>
@@ -6693,7 +6693,7 @@
 	<programme channel="bbcparliament" start="20260609090000 +0000" stop="20260609103000 +0000">
 		<title>Select Committees - Culture, Media and Sport Committee on the BBC Royal Charter Review</title>
 		<desc>Coverage of select committee proceedings on Tuesday 9 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nr1gr9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260609103000 +0000" stop="20260609114500 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
@@ -6710,15 +6710,30 @@
 		<desc>A statement by the foreign secretary Yvette Cooper on developments in the Middle East.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqz497.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260609140000 +0000" stop="20260609183000 +0000">
+	<programme channel="bbcparliament" start="20260609140000 +0000" stop="20260609173000 +0000">
 		<title>House of Commons - 09/06/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 9 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260609183000 +0000" stop="20260609210000 +0000">
+	<programme channel="bbcparliament" start="20260609173000 +0000" stop="20260609191000 +0000">
 		<title>House of Lords - 09/06/2026</title>
 		<desc>Coverage of proceedings in the House of Lords on Tuesday 9 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260609191000 +0000" stop="20260609202500 +0000">
+		<title>House of Commons - Health and Social Care Questions</title>
+		<desc>Coverage of questions to James Murray on Tuesday 9 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqytqb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260609202500 +0000" stop="20260609205000 +0000">
+		<title>House of Commons - Cuba Urgent Question</title>
+		<desc>Coverage of the urgent question on the humanitarian situation in Cuba, on Monday 8 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqtsq7.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260609205000 +0000" stop="20260609210000 +0000">
+		<title>House of Lords - Russian Attacks on Ukraine Question</title>
+		<desc>An urgent question on recent Russian attacks on civilian infrastructure in Ukraine.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqyq1x.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260609210000 +0000" stop="20260609220000 +0000">
 		<title>Welsh First Minister's Questions - 09/06/2026</title>
@@ -6750,39 +6765,44 @@
 		<desc>Statement in the House of Lords on the performance of the water sector, on Tuesday 9 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260609234500 +0000" stop="20260610014500 +0000">
+	<programme channel="bbcparliament" start="20260609234500 +0000" stop="20260610013000 +0000">
 		<title>House of Lords - Commercial Payments Bill, Part 1</title>
 		<desc>The debate on the second reading of the Commercial Payments Bill, on Tuesday 9 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260610014500 +0000" stop="20260610034500 +0000">
+	<programme channel="bbcparliament" start="20260610013000 +0000" stop="20260610023000 +0000">
 		<title>House of Lords - Commercial Payments Bill, Part 2</title>
 		<desc>The debate on the second reading of the Commercial Payments Bill, on Tuesday 9 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260610034500 +0000" stop="20260610044500 +0000">
+	<programme channel="bbcparliament" start="20260610023000 +0000" stop="20260610032500 +0000">
 		<title>House of Lords - Ecodesign for Energy-Related Products Regulations</title>
 		<desc>Debate on the Ecodesign for Energy-Related Products Regulations, on Tuesday 9 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260610044500 +0000" stop="20260610060000 +0000">
+	<programme channel="bbcparliament" start="20260610032500 +0000" stop="20260610035500 +0000">
 		<title>House of Lords - Clean Air Zones Regulations</title>
 		<desc>Debate in the House of Lords on the motion to approve the Clean Air Zones Regulations.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260610060000 +0000" stop="20260610070000 +0000">
+	<programme channel="bbcparliament" start="20260610035500 +0000" stop="20260610054500 +0000">
+		<title>Select Committees - Health and Social Care Committee on the Health Bill</title>
+		<desc>The Health and Social Care committee session on the Health Bill, from Tuesday 2 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260610054500 +0000" stop="20260610065500 +0000">
 		<title>House of Commons - Health and Social Care Questions</title>
 		<desc>Coverage of questions to James Murray on Tuesday 9 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqytqb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260610070000 +0000" stop="20260610083000 +0000">
-		<title>House of Commons - 09/06/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 9 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260610065500 +0000" stop="20260610084500 +0000">
+		<title>House of Commons - Middle East Statement</title>
+		<desc>A statement by the foreign secretary Yvette Cooper on developments in the Middle East.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqz497.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260610083000 +0000" stop="20260610103000 +0000">
-		<title>Select Committees - Health and Social Care Committee on Children's and Young People's Mental Health</title>
-		<desc>The Health and Social Care committee on children's and young people's mental health.</desc>
+	<programme channel="bbcparliament" start="20260610084500 +0000" stop="20260610103000 +0000">
+		<title>Select Committees - Public Accounts Committee on Sizewell C Nuclear Power Plant</title>
+		<desc>The Public Accounts committee on the Sizewell C nuclear power plant, from Monday 8 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260610103000 +0000" stop="20260610110000 +0000">
