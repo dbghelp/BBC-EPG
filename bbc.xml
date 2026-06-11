@@ -737,9 +737,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cnw9st.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260611161500 +0000" stop="20260611170000 +0000">
-		<title>Queen's Tennis - 2026: Day 4</title>
-		<desc>Live coverage from day 4 of the 2026 Queen's tennis tournament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqb4x6.jpg" />
+		<title>Flog It! - Series 15: 58. Compilation - Antony 60</title>
+		<desc>Paul Martin uncovers the story of the shipwrecked Metta Catharina in Cornwall.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260611170000 +0000" stop="20260611173000 +0000">
 		<title>Richard Osman's House of Games - Series 8: Week 11: Thursday</title>
@@ -6714,60 +6714,70 @@
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 11 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260611150000 +0000" stop="20260611163000 +0000">
+	<programme channel="bbcparliament" start="20260611150000 +0000" stop="20260611162500 +0000">
 		<title>House of Lords - 11/06/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Lords, on Thursday 11 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260611163000 +0000" stop="20260611170500 +0000">
-		<title>Scottish First Minister's Questions - 11/06/2026</title>
-		<desc>Questions to John Swinney, the first minister, on Thursday 11 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260611170500 +0000" stop="20260611175000 +0000">
-		<title>Lords Questions - 11/06/2026</title>
-		<desc>Questions in the House of Lords to government ministers on Thursday 11 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260611175000 +0000" stop="20260611191500 +0000">
-		<title>House of Lords - Welfare and Youth Unemployment Debate, Part 1</title>
-		<desc>Coverage of the debate on welfare reforms and youth unemployment, on Thursday 11 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260611191500 +0000" stop="20260611204000 +0000">
-		<title>House of Lords - Welfare and Youth Unemployment Debate, Part 2</title>
-		<desc>Coverage of the debate on welfare reforms and youth unemployment, on Thursday 11 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260611204000 +0000" stop="20260611214000 +0000">
-		<title>House of Lords - Bosnia and Herzegovina Debate</title>
-		<desc>Coverage of the debate on the political and security situation in Bosnia and Herzegovina.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260611214000 +0000" stop="20260611234500 +0000">
-		<title>House of Lords - Rural Economy Debate</title>
-		<desc>Coverage of the debate in the House of Lords on the rural economy, on Thursday 11 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260611234500 +0000" stop="20260612004500 +0000">
-		<title>House of Commons - Transport Questions</title>
-		<desc>Coverage of questions to Heidi Alexander on Thursday 11 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nrfbc3.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260612004500 +0000" stop="20260612010000 +0000">
+	<programme channel="bbcparliament" start="20260611162500 +0000" stop="20260611164000 +0000">
 		<title>House of Commons - VAT and Medicine Schemes Urgent Question</title>
 		<desc>Urgent question on the effect of VAT on medicines through compassionate use schemes.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nrfc1s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260612010000 +0000" stop="20260612015000 +0000">
+	<programme channel="bbcparliament" start="20260611164000 +0000" stop="20260611171500 +0000">
+		<title>Scottish First Minister's Questions - 11/06/2026</title>
+		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 11 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260611171500 +0000" stop="20260611180000 +0000">
+		<title>Lords Questions - 11/06/2026</title>
+		<desc>Questions in the House of Lords to government ministers on Thursday 11 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260611180000 +0000" stop="20260611192500 +0000">
+		<title>House of Lords - Welfare and Youth Unemployment Debate, Part 1</title>
+		<desc>Coverage of the debate on welfare reforms and youth unemployment, on Thursday 11 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260611192500 +0000" stop="20260611205000 +0000">
+		<title>House of Lords - Welfare and Youth Unemployment Debate, Part 2</title>
+		<desc>Coverage of the debate on welfare reforms and youth unemployment, on Thursday 11 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260611205000 +0000" stop="20260611215000 +0000">
+		<title>House of Lords - Bosnia and Herzegovina Debate</title>
+		<desc>Coverage of the debate on the political and security situation in Bosnia and Herzegovina.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260611215000 +0000" stop="20260611233500 +0000">
+		<title>House of Lords - Rural Economy Debate</title>
+		<desc>Coverage of the debate in the House of Lords on the rural economy, on Thursday 11 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260611233500 +0000" stop="20260612003500 +0000">
+		<title>House of Commons - Transport Questions</title>
+		<desc>Coverage of questions to Heidi Alexander on Thursday 11 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nrfbc3.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260612003500 +0000" stop="20260612004500 +0000">
+		<title>House of Commons - VAT and Medicine Schemes Urgent Question</title>
+		<desc>Urgent question on the effect of VAT on medicines through compassionate use schemes.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nrfc1s.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260612004500 +0000" stop="20260612014000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 11 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nrgcd8.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260612015000 +0000" stop="20260612050000 +0000">
-		<title>House of Commons - 11/06/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 11 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260612014000 +0000" stop="20260612041500 +0000">
+		<title>Northern Ireland Assembly - Justice Bill</title>
+		<desc>Coverage of the debate on the consideration stage of the Justice Bill, from Monday 8 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260612041500 +0000" stop="20260612050000 +0000">
+		<title>Lords Questions - 11/06/2026</title>
+		<desc>Questions in the House of Lords to government ministers on Thursday 11 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260612050000 +0000" stop="20260612080000 +0000">
 		<title>Westminster Hall - 08/06/2026</title>
@@ -6816,7 +6826,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20260612203000 +0000" stop="20260612210000 +0000">
 		<title>Scottish First Minister's Questions - 11/06/2026</title>
-		<desc>Questions to John Swinney, the first minister, on Thursday 11 June.</desc>
+		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 11 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260612210000 +0000" stop="20260612232500 +0000">
@@ -6876,7 +6886,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20260613110500 +0000" stop="20260613113500 +0000">
 		<title>Scottish First Minister's Questions - 11/06/2026</title>
-		<desc>Questions to John Swinney, the first minister, on Thursday 11 June.</desc>
+		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 11 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260613113500 +0000" stop="20260613122500 +0000">
@@ -6931,7 +6941,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20260614001000 +0000" stop="20260614004000 +0000">
 		<title>Scottish First Minister's Questions - 11/06/2026</title>
-		<desc>Questions to John Swinney, the first minister, on Thursday 11 June.</desc>
+		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 11 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260614004000 +0000" stop="20260614013000 +0000">
@@ -7001,7 +7011,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20260614145500 +0000" stop="20260614152500 +0000">
 		<title>Scottish First Minister's Questions - 11/06/2026</title>
-		<desc>Questions to John Swinney, the first minister, on Thursday 11 June.</desc>
+		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 11 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260614152500 +0000" stop="20260614161500 +0000">
@@ -7051,7 +7061,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20260615034000 +0000" stop="20260615041000 +0000">
 		<title>Scottish First Minister's Questions - 11/06/2026</title>
-		<desc>Questions to John Swinney, the first minister, on Thursday 11 June.</desc>
+		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 11 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260615041000 +0000" stop="20260615050000 +0000">
@@ -7081,7 +7091,7 @@
 	</programme>
 	<programme channel="bbcparliament" start="20260615100500 +0000" stop="20260615103500 +0000">
 		<title>Scottish First Minister's Questions - 11/06/2026</title>
-		<desc>Questions to John Swinney, the first minister, on Thursday 11 June.</desc>
+		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 11 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260615103500 +0000" stop="20260615111000 +0000">
