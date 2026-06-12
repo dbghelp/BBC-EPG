@@ -1227,10 +1227,15 @@
 		<desc>A round-up of the day's news with Ben Henley-Washford.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260612180500 +0000" stop="20260612200000 +0000">
+	<programme channel="bbcthree" start="20260612180500 +0000" stop="20260612195000 +0000">
 		<title>Queen's Tennis - 2026: Day 5</title>
 		<desc>Live coverage from day 5 of the 2026 Queen's tennis tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqb4x6.jpg" />
+	</programme>
+	<programme channel="bbcthree" start="20260612195000 +0000" stop="20260612200000 +0000">
+		<title>BBC Comedy Short Films - Jobless</title>
+		<desc>Sixteen-year-old twins Tai and Kenny dream of independence (and cash) in Milton Keynes.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpz1k0.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260612200000 +0000" stop="20260612210000 +0000">
 		<title>Death in Paradise - Series 14: Episode 3</title>
