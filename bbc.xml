@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260612083000 +0000" stop="20260612094500 +0000">
 		<title>Morning Live - Series 8: 12/06/2026</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Gethin and Gaby discuss how to respond in a medical emergency with Dr Kiran.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhggnm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260612094500 +0000" stop="20260612101500 +0000">
@@ -736,27 +736,32 @@
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260612220000 +0000" stop="20260613001000 +0000">
+	<programme channel="bbctwo" start="20260612220000 +0000" stop="20260612225500 +0000">
+		<title>imagine... - Summer 2009: 2. David Hockney - A Bigger Picture</title>
+		<desc>The return from California of one of England's favourite artists, at the age of 70.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nrq2sy.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260612225500 +0000" stop="20260613010500 +0000">
 		<title>Queer</title>
 		<desc>When William Lee meets an enigmatic student in Mexico City, he becomes obsessed.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0myvmhq.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260613001000 +0000" stop="20260613021500 +0000">
+	<programme channel="bbctwo" start="20260613010500 +0000" stop="20260613031000 +0000">
 		<title>Queen and Slim</title>
 		<desc>A couple's first date takes an unexpected turn when a police officer pulls them over.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d2qby5.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260613021500 +0000" stop="20260613024500 +0000">
+	<programme channel="bbctwo" start="20260613031000 +0000" stop="20260613034000 +0000">
 		<title>Panorama - Predator: The Billionaire Football Boss</title>
 		<desc>A joint investigation by Panorama and the Times into the behaviour of David Sullivan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqq93x.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260613024500 +0000" stop="20260613034500 +0000">
+	<programme channel="bbctwo" start="20260613034000 +0000" stop="20260613044000 +0000">
 		<title>MasterChef - Series 22: 21. The Final</title>
 		<desc>It’s the MasterChef final, and one of the three cooks remaining will take home the trophy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0np1gv8.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260613034500 +0000" stop="20260613051000 +0000">
+	<programme channel="bbctwo" start="20260613044000 +0000" stop="20260613051000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -882,22 +887,27 @@
 		<desc>The story of England's newest recruits, from grassroots heroes to Europe's biggest stage.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntxb3.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260614041000 +0000" stop="20260614053000 +0000">
+	<programme channel="bbctwo" start="20260614041000 +0000" stop="20260614052500 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260614053000 +0000" stop="20260614060000 +0000">
+	<programme channel="bbctwo" start="20260614052500 +0000" stop="20260614061000 +0000">
+		<title>The A to Z of TV Gardening - Original Series: 7. Letter G</title>
+		<desc>Carol explores subjects that all begin with the letter G.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08vql0p.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260614061000 +0000" stop="20260614064000 +0000">
 		<title>Beechgrove Garden - 2026: Episode 11</title>
 		<desc>George Anderson and Ruth Vichos are back in the Beechgrove Garden just outside Aberdeen.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npvj6c.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260614060000 +0000" stop="20260614063000 +0000">
+	<programme channel="bbctwo" start="20260614064000 +0000" stop="20260614071000 +0000">
 		<title>Landward - 2026: Episode 10</title>
 		<desc>Dougie is in East Sutherland to find out about the challenges of modern crofting.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nnkb0t.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260614063000 +0000" stop="20260614095500 +0000">
+	<programme channel="bbctwo" start="20260614071000 +0000" stop="20260614095500 +0000">
 		<title>FIFA World Cup 2026 - Group Stage: Haiti v Scotland</title>
 		<desc>Coverage of the Group C match between Haiti and Scotland from Boston Stadium.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nr03nd.jpg" />
@@ -1214,18 +1224,13 @@
 	</programme>
 	<programme channel="bbcthree" start="20260612180000 +0000" stop="20260612180500 +0000">
 		<title>The Catch Up - 12/06/2026</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Ben Henley-Washford.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260612180500 +0000" stop="20260612183500 +0000">
-		<title>Deadly 60 - Series 7: 2. Blue Whales and Saltwater Crocodiles</title>
-		<desc>Steve Backshall heads to Timor Leste in search of giants.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n88ddn.jpg" />
-	</programme>
-	<programme channel="bbcthree" start="20260612183500 +0000" stop="20260612200000 +0000">
-		<title>Shrek the Third</title>
-		<desc>Animated sequel. Shrek must find the heir to the throne or face becoming king himself.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l39b2d.jpg" />
+	<programme channel="bbcthree" start="20260612180500 +0000" stop="20260612200000 +0000">
+		<title>Queen's Tennis - 2026: Day 5</title>
+		<desc>Live coverage from day 5 of the 2026 Queen's tennis tournament.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqb4x6.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260612200000 +0000" stop="20260612210000 +0000">
 		<title>Death in Paradise - Series 14: Episode 3</title>
@@ -5590,7 +5595,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260612223000 +0000" stop="20260612230000 +0000">
 		<title>The President's Path - Why Trump is Hosting a UFC Cage Fight at the White House</title>
-		<desc>Trump marks his birthday with a White House cage fight as the World Cup comes to America,</desc>
+		<desc>Trump marks his birthday with a White House cage fight as the World Cup comes to America.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260612230000 +0000" stop="20260612233000 +0000">
@@ -5725,7 +5730,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260613144500 +0000" stop="20260613150000 +0000">
 		<title>Newswatch - 13/06/2026</title>
-		<desc>Your views on the coverage of events by BBC News.</desc>
+		<desc>Did the BBC’s coverage of the Belfast knife attack fan the flames of racial tension?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r0tr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260613150000 +0000" stop="20260613153000 +0000">
@@ -5885,7 +5890,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260614103000 +0000" stop="20260614110000 +0000">
 		<title>The President's Path - Why Trump is Hosting a UFC Cage Fight at the White House</title>
-		<desc>Trump marks his birthday with a White House cage fight as the World Cup comes to America,</desc>
+		<desc>Trump marks his birthday with a White House cage fight as the World Cup comes to America.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260614110000 +0000" stop="20260614113000 +0000">
@@ -7029,12 +7034,12 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nr4ypk.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260612170000 +0000" stop="20260612171000 +0000">
-		<title>An Teaghlach Rìoghail an Ath-dhoras/The Royal Next Door - Series 1: 1. Ridir Mòr a-Muigh</title>
+		<title>An Teaghlach Rìoghail an Ath-dhoras/The Royals Next Door - Series 1: 1. Ridir Mòr a-Muigh</title>
 		<desc>Mìcheal is coming over to study mathematics tonight, and Stella is excited!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ggl7x5.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260612171000 +0000" stop="20260612172000 +0000">
-		<title>An Teaghlach Rìoghail an Ath-dhoras/The Royal Next Door - Series 1: 2. Mòr-ghreadhnachas</title>
+		<title>An Teaghlach Rìoghail an Ath-dhoras/The Royals Next Door - Series 1: 2. Mòr-ghreadhnachas</title>
 		<desc>Stella wants the family to be normal today, like everybody else!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gglgbv.jpg" />
 	</programme>
@@ -7110,7 +7115,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260613150000 +0000" stop="20260613171000 +0000">
-		<title>Camanachd air BBC ALBA/Shinty on BBC ALBA - 2026/27: 1. MacTavish Cup Final - Kingussie v Newtonmore</title>
+		<title>Camanachd air BBC ALBA/Shinty on BBC ALBA - 2026/27: MacTavish Cup Final - Kingussie v Newtonmore</title>
 		<desc>Live from Bught Park, Kingussie and Newtonmore meet in the MacTavish final.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nq30fg.jpg" />
 	</programme>
@@ -7325,12 +7330,12 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nr4y02.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260615170000 +0000" stop="20260615171000 +0000">
-		<title>An Teaghlach Rìoghail an Ath-dhoras/The Royal Next Door - Series 1: 3. An Caraid Rìoghail Nach Trèig Sinn</title>
+		<title>An Teaghlach Rìoghail an Ath-dhoras/The Royals Next Door - Series 1: 3. An Caraid Rìoghail Nach Trèig Sinn</title>
 		<desc>Tha pàrtaidh gu bhith ann. Cò thèid ann? There’s going to be a party. Who will go?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gjncsh.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260615171000 +0000" stop="20260615172500 +0000">
-		<title>An Teaghlach Rìoghail an Ath-dhoras/The Royal Next Door - Series 1: 4. Oidhche Rìoghail nan Geamaichean</title>
+		<title>An Teaghlach Rìoghail an Ath-dhoras/The Royals Next Door - Series 1: 4. Oidhche Rìoghail nan Geamaichean</title>
 		<desc>Tha Stella ag ullachadh gheamaichean teaghlaich. Stella is organising family games.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gjnmfl.jpg" />
 	</programme>
