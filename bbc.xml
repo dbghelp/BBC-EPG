@@ -762,15 +762,10 @@
 		<desc>Villagers in a small settlement hire a group of gunfighters to protect them from bandits.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0df5nw9.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260613162000 +0000" stop="20260613175000 +0000">
+	<programme channel="bbctwo" start="20260613162000 +0000" stop="20260613180500 +0000">
 		<title>Queen's Tennis - 2026: Day 6</title>
 		<desc>Live coverage from day 6 of the 2026 Queen's tennis tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqb4x6.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260613175000 +0000" stop="20260613180500 +0000">
-		<title>Natural World - 2011-2012: Killer Bees of Africa</title>
-		<desc>The life of the queen African honeybee and her colony as they fight to survive.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09r3t1m.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260613180500 +0000" stop="20260613193500 +0000">
 		<title>Trooping the Colour - Highlights 2026</title>
@@ -5571,10 +5566,15 @@
 		<desc>Lighthearted discussion of the day's news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l96xm2.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260613200000 +0000" stop="20260613210000 +0000">
+	<programme channel="bbcnews" start="20260613200000 +0000" stop="20260613203000 +0000">
 		<title>BBC News - 13/06/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260613203000 +0000" stop="20260613210000 +0000">
+		<title>Preview: Haiti v Scotland</title>
+		<desc>Scotland heads back to the World Cup stage after 28 years.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260613210000 +0000" stop="20260613220000 +0000">
 		<title>BBC News - 13/06/2026</title>
@@ -7011,10 +7011,15 @@
 		<desc>Sealladh ùr bho Alba. A new view from Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260613150000 +0000" stop="20260613173000 +0000">
+	<programme channel="bbcalba" start="20260613150000 +0000" stop="20260613172500 +0000">
 		<title>Camanachd air BBC ALBA/Shinty on BBC ALBA - 2026/27: MacTavish Cup Final - Kingussie v Newtonmore</title>
 		<desc>Live from Bught Park, Kingussie and Newtonmore meet in the MacTavish final.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nq30fg.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20260613172500 +0000" stop="20260613173000 +0000">
+		<title>Celtic Connections Shorts - Series 1: Episode 8</title>
+		<desc>The Seumas Egan Project from the States perform one of their own tunes. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08ffyxn.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260613173000 +0000" stop="20260613174500 +0000">
 		<title>An Là - 13/06/2026</title>
