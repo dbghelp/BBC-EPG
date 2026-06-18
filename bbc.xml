@@ -501,7 +501,7 @@
 	<programme channel="bbcone" start="20260621213000 +0000" stop="20260622001500 +0000">
 		<title>FIFA World Cup 2026 - Group Stage: Uruguay v Cape Verde</title>
 		<desc>Live coverage as Cape Verde and Uruguay play their second match in Group H.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nssklf.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260622001500 +0000" stop="20260622002000 +0000">
 		<title>Weather for the Week Ahead - 22/06/2026</title>
@@ -589,7 +589,7 @@
 	<programme channel="bbcone" start="20260622163000 +0000" stop="20260622193000 +0000">
 		<title>FIFA World Cup 2026 - Group Stage: Argentina v Austria</title>
 		<desc>Live coverage from Dallas as defending champions Argentina play Austria in Group J.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nssz3y.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260622193000 +0000" stop="20260622200000 +0000">
 		<title>EastEnders - 22/06/2026</title>
@@ -610,7 +610,7 @@
 	<programme channel="bbcone" start="20260622203000 +0000" stop="20260622233000 +0000">
 		<title>FIFA World Cup 2026 - Group Stage: France v Iraq</title>
 		<desc>Live coverage from Philadelphia as France play Iraq in the second round of Group I games.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsspnh.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260622233000 +0000" stop="20260623005500 +0000">
 		<title>Alan Partridge: Alpha Papa</title>
@@ -5506,15 +5506,10 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260618150000 +0000" stop="20260618153000 +0000">
+	<programme channel="bbcnews" start="20260618150000 +0000" stop="20260618154500 +0000">
 		<title>Verified Live - 18/06/2026</title>
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260618153000 +0000" stop="20260618154500 +0000">
-		<title>Business Today - 18/06/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260618154500 +0000" stop="20260618160000 +0000">
 		<title>Verified Live - 18/06/2026</title>
@@ -5817,8 +5812,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260620133000 +0000" stop="20260620140000 +0000">
-		<title>AI Decoded - 20/06/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - Is Gen Z Trapped by AI</title>
+		<desc>Young people were told AI would make them sharper, faster and creative, but it's complex.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260620140000 +0000" stop="20260620143000 +0000">
@@ -5957,8 +5952,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260621033000 +0000" stop="20260621040000 +0000">
-		<title>AI Decoded - 20/06/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - Is Gen Z Trapped by AI</title>
+		<desc>Young people were told AI would make them sharper, faster and creative, but it's complex.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260621040000 +0000" stop="20260621043000 +0000">
@@ -6107,8 +6102,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260621223000 +0000" stop="20260621230000 +0000">
-		<title>AI Decoded - 20/06/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - Is Gen Z Trapped by AI</title>
+		<desc>Young people were told AI would make them sharper, faster and creative, but it's complex.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260621230000 +0000" stop="20260621233000 +0000">
@@ -6501,90 +6496,150 @@
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260618110000 +0000" stop="20260618163000 +0000">
+	<programme channel="bbcparliament" start="20260618110000 +0000" stop="20260618150000 +0000">
 		<title>House of Commons - 18/06/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260618150000 +0000" stop="20260618160000 +0000">
+		<title>House of Lords - 18/06/2026</title>
+		<desc>Coverage of a general debate in the House of Lords on child poverty, on Thursday 18 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260618160000 +0000" stop="20260618163000 +0000">
+		<title>House of Commons - Independent Grooming Gang Inquiry Urgent Question</title>
+		<desc>Urgent question on progress since the review into group-based child exploitation.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsr8wq.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260618163000 +0000" stop="20260618170000 +0000">
 		<title>Scottish First Minister's Questions - 18/06/2026</title>
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260618170000 +0000" stop="20260618174500 +0000">
+	<programme channel="bbcparliament" start="20260618170000 +0000" stop="20260618174000 +0000">
 		<title>Lords Questions - 18/06/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260618174500 +0000" stop="20260618175000 +0000">
+	<programme channel="bbcparliament" start="20260618174000 +0000" stop="20260618174500 +0000">
 		<title>House of Lords - Introduction of Baroness Grainger</title>
 		<desc>The introduction of Baroness Grainger to the House of Lords, on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260618175000 +0000" stop="20260618180000 +0000">
+	<programme channel="bbcparliament" start="20260618174500 +0000" stop="20260618180000 +0000">
 		<title>House of Lords - Steel Tariffs Statement</title>
 		<desc>The statement by business and trade minister Lord Leong on steel tariffs, on 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260618180000 +0000" stop="20260618200000 +0000">
-		<title>House of Lords - Jo Cox Civility Commission</title>
-		<desc>The debate on communities and the recommendations of the Jo Cox Civility Commission.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260618200000 +0000" stop="20260618210000 +0000">
+	<programme channel="bbcparliament" start="20260618180000 +0000" stop="20260618183500 +0000">
 		<title>House of Lords - Severe ME Debate</title>
 		<desc>The debate in the House of Lords on the treatment of severe myalgic encephalomyelitis.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260618210000 +0000" stop="20260618223000 +0000">
+	<programme channel="bbcparliament" start="20260618183500 +0000" stop="20260618202500 +0000">
 		<title>House of Lords - Child Poverty Debate, Part 1</title>
 		<desc>The debate in the House of Lords on tackling child poverty, on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260618223000 +0000" stop="20260619010000 +0000">
+	<programme channel="bbcparliament" start="20260618202500 +0000" stop="20260618211500 +0000">
 		<title>House of Lords - Child Poverty Debate, Part 2</title>
 		<desc>The debate in the House of Lords on tackling child poverty, on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260619010000 +0000" stop="20260619014000 +0000">
+	<programme channel="bbcparliament" start="20260618211500 +0000" stop="20260618225000 +0000">
+		<title>House of Lords - Jo Cox Civility Commission</title>
+		<desc>The debate on communities and the recommendations of the Jo Cox Civility Commission.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260618225000 +0000" stop="20260618233000 +0000">
 		<title>House of Commons - Culture, Media and Sport Questions</title>
 		<desc>Coverage of questions to Lisa Nandy on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsr5tp.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260619014000 +0000" stop="20260619020000 +0000">
+	<programme channel="bbcparliament" start="20260618233000 +0000" stop="20260618235000 +0000">
 		<title>House of Commons - Commissioners Questions</title>
 		<desc>Coverage of Commissioners Questions in the House of Commons, on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsr7mh.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260619020000 +0000" stop="20260619030000 +0000">
+	<programme channel="bbcparliament" start="20260618235000 +0000" stop="20260619010000 +0000">
 		<title>House of Commons - Commons Business Questions</title>
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260619030000 +0000" stop="20260619050000 +0000">
-		<title>House of Commons - 18/06/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Thursday 18 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260619010000 +0000" stop="20260619025000 +0000">
+		<title>Select Committees - Treasury Committee on Student Loans</title>
+		<desc>The Treasury committee on student loans and the taxation of graduates, on Tuesday 2 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npm709.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260619050000 +0000" stop="20260619080000 +0000">
+	<programme channel="bbcparliament" start="20260619025000 +0000" stop="20260619030500 +0000">
+		<title>Select Committees - Public Accounts Committee on Sizewell C Nuclear Power Plant</title>
+		<desc>The Public Accounts committee on the Sizewell C nuclear power plant, from Monday 8 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nr4dpq.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260619030500 +0000" stop="20260619044500 +0000">
+		<title>House of Lords - US-Iran Deal</title>
+		<desc>The private notice question on the situation in the Middle East, on Monday 15 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns8hfs.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260619044500 +0000" stop="20260619050000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260619050000 +0000" stop="20260619071500 +0000">
 		<title>Westminster Hall - 15/06/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Monday 15 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260619080000 +0000" stop="20260619130000 +0000">
-		<title>Select Committees - 19/06/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20260619071500 +0000" stop="20260619094500 +0000">
+		<title>Select Committees - Public Administration and Constitutional Affairs Committee on the Work of the Cabinet Office</title>
+		<desc>The Public Administration and Constitutional Affairs committee on the Cabinet Office.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260619130000 +0000" stop="20260619170000 +0000">
-		<title>House of Lords - 19/06/2026</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
+	<programme channel="bbcparliament" start="20260619094500 +0000" stop="20260619112000 +0000">
+		<title>Select Committees - Home Affairs Committee on Organised Crime</title>
+		<desc>The Home Affairs committee on organised crime embedded in local neighbourhoods.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260619112000 +0000" stop="20260619131500 +0000">
+		<title>House of Lords - Social Housing Bill, Part 1</title>
+		<desc>The second day of the committee stage of the Social Housing Bill, on Wednesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260619170000 +0000" stop="20260619200000 +0000">
-		<title>Select Committees - 19/06/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20260619131500 +0000" stop="20260619150500 +0000">
+		<title>House of Lords - Social Housing Bill, Part 2</title>
+		<desc>The second day of the committee stage of the Social Housing Bill, on Wednesday 17 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260619150500 +0000" stop="20260619160500 +0000">
+		<title>House of Lords - Social Housing Bill, Part 3</title>
+		<desc>The second day of the committee stage of the Social Housing Bill, on Wednesday 17 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260619160500 +0000" stop="20260619164000 +0000">
+		<title>House of Lords - Russian Shadow Oil Tanker Fleet Statement</title>
+		<desc>The statement on the Russian shadow fleet following the seizure of an oil tanker.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsk7q6.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260619164000 +0000" stop="20260619181500 +0000">
+		<title>Select Committees - Lords International Relations and Defence Committee on the Strategic Defence Review</title>
+		<desc>The Lords International Relations and Defence committee on the Strategic Defence Review.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260619181500 +0000" stop="20260619185000 +0000">
+		<title>Scottish Parliament - Justice Questions</title>
+		<desc>Questions to justice ministers in the Scottish government on Wednesday 17 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260619185000 +0000" stop="20260619191500 +0000">
+		<title>Scottish Parliament - Law Officers Debate</title>
+		<desc>Debate on the possible appointments for Lord Advocate and Solicitor General for Scotland.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260619191500 +0000" stop="20260619200000 +0000">
+		<title>Northern Ireland Assembly - Communities Questions</title>
+		<desc>Coverage of questions to the communities minister Gordon Lyons, on Monday 15 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns8fn1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260619200000 +0000" stop="20260619203000 +0000">
 		<title>Scottish First Minister's Questions - 16/06/2026</title>
@@ -6596,20 +6651,35 @@
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260619210000 +0000" stop="20260620000000 +0000">
-		<title>Scottish Parliament - 19/06/2026</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20260619210000 +0000" stop="20260619230000 +0000">
+		<title>Scottish Parliament - Affordable Bus Fares Debate</title>
+		<desc>Coverage of a general debate on affordable bus fares, on Wednesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620000000 +0000" stop="20260620010000 +0000">
+	<programme channel="bbcparliament" start="20260619230000 +0000" stop="20260620001000 +0000">
 		<title>Welsh First Minister's Questions - 16/06/2026</title>
 		<desc>Questions in the Senedd to Rhun ap Iorwerth, the first minister, on Tuesday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsldl6.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620010000 +0000" stop="20260620033000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 19/06/2026</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20260620001000 +0000" stop="20260620010000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Government Effectiveness Questions</title>
+		<desc>Questions to Dafydd Trystan Davies, cabinet minister for government effectiveness.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260620010000 +0000" stop="20260620015000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Education Statement</title>
+		<desc>A statement by Heledd Fychan on priorities for culture and sport in Wales, on 16 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260620015000 +0000" stop="20260620024000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Culture and Sport Statement</title>
+		<desc>A statement by Anna Brychan on priorities for education, on Tuesday 16 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260620024000 +0000" stop="20260620033000 +0000">
+		<title>Northern Ireland Assembly - Belfast Unrest</title>
+		<desc>A 'matter of the day' debate on the recent riots in Belfast, on Monday 15 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns4fnw.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260620033000 +0000" stop="20260620041500 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
@@ -6617,9 +6687,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns4gd6.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260620041500 +0000" stop="20260620050000 +0000">
-		<title>Northern Ireland Assembly - Communities Questions</title>
-		<desc>Coverage of questions to the communities minister Gordon Lyons, on Monday 15 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns8fn1.jpg" />
+		<title>Northern Ireland Assembly - Security Measures for Healthcare Staff Urgent Question</title>
+		<desc>An urgent question on security measures to protect healthcare staff, on Monday 15 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260620050000 +0000" stop="20260620100000 +0000">
 		<title>Westminster Hall - 16/06/2026</title>
