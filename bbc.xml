@@ -1087,8 +1087,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09tp5rk.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260622213000 +0000" stop="20260622215800 +0000">
-		<title>Newsnight - Under-16s Social Media Ban</title>
-		<desc>Elon Musk slams Sir Keir Starmer's social media ban for under-16s.</desc>
+		<title>Newsnight - 22/06/2026</title>
+		<desc>Insights and global interviews on the news stories of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260622215800 +0000" stop="20260622220000 +0000">
@@ -6202,8 +6202,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260622213000 +0000" stop="20260622220000 +0000">
-		<title>Newsnight - Under-16s Social Media Ban</title>
-		<desc>Elon Musk slams Sir Keir Starmer's social media ban for under-16s.</desc>
+		<title>Newsnight - 22/06/2026</title>
+		<desc>Insights and global interviews on the news stories of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260622220000 +0000" stop="20260622230000 +0000">
@@ -6554,22 +6554,22 @@
 	<programme channel="bbcparliament" start="20260619050000 +0000" stop="20260619071500 +0000">
 		<title>Westminster Hall - 15/06/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Monday 15 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt1b62.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260619071500 +0000" stop="20260619094500 +0000">
 		<title>Select Committees - Public Administration and Constitutional Affairs Committee on the Work of the Cabinet Office</title>
 		<desc>The Public Administration and Constitutional Affairs committee on the Cabinet Office.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt0vhx.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260619094500 +0000" stop="20260619112000 +0000">
 		<title>Select Committees - Home Affairs Committee on Organised Crime</title>
 		<desc>The Home Affairs committee on organised crime embedded in local neighbourhoods.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt0wvn.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260619112000 +0000" stop="20260619131500 +0000">
 		<title>House of Lords - Social Housing Bill, Part 1</title>
 		<desc>The second day of the committee stage of the Social Housing Bill, on Wednesday 17 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt114c.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260619131500 +0000" stop="20260619150500 +0000">
 		<title>House of Lords - Social Housing Bill, Part 2</title>
@@ -6656,110 +6656,115 @@
 		<desc>An urgent question on security measures to protect healthcare staff, on Monday 15 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620050000 +0000" stop="20260620100000 +0000">
+	<programme channel="bbcparliament" start="20260620050000 +0000" stop="20260620090000 +0000">
 		<title>Westminster Hall - 16/06/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Tuesday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620100000 +0000" stop="20260620103500 +0000">
+	<programme channel="bbcparliament" start="20260620090000 +0000" stop="20260620094500 +0000">
+		<title>Lords Questions - 17/06/2026</title>
+		<desc>Questions in the House of Lords to government ministers on Wednesday 17 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nspxgh.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260620094500 +0000" stop="20260620100000 +0000">
+		<title>House of Commons - Justice Select Committee Statement on the Courts and Tribunals Bill</title>
+		<desc>The statement on committee scrutiny of the Courts and Tribunals Bill, on Thursday 18 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt1dyy.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260620100000 +0000" stop="20260620104000 +0000">
 		<title>Prime Minister's Questions - 17/06/2026</title>
 		<desc>Coverage of questions to the deputy prime minister David Lammy, on Wednesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsgfdt.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620103500 +0000" stop="20260620110500 +0000">
+	<programme channel="bbcparliament" start="20260620104000 +0000" stop="20260620111000 +0000">
 		<title>Scottish First Minister's Questions - 16/06/2026</title>
 		<desc>Questions from backbench MSPs to John Swinney, the first minister, on Tuesday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nskbhs.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620110500 +0000" stop="20260620113500 +0000">
+	<programme channel="bbcparliament" start="20260620111000 +0000" stop="20260620114500 +0000">
 		<title>Scottish First Minister's Questions - 18/06/2026</title>
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsycj0.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620113500 +0000" stop="20260620123500 +0000">
+	<programme channel="bbcparliament" start="20260620114500 +0000" stop="20260620124500 +0000">
 		<title>Welsh First Minister's Questions - 16/06/2026</title>
 		<desc>Questions in the Senedd to Rhun ap Iorwerth, the first minister, on Tuesday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsldl6.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620123500 +0000" stop="20260620132000 +0000">
+	<programme channel="bbcparliament" start="20260620124500 +0000" stop="20260620133000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister Andrew Muir.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns4gd6.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620132000 +0000" stop="20260620140500 +0000">
-		<title>House of Commons - 20/06/2026</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260620133000 +0000" stop="20260620143000 +0000">
+		<title>House of Commons - Thames Water Statement</title>
+		<desc>Statement on Thames Water and the objection to the company's lenders' rescue deal.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsbdxx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620140500 +0000" stop="20260620145000 +0000">
-		<title>House of Lords - 20/06/2026</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20260620143000 +0000" stop="20260620151000 +0000">
+		<title>House of Lords - Social Media Ban for Under-16s Statement</title>
+		<desc>The statement on the proposed ban on social media for under-16s, on Tuesday 16 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nskgd9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620145000 +0000" stop="20260620153500 +0000">
-		<title>Scottish Parliament - 20/06/2026</title>
-		<desc>Coverage of a statement in the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20260620151000 +0000" stop="20260620154500 +0000">
+		<title>Scottish Parliament - Health and Social Care Questions</title>
+		<desc>Coverage of questions to the health and social care ministers, on Wednesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620153500 +0000" stop="20260620161500 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 20/06/2026</title>
-		<desc>Coverage of a debate in the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20260620154500 +0000" stop="20260620163500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Culture and Sport Statement</title>
+		<desc>Coverage of a statement on priorities for culture and sport in Wales, on Tuesday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620161500 +0000" stop="20260620170000 +0000">
-		<title>Northern Ireland Assembly - 20/06/2026</title>
-		<desc>Coverage of a statement in the Northern Ireland Assembly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20260620163500 +0000" stop="20260620172000 +0000">
+		<title>Northern Ireland Assembly - Communities Questions</title>
+		<desc>Coverage of questions to the communities minister Gordon Lyons, on Monday 15 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns8fn1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620170000 +0000" stop="20260620225500 +0000">
-		<title>Select Committees - 20/06/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20260620172000 +0000" stop="20260620192000 +0000">
+		<title>Select Committees - Education Committee on the Work of the Department for Education</title>
+		<desc>Coverage of the Education committee's look at the work of the Department for Education.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620225500 +0000" stop="20260620233000 +0000">
+	<programme channel="bbcparliament" start="20260620192000 +0000" stop="20260620215500 +0000">
+		<title>Select Committees - Transport Committee on the Work of the Department of Transport</title>
+		<desc>The Transport committee's look at the work of the Department of Transport, on 17 June. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260620215500 +0000" stop="20260620233000 +0000">
+		<title>Select Committees - Lords International Relations and Defence Committee on the Strategic Defence Review</title>
+		<desc>The Lords International Relations and Defence committee on the Strategic Defence Review.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260620233000 +0000" stop="20260621001000 +0000">
 		<title>Prime Minister's Questions - 17/06/2026</title>
 		<desc>Coverage of questions to the deputy prime minister David Lammy, on Wednesday 17 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsgfdt.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260620233000 +0000" stop="20260621000000 +0000">
+	<programme channel="bbcparliament" start="20260621001000 +0000" stop="20260621004000 +0000">
 		<title>Scottish First Minister's Questions - 16/06/2026</title>
 		<desc>Questions from backbench MSPs to John Swinney, the first minister, on Tuesday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nskbhs.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260621000000 +0000" stop="20260621003000 +0000">
+	<programme channel="bbcparliament" start="20260621004000 +0000" stop="20260621011000 +0000">
 		<title>Scottish First Minister's Questions - 18/06/2026</title>
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsycj0.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260621003000 +0000" stop="20260621013000 +0000">
+	<programme channel="bbcparliament" start="20260621011000 +0000" stop="20260621021500 +0000">
 		<title>Welsh First Minister's Questions - 16/06/2026</title>
 		<desc>Questions in the Senedd to Rhun ap Iorwerth, the first minister, on Tuesday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsldl6.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260621013000 +0000" stop="20260621023000 +0000">
+	<programme channel="bbcparliament" start="20260621021500 +0000" stop="20260621032000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Steve Reed on Monday 15 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns4h54.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260621023000 +0000" stop="20260621033000 +0000">
+	<programme channel="bbcparliament" start="20260621032000 +0000" stop="20260621043500 +0000">
 		<title>House of Commons - Foreign, Commonwealth and Development Office Questions</title>
 		<desc>Coverage of questions to Yvette Cooper on Tuesday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns8ktq.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260621033000 +0000" stop="20260621040000 +0000">
-		<title>House of Commons - Wales Office Questions</title>
-		<desc>Coverage of questions to Jo Stevens on Wednesday 17 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nskmp9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260621040000 +0000" stop="20260621044000 +0000">
-		<title>House of Commons - Culture, Media and Sport Questions</title>
-		<desc>Coverage of questions to Lisa Nandy on Thursday 18 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsr5tp.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260621044000 +0000" stop="20260621050000 +0000">
-		<title>House of Commons - Commissioners Questions</title>
-		<desc>Coverage of Commissioners Questions in the House of Commons, on Thursday 18 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsr7mh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260621043500 +0000" stop="20260621050500 +0000">
 		<title>House of Commons - Wales Office Questions</title>
@@ -6779,7 +6784,7 @@
 	<programme channel="bbcparliament" start="20260621103500 +0000" stop="20260621132000 +0000">
 		<title>House of Commons - Infected Blood Compensation Scheme Debate</title>
 		<desc>Coverage of the debate on the Infected Blood Compensation Scheme, from Thursday 18 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt1f85.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260621132000 +0000" stop="20260621140000 +0000">
 		<title>Prime Minister's Questions - 17/06/2026</title>
@@ -6811,35 +6816,30 @@
 		<desc>The statement by business and trade minister Lord Leong on steel tariffs, on 18 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsyfsj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260621170500 +0000" stop="20260621185000 +0000">
+	<programme channel="bbcparliament" start="20260621170500 +0000" stop="20260621191000 +0000">
 		<title>Select Committees - Northern Ireland Affairs Committee on the Northern Ireland Legislative Assembly</title>
 		<desc>Northern Ireland Affairs committee examination of ways to reform the Legislative Assembly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260621185000 +0000" stop="20260621210500 +0000">
+	<programme channel="bbcparliament" start="20260621191000 +0000" stop="20260621212500 +0000">
 		<title>Select Committees - Business and Trade Committee on AI and the workforce</title>
 		<desc>The Business and Trade committee examines the use of AI in business, on Tuesday 16 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260621210500 +0000" stop="20260621233500 +0000">
+	<programme channel="bbcparliament" start="20260621212500 +0000" stop="20260621235500 +0000">
 		<title>Select Committees - Public Administration and Constitutional Affairs Committee on the Work of the Cabinet Office</title>
 		<desc>The Public Administration and Constitutional Affairs committee on the Cabinet Office.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt0vhx.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260621233500 +0000" stop="20260622010500 +0000">
+	<programme channel="bbcparliament" start="20260621235500 +0000" stop="20260622012500 +0000">
 		<title>House of Commons - Social Media Ban for Under-16s Statement</title>
 		<desc>Statement on the planned social media ban for under-16s, on Monday 15 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns4lbv.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260622010500 +0000" stop="20260622020500 +0000">
+	<programme channel="bbcparliament" start="20260622012500 +0000" stop="20260622022500 +0000">
 		<title>House of Commons - Thames Water Statement</title>
 		<desc>Statement on Thames Water and the objection to the company's lenders' rescue deal.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsbdxx.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260622020500 +0000" stop="20260622022500 +0000">
-		<title>House of Commons - Commissioners Questions</title>
-		<desc>Coverage of Commissioners Questions in the House of Commons, on Thursday 18 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsr7mh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260622022500 +0000" stop="20260622030500 +0000">
 		<title>Prime Minister's Questions - 17/06/2026</title>
@@ -6894,7 +6894,7 @@
 	<programme channel="bbcparliament" start="20260622112500 +0000" stop="20260622130000 +0000">
 		<title>Select Committees - Home Affairs Committee on Organised Crime</title>
 		<desc>The Home Affairs committee on organised crime embedded in local neighbourhoods.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt0wvn.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260622130000 +0000" stop="20260622133000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
@@ -8088,52 +8088,52 @@
 		<desc>Mae Ben Dant ar antur newydd i ailgylchu, i droi sbwriel yn sbeshal a gwastraff yn gamp...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h225zn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622063000 +0000" stop="20260622064500 +0000">
+	<programme channel="s4c" start="20260622063000 +0000" stop="20260622064000 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Mwy fel Crawc</title>
 		<desc>Mae Dan yn ceisio cael pawb i ymuno ag e i goedwig-drochi. Dan struggles to get everyon...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622064500 +0000" stop="20260622070000 +0000">
+	<programme channel="s4c" start="20260622064000 +0000" stop="20260622070000 +0000">
 		<title>Kim a Cai a Cranc - Cyfres 1: Pennod 7</title>
 		<desc>Mae Kim a Cai a Cranc yn cwrdd â Morlo dioglyd iawn. Kim, Cai and Cranc meet the very l...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kntsqj.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622070000 +0000" stop="20260622071000 +0000">
+	<programme channel="s4c" start="20260622070000 +0000" stop="20260622070500 +0000">
 		<title>Odo - Cyfres 1: Gwylio Adar!</title>
 		<desc>Mae Odo'n darganfod bod ganddo allu rhyfeddol i weld pethau o'i gwmpas yn bell ac agos....</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfxwj.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622071000 +0000" stop="20260622072000 +0000">
+	<programme channel="s4c" start="20260622070500 +0000" stop="20260622072000 +0000">
 		<title>Sion y Chef - Cyfres 1: Mae Mor Niwlog</title>
 		<desc>Mae Sam a Siôn yn byrddio'r Macrell Frithog i chwilio am gorgimychiaid ond mae'r pysgot...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07g3ll0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622072000 +0000" stop="20260622073000 +0000">
+	<programme channel="s4c" start="20260622072000 +0000" stop="20260622072500 +0000">
 		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 31</title>
 		<desc>Dewch ar antur gyda ni i gwrdd ag anifeiliaid y byd ac yn y rhaglen hon cawn ddod i nab...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622073000 +0000" stop="20260622074500 +0000">
+	<programme channel="s4c" start="20260622072500 +0000" stop="20260622074000 +0000">
 		<title>Pablo - Cyfres 1: Blas Trionglau</title>
 		<desc>Mae gan Pablo ei ffordd ei hun o weld y byd, ond tydi nain ddim yn gwybod sut i baratoi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngg3fs.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622074500 +0000" stop="20260622080000 +0000">
+	<programme channel="s4c" start="20260622074000 +0000" stop="20260622075500 +0000">
 		<title>Awyr Iach - Cyfres 1: Pennod 9</title>
 		<desc>Heddiw: ymuno a chriw o syrffwyr ifanc yn Ninas Dinlle, garddio ar y rhandir yng Nghaer...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bz8cvm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622080000 +0000" stop="20260622081500 +0000">
+	<programme channel="s4c" start="20260622075500 +0000" stop="20260622081000 +0000">
 		<title>Guto Gwningen - Cyfres 1: Hanes Ras y Tywyllwch</title>
 		<desc>Mae Nel Gynffon-wen ofn y tywyllwch, felly mae Guto a'i ffrindiau'n mynd i'r goedwig i ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02mt129.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622081500 +0000" stop="20260622082000 +0000">
+	<programme channel="s4c" start="20260622081000 +0000" stop="20260622081500 +0000">
 		<title>Nos Da Cyw - Cyfres 4: Trysor</title>
 		<desc>Cyfres o straeon bach cyn cysgu. Heddiw, Tara Bethan sy'n darllen Trysor. A series of b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhtz2l.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622082000 +0000" stop="20260622083000 +0000">
+	<programme channel="s4c" start="20260622081500 +0000" stop="20260622083000 +0000">
 		<title>Ein Byd Bach Ni - Cyfres 1: Yr Alban</title>
 		<desc>Heddiw ni'n teithio i Ogledd Ynys Prydain i ymweld â'r Alban. This time: Scotland, to l...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dksv65.jpg" />
@@ -8148,22 +8148,22 @@
 		<desc>Timau o Ysgol Gwenllian sy'n ymuno â Pwdryn a Melys i chwarae llond trol o gemau lliwga...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hdf387.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622090000 +0000" stop="20260622090500 +0000">
+	<programme channel="s4c" start="20260622090000 +0000" stop="20260622091000 +0000">
 		<title>Blociau Rhif - Cyfres 1: Cyfri Wyn Bach</title>
 		<desc>Tasg Chwech yw ceisio cael y defaid direidus i gysgu, ond mae'n gweld bod dau neu dri b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622090500 +0000" stop="20260622091500 +0000">
+	<programme channel="s4c" start="20260622091000 +0000" stop="20260622092000 +0000">
 		<title>Sam Tân - Cyfres 10: Y Tywysog ym Mhontypandy</title>
 		<desc>Mae Pontypandy yn llawn cyffro pan ddaw tywysog brenhinol i ymweld. Pontypandy is abuzz...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqt724.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622091500 +0000" stop="20260622092500 +0000">
+	<programme channel="s4c" start="20260622092000 +0000" stop="20260622093000 +0000">
 		<title>Blwi - Chwarae Siop</title>
 		<desc>Gan fod Blwi'n penderfynu cwestiynu rheolau'r gêm Siop efallai bydd dim amser i chwarae...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n6x8tm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622092500 +0000" stop="20260622094000 +0000">
+	<programme channel="s4c" start="20260622093000 +0000" stop="20260622094000 +0000">
 		<title>Octonots - Cyfres 3: Yr Octonots a'r Selacanth</title>
 		<desc>Wrth nofio mewn ogof dywyll, daw'r Octonots ar draws ffosil o bysgodyn grymus o'r oes o...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfvst.jpg" />
@@ -8188,12 +8188,12 @@
 		<desc>Mae Ben Dant ar antur newydd i ailgylchu a throi sbwriel yn sbeshal, a gwastraff yn gam...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h225zn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622103000 +0000" stop="20260622104500 +0000">
+	<programme channel="s4c" start="20260622103000 +0000" stop="20260622104000 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Chec Dim Mêts</title>
 		<desc>Mae Pigog yn dysgu chwarae gwyddbwyll ond mae'n casáu colli. Cyn bo hir 'does neb eisia...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622104500 +0000" stop="20260622110000 +0000">
+	<programme channel="s4c" start="20260622104000 +0000" stop="20260622110000 +0000">
 		<title>Kim a Cai a Cranc - Cyfres 1: Pennod 6</title>
 		<desc>Mae Kim a Cai yn cwrdd â Llwynoges sy'n mynd â nhw i'w chartre' clyd yn y goedwig. Kim ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kntrv9.jpg" />
@@ -8225,7 +8225,7 @@
 	</programme>
 	<programme channel="s4c" start="20260622130500 +0000" stop="20260622140000 +0000">
 		<title>Prynhawn Da - Mon, 22 Jun 2026</title>
-		<desc>Cyfres gylchgrawn gydag eitemau am lyfrau, coginio, ffasiwn a chyngor am bopeth o addur...</desc>
+		<desc>Bydd Elwen yn y gegin, a Karl yn dod â holl straeon y penwythnos i ni. Elwen will be in...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260622140000 +0000" stop="20260622140500 +0000">
@@ -8238,12 +8238,12 @@
 		<desc>Heledd Cynwal, Iestyn Jones a Siôn Tomos Owen sy'n ymweld â Bangor, dinas dysg a chartr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p086vj9b.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622150000 +0000" stop="20260622150500 +0000">
+	<programme channel="s4c" start="20260622150000 +0000" stop="20260622151000 +0000">
 		<title>Y Pitws Bychain - Cyfres 1: Cyrraedd y Traeth</title>
 		<desc>Mae'r Pitws Bychain yn penderfynu mynd i'r traeth! Wrth iddyn nhw feicio ar hyd y llwyb...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf10ct.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622150500 +0000" stop="20260622152000 +0000">
+	<programme channel="s4c" start="20260622151000 +0000" stop="20260622152000 +0000">
 		<title>Sion y Chef - Cyfres 1: Seren y Sgrin</title>
 		<desc>Mae Izzy'n cyhoeddi bod ei bryd hi ar wneud ffilmiau, nid ar fod yn chef, ac mae'n bwrw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf1dx8.jpg" />
@@ -8325,7 +8325,7 @@
 	</programme>
 	<programme channel="s4c" start="20260622200000 +0000" stop="20260622203500 +0000">
 		<title>Ffermio - Mon, 22 Jun 2026</title>
-		<desc>Cyfres sy'n edrych ar y byd amaeth, yn cynnwys rhai o bynciau llosg y diwydiant. A seri...</desc>
+		<desc>Meinir fydd yn ymweld a digwyddiad Tir Glas Sioe Frenhinol Cymru, a bydd Alun yn croesa...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9m08j.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260622203500 +0000" stop="20260622210500 +0000">
@@ -8520,7 +8520,7 @@
 	</programme>
 	<programme channel="s4c" start="20260623123000 +0000" stop="20260623130000 +0000">
 		<title>Ffermio - Mon, 22 Jun 2026</title>
-		<desc>Cyfres sy'n edrych ar y byd amaeth, yn cynnwys rhai o bynciau llosg y diwydiant. A seri...</desc>
+		<desc>Meinir fydd yn ymweld a digwyddiad Tir Glas Sioe Frenhinol Cymru, a bydd Alun yn croesa...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9m08j.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260623130000 +0000" stop="20260623130500 +0000">
@@ -8530,7 +8530,7 @@
 	</programme>
 	<programme channel="s4c" start="20260623130500 +0000" stop="20260623140000 +0000">
 		<title>Prynhawn Da - Tue, 23 Jun 2026</title>
-		<desc>Cyfres gylchgrawn gydag eitemau am lyfrau, coginio, ffasiwn a chyngor am bopeth o addur...</desc>
+		<desc>Cawn ni stori ysbrydoledig Pawlie Bryant o Santa Barbara, California, sydd wedi dysgu C...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260623140000 +0000" stop="20260623140500 +0000">
