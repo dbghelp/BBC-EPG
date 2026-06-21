@@ -95,7 +95,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260621122000 +0000" stop="20260621150500 +0000">
-		<title>Queen's Tennis - 2026: Men's Singles Final</title>
+		<title>Queen's Tennis - 2026: Men's Singles Final - Part 1</title>
 		<desc>Live coverage of the men's singles final at the 2026 Queen's tennis tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqb4x6.jpg" />
 	</programme>
@@ -703,15 +703,10 @@
 		<desc>The story of a British POW during WWII who spends all his time planning an escape.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nrmrkl.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260621150500 +0000" stop="20260621153500 +0000">
-		<title>The Wonder of Animals - 6. Elephants</title>
-		<desc>Chris Packham explores the anatomy and physiology of the world's largest land animal.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p026dk9z.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260621153500 +0000" stop="20260621161500 +0000">
-		<title>Flog It! - Series 17: Episode 7</title>
-		<desc>Experts Adam Partridge and Claire Rawle search for antiques in Cosford, Shropshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
+	<programme channel="bbctwo" start="20260621150500 +0000" stop="20260621161500 +0000">
+		<title>Queen's Tennis - 2026: Men's Singles Final - Part 2</title>
+		<desc>Live coverage of the men's singles final at the 2026 Queen's tennis tournament.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqb4x6.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260621161500 +0000" stop="20260621171500 +0000">
 		<title>Hidden Treasures of the National Trust - Series 4: 6. Top Secret Seedlings</title>
