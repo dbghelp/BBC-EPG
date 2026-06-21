@@ -55,9 +55,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260621080000 +0000" stop="20260621090000 +0000">
-		<title>Sunday with Laura Kuenssberg - 21/06/2026</title>
+		<title>Sunday with Laura Kuenssberg - Starmer reflects on 'political realities'</title>
 		<desc>Laura talks to Peter Kyle, Mel Stride, Paul Ovenden, Lord Simon Case and Lord Hutton.  </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt8k7m.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260621090000 +0000" stop="20260621093000 +0000">
 		<title>Politics London - 21/06/2026</title>
@@ -97,7 +97,7 @@
 	<programme channel="bbcone" start="20260621122000 +0000" stop="20260621150500 +0000">
 		<title>Queen's Tennis - 2026: Men's Singles Final</title>
 		<desc>Live coverage of the men's singles final at the 2026 Queen's tennis tournament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt5tt4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqb4x6.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260621150500 +0000" stop="20260621152000 +0000">
 		<title>BBC Weekend News - Evening News: 21/06/2026</title>
@@ -723,10 +723,15 @@
 		<desc>Rachel and Camy head to market with a goal and budget, but the two don’t match up.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8ltz9.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260621181500 +0000" stop="20260621191500 +0000">
+	<programme channel="bbctwo" start="20260621181500 +0000" stop="20260621184500 +0000">
 		<title>Cricket: Today at the Test - England v New Zealand 2026: Second Test, Day 5</title>
 		<desc>Day 5 highlights from the second Test match between England and New Zealand.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsr5kp.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260621184500 +0000" stop="20260621191500 +0000">
+		<title>Grand Tours of Scotland's Rivers - Series 2: 4. Tales of Mystery and Imagination</title>
+		<desc>The River North Esk, which lies south of Edinburgh, is this week's hidden gem.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fbjt4d.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260621191500 +0000" stop="20260621200000 +0000">
 		<title>Expedition with Steve Backshall - Series 2: Episode 6</title>
@@ -5508,9 +5513,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260621080000 +0000" stop="20260621090000 +0000">
-		<title>Sunday with Laura Kuenssberg - 21/06/2026</title>
+		<title>Sunday with Laura Kuenssberg - Starmer reflects on 'political realities'</title>
 		<desc>Laura talks to Peter Kyle, Mel Stride, Paul Ovenden, Lord Simon Case and Lord Hutton.  </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt8k7m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260621090000 +0000" stop="20260621093000 +0000">
 		<title>BBC News - 21/06/2026</title>
@@ -5717,35 +5722,10 @@
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260622050000 +0000" stop="20260622053000 +0000">
-		<title>BBC News - 22/06/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260622053000 +0000" stop="20260622060000 +0000">
-		<title>Business Today - 22/06/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260622060000 +0000" stop="20260622063000 +0000">
-		<title>BBC News - 22/06/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260622063000 +0000" stop="20260622070000 +0000">
-		<title>Business Today - 22/06/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260622070000 +0000" stop="20260622073000 +0000">
-		<title>BBC News - 22/06/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260622073000 +0000" stop="20260622080000 +0000">
-		<title>BBC News - 22/06/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	<programme channel="bbcnews" start="20260622050000 +0000" stop="20260622080000 +0000">
+		<title>Breakfast - 22/06/2026</title>
+		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260622080000 +0000" stop="20260622083000 +0000">
 		<title>BBC News - 22/06/2026</title>
