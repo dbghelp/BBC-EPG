@@ -44,35 +44,20 @@
 		<display-name>S4C</display-name>
 		<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/65px-S4C_logo_2014.svg.png" />
 	</channel>
-	<programme channel="bbcone" start="20260622050000 +0000" stop="20260622083000 +0000">
+	<programme channel="bbcone" start="20260622050000 +0000" stop="20260622084000 +0000">
 		<title>Breakfast - 22/06/2026</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260622083000 +0000" stop="20260622094500 +0000">
-		<title>Morning Live - Series 8: 22/06/2026</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhggnm.jpg" />
-	</programme>
-	<programme channel="bbcone" start="20260622094500 +0000" stop="20260622101500 +0000">
-		<title>Fraud Squad - Series 6: Episode 1</title>
-		<desc>A surgeon defrauds the NHS, and water supplies are at risk of being contaminated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnlydm.jpg" />
-	</programme>
-	<programme channel="bbcone" start="20260622101500 +0000" stop="20260622111500 +0000">
-		<title>Homes Under the Hammer - Series 28: Great Minds Think Alike</title>
-		<desc>Dion has the same thoughts as the new owners at an end terrace in Cheshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mc2pg3.jpg" />
-	</programme>
-	<programme channel="bbcone" start="20260622111500 +0000" stop="20260622120000 +0000">
-		<title>Bargain Hunt - Series 74: Wetherby 5</title>
-		<desc>There’s a blast from the past for Danny as he visits one of England’s smallest cities.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nrpj5p.jpg" />
+	<programme channel="bbcone" start="20260622084000 +0000" stop="20260622120000 +0000">
+		<title>BBC News Special - 22/06/2026</title>
+		<desc>Live coverage of breaking stories and special reports from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntd16l.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260622120000 +0000" stop="20260622123500 +0000">
 		<title>BBC News at One - 22/06/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntdy5k.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260622123500 +0000" stop="20260622124500 +0000">
 		<title>BBC London - Lunchtime News: 22/06/2026</title>
@@ -83,7 +68,7 @@
 	<programme channel="bbcone" start="20260622124500 +0000" stop="20260622130000 +0000">
 		<title>BBC News at One - 22/06/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntdy5k.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260622130000 +0000" stop="20260622133000 +0000">
 		<title>Policing Paradise - Series 2: Episode 9</title>
@@ -642,7 +627,7 @@
 	<programme channel="bbcone" start="20260626214000 +0000" stop="20260626223000 +0000">
 		<title>Madonna &amp; Graham</title>
 		<desc>Graham Norton meets with Madonna to discuss her incredible life and career.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nsrbb9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs64x.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260626223000 +0000" stop="20260626225000 +0000">
 		<title>St Denis Medical - Series 2: 17. Here a Righteous Woman Comes</title>
@@ -694,14 +679,29 @@
 		<desc>A team of film-makers begin an expedition following two tiger families in Nepal.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npglw0.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260622080000 +0000" stop="20260622111500 +0000">
+	<programme channel="bbctwo" start="20260622080000 +0000" stop="20260622083000 +0000">
 		<title>BBC News - 22/06/2026</title>
 		<desc>Twenty-four hours a day, the latest national and international stories as they break.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
+	<programme channel="bbctwo" start="20260622083000 +0000" stop="20260622094500 +0000">
+		<title>Morning Live - Series 8: 22/06/2026</title>
+		<desc>Gethin Jones and Helen Skelton discuss the hidden dangers of carbon monoxide in cars.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntdpdq.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260622094500 +0000" stop="20260622101500 +0000">
+		<title>Fraud Squad - Series 6: Episode 1</title>
+		<desc>A surgeon defrauds the NHS, and water supplies are at risk of being contaminated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnlydm.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260622101500 +0000" stop="20260622111500 +0000">
+		<title>Homes Under the Hammer - Series 28: Great Minds Think Alike</title>
+		<desc>Dion has the same thoughts as the new owners at an end terrace in Cheshire.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mc2pg3.jpg" />
+	</programme>
 	<programme channel="bbctwo" start="20260622111500 +0000" stop="20260622120000 +0000">
-		<title>Politics Live - 22/06/2026</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - Keir Starmer resigns</title>
+		<desc>Will there now be a contest to succeed him as prime minister?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcfc71.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260622120000 +0000" stop="20260622124500 +0000">
@@ -3508,7 +3508,7 @@
 	<programme channel="cbeebies" start="20260622095500 +0000" stop="20260622100500 +0000">
 		<title>Hamza Loves Animals: Africa - Series 1: 11. Kipekee the Elephant’s Talent Show</title>
 		<desc>Baby elephant Kipekee finds her talents. Hamza spots wild oryx and enjoys the baby zebras.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npn1cr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntd3rc.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260622100500 +0000" stop="20260622101000 +0000">
 		<title>Vegesaurs - Series 2: 17. Coconut Chaos</title>
@@ -3908,7 +3908,7 @@
 	<programme channel="cbeebies" start="20260623095500 +0000" stop="20260623100500 +0000">
 		<title>Hamza Loves Animals: Africa - Series 1: 12. The Zebras Get Some Exercise</title>
 		<desc>The zebras get some exercise. Hamza visits the watering hole and goes on an elephant walk.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npn1cr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntd3vz.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260623100500 +0000" stop="20260623101000 +0000">
 		<title>Vegesaurs - Series 2: 18. Ouchy Feet</title>
@@ -4303,7 +4303,7 @@
 	<programme channel="cbeebies" start="20260624095500 +0000" stop="20260624100500 +0000">
 		<title>Hamza Loves Animals: Africa - Series 1: 13. Malaika the Rhino’s Grazing Adventure</title>
 		<desc>Rhino Malaika tries new food. Hamza spots huge hippos and helps the baby zebras get cosy.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npn1cr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntdfpt.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260624100500 +0000" stop="20260624101000 +0000">
 		<title>Vegesaurs - Series 2: 19. Hiccups</title>
@@ -4703,7 +4703,7 @@
 	<programme channel="cbeebies" start="20260625095500 +0000" stop="20260625101000 +0000">
 		<title>Hamza Loves Animals: Africa - Series 1: 14. Twiggy the Giraffe Feels Happy</title>
 		<desc>Giraffe Twiggy feels happy. Hamza spots antelope and gets to know Alcatraz the tortoise.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npn1cr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntddvc.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260625101000 +0000" stop="20260625101500 +0000">
 		<title>Vegesaurs - Series 2: 20. Hot Bubble Bath</title>
@@ -5098,7 +5098,7 @@
 	<programme channel="cbeebies" start="20260626095500 +0000" stop="20260626100500 +0000">
 		<title>Hamza Loves Animals: Africa - Series 1: 15. Bahati the Zebra Has an Itch</title>
 		<desc>Zebra Bahati is itchy. Hamza discovers wild buffalo and visits some thirsty elephants.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npn1cr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntd53p.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260626100500 +0000" stop="20260626101000 +0000">
 		<title>Vegesaurs - Series 3: 1. The Big Itch</title>
@@ -5656,60 +5656,30 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfw934.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260622050000 +0000" stop="20260622080000 +0000">
+	<programme channel="bbcnews" start="20260622050000 +0000" stop="20260622084000 +0000">
 		<title>Breakfast - 22/06/2026</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260622080000 +0000" stop="20260622083000 +0000">
+	<programme channel="bbcnews" start="20260622084000 +0000" stop="20260622104500 +0000">
 		<title>BBC News - 22/06/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260622083000 +0000" stop="20260622090000 +0000">
-		<title>BBC News - 22/06/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260622090000 +0000" stop="20260622093000 +0000">
-		<title>BBC News - 22/06/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260622093000 +0000" stop="20260622100000 +0000">
-		<title>BBC News - 22/06/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260622100000 +0000" stop="20260622103000 +0000">
-		<title>BBC News - 22/06/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260622103000 +0000" stop="20260622104500 +0000">
-		<title>Business Today - 22/06/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260622104500 +0000" stop="20260622110000 +0000">
 		<title>BBC News - 22/06/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260622110000 +0000" stop="20260622113000 +0000">
-		<title>BBC News Now - 22/06/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260622113000 +0000" stop="20260622120000 +0000">
-		<title>BBC News Now - 22/06/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
+	<programme channel="bbcnews" start="20260622110000 +0000" stop="20260622120000 +0000">
+		<title>BBC News - BBC News (60') 26/27</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260622120000 +0000" stop="20260622130000 +0000">
 		<title>BBC News at One - 22/06/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntdy5k.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260622130000 +0000" stop="20260622133000 +0000">
 		<title>BBC News Now - 22/06/2026</title>
@@ -5762,7 +5732,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260622170000 +0000" stop="20260622173000 +0000">
-		<title>The World Today with Maryam Moshiri - 22/06/2026</title>
+		<title>The World Today with Maryam Moshiri - 06/04/2026</title>
 		<desc>Watch the best of the BBC's journalism from around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
@@ -7912,17 +7882,17 @@
 		<desc>Mae Kim a Cai yn cwrdd â Llwynoges sy'n mynd â nhw i'w chartre' clyd yn y goedwig. Kim ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kntrv9.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622110000 +0000" stop="20260622110500 +0000">
+	<programme channel="s4c" start="20260622110000 +0000" stop="20260622111000 +0000">
 		<title>Newyddion S4C - Mon, 22 Jun 2026 12:00</title>
-		<desc>Newyddion S4C a'r Tywydd. S4C News &amp; Weather.</desc>
+		<desc>Bwletin estynedig yn trafod ymddiswyddiad Keir Starmer fel Prif Weinidog. Extended bull...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622110500 +0000" stop="20260622113000 +0000">
+	<programme channel="s4c" start="20260622111000 +0000" stop="20260622113500 +0000">
 		<title>Cartrefi Cymru - Cyfres 1: Tai Edwardaidd</title>
 		<desc>Aled Samuel a Bethan Scorey sy'n edrych ar gartrefi Cymru drwy'r oesoedd. Y tro hwn byd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k5d0tm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260622113000 +0000" stop="20260622120000 +0000">
+	<programme channel="s4c" start="20260622113500 +0000" stop="20260622120000 +0000">
 		<title>Heno - Fri, 19 Jun 2026</title>
 		<desc>Ar ddiwrnod rhyddhau Toy Story 5, siaradwn gyda phodledwyr. Cawn wybod pwy fydd yn cynr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
@@ -8029,7 +7999,7 @@
 	</programme>
 	<programme channel="s4c" start="20260622192500 +0000" stop="20260622195500 +0000">
 		<title>Garddio a Mwy - Cyfres 2026: Pennod 10</title>
-		<desc>Cyfres Garddio yng nghwmni Meinir Gwilym, Sioned Edwards ac Adam Jones. Flowers, veg an...</desc>
+		<desc>Mae Adam mewn gardd gymunedol yn Cross Hands. Cawn dips plannu border gan Sioned, a Rho...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9m6y7.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260622195500 +0000" stop="20260622200000 +0000">
@@ -8435,7 +8405,7 @@
 	<programme channel="s4c" start="20260624081500 +0000" stop="20260624082500 +0000">
 		<title>Abadas - Cyfres 1: Tân Gwyllt</title>
 		<desc>'Tân gwyllt' yw gair newydd Ben a dim ond un o'r Abadas sy'n addas i fynd i chwilio amd...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhtqtw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntcx2z.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260624082500 +0000" stop="20260624083500 +0000">
 		<title>Ein Byd Bach Ni - Cyfres 1: Yr Eidal</title>
@@ -8480,7 +8450,7 @@
 	<programme channel="s4c" start="20260624100000 +0000" stop="20260624101500 +0000">
 		<title>Abadas - Cyfres 1: Oren</title>
 		<desc>Mae un o'r Abadas yn mynd ar antur gyffrous wrth edrych am rywbeth siâp cylch gydag aro...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhtqtw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntcs2j.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260624101500 +0000" stop="20260624102000 +0000">
 		<title>Cywion Bach - Cyfres 1: Dafad</title>
@@ -8524,7 +8494,7 @@
 	</programme>
 	<programme channel="s4c" start="20260624123000 +0000" stop="20260624130000 +0000">
 		<title>Garddio a Mwy - Cyfres 2026: Pennod 10</title>
-		<desc>Cyfres Garddio yng nghwmni Meinir Gwilym, Sioned Edwards ac Adam Jones. Flowers, veg an...</desc>
+		<desc>Mae Adam mewn gardd gymunedol yn Cross Hands. Cawn dips plannu border gan Sioned, a Rho...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9m6y7.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260624130000 +0000" stop="20260624130500 +0000">
@@ -9035,7 +9005,7 @@
 	<programme channel="s4c" start="20260626081000 +0000" stop="20260626082000 +0000">
 		<title>Abadas - Cyfres 1: Brwyn</title>
 		<desc>Mae'r Abadas wrth eu bodd yn chwarae 'jwngl' yn yr ardd. Tybed pwy gaiff ei ddewis i ch...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhtqtw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntcxp7.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260626082000 +0000" stop="20260626083000 +0000">
 		<title>Ein Byd Bach Ni - Cyfres 1: Gwlad Thai</title>
@@ -9199,7 +9169,7 @@
 	</programme>
 	<programme channel="s4c" start="20260626173000 +0000" stop="20260626180000 +0000">
 		<title>Garddio a Mwy - Cyfres 2026: Pennod 10</title>
-		<desc>Cyfres Garddio yng nghwmni Meinir Gwilym, Sioned Edwards ac Adam Jones. Flowers, veg an...</desc>
+		<desc>Mae Adam mewn gardd gymunedol yn Cross Hands. Cawn dips plannu border gan Sioned, a Rho...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9m6y7.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260626180000 +0000" stop="20260626183000 +0000">
