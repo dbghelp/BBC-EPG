@@ -512,7 +512,7 @@
 	<programme channel="bbcone" start="20260627162000 +0000" stop="20260627170500 +0000">
 		<title>Bridge of Lies - Celebrity Specials, Series 4: Episode 10</title>
 		<desc>Rosie Jones, Ed Byrne, Nabil Abdulrashid and Harriet Kemsley face the Bridge of Lies.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nc59pg.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntsbq5.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260627170500 +0000" stop="20260627174000 +0000">
 		<title>Blankety Blank - Series 3: Episode 7</title>
@@ -532,7 +532,7 @@
 	<programme channel="bbcone" start="20260627191000 +0000" stop="20260627200000 +0000">
 		<title>Casualty - Lethal Legacy: Episode 9</title>
 		<desc>In the aftermath of the complaint, can Dylan make things right with Stevie and Matty?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfn2wb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntsf82.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260627200000 +0000" stop="20260627204500 +0000">
 		<title>Two Weeks in August - Series 1: Episode 7</title>
@@ -958,9 +958,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260625225000 +0000" stop="20260626010500 +0000">
-		<title>FIFA World Cup 2026 - Group Stage: Japan v Sweden</title>
-		<desc>Live coverage of the final match in Group F in Dallas between Japan and Sweden.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt65lb.jpg" />
+		<title>FIFA World Cup 2026 - Group Stage: Tunisia v Netherlands</title>
+		<desc>Live coverage of the final match in Group F, where Tunisia face Netherlands.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nt662c.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260626010500 +0000" stop="20260626015000 +0000">
 		<title>The Travelling Auctioneers - Series 6: 6. Bidding for Change</title>
@@ -4120,12 +4120,12 @@
 		<desc>JoJo &amp; Gran Gran go to the library and JoJo gets her first ever library card!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08krfc7.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20260625165000 +0000" stop="20260625170000 +0000">
+	<programme channel="cbeebies" start="20260625165000 +0000" stop="20260625165500 +0000">
 		<title>Sarah &amp; Duck - Series 2: 4. Sound Jumble</title>
 		<desc>When Sarah hears some interesting music on the radio, she and Duck try and recreate it.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0249fg6.jpg" />
 	</programme>
-	<programme channel="cbeebies" start="20260625170000 +0000" stop="20260625171000 +0000">
+	<programme channel="cbeebies" start="20260625165500 +0000" stop="20260625171000 +0000">
 		<title>Clangers - Series 1: 12. Lonely as a Cloud</title>
 		<desc>Tiny, Small, the Froglets and Baby Dragon are having fun playing games with the Cloud.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vbqqv.jpg" />
@@ -5672,20 +5672,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260624103000 +0000" stop="20260624104500 +0000">
-		<title>Business Today - 24/06/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260624104500 +0000" stop="20260624105500 +0000">
+	<programme channel="bbcnews" start="20260624103000 +0000" stop="20260624120000 +0000">
 		<title>BBC News - 24/06/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260624105500 +0000" stop="20260624120000 +0000">
-		<title>Politics Live - 24/06/2026</title>
-		<desc>The big political issues of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcfc71.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260624120000 +0000" stop="20260624130000 +0000">
 		<title>BBC News at One - 24/06/2026</title>
