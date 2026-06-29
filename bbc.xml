@@ -52,7 +52,7 @@
 	<programme channel="bbcone" start="20260629083000 +0000" stop="20260629094500 +0000">
 		<title>Morning Live - Series 8: 29/06/2026</title>
 		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhggnm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvrbxm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260629094500 +0000" stop="20260629101500 +0000">
 		<title>Fraud Squad - Series 6: Episode 6</title>
@@ -88,7 +88,7 @@
 	<programme channel="bbcone" start="20260629130000 +0000" stop="20260629170000 +0000">
 		<title>Wimbledon - BBC One: Day 1, Afternoon</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvr0mj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260629170000 +0000" stop="20260629173000 +0000">
 		<title>BBC News at Six - 29/06/2026</title>
@@ -178,23 +178,28 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260630130000 +0000" stop="20260630170000 +0000">
+	<programme channel="bbcone" start="20260630130000 +0000" stop="20260630160000 +0000">
 		<title>Wimbledon - BBC One: Day 2, Afternoon</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260630170000 +0000" stop="20260630173000 +0000">
+	<programme channel="bbcone" start="20260630160000 +0000" stop="20260630161500 +0000">
 		<title>BBC News at Six - 30/06/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260630173000 +0000" stop="20260630180000 +0000">
+	<programme channel="bbcone" start="20260630161500 +0000" stop="20260630163000 +0000">
 		<title>BBC London - Evening News: 30/06/2026</title>
 		<desc>The latest news, sport and weather from London.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260630180000 +0000" stop="20260630210000 +0000">
+	<programme channel="bbcone" start="20260630163000 +0000" stop="20260630193000 +0000">
+		<title>FIFA World Cup 2026 - Round of 32: Ivory Coast v Norway</title>
+		<desc>Ivory Coast take on Norway in the round of 32 match at the 2026 FIFA World Cup in Dallas.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260630193000 +0000" stop="20260630210000 +0000">
 		<title>Wimbledon - BBC One: Day 2, Evening</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
@@ -211,9 +216,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260630214000 +0000" stop="20260630232500 +0000">
-		<title>Marry Me</title>
-		<desc>A singer marries a stranger picked in the crowd at one of her concerts.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2n6pq.jpg" />
+		<title>Me Before You</title>
+		<desc>When Louisa becomes carer for Will, a challenging situation becomes more difficult still.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nspmp3.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260630232500 +0000" stop="20260630233000 +0000">
 		<title>Weather for the Week Ahead - 01/07/2026</title>
@@ -261,23 +266,28 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260701130000 +0000" stop="20260701170000 +0000">
+	<programme channel="bbcone" start="20260701130000 +0000" stop="20260701150000 +0000">
 		<title>Wimbledon - BBC One: Day 3, Afternoon</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260701170000 +0000" stop="20260701173000 +0000">
+	<programme channel="bbcone" start="20260701150000 +0000" stop="20260701183000 +0000">
+		<title>FIFA World Cup 2026 - Round of 32: England v DR Congo</title>
+		<desc>England enter the knockout stages with a round of 32 clash against DR Congo in Atlanta.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260701183000 +0000" stop="20260701184500 +0000">
 		<title>BBC News at Six - 01/07/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260701173000 +0000" stop="20260701180000 +0000">
+	<programme channel="bbcone" start="20260701184500 +0000" stop="20260701190000 +0000">
 		<title>BBC London - Evening News: 01/07/2026</title>
 		<desc>The latest news, sport and weather from London.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260701180000 +0000" stop="20260701210000 +0000">
+	<programme channel="bbcone" start="20260701190000 +0000" stop="20260701210000 +0000">
 		<title>Wimbledon - BBC One: Day 3, Evening</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
@@ -287,23 +297,33 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260701213000 +0000" stop="20260701214000 +0000">
+	<programme channel="bbcone" start="20260701213000 +0000" stop="20260701214500 +0000">
 		<title>BBC London - Late News: 01/07/2026</title>
 		<desc>The latest news, sport and weather from London.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260701214000 +0000" stop="20260701232500 +0000">
-		<title>Me Before You</title>
-		<desc>When Louisa becomes carer for Will, a challenging situation becomes more difficult still.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nspmp3.jpg" />
+	<programme channel="bbcone" start="20260701214500 +0000" stop="20260701232000 +0000">
+		<title>Blink Twice</title>
+		<desc>A party on a private island seems great until strange things start to happen.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nspld5.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260701232500 +0000" stop="20260701233000 +0000">
+	<programme channel="bbcone" start="20260701232000 +0000" stop="20260701235000 +0000">
+		<title>Would I Lie to You? - Series 16: Episode 1</title>
+		<desc>With guest panellists Bez, Motsi Mabuse, Shazia Mirza and Steve Pemberton.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ds5n0f.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260701235000 +0000" stop="20260702021000 +0000">
+		<title>FIFA World Cup 2026 - Round of 32: USA v Bosnia-Herzegovina</title>
+		<desc>Co-host USA's clash with Bosnia and Herzegovina in the round of 32 at the 2026 World Cup.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260702021000 +0000" stop="20260702021500 +0000">
 		<title>Weather for the Week Ahead - 02/07/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260701233000 +0000" stop="20260702050000 +0000">
+	<programme channel="bbcone" start="20260702021500 +0000" stop="20260702050000 +0000">
 		<title>Joins BBC News - 02/07/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -365,38 +385,47 @@
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260702180000 +0000" stop="20260702210000 +0000">
-		<title>Wimbledon - BBC One: Day 4, Evening</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
+	<programme channel="bbcone" start="20260702180000 +0000" stop="20260702183000 +0000">
+		<title>EastEnders - 02/07/2026</title>
+		<desc>Walford celebrates Pride.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntngwl.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260702210000 +0000" stop="20260702213000 +0000">
+	<programme channel="bbcone" start="20260702183000 +0000" stop="20260702211500 +0000">
+		<title>FIFA World Cup 2026 - Round of 32: Spain v Austria</title>
+		<desc>Live coverage of Spain v Austria in the round of 32 at the 2026 World Cup.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260702211500 +0000" stop="20260702220000 +0000">
 		<title>BBC News at Ten - 02/07/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260702213000 +0000" stop="20260702214000 +0000">
-		<title>BBC London - Late News: 02/07/2026</title>
-		<desc>The latest news, sport and weather from London.
-</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
+	<programme channel="bbcone" start="20260702220000 +0000" stop="20260702223000 +0000">
+		<title>How Are You? It's Alan (Partridge) - Series 1: Episode 3</title>
+		<desc>Alan asks the question: is solitude healthy, or do we need other people?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4hq5r.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260702214000 +0000" stop="20260702231500 +0000">
-		<title>Blink Twice</title>
-		<desc>A party on a private island seems great until strange things start to happen.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nspld5.jpg" />
+	<programme channel="bbcone" start="20260702223000 +0000" stop="20260703013000 +0000">
+		<title>FIFA World Cup 2026 - Round of 32: Portugal v Croatia</title>
+		<desc>Live coverage of Portugal v Croatia in the round of 32 at the 2026 World Cup.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260702231500 +0000" stop="20260702232000 +0000">
+	<programme channel="bbcone" start="20260703013000 +0000" stop="20260703013500 +0000">
 		<title>Weather for the Week Ahead - 03/07/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260702232000 +0000" stop="20260703050000 +0000">
+	<programme channel="bbcone" start="20260703013500 +0000" stop="20260703025000 +0000">
 		<title>Joins BBC News - 03/07/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260703050000 +0000" stop="20260703083000 +0000">
+	<programme channel="bbcone" start="20260703025000 +0000" stop="20260703051500 +0000">
+		<title>FIFA World Cup 2026 - Round of 32: Switzerland v Algeria</title>
+		<desc>Live coverage of Switzerland v Algeria in the round of 32 at the 2026 World Cup.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260703051500 +0000" stop="20260703083000 +0000">
 		<title>Breakfast - 03/07/2026</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
@@ -437,26 +466,31 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260703130000 +0000" stop="20260703170000 +0000">
+	<programme channel="bbcone" start="20260703130000 +0000" stop="20260703163000 +0000">
 		<title>Wimbledon - BBC One: Day 5, Afternoon</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260703170000 +0000" stop="20260703173000 +0000">
+	<programme channel="bbcone" start="20260703163000 +0000" stop="20260703170000 +0000">
 		<title>BBC News at Six - 03/07/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260703173000 +0000" stop="20260703180000 +0000">
+	<programme channel="bbcone" start="20260703170000 +0000" stop="20260703173000 +0000">
 		<title>BBC London - Evening News: 03/07/2026</title>
 		<desc>The latest news, sport and weather from London.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260703180000 +0000" stop="20260703210000 +0000">
-		<title>Wimbledon - BBC One: Day 5, Evening</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
+	<programme channel="bbcone" start="20260703173000 +0000" stop="20260703203000 +0000">
+		<title>FIFA World Cup 2026 - Round of 32: Australia v Egypt</title>
+		<desc>Live coverage of Australia v Egypt in the round of 32 at the 2026 World Cup.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260703203000 +0000" stop="20260703210000 +0000">
+		<title>How Are You? It's Alan (Partridge) - Series 1: Episode 4</title>
+		<desc>Alone in the Peaks with only a selfie stick, Alan asks: can nature heal a troubled mind?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m4hq6b.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260703210000 +0000" stop="20260703213000 +0000">
 		<title>BBC News at Ten - 03/07/2026</title>
@@ -469,17 +503,17 @@
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260703214000 +0000" stop="20260703230500 +0000">
-		<title>Absolutely Fabulous: The Movie</title>
-		<desc>Eddy and Patsy are still living the high life, but a setback sees them going on the run.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06vz7f1.jpg" />
+	<programme channel="bbcone" start="20260703214000 +0000" stop="20260703232500 +0000">
+		<title>Marry Me</title>
+		<desc>A singer marries a stranger picked in the crowd at one of her concerts.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2n6pq.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260703230500 +0000" stop="20260703231000 +0000">
+	<programme channel="bbcone" start="20260703232500 +0000" stop="20260703233000 +0000">
 		<title>Weather for the Week Ahead - 04/07/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260703231000 +0000" stop="20260704050000 +0000">
+	<programme channel="bbcone" start="20260703233000 +0000" stop="20260704050000 +0000">
 		<title>Joins BBC News - 04/07/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -517,17 +551,17 @@
 	<programme channel="bbctwo" start="20260629093000 +0000" stop="20260629140000 +0000">
 		<title>Wimbledon - BBC Two: Day 1, Morning</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvq6bl.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvqxcy.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260629140000 +0000" stop="20260629180000 +0000">
 		<title>Wimbledon - BBC Two: Day 1, Afternoon</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvsgwf.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260629180000 +0000" stop="20260629183000 +0000">
-		<title>Villages by the Sea - Series 2: 1. Bamburgh</title>
-		<desc>Archaeologist Ben Robinson uncovers the secrets of the Northumberland village of Bamburgh.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b36753.jpg" />
+		<title>The Good Life - Series 3: 5. The Windbreak War</title>
+		<desc>War breaks out between the Goods and the Leadbetters.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l2xpj9.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260629183000 +0000" stop="20260629190000 +0000">
 		<title>EastEnders - 29/06/2026 Part 1</title>
@@ -629,20 +663,15 @@
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260630180000 +0000" stop="20260630183000 +0000">
+	<programme channel="bbctwo" start="20260630180000 +0000" stop="20260630193000 +0000">
+		<title>Wimbledon - BBC Two: Day 2, Evening</title>
+		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260630193000 +0000" stop="20260630200000 +0000">
 		<title>Nigellissima - Series 1: Episode 1</title>
 		<desc>Dishes include a midweek family feast of tagliata and 'eggs in purgatory'.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08lms6w.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260630183000 +0000" stop="20260630190000 +0000">
-		<title>EastEnders - 29/06/2026 Part 2</title>
-		<desc>Billy and Will try to convince Honey of their suspicions.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntnc4d.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260630190000 +0000" stop="20260630200000 +0000">
-		<title>Digging for Britain - Series 7: 4. Iron Age Revealed</title>
-		<desc>Archaeologists unearth Iron Age Britain’s most spectacular burial in Yorkshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06tjz6k.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260630200000 +0000" stop="20260630204500 +0000">
 		<title>QI XL - Series S: 14. Sexed-Up</title>
@@ -859,30 +888,15 @@
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260702180000 +0000" stop="20260702183000 +0000">
-		<title>Grand Tours of Scotland's Lochs - Series 3: 6. Lost in a Landscape</title>
-		<desc>Paul travels around Loch Hope, Loch Eriboll and the Kyle of Durness to Sandwood Bay.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07psxql.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260702183000 +0000" stop="20260702190000 +0000">
-		<title>EastEnders - 02/07/2026</title>
-		<desc>Walford celebrates Pride.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntngwl.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260702190000 +0000" stop="20260702200000 +0000">
-		<title>The Repair Shop - Series 14: Episode 15</title>
-		<desc>Julyan utilises his skills to fix a piece of folk history belonging to a musical legend.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l4yyd6.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260702200000 +0000" stop="20260702210000 +0000">
-		<title>Who Do You Think You Are? - Series 20: 9. Lesley Manville</title>
-		<desc>Lesley Manville's discovery of one ancestor’s actions leads to new relatives in Australia.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g1ccwv.jpg" />
+	<programme channel="bbctwo" start="20260702180000 +0000" stop="20260702210000 +0000">
+		<title>Wimbledon - BBC Two: Day 4, Evening</title>
+		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260702210000 +0000" stop="20260702213000 +0000">
-		<title>Would I Lie to You? - Series 16: Episode 2</title>
-		<desc>With guests Chizzy Akudolu, Simon Gregson, Michelle Visage and Henning Wehn.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dtb0gr.jpg" />
+		<title>Inside No. 9 - Series 6: 4. Hurry Up and Wait</title>
+		<desc>Actor James is told to wait in a caravan owned by a strange family with something to hide.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09jfxhv.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260702213000 +0000" stop="20260702215800 +0000">
 		<title>Newsnight - 02/07/2026</title>
@@ -919,10 +933,20 @@
 		<desc>Fiona Bruce presents a special programme in the wake of Sir Keir Starmer’s resignation. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260703030000 +0000" stop="20260703053000 +0000">
+	<programme channel="bbctwo" start="20260703030000 +0000" stop="20260703050000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260703050000 +0000" stop="20260703051500 +0000">
+		<title>Breakfast - 03/07/2026</title>
+		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260703051500 +0000" stop="20260703053000 +0000">
+		<title>The A to Z of TV Gardening - Shorts: 13. Letter M</title>
+		<desc>The gardening alphabetical journey includes magnolias, a monkey puzzle tree and marigolds.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08vr5z9.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260703053000 +0000" stop="20260703061500 +0000">
 		<title>The Travelling Auctioneers - Series 6: 7. High 'Steaks' and Happy Holidays</title>
@@ -964,30 +988,15 @@
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260703180000 +0000" stop="20260703183000 +0000">
-		<title>Garden Rescue - Series 9: 10. Billericay</title>
-		<desc>Chris and Charlie create a fragrant rose garden with full access for Val and Mike.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hwj7jr.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260703183000 +0000" stop="20260703190000 +0000">
-		<title>Beechgrove Garden - 2026: Episode 14</title>
-		<desc>Lizzie Schofield and Brian Cunningham start new projects.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nv3tls.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260703190000 +0000" stop="20260703200000 +0000">
-		<title>Your Garden Made Perfect - Series 2: 1. Steph and Nicola</title>
-		<desc>Steph wants to transform her dark, dilapidated garden into a calm space to practise yoga.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0blpkt5.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260703200000 +0000" stop="20260703210000 +0000">
-		<title>Gardeners' World - 2026: Episode 16</title>
-		<desc>Adam Frost gets some shrubs in the ground and constructs a path in his new garden.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n66dyk.jpg" />
+	<programme channel="bbctwo" start="20260703180000 +0000" stop="20260703210000 +0000">
+		<title>Wimbledon - BBC Two: Day 5, Evening</title>
+		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260703210000 +0000" stop="20260703213000 +0000">
-		<title>Inside No. 9 - Series 6: 4. Hurry Up and Wait</title>
-		<desc>Actor James is told to wait in a caravan owned by a strange family with something to hide.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09jfxhv.jpg" />
+		<title>QI - Series S: 9. ‘S’ Animals</title>
+		<desc>Cally Beaton, Jamali Maddix and Josh Widdicombe look at animals which begin with S.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cj9yrn.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260703213000 +0000" stop="20260703215800 +0000">
 		<title>Newsnight - 03/07/2026</title>
@@ -5502,9 +5511,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260629210000 +0000" stop="20260629213000 +0000">
-		<title>BBC News at Ten - 29/06/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+		<title>BBC World News America - 29/06/2026</title>
+		<desc>The BBC presents in-depth reports on the major international and US news of the day.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260629213000 +0000" stop="20260629220000 +0000">
 		<title>Newsnight - 29/06/2026</title>
@@ -5722,9 +5731,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260630170000 +0000" stop="20260630173000 +0000">
-		<title>BBC News at Six - 30/06/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<title>The World Today with Maryam Moshiri - 30/06/2026</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260630173000 +0000" stop="20260630180000 +0000">
 		<title>The World Today with Maryam Moshiri - 30/06/2026</title>
@@ -5977,9 +5986,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260701170000 +0000" stop="20260701173000 +0000">
-		<title>BBC News at Six - 01/07/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<title>The World Today with Maryam Moshiri - 01/07/2026</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260701173000 +0000" stop="20260701180000 +0000">
 		<title>The World Today with Maryam Moshiri - 01/07/2026</title>
@@ -6237,9 +6246,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260702170000 +0000" stop="20260702173000 +0000">
-		<title>BBC News at Six - 02/07/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<title>The World Today with Maryam Moshiri - 02/07/2026</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260702173000 +0000" stop="20260702180000 +0000">
 		<title>The World Today with Maryam Moshiri - 02/07/2026</title>
@@ -6277,9 +6286,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260702210000 +0000" stop="20260702213000 +0000">
-		<title>BBC News at Ten - 02/07/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+		<title>BBC World News America - 02/07/2026</title>
+		<desc>The BBC presents in-depth reports on the major international and US news of the day.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260702213000 +0000" stop="20260702220000 +0000">
 		<title>Newsnight - 02/07/2026</title>
@@ -6492,9 +6501,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260703170000 +0000" stop="20260703173000 +0000">
-		<title>BBC News at Six - 03/07/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<title>The World Today with Maryam Moshiri - 03/07/2026</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260703173000 +0000" stop="20260703180000 +0000">
 		<title>The World Today with Maryam Moshiri - 03/07/2026</title>
@@ -6649,14 +6658,24 @@
 	<programme channel="bbcparliament" start="20260629130000 +0000" stop="20260629133000 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Coverage of questions in Stormont to the health minister, Mike Nesbitt, on Monday 29 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvsc90.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260629133000 +0000" stop="20260629143000 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 29 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260629143000 +0000" stop="20260629213000 +0000">
+	<programme channel="bbcparliament" start="20260629143000 +0000" stop="20260629151500 +0000">
+		<title>House of Commons - Urgent Question on the Early Release of Rapists and Child Groomers</title>
+		<desc>Urgent question on the early release of rapists and child groomers, from Monday 29 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260629151500 +0000" stop="20260629161500 +0000">
+		<title>House of Commons - Asylum Accommodation and Asylum Hotels Statement</title>
+		<desc>A statement on asylum accommodation and ending the use of hotels, on Monday 29 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260629161500 +0000" stop="20260629213000 +0000">
 		<title>House of Commons - 29/06/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 29 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6664,26 +6683,61 @@
 	<programme channel="bbcparliament" start="20260629213000 +0000" stop="20260629221500 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Coverage of questions in Stormont to the health minister, Mike Nesbitt, on Monday 29 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvsc90.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260629221500 +0000" stop="20260629230000 +0000">
 		<title>Lords Questions - 29/06/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 29 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260629230000 +0000" stop="20260630060000 +0000">
-		<title>House of Lords - 30/06/2026</title>
-		<desc>Business in the House of Lords on Monday 29 June.</desc>
+	<programme channel="bbcparliament" start="20260629230000 +0000" stop="20260629231500 +0000">
+		<title>House of Lords - Immigration Adjudicators Question</title>
+		<desc>Coverage of a private notice question in the House of Lords, on Monday 29 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260630060000 +0000" stop="20260630070000 +0000">
+	<programme channel="bbcparliament" start="20260629231500 +0000" stop="20260629232500 +0000">
+		<title>House of Lords - Media Green Paper Statement</title>
+		<desc>A statement by Baroness Twycross on the publication of the media green paper, on 29 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260629232500 +0000" stop="20260630000500 +0000">
+		<title>House of Lords - Nottingham Maternity Services Statement</title>
+		<desc>Coverage of a statement on the report into maternity and neonatal services.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260630000500 +0000" stop="20260630020500 +0000">
+		<title>House of Lords - Steel Industry (Nationalisation) Bill, Part 1</title>
+		<desc>First day of debate on the committee stage of the Steel Industry (Nationalisation) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260630020500 +0000" stop="20260630040500 +0000">
+		<title>House of Lords - Steel Industry (Nationalisation) Bill, Part 2</title>
+		<desc>The first day of the committee stage of the Steel Industry (Nationalisation) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260630040500 +0000" stop="20260630045500 +0000">
+		<title>House of Lords - Steel Industry (Nationalisation) Bill, Part 3</title>
+		<desc>The first day of the committee stage of the Steel Industry (Nationalisation) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260630045500 +0000" stop="20260630061500 +0000">
+		<title>House of Lords - Climate Change Regulations</title>
+		<desc>A debate on the motion to approve the Climate Change Act 2008 Regulations 2026.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260630061500 +0000" stop="20260630071500 +0000">
 		<title>House of Commons - Work and Pensions Questions</title>
 		<desc>Coverage of questions to Pat McFadden on Monday 29 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260630070000 +0000" stop="20260630090000 +0000">
-		<title>House of Commons - 29/06/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 29 June.</desc>
+	<programme channel="bbcparliament" start="20260630071500 +0000" stop="20260630080000 +0000">
+		<title>House of Commons - Urgent Question on the Early Release of Rapists and Child Groomers</title>
+		<desc>Urgent question on the early release of rapists and child groomers, from Monday 29 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260630080000 +0000" stop="20260630090000 +0000">
+		<title>House of Commons - Asylum Accommodation and Asylum Hotels Statement</title>
+		<desc>A statement on asylum accommodation and ending the use of hotels, on Monday 29 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260630090000 +0000" stop="20260630103000 +0000">
@@ -6859,7 +6913,7 @@
 	<programme channel="bbcparliament" start="20260704010000 +0000" stop="20260704014500 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Coverage of questions in Stormont to the health minister, Mike Nesbitt, on Monday 29 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvsc90.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260704014500 +0000" stop="20260704050000 +0000">
 		<title>Northern Ireland Assembly - 03/07/2026</title>
@@ -7721,17 +7775,17 @@
 		<desc>Mae'r Whws yn clywed llais o grombil twnnel creigiog. Maen nhw'n ymchwilio a'n dysgu bo...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf26pw.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630051000 +0000" stop="20260630052000 +0000">
+	<programme channel="s4c" start="20260630051000 +0000" stop="20260630051500 +0000">
 		<title>Shwshaswyn - Cyfres 1: Creu</title>
 		<desc>Beth yw'r holl bethau ar y bwrdd? Papur, glud a rhubanau. Gyda rhain, mae Seren yn dysg...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06j4f78.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630052000 +0000" stop="20260630053500 +0000">
+	<programme channel="s4c" start="20260630051500 +0000" stop="20260630053000 +0000">
 		<title>Jen a Jim - Jen a Jim Pob Dim: Fflip Fflap Fflamingo</title>
 		<desc>Dydy Fflamingo ddim yn aros yn llonydd ddigon hir i'r criw ei fesur. Tybed oes ffordd a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03jn1qb.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630053500 +0000" stop="20260630054500 +0000">
+	<programme channel="s4c" start="20260630053000 +0000" stop="20260630054500 +0000">
 		<title>Tomos a'i Ffrindiau - Cyfres 4: Addewid Tomos</title>
 		<desc>Mae Tomos yn addo danfon cargo Gordon i'r Ganolfan Ailgylchu. Tomos makes a promise to ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fmrf80.jpg" />
@@ -7746,22 +7800,22 @@
 		<desc>Pan mae'n cyfarfod â Glas mae Coch wedi ei syfrdanu mai nad hi yw'r unig liw yng Ngwlad...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cws4.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630060500 +0000" stop="20260630062000 +0000">
+	<programme channel="s4c" start="20260630060500 +0000" stop="20260630061500 +0000">
 		<title>Digbi Draig - Cyfres 1: Hudlath Betsi</title>
 		<desc>Pan mae hudlath Betsi yn torri cyn iddi fynd i'r Gwersyll Teg mae Digbi'n penderfynu my...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cpjj.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630062000 +0000" stop="20260630063000 +0000">
+	<programme channel="s4c" start="20260630061500 +0000" stop="20260630063000 +0000">
 		<title>Caru Canu a Stori - Cyfres 1: Tair Hwyaden</title>
 		<desc>O diar, mae Huwcyn Hwyaden wedi colli ei lais. Tybed i ble'r aeth e? Oh dear, Huwcyn Hw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p093t3gw.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630063000 +0000" stop="20260630064500 +0000">
+	<programme channel="s4c" start="20260630063000 +0000" stop="20260630064000 +0000">
 		<title>Twm Twrch - Cyfres 1: Yr Hirsgwar Hud</title>
 		<desc>Ma helynt yng Nghwmtwrch pan ma teclyn hirsgwar efo pwerau hudol yn disgyn o'r Pridd Uw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf131x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630064500 +0000" stop="20260630070000 +0000">
+	<programme channel="s4c" start="20260630064000 +0000" stop="20260630070000 +0000">
 		<title>Help Llaw - Cyfres 1: Ania - Nofio</title>
 		<desc>As Harri tries to relax in the pool, he gets a call to say that the door to the changin...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdcx91.jpg" />
@@ -7776,42 +7830,42 @@
 		<desc>Bydd Gareth yr Orangutan yn teithio ysgolion Cymru yn trafod amryw bynciau. Tro ma, Tyf...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwgf1c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630071500 +0000" stop="20260630073000 +0000">
+	<programme channel="s4c" start="20260630071500 +0000" stop="20260630072500 +0000">
 		<title>Byd Tad-Cu - Cyfres 1: Pwy wnaeth ddarganfod tan?</title>
 		<desc>'Pwy wnaeth ddarganfod tân?' yw cwestiwn Gweni heddiw. Mae gan Tad-cu ateb dwl a doniol...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09t9404.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630073000 +0000" stop="20260630074500 +0000">
+	<programme channel="s4c" start="20260630072500 +0000" stop="20260630073500 +0000">
 		<title>Mojo Swoptops - Mojo Swoptop</title>
 		<desc>Ai UFO sy'n hedfan dros Swopdre Fawr, neu Mojo a Bo mewn hofrennydd?  Is that a UFO ove...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ndbwjk.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630074500 +0000" stop="20260630080000 +0000">
+	<programme channel="s4c" start="20260630073500 +0000" stop="20260630075500 +0000">
 		<title>Ahoi! - Cyfres 3: Ysgol Pwll Coch #2</title>
 		<desc>A fydd y criw o forladron bach o Ysgol Pwll Coch yn llwyddo i helpu Ben Dant a Cadi i d...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mx77dk.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630080000 +0000" stop="20260630081500 +0000">
+	<programme channel="s4c" start="20260630075500 +0000" stop="20260630080500 +0000">
 		<title>Chwedlau Tinga Tinga - Cyfres 1: Pam Fod Pen Tylluan yn Troi'r</title>
 		<desc>Heddiw, cawn glywed pam mae pen Tylluan yn troi'r holl ffordd rownd. Colourful stories ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02fv4ld.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630081500 +0000" stop="20260630082500 +0000">
+	<programme channel="s4c" start="20260630080500 +0000" stop="20260630082000 +0000">
 		<title>Twt - Cyfres 1: Sinema Farina</title>
 		<desc>Mae criw'r harbwr yn penderfynu cynhyrchu eu ffilm eu hunain. Tybed beth fydd y stori a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02n60c5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630082500 +0000" stop="20260630084000 +0000">
+	<programme channel="s4c" start="20260630082000 +0000" stop="20260630083500 +0000">
 		<title>Jen a Jim - Jen a Jim a'r Cywiadur: Rh - Rhedeg a Rhwyfo</title>
 		<desc>Mae rhaff, rhwyd, rhaw a rhwyf wedi cyrraedd y Siop Pob Dim ac mae Jen am eu defnyddio ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nbbcbr.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630084000 +0000" stop="20260630085000 +0000">
+	<programme channel="s4c" start="20260630083500 +0000" stop="20260630084500 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 3: Gêm Gofio</title>
 		<desc>Dyw Blero ddim yn cofio ble gadawodd ei hoff hosan,mae'n mynd i Ocido i ddysgu sut i pr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2n9w.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630085000 +0000" stop="20260630090000 +0000">
+	<programme channel="s4c" start="20260630084500 +0000" stop="20260630090000 +0000">
 		<title>Annibendod - Cyfres 1: Twtio</title>
 		<desc>Mae tad Anni yn gofyn i Anni a Cai i lanhau wedi'r storm fawr ac ma'r ddau'n troi tasg ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l5s51y.jpg" />
@@ -7821,47 +7875,47 @@
 		<desc>Mae'r Whws eisiau siarad o bell gydaTomi pan mae nhw'n chwarae. Maen nhw'n darganfod su...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npp1yn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630091000 +0000" stop="20260630092000 +0000">
+	<programme channel="s4c" start="20260630091000 +0000" stop="20260630091500 +0000">
 		<title>Shwshaswyn - Cyfres 1: Garddio</title>
 		<desc>Yng ngardd y parc mae'r Capten yn dyfrio'r pridd i Seren blannu hadau. Ond pa flodyn sy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06j4f78.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630092000 +0000" stop="20260630093500 +0000">
+	<programme channel="s4c" start="20260630091500 +0000" stop="20260630093000 +0000">
 		<title>Jen a Jim - Jen a Jim Pob Dim: Ble'r Aeth yr Haul?</title>
 		<desc>Mae 'na swn rhyfedd iawn yn dod o'r gofod heddiw. Beth neu bwy sy'n gwneud y synau? The...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03h9tj3.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630093500 +0000" stop="20260630094500 +0000">
+	<programme channel="s4c" start="20260630093000 +0000" stop="20260630094000 +0000">
 		<title>Tomos a'i Ffrindiau - Cyfres 4: Helynt Sgiff yn Sodor</title>
 		<desc>Pan mae crac yn nghorff Sgiff, mae angen i Tomos ei symud dros y tir i'w atgyweirio. Wh...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nr426h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630094500 +0000" stop="20260630100000 +0000">
+	<programme channel="s4c" start="20260630094000 +0000" stop="20260630095500 +0000">
 		<title>Fferm Fach - Cyfres 3: Pwmpen</title>
 		<desc>Mae Cai a Megan yn edrych ymlaen at barti Calan Gaeaf, ond does dim pwmpen gyda nhw... ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nbbp7d.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630100000 +0000" stop="20260630100500 +0000">
+	<programme channel="s4c" start="20260630095500 +0000" stop="20260630100500 +0000">
 		<title>Blociau Lliw - Cyfres 1: Glas</title>
 		<desc>Mae Glas cwl iawn yn ymddangos yng Ngwlad y Lliwiau. Dysga am y lliw glas. Cool Blue ar...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cws4.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630100500 +0000" stop="20260630102000 +0000">
+	<programme channel="s4c" start="20260630100500 +0000" stop="20260630101500 +0000">
 		<title>Digbi Draig - Cyfres 1: Adenydd Ysblennydd</title>
 		<desc>Wedi ei ysbrydoli gan un o straeon anturus ei arwr Gruffudd Goch, mae Digbi'n penderfyn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cpjj.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630102000 +0000" stop="20260630103000 +0000">
+	<programme channel="s4c" start="20260630101500 +0000" stop="20260630103000 +0000">
 		<title>Caru Canu a Stori - Cyfres 1: Heno Heno</title>
 		<desc>Am y tro cyntaf erioed, mae Pws y gath yn penderfynu bod yn ddewr a chrwydro ymhellach ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0964lkz.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630103000 +0000" stop="20260630104500 +0000">
+	<programme channel="s4c" start="20260630103000 +0000" stop="20260630104000 +0000">
 		<title>Twm Twrch - Cyfres 1: Ar Goll Mewn Amser Rhan 1</title>
 		<desc>Rhan 1. Mae Dorti yn sownd yn y gorffennol a does neb yn ei hadnabod! Part 1. Dorti end...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf131x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630104500 +0000" stop="20260630110000 +0000">
+	<programme channel="s4c" start="20260630104000 +0000" stop="20260630110000 +0000">
 		<title>Help Llaw - Cyfres 1: Owain- Tren Stem</title>
 		<desc>'Sdim stêm yn codi o drên stem Porthmadog - felly ffwrdd a Harri i helpu Owain a gyrrwr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdcx91.jpg" />
@@ -7911,27 +7965,27 @@
 		<desc>Mae Bryan eisiau darganfod pwy yw ei dad unwaith ac am byth; ac mae Ian wedi bod yn chw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cy212m.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630150000 +0000" stop="20260630150500 +0000">
+	<programme channel="s4c" start="20260630150000 +0000" stop="20260630151000 +0000">
 		<title>Blociau Lliw - Cyfres 1: Mae'n Fyd Lliwgar</title>
 		<desc>Mae'r Blociau Lliw yn dod at ei gilydd. Faint ohonyn nhw ydych chi'n eu cofio? All the ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cws4.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630150500 +0000" stop="20260630151500 +0000">
+	<programme channel="s4c" start="20260630151000 +0000" stop="20260630152000 +0000">
 		<title>Twm Twrch - Cyfres 1: Dan y Tanddaearol</title>
 		<desc>Beth sy'n digwydd ym myd Twm Twrch heddiw? What's happening in Twm Twrch's world today?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf131x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630151500 +0000" stop="20260630153000 +0000">
+	<programme channel="s4c" start="20260630152000 +0000" stop="20260630153500 +0000">
 		<title>Fferm Fach - Cyfres 3: Selsig</title>
 		<desc>Mae Leisa a Betsan yn mynd ar antur i ddarganfod sut mae selsig yn cael eu gwneud gyda ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nbbp7d.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630153000 +0000" stop="20260630154500 +0000">
+	<programme channel="s4c" start="20260630153500 +0000" stop="20260630155000 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 3: Cosi</title>
 		<desc>Mae ieir Ffermwr Ffred wedi dianc,mae'r plu yn gwneud i Llinos Llosgfynydd cosi. Mae an...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2n9w.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260630154500 +0000" stop="20260630160000 +0000">
+	<programme channel="s4c" start="20260630155000 +0000" stop="20260630160000 +0000">
 		<title>Byd Tad-Cu - Cyfres 1: Gwenyn yn gwneud mel</title>
 		<desc>Mae Owen yn gofyn 'Pam fod gwenyn yn gwneud mêl?' Wrth gwrs, mae gan Tad-cu ateb dwl a ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09t9404.jpg" />
