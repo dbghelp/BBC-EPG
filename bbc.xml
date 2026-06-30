@@ -106,33 +106,33 @@
 		<desc>Ivory Coast take on Norway in the round of 32 match at the 2026 FIFA World Cup in Dallas.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvx8wk.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260630193000 +0000" stop="20260630210000 +0000">
+	<programme channel="bbcone" start="20260630193000 +0000" stop="20260630210500 +0000">
 		<title>Wimbledon - BBC One: Day 2, Evening</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw0xwz.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260630210000 +0000" stop="20260630213000 +0000">
+	<programme channel="bbcone" start="20260630210500 +0000" stop="20260630213500 +0000">
 		<title>BBC News at Ten - 30/06/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260630213000 +0000" stop="20260630214000 +0000">
+	<programme channel="bbcone" start="20260630213500 +0000" stop="20260630214500 +0000">
 		<title>BBC London - Late News: 30/06/2026</title>
 		<desc>The latest news, sport and weather from London.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260630214000 +0000" stop="20260630232500 +0000">
+	<programme channel="bbcone" start="20260630214500 +0000" stop="20260630233000 +0000">
 		<title>Me Before You</title>
 		<desc>When Louisa becomes carer for Will, a challenging situation becomes more difficult still.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nspmp3.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260630232500 +0000" stop="20260630233000 +0000">
+	<programme channel="bbcone" start="20260630233000 +0000" stop="20260630233500 +0000">
 		<title>Weather for the Week Ahead - 01/07/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260630233000 +0000" stop="20260701050000 +0000">
+	<programme channel="bbcone" start="20260630233500 +0000" stop="20260701050000 +0000">
 		<title>Joins BBC News - 01/07/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -554,7 +554,7 @@
 	<programme channel="bbctwo" start="20260630180000 +0000" stop="20260630193000 +0000">
 		<title>Wimbledon - BBC Two: Day 2, Evening</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw0jvr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw0n9q.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260630193000 +0000" stop="20260630200000 +0000">
 		<title>Nigellissima - Series 1: Episode 1</title>
@@ -577,9 +577,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b55gpr.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260630213000 +0000" stop="20260630220300 +0000">
-		<title>Newsnight - 30/06/2026</title>
-		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<title>Newsnight - Grooming gang survivor scared for safety</title>
+		<desc>The survivor of a grooming gang reacts to news its leader will be released from prison.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw13ys.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260630220300 +0000" stop="20260630220500 +0000">
 		<title>BBC Weather - 30/06/2026</title>
@@ -5507,7 +5507,7 @@
 	<programme channel="bbcnews" start="20260630213000 +0000" stop="20260630220000 +0000">
 		<title>Newsnight - 30/06/2026</title>
 		<desc>Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw13ys.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260630220000 +0000" stop="20260630230000 +0000">
 		<title>BBC World News America - 30/06/2026</title>
@@ -6599,10 +6599,15 @@
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 30 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260630183000 +0000" stop="20260630210000 +0000">
+	<programme channel="bbcparliament" start="20260630183000 +0000" stop="20260630192500 +0000">
 		<title>House of Lords - 30/06/2026</title>
 		<desc>Coverage of proceedings in the House of Lords on Tuesday 30 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260630192500 +0000" stop="20260630210000 +0000">
+		<title>Select Committees - Public Administration Committee on the Infected Blood Inquiry</title>
+		<desc>Public Administration and Constitutional Affairs committee on the Infected Blood Inquiry.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvz2s8.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260630210000 +0000" stop="20260630220000 +0000">
 		<title>Welsh First Minister's Questions - 30/06/2026</title>
@@ -6619,30 +6624,35 @@
 		<desc>A private notice question on the Civil Service Pensions Scheme, on Tuesday 30 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260630230000 +0000" stop="20260701010000 +0000">
+	<programme channel="bbcparliament" start="20260630230000 +0000" stop="20260701005500 +0000">
 		<title>House of Lords - National Security (State Threats) Bill, Part 1</title>
 		<desc>A debate on all stages of the National Security (State Threats) Bill on Tuesday 30 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260701010000 +0000" stop="20260701024500 +0000">
+	<programme channel="bbcparliament" start="20260701005500 +0000" stop="20260701021000 +0000">
 		<title>House of Lords - National Security (State Threats) Bill, Part 2</title>
 		<desc>A debate on all stages of the National Security (State Threats) Bill on Tuesday 30 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260701024500 +0000" stop="20260701034500 +0000">
-		<title>House of Lords - National Security (State Threats) Bill, Part 3</title>
-		<desc>A debate on all stages of the National Security (State Threats) Bill, on Tuesday 30 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260701034500 +0000" stop="20260701044500 +0000">
+	<programme channel="bbcparliament" start="20260701021000 +0000" stop="20260701030500 +0000">
 		<title>House of Lords - Town and Country Planning Regulations</title>
-		<desc>A debate on new town planning regulations in England, on Tuesday 30 June.</desc>
+		<desc>Coverage of the debate on new town planning regulations in England, on Tuesday 30 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260701044500 +0000" stop="20260701060000 +0000">
+	<programme channel="bbcparliament" start="20260701030500 +0000" stop="20260701033500 +0000">
 		<title>House of Lords - Steel Trade Measure Statement</title>
 		<desc>A statement by business and trade minister Lord Leong on the steel trade measure.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260701033500 +0000" stop="20260701041500 +0000">
+		<title>House of Commons - Sudan Urgent Question</title>
+		<desc>An urgent question on the fighting in Sudan and diplomatic efforts to reach a ceasefire.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nv144w.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260701041500 +0000" stop="20260701060000 +0000">
+		<title>House of Commons - Defence Investment Plan Statement</title>
+		<desc>Coverage of a statement on the Defence Investment Plan, on Tuesday 30 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw0djh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260701060000 +0000" stop="20260701071000 +0000">
 		<title>House of Commons - Justice Questions</title>
