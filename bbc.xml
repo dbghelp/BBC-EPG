@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260701083000 +0000" stop="20260701094500 +0000">
 		<title>Morning Live - Series 8: 01/07/2026</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>Gethin Jones and Helen Skelton discuss England's World Cup so far and AI insurance fraud.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhggnm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260701094500 +0000" stop="20260701101500 +0000">
@@ -80,10 +80,15 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260701130000 +0000" stop="20260701150000 +0000">
+	<programme channel="bbcone" start="20260701130000 +0000" stop="20260701145500 +0000">
 		<title>Wimbledon - BBC One: Day 3, Afternoon</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260701145500 +0000" stop="20260701150000 +0000">
+		<title>DEC Venezuela Earthquake Appeal</title>
+		<desc>Adjoa Andoh presents the Disasters Emergency Committee's Venezuela Earthquake Appeal.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3f6m.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260701150000 +0000" stop="20260701183000 +0000">
 		<title>FIFA World Cup 2026 - Round of 32: England v DR Congo</title>
@@ -111,11 +116,16 @@
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260701213000 +0000" stop="20260701214500 +0000">
+	<programme channel="bbcone" start="20260701213000 +0000" stop="20260701214000 +0000">
 		<title>BBC London - Late News: 01/07/2026</title>
 		<desc>The latest news, sport and weather from London.
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260701214000 +0000" stop="20260701214500 +0000">
+		<title>DEC Venezuela Earthquake Appeal</title>
+		<desc>Adjoa Andoh presents the Disasters Emergency Committee's Venezuela Earthquake Appeal.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3f6m.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260701214500 +0000" stop="20260701232000 +0000">
 		<title>Blink Twice</title>
@@ -569,10 +579,15 @@
 		<desc>Max is left rattled by Priya’s behaviour.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntngvw.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260701203000 +0000" stop="20260701210000 +0000">
+	<programme channel="bbctwo" start="20260701203000 +0000" stop="20260701205500 +0000">
 		<title>Mortimer &amp; Whitehouse: Gone Fishing - Series 7: 6. River Ouse, Bedfordshire – Perch</title>
 		<desc>Paul, Bob and Ted travel to Bedfordshire to fish the River Ouse in the summer sunshine.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jzdk29.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260701205500 +0000" stop="20260701210000 +0000">
+		<title>DEC Venezuela Earthquake Appeal</title>
+		<desc>Adjoa Andoh presents the Disasters Emergency Committee's Venezuela Earthquake Appeal.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3f6m.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260701210000 +0000" stop="20260701213000 +0000">
 		<title>Scams &amp; Scandals  - The Golden Toilet Heist</title>
@@ -589,42 +604,42 @@
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260701220000 +0000" stop="20260701230500 +0000">
+	<programme channel="bbctwo" start="20260701220000 +0000" stop="20260701225500 +0000">
 		<title>Wimbledon - Day 3</title>
 		<desc>A look back at the day’s play at Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvy7rw.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260701230500 +0000" stop="20260701233500 +0000">
+	<programme channel="bbctwo" start="20260701225500 +0000" stop="20260701232500 +0000">
 		<title>T20 Cricket - 2026: England v India: First T20 Highlights</title>
 		<desc>Highlights of the first game of the T20 series between England and India.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvywgj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260701233500 +0000" stop="20260702011500 +0000">
+	<programme channel="bbctwo" start="20260701232500 +0000" stop="20260702010500 +0000">
 		<title>Past Lives</title>
 		<desc>Two childhood friends contemplate the nature of their relationship.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lkg111.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260702011500 +0000" stop="20260702014500 +0000">
+	<programme channel="bbctwo" start="20260702010500 +0000" stop="20260702013500 +0000">
 		<title>See Hear - Series 45: Episode 8 - Cafe Conversations</title>
 		<desc>Magazine for the deaf community highlighting the latest issues.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntfmmx.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260702014500 +0000" stop="20260702021500 +0000">
+	<programme channel="bbctwo" start="20260702013500 +0000" stop="20260702020500 +0000">
 		<title>Do You Know Your Place? - Series 1: 12. Taunton</title>
 		<desc>Vernon Kay tests Owain Wyn Evans, Greg Rutherford and Abby Cook’s knowledge of Taunton.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3d8qp.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260702021500 +0000" stop="20260702024500 +0000">
+	<programme channel="bbctwo" start="20260702020500 +0000" stop="20260702023500 +0000">
 		<title>Peelers: The PSNI for Real - Series 1: Episode 6</title>
 		<desc>Tom tackles racism, and Dave disrupts drug users.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfqz6h.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260702024500 +0000" stop="20260702033000 +0000">
+	<programme channel="bbctwo" start="20260702023500 +0000" stop="20260702032000 +0000">
 		<title>Two Weeks in August - Series 1: Episode 7</title>
 		<desc>Zoe goes on a dangerous quest for answers as trouble rocks up for the friends.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nm79v1.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260702033000 +0000" stop="20260702053000 +0000">
+	<programme channel="bbctwo" start="20260702032000 +0000" stop="20260702053000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -684,32 +699,32 @@
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260702220000 +0000" stop="20260702230000 +0000">
+	<programme channel="bbctwo" start="20260702220000 +0000" stop="20260702225500 +0000">
 		<title>Wimbledon - Day 4</title>
 		<desc>A look back at the day’s play at Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvy7vv.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260702230000 +0000" stop="20260703004500 +0000">
+	<programme channel="bbctwo" start="20260702225500 +0000" stop="20260703004000 +0000">
 		<title>Ken Dodd: A Legacy of Happiness</title>
 		<desc>A star-studded documentary revealing the private man behind Britain’s great comic genius.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kyp6hj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260703004500 +0000" stop="20260703011500 +0000">
+	<programme channel="bbctwo" start="20260703004000 +0000" stop="20260703011000 +0000">
 		<title>See Hear - Series 45: Episode 9 - Cafe Conversations</title>
 		<desc>Punk Chef welcomes two guests, Emma Iliffe and Chris Laing, for two cafe conversations.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntfnll.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260703011500 +0000" stop="20260703020000 +0000">
+	<programme channel="bbctwo" start="20260703011000 +0000" stop="20260703015500 +0000">
 		<title>Two Weeks in August - Series 1: Episode 8</title>
 		<desc>A deadly wildfire forces Zoe and her friends to choose the lives they really want.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nm7bpk.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260703020000 +0000" stop="20260703030000 +0000">
+	<programme channel="bbctwo" start="20260703015500 +0000" stop="20260703025500 +0000">
 		<title>Question Time - 2026: 26/06/2026</title>
 		<desc>Fiona Bruce presents a special programme in the wake of Sir Keir Starmer’s resignation. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260703030000 +0000" stop="20260703050000 +0000">
+	<programme channel="bbctwo" start="20260703025500 +0000" stop="20260703050000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -784,22 +799,22 @@
 		<desc>Weather bulletin.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260703220000 +0000" stop="20260703230000 +0000">
+	<programme channel="bbctwo" start="20260703220000 +0000" stop="20260703225500 +0000">
 		<title>Wimbledon - Day 5</title>
 		<desc>A look back at the day’s play at Wimbledon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvy85n.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260703230000 +0000" stop="20260704011000 +0000">
+	<programme channel="bbctwo" start="20260703225500 +0000" stop="20260704010000 +0000">
 		<title>Licorice Pizza</title>
 		<desc>LA, 1973. Aimless 20-something Alana is drawn into the quirky world of 15-year-old Gary.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gjdjc3.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260704011000 +0000" stop="20260704021000 +0000">
+	<programme channel="bbctwo" start="20260704010000 +0000" stop="20260704020000 +0000">
 		<title>Reported Missing - Series 5: 3. Runaway</title>
 		<desc>Police mount searches for two teenagers who are missing from care and could be in danger.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nmjnh2.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260704021000 +0000" stop="20260704051000 +0000">
+	<programme channel="bbctwo" start="20260704020000 +0000" stop="20260704051000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -853,7 +868,7 @@
 	<programme channel="bbctwo" start="20260704070500 +0000" stop="20260704073000 +0000">
 		<title>Blue Peter - Full Episodes: Joel's Final Challenge - He's in Charge!</title>
 		<desc>Packed full of amazing celeb guests, epic challenges and lols galore!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl52jp.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3l0g.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260704073000 +0000" stop="20260704074000 +0000">
 		<title>Newsround - 04/07/2026</title>
@@ -868,7 +883,7 @@
 	<programme channel="bbctwo" start="20260704090000 +0000" stop="20260704100000 +0000">
 		<title>Gardeners' World - 2026: Episode 16</title>
 		<desc>Adam Frost gets some shrubs in the ground and constructs a path in his new garden.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n66dyk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3fwx.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260704100000 +0000" stop="20260704140000 +0000">
 		<title>Wimbledon - BBC Two: Day 6, Morning</title>
@@ -1593,7 +1608,7 @@
 	<programme channel="bbcfour" start="20260703200000 +0000" stop="20260703210000 +0000">
 		<title>Gardeners' World - 2026: Episode 16</title>
 		<desc>Adam Frost gets some shrubs in the ground and constructs a path in his new garden.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n66dyk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3fwx.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260703210000 +0000" stop="20260703213500 +0000">
 		<title>Words and Music - American Stories 2</title>
@@ -2311,7 +2326,7 @@
 	<programme channel="cbbc" start="20260703065500 +0000" stop="20260703070000 +0000">
 		<title>Hacker’s Ruff Guide to the World Cup  - Series 1: Wayne Rooney Surprise!</title>
 		<desc>Hacker surprises a group of young footy fans with a message from an England legend!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqz2y3.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3l1t.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260703070000 +0000" stop="20260703070500 +0000">
 		<title>Grizzy and the Lemmings - Series 3: 63. Foodie Phantoms</title>
@@ -2496,7 +2511,7 @@
 	<programme channel="cbbc" start="20260703160000 +0000" stop="20260703163000 +0000">
 		<title>Blue Peter - Full Episodes: Joel's Final Challenge - He's in Charge!</title>
 		<desc>Packed full of amazing celeb guests, epic challenges and lols galore!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl52jp.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3l0g.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260703163000 +0000" stop="20260703165500 +0000">
 		<title>My Life - Tennis to the Max</title>
@@ -2636,7 +2651,7 @@
 	<programme channel="cbbc" start="20260704110000 +0000" stop="20260704112500 +0000">
 		<title>Blue Peter - Full Episodes: Joel's Final Challenge - He's in Charge!</title>
 		<desc>Packed full of amazing celeb guests, epic challenges and lols galore!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl52jp.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3l0g.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260704112500 +0000" stop="20260704114000 +0000">
 		<title>Bro's in Control - Series 1: 15. Cowboy Challenge</title>
@@ -4958,10 +4973,15 @@
 		<desc>Highlights from the BBC Scotland channel. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfw934.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20260701180000 +0000" stop="20260701183000 +0000">
+	<programme channel="bbcscotland" start="20260701180000 +0000" stop="20260701182500 +0000">
 		<title>Reporting Scotland - News at Seven: 01/07/2026</title>
 		<desc>More from the day’s top stories and communities across Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4rpph.jpg" />
+	</programme>
+	<programme channel="bbcscotland" start="20260701182500 +0000" stop="20260701183000 +0000">
+		<title>DEC Venezuela Earthquake Appeal</title>
+		<desc>Adjoa Andoh presents the Disasters Emergency Committee's Venezuela Earthquake Appeal.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3f6m.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260701183000 +0000" stop="20260701190000 +0000">
 		<title>My Kind of Town - Series 2: 1. Cumnock</title>
@@ -5388,10 +5408,15 @@
 		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260701193000 +0000" stop="20260701200000 +0000">
+	<programme channel="bbcnews" start="20260701193000 +0000" stop="20260701195500 +0000">
 		<title>The Context USA - 01/07/2026</title>
 		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260701195500 +0000" stop="20260701200000 +0000">
+		<title>DEC Venezuela Earthquake Appeal</title>
+		<desc>Adjoa Andoh presents the Disasters Emergency Committee's Venezuela Earthquake Appeal.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3f6m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260701200000 +0000" stop="20260701203000 +0000">
 		<title>The Context - 01/07/2026</title>
@@ -7306,7 +7331,7 @@
 	<programme channel="s4c" start="20260701050000 +0000" stop="20260701050500 +0000">
 		<title>Blociau Rhif - Cyfres 1: Deg Hen Botel</title>
 		<desc>Mae Deg Hen botel yn hongian ar y wal,ond mae un o'r poteli'n disgyn ac yn achosi helyn...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3479.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260701050500 +0000" stop="20260701051500 +0000">
 		<title>Sam Tân - Cyfres 10: Fflam o'r Gorffennol</title>
@@ -7916,7 +7941,7 @@
 	<programme channel="s4c" start="20260703050000 +0000" stop="20260703050500 +0000">
 		<title>Blociau Rhif - Cyfres 1: Stori Amser Gwely</title>
 		<desc>Dyma stori amser gwely am Blociau Rhif Un,Dau,Tri, Pedwar a Phump,mae nhw'n llawn drygi...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw34mp.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260703050500 +0000" stop="20260703052000 +0000">
 		<title>Sam Tân - Cyfres 10: Jams a'r Bwmpen Enfawr!</title>
@@ -8016,7 +8041,7 @@
 	<programme channel="s4c" start="20260703090000 +0000" stop="20260703090500 +0000">
 		<title>Blociau Rhif - Cyfres 1: Gêm o Daflu Dau</title>
 		<desc>Mae'r Blociau Rhif yn dod o hyd i goeden hud ac yn penderfynu chwarae gêm o Daflu Dau.D...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw33tn.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260703090500 +0000" stop="20260703091500 +0000">
 		<title>Sam Tân - Cyfres 10: Pondis Norman!</title>
