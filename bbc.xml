@@ -87,7 +87,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260702130000 +0000" stop="20260702170000 +0000">
 		<title>Wimbledon - BBC One: Fearnley, Swan, Eala</title>
-		<desc>BBC One Afternoon coverage of Jacob Fearnley, Katie Swan, Alexandra Eala.</desc>
+		<desc>BBC One afternoon coverage of Jacob Fearnley, Katie Swan and Alexandra Eala.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwfc50.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260702170000 +0000" stop="20260702173000 +0000">
@@ -530,14 +530,14 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwbzn1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260702140000 +0000" stop="20260702180000 +0000">
-		<title>Wimbledon - BBC Two: Day 4, Afternoon</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+		<title>Wimbledon - BBC Two: Swiatek, Kostyuk, Choinski</title>
+		<desc>BBC Two Afternoon coverage of Iga Swiatek, Marta Kostyuk, GB's Jan Choinski.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwh50t.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260702180000 +0000" stop="20260702210000 +0000">
 		<title>Wimbledon - BBC Two: Day 4, Evening</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntlq8y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwj2ts.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260702210000 +0000" stop="20260702213000 +0000">
 		<title>Inside No. 9 - Series 6: 4. Hurry Up and Wait</title>
@@ -6491,52 +6491,62 @@
 		<desc>Coverage of proceedings in the House of Lords on Friday 3 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260703140000 +0000" stop="20260703153000 +0000">
+	<programme channel="bbcparliament" start="20260703140000 +0000" stop="20260703154500 +0000">
 		<title>House of Lords - Higher Education Debate, Part 1</title>
 		<desc>The debate on the future affordability and quality of higher education on Thursday 2 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260703153000 +0000" stop="20260703170000 +0000">
+	<programme channel="bbcparliament" start="20260703154500 +0000" stop="20260703164500 +0000">
 		<title>House of Lords - Higher Education Debate, Part 2</title>
 		<desc>The debate on the future affordability and quality of higher education on Thursday 2 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260703164500 +0000" stop="20260703170000 +0000">
+		<title>House of Lords - Civil Service Pensions</title>
+		<desc>A private notice question on the Civil Service Pensions Scheme, on Tuesday 30 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3jzn.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260703170000 +0000" stop="20260703183500 +0000">
 		<title>Select Committees - Housing, Communities and Local Government Committee on Elections</title>
 		<desc>The Housing, Communities and Local Government select committee on modernising elections.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260703183500 +0000" stop="20260703200000 +0000">
+	<programme channel="bbcparliament" start="20260703183500 +0000" stop="20260703195500 +0000">
 		<title>Select Committees - Joint Committee on Human Rights on Security, Safety and Protest</title>
 		<desc>Human Rights Joint Committee on the role of human rights in security, safety and protest.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260703195500 +0000" stop="20260703200000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260703200000 +0000" stop="20260703210000 +0000">
 		<title>Welsh First Minister's Questions - 30/06/2026</title>
 		<desc>Questions in the Senedd to Rhun ap Iorwerth, the first minister, on Tuesday 30 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3ptq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260703210000 +0000" stop="20260703214500 +0000">
+	<programme channel="bbcparliament" start="20260703210000 +0000" stop="20260703215000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Counsel General Questions</title>
 		<desc>Questions in the Welsh Parliament to the new counsel general for Wales, Elyfn Llwyd.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260703214500 +0000" stop="20260703223500 +0000">
+	<programme channel="bbcparliament" start="20260703215000 +0000" stop="20260703224000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Betsi Cadwaladr University Health Board</title>
 		<desc>The statement in the Welsh Parliament on Betsi Cadwaladr University Health Board.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260703223500 +0000" stop="20260703231500 +0000">
+	<programme channel="bbcparliament" start="20260703224000 +0000" stop="20260703232000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - North-South Coach Services</title>
 		<desc>The statement on North-South coach services and integrated transport, on Tuesday 30 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260703231500 +0000" stop="20260704000000 +0000">
+	<programme channel="bbcparliament" start="20260703232000 +0000" stop="20260704000500 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Health and Care Winter Preparedness</title>
 		<desc>The statement on the Welsh NHS and care sector's preparedness for the upcoming winter.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260704000000 +0000" stop="20260704010000 +0000">
+	<programme channel="bbcparliament" start="20260704000500 +0000" stop="20260704010000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Enterprise, Connectivity and Energy Questions</title>
 		<desc>Questions to the minister for enterprise, connectivity and energy, Adam Price, on 1 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
@@ -6576,10 +6586,15 @@
 		<desc>The statement on the latest North South Ministerial Council meeting on inland waterways.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260704041000 +0000" stop="20260704050000 +0000">
+	<programme channel="bbcparliament" start="20260704041000 +0000" stop="20260704044500 +0000">
 		<title>Northern Ireland Assembly - Members' Statements</title>
 		<desc>Coverage of the members' statements in the Northern Ireland Assembly, on Monday 29 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260704044500 +0000" stop="20260704050000 +0000">
+		<title>House of Lords - Civil Service Pensions</title>
+		<desc>A private notice question on the Civil Service Pensions Scheme, on Tuesday 30 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3jzn.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260704050000 +0000" stop="20260704100000 +0000">
 		<title>Westminster Hall - 30/06/2026</title>
