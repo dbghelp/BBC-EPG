@@ -402,10 +402,20 @@
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260706231500 +0000" stop="20260707050000 +0000">
+	<programme channel="bbcone" start="20260706231500 +0000" stop="20260706235000 +0000">
 		<title>Joins BBC News - 07/07/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260706235000 +0000" stop="20260707021000 +0000">
+		<title>FIFA World Cup 2026 - Round of 16: USA v Belgium</title>
+		<desc>Live coverage of a match in the round of 16 at the 2026 World Cup.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260707021000 +0000" stop="20260707050000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260707050000 +0000" stop="20260707083000 +0000">
 		<title>Breakfast - 07/07/2026</title>
@@ -993,7 +1003,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260703180000 +0000" stop="20260703180500 +0000">
 		<title>The Catch Up - 03/07/2026</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Ben Henley.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260703180500 +0000" stop="20260703181000 +0000">
@@ -7871,7 +7881,7 @@
 	<programme channel="s4c" start="20260704153000 +0000" stop="20260704173000 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Sat, 04 Jul 2026 16:30</title>
 		<desc>Mae'r Tour de France yn dechrau eleni gyda ras i dimoedd yn erbyn y cloc o gwmpas stryd...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwm3jy.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260704173000 +0000" stop="20260704183000 +0000">
 		<title>Triathlon Cymru - Cyfres 2026: Cyfres Triathlon Cymru: Llanelli</title>
@@ -7896,7 +7906,7 @@
 	<programme channel="s4c" start="20260704201500 +0000" stop="20260704204500 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Sat, 04 Jul 2026 21:15</title>
 		<desc>Uchafbwyntiau Cymal 1 wrth i'r Tour de France ddechrau gyda ras i dimoedd yn erbyn y cl...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwm3vr.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260704204500 +0000" stop="20260704214500 +0000">
 		<title>Amour &amp; Mynydd - Cyfres 2: Pennod 5</title>
@@ -8016,7 +8026,7 @@
 	<programme channel="s4c" start="20260705120000 +0000" stop="20260705154500 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Sun, 05 Jul 2026 13:00</title>
 		<desc>Cymal 2 - Cymal 182km bryniog o Tarragone i Barcelona sy'n disgwyl y peloton ar ddiwrno...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwm4hp.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260705154500 +0000" stop="20260705161500 +0000">
 		<title>Nol o'r Dibyn gyda Iolo Williams - Pennod 4</title>
@@ -8056,7 +8066,7 @@
 	<programme channel="s4c" start="20260705200000 +0000" stop="20260705203000 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Sun, 05 Jul 2026 21:00</title>
 		<desc>Uchafbwyntiau Cymal 2 - 182km bryniog o Tarragone i Barcelona sy'n disgwyl y peloton ar...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwm5l7.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260705203000 +0000" stop="20260705213000 +0000">
 		<title>Chris a'r Afal Mawr - 3. Tan yn Brooklyn</title>
@@ -8241,7 +8251,7 @@
 	<programme channel="s4c" start="20260706113000 +0000" stop="20260706152000 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Mon, 06 Jul 2026 12:30</title>
 		<desc>Cymal 3 - Bydd y cymal mynyddig cynta yn arwain y peloton ar draws y Pyreneau, i Les An...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwm611.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260706152000 +0000" stop="20260706153000 +0000">
 		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 31</title>
@@ -8326,7 +8336,7 @@
 	<programme channel="s4c" start="20260706203500 +0000" stop="20260706210500 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Mon, 06 Jul 2026 21:35</title>
 		<desc>Pigion Cymal 3 - Bydd y cymal mynyddig cynta yn arwain y peloton ar draws y Pyreneau, i...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwm709.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260706210500 +0000" stop="20260706220500 +0000">
 		<title>Ar Brawf - Martin a Gabriel</title>
@@ -8616,7 +8626,7 @@
 	<programme channel="s4c" start="20260707200000 +0000" stop="20260707203500 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Tue, 07 Jul 2026 21:00</title>
 		<desc>Pigion Cymal 4 sy'n tywys y peloton o ddinas Carcassone, ar hyd heolydd bryniog y Pyren...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwm7k8.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260707203500 +0000" stop="20260707222000 +0000">
 		<title>Pencampwriaeth Ieuenctid y Byd Dan 20 - Pencampwriaeth Rygbi Dan 20 y Byd: De Affrica v Cymru</title>
