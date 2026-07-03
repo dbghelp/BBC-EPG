@@ -57,7 +57,7 @@
 	<programme channel="bbcone" start="20260703083000 +0000" stop="20260703094500 +0000">
 		<title>Morning Live - Series 8: 03/07/2026</title>
 		<desc>Greg Rutherford and Michelle Ackerley hear how scammers are impersonating police officers.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhggnm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwpz1t.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260703094500 +0000" stop="20260703101500 +0000">
 		<title>Fraud Squad - Series 6: Episode 10</title>
@@ -91,9 +91,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260703130000 +0000" stop="20260703163000 +0000">
-		<title>Wimbledon - BBC One: Day 5, Afternoon</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwnyv2.jpg" />
+		<title>Wimbledon - BBC One: Djokovic, Rinderknech</title>
+		<desc>BBC One Afternoon coverage of Rinderknech v Djokovic.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwqzqt.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260703163000 +0000" stop="20260703170000 +0000">
 		<title>BBC News at Six - 03/07/2026</title>
@@ -505,17 +505,17 @@
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260707214000 +0000" stop="20260707232000 +0000">
-		<title>The Lady in the Van</title>
-		<desc>The true story of Miss Shepherd, who lived in a van in Alan Bennett's drive.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nv0hk2.jpg" />
+	<programme channel="bbcone" start="20260707214000 +0000" stop="20260707231500 +0000">
+		<title>Anyone But You</title>
+		<desc>Two exes pretend they are still a couple when they are unexpectedly reunited at a wedding.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvbtdh.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260707232000 +0000" stop="20260707232500 +0000">
+	<programme channel="bbcone" start="20260707231500 +0000" stop="20260707232000 +0000">
 		<title>Weather for the Week Ahead - 08/07/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260707232500 +0000" stop="20260708050000 +0000">
+	<programme channel="bbcone" start="20260707232000 +0000" stop="20260708050000 +0000">
 		<title>Joins BBC News - 08/07/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -561,14 +561,14 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntvwsj.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260703100000 +0000" stop="20260703140000 +0000">
-		<title>Wimbledon - BBC Two: Day 5, Morning</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwpb08.jpg" />
+		<title>Wimbledon - BBC Two: Osaka, Fonseca, Pegula</title>
+		<desc>BBC Two Morning coverage of Naomi Osaka, Joao Fonseca, Jessica Pegula</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwqfj2.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260703140000 +0000" stop="20260703180000 +0000">
 		<title>Wimbledon - BBC Two: Day 5, Afternoon</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwpjx8.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwqgrs.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260703180000 +0000" stop="20260703210000 +0000">
 		<title>Wimbledon - BBC Two: Day 5, Evening</title>
@@ -791,7 +791,7 @@
 		<desc>Graham Norton meets with Madonna to discuss her incredible life and career.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntmyys.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260706022000 +0000" stop="20260706051500 +0000">
+	<programme channel="bbctwo" start="20260706022000 +0000" stop="20260706052500 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -1396,32 +1396,27 @@
 		<desc>Cupid grants one couple the ultimate wish.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxsjn.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260707214000 +0000" stop="20260707231000 +0000">
-		<title>I Am Legend</title>
-		<desc>A lone survivor battles mutants while seeking a cure for a viral apocalypse.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvqbrw.jpg" />
+	<programme channel="bbcthree" start="20260707214000 +0000" stop="20260707232500 +0000">
+		<title>Marry Me</title>
+		<desc>A singer marries a stranger picked in the crowd at one of her concerts.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h2n6pq.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260707231000 +0000" stop="20260708001000 +0000">
+	<programme channel="bbcthree" start="20260707232500 +0000" stop="20260708002000 +0000">
 		<title>Top Gear - Series 16: Episode 5</title>
 		<desc>The team sets out to end the chaos that snowfall brings to Britain every year.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09g9tff.jpg" />
-	</programme>
-	<programme channel="bbcthree" start="20260708001000 +0000" stop="20260708002000 +0000">
-		<title>FIFA World Cup 2026 - Archive: Brazil 2014: van Persie's Flying Header</title>
-		<desc>The Netherlands stun reigning champions Spain.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nksbtg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260708002000 +0000" stop="20260708004500 +0000">
 		<title>Juice - Series 1: 2. Helluva View</title>
 		<desc>Now that Jamma’s in a committed relationship, everyone fancies him.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdlgpk.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260708004500 +0000" stop="20260708010500 +0000">
+	<programme channel="bbcthree" start="20260708004500 +0000" stop="20260708011000 +0000">
 		<title>Juice - Series 1: 3. The Jamma Show</title>
 		<desc>Jamma wants his parents to meet Guy, but Farida hijacks the moment.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdlhx5.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260708010500 +0000" stop="20260708013000 +0000">
+	<programme channel="bbcthree" start="20260708011000 +0000" stop="20260708013000 +0000">
 		<title>Juice - Series 1: 4. A Saif Space</title>
 		<desc>As Jamma buckles under pressure, something lurks beneath the Megacentre floorboards.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gdlsf7.jpg" />
@@ -5454,7 +5449,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260703223000 +0000" stop="20260703230000 +0000">
 		<title>The President's Path - Reflecting on America, 250 Years in</title>
-		<desc>How does the US of today measure up to what the country’s founders had envisioned?</desc>
+		<desc>How does the US of today measure up to what the country's founders had envisioned?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260703230000 +0000" stop="20260703233000 +0000">
@@ -5589,7 +5584,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260704144500 +0000" stop="20260704150000 +0000">
 		<title>Newswatch - 04/07/2026</title>
-		<desc>Your views on the coverage of events by BBC News.</desc>
+		<desc>Should sport be featuring so much in news bulletins - and affecting the times they start?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r0tr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260704150000 +0000" stop="20260704153000 +0000">
@@ -5775,7 +5770,7 @@
 	<programme channel="bbcnews" start="20260705133000 +0000" stop="20260705140000 +0000">
 		<title>Tech Now - Saving a Shipwreck</title>
 		<desc>Adrienne Murray meets the team using technology to preserve a historic warship in Sweden.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwpk4p.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260705140000 +0000" stop="20260705143000 +0000">
 		<title>BBC News - 05/07/2026</title>
@@ -6098,9 +6093,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260706210000 +0000" stop="20260706213000 +0000">
-		<title>BBC News at Ten - 06/07/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
+		<title>BBC World News America - 06/07/2026</title>
+		<desc>The BBC presents in-depth reports on the major international and US news of the day.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260706213000 +0000" stop="20260706220000 +0000">
 		<title>Newsnight - 06/07/2026</title>
@@ -6390,7 +6385,7 @@
 	<programme channel="bbcnews" start="20260708003000 +0000" stop="20260708010000 +0000">
 		<title>Tech Now - Saving a Shipwreck</title>
 		<desc>Adrienne Murray meets the team using technology to preserve a historic warship in Sweden.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwpk4p.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260708010000 +0000" stop="20260708013000 +0000">
 		<title>Newsday - 08/07/2026</title>
@@ -6450,12 +6445,12 @@
 	<programme channel="bbcparliament" start="20260703033000 +0000" stop="20260703060000 +0000">
 		<title>House of Commons - Armed Forces Bill</title>
 		<desc>Coverage of a debate on the remaining stages of the Armed Forces Bill on Monday 22 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwqh4n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260703060000 +0000" stop="20260703083000 +0000">
 		<title>Westminster Hall - 29/06/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Monday 29 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwr5cd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260703083000 +0000" stop="20260703090000 +0000">
 		<title>House of Commons - Science, Innovation and Technology Questions</title>
@@ -6470,17 +6465,17 @@
 	<programme channel="bbcparliament" start="20260703131500 +0000" stop="20260703140000 +0000">
 		<title>House of Commons - Access to Further Education Debate</title>
 		<desc>Coverage of the debate tabled by Reform UK MP Sarah Pochin on access to further education.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwr60s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260703140000 +0000" stop="20260703154500 +0000">
 		<title>House of Lords - Higher Education Debate, Part 1</title>
 		<desc>The debate on the future affordability and quality of higher education on Thursday 2 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwr2ff.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260703154500 +0000" stop="20260703164500 +0000">
 		<title>House of Lords - Higher Education Debate, Part 2</title>
 		<desc>The debate on the future affordability and quality of higher education on Thursday 2 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwr392.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260703164500 +0000" stop="20260703170000 +0000">
 		<title>House of Lords - Civil Service Pensions</title>
@@ -6620,7 +6615,7 @@
 	<programme channel="bbcparliament" start="20260704150500 +0000" stop="20260704155000 +0000">
 		<title>Lords Questions - 02/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 2 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwqg7n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260704155000 +0000" stop="20260704170000 +0000">
 		<title>Senedd Cymru - Welsh Parliament - Nation of Sanctuary</title>
@@ -6682,95 +6677,90 @@
 		<desc>Statement by Keir Starmer apologising for the British state's role in forced adoptions.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwcwgk.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260705050000 +0000" stop="20260705100000 +0000">
+	<programme channel="bbcparliament" start="20260705050000 +0000" stop="20260705093500 +0000">
 		<title>Westminster Hall - 01/07/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Wednesday 1 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260705100000 +0000" stop="20260705104500 +0000">
-		<title>House of Commons - 04/07/2026</title>
-		<desc>Coverage of an urgent question in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260705093500 +0000" stop="20260705112000 +0000">
+		<title>House of Commons - Defence Investment Plan Statement</title>
+		<desc>Coverage of a statement on the Defence Investment Plan, on Tuesday 30 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw0djh.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260705104500 +0000" stop="20260705114000 +0000">
-		<title>House of Lords - 04/07/2026</title>
-		<desc>Coverage of a debate in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20260705112000 +0000" stop="20260705124000 +0000">
+		<title>House of Commons - Forced Adoptions Statement</title>
+		<desc>Statement by Keir Starmer apologising for the British state's role in forced adoptions.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwcwgk.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260705114000 +0000" stop="20260705122500 +0000">
-		<title>Northern Ireland Assembly - 04/07/2026</title>
-		<desc>Coverage of a statement in the Northern Ireland Assembly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20260705124000 +0000" stop="20260705142500 +0000">
+		<title>House of Lords - Political Party Finance Debate</title>
+		<desc>Debate on the regulatory regime for political party finance and the Electoral Commission.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwqj8k.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260705122500 +0000" stop="20260705131000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 04/07/2026</title>
-		<desc>Coverage of a debate in the Welsh Parliament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260705131000 +0000" stop="20260705135500 +0000">
-		<title>House of Commons - 04/07/2026</title>
-		<desc>Coverage of a statement in the House of Commons.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260705135500 +0000" stop="20260705144000 +0000">
-		<title>House of Lords - 04/07/2026</title>
-		<desc>Coverage of a statement in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260705144000 +0000" stop="20260705151500 +0000">
+	<programme channel="bbcparliament" start="20260705142500 +0000" stop="20260705151000 +0000">
 		<title>Prime Minister's Questions - 01/07/2026</title>
 		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 1 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw43h1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260705151500 +0000" stop="20260705161500 +0000">
+	<programme channel="bbcparliament" start="20260705151000 +0000" stop="20260705161000 +0000">
 		<title>Welsh First Minister's Questions - 30/06/2026</title>
 		<desc>Questions in the Senedd to Rhun ap Iorwerth, the first minister, on Tuesday 30 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3ptq.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260705161500 +0000" stop="20260705170000 +0000">
+	<programme channel="bbcparliament" start="20260705161000 +0000" stop="20260705170000 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Coverage of questions in Stormont to the health minister, Mike Nesbitt, on Monday 29 June.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvsc90.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260705170000 +0000" stop="20260705225500 +0000">
-		<title>Select Committees - 05/07/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20260705170000 +0000" stop="20260705193500 +0000">
+		<title>Select Committees - Water, Energy and Broadband Regulation Committee</title>
+		<desc>The Public Accounts committee session on the regulation of water, energy and broadband.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260705225500 +0000" stop="20260705235500 +0000">
-		<title>House of Commons - Business and Trade Questions</title>
-		<desc>Coverage of questions to Peter Kyle on Thursday 2 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwcdz0.jpg" />
+	<programme channel="bbcparliament" start="20260705193500 +0000" stop="20260705204500 +0000">
+		<title>Select Committees - Business and Trade Committee on China</title>
+		<desc>The Business and Trade select committee on China and the UK economy, on Tuesday 30 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260705235500 +0000" stop="20260706005500 +0000">
-		<title>House of Commons - Commons Business Questions</title>
-		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 2 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwcgl0.jpg" />
+	<programme channel="bbcparliament" start="20260705204500 +0000" stop="20260705221500 +0000">
+		<title>Select Committees - Business and Trade Committee on Employment Rights</title>
+		<desc>The Business and Trade select committee session on employment rights, on Tuesday 30 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260706005500 +0000" stop="20260706012500 +0000">
-		<title>House of Commons - Science, Innovation and Technology Questions</title>
-		<desc>Coverage of questions to Liz Kendall on Wednesday 1 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw47bv.jpg" />
+	<programme channel="bbcparliament" start="20260705221500 +0000" stop="20260705234500 +0000">
+		<title>House of Commons - Defence Investment Plan Statement</title>
+		<desc>Coverage of a statement on the Defence Investment Plan, on Tuesday 30 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw0djh.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260706012500 +0000" stop="20260706022500 +0000">
-		<title>House of Commons - Justice Questions</title>
-		<desc>Coverage of questions to David Lammy on Tuesday 30 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw00fv.jpg" />
+	<programme channel="bbcparliament" start="20260705234500 +0000" stop="20260706010000 +0000">
+		<title>House of Commons - National Maternity and Neonatal Investigation Statement</title>
+		<desc>A statement on the national maternity and neonatal investigation, on Tuesday 30 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw0c9p.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260706022500 +0000" stop="20260706032500 +0000">
-		<title>House of Commons - Work and Pensions Questions</title>
-		<desc>Coverage of questions to Pat McFadden on Monday 29 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvt4fz.jpg" />
+	<programme channel="bbcparliament" start="20260706010000 +0000" stop="20260706013500 +0000">
+		<title>House of Commons - Urgent Question on the Early Release of Rapists and Child Groomers</title>
+		<desc>Urgent question on the early release of rapists and child groomers, from Monday 29 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvt571.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260706032500 +0000" stop="20260706040000 +0000">
-		<title>Prime Minister's Questions - 01/07/2026</title>
-		<desc>Coverage of questions to Keir Starmer, the prime minister, on Wednesday 1 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw43h1.jpg" />
+	<programme channel="bbcparliament" start="20260706013500 +0000" stop="20260706024500 +0000">
+		<title>House of Commons - Asylum Accommodation and Asylum Hotels Statement</title>
+		<desc>A statement on asylum accommodation and ending the use of hotels, on Monday 29 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxk69.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260706040000 +0000" stop="20260706050000 +0000">
-		<title>Welsh First Minister's Questions - 30/06/2026</title>
-		<desc>Questions in the Senedd to Rhun ap Iorwerth, the first minister, on Tuesday 30 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw3ptq.jpg" />
+	<programme channel="bbcparliament" start="20260706024500 +0000" stop="20260706031500 +0000">
+		<title>House of Commons - Urgent Question on Steel Tariffs and Northern Ireland</title>
+		<desc>Coverage of an urgent question on steel tariffs and Northern Ireland, on Tuesday 30 June.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw09y5.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260706031500 +0000" stop="20260706041500 +0000">
+		<title>House of Commons - Occupied Palestinian Territories Urgent Question</title>
+		<desc>The urgent question on Israel's planned expansion in the Occupied Palestinian Territories.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw89lq.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260706041500 +0000" stop="20260706050000 +0000">
+		<title>House of Commons - Flood Insurance Reform Statement</title>
+		<desc>Statement by environment, food and rural affairs minister Emma Hardy on flood insurance.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw8bg3.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260706050000 +0000" stop="20260706050500 +0000">
 		<title>This is BBC Parliament - This is BBC Parliament</title>
@@ -6800,7 +6790,7 @@
 	<programme channel="bbcparliament" start="20260706103000 +0000" stop="20260706111500 +0000">
 		<title>Lords Questions - 02/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 2 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwqg7n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260706111500 +0000" stop="20260706130000 +0000">
 		<title>Select Committees - Home Affairs Committee on Serious Organised Crime</title>
@@ -6853,7 +6843,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260707113000 +0000" stop="20260707183000 +0000">
-		<title>House of Commons - 07/07/2026 Part 1</title>
+		<title>House of Commons - 07/07/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 7 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -7446,7 +7436,7 @@
 	<programme channel="s4c" start="20260703052000 +0000" stop="20260703052500 +0000">
 		<title>Blwi - Gwaith</title>
 		<desc>Tra'n chwarae gêm newydd, mae Dad yn cyflogi Blwi a Bingo yn ei ffatri pibau. While pla...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mp5bdc.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwpww8.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260703052500 +0000" stop="20260703053500 +0000">
 		<title>Octonots - Cyfres 3: a'r Llyn Cudd</title>
@@ -7685,7 +7675,7 @@
 	</programme>
 	<programme channel="s4c" start="20260703180000 +0000" stop="20260703183000 +0000">
 		<title>Heno - Fri, 03 Jul 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Bydd Owain Gwynedd yn fyw o Bencampwriaeth BMX Prydain, a ni mewn digwyddiad sy'n dathl...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260703183000 +0000" stop="20260703190000 +0000">
@@ -7695,7 +7685,7 @@
 	</programme>
 	<programme channel="s4c" start="20260703190000 +0000" stop="20260703195500 +0000">
 		<title>Triathlon Cymru - Cyfres 2026: Cyfres Triathlon Cymru: Llanelli</title>
-		<desc>Un o'r hen ffefrynau, Triathlon Sbrint Llanelli sy'n rhoi Cyfres Triathlon Cymru ar ben...</desc>
+		<desc>Un o'r hen ffefrynnau, Triathlon Sbrint Llanelli, sy'n rhoi Cyfres Triathlon Cymru ar b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvdnw9.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260703195500 +0000" stop="20260703200000 +0000">
@@ -7830,7 +7820,7 @@
 	</programme>
 	<programme channel="s4c" start="20260704173000 +0000" stop="20260704183000 +0000">
 		<title>Triathlon Cymru - Cyfres 2026: Cyfres Triathlon Cymru: Llanelli</title>
-		<desc>Un o'r hen ffefrynau, Triathlon Sbrint Llanelli sy'n rhoi Cyfres Triathlon Cymru ar ben...</desc>
+		<desc>Un o'r hen ffefrynnau, Triathlon Sbrint Llanelli, sy'n rhoi Cyfres Triathlon Cymru ar b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvdnw9.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260704183000 +0000" stop="20260704184500 +0000">
@@ -7965,7 +7955,7 @@
 	</programme>
 	<programme channel="s4c" start="20260705110000 +0000" stop="20260705120000 +0000">
 		<title>Triathlon Cymru - Cyfres 2026: Cyfres Triathlon Cymru: Llanelli</title>
-		<desc>Un o'r hen ffefrynau, Triathlon Sbrint Llanelli sy'n rhoi Cyfres Triathlon Cymru ar ben...</desc>
+		<desc>Un o'r hen ffefrynnau, Triathlon Sbrint Llanelli, sy'n rhoi Cyfres Triathlon Cymru ar b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvdnw9.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260705120000 +0000" stop="20260705154500 +0000">
@@ -8146,7 +8136,7 @@
 	<programme channel="s4c" start="20260706092000 +0000" stop="20260706092500 +0000">
 		<title>Blwi - Y Gilfach</title>
 		<desc>Ar ôl diflasu yn y parc, mae Dad a'r plant yn mynd ar siwrne i'r gilfach leol. Bored of...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mp5bdc.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwpx33.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260706092500 +0000" stop="20260706094000 +0000">
 		<title>Octonots - Cyfres 3: a'r Berdys Mantis</title>
