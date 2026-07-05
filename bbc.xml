@@ -90,9 +90,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260705113500 +0000" stop="20260705164000 +0000">
-		<title>Wimbledon - BBC One: Day 7, Afternoon</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwzyzl.jpg" />
+		<title>Wimbledon - BBC One: Djokovic, Safiullin</title>
+		<desc>BBC One Evening coverage of Roman Safiullin v Novak Djokovic.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nx0k0h.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260705164000 +0000" stop="20260705165500 +0000">
 		<title>BBC Weekend News - Evening News: 05/07/2026</title>
@@ -107,7 +107,7 @@
 	<programme channel="bbcone" start="20260705170000 +0000" stop="20260705210000 +0000">
 		<title>Wimbledon - BBC One: Day 7, Evening</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwzm0g.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nx0k0h.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260705210000 +0000" stop="20260705212500 +0000">
 		<title>BBC Weekend News - Late News: 05/07/2026</title>
@@ -553,14 +553,14 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k8w2n8.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260705100000 +0000" stop="20260705140000 +0000">
-		<title>Wimbledon - BBC Two: Day 7, Morning</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+		<title>Wimbledon - BBC Two: Heliovaara / Patten, Pegula</title>
+		<desc>BBC Two Morning coverage of Harri Heliovaara / Henry Patten, Jessica Pegula.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwzz2y.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260705140000 +0000" stop="20260705170000 +0000">
-		<title>Wimbledon - BBC Two: Day 7, Afternoon</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nx05pv.jpg" />
+		<title>Wimbledon - BBC Two: Muchova, Auger-Aliassime</title>
+		<desc>BBC Two Afternoon coverage of Karolina Muchova, Felix Auger-Aliassime.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nx0dj2.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260705170000 +0000" stop="20260705180000 +0000">
 		<title>Countryfile - Anita Rani's East Coast Road Trip: Northey Island</title>
@@ -5289,15 +5289,10 @@
 		<desc>From Las Vegas to San Francisco - what happiness mean to Americans today.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwf6w1.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260705130000 +0000" stop="20260705133000 +0000">
+	<programme channel="bbcnews" start="20260705130000 +0000" stop="20260705140000 +0000">
 		<title>BBC News - 05/07/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260705133000 +0000" stop="20260705140000 +0000">
-		<title>Tech Now - Saving a Shipwreck</title>
-		<desc>Adrienne Murray meets the team using technology to preserve a historic warship in Sweden.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwpk4p.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260705140000 +0000" stop="20260705143000 +0000">
 		<title>BBC News - 05/07/2026</title>
@@ -7435,12 +7430,12 @@
 		<desc>Un o'r hen ffefrynnau, Triathlon Sbrint Llanelli, sy'n rhoi Cyfres Triathlon Cymru ar b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvdnw9.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260705120000 +0000" stop="20260705154500 +0000">
+	<programme channel="s4c" start="20260705120000 +0000" stop="20260705155000 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Sun, 05 Jul 2026 13:00</title>
 		<desc>Cymal 2 - Cymal 182km bryniog o Tarragone i Barcelona sy'n disgwyl y peloton ar ddiwrno...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nwm4hp.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260705154500 +0000" stop="20260705161500 +0000">
+	<programme channel="s4c" start="20260705155000 +0000" stop="20260705161500 +0000">
 		<title>Nol o'r Dibyn gyda Iolo Williams - Pennod 4</title>
 		<desc>Yn y rhaglen hon, edrychwn ar foch daear ym Mhorthcawl; draenogod dinas Berlin; a'r dol...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nchnry.jpg" />
