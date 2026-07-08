@@ -81,8 +81,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260708130000 +0000" stop="20260708170000 +0000">
-		<title>Wimbledon - BBC One: Day 10, Afternoon</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+		<title>Wimbledon - BBC One: Fery, Cobolli, Paolini</title>
+		<desc>BBC One Afternoon coverage of Arthur Fery, Flavio Cobolli, Jasmine Paolini</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nxkrm1.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260708170000 +0000" stop="20260708173000 +0000">
@@ -566,9 +566,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nxk1h9.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260708140000 +0000" stop="20260708180000 +0000">
-		<title>Wimbledon - BBC Two: Day 10, Late Afternoon</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nx479q.jpg" />
+		<title>Wimbledon - BBC Two: Fritz, Zverev</title>
+		<desc>BBC Two Afternoon coverage of Taylor Fritz v Alexander Zverev.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nxm5p5.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260708180000 +0000" stop="20260708183000 +0000">
 		<title>Villages by the Sea - Series 5: 3. St Margaret's</title>
@@ -923,7 +923,7 @@
 	<programme channel="bbctwo" start="20260711152500 +0000" stop="20260711173000 +0000">
 		<title>Vertigo</title>
 		<desc>A man who suffers from vertigo is hired by an old friend to trail his wife.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02qsmtj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nxmzgp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260711173000 +0000" stop="20260711181500 +0000">
 		<title>Flog It! - Series 13: 35. Bedfordshire 33</title>
@@ -6491,15 +6491,20 @@
 		<desc>Urgent question on the proposed changes to payments made to Coastguard Rescue Officers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nxlkk8.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260708132000 +0000" stop="20260708183000 +0000">
+	<programme channel="bbcparliament" start="20260708132000 +0000" stop="20260708182500 +0000">
 		<title>House of Commons - 08/07/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260708183000 +0000" stop="20260708210000 +0000">
-		<title>House of Lords - 08/07/2026</title>
-		<desc>Coverage of proceedings in the House of Lords on Wednesday 8 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20260708182500 +0000" stop="20260708205000 +0000">
+		<title>Select Committees - Public Accounts Committee on Covid Counter-Fraud</title>
+		<desc>The Public Accounts select committee on the work of the Covid counter-fraud commissioner.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nxhtsg.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260708205000 +0000" stop="20260708210000 +0000">
+		<title>Ten Minute Rule Bill - Mental Capacity</title>
+		<desc>The introduction of a bill under the ten minute rule on a duty to assess mental capacity.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260708210000 +0000" stop="20260708214000 +0000">
 		<title>Prime Minister's Questions - 08/07/2026</title>
@@ -6521,20 +6526,25 @@
 		<desc>Statement on the findings of the Police Leadership Commission report, on Wednesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260708231500 +0000" stop="20260709011500 +0000">
+	<programme channel="bbcparliament" start="20260708231500 +0000" stop="20260709005500 +0000">
 		<title>House of Lords - Steel Industry Bill, Part 1</title>
 		<desc>The report stage of the Steel Industry (Nationalisation) Bill, on Wednesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260709011500 +0000" stop="20260709031500 +0000">
+	<programme channel="bbcparliament" start="20260709005500 +0000" stop="20260709012000 +0000">
 		<title>House of Lords - Steel Industry Bill, Part 2</title>
 		<desc>The report stage of the Steel Industry (Nationalisation) Bill, on Wednesday 8 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260709031500 +0000" stop="20260709060000 +0000">
-		<title>House of Lords - Steel Industry Bill, Part 3</title>
-		<desc>The report stage of the Steel Industry (Nationalisation) Bill, on Wednesday 8 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20260709012000 +0000" stop="20260709043000 +0000">
+		<title>House of Commons - Summer Jobs Debate</title>
+		<desc>The Opposition Day debate tabled by the Conservatives on summer jobs, on Tuesday 7 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nxjlzv.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260709043000 +0000" stop="20260709060000 +0000">
+		<title>Select Committees - Defence Committee on the Defence Investment Plan</title>
+		<desc>The Defence select committee session on the Defence Investment Plan, on Tuesday 7 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nxbc7q.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260709060000 +0000" stop="20260709063000 +0000">
 		<title>House of Commons - Northern Ireland Office Questions</title>
