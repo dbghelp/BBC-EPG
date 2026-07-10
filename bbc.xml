@@ -1261,9 +1261,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh9qrm.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260710222500 +0000" stop="20260711000500 +0000">
-		<title>Absolutely Fabulous: The Movie</title>
-		<desc>Eddy and Patsy are still living the high life, but a setback sees them going on the run.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06vz7f1.jpg" />
+		<title>Anyone But You</title>
+		<desc>Two exes pretend they are still a couple when they are unexpectedly reunited at a wedding.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvbtdh.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260711000500 +0000" stop="20260711013000 +0000">
 		<title>Absolutely Fabulous: The Movie</title>
@@ -5489,10 +5489,15 @@
 		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260710120000 +0000" stop="20260710130000 +0000">
+	<programme channel="bbcnews" start="20260710120000 +0000" stop="20260710123000 +0000">
 		<title>BBC News at One - 10/07/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk7mhm.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260710123000 +0000" stop="20260710130000 +0000">
+		<title>BBC News Now - 10/07/2026</title>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260710130000 +0000" stop="20260710133000 +0000">
 		<title>BBC News Now - 10/07/2026</title>
