@@ -651,15 +651,25 @@
 Dabrowski, Luisa Stefani.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny29nv.png" />
 	</programme>
-	<programme channel="bbctwo" start="20260710140000 +0000" stop="20260710183000 +0000">
-		<title>Wimbledon - BBC Two: Day 12, Afternoon</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+	<programme channel="bbctwo" start="20260710140000 +0000" stop="20260710181500 +0000">
+		<title>Wimbledon - BBC Two: Sinner v Djokovic</title>
+		<desc>Men's Semi-Final action as Jannik Sinner takes on Novak Djokovic</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny36c5.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260710183000 +0000" stop="20260710200000 +0000">
-		<title>Wimbledon - BBC One: Day 12, Evening</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny30tp.jpg" />
+	<programme channel="bbctwo" start="20260710181500 +0000" stop="20260710183000 +0000">
+		<title>Amazing Hotels: Life Beyond the Lobby - Series 5: 2. Joali, Maldives</title>
+		<desc>Monica and Rob learn the secrets to running a hotel on a remote island in the Maldives.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g63nf2.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260710183000 +0000" stop="20260710190000 +0000">
+		<title>Beechgrove Garden - 2026: Episode 15</title>
+		<desc>George Anderson and Calum Clunie are back together to tackle the week’s jobs.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw6jd5.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260710190000 +0000" stop="20260710200000 +0000">
+		<title>Your Garden Made Perfect - Series 2: 2. Andrew and Paolo</title>
+		<desc>Andrew and Paolo are lumbered with a giant, oppressive retaining wall.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0blyybx.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260710200000 +0000" stop="20260710210000 +0000">
 		<title>Gardeners' World - 2026: Episode 17</title>
@@ -5571,9 +5581,9 @@ Dabrowski, Luisa Stefani.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260710193000 +0000" stop="20260710200000 +0000">
-		<title>The Context USA - 10/07/2026</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
+		<title>BBC News - 10/07/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260710200000 +0000" stop="20260710203000 +0000">
 		<title>The Context - 10/07/2026</title>
@@ -5586,9 +5596,9 @@ Dabrowski, Luisa Stefani.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260710210000 +0000" stop="20260710213000 +0000">
-		<title>BBC World News America - 10/07/2026</title>
-		<desc>The BBC presents in-depth reports on the major international and US news of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
+		<title>BBC News - 10/07/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260710213000 +0000" stop="20260710220000 +0000">
 		<title>Newsnight - 10/07/2026</title>
