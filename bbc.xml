@@ -75,15 +75,15 @@
 		<desc>The latest weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260711112000 +0000" stop="20260711150000 +0000">
-		<title>Wimbledon - BBC One: Day 13, Afternoon</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny7pkv.jpg" />
+	<programme channel="bbcone" start="20260711112000 +0000" stop="20260711142500 +0000">
+		<title>Wimbledon - BBC One: GB's Patten / Heliovaara v Arevalo / Pavic</title>
+		<desc>GB's Patten and Heliovarra face Arevalo and Pavic in the men's doubles final.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny881l.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260711150000 +0000" stop="20260711180000 +0000">
+	<programme channel="bbcone" start="20260711142500 +0000" stop="20260711180000 +0000">
 		<title>Wimbledon - Ladies' Singles Final</title>
 		<desc>Live coverage of the 2026 Wimbledon ladies' singles final.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny30tp.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny830v.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260711180000 +0000" stop="20260711181000 +0000">
 		<title>BBC Weekend News - Evening News: 11/07/2026</title>
@@ -5582,13 +5582,18 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260711193000 +0000" stop="20260711200000 +0000">
-		<title>Newscast - 11/07/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny250j.jpg" />
+		<title>BBC News - World Cup: Norway v England Build-up</title>
+		<desc>Build-up to Norway v England in the quarter-finals of the 2026 World Cup.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260711200000 +0000" stop="20260711210000 +0000">
+	<programme channel="bbcnews" start="20260711200000 +0000" stop="20260711203000 +0000">
 		<title>BBC News - 11/07/2026</title>
 		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260711203000 +0000" stop="20260711210000 +0000">
+		<title>BBC News - World Cup: Norway v England Build-up</title>
+		<desc>Build-up to Norway v England in the quarter-finals of the 2026 World Cup.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260711210000 +0000" stop="20260711220000 +0000">
