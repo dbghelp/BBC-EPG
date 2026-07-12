@@ -50,9 +50,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260712080000 +0000" stop="20260712090000 +0000">
-		<title>Sunday with Laura Kuenssberg - 12/07/2026</title>
+		<title>Sunday with Laura Kuenssberg - Chancellor Exclusive: Does Rachel Reeves have any regrets?</title>
 		<desc>Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nychl9.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260712090000 +0000" stop="20260712093000 +0000">
 		<title>Politics London - 12/07/2026</title>
@@ -92,7 +92,7 @@
 	<programme channel="bbcone" start="20260712120500 +0000" stop="20260712150000 +0000">
 		<title>Wimbledon - BBC One: Day 14, Afternoon</title>
 		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny30tp.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nycklp.png" />
 	</programme>
 	<programme channel="bbcone" start="20260712150000 +0000" stop="20260712191500 +0000">
 		<title>Wimbledon - Men's Singles Final</title>
@@ -504,8 +504,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260715180000 +0000" stop="20260715213000 +0000">
-		<title>FIFA World Cup 2026 - Semi-Finals: Match 2</title>
-		<desc>Live coverage of the second semi-final at the 2026 FIFA World Cup.</desc>
+		<title>FIFA World Cup 2026 - Semi-Finals: England v Argentina</title>
+		<desc>Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260715213000 +0000" stop="20260715220000 +0000">
@@ -519,17 +519,17 @@
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260715221000 +0000" stop="20260716000500 +0000">
+	<programme channel="bbcone" start="20260715221000 +0000" stop="20260716000000 +0000">
 		<title>Rush</title>
 		<desc>The story of the rivalry between 1970s F1 champions Niki Lauda and James Hunt.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08k2f7f.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260716000500 +0000" stop="20260716001000 +0000">
+	<programme channel="bbcone" start="20260716000000 +0000" stop="20260716000500 +0000">
 		<title>Weather for the Week Ahead - 16/07/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260716001000 +0000" stop="20260716050000 +0000">
+	<programme channel="bbcone" start="20260716000500 +0000" stop="20260716050000 +0000">
 		<title>Joins BBC News - 16/07/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -698,8 +698,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03z4ff7.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260712100000 +0000" stop="20260712120500 +0000">
-		<title>Wimbledon - BBC Two: Day 14, Morning</title>
-		<desc>Live coverage of the Championships at the All England Lawn Tennis Club at Wimbledon.</desc>
+		<title>Wimbledon - BBC Two: Men's Wheelchair Singles Final</title>
+		<desc>BBC Two Morning coverage of Tokito Oda v GB's Alfie Hewett.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyc42d.png" />
 	</programme>
 	<programme channel="bbctwo" start="20260712120500 +0000" stop="20260712130500 +0000">
@@ -5470,9 +5470,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260712080000 +0000" stop="20260712090000 +0000">
-		<title>Sunday with Laura Kuenssberg - 12/07/2026</title>
+		<title>Sunday with Laura Kuenssberg - Chancellor Exclusive: Does Rachel Reeves have any regrets?</title>
 		<desc>Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nychl9.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260712090000 +0000" stop="20260712093000 +0000">
 		<title>BBC News - 12/07/2026</title>
