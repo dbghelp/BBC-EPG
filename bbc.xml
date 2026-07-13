@@ -1579,37 +1579,37 @@
 		<desc>Host Karine Vanasse’s 22 invited guests arrive at the manor.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nxln9p.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260716230500 +0000" stop="20260716235000 +0000">
+	<programme channel="bbcthree" start="20260716230500 +0000" stop="20260717001000 +0000">
 		<title>The Traitors Canada - Series 3: Episode 2</title>
 		<desc>The Traitors must make a decision on which allies to recruit and which to murder.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nxlnqz.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260716235000 +0000" stop="20260717010000 +0000">
+	<programme channel="bbcthree" start="20260717001000 +0000" stop="20260717012000 +0000">
 		<title>Canada's Drag Race - Canada vs the World - Series 1: Episode 1</title>
 		<desc>Queens from around the world descend on Canada to kick off the battle for the crown.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dgt1bn.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260717010000 +0000" stop="20260717020000 +0000">
+	<programme channel="bbcthree" start="20260717012000 +0000" stop="20260717022000 +0000">
 		<title>Canada's Drag Race - Canada vs the World - Series 1: Episode 2</title>
 		<desc>The queens impersonate celebrities and play the iconic Snatch Game, with a twist.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dk8fs0.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260717020000 +0000" stop="20260717023000 +0000">
+	<programme channel="bbcthree" start="20260717022000 +0000" stop="20260717025000 +0000">
 		<title>BBC New Comedy Awards - 2023: Episode 6</title>
 		<desc>The competition heads to the Pontio Theatre in Bangor for the final heat.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gpt2h9.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260717023000 +0000" stop="20260717024000 +0000">
+	<programme channel="bbcthree" start="20260717025000 +0000" stop="20260717030000 +0000">
 		<title>FIFA World Cup 2026 - Archive: Qatar 2022: The Battle of Lusail</title>
 		<desc>Relive a hugely dramatic World Cup quarter-final at Lusail Stadium.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nky0hm.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260717024000 +0000" stop="20260717025000 +0000">
+	<programme channel="bbcthree" start="20260717030000 +0000" stop="20260717031000 +0000">
 		<title>FIFA World Cup 2026 - Archive: Brazil 2014: van Persie's Flying Header</title>
 		<desc>The Netherlands stun reigning champions Spain.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nksbtg.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260717025000 +0000" stop="20260717043000 +0000">
+	<programme channel="bbcthree" start="20260717031000 +0000" stop="20260717043000 +0000">
 		<title>This is BBC Three - This is BBC Three</title>
 		<desc>Programmes start at 7.00pm</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvry0j.jpg" />
@@ -1704,15 +1704,15 @@
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20260713180000 +0000" stop="20260713184500 +0000">
+	<programme channel="bbcfour" start="20260713180000 +0000" stop="20260713183000 +0000">
 		<title>Women's Test Cricket - England v India 2026: Day 4</title>
 		<desc>Highlights of day four of the Lord's Test match between England Women and India Women.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny1ngv.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20260713184500 +0000" stop="20260713190000 +0000">
-		<title>Wild - Scotland: Otters, Puffins and Seals</title>
-		<desc>Gordon Buchanan explores Mull, filming otters, deer, puffins, seals and a minke whale.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08nwclz.jpg" />
+	<programme channel="bbcfour" start="20260713183000 +0000" stop="20260713190000 +0000">
+		<title>The Flying Archaeologist - 2. Norfolk Broads</title>
+		<desc>Ben Robinson looks at hundreds of previously unknown ancient sites in the Norfolk area.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c79pg2.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260713190000 +0000" stop="20260713200000 +0000">
 		<title>Treasures of Ancient Greece - 1. The Age of Heroes</title>
@@ -5708,12 +5708,7 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260713153000 +0000" stop="20260713154500 +0000">
-		<title>Business Today - 13/07/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260713154500 +0000" stop="20260713160000 +0000">
+	<programme channel="bbcnews" start="20260713153000 +0000" stop="20260713160000 +0000">
 		<title>Verified Live - 13/07/2026</title>
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
@@ -5734,9 +5729,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260713173000 +0000" stop="20260713180000 +0000">
-		<title>The World Today with Maryam Moshiri - 13/07/2026</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
+		<title>BBC News - 13/07/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260713180000 +0000" stop="20260713183000 +0000">
 		<title>The World Today with Maryam Moshiri - 13/07/2026</title>
@@ -6859,7 +6854,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260718023000 +0000" stop="20260718030000 +0000">
-		<title>World's Ultimate Adventures - 5. The Land of Troy</title>
+		<title>World's Ultimate Adventures - 2. The Land of Troy</title>
 		<desc>Janina Ramirez explores Turkey's Aegean coast, the land of the legend of Troy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyh8x6.jpg" />
 	</programme>
@@ -6906,22 +6901,22 @@
 	<programme channel="bbcparliament" start="20260713100000 +0000" stop="20260713133000 +0000">
 		<title>Select Committees - Public Accounts and Public Administration Committees on Civil Service Pensions</title>
 		<desc>Joint committee on the management of the civil service pension scheme by Capita.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyk727.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260713133000 +0000" stop="20260713143000 +0000">
 		<title>House of Commons - Home Office Questions</title>
 		<desc>Coverage of questions to Shabana Mahmood on Monday 13 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyk3hd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260713143000 +0000" stop="20260713151500 +0000">
 		<title>House of Commons - Local Government Reorganisation Urgent Question</title>
-		<desc>Coverage of the urgent question on local government reorganisation, on Monday 13 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<desc>An urgent question on local government reorganisation, on Monday 13 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyk4rw.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260713151500 +0000" stop="20260713153000 +0000">
 		<title>House of Commons - Business Statement by the Leader of the House</title>
-		<desc>Coverage of the statement on the upcoming business in the chamber, on Monday 13 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<desc>A statement on the upcoming business in the chamber, on Monday 13 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nykjp7.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260713153000 +0000" stop="20260713163000 +0000">
 		<title>House of Commons - Statement on the Death of Ann Widdecombe</title>
@@ -6934,7 +6929,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260713173000 +0000" stop="20260713213000 +0000">
-		<title>House of Commons - 13/07/2026 Part 5</title>
+		<title>House of Commons - 13/07/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 13 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6966,7 +6961,7 @@
 	<programme channel="bbcparliament" start="20260714060000 +0000" stop="20260714070000 +0000">
 		<title>House of Commons - Home Office Questions</title>
 		<desc>Coverage of questions to Shabana Mahmood on Monday 13 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyk3hd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260714070000 +0000" stop="20260714084500 +0000">
 		<title>House of Commons - 13/07/2026</title>
@@ -8073,7 +8068,7 @@
 	<programme channel="s4c" start="20260713161500 +0000" stop="20260713163500 +0000">
 		<title>Parti - Cyfres 1: Pennod 3</title>
 		<desc>Mae'r criw yng Nghaerffili yn helpu trefnu Parti Hwyl Fawr i Giorgios, sy'n ymfudo i Aw...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngg58r.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyk5sf.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260713163500 +0000" stop="20260713164500 +0000">
 		<title>Y Smyrffs - Ffwrdd a Ni Fyny Fry</title>
@@ -8418,7 +8413,7 @@
 	<programme channel="s4c" start="20260714203000 +0000" stop="20260714213000 +0000">
 		<title>Alex Humphreys: Epilepsi a Fi</title>
 		<desc>Mae Alex Humphreys yn wyneb cyfarwydd ar S4C; mae hefyd yn diodde o epilepsy ac am ddar...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fdmb3t.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nykcys.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260714213000 +0000" stop="20260714223500 +0000">
 		<title>Y Fets - Cyfres 4: Pennod 4</title>
@@ -9023,7 +9018,7 @@
 	<programme channel="s4c" start="20260716213000 +0000" stop="20260716223500 +0000">
 		<title>Yr Afon - Cyfres 1: Bethan ac Afon Yangtse</title>
 		<desc>Bethan Gwanas sy'n teithio i Tsieina ar hyd Afon Yangtse i ymweld â'r rhyfeddod o argae...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05cftqk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyjvxp.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260716223500 +0000" stop="20260717050000 +0000">
 		<title>Watch Live</title>
