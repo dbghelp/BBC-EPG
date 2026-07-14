@@ -640,7 +640,7 @@
 	<programme channel="bbcone" start="20260718170500 +0000" stop="20260718175000 +0000">
 		<title>Alan Carr's Picture Slam - Series 4: Episode 1</title>
 		<desc>Teams from London, south Wales and Motherwell are tested in this high-octane picture quiz.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gd284n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nynw2z.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260718175000 +0000" stop="20260718183500 +0000">
 		<title>Pointless Celebrities - Series 17: Episode 3</title>
@@ -655,7 +655,7 @@
 	<programme channel="bbcone" start="20260718192000 +0000" stop="20260718201000 +0000">
 		<title>Casualty - Lethal Legacy: Episode 11</title>
 		<desc>Dylan confronts the demons from his past.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nfn2wb.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nynwyy.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260718201000 +0000" stop="20260718202500 +0000">
 		<title>BBC Weekend News - Late News: 18/07/2026</title>
@@ -1330,7 +1330,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260714180000 +0000" stop="20260714180500 +0000">
 		<title>The Catch Up - 14/07/2026</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Ben Henley-Washford.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260714180500 +0000" stop="20260714201500 +0000">
@@ -5035,7 +5035,7 @@
 	</programme>
 	<programme channel="cbeebies" start="20260718101000 +0000" stop="20260718102000 +0000">
 		<title>Knee High Spies - Series 1: 3. Mission: Tooth on the Loose</title>
-		<desc>On a midnight mission, the team must stop Silver Paw and Pranksy stealing Lauchie's tooth.</desc>
+		<desc>The team must stop Silver Paw and Pranksy from stealing Lauchie's tooth.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntmlb0.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260718102000 +0000" stop="20260718103000 +0000">
@@ -5613,15 +5613,10 @@
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260714104500 +0000" stop="20260714110000 +0000">
+	<programme channel="bbcnews" start="20260714104500 +0000" stop="20260714113000 +0000">
 		<title>BBC News - 14/07/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260714110000 +0000" stop="20260714113000 +0000">
-		<title>BBC News Now - 14/07/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260714113000 +0000" stop="20260714120000 +0000">
 		<title>BBC News Now - 14/07/2026</title>
@@ -5784,8 +5779,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260715024500 +0000" stop="20260715030000 +0000">
-		<title>Asia Specific - 15/07/2026</title>
-		<desc>Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+		<title>Asia Specific - Why a US Pilot Was Killed in Indonesia</title>
+		<desc>A 29-year-old American pilot has been shot at a remote airstrip in Indonesia. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n24m0y.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260715030000 +0000" stop="20260715033000 +0000">
@@ -5799,8 +5794,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260715034500 +0000" stop="20260715040000 +0000">
-		<title>Asia Specific - 15/07/2026</title>
-		<desc>Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+		<title>Asia Specific - Why a US Pilot Was Killed in Indonesia</title>
+		<desc>A 29-year-old American pilot has been shot at a remote airstrip in Indonesia. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n24m0y.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260715040000 +0000" stop="20260715043000 +0000">
@@ -6739,7 +6734,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260719003000 +0000" stop="20260719010000 +0000">
-		<title>Global Eye - 13/07/2026</title>
+		<title>Global Eye - On The Trail of Mexico’s ‘Fentanyl King’</title>
 		<desc>Shawn Yuan investigates the story of one of the world's most wanted fugitives.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny1t54.jpg" />
 	</programme>
@@ -6769,7 +6764,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260719033000 +0000" stop="20260719040000 +0000">
-		<title>Global Eye - 13/07/2026</title>
+		<title>Global Eye - On The Trail of Mexico’s ‘Fentanyl King’</title>
 		<desc>Shawn Yuan investigates the story of one of the world's most wanted fugitives.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny1t54.jpg" />
 	</programme>
@@ -6786,7 +6781,7 @@
 	<programme channel="bbcparliament" start="20260714045500 +0000" stop="20260714060000 +0000">
 		<title>House of Commons - Statement on the State of Nature and Climate 2026</title>
 		<desc>The statement by nature minister Mary Creagh on the state of nature and climate 2026.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nynyb0.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260714060000 +0000" stop="20260714070500 +0000">
 		<title>House of Commons - Home Office Questions</title>
