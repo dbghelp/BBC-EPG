@@ -267,7 +267,7 @@
 	<programme channel="bbcone" start="20260715180000 +0000" stop="20260715213000 +0000">
 		<title>FIFA World Cup 2026 - Semi-Finals: England v Argentina</title>
 		<desc>Live coverage of the semi-final between England and Argentina at the 2026 FIFA World Cup.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nypfbc.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260715213000 +0000" stop="20260715220000 +0000">
 		<title>BBC News at Ten - 15/07/2026</title>
@@ -805,7 +805,7 @@
 	<programme channel="bbctwo" start="20260715004000 +0000" stop="20260715023000 +0000">
 		<title>FIFA World Cup 2026 - Semi-Finals: France v Spain</title>
 		<desc>A full rerun of the France v Spain semi-final at the 2026 FIFA World Cup.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nntql5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nypbwh.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260715023000 +0000" stop="20260715053000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
@@ -1025,7 +1025,7 @@
 	<programme channel="bbctwo" start="20260716200000 +0000" stop="20260716213000 +0000">
 		<title>Golf: The Open - 2026: Opening Round Highlights</title>
 		<desc>Highlights from the first day of the 154th Open Championship at Royal Birkdale.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny29vx.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyq0vk.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260716213000 +0000" stop="20260716220300 +0000">
 		<title>Newsnight - 16/07/2026</title>
@@ -3068,7 +3068,7 @@
 	<programme channel="cbbc" start="20260717160000 +0000" stop="20260717162500 +0000">
 		<title>Blue Peter - Full Episodes: Robert Irwin’s Wildlife Adventure and Football Fun</title>
 		<desc>Wildlife superstar Robert Irwin puts his skills to the test with a photography challenge</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl52jp.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyq5pr.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260717162500 +0000" stop="20260717164500 +0000">
 		<title>Winx Club - The Magic Is Back - Series 1: 18. Alfea Under Attack</title>
@@ -3195,7 +3195,7 @@
 	<programme channel="cbbc" start="20260718110000 +0000" stop="20260718112500 +0000">
 		<title>Blue Peter - Full Episodes: Robert Irwin’s Wildlife Adventure and Football Fun</title>
 		<desc>Wildlife superstar Robert Irwin puts his skills to the test with a photography challenge</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl52jp.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyq5pr.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260718112500 +0000" stop="20260718114000 +0000">
 		<title>Bro's in Control - Series 2: 2. Talent Time</title>
@@ -6808,23 +6808,18 @@
 		<desc>Coverage of questions to James Murray on Tuesday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260714113000 +0000" stop="20260714123000 +0000">
-		<title>House of Commons - 14/07/2026 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 14 July.</desc>
+	<programme channel="bbcparliament" start="20260714113000 +0000" stop="20260714120000 +0000">
+		<title>House of Commons - Business Statement by the Leader of the House</title>
+		<desc>Coverage of the statement on the upcoming business in the chamber, on Tuesday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260714123000 +0000" stop="20260714133000 +0000">
-		<title>House of Commons - 14/07/2026 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 14 July.</desc>
+	<programme channel="bbcparliament" start="20260714120000 +0000" stop="20260714130000 +0000">
+		<title>House of Commons - Switzerland Free Trade Statement</title>
+		<desc>Coverage of the statement on the enhanced free trade agreement with Switzerland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260714133000 +0000" stop="20260714143000 +0000">
-		<title>House of Commons - 14/07/2026 Part 3</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 14 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260714143000 +0000" stop="20260714183000 +0000">
-		<title>House of Commons - 14/07/2026 Part 4</title>
+	<programme channel="bbcparliament" start="20260714130000 +0000" stop="20260714183000 +0000">
+		<title>House of Commons - 14/07/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Tuesday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
