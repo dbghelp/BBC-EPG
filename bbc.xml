@@ -913,12 +913,12 @@
 	<programme channel="bbctwo" start="20260721133000 +0000" stop="20260721170000 +0000">
 		<title>Cricket: The Hundred - 2026 - Women's: MI London v Sunrisers Leeds</title>
 		<desc>Coverage of The Hundred 100-ball cricket tournament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lszd5m.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzx8wp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260721170000 +0000" stop="20260721203000 +0000">
 		<title>Cricket: The Hundred - 2026 - Men's: MI London v Sunrisers Leeds</title>
 		<desc>Coverage of The Hundred 100-ball cricket tournament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lszd5m.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzx8wp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260721203000 +0000" stop="20260721210000 +0000">
 		<title>QI - Series T: 4. Thrills &amp; Spills</title>
@@ -998,12 +998,12 @@
 	<programme channel="bbctwo" start="20260722131500 +0000" stop="20260722170000 +0000">
 		<title>Cricket: The Hundred - 2026 - Women's: Southern Brave v Welsh Fire</title>
 		<desc>Coverage of The Hundred 100-ball cricket tournament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lszd5m.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzx91x.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260722170000 +0000" stop="20260722203000 +0000">
 		<title>Cricket: The Hundred - 2026 - Men's: Southern Brave v Welsh Fire</title>
 		<desc>Coverage of The Hundred 100-ball cricket tournament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lszd5m.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzx91x.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260722203000 +0000" stop="20260722213000 +0000">
 		<title>Saving Lives at Sea - Series 10: 3. Windsurfer Caught in the Storm</title>
@@ -5715,9 +5715,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260720233000 +0000" stop="20260721000000 +0000">
-		<title>Newscast - 20/07/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nykx20.jpg" />
+		<title>BBC News - Andy Burnham: Who is the new PM?</title>
+		<desc>From Manchester mayor to prime minister; who is he and what does he stand for?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyy4xd.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260721000000 +0000" stop="20260721003000 +0000">
 		<title>BBC News - 21/07/2026</title>
@@ -6869,15 +6869,20 @@
 		<desc>The statement by business minister Lord Leong on the nationalisation of British Steel.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwcmh.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260720145000 +0000" stop="20260720155000 +0000">
+	<programme channel="bbcparliament" start="20260720145000 +0000" stop="20260720151500 +0000">
 		<title>House of Lords - Civil Aviation Bill</title>
 		<desc>The third reading of the Civil Aviation (Consumer Protection and Regulatory Reform) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwdst.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260720155000 +0000" stop="20260720183000 +0000">
+	<programme channel="bbcparliament" start="20260720151500 +0000" stop="20260720173000 +0000">
 		<title>House of Lords - Social Housing Bill, Part 1</title>
 		<desc>The first day of debate on the report stage of the Social Housing Bill, on Monday 20 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwn70.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260720173000 +0000" stop="20260720183000 +0000">
+		<title>House of Lords - Social Housing Bill, Part 2</title>
+		<desc>The first day of debate on the report stage of the Social Housing Bill, on Monday 20 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260720183000 +0000" stop="20260720193000 +0000">
 		<title>House of Lords - Machinery Safety</title>
@@ -6885,16 +6890,16 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260720193000 +0000" stop="20260720210000 +0000">
-		<title>House of Lords - Social Housing Bill, Part 2</title>
+		<title>House of Lords - Social Housing Bill, Part 3</title>
 		<desc>The first day of debate on the report stage of the Social Housing Bill, on Monday 20 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260720210000 +0000" stop="20260720214500 +0000">
+	<programme channel="bbcparliament" start="20260720210000 +0000" stop="20260720214000 +0000">
 		<title>Lords Questions - 20/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 20 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzw05q.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260720214500 +0000" stop="20260720220000 +0000">
+	<programme channel="bbcparliament" start="20260720214000 +0000" stop="20260720220000 +0000">
 		<title>House of Lords - Strait of Hormuz</title>
 		<desc>The private notice question on shipping in the Strait of Hormuz, on Monday 20 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwbhs.jpg" />
@@ -6909,23 +6914,28 @@
 		<desc>The statement by business minister Lord Leong on the nationalisation of British Steel.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwcmh.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260720222000 +0000" stop="20260720232000 +0000">
+	<programme channel="bbcparliament" start="20260720222000 +0000" stop="20260720224000 +0000">
 		<title>House of Lords - Civil Aviation Bill</title>
 		<desc>The third reading of the Civil Aviation (Consumer Protection and Regulatory Reform) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwdst.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260720232000 +0000" stop="20260721020000 +0000">
+	<programme channel="bbcparliament" start="20260720224000 +0000" stop="20260721004000 +0000">
 		<title>House of Lords - Social Housing Bill, Part 1</title>
 		<desc>The first day of debate on the report stage of the Social Housing Bill, on Monday 20 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwn70.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260721020000 +0000" stop="20260721030000 +0000">
+	<programme channel="bbcparliament" start="20260721004000 +0000" stop="20260721013500 +0000">
+		<title>House of Lords - Social Housing Bill, Part 2</title>
+		<desc>The first day of debate on the report stage of the Social Housing Bill, on Monday 20 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721013500 +0000" stop="20260721023500 +0000">
 		<title>House of Lords - Machinery Safety</title>
 		<desc>Coverage of the debate on a motion on machinery safety regulations, on Monday 20 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260721030000 +0000" stop="20260721043000 +0000">
-		<title>House of Lords - Social Housing Bill, Part 2</title>
+	<programme channel="bbcparliament" start="20260721023500 +0000" stop="20260721043000 +0000">
+		<title>House of Lords - Social Housing Bill, Part 3</title>
 		<desc>The first day of debate on the report stage of the Social Housing Bill, on Monday 20 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
