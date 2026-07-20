@@ -93,7 +93,7 @@
 	<programme channel="bbcone" start="20260720170000 +0000" stop="20260720173000 +0000">
 		<title>BBC News at Six - 20/07/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzw8h6.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260720173000 +0000" stop="20260720180000 +0000">
 		<title>BBC London - Evening News: 20/07/2026</title>
@@ -5635,9 +5635,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260720153000 +0000" stop="20260720154500 +0000">
-		<title>Business Today - 20/07/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+		<title>BBC News - 20/07/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260720154500 +0000" stop="20260720160000 +0000">
 		<title>BBC News - 20/07/2026</title>
@@ -5657,7 +5657,7 @@
 	<programme channel="bbcnews" start="20260720170000 +0000" stop="20260720173000 +0000">
 		<title>BBC News at Six - 20/07/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzw8h6.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260720173000 +0000" stop="20260720180000 +0000">
 		<title>BBC News - 20/07/2026</title>
@@ -6847,37 +6847,122 @@
 	<programme channel="bbcparliament" start="20260720105500 +0000" stop="20260720133000 +0000">
 		<title>Select Committees - Home Affairs and Northern Ireland Affairs Committee on Public Disorder</title>
 		<desc>Joint committee on public disorder and irregular immigration in Northern Ireland.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzw5tk.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260720133000 +0000" stop="20260720141500 +0000">
 		<title>Lords Questions - 20/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 20 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzw05q.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260720141500 +0000" stop="20260720210000 +0000">
-		<title>House of Lords - 20/07/2026</title>
-		<desc>Coverage of proceedings in the House of Lords on Monday 20 July.</desc>
+	<programme channel="bbcparliament" start="20260720141500 +0000" stop="20260720143000 +0000">
+		<title>House of Lords - Strait of Hormuz</title>
+		<desc>The private notice question on shipping in the Strait of Hormuz, on Monday 20 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwbhs.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260720143000 +0000" stop="20260720144000 +0000">
+		<title>House of Lords - Summer Blackouts Statement</title>
+		<desc>Statement on the national energy systems operator (Neso) and the risk of summer blackouts.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwc2v.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260720144000 +0000" stop="20260720145000 +0000">
+		<title>House of Lords - British Steel Statement</title>
+		<desc>The statement by business minister Lord Leong on the nationalisation of British Steel.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwcmh.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260720145000 +0000" stop="20260720155000 +0000">
+		<title>House of Lords - Civil Aviation Bill</title>
+		<desc>The third reading of the Civil Aviation (Consumer Protection and Regulatory Reform) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwdst.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260720155000 +0000" stop="20260720183000 +0000">
+		<title>House of Lords - Social Housing Bill, Part 1</title>
+		<desc>The first day of debate on the report stage of the Social Housing Bill, on Monday 20 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwn70.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260720183000 +0000" stop="20260720193000 +0000">
+		<title>House of Lords - Machinery Safety</title>
+		<desc>Coverage of the debate on a motion on machinery safety regulations, on Monday 20 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260720193000 +0000" stop="20260720210000 +0000">
+		<title>House of Lords - Social Housing Bill, Part 2</title>
+		<desc>The first day of debate on the report stage of the Social Housing Bill, on Monday 20 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260720210000 +0000" stop="20260720214500 +0000">
 		<title>Lords Questions - 20/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 20 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzw05q.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260720214500 +0000" stop="20260721043000 +0000">
-		<title>House of Lords - 20/07/2026</title>
-		<desc>Business in the House of Lords on Monday 20 July.</desc>
+	<programme channel="bbcparliament" start="20260720214500 +0000" stop="20260720220000 +0000">
+		<title>House of Lords - Strait of Hormuz</title>
+		<desc>The private notice question on shipping in the Strait of Hormuz, on Monday 20 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwbhs.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260720220000 +0000" stop="20260720221000 +0000">
+		<title>House of Lords - Summer Blackouts Statement</title>
+		<desc>Statement on the national energy systems operator (Neso) and the risk of summer blackouts.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwc2v.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260720221000 +0000" stop="20260720222000 +0000">
+		<title>House of Lords - British Steel Statement</title>
+		<desc>The statement by business minister Lord Leong on the nationalisation of British Steel.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwcmh.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260720222000 +0000" stop="20260720232000 +0000">
+		<title>House of Lords - Civil Aviation Bill</title>
+		<desc>The third reading of the Civil Aviation (Consumer Protection and Regulatory Reform) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwdst.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260720232000 +0000" stop="20260721020000 +0000">
+		<title>House of Lords - Social Housing Bill, Part 1</title>
+		<desc>The first day of debate on the report stage of the Social Housing Bill, on Monday 20 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwn70.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721020000 +0000" stop="20260721030000 +0000">
+		<title>House of Lords - Machinery Safety</title>
+		<desc>Coverage of the debate on a motion on machinery safety regulations, on Monday 20 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721030000 +0000" stop="20260721043000 +0000">
+		<title>House of Lords - Social Housing Bill, Part 2</title>
+		<desc>The first day of debate on the report stage of the Social Housing Bill, on Monday 20 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260721043000 +0000" stop="20260721051500 +0000">
 		<title>Lords Questions - 20/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 20 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzw05q.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260721051500 +0000" stop="20260721100000 +0000">
-		<title>House of Lords - 20/07/2026</title>
-		<desc>Business in the House of Lords on Monday 20 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20260721051500 +0000" stop="20260721053000 +0000">
+		<title>House of Lords - Strait of Hormuz</title>
+		<desc>The private notice question on shipping in the Strait of Hormuz, on Monday 20 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwbhs.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721053000 +0000" stop="20260721054000 +0000">
+		<title>House of Lords - Summer Blackouts Statement</title>
+		<desc>Statement on the national energy systems operator (Neso) and the risk of summer blackouts.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwc2v.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721054000 +0000" stop="20260721055000 +0000">
+		<title>House of Lords - British Steel Statement</title>
+		<desc>The statement by business minister Lord Leong on the nationalisation of British Steel.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwcmh.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721055000 +0000" stop="20260721065000 +0000">
+		<title>House of Lords - Civil Aviation Bill</title>
+		<desc>The third reading of the Civil Aviation (Consumer Protection and Regulatory Reform) Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwdst.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721065000 +0000" stop="20260721093000 +0000">
+		<title>House of Lords - Social Housing Bill, Part 1</title>
+		<desc>The first day of debate on the report stage of the Social Housing Bill, on Monday 20 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzwn70.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721093000 +0000" stop="20260721100000 +0000">
+		<title>House of Commons - Scotland Office Questions</title>
+		<desc>Coverage of questions to Douglas Alexander on Wednesday 15 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyyvt5.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260721100000 +0000" stop="20260721113000 +0000">
 		<title>Select Committees - Lords Industry and Regulators Committee on the Defence Industry</title>
@@ -7697,9 +7782,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cpjj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260721062000 +0000" stop="20260721063000 +0000">
-		<title>Caru Canu a Stori - Cyfres 1: Broga Boliog</title>
-		<desc>Mae Betsan yn froga anarferol iawn - nid yw'n gallu nofio. Tybed sut ddysgith hi? Betsa...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p093t2m5.jpg" />
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260721063000 +0000" stop="20260721064000 +0000">
 		<title>Twm Twrch - Cyfres 1: Tyrchod Twym</title>
@@ -7714,7 +7799,7 @@
 	<programme channel="s4c" start="20260721070000 +0000" stop="20260721071000 +0000">
 		<title>Byd Carlo Bach - Llam i'r Lleuad</title>
 		<desc>Dyw Carlo ddim eisiau mynd i'r gwely, felly mae o'n penderfynu dychmygu mynd ar drip i'...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n95db6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzvxq6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260721071000 +0000" stop="20260721071500 +0000">
 		<title>Caban Banana Gareth - Cyfres 1: Anifeiliaid Anwes 2</title>
@@ -7826,12 +7911,12 @@
 		<desc>Mae Carufanio nôl! All criw gwyllt droi hen garafán mewn i icon ar gyfer y Sioe Frenhin...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nz6gzn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260721213000 +0000" stop="20260721223500 +0000">
+	<programme channel="s4c" start="20260721213000 +0000" stop="20260721223000 +0000">
 		<title>Y Fets - Cyfres 4: Pennod 5</title>
 		<desc>Mae Iwan yn cael ei alw i fferm Cerrig Caranau i sganio gwartheg a chwn, ac mae yna bry...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09pvg9l.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260721223500 +0000" stop="20260721234000 +0000">
+	<programme channel="s4c" start="20260721223000 +0000" stop="20260721234000 +0000">
 		<title>Y Sioe - Y Sioe 2026: Uchafbwyntiau Dydd Mawrth</title>
 		<desc>Ymunwch â Mari Lovgreen ac Ifan Jones Evans ar gyfer uchafbwyntiau dydd Mawrth y Sioe. ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nx9slt.jpg" />
@@ -7881,37 +7966,37 @@
 		<desc>Mae Storm Dewi wedi cyrraedd y dyffryn, ac mae Cadi'n cael galwad yn dweud fod coeden w...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns2bss.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260722062500 +0000" stop="20260722064000 +0000">
+	<programme channel="s4c" start="20260722062500 +0000" stop="20260722063500 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Rhed Crawc, Rhed!</title>
 		<desc>Mae Crawc yn penderfynu cadw'n heini er mwyn ennill ras yn erbyn y gwencwn. Crawc resol...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260722064000 +0000" stop="20260722070000 +0000">
+	<programme channel="s4c" start="20260722063500 +0000" stop="20260722070000 +0000">
 		<title>Waw! - Waw! - Trydan a Statig</title>
 		<desc>Mae trydan yn waw! Dewch i ddarganfod mwy yng nghwmni Awi a'r criw.Electricity is 'Waw'...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4lc23.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260722070000 +0000" stop="20260722071000 +0000">
+	<programme channel="s4c" start="20260722070000 +0000" stop="20260722070500 +0000">
 		<title>Odo - Cyfres 1: Ofn Hedfan!</title>
 		<desc>Mae Odo yn helpu Dwdl i ddysgu sut i hedfan. Odo helps Doodle to learn how to fly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfxwj.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260722071000 +0000" stop="20260722072000 +0000">
+	<programme channel="s4c" start="20260722070500 +0000" stop="20260722071500 +0000">
 		<title>Sion y Chef - Cyfres 1: Tipyn o Gawl</title>
 		<desc>Mae'n galan gaeaf a thra bod Izzy a Magi'n paratoi parti yn y bwyty, mae Siôn a Jac Jôs...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf1dx8.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260722072000 +0000" stop="20260722073000 +0000">
+	<programme channel="s4c" start="20260722071500 +0000" stop="20260722072500 +0000">
 		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 44</title>
 		<desc>Yn y rhaglen hon cwn yw'r thema - y ci anwes a'r ci gwyllt Affricanaidd. In this progra...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260722073000 +0000" stop="20260722074500 +0000">
+	<programme channel="s4c" start="20260722072500 +0000" stop="20260722074000 +0000">
 		<title>Pablo - Cyfres 1: Cath Fach Ofnus</title>
 		<desc>Mae llun yn y caffi yn dychryn Pablo druan. Pablo is scared by a print on the wall of a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngg3fs.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260722074500 +0000" stop="20260722080000 +0000">
+	<programme channel="s4c" start="20260722074000 +0000" stop="20260722080000 +0000">
 		<title>Kim a Cêt a Twrch - Cyfres 1: Pennod 13</title>
 		<desc>Mae'r holl greaduriaid wedi glanio yng nghartre' Twrch i geisio datrys yr helbul a chae...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpz5fx.jpg" />
@@ -8026,17 +8111,17 @@
 		<desc>Mae'r Whws yn archwilio'r holl synau cerddorol ma nhw'n gallu eu creu gyda phethau ma n...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mf40fy.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260723051000 +0000" stop="20260723052000 +0000">
+	<programme channel="s4c" start="20260723051000 +0000" stop="20260723051500 +0000">
 		<title>Shwshaswyn - Cyfres 1: Hwylio</title>
 		<desc>Ni ar y môr! Fflwff sy'n mwynhau mynd nôl a mlaen, Seren sy'n mwynhau mynd i fyny ac i ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06j4f78.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260723052000 +0000" stop="20260723053500 +0000">
+	<programme channel="s4c" start="20260723051500 +0000" stop="20260723053000 +0000">
 		<title>Jen a Jim - Jen a Jim Pob Dim: Stondin Plwmp</title>
 		<desc>Mae Plwmp wedi agor stondin gacennau ac mae ei ffrindiau wedi heidio draw i brynu'r cac...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p03q3nfl.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260723053500 +0000" stop="20260723054500 +0000">
+	<programme channel="s4c" start="20260723053000 +0000" stop="20260723054500 +0000">
 		<title>Tomos a'i Ffrindiau - Cyfres 4: Clwb yr Anturiaethau Mawr</title>
 		<desc>Pan mae Tomos yn darganfod map trysor mae'n creu 'Clwb Yr Anturiaethau Mawr' i chwilio ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fmrb9q.jpg" />
@@ -8051,47 +8136,47 @@
 		<desc>Mae Coch a Melyn yn cwrdd ag Oren. Dysga beth sy'n digwydd pan ti'n cymysgu Coch a Mely...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cws4.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260723060500 +0000" stop="20260723062000 +0000">
+	<programme channel="s4c" start="20260723060500 +0000" stop="20260723061500 +0000">
 		<title>Digbi Draig - Cyfres 1: Arholiad Hud</title>
 		<desc>Mae Betsi'n cael prawf swyno gan Llyfr Swyn heddiw. Mae Digbi a Cochyn yn meddwl efalla...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cpjj.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260723062000 +0000" stop="20260723063000 +0000">
+	<programme channel="s4c" start="20260723061500 +0000" stop="20260723063000 +0000">
 		<title>Caru Canu a Stori - Cyfres 1: Un a Dwy a Thair</title>
 		<desc>Mae Llywela Llygoden wedi cael ffôn newydd a'n mynd ati gyda'i ffrind Llywelyn i dynnu ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p093t3gw.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260723063000 +0000" stop="20260723064500 +0000">
+	<programme channel="s4c" start="20260723063000 +0000" stop="20260723064000 +0000">
 		<title>Twm Twrch - Cyfres 1: Tyrchod ar Olwynion</title>
 		<desc>Mae heddiw'n ddiwrnod Cystadleuaeth Sglefrio yng Nghwmtwrch ac mae pawb yn ymuno yn yr ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyxr8d.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260723064500 +0000" stop="20260723070000 +0000">
+	<programme channel="s4c" start="20260723064000 +0000" stop="20260723070000 +0000">
 		<title>Help Llaw - Cyfres 1: Tomi - Achub y bel</title>
 		<desc>Mae Harri yn cael galwad i ddweud bod cwch wedi torri yng Nglan Llyn.  Yno hefyd mae To...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kdcx91.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260723070000 +0000" stop="20260723071000 +0000">
+	<programme channel="s4c" start="20260723070000 +0000" stop="20260723070500 +0000">
 		<title>Byd Carlo Bach - Pel-fasged Pwtyn</title>
 		<desc>Heddiw mae Carlo yn chwarae pêl-fasged. Tybed all o guro Pwtyn? Today Carlo is playing ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n95db6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzvzfm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260723071000 +0000" stop="20260723071500 +0000">
+	<programme channel="s4c" start="20260723070500 +0000" stop="20260723071000 +0000">
 		<title>Caban Banana Gareth - Cyfres 1: Gwyliau 2</title>
 		<desc>Gwyliau ydi'r pwnc trafod wrth i Gareth yr Orangutan teithio ysgolion ledled Cymru yn e...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lwgf1c.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260723071500 +0000" stop="20260723073000 +0000">
+	<programme channel="s4c" start="20260723071000 +0000" stop="20260723072500 +0000">
 		<title>Byd Tad-Cu - Cyfres 1: Cyfrifiaduron</title>
 		<desc>Yn rhaglen heddiw, mae Nanw'n gofyn 'Beth sy'n digwydd tu mewn i gyfrifiadur?'. In toda...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09z32pd.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260723073000 +0000" stop="20260723074500 +0000">
+	<programme channel="s4c" start="20260723072500 +0000" stop="20260723073500 +0000">
 		<title>Mojo Swoptops - Mojo Swoptop</title>
 		<desc>A oes yna fwystfil yn Llyn Swopdre Fawr? Mae Mojo a Bo yn helpu Breian i fod yn ddewr a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ndbwjk.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260723074500 +0000" stop="20260723080000 +0000">
+	<programme channel="s4c" start="20260723073500 +0000" stop="20260723080000 +0000">
 		<title>Ahoi! - Cyfres 3: Ysgol Gwenllian #2</title>
 		<desc>A fydd morladron Ysgol Gwenllian yn llwyddo i helpu Ben Dant a Cadi i drechu Capten Cne...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mx77dk.jpg" />
