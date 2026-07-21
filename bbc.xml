@@ -6654,7 +6654,7 @@
 	<programme channel="bbcnews" start="20260725133000 +0000" stop="20260725140000 +0000">
 		<title>Global Eye - Inside Hungary's Political Earthquake</title>
 		<desc>Could the downfall of Viktor Orbán be a warning sign for populist leaders everywhere?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzcsk2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p02ckt.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260725140000 +0000" stop="20260725143000 +0000">
 		<title>BBC News - 25/07/2026</title>
@@ -6779,7 +6779,7 @@
 	<programme channel="bbcnews" start="20260726033000 +0000" stop="20260726040000 +0000">
 		<title>Global Eye - Inside Hungary's Political Earthquake</title>
 		<desc>Could the downfall of Viktor Orbán be a warning sign for populist leaders everywhere?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzcsk2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p02ckt.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260726040000 +0000" stop="20260726043000 +0000">
 		<title>BBC News - 26/07/2026</title>
@@ -6864,12 +6864,12 @@
 	<programme channel="bbcparliament" start="20260721143500 +0000" stop="20260721151500 +0000">
 		<title>House of Lords - Local Government Reorganisation</title>
 		<desc>Coverage of a statement on local government reorganisation, on Tuesday 21 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p02t8g.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260721151500 +0000" stop="20260721171500 +0000">
 		<title>House of Lords - Commercial Payments Bill, Part 1</title>
 		<desc>The debate on the committee stage of the Commercial Payments Bill, on Tuesday 21 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p02tkh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260721171500 +0000" stop="20260721191500 +0000">
 		<title>House of Lords - Commercial Payments Bill, Part 2</title>
@@ -6899,12 +6899,12 @@
 	<programme channel="bbcparliament" start="20260721220500 +0000" stop="20260721224500 +0000">
 		<title>House of Lords - Local Government Reorganisation</title>
 		<desc>Coverage of a statement on local government reorganisation, on Tuesday 21 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p02t8g.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260721224500 +0000" stop="20260722004500 +0000">
 		<title>House of Lords - Commercial Payments Bill, Part 1</title>
 		<desc>The debate on the committee stage of the Commercial Payments Bill, on Tuesday 21 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p02tkh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260722004500 +0000" stop="20260722024500 +0000">
 		<title>House of Lords - Commercial Payments Bill, Part 2</title>
@@ -6921,10 +6921,25 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 21 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p01k4f.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260722051500 +0000" stop="20260722090000 +0000">
-		<title>House of Lords - 21/07/2026</title>
-		<desc>Business in the House of Lords on Tuesday 21 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	<programme channel="bbcparliament" start="20260722051500 +0000" stop="20260722052500 +0000">
+		<title>Ten Minute Rule Bill - The Registration of Stillbirths</title>
+		<desc>The introduction of a bill on the registration of stillbirths in England and Wales.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyyx3h.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722052500 +0000" stop="20260722063500 +0000">
+		<title>Select Committees - Lords Industry and Regulators Committee on the Defence Industry</title>
+		<desc>The Lords Industry and Regulators committee on government and defence industry relations.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p00ssf.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722063500 +0000" stop="20260722072500 +0000">
+		<title>Select Committees - Lords International Agreements Committee on the Manipulation of Sports Competitions</title>
+		<desc>The Lords International Agreements committee on the manipulation of sports competitions.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722072500 +0000" stop="20260722090000 +0000">
+		<title>Select Committees - Education/Work and Pensions Committee on the Child Poverty Strategy</title>
+		<desc>Joint session on the government's child poverty strategy, from Tuesday 14 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260722090000 +0000" stop="20260722110000 +0000">
 		<title>Select Committees - Lords Financial Services Regulation Committee on the Insurance Industry</title>
