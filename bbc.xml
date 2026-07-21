@@ -758,12 +758,12 @@
 		<desc>The Beechgrove team find ways to connect trendiness with sustainability.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nc0zx5.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260721133000 +0000" stop="20260721170000 +0000">
+	<programme channel="bbctwo" start="20260721133000 +0000" stop="20260721165500 +0000">
 		<title>Cricket: The Hundred - 2026 - Women's: MI London v Sunrisers Leeds</title>
 		<desc>Coverage of The Hundred 100-ball cricket tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzx8wp.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260721170000 +0000" stop="20260721203000 +0000">
+	<programme channel="bbctwo" start="20260721165500 +0000" stop="20260721203000 +0000">
 		<title>Cricket: The Hundred - 2026 - Men's: MI London v Sunrisers Leeds</title>
 		<desc>Coverage of The Hundred 100-ball cricket tournament.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzx8wp.jpg" />
@@ -1234,12 +1234,12 @@
 		<desc>A cynical cafe owner takes risks for no-one - until the arrival of Ilsa.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08qw7lp.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260725153000 +0000" stop="20260725161500 +0000">
-		<title>Flog It! - Series 12: 31. Guildford 21</title>
-		<desc>Paul Martin is joined by experts James Lewis and Mark Stacey at Guildford Cathedral.</desc>
+	<programme channel="bbctwo" start="20260725153000 +0000" stop="20260725161000 +0000">
+		<title>Flog It! - Series 17: Episode 7</title>
+		<desc>Experts Adam Partridge and Claire Rawle search for antiques in Cosford, Shropshire.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260725161500 +0000" stop="20260725183000 +0000">
+	<programme channel="bbctwo" start="20260725161000 +0000" stop="20260725183000 +0000">
 		<title>Rugby League: Super League - 2026: Leigh v Warrington</title>
 		<desc>Coverage from the Super League as Leigh Leopards take on Warrington Wolves.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nz3sxy.jpg" />
@@ -1256,7 +1256,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20260725203000 +0000" stop="20260725213000 +0000">
 		<title>Top of the Pops - Big Hits 2002</title>
-		<desc>Revel in many of the biggest singles of 2002, including hits from P!nk, Shakira and Oasis.</desc>
+		<desc>Revel in many of the biggest singles of 2002, including hits from Shakira, P!nk and Oasis.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzz3h6.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260725213000 +0000" stop="20260725223000 +0000">
@@ -1301,7 +1301,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260721180000 +0000" stop="20260721180500 +0000">
 		<title>The Catch Up - 21/07/2026</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Callum Tulley.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260721180500 +0000" stop="20260721202000 +0000">
@@ -1933,7 +1933,7 @@
 	<programme channel="bbcfour" start="20260724180000 +0000" stop="20260724200000 +0000">
 		<title>BBC Proms - 2026: Prog Rock at the Proms</title>
 		<desc>Genesis to Tubular Bells, expect classic tracks on an orchestral scale.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzdfqm.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p01r56.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260724200000 +0000" stop="20260724203000 +0000">
 		<title>Top of the Pops - 18/02/2000</title>
@@ -5677,9 +5677,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260721153000 +0000" stop="20260721154500 +0000">
-		<title>Business Today - 21/07/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+		<title>BBC News - 21/07/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260721154500 +0000" stop="20260721160000 +0000">
 		<title>Verified Live - 21/07/2026</title>
@@ -5757,8 +5757,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260721233000 +0000" stop="20260722000000 +0000">
-		<title>Newscast - 21/07/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Andy Burnham's (un)funded tax cut</title>
+		<desc>Prime Minister Andy Burnham plans for a "cost of living government".</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p00t73.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260722000000 +0000" stop="20260722003000 +0000">
@@ -6849,27 +6849,77 @@
 	<programme channel="bbcparliament" start="20260721133000 +0000" stop="20260721141500 +0000">
 		<title>Lords Questions - 21/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 21 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p01k4f.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260721141500 +0000" stop="20260721210000 +0000">
-		<title>House of Lords - 21/07/2026</title>
-		<desc>Coverage of proceedings in the House of Lords on Tuesday 21 July.</desc>
+	<programme channel="bbcparliament" start="20260721141500 +0000" stop="20260721143000 +0000">
+		<title>House of Lords - Machinery of Government Question</title>
+		<desc>A question on the machinery of government and the merging of ministeries and departments.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p01kmz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721143000 +0000" stop="20260721143500 +0000">
+		<title>House of Lords - Business of the House</title>
+		<desc>The announcement of forthcoming business in the House of Lords and motions for approval.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p01x3t.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721143500 +0000" stop="20260721151500 +0000">
+		<title>House of Lords - Local Government Reorganisation</title>
+		<desc>Coverage of a statement on local government reorganisation, on Tuesday 21 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721151500 +0000" stop="20260721171500 +0000">
+		<title>House of Lords - Commercial Payments Bill, Part 1</title>
+		<desc>The debate on the committee stage of the Commercial Payments Bill, on Tuesday 21 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721171500 +0000" stop="20260721191500 +0000">
+		<title>House of Lords - Commercial Payments Bill, Part 2</title>
+		<desc>The debate on the committee stage of the Commercial Payments Bill, on Tuesday 21 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721191500 +0000" stop="20260721210000 +0000">
+		<title>House of Lords - Commercial Payments Bill, Part 3</title>
+		<desc>The debate on the committee stage of the Commercial Payments Bill, on Tuesday 21 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260721210000 +0000" stop="20260721214500 +0000">
 		<title>Lords Questions - 21/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 21 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p01k4f.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260721214500 +0000" stop="20260722043000 +0000">
-		<title>House of Lords - 21/07/2026</title>
-		<desc>Business in the House of Lords on Tuesday 21 July.</desc>
+	<programme channel="bbcparliament" start="20260721214500 +0000" stop="20260721220000 +0000">
+		<title>House of Lords - Machinery of Government Question</title>
+		<desc>A question on the machinery of government and the merging of ministeries and departments.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p01kmz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721220000 +0000" stop="20260721220500 +0000">
+		<title>House of Lords - Business of the House</title>
+		<desc>The announcement of forthcoming business in the House of Lords and motions for approval.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p01x3t.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721220500 +0000" stop="20260721224500 +0000">
+		<title>House of Lords - Local Government Reorganisation</title>
+		<desc>Coverage of a statement on local government reorganisation, on Tuesday 21 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260721224500 +0000" stop="20260722004500 +0000">
+		<title>House of Lords - Commercial Payments Bill, Part 1</title>
+		<desc>The debate on the committee stage of the Commercial Payments Bill, on Tuesday 21 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722004500 +0000" stop="20260722024500 +0000">
+		<title>House of Lords - Commercial Payments Bill, Part 2</title>
+		<desc>The debate on the committee stage of the Commercial Payments Bill, on Tuesday 21 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722024500 +0000" stop="20260722043000 +0000">
+		<title>House of Lords - Commercial Payments Bill, Part 3</title>
+		<desc>The debate on the committee stage of the Commercial Payments Bill, on Tuesday 21 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260722043000 +0000" stop="20260722051500 +0000">
 		<title>Lords Questions - 21/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Tuesday 21 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p01k4f.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260722051500 +0000" stop="20260722090000 +0000">
 		<title>House of Lords - 21/07/2026</title>
@@ -7442,15 +7492,15 @@
 		<desc>Mae Oren egnïol yn cyrraedd Gwlad y Lliwiau. Energetic Orange arrives in Colourland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cws4.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260721060500 +0000" stop="20260721062000 +0000">
+	<programme channel="s4c" start="20260721060500 +0000" stop="20260721061500 +0000">
 		<title>Digbi Draig - Cyfres 1: Dydd Ffwl Pen Cyll</title>
 		<desc>Mae Digbi'n dda am chwarae triciau ar ei ffrindiau ar Ddydd Ffwl Pen Cyll. Ond a fydd e...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cpjj.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260721062000 +0000" stop="20260721063000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="s4c" start="20260721061500 +0000" stop="20260721063000 +0000">
+		<title>Caru Canu a Stori - Cyfres 1: Broga Boliog</title>
+		<desc>Mae Betsan yn froga anarferol iawn - nid yw'n gallu nofio. Tybed sut ddysgith hi? Betsa...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p093t2m5.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260721063000 +0000" stop="20260721064000 +0000">
 		<title>Twm Twrch - Cyfres 1: Tyrchod Twym</title>
@@ -7507,32 +7557,22 @@
 		<desc>Newyddion S4C a'r Tywydd. S4C News &amp; Weather.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260721130500 +0000" stop="20260721160000 +0000">
+	<programme channel="s4c" start="20260721130500 +0000" stop="20260721162000 +0000">
 		<title>Y Sioe - Y Sioe 2026: Prynhawn Mawrth o'r Sioe</title>
 		<desc>Sioe Frenhinol Cymru 2026. Canlyniadau adrannau'r gwartheg a defaid gan gynnwys y Tîm o...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nx9s1n.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260721160000 +0000" stop="20260721162500 +0000">
+	<programme channel="s4c" start="20260721162000 +0000" stop="20260721164500 +0000">
 		<title>Mwy o Stwnsh Sadwrn - Cyfres 2026: Pennod 10</title>
 		<desc>Cyfle i ail fyw gemau a holl lols y penwythnos. More Stwnsh Sadwrn, and a chance to re-...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nx9vd5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260721162500 +0000" stop="20260721163000 +0000">
-		<title>Larfa - Cyfres 3: Wrth i Amser Fynd Heibio</title>
-		<desc>Mae'r criw yn chwarae offerynnau ac yn profi henaint! The crew play instruments and exp...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nbb714.jpg" />
-	</programme>
-	<programme channel="s4c" start="20260721163000 +0000" stop="20260721163500 +0000">
-		<title>Y Doniolis - Cyfres 1: Mici Afal</title>
-		<desc>Mae sioe dalent Mici Afal wedi cyrraedd Cwm Doniol ac mae'r Doniolis yn benderfynol o e...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06qxgnl.jpg" />
-	</programme>
-	<programme channel="s4c" start="20260721163500 +0000" stop="20260721170000 +0000">
+	<programme channel="s4c" start="20260721164500 +0000" stop="20260721170500 +0000">
 		<title>Dyffryn Mwmin - Yn Achos Llys</title>
 		<desc>Mae rhuddem ddirgel yn dod ag anhrefn i ddyffryn Mwmin. A mysterious ruby brings chaos ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ncqw6x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260721170000 +0000" stop="20260721173000 +0000">
+	<programme channel="s4c" start="20260721170500 +0000" stop="20260721173000 +0000">
 		<title>Y Ci Perffaith - Pennod 1</title>
 		<desc>Cyfres wedi'i chyflwyno gan Heledd Cynwal, gyda llu o arbenigwyr wrth gefn. Cawn helpu ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khx0y5.jpg" />
@@ -8337,17 +8377,17 @@
 		<desc>Uchafbwyntiau Cymal 20 - Bydd y frwydr am y crys melyn yn cael ei benderfynu wedi diwrn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260725220000 +0000" stop="20260725223000 +0000">
+	<programme channel="s4c" start="20260725220000 +0000" stop="20260725222500 +0000">
 		<title>Carufanio</title>
 		<desc>Mae Carufanio nôl! All criw gwyllt droi hen garafán mewn i icon ar gyfer y Sioe Frenhin...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nz6gzn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260725223000 +0000" stop="20260725230500 +0000">
+	<programme channel="s4c" start="20260725222500 +0000" stop="20260725230000 +0000">
 		<title>Stiwdio 24/7 - Pennod 3</title>
 		<desc>Y tro yma bydd Gruff Rhys yn perfformio dwy gân o'i albym newydd "Dim Probs", ac fe fyd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nmfv59.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260725230500 +0000" stop="20260726050000 +0000">
+	<programme channel="s4c" start="20260725230000 +0000" stop="20260726050000 +0000">
 		<title>Watch Live</title>
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
