@@ -1303,7 +1303,12 @@
 		<desc>Programmes start at 7.00pm</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvry0j.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260722180000 +0000" stop="20260722183000 +0000">
+	<programme channel="bbcthree" start="20260722180000 +0000" stop="20260722180500 +0000">
+		<title>The Catch Up - 22/07/2026</title>
+		<desc>A round-up of the day's news with Ben Henley-Washford.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
+	</programme>
+	<programme channel="bbcthree" start="20260722180500 +0000" stop="20260722183000 +0000">
 		<title>Deadly 60 - Series 1: 14. Alaska</title>
 		<desc>Adventurer Steve Backshall and the Deadly 60 team head north to Alaska.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01gkh6w.jpg" />
@@ -6729,12 +6734,12 @@
 	<programme channel="bbcparliament" start="20260722063500 +0000" stop="20260722072500 +0000">
 		<title>Select Committees - Lords International Agreements Committee on the Manipulation of Sports Competitions</title>
 		<desc>The Lords International Agreements committee on the manipulation of sports competitions.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p05n20.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260722072500 +0000" stop="20260722090000 +0000">
 		<title>Select Committees - Education/Work and Pensions Committee on the Child Poverty Strategy</title>
 		<desc>Joint session on the government's child poverty strategy, from Tuesday 14 July.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p05qbn.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260722090000 +0000" stop="20260722110000 +0000">
 		<title>Select Committees - Lords Financial Services Regulation Committee on the Insurance Industry</title>
@@ -7345,7 +7350,7 @@
 	<programme channel="s4c" start="20260722161000 +0000" stop="20260722162000 +0000">
 		<title>Oi! Osgar - Casgen</title>
 		<desc>Beth sy'n digwydd ym myd Osgar heddiw? Mae'r Triawd ac Osgar yn brwydro dros gasgen o d...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngg0py.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p05fbt.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260722162000 +0000" stop="20260722163000 +0000">
 		<title>Prys a'r Pryfed - Cyfres 1: Y Tacluso Mawr</title>
