@@ -123,7 +123,7 @@
 	<programme channel="bbcone" start="20260722170000 +0000" stop="20260722173000 +0000">
 		<title>BBC News at Six - 22/07/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p08g07.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260722173000 +0000" stop="20260722180000 +0000">
 		<title>BBC London - Evening News: 22/07/2026</title>
@@ -953,7 +953,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260724113000 +0000" stop="20260724120000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 3: 24/07/2026</title>
+		<title>Political Thinking with Nick Robinson - Series 3: Kemi Badenoch</title>
 		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
@@ -1330,7 +1330,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260722204500 +0000" stop="20260722213000 +0000">
 		<title> Sin City: The Real Las Vegas - Series 1: Episode 2</title>
-		<desc>Tir goes even further into the underbelly of Las Vegas.</desc>
+		<desc>Tir goes even further into the underbelly of Las Vegas. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxvdv9.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260722213000 +0000" stop="20260722221500 +0000">
@@ -1441,7 +1441,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260724021500 +0000" stop="20260724030000 +0000">
 		<title> Sin City: The Real Las Vegas - Series 1: Episode 2</title>
-		<desc>Tir goes even further into the underbelly of Las Vegas.</desc>
+		<desc>Tir goes even further into the underbelly of Las Vegas. </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxvdv9.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260724030000 +0000" stop="20260724043000 +0000">
@@ -2314,7 +2314,7 @@
 	<programme channel="cbbc" start="20260722164500 +0000" stop="20260722170000 +0000">
 		<title>Go Get Arty - Series 2: 13. Twin Makeover Battle</title>
 		<desc>Twin makeover battle! Who rocks the ultimate tie-dye glow-up?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nv0qpk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p07ync.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260722170000 +0000" stop="20260722173000 +0000">
 		<title>So Awkward - Series 6: 12. Academic-Lily Speaking</title>
@@ -2578,7 +2578,7 @@
 	<programme channel="cbbc" start="20260723164500 +0000" stop="20260723170000 +0000">
 		<title>Go Get Arty - Series 2: 14. Giant Googly-Eyed Animal Masks</title>
 		<desc>The Kwapongs make the wildest animal masks ever - but who will win?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nv0qpk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p07ypz.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260723170000 +0000" stop="20260723173000 +0000">
 		<title>So Awkward - Still So Awkward: 1. A Whole New Lily</title>
@@ -2841,7 +2841,7 @@
 	<programme channel="cbbc" start="20260724165000 +0000" stop="20260724170500 +0000">
 		<title>Go Get Arty - Series 2: 15. Sea Serpents Unleashed!</title>
 		<desc>Sea serpents unleashed! The Kwapongs create slithering creatures - but who rules the deep?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nv0qpk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p07yq9.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260724170500 +0000" stop="20260724173500 +0000">
 		<title>So Awkward - Still So Awkward: 2. Monological</title>
@@ -5556,10 +5556,15 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260722063000 +0000" stop="20260722070000 +0000">
+	<programme channel="bbcnews" start="20260722063000 +0000" stop="20260722065500 +0000">
 		<title>Business Today - 22/07/2026</title>
 		<desc>The latest business news from London and around the world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260722065500 +0000" stop="20260722070000 +0000">
+		<title>BBC News - 22/07/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260722070000 +0000" stop="20260722073000 +0000">
 		<title>BBC News - 22/07/2026</title>
@@ -5674,7 +5679,7 @@
 	<programme channel="bbcnews" start="20260722170000 +0000" stop="20260722173000 +0000">
 		<title>BBC News at Six - 22/07/2026</title>
 		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p08g07.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260722173000 +0000" stop="20260722180000 +0000">
 		<title>The World Today with Maryam Moshiri - 22/07/2026</title>
@@ -6357,9 +6362,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260725123000 +0000" stop="20260725130000 +0000">
-		<title>The Climate Question - Will Insects Thrive or Just Survive?</title>
-		<desc>Insects spread disease and are key to food production. Will climate change impact them?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nc7wt0.jpg" />
+		<title>BBC News - Andy Burnham: Who is the new PM?</title>
+		<desc>From Manchester mayor to prime minister; who is he and what does he stand for?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyy4xd.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260725130000 +0000" stop="20260725133000 +0000">
 		<title>BBC News - 25/07/2026</title>
@@ -6367,9 +6372,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260725133000 +0000" stop="20260725140000 +0000">
-		<title>Global Eye - Inside Hungary's Political Earthquake</title>
-		<desc>Could the downfall of Viktor Orbán be a warning sign for populist leaders everywhere?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p02ckt.jpg" />
+		<title>AI Decoded - 25/07/2026</title>
+		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260725140000 +0000" stop="20260725143000 +0000">
 		<title>BBC News - 25/07/2026</title>
@@ -6387,7 +6392,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260725153000 +0000" stop="20260725160000 +0000">
-		<title>Political Thinking with Nick Robinson - Series 3: 24/07/2026</title>
+		<title>Political Thinking with Nick Robinson - Series 3: Kemi Badenoch</title>
 		<desc>Nick Robinson in conversation with people who influence our political thinking.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1pcwp.jpg" />
 	</programme>
@@ -6422,9 +6427,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260725193000 +0000" stop="20260725200000 +0000">
-		<title>The Climate Question - Will Insects Thrive or Just Survive?</title>
-		<desc>Insects spread disease and are key to food production. Will climate change impact them?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nc7wt0.jpg" />
+		<title>BBC News - Andy Burnham: Who is the new PM?</title>
+		<desc>From Manchester mayor to prime minister; who is he and what does he stand for?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyy4xd.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260725200000 +0000" stop="20260725210000 +0000">
 		<title>BBC News - 25/07/2026</title>
@@ -6472,9 +6477,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260726013000 +0000" stop="20260726020000 +0000">
-		<title>The Climate Question - Will Insects Thrive or Just Survive?</title>
-		<desc>Insects spread disease and are key to food production. Will climate change impact them?</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nc7wt0.jpg" />
+		<title>BBC News - Andy Burnham: Who is the new PM?</title>
+		<desc>From Manchester mayor to prime minister; who is he and what does he stand for?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyy4xd.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260726020000 +0000" stop="20260726023000 +0000">
 		<title>BBC News - 26/07/2026</title>
@@ -6482,9 +6487,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260726023000 +0000" stop="20260726030000 +0000">
-		<title>Tech Now - 25/07/2026</title>
-		<desc>Highlights from the Esports World Cup in Paris and how to build a gaming PC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+		<title>AI Decoded - 25/07/2026</title>
+		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260726030000 +0000" stop="20260726033000 +0000">
 		<title>BBC News - 26/07/2026</title>
@@ -6642,9 +6647,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260726223000 +0000" stop="20260726230000 +0000">
-		<title>Tech Now - 25/07/2026</title>
-		<desc>Highlights from the Esports World Cup in Paris and how to build a gaming PC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+		<title>BBC News - Andy Burnham: Who is the new PM?</title>
+		<desc>From Manchester mayor to prime minister; who is he and what does he stand for?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyy4xd.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260726230000 +0000" stop="20260726233000 +0000">
 		<title>BBC News - 26/07/2026</title>
@@ -6749,12 +6754,12 @@
 	<programme channel="bbcparliament" start="20260722090000 +0000" stop="20260722102000 +0000">
 		<title>Select Committees - Lords Financial Services Regulation Committee on the Insurance Industry</title>
 		<desc>The Lords Financial Services Regulation committee on the consumer insurance market.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p076k5.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260722102000 +0000" stop="20260722121500 +0000">
 		<title>Select Committees - Northern Ireland Affairs Committee on the Finances of the NI Executive</title>
 		<desc>Northern Ireland Affairs committee on the finances of the Northern Ireland Executive.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p077qh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260722121500 +0000" stop="20260722131500 +0000">
 		<title>House of Lords - Conduct of Undercover Policing Bill</title>
@@ -6766,14 +6771,49 @@
 		<desc>Questions in the House of Lords to government ministers on Tuesday 21 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p01k4f.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260722140000 +0000" stop="20260722144500 +0000">
+	<programme channel="bbcparliament" start="20260722140000 +0000" stop="20260722143000 +0000">
+		<title>House of Lords - Tributes to Lord Laming</title>
+		<desc>Coverage of tributes in the House of Lords to the Cross-bench peer Lord Laming.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722143000 +0000" stop="20260722151000 +0000">
 		<title>Lords Questions - 22/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Wednesday 22 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260722144500 +0000" stop="20260722210000 +0000">
-		<title>House of Lords - 22/07/2026</title>
-		<desc>Coverage of proceedings in the House of Lords on Wednesday 22 July.</desc>
+	<programme channel="bbcparliament" start="20260722151000 +0000" stop="20260722153000 +0000">
+		<title>House of Lords - Steel Imports Question</title>
+		<desc>A question on changes to tariff-free quotas for category 4 galvanised steel imports.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722153000 +0000" stop="20260722163000 +0000">
+		<title>House of Lords - Infected Blood Compensation Scheme</title>
+		<desc>Coverage of the debate on the Infected Blood Compensation Scheme regulations 2026.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722163000 +0000" stop="20260722173000 +0000">
+		<title>House of Lords - Greater Cambridge Development Corporation Order 2026</title>
+		<desc>Coverage of the debate on the Greater Cambridge Development Corporation Order 2026.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722173000 +0000" stop="20260722183000 +0000">
+		<title>House of Lords - Welfare Payments Regulations</title>
+		<desc>Coverage of the debate on welfare payments regulations, on Wednesday 22 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722183000 +0000" stop="20260722193000 +0000">
+		<title>House of Lords - National Savings Regulations</title>
+		<desc>Coverage of the debate on the National Savings (Remediation Scheme) Regulations 2026.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722193000 +0000" stop="20260722203000 +0000">
+		<title>House of Lords - Trade Union Ballots and Votes Regulations</title>
+		<desc>Coverage of the debate on voting in trade union statutory ballots, on Wednesday 22 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722203000 +0000" stop="20260722210000 +0000">
+		<title>House of Lords - Tributes to Lord Laming</title>
+		<desc>Coverage of tributes in the House of Lords to the Cross-bench peer Lord Laming.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260722210000 +0000" stop="20260722214500 +0000">
@@ -6781,15 +6821,50 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 22 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260722214500 +0000" stop="20260723043000 +0000">
-		<title>House of Lords - 22/07/2026</title>
-		<desc>Business in the House of Lords on Wednesday 22 July.</desc>
+	<programme channel="bbcparliament" start="20260722214500 +0000" stop="20260722220000 +0000">
+		<title>House of Lords - Steel Imports Question</title>
+		<desc>A question on changes to tariff-free quotas for category 4 galvanised steel imports.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260723043000 +0000" stop="20260723051500 +0000">
+	<programme channel="bbcparliament" start="20260722220000 +0000" stop="20260722230000 +0000">
+		<title>House of Lords - Infected Blood Compensation Scheme</title>
+		<desc>Coverage of the debate on the Infected Blood Compensation Scheme regulations 2026.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722230000 +0000" stop="20260723000000 +0000">
+		<title>House of Lords - Greater Cambridge Development Corporation Order 2026</title>
+		<desc>Coverage of the debate on the Greater Cambridge Development Corporation Order 2026.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260723000000 +0000" stop="20260723010000 +0000">
+		<title>House of Lords - Welfare Payments Regulations</title>
+		<desc>Coverage of the debate on welfare payments regulations, on Wednesday 22 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260723010000 +0000" stop="20260723020000 +0000">
+		<title>House of Lords - National Savings Regulations</title>
+		<desc>Coverage of the debate on the National Savings (Remediation Scheme) Regulations 2026.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260723020000 +0000" stop="20260723040000 +0000">
+		<title>House of Lords - Trade Union Ballots and Votes Regulations</title>
+		<desc>Coverage of the debate on voting in trade union statutory ballots, on Wednesday 22 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260723040000 +0000" stop="20260723044500 +0000">
 		<title>Lords Questions - 22/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Wednesday 22 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260723044500 +0000" stop="20260723050000 +0000">
+		<title>House of Lords - Steel Imports Question</title>
+		<desc>A question on changes to tariff-free quotas for category 4 galvanised steel imports.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260723050000 +0000" stop="20260723051500 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260723051500 +0000" stop="20260723090000 +0000">
 		<title>House of Lords - 22/07/2026</title>
@@ -7347,22 +7422,17 @@
 		<desc>Newyddion S4C a'r Tywydd. S4C News &amp; Weather.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260722130500 +0000" stop="20260722160000 +0000">
+	<programme channel="s4c" start="20260722130500 +0000" stop="20260722160500 +0000">
 		<title>Y Sioe - Y Sioe 2026: Prynhawn Mercher o'r Sioe</title>
 		<desc>Diwrnod y pencampwriaethau. Edrychwn ymlaen at Bencampwriaeth y defaid a gwobrwyo Cwpan...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny2gjw.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260722160000 +0000" stop="20260722161000 +0000">
+	<programme channel="s4c" start="20260722160500 +0000" stop="20260722161500 +0000">
 		<title>Byd Rwtsh Dai Potsh - Mewn Cariad</title>
 		<desc>Mae Dai'n cael cariad, ond mae'n ymddangos mai estron oedd hi wedi'r cyfan. Un sy'n edr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfkqg.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260722161000 +0000" stop="20260722162000 +0000">
-		<title>Oi! Osgar - Casgen</title>
-		<desc>Beth sy'n digwydd ym myd Osgar heddiw? Mae'r Triawd ac Osgar yn brwydro dros gasgen o d...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p05fbt.jpg" />
-	</programme>
-	<programme channel="s4c" start="20260722162000 +0000" stop="20260722163000 +0000">
+	<programme channel="s4c" start="20260722161500 +0000" stop="20260722163000 +0000">
 		<title>Prys a'r Pryfed - Cyfres 1: Y Tacluso Mawr</title>
 		<desc>Wedi'u sugno i mewn i'r sugnwr llwch, beth sy' am ddigwydd i Lloyd, Abacus a PB? Sucked...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngt999.jpg" />
@@ -7399,7 +7469,7 @@
 	</programme>
 	<programme channel="s4c" start="20260722190000 +0000" stop="20260722195500 +0000">
 		<title>Pawb a'i Farn - Rhaglen Wed, 22 Jul 2026 20:00</title>
-		<desc>Rhaglen drafod materion cyfoes. Current affairs debate programme.</desc>
+		<desc>Mae Pawb a'i Farn heno yn dod o faes Y Sioe Fawr. Ar y panel heno mae: Llyr Gruffydd, S...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8q2gs.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260722195500 +0000" stop="20260722200000 +0000">
@@ -7415,7 +7485,7 @@
 	<programme channel="s4c" start="20260722210000 +0000" stop="20260722213500 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Wed, 22 Jul 2026 22:00</title>
 		<desc>Diwrnod gwastad yn ôl y trefnwyr, ond mae cymal 17 yn cynnwys rhyw 7,500 o droedfeddi e...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p07lr7.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260722213500 +0000" stop="20260722223500 +0000">
 		<title>Ty Ffit - Pennod 3</title>
@@ -7580,7 +7650,7 @@
 	<programme channel="s4c" start="20260723192500 +0000" stop="20260723195500 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Thu, 23 Jul 2026 20:25</title>
 		<desc>Uchafbwyntiau Cymal 18 - Mae'r Alpau wedi cyrraedd, a gyda nhw pen busnes y daith. Stag...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p07m2h.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260723195500 +0000" stop="20260723200000 +0000">
 		<title>Newyddion S4C - Thu, 23 Jul 2026 20:55</title>
@@ -7617,22 +7687,22 @@
 		<desc>Dyw Naw ddim yn gallu stopio igian,Ond mae'r Blociau Rhif yn darganfod ffordd o'i wella...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724050500 +0000" stop="20260724051500 +0000">
+	<programme channel="s4c" start="20260724050500 +0000" stop="20260724052000 +0000">
 		<title>Sam Tân - Cyfres 10: Ynys y Deinosoriaid</title>
 		<desc>Mae'r Athro Pickles wedi trefnu "Diwrnod Arbennig ar Ynys y Deinosoriaid", ac mae Norma...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqtbdc.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724051500 +0000" stop="20260724052500 +0000">
+	<programme channel="s4c" start="20260724052000 +0000" stop="20260724052500 +0000">
 		<title>Blwi - Nos Da Ystlum Ffrwythau</title>
 		<desc>Dydi Blwi ddim eisiau cysgu, felly mae'n breuddwydio am fod yn ystlum ffrwythau sy'n ar...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0f3x2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724052500 +0000" stop="20260724054000 +0000">
+	<programme channel="s4c" start="20260724052500 +0000" stop="20260724053500 +0000">
 		<title>Octonots - Cyfres 3: Yr Octonots a'r Fflamingos</title>
 		<desc>Mae'r Octonots yn brwydro drwy gors i achub fflamingo bach cyn iddo gael ei ddal gan ys...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04sd1jl.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724054000 +0000" stop="20260724055500 +0000">
+	<programme channel="s4c" start="20260724053500 +0000" stop="20260724055500 +0000">
 		<title>Deian a Loli - Cyfres 3: a'r Deyrnas Ddidoli</title>
 		<desc>Mae'r cloc lawrm yn canu sy'n golygu bod hi'n amser rhoi gorau i chwarae gemau cyfrifia...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl74xm.jpg" />
@@ -7642,67 +7712,67 @@
 		<desc>Mae Og a'i ffrindiau'n teimlo'n gyffrous iawn wrth ddisgwyl i lindysen droi'n bili pala...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dxq0wm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724060500 +0000" stop="20260724062000 +0000">
+	<programme channel="s4c" start="20260724060500 +0000" stop="20260724061500 +0000">
 		<title>Joni Jet - Cyfres 1: Chwarae Cuddio</title>
 		<desc>Mae Moc Samson yn galw i chwarae gemau fideo, ond mae'n rhaid i'r Jetlu fynd i'r afael ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nbbhjm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724062000 +0000" stop="20260724063000 +0000">
+	<programme channel="s4c" start="20260724061500 +0000" stop="20260724062500 +0000">
 		<title>Misho - Cyfres 1: Mynd Nol i'r Ysgol</title>
 		<desc>Yn y bennod hon, rydym yn trafod nerfusrwydd sy'n gysylltiedig â dychwelyd i'r ysgol. I...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fg04fv.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724063000 +0000" stop="20260724064500 +0000">
+	<programme channel="s4c" start="20260724062500 +0000" stop="20260724063500 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Taro'r nodyn uchel</title>
 		<desc>Mae ymarfer canu Crawc mor drychinebus, mae'n gorfod ymarfer lan yn ei falwn aer poeth....</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724064500 +0000" stop="20260724070000 +0000">
+	<programme channel="s4c" start="20260724063500 +0000" stop="20260724070000 +0000">
 		<title>Parc Glan Gwil - Pennod 26</title>
 		<desc>Mae hi'n ddiwedd y tymor ac mae'r criw i gyd yn edrych ymlaen at gael mynd ar eu gwylia...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7d8v.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724070000 +0000" stop="20260724071000 +0000">
+	<programme channel="s4c" start="20260724070000 +0000" stop="20260724070500 +0000">
 		<title>Odo - Cyfres 1: Lleuad Gaws</title>
 		<desc>Ai caws yw'r lleuad? Gall Odo a Dwdl fynd I'r lleuad a dod nol a darn I bawb yn y Gwers...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfxwj.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724071000 +0000" stop="20260724072000 +0000">
+	<programme channel="s4c" start="20260724070500 +0000" stop="20260724072000 +0000">
 		<title>Sion y Chef - Cyfres 1: Hollol Bananas</title>
 		<desc>Mae Siôn ac Izzy'n gwarchod Bea ond maen nhw'n tynnu gwallt o'u pennau pan mae'n crïo'n...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf1dx8.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724072000 +0000" stop="20260724073000 +0000">
+	<programme channel="s4c" start="20260724072000 +0000" stop="20260724072500 +0000">
 		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 45</title>
 		<desc>Dewch ar antur gyda ni i gwrdd ag anifeiliaid bach y byd. Y tro hwn yr Hwyatbig a'r Lor...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724073000 +0000" stop="20260724074500 +0000">
+	<programme channel="s4c" start="20260724072500 +0000" stop="20260724074000 +0000">
 		<title>Pablo - Cyfres 1: Sbwriel Mam</title>
 		<desc>Ma gan Pablo ei ffordd ei hun o weld y byd: mae o'n hoff o gadw llwyau hufen ia plastig...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngg3fs.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724074500 +0000" stop="20260724075500 +0000">
+	<programme channel="s4c" start="20260724074000 +0000" stop="20260724075000 +0000">
 		<title>Oli Wyn - Cyfres 2: Tren Bach Yr Wyddfa</title>
 		<desc>Trên Bach yr Wyddfa yw un o atyniadau mwya' poblogaidd Cymru, ac mae Oli Wyn yn cael cy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07gdbh4.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724075500 +0000" stop="20260724081000 +0000">
+	<programme channel="s4c" start="20260724075000 +0000" stop="20260724080500 +0000">
 		<title>Guto Gwningen - Cyfres 1: Hanes y Ddwy Chwaer</title>
 		<desc>Er nad oedd o am i Fflopsi a Mopsi fynd efo fo ar un o'i anturiaethau, mae Guto'n darga...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02qpsf1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724081000 +0000" stop="20260724082000 +0000">
+	<programme channel="s4c" start="20260724080500 +0000" stop="20260724081500 +0000">
 		<title>Abadas - Cyfres 1: Coron</title>
 		<desc>Mae Ela wrth ei bodd yn chwarae 'tywysoges' ac rhywbeth mae twysogesau'n ei hoffi yw ga...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntd2c4.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724082000 +0000" stop="20260724083000 +0000">
+	<programme channel="s4c" start="20260724081500 +0000" stop="20260724082500 +0000">
 		<title>Ein Byd Bach Ni - Cyfres 1: Periw</title>
 		<desc>Heddiw: ymweliad â gwlad sy'n llawn coedwigoedd glaw trofannol a mynyddoedd hudol: Peri...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dz7f9t.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724083000 +0000" stop="20260724084000 +0000">
+	<programme channel="s4c" start="20260724082500 +0000" stop="20260724084000 +0000">
 		<title>Pentre Papur Pop - Cyfres 1: Brenhines Mai-Mai</title>
 		<desc>Ar yr antur popwych heddiw mae Mai-Mai yn frenhines am y diwrnod! A fedrith hi adfer ha...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngt7v4.jpg" />
@@ -7712,22 +7782,22 @@
 		<desc>Ysgol Login Fach sy'n ymuno â Pwdryn a Melys i chwarae llond trol o gemau lliwgar! Team...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzd8ck.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724090000 +0000" stop="20260724090500 +0000">
+	<programme channel="s4c" start="20260724090000 +0000" stop="20260724091000 +0000">
 		<title>Blociau Rhif - Cyfres 1: Blobyn Rhif</title>
 		<desc>Mae'r Blociau Rhif yn cael hwyl a sbri yn adeiladu'r rhifau wrth ganu a dawnsio gyda'i ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724090500 +0000" stop="20260724091500 +0000">
+	<programme channel="s4c" start="20260724091000 +0000" stop="20260724092000 +0000">
 		<title>Sam Tân - Cyfres 10: Arloeswyr Mewn Peryg</title>
 		<desc>Mae Arloeswyr Pontypandy yn trio ennill bathodynnau adeiladu raft. Ond mae charjyr diff...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqt9zn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724091500 +0000" stop="20260724092500 +0000">
+	<programme channel="s4c" start="20260724092000 +0000" stop="20260724093000 +0000">
 		<title>Blwi - Cysgodion</title>
 		<desc>Mae Coco yn chwarae cysgodion gyda Blwi a Snicyrs, ond mae hi'n trio newid y rheolau. B...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0f1xd.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724092500 +0000" stop="20260724094000 +0000">
+	<programme channel="s4c" start="20260724093000 +0000" stop="20260724094000 +0000">
 		<title>Octonots - Cyfres 3: a'r Malwod sy'n Syrffio</title>
 		<desc>Pan gaiff malwod sy'n syrffio eu hysgubo ymaith i'r môr, rhaid i Dela a'r Octonots eu h...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04q4dg6.jpg" />
@@ -7752,12 +7822,12 @@
 		<desc>Cyfres yn edrych ar pob math o sefyllfaoedd all godi pryder i blant bach. Today, Twm Ty...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f3hlz5.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724103000 +0000" stop="20260724104500 +0000">
+	<programme channel="s4c" start="20260724103000 +0000" stop="20260724104000 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Pigog yn helpu</title>
 		<desc>'Dyw Pigog ddim yn gwbod pa ffordd i droi wrth iddi hi geisio helpu ei ffrindiau i gyd ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724104500 +0000" stop="20260724110000 +0000">
+	<programme channel="s4c" start="20260724104000 +0000" stop="20260724110000 +0000">
 		<title>Parc Glan Gwil - Pennod 25</title>
 		<desc>Mae hi'n amser cystadleuaeth blodau Parc Glan Gwil, ond mae Syr Gwil yn gweld fod probl...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7d8v.jpg" />
@@ -7785,24 +7855,24 @@
 	<programme channel="s4c" start="20260724121500 +0000" stop="20260724155000 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Fri, 24 Jul 2026 13:15</title>
 		<desc>Cymal 19: Brwydr Alpaidd ffrwydrol a ffyrnig. 128km i orffen ar gopa'r chwedlonol Alpe ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p07nyk.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260724155000 +0000" stop="20260724160000 +0000">
 		<title>Og Y Draenog Hapus - Cyfres 1: Tyfu Lan</title>
 		<desc>Mae Og yn teimlo'n blentynnaidd pan mae ei ffrindiau yn darganfod ei fflwffyn sydd wedi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dwwc36.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724160000 +0000" stop="20260724161500 +0000">
+	<programme channel="s4c" start="20260724160000 +0000" stop="20260724161000 +0000">
 		<title>Byd Rwtsh Dai Potsh - Beic</title>
 		<desc>Mae Anna'n ymarfer ar gyfer prawf seiclo yr ysgol ac mae'n eithaf da. Nid yw Dai, ar y ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfkqg.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724161500 +0000" stop="20260724162500 +0000">
+	<programme channel="s4c" start="20260724161000 +0000" stop="20260724162000 +0000">
 		<title>Y Doniolis - Cyfres 1: Y Bwci Bo</title>
 		<desc>Y tro hwn, mae Luigi yn perswadio Louie i aros dros nos ym mhlas Cwm Doniol, sy'n llawn...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06qxgld.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260724162500 +0000" stop="20260724164500 +0000">
+	<programme channel="s4c" start="20260724162000 +0000" stop="20260724164500 +0000">
 		<title>Taclo'r Tywydd - Cyfres 1: Ysgol Treganna</title>
 		<desc>Gêm stiwdio ar gyfer plant 7 i 10 oed. Ysgol Treganna sy'n Taclo'r Tywydd yn y rhaglen ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nq9wxv.jpg" />
@@ -7845,7 +7915,7 @@
 	<programme channel="s4c" start="20260724213000 +0000" stop="20260724220000 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Fri, 24 Jul 2026 22:30</title>
 		<desc>Uchafbwyntiau Cymal 19 - Brwydr Alpaidd ffrwydrol a ffyrnig. 128km i orffen ar gopa'r c...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p07nyk.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260724220000 +0000" stop="20260724230500 +0000">
 		<title>Gwesty Aduniad - Cyfres 3: Pennod 13</title>
@@ -7857,22 +7927,22 @@
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260725050000 +0000" stop="20260725050500 +0000">
+	<programme channel="s4c" start="20260725050000 +0000" stop="20260725051000 +0000">
 		<title>Blociau Lliw - Cyfres 1: Coch a Melyn yn Cwrdd ag Oren</title>
 		<desc>Mae Coch a Melyn yn cwrdd ag Oren. Dysga beth sy'n digwydd pan ti'n cymysgu Coch a Mely...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cws4.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260725050500 +0000" stop="20260725051500 +0000">
+	<programme channel="s4c" start="20260725051000 +0000" stop="20260725051500 +0000">
 		<title>Anifeiliaid Bach y Byd - Cyfres 1: Pennod 44</title>
 		<desc>Yn y rhaglen hon cwn yw'r thema - y ci anwes a'r ci gwyllt Affricanaidd. In this progra...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08v5475.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260725051500 +0000" stop="20260725052500 +0000">
+	<programme channel="s4c" start="20260725051500 +0000" stop="20260725053000 +0000">
 		<title>Bendibwmbwls - Cyfres 1: Ysgol Garth Olwg</title>
 		<desc>Heddiw mae Ben Dant yn ymuno á disgyblion Ysgol Gynradd Gymraeg Garth Olwg i greu tryso...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h225zn.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260725052500 +0000" stop="20260725054000 +0000">
+	<programme channel="s4c" start="20260725053000 +0000" stop="20260725054000 +0000">
 		<title>Pentre Papur Pop - Cyfres 1: Gwibdaith Pip</title>
 		<desc>Ar yr antur popwych heddiw mae'r ffrindiau yn teithio ar y Pip Cyflym... trên sy'n teit...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngt7v4.jpg" />
@@ -7887,17 +7957,17 @@
 		<desc>Cyfres o straeon bach cyn cysgu. Heddiw, Elin Fflur sy'n darllen Cyw a'r Lliwiau Coll. ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhtz2l.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260725060500 +0000" stop="20260725061500 +0000">
+	<programme channel="s4c" start="20260725060500 +0000" stop="20260725062000 +0000">
 		<title>Twm Twrch - Cyfres 1: Tyrchod ar Olwynion</title>
 		<desc>Mae heddiw'n ddiwrnod Cystadleuaeth Sglefrio yng Nghwmtwrch ac mae pawb yn ymuno yn yr ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyxr8d.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260725061500 +0000" stop="20260725063000 +0000">
+	<programme channel="s4c" start="20260725062000 +0000" stop="20260725063500 +0000">
 		<title>Deian a Loli - Cyfres 3: a Lili'r Wyddfa</title>
 		<desc>Mae Deian a Loli yn mynd ar antur i ddod o hyd i flodyn prin hudolus sydd ond yn tyfu a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl74ps.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260725063000 +0000" stop="20260725064500 +0000">
+	<programme channel="s4c" start="20260725063500 +0000" stop="20260725064500 +0000">
 		<title>Pablo - Cyfres 1: Ffeithiau a Chamgymeriadau</title>
 		<desc>Mae gan Pablo ei ffordd ei hun o weld y byd, ac nid ydi o'n hoffi gwneud camgymeriadau....</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngg3fs.jpg" />
@@ -7922,12 +7992,12 @@
 		<desc>Ar ôl i Chwithig achub bywyd Cogydd, mae e'n roi'r cynnig iddo ddod i'w helpu yn y gegi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n45vws.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260725073000 +0000" stop="20260725075000 +0000">
+	<programme channel="s4c" start="20260725073000 +0000" stop="20260725075500 +0000">
 		<title>LEGO Dreamzzzz - Cyfres 2: Deffro Breuddwydwyr</title>
 		<desc>Tra bo Mateo'n chwilio am ei gloc tywod mae ei efaill drwg, MadTeo, yn sleifio i Gastel...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jn1vt2.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260725075000 +0000" stop="20260725081500 +0000">
+	<programme channel="s4c" start="20260725075500 +0000" stop="20260725081500 +0000">
 		<title>Prosiect Z - Cyfres 1: Ysgol y Preseli</title>
 		<desc>Mae'r Zeds wedi cyrraedd Ysgol y Preseli. A fydd y pum disgybl yn dianc neu'n cael eu t...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p076b8zz.jpg" />
@@ -7960,7 +8030,7 @@
 	<programme channel="s4c" start="20260725100000 +0000" stop="20260725151000 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Sat, 25 Jul 2026 11:00</title>
 		<desc>Cymal 20: Bydd y frwydr am y crys melyn yn cael ei benderfynu wedi diwrnod erchyll yn y...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p07ydt.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260725151000 +0000" stop="20260725154000 +0000">
 		<title>Cymry ar Gynfas - Cyfres 4: Aled Jones</title>
@@ -7995,7 +8065,7 @@
 	<programme channel="s4c" start="20260725213000 +0000" stop="20260725220000 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Sat, 25 Jul 2026 22:30</title>
 		<desc>Uchafbwyntiau Cymal 20 - Bydd y frwydr am y crys melyn yn cael ei benderfynu wedi diwrn...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p07xgz.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260725220000 +0000" stop="20260725222500 +0000">
 		<title>Carufanio</title>
@@ -8022,12 +8092,12 @@
 		<desc>Mae Megan yn mynd ar antur i weld o ble mae'r dwr sy'n cyrraedd y ty yn dod a sut mae'n...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nbbp7d.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260726052000 +0000" stop="20260726052500 +0000">
+	<programme channel="s4c" start="20260726052000 +0000" stop="20260726053000 +0000">
 		<title>Blwi - Barbeciw</title>
 		<desc>Mae'n amser cinio yng ngardd gefn Blwi. Ond, mae pob barbeciw angen salad. It's lunchti...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0f3nd.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260726052500 +0000" stop="20260726054000 +0000">
+	<programme channel="s4c" start="20260726053000 +0000" stop="20260726054000 +0000">
 		<title>Parc Glan Gwil - Pennod 26</title>
 		<desc>Mae hi'n ddiwedd y tymor ac mae'r criw i gyd yn edrych ymlaen at gael mynd ar eu gwylia...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7d8v.jpg" />
@@ -8130,7 +8200,7 @@
 	<programme channel="s4c" start="20260726142500 +0000" stop="20260726182000 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Sun, 26 Jul 2026 15:25</title>
 		<desc>Cymal 21: Gorymdaith y buddugwr i Baris. Cyfle olaf i'r gwibwyr ar y Champs-Élysées- ne...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p07yfd.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260726182000 +0000" stop="20260726183000 +0000">
 		<title>Newyddion S4C - Sun, 26 Jul 2026 19:20</title>
@@ -8155,7 +8225,7 @@
 	<programme channel="s4c" start="20260726231500 +0000" stop="20260726235000 +0000">
 		<title>Seiclo: Le Tour de France - Cyfres 2026: Mon, 27 Jul 2026 00:15</title>
 		<desc>Uchafbwyntiau Cymal 21 - Gorymdaith y buddugwr i Baris. Stage 21 highlights - The proce...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvxmdt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p07xjg.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260726235000 +0000" stop="20260727050000 +0000">
 		<title>Watch Live</title>
