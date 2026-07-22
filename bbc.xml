@@ -1874,10 +1874,15 @@
 		<desc>Programmes start at 7.00pm.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20260724180000 +0000" stop="20260724200000 +0000">
+	<programme channel="bbcfour" start="20260724180000 +0000" stop="20260724195500 +0000">
 		<title>BBC Proms - 2026: Prog Rock at the Proms</title>
 		<desc>Genesis to Tubular Bells, expect classic tracks on an orchestral scale.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p01r56.jpg" />
+	</programme>
+	<programme channel="bbcfour" start="20260724195500 +0000" stop="20260724200000 +0000">
+		<title>BBC Proms - 2026: Wonderwall at the Proms</title>
+		<desc>Is this the best ever cover version of Oasis' surprise football anthem of the summer?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzfm08.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260724200000 +0000" stop="20260724203000 +0000">
 		<title>Top of the Pops - 18/02/2000</title>
@@ -4080,7 +4085,7 @@
 	<programme channel="cbeebies" start="20260723175000 +0000" stop="20260723175800 +0000">
 		<title>CBeebies Bedtime Stories - New and Trending: 23/07/2026</title>
 		<desc>A different story read each night just before bedtime. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p06hsd.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260723175800 +0000" stop="20260724043000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -6741,20 +6746,25 @@
 		<desc>Joint session on the government's child poverty strategy, from Tuesday 14 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p05qbn.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260722090000 +0000" stop="20260722110000 +0000">
+	<programme channel="bbcparliament" start="20260722090000 +0000" stop="20260722102000 +0000">
 		<title>Select Committees - Lords Financial Services Regulation Committee on the Insurance Industry</title>
 		<desc>The Lords Financial Services Regulation committee on the consumer insurance market.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260722110000 +0000" stop="20260722125500 +0000">
+	<programme channel="bbcparliament" start="20260722102000 +0000" stop="20260722121500 +0000">
 		<title>Select Committees - Northern Ireland Affairs Committee on the Finances of the NI Executive</title>
 		<desc>Northern Ireland Affairs committee on the finances of the Northern Ireland Executive.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260722125500 +0000" stop="20260722140000 +0000">
+	<programme channel="bbcparliament" start="20260722121500 +0000" stop="20260722131500 +0000">
 		<title>House of Lords - Conduct of Undercover Policing Bill</title>
 		<desc>Debate on the Conduct of Undercover Policing and Surveillance Operatives Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260722131500 +0000" stop="20260722140000 +0000">
+		<title>Lords Questions - 21/07/2026</title>
+		<desc>Questions in the House of Lords to government ministers on Tuesday 21 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p01k4f.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260722140000 +0000" stop="20260722144500 +0000">
 		<title>Lords Questions - 22/07/2026</title>
