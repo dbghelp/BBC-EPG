@@ -540,7 +540,7 @@
 	<programme channel="bbcone" start="20260726180000 +0000" stop="20260726190000 +0000">
 		<title>Countryfile - Anita’s East Coast Road Trip: Orford Ness</title>
 		<desc>The final stop on Anita’s east coast road trip is the mysterious Orford Ness in Suffolk.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkr8b4.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0f499.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260726190000 +0000" stop="20260726200000 +0000">
 		<title>Antiques Roadshow - Series 45: Sefton Park Palm House 1</title>
@@ -1250,7 +1250,7 @@
 	<programme channel="bbctwo" start="20260727144500 +0000" stop="20260727151500 +0000">
 		<title>The Farmers' Country Showdown - Series 6 (Shortened Versions): 9. Edenbridge &amp; Oxted Agricultural Show</title>
 		<desc>Farmers compete with their pigs and pedigree sheep at Edenbridge &amp; Oxted Agricultural Show</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0cnw9st.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bfz6zm.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260727151500 +0000" stop="20260727161500 +0000">
 		<title>Earth from Space - Series 1: 1. A New Perspective</title>
@@ -1280,17 +1280,17 @@
 	<programme channel="bbctwo" start="20260727183000 +0000" stop="20260727190000 +0000">
 		<title>Mastermind - 2026/27: Episode 3</title>
 		<desc>Subjects include Madness and the films of Wes Anderson.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09s4pc5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0ffbm.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260727190000 +0000" stop="20260727193000 +0000">
 		<title>Only Connect - Series 22: 3. Sinistrals v Merseyside Eyes</title>
 		<desc>It's Scotland versus Southport, with the teams clashing over fiendish questions.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nx5ll9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0ffzp.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260727193000 +0000" stop="20260727200000 +0000">
 		<title>University Challenge - Series 33: 3. University College, Oxford v St John’s College, Cambridge</title>
 		<desc>In another first-round game, University College, Oxford play St John’s College, Cambridge.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ny3fgy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0fj4q.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260727200000 +0000" stop="20260727210000 +0000">
 		<title>Evolution - Series 1: 3. The Bat</title>
@@ -2016,7 +2016,7 @@
 	<programme channel="bbcfour" start="20260726231500 +0000" stop="20260726234500 +0000">
 		<title>The Levin Interviews - John Osborne</title>
 		<desc>Bernard Levin talks to John Osborne, best known for his 1956 play Look Back in Anger.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzzklt.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0dv4m.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260726234500 +0000" stop="20260727004500 +0000">
 		<title>Searching for Sam: Adrian Dunbar on Samuel Beckett</title>
@@ -3731,8 +3731,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07tcxwd.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260723175000 +0000" stop="20260723175800 +0000">
-		<title>CBeebies Bedtime Stories - New and Trending: 23/07/2026</title>
-		<desc>A different story read each night just before bedtime. </desc>
+		<title>CBeebies Bedtime Stories - New and Trending: Eilish McColgan - Mabel and the Mountain</title>
+		<desc>Eilish McColgan reads an inspiring CBeebies Bedtime Story about a determined fly’s quest</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p06hsd.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260723175800 +0000" stop="20260724043000 +0000">
@@ -4120,7 +4120,7 @@
 	<programme channel="cbeebies" start="20260724175000 +0000" stop="20260724175800 +0000">
 		<title>CBeebies Bedtime Stories - New and Trending: Tom Holland - Superworm</title>
 		<desc>Tom Holland tells the classic tale of Superworm.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jpgfcr.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0f772.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260724175800 +0000" stop="20260725043000 +0000">
 		<title>This Is CBeebies - This Is CBeebies</title>
@@ -6804,30 +6804,65 @@
 		<desc>Questions in the House of Lords to government ministers on Thursday 23 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260723104500 +0000" stop="20260723180000 +0000">
-		<title>House of Lords - 23/07/2026</title>
-		<desc>Coverage of proceedings in the House of Lords on Thursday 23 July.</desc>
+	<programme channel="bbcparliament" start="20260723104500 +0000" stop="20260723110000 +0000">
+		<title>House of Lords - Early Release Scheme Question</title>
+		<desc>A private notice question on the prisoner early release scheme, on Thursday 23 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260723180000 +0000" stop="20260723184500 +0000">
+	<programme channel="bbcparliament" start="20260723110000 +0000" stop="20260723133000 +0000">
+		<title>House of Lords - Technology and Sovereignty Debate</title>
+		<desc>The debate on the impact of digital and technology policy on national sovereignty.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260723133000 +0000" stop="20260723143000 +0000">
+		<title>House of Lords - Gambling Harms Debate</title>
+		<desc>Coverage of the debate on reducing gambling harm on young people, on Thursday 23 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260723143000 +0000" stop="20260723170000 +0000">
+		<title>House of Lords - Creative Industries Qualifications Debate</title>
+		<desc>The debate on the role of current level 3 qualifications for the creative industries.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260723170000 +0000" stop="20260723174500 +0000">
 		<title>Lords Questions - 23/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 23 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260723184500 +0000" stop="20260724020000 +0000">
-		<title>House of Lords - 23/07/2026</title>
-		<desc>Business in the House of Lords on Thursday 23 July.</desc>
+	<programme channel="bbcparliament" start="20260723174500 +0000" stop="20260723180000 +0000">
+		<title>House of Lords - Early Release Scheme Question</title>
+		<desc>A private notice question on the prisoner early release scheme, on Thursday 23 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260724020000 +0000" stop="20260724024500 +0000">
+	<programme channel="bbcparliament" start="20260723180000 +0000" stop="20260723203000 +0000">
+		<title>House of Lords - Technology and Sovereignty Debate</title>
+		<desc>The debate on the impact of digital and technology policy on national sovereignty.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260723203000 +0000" stop="20260723213000 +0000">
+		<title>House of Lords - Gambling Harms Debate</title>
+		<desc>Coverage of the debate on reducing gambling harm on young people, on Thursday 23 July.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260723213000 +0000" stop="20260724000000 +0000">
+		<title>House of Lords - Creative Industries Qualifications Debate</title>
+		<desc>The debate on the role of current level 3 qualifications for the creative industries.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260724000000 +0000" stop="20260724004500 +0000">
 		<title>Lords Questions - 23/07/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 23 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260724024500 +0000" stop="20260724050000 +0000">
-		<title>House of Lords - 23/07/2026</title>
-		<desc>Highlights of proceedings in the House of Lords on Thursday 23 July.</desc>
+	<programme channel="bbcparliament" start="20260724004500 +0000" stop="20260724010000 +0000">
+		<title>House of Lords - Early Release Scheme Question</title>
+		<desc>A private notice question on the prisoner early release scheme, on Thursday 23 July.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260724010000 +0000" stop="20260724050000 +0000">
+		<title>Select Committees - 23/07/2026</title>
+		<desc>Recorded coverage of select committee proceedings.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260724050000 +0000" stop="20260724110000 +0000">
 		<title>Select Committees - 24/07/2026</title>
