@@ -900,7 +900,7 @@
 	<programme channel="bbctwo" start="20260725075500 +0000" stop="20260725085500 +0000">
 		<title>Gardeners' World - 2026: Episode 19</title>
 		<desc>Gardeners' World takes a look around the first ever RHS Sandringham Flower Show.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n66dyk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0mmkq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260725085500 +0000" stop="20260725092500 +0000">
 		<title>This Wild Life - 4. Baby Elephant Rescue</title>
@@ -5745,10 +5745,15 @@
 		<desc>A regular panel of guests discuss the biggest international stories of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260724203000 +0000" stop="20260724210000 +0000">
+	<programme channel="bbcnews" start="20260724203000 +0000" stop="20260724205500 +0000">
 		<title>The Context - 24/07/2026</title>
 		<desc>A regular panel of guests discuss the biggest international stories of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
+	</programme>
+	<programme channel="bbcnews" start="20260724205500 +0000" stop="20260724210000 +0000">
+		<title>The Travel Show - 24/07/2026</title>
+		<desc>Join the team on their journey of discovery as they explore the globe.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260724210000 +0000" stop="20260724213000 +0000">
 		<title>BBC News at Ten - 24/07/2026</title>
@@ -5766,8 +5771,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gq408g.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260724223000 +0000" stop="20260724224500 +0000">
-		<title>The President's Path - 24/07/2026</title>
-		<desc>A weekly discussion on the US presidency.</desc>
+		<title>The President's Path - Is the US-Saudi nuclear deal dead on arrival?</title>
+		<desc>President Trump has added a new condition to the civil nuclear deal with Saudi Arabia.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260724224500 +0000" stop="20260724230000 +0000">
@@ -5793,7 +5798,7 @@
 	<programme channel="bbcnews" start="20260725003000 +0000" stop="20260725010000 +0000">
 		<title>Tech Now - 25/07/2026</title>
 		<desc>Highlights from the Esports World Cup in Paris and how to build a gaming PC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0n73w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260725010000 +0000" stop="20260725013000 +0000">
 		<title>BBC News - 25/07/2026</title>
@@ -6056,8 +6061,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260726103000 +0000" stop="20260726104500 +0000">
-		<title>The President's Path - 24/07/2026</title>
-		<desc>A weekly discussion on the US presidency.</desc>
+		<title>The President's Path - Is the US-Saudi nuclear deal dead on arrival?</title>
+		<desc>President Trump has added a new condition to the civil nuclear deal with Saudi Arabia.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kl4r55.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260726104500 +0000" stop="20260726110000 +0000">
@@ -6093,7 +6098,7 @@
 	<programme channel="bbcnews" start="20260726133000 +0000" stop="20260726140000 +0000">
 		<title>Tech Now - 25/07/2026</title>
 		<desc>Highlights from the Esports World Cup in Paris and how to build a gaming PC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0n73w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260726140000 +0000" stop="20260726143000 +0000">
 		<title>BBC News - 26/07/2026</title>
@@ -6708,7 +6713,7 @@
 	<programme channel="bbcnews" start="20260729003000 +0000" stop="20260729010000 +0000">
 		<title>Tech Now - 25/07/2026</title>
 		<desc>Highlights from the Esports World Cup in Paris and how to build a gaming PC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kxxp17.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0n73w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260729010000 +0000" stop="20260729013000 +0000">
 		<title>Newsday - 29/07/2026</title>
@@ -7336,7 +7341,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzv013.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260724193000 +0000" stop="20260724213000 +0000">
-		<title>Gemau'r Gymanwlad 2026 - Diwrnod 1 / Day 1</title>
+		<title>Gemau'r Gymanwlad 2026 - Gemau'r Gymanwlad: Glasgow 2026</title>
 		<desc>Ymunwch â Lauren Jenkins ar gyfer noson agoriadol y cystadlu yng Ngemau'r Gymanwlad yn ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzzdnz.jpg" />
 	</programme>
@@ -7486,7 +7491,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyhl95.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260725190000 +0000" stop="20260725213000 +0000">
-		<title>Gemau'r Gymanwlad 2026 - Diwrnod 2 / Day 2</title>
+		<title>Gemau'r Gymanwlad 2026 - Gemau'r Gymanwlad: Glasgow 2026</title>
 		<desc>Ymunwch â Lauren Salter a'r tîm yng Ngemau'r Gymanwlad yn Glasgow. Join Lauren Salter a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzzdnz.jpg" />
 	</programme>
@@ -7641,7 +7646,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyq9dg.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260726193000 +0000" stop="20260726213000 +0000">
-		<title>Gemau'r Gymanwlad 2026 - Diwrnod 3 / Day 3</title>
+		<title>Gemau'r Gymanwlad 2026 - Gemau'r Gymanwlad: Glasgow 2026</title>
 		<desc>Noson fawr arall i Ruby Evans wrth iddi gystadlu yn y cystadleuthau gymnasteg unigol. L...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzzdnz.jpg" />
 	</programme>
@@ -7921,7 +7926,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0crylg1.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260727190000 +0000" stop="20260727213000 +0000">
-		<title>Gemau'r Gymanwlad 2026 - Diwrnod 4 / Day 4</title>
+		<title>Gemau'r Gymanwlad 2026 - Gemau'r Gymanwlad: Glasgow 2026</title>
 		<desc>Heno yw noson gynta'r athletau yn Scotstoun a bydd llygaid Cymru ar Olivia Breen yn y 1...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzzdnz.jpg" />
 	</programme>
