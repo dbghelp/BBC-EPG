@@ -157,22 +157,27 @@
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260729214000 +0000" stop="20260729231500 +0000">
+	<programme channel="bbcone" start="20260729214000 +0000" stop="20260729224000 +0000">
+		<title>Jared Leto: Hollywood's Dark Secret</title>
+		<desc>Multiple women accuse Oscar-winning Hollywood actor Jared Leto of sexual misconduct.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p17qpv.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260729224000 +0000" stop="20260730001500 +0000">
 		<title>Eye in the Sky</title>
 		<desc>A drone strike against Al-Shabaab militants is complicated when a child enters the zone.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0ndgy.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260729231500 +0000" stop="20260730000000 +0000">
+	<programme channel="bbcone" start="20260730001500 +0000" stop="20260730010000 +0000">
 		<title>The Hit List - Series 9: Episode 1</title>
 		<desc>La Voix and Jenny Ryan are two of the celebrities competing in the quickfire music quiz.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nztv5d.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260730000000 +0000" stop="20260730000500 +0000">
+	<programme channel="bbcone" start="20260730010000 +0000" stop="20260730010500 +0000">
 		<title>Weather for the Week Ahead - 30/07/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260730000500 +0000" stop="20260730050000 +0000">
+	<programme channel="bbcone" start="20260730010500 +0000" stop="20260730050000 +0000">
 		<title>Joins BBC News - 30/07/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -944,7 +949,7 @@
 	<programme channel="bbctwo" start="20260730220500 +0000" stop="20260730230500 +0000">
 		<title>Golf: Women's Open - 2026: Day 1</title>
 		<desc>Highlights of the opening day of the Women’s Open from Royal Lytham &amp; St Annes.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0gm3y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p1fcyc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260730230500 +0000" stop="20260731003500 +0000">
 		<title>The Blackening</title>
@@ -1079,7 +1084,7 @@
 	<programme channel="bbctwo" start="20260731234000 +0000" stop="20260801004000 +0000">
 		<title>Golf: Women's Open - 2026: Day 2</title>
 		<desc>Highlights from the second day of the Women's Open at Royal Lytham &amp; St Annes.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0gm3y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p1fcyc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260801004000 +0000" stop="20260801013000 +0000">
 		<title>Amityville: An Origin Story - Series 1: 1. The Haunting</title>
@@ -1215,7 +1220,7 @@
 	<programme channel="bbctwo" start="20260801232500 +0000" stop="20260802002500 +0000">
 		<title>Golf: Women's Open - 2026: Day 3</title>
 		<desc>Highlights from the third day of the Women's Open at Royal Lytham &amp; St Annes.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0gm3y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p1fcyc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260802002500 +0000" stop="20260802012500 +0000">
 		<title>Who Do You Think You Are? - Series 23: Adeel Akhtar</title>
@@ -1300,7 +1305,7 @@
 	<programme channel="bbctwo" start="20260802225500 +0000" stop="20260802235500 +0000">
 		<title>Golf: Women's Open - 2026: Day 4</title>
 		<desc>Highlights from the final day of the Women’s Open at Royal Lytham &amp; St Annes.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0gm3y.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p1fcyc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260802235500 +0000" stop="20260803002500 +0000">
 		<title>Ann Droid - Series 1: Episode 3</title>
@@ -1329,7 +1334,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260729180000 +0000" stop="20260729180500 +0000">
 		<title>The Catch Up - 29/07/2026</title>
-		<desc>A round-up of the day's news.</desc>
+		<desc>A round-up of the day's news with Gloria Coles.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m3sddg.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260729180500 +0000" stop="20260729183000 +0000">
@@ -1347,25 +1352,25 @@
 		<desc>Jeremy is out on the track comparing the Jaguar XKR-S to the recently updated Nissan GT-R.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09fzxxj.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260729200000 +0000" stop="20260729213000 +0000">
+	<programme channel="bbcthree" start="20260729200000 +0000" stop="20260729210000 +0000">
+		<title>Jared Leto: Hollywood's Dark Secret</title>
+		<desc>Multiple women accuse Oscar-winning Hollywood actor Jared Leto of sexual misconduct.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p17qpv.jpg" />
+	</programme>
+	<programme channel="bbcthree" start="20260729210000 +0000" stop="20260729223000 +0000">
 		<title>I Am Legend</title>
 		<desc>A lone survivor battles mutants while seeking a cure for a viral apocalypse.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nvqbrw.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260729213000 +0000" stop="20260729231000 +0000">
+	<programme channel="bbcthree" start="20260729223000 +0000" stop="20260730001000 +0000">
 		<title>Kidnapped by My Mum</title>
 		<desc>At 11 years old, Alex thought he was going on holiday. Instead, he vanished for six years.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhrylf.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260729231000 +0000" stop="20260730001000 +0000">
+	<programme channel="bbcthree" start="20260730001000 +0000" stop="20260730011000 +0000">
 		<title>Stacey Dooley - Ready for War?</title>
 		<desc>Stacey joins the British army transforming Ukrainian civilians into frontline fighters.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ff7rh7.jpg" />
-	</programme>
-	<programme channel="bbcthree" start="20260730001000 +0000" stop="20260730011000 +0000">
-		<title>Roman Kemp: The Fight for Young Lives</title>
-		<desc>Roman Kemp strives to improve support for young people suffering with their mental health.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gnzhj9.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260730011000 +0000" stop="20260730024500 +0000">
 		<title>Kidnapped by My Mum</title>
@@ -2070,7 +2075,7 @@
 	<programme channel="bbcfour" start="20260802224500 +0000" stop="20260802231500 +0000">
 		<title>Ex-S - 7:84 - Keep Right On?</title>
 		<desc>Robert Dawson Scott presents an in-depth look at the fortunes of the 7:84 Theatre Company.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p05nmw8r.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p1f6t2.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260802231500 +0000" stop="20260803001500 +0000">
 		<title>Munro: Mountain Man</title>
@@ -2878,9 +2883,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k30nft.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260731170000 +0000" stop="20260731173000 +0000">
-		<title>So Awkward - Still So Awkward: 7. Hot Sauce</title>
-		<desc>Someone is about to end up in hot sauce: Josh, Lily, Seb, Jeff or maybe all four!</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09q7c9z.jpg" />
+		<title>My Life - We Fight Fires</title>
+		<desc>Documentary series following the highs and lows of children across the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mvtcqc.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260731173000 +0000" stop="20260731175800 +0000">
 		<title>Malory Towers - Series 6: 6. The Nurse</title>
@@ -5638,17 +5643,12 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260729090000 +0000" stop="20260729093000 +0000">
+	<programme channel="bbcnews" start="20260729090000 +0000" stop="20260729101500 +0000">
 		<title>BBC News - 29/07/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260729093000 +0000" stop="20260729100000 +0000">
-		<title>BBC News - 29/07/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260729100000 +0000" stop="20260729103000 +0000">
+	<programme channel="bbcnews" start="20260729101500 +0000" stop="20260729103000 +0000">
 		<title>BBC News - 29/07/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
@@ -6315,7 +6315,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260731233000 +0000" stop="20260801000000 +0000">
 		<title>Talking Business - 31/07/2026</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Examining the cost of adaptation to a warming climate after wild fires.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260801000000 +0000" stop="20260801003000 +0000">
@@ -6395,7 +6395,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260801103000 +0000" stop="20260801110000 +0000">
 		<title>Talking Business - 31/07/2026</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Examining the cost of adaptation to a warming climate after wild fires.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260801110000 +0000" stop="20260801113000 +0000">
@@ -6500,7 +6500,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260801223000 +0000" stop="20260801230000 +0000">
 		<title>Talking Business - 31/07/2026</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Examining the cost of adaptation to a warming climate after wild fires.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260801230000 +0000" stop="20260801233000 +0000">
@@ -6969,7 +6969,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nxqb4j.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260731210000 +0000" stop="20260731230000 +0000">
-		<title>Belladrum - 2026 : Episode 1</title>
+		<title>Belladrum - 2026: Episode 1</title>
 		<desc>Latha a h-aon aig Belladrum. Day one at Belladrum 2026.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltdmns.jpg" />
 	</programme>
@@ -7015,7 +7015,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nxqb4j.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260801210000 +0000" stop="20260801230000 +0000">
-		<title>Belladrum - 2026 : Episode 2</title>
+		<title>Belladrum - 2026: Episode 2</title>
 		<desc>An dàrna latha de Belladrum 2026. The second day of Belladrum.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ltdmns.jpg" />
 	</programme>
@@ -7896,7 +7896,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260731173000 +0000" stop="20260731183000 +0000">
-		<title>Eisteddfod Genedlaethol Cymru - Cyfres 2026: Croeso i'r Eisteddfod</title>
+		<title>Eisteddfod Genedlaethol Cymru - Eisteddfod y Garreg Las: Croeso i'r Eisteddfod</title>
 		<desc>Rhai o wynebau cyfarwydd ardal y Garreg Las fydd yn edrych ymlaen at yr Eisteddfod Gene...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0djw0.jpg" />
 	</programme>
