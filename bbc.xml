@@ -2067,42 +2067,42 @@
 		<desc>Andrew Graham-Dixon travels from Cordoba to Granada looking at Moorish art.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01glnn5.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20260803200000 +0000" stop="20260803202000 +0000">
+	<programme channel="bbcfour" start="20260803200000 +0000" stop="20260803201500 +0000">
 		<title>Remembers... - Sally Magnusson Remembers... Mastermind</title>
 		<desc>Sally Magnusson shares memories of her father Magnus's time as the host of Mastermind.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0qgdm.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20260803202000 +0000" stop="20260803205000 +0000">
+	<programme channel="bbcfour" start="20260803201500 +0000" stop="20260803204500 +0000">
 		<title>Mastermind - 1972: The Final</title>
 		<desc>Magnus Magnusson presents the 1972 final of the classic quiz.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p1hp99.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20260803205000 +0000" stop="20260803212000 +0000">
+	<programme channel="bbcfour" start="20260803204500 +0000" stop="20260803211500 +0000">
 		<title>Call My Bluff - 09/11/1984</title>
 		<desc>With Sally Magnusson, Peter Egan, Anna Massey and Godfrey Smith.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p1hr8z.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20260803212000 +0000" stop="20260803222000 +0000">
+	<programme channel="bbcfour" start="20260803211500 +0000" stop="20260803221500 +0000">
 		<title>Becoming Frida Kahlo - Series 1: 3. A Star Is Born</title>
 		<desc>Dangerous politics and turbulent love shock Frida's world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f6cwb7.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20260803222000 +0000" stop="20260803232000 +0000">
+	<programme channel="bbcfour" start="20260803221500 +0000" stop="20260803231500 +0000">
 		<title>Turner: The Man Who Painted Britain</title>
 		<desc>Docudrama that reveals the private man behind the public figure of artist JMW Turner.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bkd0wx.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20260803232000 +0000" stop="20260804002000 +0000">
+	<programme channel="bbcfour" start="20260803231500 +0000" stop="20260804001500 +0000">
 		<title>Atlantic: The Wildest Ocean on Earth - 3. From Heaven to Hell</title>
 		<desc>Extreme heat in Africa unleashes terrifying hurricanes, causing chaos.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02wntyc.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20260804002000 +0000" stop="20260804012000 +0000">
+	<programme channel="bbcfour" start="20260804001500 +0000" stop="20260804011500 +0000">
 		<title>Becoming Frida Kahlo - Series 1: 3. A Star Is Born</title>
 		<desc>Dangerous politics and turbulent love shock Frida's world.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f6cwb7.jpg" />
 	</programme>
-	<programme channel="bbcfour" start="20260804012000 +0000" stop="20260804021500 +0000">
+	<programme channel="bbcfour" start="20260804011500 +0000" stop="20260804021500 +0000">
 		<title>Art of Spain - 1. The Moorish South</title>
 		<desc>Andrew Graham-Dixon travels from Cordoba to Granada looking at Moorish art.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01glnn5.jpg" />
@@ -4698,7 +4698,7 @@
 	</programme>
 	<programme channel="cbeebies" start="20260802101000 +0000" stop="20260802102000 +0000">
 		<title>Knee High Spies - Series 1: 8. Mission: Pink Prank</title>
-		<desc>Silver Paw plans to turn Scarlett's kit pink – Jeremy must conquer his fear of heights!</desc>
+		<desc>Silver Paw plans to turn Scarlett's kit pink, and Jeremy must conquer his fear of heights!</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntmsck.jpg" />
 	</programme>
 	<programme channel="cbeebies" start="20260802102000 +0000" stop="20260802102500 +0000">
@@ -5736,12 +5736,7 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260730153000 +0000" stop="20260730154500 +0000">
-		<title>Business Today - 30/07/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260730154500 +0000" stop="20260730160000 +0000">
+	<programme channel="bbcnews" start="20260730153000 +0000" stop="20260730160000 +0000">
 		<title>Verified Live - 30/07/2026</title>
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
@@ -6192,8 +6187,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260801133000 +0000" stop="20260801140000 +0000">
-		<title>AI Decoded - 01/08/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - AI in the Workplace: Is It Paying Off?</title>
+		<desc>AI Decoded asks whether the AI revolution is delivering on its promises.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260801140000 +0000" stop="20260801143000 +0000">
@@ -6307,8 +6302,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260802023000 +0000" stop="20260802030000 +0000">
-		<title>AI Decoded - 01/08/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - AI in the Workplace: Is It Paying Off?</title>
+		<desc>AI Decoded asks whether the AI revolution is delivering on its promises.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260802030000 +0000" stop="20260802033000 +0000">
