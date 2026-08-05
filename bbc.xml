@@ -657,7 +657,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260809180000 +0000" stop="20260809190000 +0000">
 		<title>Countryfile - Adam’s Young Farmers: West Sussex</title>
-		<desc>Adam Henson is in West Sussex with 26-year-old soft-fruit grower Archie Evans.</desc>
+		<desc>Adam Henson is in West Sussex with 26-year-old soft fruit grower Archie Evans.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nkr8b4.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260809190000 +0000" stop="20260809200000 +0000">
@@ -749,12 +749,12 @@
 	<programme channel="bbctwo" start="20260805134500 +0000" stop="20260805170000 +0000">
 		<title>Cricket: The Hundred - 2026 - Women's: Trent Rockets v Birmingham Phoenix</title>
 		<desc>Coverage of The Hundred 100-ball cricket tournament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0nmpp.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2rpxm.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260805170000 +0000" stop="20260805203000 +0000">
 		<title>Cricket: The Hundred - 2026 - Men's: Trent Rockets v Birmingham Phoenix</title>
 		<desc>Coverage of The Hundred 100-ball cricket tournament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0nmpp.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2rphs.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260805203000 +0000" stop="20260805210000 +0000">
 		<title>Live at the Apollo - Series 18 (Shortened Versions): Episode 2</title>
@@ -1220,12 +1220,12 @@
 	</programme>
 	<programme channel="bbctwo" start="20260809131500 +0000" stop="20260809170000 +0000">
 		<title>Cricket: The Hundred - 2026 - Women's: London Spirit v Birmingham Phoenix</title>
-		<desc>Coverage of The Hundred 100-ball cricket tournament.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p0dsxy.jpg" />
+		<desc>Coverage of The Hundred 100-ball cricket tournament in the women's game.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2rnvv.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260809170000 +0000" stop="20260809203000 +0000">
 		<title>Cricket: The Hundred - 2026 - Men's: London Spirit v Birmingham Phoenix</title>
-		<desc>Coverage of The Hundred 100-ball cricket tournament.</desc>
+		<desc>Coverage of The Hundred 100-ball cricket tournament in the men's game.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2rn68.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260809203000 +0000" stop="20260809210000 +0000">
@@ -1680,10 +1680,15 @@
 		<desc>Can Geordie Kelsie ditch the cartwheels and social media long enough to get a second date?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07vkpmy.jpg" />
 	</programme>
-	<programme channel="bbcthree" start="20260809022000 +0000" stop="20260809025000 +0000">
+	<programme channel="bbcthree" start="20260809022000 +0000" stop="20260809024500 +0000">
 		<title>My Mate's a Bad Date - Series 1: 2. Khalil</title>
 		<desc>Will 21-year-old Khalil ever remember his date's name, or will she always be 'baby girl'?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07vkq0m.jpg" />
+	</programme>
+	<programme channel="bbcthree" start="20260809024500 +0000" stop="20260809025000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260809025000 +0000" stop="20260809043000 +0000">
 		<title>This is BBC Three - This is BBC Three</title>
