@@ -129,7 +129,7 @@
 	<programme channel="bbcone" start="20260812190000 +0000" stop="20260812210000 +0000">
 		<title>European Athletics Championships  - 2026: Day 3: Men’s 400m Final, Women’s 400m Hurdles Final</title>
 		<desc>Local boy Matt Hudson-Smith aims to make history in the men’s 400m in Birmingham.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2rsbv.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p40txx.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260812210000 +0000" stop="20260812213000 +0000">
 		<title>BBC News at Ten - 12/08/2026</title>
@@ -185,7 +185,7 @@
 	<programme channel="bbcone" start="20260813093000 +0000" stop="20260813121500 +0000">
 		<title>European Athletics Championships  - 2026: Day 4: Women's 800m Semi-Finals, Men's 200m Heats</title>
 		<desc>Keely Hodgkinson is back on the track as the 800m reaches the semi-finals stage.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2rsbv.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p40w2q.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260813121500 +0000" stop="20260813124000 +0000">
 		<title>BBC News at One - 13/08/2026</title>
@@ -303,7 +303,7 @@
 	<programme channel="bbcone" start="20260814093000 +0000" stop="20260814121500 +0000">
 		<title>European Athletics Championships  - 2026: Day 5: Featuring Women's Heptathlon</title>
 		<desc>The women’s heptathlon kick-starts the morning session on day 5 in Birmingham.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2rsbv.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p413tx.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260814121500 +0000" stop="20260814124000 +0000">
 		<title>BBC News at One - 14/08/2026</title>
@@ -829,7 +829,7 @@
 	<programme channel="bbctwo" start="20260813180000 +0000" stop="20260813190000 +0000">
 		<title>European Athletics Championships  - 2026: Day 4: Women's Triple Jump and Pole Vault Finals</title>
 		<desc>The women’s triple jump and women’s pole vault finals kick off the evening session.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2rsbv.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p40wnb.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260813190000 +0000" stop="20260813200000 +0000">
 		<title>The Big Deal with Steph McGovern - Series 1: Episode 1</title>
@@ -964,7 +964,7 @@
 	<programme channel="bbctwo" start="20260814180000 +0000" stop="20260814190000 +0000">
 		<title>European Athletics Championships  - 2026: Day 5: Women's 10,000m Final</title>
 		<desc>The women’s 10,000m in Birmingham features Megan Keith, who won bronze two years ago.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2rsbv.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p414kk.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260814190000 +0000" stop="20260814200000 +0000">
 		<title>Gardeners' World - 2026: Episode 22</title>
@@ -5565,25 +5565,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260812103000 +0000" stop="20260812104500 +0000">
-		<title>Business Today - 12/08/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260812104500 +0000" stop="20260812110000 +0000">
+	<programme channel="bbcnews" start="20260812103000 +0000" stop="20260812120000 +0000">
 		<title>BBC News - 12/08/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260812110000 +0000" stop="20260812113000 +0000">
-		<title>BBC News Now - 12/08/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260812113000 +0000" stop="20260812120000 +0000">
-		<title>BBC News Now - 12/08/2026</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fnmx95.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260812120000 +0000" stop="20260812123000 +0000">
 		<title>BBC News Now - 12/08/2026</title>
@@ -5628,22 +5613,22 @@
 	<programme channel="bbcnews" start="20260812154500 +0000" stop="20260812160000 +0000">
 		<title>BBC News - Solar Eclipse Live</title>
 		<desc>Live build-up to the solar eclipse from the BBC's teams around the world and across the UK</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p40yz4.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260812160000 +0000" stop="20260812170000 +0000">
 		<title>BBC News - Solar Eclipse Live</title>
 		<desc>Live coverage as the solar eclipse passes over Iceland, Greenland and the Arctic Ocean.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p40yz4.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260812170000 +0000" stop="20260812180000 +0000">
 		<title>BBC News - Solar Eclipse Live</title>
 		<desc>Live coverage as the solar eclipse is seen from the UK.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p40yz4.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260812180000 +0000" stop="20260812190000 +0000">
 		<title>BBC News - Solar Eclipse Live</title>
 		<desc>Live coverage as the solar eclipse is visible from Portugal and parts of northern Spain.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p40yz4.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260812190000 +0000" stop="20260812193000 +0000">
 		<title>The Context USA - 12/08/2026</title>
@@ -6162,7 +6147,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260814233000 +0000" stop="20260815000000 +0000">
 		<title>Talking Business - 14/08/2026</title>
-		<desc>Ben Thomson looks at the factors behind rising food prices.</desc>
+		<desc>Ben Thompson looks at the factors behind rising food prices.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260815000000 +0000" stop="20260815003000 +0000">
@@ -6242,7 +6227,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260815103000 +0000" stop="20260815110000 +0000">
 		<title>Talking Business - 14/08/2026</title>
-		<desc>Ben Thomson looks at the factors behind rising food prices.</desc>
+		<desc>Ben Thompson looks at the factors behind rising food prices.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260815110000 +0000" stop="20260815113000 +0000">
@@ -6347,7 +6332,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260815223000 +0000" stop="20260815230000 +0000">
 		<title>Talking Business - 14/08/2026</title>
-		<desc>Ben Thomson looks at the factors behind rising food prices.</desc>
+		<desc>Ben Thompson looks at the factors behind rising food prices.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260815230000 +0000" stop="20260815233000 +0000">
@@ -6462,7 +6447,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260816123000 +0000" stop="20260816130000 +0000">
 		<title>Talking Business - 14/08/2026</title>
-		<desc>Ben Thomson looks at the factors behind rising food prices.</desc>
+		<desc>Ben Thompson looks at the factors behind rising food prices.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02vjwnw.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260816130000 +0000" stop="20260816133000 +0000">
@@ -8009,7 +7994,7 @@
 	<programme channel="s4c" start="20260814161000 +0000" stop="20260814162000 +0000">
 		<title>Bwystfil - Cyfres 1: Pennod 30</title>
 		<desc>Mae'n bwysig i allu amddiffyn eich bwyd, eich teulu a'ch hunan! Felly helmed ymlaen, ma...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfm5m.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p40nm6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260814162000 +0000" stop="20260814163500 +0000">
 		<title>Prys a'r Pryfed - Cyfres 1: Pryfyn Rhewllyd</title>
