@@ -118,7 +118,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260812180000 +0000" stop="20260812183000 +0000">
 		<title>The One Show - 12/08/2026</title>
-		<desc>Celebrity guests join Alex and Roman as the show’s 20th birthday celebrations continue.</desc>
+		<desc>Jennifer Reoch is live in Glasgow for the eclipse, with Alex and Roman in the studio.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p3x3m8.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260812183000 +0000" stop="20260812190000 +0000">
@@ -699,7 +699,7 @@
 	<programme channel="bbctwo" start="20260812180000 +0000" stop="20260812190000 +0000">
 		<title>European Athletics Championships  - 2026: Day 3: Featuring Men's Decathlon</title>
 		<desc>The men’s decathlon continues at the European Athletics Championships in Birmingham.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2rsbv.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p41vm1.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260812190000 +0000" stop="20260812200000 +0000">
 		<title>The Repair Shop - Series 14: Episode 24</title>
@@ -1081,12 +1081,17 @@
 		<desc>Lorraine helps builder Tony master a Mediterranean-inspired menu.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p025z1xl.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260815113000 +0000" stop="20260815123000 +0000">
+	<programme channel="bbctwo" start="20260815113000 +0000" stop="20260815114500 +0000">
+		<title>Nigel Slater's Simple Cooking - Series 1 (Cutdowns): Soft and Crisp</title>
+		<desc>Nigel Slater continues his exploration of culinary combinations with a focus on texture.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0df24y0.jpg" />
+	</programme>
+	<programme channel="bbctwo" start="20260815114500 +0000" stop="20260815124500 +0000">
 		<title>Homes Under the Hammer - Series 28: Patience Is Rewarded</title>
 		<desc>Two long-term London projects take time to come to fruition.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxlxh6.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260815123000 +0000" stop="20260815163000 +0000">
+	<programme channel="bbctwo" start="20260815124500 +0000" stop="20260815163000 +0000">
 		<title>Gymnastics: European Championships - 2026: Women's Apparatus Finals</title>
 		<desc>Coverage of the women's apparatus finals from the 2026 European Gymnastics Championships.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p3yyvn.jpg" />
@@ -5323,7 +5328,7 @@
 	<programme channel="bbcscotland" start="20260813213000 +0000" stop="20260813220000 +0000">
 		<title>Edinburgh Unlocked - 2026: Episode 1</title>
 		<desc>Mark Nelson is back in Edinburgh with the best bits from the festival.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lv18w8.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p41fx7.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260813220000 +0000" stop="20260813223000 +0000">
 		<title>Scotcast - 13/08/2026</title>
@@ -5498,7 +5503,7 @@
 	<programme channel="bbcscotland" start="20260816220000 +0000" stop="20260816223000 +0000">
 		<title>Edinburgh Unlocked - 2026: Episode 1</title>
 		<desc>Mark Nelson is back in Edinburgh with the best bits from the festival.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lv18w8.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p41fx7.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260816223000 +0000" stop="20260816230000 +0000">
 		<title>Style Fixers - Series 2: 1. Muskaan and Alannah-Jayne</title>
@@ -5631,24 +5636,24 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p40yz4.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260812190000 +0000" stop="20260812193000 +0000">
-		<title>The Context USA - 12/08/2026</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
+		<title>BBC News - 12/08/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260812193000 +0000" stop="20260812200000 +0000">
-		<title>The Context USA - 12/08/2026</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lnpqrz.jpg" />
+		<title>BBC News - 12/08/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260812200000 +0000" stop="20260812203000 +0000">
-		<title>The Context - 12/08/2026</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
+		<title>BBC News - 12/08/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260812203000 +0000" stop="20260812210000 +0000">
-		<title>The Context - 12/08/2026</title>
-		<desc>A regular panel of guests discuss the biggest international stories of the day. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fk1nnm.jpg" />
+		<title>BBC News - 12/08/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260812210000 +0000" stop="20260812213000 +0000">
 		<title>BBC News at Ten - 12/08/2026</title>
@@ -6178,7 +6183,7 @@
 	<programme channel="bbcnews" start="20260815023000 +0000" stop="20260815030000 +0000">
 		<title>Inside China's EV Revolution</title>
 		<desc>How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p41t6r.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260815030000 +0000" stop="20260815033000 +0000">
 		<title>BBC News - BBC News</title>
@@ -6278,7 +6283,7 @@
 	<programme channel="bbcnews" start="20260815153000 +0000" stop="20260815160000 +0000">
 		<title>Inside China's EV Revolution</title>
 		<desc>How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p41t6r.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260815160000 +0000" stop="20260815170000 +0000">
 		<title>BBC News - 15/08/2026</title>
@@ -6313,7 +6318,7 @@
 	<programme channel="bbcnews" start="20260815193000 +0000" stop="20260815200000 +0000">
 		<title>Inside China's EV Revolution</title>
 		<desc>How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p41t6r.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260815200000 +0000" stop="20260815210000 +0000">
 		<title>BBC News - 15/08/2026</title>
@@ -6363,7 +6368,7 @@
 	<programme channel="bbcnews" start="20260816013000 +0000" stop="20260816020000 +0000">
 		<title>Inside China's EV Revolution</title>
 		<desc>How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p41t6r.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260816020000 +0000" stop="20260816023000 +0000">
 		<title>BBC News - 16/08/2026</title>
@@ -6553,7 +6558,7 @@
 	<programme channel="bbcnews" start="20260817003000 +0000" stop="20260817010000 +0000">
 		<title>Inside China's EV Revolution</title>
 		<desc>How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p41t6r.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260817010000 +0000" stop="20260817013000 +0000">
 		<title>Newsday - 17/08/2026</title>
@@ -7934,7 +7939,7 @@
 	<programme channel="s4c" start="20260814120000 +0000" stop="20260814123000 +0000">
 		<title>Y Ci Perffaith - Pennod 2</title>
 		<desc>Dan arweiniad Heledd a Dylan bydd Gwyn a Mary yn cael treulio amser gyda dau gi o dan o...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0khx0y5.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p417bf.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260814123000 +0000" stop="20260814130000 +0000">
 		<title>Dan Do - Cyfres 5: Pennod 5</title>
