@@ -147,17 +147,22 @@
 		<desc>An unsuccessful singer-songwriter wakes up in a world where no-one remembers The Beatles.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09mvcgh.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260813233000 +0000" stop="20260814001500 +0000">
+	<programme channel="bbcone" start="20260813233000 +0000" stop="20260814013000 +0000">
+		<title>Spider-Man: Homecoming</title>
+		<desc>Peter must prove himself as an Avenger while also managing his everyday teenage life.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p090t8wh.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260814013000 +0000" stop="20260814021500 +0000">
 		<title>Alan Carr's Picture Slam - Series 4: Episode 4</title>
 		<desc>Teams from Coventry, London and Glasgow are in the frame in the quickfire picture quiz.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2k1b1.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260814001500 +0000" stop="20260814002000 +0000">
+	<programme channel="bbcone" start="20260814021500 +0000" stop="20260814022000 +0000">
 		<title>Weather for the Week Ahead - 14/08/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260814002000 +0000" stop="20260814050000 +0000">
+	<programme channel="bbcone" start="20260814022000 +0000" stop="20260814050000 +0000">
 		<title>Joins BBC News - 14/08/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -361,17 +366,17 @@
 		<desc>When a mission goes wrong, spy Ethan Hunt finds himself out on a limb and under suspicion.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0909hx4.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260815230500 +0000" stop="20260816011000 +0000">
-		<title>Spider-Man: Homecoming</title>
-		<desc>Peter must prove himself as an Avenger while also managing his everyday teenage life.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p090t8wh.jpg" />
+	<programme channel="bbcone" start="20260815230500 +0000" stop="20260816010500 +0000">
+		<title>Spider-Man: Far from Home</title>
+		<desc>Peter Parker takes a school trip to Europe but lands in monstrous trouble.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b6kkh5.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260816011000 +0000" stop="20260816011500 +0000">
+	<programme channel="bbcone" start="20260816010500 +0000" stop="20260816011000 +0000">
 		<title>Weather for the Week Ahead - 16/08/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260816011500 +0000" stop="20260816050000 +0000">
+	<programme channel="bbcone" start="20260816011000 +0000" stop="20260816050000 +0000">
 		<title>Joins BBC News - 16/08/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -478,17 +483,17 @@
 		<desc>Ethan Hunt tries to avert disaster in Australia. Action adventure sequel.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml9259.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260816232500 +0000" stop="20260817012500 +0000">
-		<title>Spider-Man: Far from Home</title>
-		<desc>Peter Parker takes a school trip to Europe but lands in monstrous trouble.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b6kkh5.jpg" />
+	<programme channel="bbcone" start="20260816232500 +0000" stop="20260817014000 +0000">
+		<title>Spider-Man: No Way Home</title>
+		<desc>Peter Parker wants people to forget he is Spider-Man, but Dr Strange’s spell goes wrong.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hyn8bb.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260817012500 +0000" stop="20260817013000 +0000">
+	<programme channel="bbcone" start="20260817014000 +0000" stop="20260817014500 +0000">
 		<title>Weather for the Week Ahead - 17/08/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260817013000 +0000" stop="20260817050000 +0000">
+	<programme channel="bbcone" start="20260817014500 +0000" stop="20260817050000 +0000">
 		<title>Joins BBC News - 17/08/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -1053,7 +1058,7 @@
 	</programme>
 	<programme channel="bbctwo" start="20260816103500 +0000" stop="20260816113500 +0000">
 		<title>The Great British Sewing Bee - Series 12: Episode 5</title>
-		<desc>Week 5 is sports week, featuring swim shorts, transformed sails and bowling shirts.</desc>
+		<desc>Week 5 is Sports Week, featuring swim shorts, transformed sails and bowling shirts.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2mb2l.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260816113500 +0000" stop="20260816130000 +0000">
@@ -1604,7 +1609,7 @@
 	</programme>
 	<programme channel="bbcthree" start="20260817190000 +0000" stop="20260817200000 +0000">
 		<title>The Great British Sewing Bee - Series 12: Episode 5</title>
-		<desc>Week 5 is sports week, featuring swim shorts, transformed sails and bowling shirts.</desc>
+		<desc>Week 5 is Sports Week, featuring swim shorts, transformed sails and bowling shirts.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p2mb2l.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260817200000 +0000" stop="20260817210000 +0000">
@@ -5250,9 +5255,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p41fx7.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260813220000 +0000" stop="20260813223000 +0000">
-		<title>Scotcast - 13/08/2026</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqwpf.jpg" />
+		<title>Scotcast - Politics Show</title>
+		<desc>Political analysis with David Wallace Lockhart, Lynsey Bews and Justin Bowie.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p1qfdc.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260813223000 +0000" stop="20260813230000 +0000">
 		<title>Growing Up Scottish - Series 2: 1. Friendship/Home</title>
@@ -5732,15 +5737,10 @@
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260814050000 +0000" stop="20260814070000 +0000">
+	<programme channel="bbcnews" start="20260814050000 +0000" stop="20260814073000 +0000">
 		<title>Breakfast - 14/08/2026</title>
 		<desc>The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fxfnwr.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260814070000 +0000" stop="20260814073000 +0000">
-		<title>BBC News - 14/08/2026</title>
-		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260814073000 +0000" stop="20260814080000 +0000">
 		<title>BBC News - 14/08/2026</title>
@@ -6123,9 +6123,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260816003000 +0000" stop="20260816010000 +0000">
-		<title>Rachel Khoo's Kitchen Notebook - Cosmopolitan Cook: Princes' Islands</title>
-		<desc>Passionate cook Rachel Khoo travels the globe in search of fresh culinary inspiration. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9lkgj.jpg" />
+		<title>World's Ultimate Adventures - 2. The Land of Troy</title>
+		<desc>Janina Ramirez explores Turkey's Aegean coast, the land of the legend of Troy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nyh8x6.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260816010000 +0000" stop="20260816013000 +0000">
 		<title>BBC News - 16/08/2026</title>
@@ -7543,32 +7543,32 @@
 		<desc>Beth sy'n digwydd ym myd Og a'i ffrindiau heddiw? What's happening in the world of Og a...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f24y19.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814060500 +0000" stop="20260814062000 +0000">
+	<programme channel="s4c" start="20260814060500 +0000" stop="20260814061500 +0000">
 		<title>Joni Jet - Cyfres 1: Dyma Dan Jerus</title>
 		<desc>Mae Joni a Jini yn mynd ar nerfau ei gilydd. Ond wedi noson yng nghwmni eu cefnder anni...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nbbhjm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814062000 +0000" stop="20260814063000 +0000">
+	<programme channel="s4c" start="20260814061500 +0000" stop="20260814062500 +0000">
 		<title>Misho - Cyfres 1: Mynd i Nofio</title>
 		<desc>Cyfres sydd yn edrych ar pob math o sefyllfaoedd all godi pryder i blentyn bach. Today,...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fg0p97.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814063000 +0000" stop="20260814064500 +0000">
+	<programme channel="s4c" start="20260814062500 +0000" stop="20260814063500 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Ryffio Hi</title>
 		<desc>Pan fydd Crawc yn penderfynu gwersylla ar lan yr afon, mae'r gwencïod yn achub ar y cyf...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814064500 +0000" stop="20260814070000 +0000">
+	<programme channel="s4c" start="20260814063500 +0000" stop="20260814070000 +0000">
 		<title>Parc Glan Gwil - Pennod 3</title>
 		<desc>Mae Cadi Ceffylau am roi gwersi marchogaeth i'r gwersyllwyr - ond mae Syr Gwil ofn ceff...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1ys07.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814070000 +0000" stop="20260814071000 +0000">
+	<programme channel="s4c" start="20260814070000 +0000" stop="20260814070500 +0000">
 		<title>Odo - Cyfres 1: Afal</title>
 		<desc>Mae Odo a Dwdl yn gyffrous iawn am Wyl yr Afalau. Doodle and Odo are looking forward to...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngfxwj.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814071000 +0000" stop="20260814072000 +0000">
+	<programme channel="s4c" start="20260814070500 +0000" stop="20260814072000 +0000">
 		<title>Sion y Chef - Cyfres 1: Igam Ogam</title>
 		<desc>Mae Siôn yn helpu busnes 'llysiau mewn bocs' Magi drwy ddangos i bawb fod llysiau cam l...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf1dx8.jpg" />
@@ -7578,32 +7578,32 @@
 		<desc>Dewch ar antur gyda ni i gwrdd ag anifeiliaid bach y byd ac yn y rhaglen hon byddwn yn ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08y0npp.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814073000 +0000" stop="20260814074500 +0000">
+	<programme channel="s4c" start="20260814073000 +0000" stop="20260814074000 +0000">
 		<title>Pablo - Cyfres 1: Dewis Ni, Pablo</title>
 		<desc>Mae gan Pablo ei ffordd ei hun o weld y byd, a phan nad yw'n gallu penderfynu pa esgidi...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngg3fs.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814074500 +0000" stop="20260814075500 +0000">
+	<programme channel="s4c" start="20260814074000 +0000" stop="20260814075500 +0000">
 		<title>Oli Wyn - Cyfres 2: Tancer Llaeth</title>
 		<desc>Mae Meirion o Hufenfa De Arfon yn cynnig dangos i Oli sut mae gwneud caws, ac mae Oli w...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07b6ycm.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814075500 +0000" stop="20260814081000 +0000">
+	<programme channel="s4c" start="20260814075500 +0000" stop="20260814080500 +0000">
 		<title>Guto Gwningen - Cyfres 1: Hanes y Bwmpen Fawr</title>
 		<desc>Mae Guto'n benderfynol o gael gafael ar y bwmpen fwyaf sydd yng ngardd Mr Puw. When Gut...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02mt0xy.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814081000 +0000" stop="20260814082000 +0000">
+	<programme channel="s4c" start="20260814080500 +0000" stop="20260814081500 +0000">
 		<title>Abadas - Cyfres 1: Ffynnon</title>
 		<desc>Mae'r Abadas yn chwarae môrladron ar y traeth. The Abadas are having a pirate adventure...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ntd3cf.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814082000 +0000" stop="20260814083000 +0000">
+	<programme channel="s4c" start="20260814081500 +0000" stop="20260814082500 +0000">
 		<title>Ein Byd Bach Ni - Cyfres 1: Costa Rica</title>
 		<desc>Mae Costa Rica yn enwog am goedwigoedd cwmwl sy'n gartref i fywyd gwyllt egsotig fel y ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f55q56.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814083000 +0000" stop="20260814084000 +0000">
+	<programme channel="s4c" start="20260814082500 +0000" stop="20260814084000 +0000">
 		<title>Pentre Papur Pop - Cyfres 1: Sblash Fawr Pip!</title>
 		<desc>Ar yr antur popwych heddiw mae'r ffrindiau'n mynd i'r parc dwr! Ond pan mae Pip yn nerf...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngt7v4.jpg" />
@@ -7613,17 +7613,17 @@
 		<desc>Timau o Ysgol Ifor Hael sy'n ymuno â Pwdryn a Melys i chwarae llond trol o gemau lliwga...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzdd86.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814090000 +0000" stop="20260814090500 +0000">
+	<programme channel="s4c" start="20260814090000 +0000" stop="20260814091000 +0000">
 		<title>Blociau Rhif - Cyfres 1: Fflat Dir</title>
 		<desc>Mae Pedwar yn ymweld â Fflatdir, dyma lle mae'r siapiau fflat yn byw. Mae Pedwar yn tro...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07qk37x.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814090500 +0000" stop="20260814091500 +0000">
+	<programme channel="s4c" start="20260814091000 +0000" stop="20260814092000 +0000">
 		<title>Sam Tân - Cyfres 10: Cyffro Cadetiaid</title>
 		<desc>Mae'r Cadetiaid Iau yn mynd ar ddiwrnod hyfforddi yn y goedwig. The Junior Cadets go on...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqt13m.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814091500 +0000" stop="20260814092500 +0000">
+	<programme channel="s4c" start="20260814092000 +0000" stop="20260814092500 +0000">
 		<title>Blwi - Pryd ar Glud</title>
 		<desc>Mae Dad yn mynnu aros pum munud arall am tec-awe ond mae Blwi a Bingo yn aflonydd iawn....</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0x794.jpg" />
@@ -7653,12 +7653,12 @@
 		<desc>Cyfres sy'n edrych ar bob math o sefyllfaoedd all godi pryder i blentyn bach. What's th...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fg0ncz.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814103000 +0000" stop="20260814104500 +0000">
+	<programme channel="s4c" start="20260814103000 +0000" stop="20260814104000 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Ffarwel</title>
 		<desc>Mae Gwich yn dyheu i fynd a'i gwch ar antur ar y môr mawr! When his friends encourage h...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g8mnd1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260814104500 +0000" stop="20260814110000 +0000">
+	<programme channel="s4c" start="20260814104000 +0000" stop="20260814110000 +0000">
 		<title>Parc Glan Gwil - Pennod 2</title>
 		<desc>Mae hi'n argyfwng ar Sioned Siop - does dim bara wedi cyrraedd ac mae'r gwersyllwyr ang...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m1yrqz.jpg" />
@@ -7976,7 +7976,7 @@
 	<programme channel="s4c" start="20260815214000 +0000" stop="20260815222000 +0000">
 		<title>Sgrap</title>
 		<desc>Dogfen yn dilyn bywydau 3 pherson wrth iddynt baratoi at noson flynyddol i sgrapwyr caw...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n5y9ys.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p4cmcj.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260815222000 +0000" stop="20260815225500 +0000">
 		<title>Stiwdio 24/7 - Pennod 6</title>
@@ -8401,7 +8401,7 @@
 	<programme channel="s4c" start="20260817173000 +0000" stop="20260817180000 +0000">
 		<title>Lowri Morgan: Her 333 - Pennod 1</title>
 		<desc>Lowri Morgan sy'n herio ei hun i redeg o Ogledd Cymru i'r De mewn tridiau gan ddringo'r...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08knc8l.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p4cr0r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260817180000 +0000" stop="20260817183000 +0000">
 		<title>Heno - Mon, 17 Aug 2026</title>
