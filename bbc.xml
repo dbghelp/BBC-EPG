@@ -118,7 +118,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260813180000 +0000" stop="20260813183000 +0000">
 		<title>The One Show - 13/08/2026</title>
-		<desc>Celebrity guests join Alex and Roman as the show’s 20th birthday celebrations continue.</desc>
+		<desc>Steph McGovern and Vito Coppola join Alex and Roman, and Owain Wyn Evans is in Blaenavon.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p3x3md.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260813183000 +0000" stop="20260813190000 +0000">
@@ -361,12 +361,17 @@
 		<desc>When a mission goes wrong, spy Ethan Hunt finds himself out on a limb and under suspicion.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0909hx4.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260815230500 +0000" stop="20260815231000 +0000">
+	<programme channel="bbcone" start="20260815230500 +0000" stop="20260816011000 +0000">
+		<title>Spider-Man: Homecoming</title>
+		<desc>Peter must prove himself as an Avenger while also managing his everyday teenage life.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p090t8wh.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260816011000 +0000" stop="20260816011500 +0000">
 		<title>Weather for the Week Ahead - 16/08/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260815231000 +0000" stop="20260816050000 +0000">
+	<programme channel="bbcone" start="20260816011500 +0000" stop="20260816050000 +0000">
 		<title>Joins BBC News - 16/08/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -473,12 +478,17 @@
 		<desc>Ethan Hunt tries to avert disaster in Australia. Action adventure sequel.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ml9259.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260816232500 +0000" stop="20260816233000 +0000">
+	<programme channel="bbcone" start="20260816232500 +0000" stop="20260817012500 +0000">
+		<title>Spider-Man: Far from Home</title>
+		<desc>Peter Parker takes a school trip to Europe but lands in monstrous trouble.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0b6kkh5.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260817012500 +0000" stop="20260817013000 +0000">
 		<title>Weather for the Week Ahead - 17/08/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260816233000 +0000" stop="20260817050000 +0000">
+	<programme channel="bbcone" start="20260817013000 +0000" stop="20260817050000 +0000">
 		<title>Joins BBC News - 17/08/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -5457,7 +5467,7 @@
 	<programme channel="bbcscotland" start="20260817183000 +0000" stop="20260817190000 +0000">
 		<title>Sportscene: Scottish Women's Premier League - 2026/27 Highlights: 17/08/2026</title>
 		<desc>Jane Lewis presents highlights from the weekend’s fixtures in the SWPL.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mygjdd.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfyh01.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260817190000 +0000" stop="20260817193000 +0000">
 		<title>The Mountain - Series 2: Episode 5</title>
@@ -6018,9 +6028,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260815133000 +0000" stop="20260815140000 +0000">
-		<title>What Happened at...? - What Happened at Chernobyl?</title>
-		<desc>Jordan Dunbar examines the world’s worst nuclear accident at Chernobyl in 1986.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ndzjsn.jpg" />
+		<title>Steve Rosenberg Meets Dmitry Muratov</title>
+		<desc>The Nobel Peace Prize-winning journalist on why Putin can no longer hope to claim victory.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p3y85b.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260815140000 +0000" stop="20260815143000 +0000">
 		<title>BBC News - 15/08/2026</title>
@@ -6133,9 +6143,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260816023000 +0000" stop="20260816030000 +0000">
-		<title>On the Front Line - The Secret Jungle Hospital</title>
-		<desc>Saving lives in a hidden hospital, rebels fighting against Myanmar's military.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqyr60.jpg" />
+		<title>Steve Rosenberg Meets Dmitry Muratov</title>
+		<desc>The Nobel Peace Prize-winning journalist on why Putin can no longer hope to claim victory.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p3y85b.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260816030000 +0000" stop="20260816033000 +0000">
 		<title>BBC News - 16/08/2026</title>
@@ -6293,9 +6303,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260816223000 +0000" stop="20260816230000 +0000">
-		<title>On the Front Line - The Secret Jungle Hospital</title>
-		<desc>Saving lives in a hidden hospital, rebels fighting against Myanmar's military.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nqyr60.jpg" />
+		<title>Steve Rosenberg Meets Dmitry Muratov</title>
+		<desc>The Nobel Peace Prize-winning journalist on why Putin can no longer hope to claim victory.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p3y85b.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260816230000 +0000" stop="20260816233000 +0000">
 		<title>BBC News - 16/08/2026</title>
@@ -7956,7 +7966,7 @@
 	<programme channel="s4c" start="20260815190000 +0000" stop="20260815200000 +0000">
 		<title>Sioe Mon - Sioe Mon 2026</title>
 		<desc>Uchafbwyntiau diwrnod cyntaf Sioe Sir Fôn 2026. Highlights from day 1 of the Anglesey C...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p3vsd6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p47qpt.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260815200000 +0000" stop="20260815214000 +0000">
 		<title>Y Crwydryn</title>
@@ -8121,7 +8131,7 @@
 	<programme channel="s4c" start="20260816190000 +0000" stop="20260816200000 +0000">
 		<title>Sioe Mon - Sioe Mon 2026</title>
 		<desc>Uchafbwyntiau diwrnod olaf Sioe Sir Fôn 2026. Highlights from the last day of Anglesey ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p3vsd6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p47xk5.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260816200000 +0000" stop="20260816210000 +0000">
 		<title>Cynefin - Cyfres 5: Beddgelert</title>
