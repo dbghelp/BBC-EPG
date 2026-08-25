@@ -152,22 +152,27 @@
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260825214000 +0000" stop="20260825232000 +0000">
-		<title>Arthur the King</title>
-		<desc>An adventure racer is joined by a stray dog on a race of 435 miles over ten days.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nlhj14.jpg" />
+	<programme channel="bbcone" start="20260825214000 +0000" stop="20260825231000 +0000">
+		<title>Dolly Parton: Here I Am</title>
+		<desc>A fascinating documentary charting the extraordinary life and music of Dolly Parton.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07y6fw3.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260825232000 +0000" stop="20260826000500 +0000">
+	<programme channel="bbcone" start="20260825231000 +0000" stop="20260826001000 +0000">
+		<title>Dolly Parton at the BBC</title>
+		<desc>A look back at some of Dolly Parton's finest performances at the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bj2jk3.jpg" />
+	</programme>
+	<programme channel="bbcone" start="20260826001000 +0000" stop="20260826005500 +0000">
 		<title>The Hit List - Series 9: Episode 5</title>
 		<desc>Teams from Blackburn, Glasgow and Manchester compete to win the quickfire music quiz.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p52sq2.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260826000500 +0000" stop="20260826001000 +0000">
+	<programme channel="bbcone" start="20260826005500 +0000" stop="20260826010000 +0000">
 		<title>Weather for the Week Ahead - 26/08/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260826001000 +0000" stop="20260826050000 +0000">
+	<programme channel="bbcone" start="20260826010000 +0000" stop="20260826050000 +0000">
 		<title>Joins BBC News - 26/08/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -793,9 +798,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0gsqx7r.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260825213000 +0000" stop="20260825220300 +0000">
-		<title>Newsnight - 25/08/2026</title>
-		<desc>Insights and global interviews on the crucial news stories of the day. With Adam Fleming.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<title>Newsnight - Tributes to Dolly Parton</title>
+		<desc>Bob Harris and Suzi Quatro join Newsnight to remember Dolly Parton. With Adam Fleming.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p68pmm.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260825220300 +0000" stop="20260825220500 +0000">
 		<title>BBC Weather - 25/08/2026</title>
@@ -5773,9 +5778,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fjvy7w.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260825213000 +0000" stop="20260825220000 +0000">
-		<title>Newsnight - 25/08/2026</title>
-		<desc>Insights and global interviews on the crucial news stories of the day. With Adam Fleming.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n2dqll.jpg" />
+		<title>Newsnight - Tributes to Dolly Parton</title>
+		<desc>Bob Harris and Suzi Quatro join Newsnight to remember Dolly Parton. With Adam Fleming.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p68pmm.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260825220000 +0000" stop="20260825230000 +0000">
 		<title>BBC World News America - 25/08/2026</title>
