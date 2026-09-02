@@ -51,7 +51,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260902083000 +0000" stop="20260902094500 +0000">
 		<title>Morning Live - Series 8: 02/09/2026</title>
-		<desc>Conversation, advice and tips to make your day that little bit easier.</desc>
+		<desc>How to report dangerous driving and what the latest energy price cap means for your bills.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhggnm.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260902094500 +0000" stop="20260902103000 +0000">
@@ -3042,8 +3042,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p4b8xp.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260905080000 +0000" stop="20260905103000 +0000">
-		<title>Saturday Mash-Up! Live - Series 9: Episode 1</title>
-		<desc>Live Saturday morning fun, filled with mayhem and celebrity guests.</desc>
+		<title>Saturday Mash-Up! Live - Series 9: 1. Strictly stars Lawrence and Sarah, Ben &amp; Luke Nuttall and slime!</title>
+		<desc>Strictly's Lawrence Robb and Dame Sarah Storey spill some secrets from the dance floor.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lz1018.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260905103000 +0000" stop="20260905105500 +0000">
@@ -3166,12 +3166,12 @@
 		<desc>Addie finds a secret in the bookshop basement as Keedie confronts her old friend Bonnie.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrjdgz.jpg" />
 	</programme>
-	<programme channel="cbbc" start="20260905171000 +0000" stop="20260905175000 +0000">
+	<programme channel="cbbc" start="20260905171000 +0000" stop="20260905175500 +0000">
 		<title>Crookhaven - Series 1: 2. The Break-In</title>
 		<desc>School rivalries intensify when the Merits and Legacies attempt the break-in challenge.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7j3zz.jpg" />
 	</programme>
-	<programme channel="cbbc" start="20260905175000 +0000" stop="20260905175800 +0000">
+	<programme channel="cbbc" start="20260905175500 +0000" stop="20260905175800 +0000">
 		<title>Phoenix Rise - Series 4 Preview</title>
 		<desc>New head teacher, new rules. Can the gang stay united through their toughest test yet?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jvq688.jpg" />
@@ -6849,6 +6849,11 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 2 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20260902223000 +0000" stop="20260902231500 +0000">
+		<title>House of Lords - Government Direction Statement</title>
+		<desc>A statement in the House of Lords on the government's priorities on Wednesday 2 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20260902231500 +0000" stop="20260903011500 +0000">
 		<title>House of Lords - Armed Forces Bill, Part 1</title>
 		<desc>The debate on the committee stage of the Armed Forces Bill, on Wednesday 2 September.</desc>
@@ -6869,20 +6874,20 @@
 		<desc>The debate on plant health and the Windsor Framework Regulations on Wednesday 2 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260903060000 +0000" stop="20260903063000 +0000">
+	<programme channel="bbcparliament" start="20260903060000 +0000" stop="20260903062500 +0000">
 		<title>House of Commons - Wales Office Questions</title>
 		<desc>Coverage of questions to Stephen Kinnock on Wednesday 2 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p7jd08.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260903063000 +0000" stop="20260903070500 +0000">
+	<programme channel="bbcparliament" start="20260903062500 +0000" stop="20260903071000 +0000">
 		<title>Prime Minister's Questions - 02/09/2026</title>
 		<desc>Coverage of questions to Andy Burnham, the prime minister, on Wednesday 2 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p7hr3y.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260903070500 +0000" stop="20260903083000 +0000">
-		<title>House of Commons - 02/09/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 2 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260903071000 +0000" stop="20260903083000 +0000">
+		<title>House of Commons - Rewiring the State Statement</title>
+		<desc>A statement on 'rewiring the state' with first secretary of state Louise Haigh.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p7k1kh.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260903083000 +0000" stop="20260903091000 +0000">
 		<title>House of Commons - Digital, Culture, Media and Sport Questions</title>
@@ -6899,18 +6904,8 @@
 		<desc>Questions to Alan Campbell, the leader of the Commons, on Thursday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260903103000 +0000" stop="20260903113000 +0000">
-		<title>House of Commons - 03/09/2026 Part 1</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260903113000 +0000" stop="20260903123000 +0000">
-		<title>House of Commons - 03/09/2026 Part 2</title>
-		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260903123000 +0000" stop="20260903163000 +0000">
-		<title>House of Commons - 03/09/2026 Part 3</title>
+	<programme channel="bbcparliament" start="20260903103000 +0000" stop="20260903163000 +0000">
+		<title>House of Commons - 03/09/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Thursday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
@@ -6924,38 +6919,8 @@
 		<desc>Questions in the House of Lords to government ministers on Thursday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260903174500 +0000" stop="20260903184500 +0000">
-		<title>House of Lords - 03/09/2026 Part 1</title>
-		<desc>Business in the House of Lords on Thursday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260903184500 +0000" stop="20260903194500 +0000">
-		<title>House of Lords - 03/09/2026 Part 2</title>
-		<desc>Business in the House of Lords on Thursday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260903194500 +0000" stop="20260903204500 +0000">
-		<title>House of Lords - 03/09/2026 Part 3</title>
-		<desc>Business in the House of Lords on Thursday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260903204500 +0000" stop="20260903214500 +0000">
-		<title>House of Lords - 03/09/2026 Part 4</title>
-		<desc>Business in the House of Lords on Thursday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260903214500 +0000" stop="20260903224500 +0000">
-		<title>House of Lords - 03/09/2026 Part 5</title>
-		<desc>Business in the House of Lords on Thursday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260903224500 +0000" stop="20260903234500 +0000">
-		<title>House of Lords - 03/09/2026 Part 6</title>
-		<desc>Business in the House of Lords on Thursday 3 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260903234500 +0000" stop="20260904010000 +0000">
-		<title>House of Lords - 03/09/2026 Part 7</title>
+	<programme channel="bbcparliament" start="20260903174500 +0000" stop="20260904010000 +0000">
+		<title>House of Lords - 03/09/2026</title>
 		<desc>Business in the House of Lords on Thursday 3 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
