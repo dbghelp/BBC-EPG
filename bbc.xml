@@ -742,15 +742,10 @@
 		<desc>How the great ape's brain has been adapted by its anatomy, ingenuity and sociability.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p026v0x5.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260904150000 +0000" stop="20260904163000 +0000">
+	<programme channel="bbctwo" start="20260904150000 +0000" stop="20260904170000 +0000">
 		<title>Politics Live - 04/09/2026</title>
 		<desc>The big political issues of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcfc71.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260904163000 +0000" stop="20260904170000 +0000">
-		<title>Flog It! - Series 8 (30-Minute Versions): Liverpool</title>
-		<desc>Paul Martin and the experts delve into Liverpool's musical heritage.  </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0483s0c.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260904170000 +0000" stop="20260904173000 +0000">
 		<title>Richard Osman's House of Games - Series 7: Week 1: Friday</title>
@@ -1337,7 +1332,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvry0j.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20260904180000 +0000" stop="20260904200000 +0000">
-		<title>Athletics: Diamond League - 2026: Brussels, Part 1</title>
+		<title>Athletics: Diamond League - Brussels, Part 1</title>
 		<desc>Coverage from the 2026 Diamond League meeting in Brussels, Belgium.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p6jj1g.jpg" />
 	</programme>
@@ -2478,7 +2473,7 @@
 	<programme channel="cbbc" start="20260905080000 +0000" stop="20260905103000 +0000">
 		<title>Saturday Mash-Up! Live - Series 9: 1. Strictly stars Lawrence and Sarah, Ben &amp; Luke Nuttall and slime!</title>
 		<desc>Strictly's Lawrence Robb and Dame Sarah Storey spill some secrets from the dance floor.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lz1018.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p81thv.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260905103000 +0000" stop="20260905105500 +0000">
 		<title>The Next Step: Cheer - Series 1: 1. Save the Comets!</title>
@@ -5264,7 +5259,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4rpph.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260904182500 +0000" stop="20260904203000 +0000">
-		<title>Sportscene: Championship Live - 2026/27: Livingston v Stenhousemuir</title>
+		<title>Sportscene: Championship Live - Livingston v Stenhousemuir</title>
 		<desc>Live coverage from the Scottish Championship as Livingston host Stenhousemuir.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p6222m.jpg" />
 	</programme>
@@ -5653,20 +5648,25 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260904150000 +0000" stop="20260904163000 +0000">
+	<programme channel="bbcnews" start="20260904150000 +0000" stop="20260904152500 +0000">
 		<title>Politics Live - 04/09/2026</title>
 		<desc>The big political issues of the day.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcfc71.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260904163000 +0000" stop="20260904170000 +0000">
+	<programme channel="bbcnews" start="20260904152500 +0000" stop="20260904155500 +0000">
 		<title>BBC News - 04/09/2026</title>
 		<desc>The latest news from the BBC.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
+	<programme channel="bbcnews" start="20260904155500 +0000" stop="20260904170000 +0000">
+		<title>Politics Live - 04/09/2026</title>
+		<desc>The big political issues of the day.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcfc71.jpg" />
+	</programme>
 	<programme channel="bbcnews" start="20260904170000 +0000" stop="20260904173000 +0000">
-		<title>BBC News at Six - 04/09/2026</title>
-		<desc>The latest national and international news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7frq.jpg" />
+		<title>The World Today with Maryam Moshiri - 04/09/2026</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hd093m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260904173000 +0000" stop="20260904180000 +0000">
 		<title>The World Today with Maryam Moshiri - 04/09/2026</title>
@@ -5770,7 +5770,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260905033000 +0000" stop="20260905040000 +0000">
 		<title>The Media Show - Meet the Meat Proxies</title>
-		<desc>The humans who’ve become mouthpieces for text written by AI.</desc>
+		<desc>The humans who've become mouthpieces for text written by AI.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260905040000 +0000" stop="20260905043000 +0000">
@@ -5855,7 +5855,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260905144500 +0000" stop="20260905150000 +0000">
 		<title>Newswatch - 05/09/2026</title>
-		<desc>Your views on the coverage of events by BBC News.</desc>
+		<desc>Was the BBC’s coverage of Jason Arday proportionate in the weeks leading up to his death?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m8r0tr.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260905150000 +0000" stop="20260905153000 +0000">
@@ -5865,7 +5865,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260905153000 +0000" stop="20260905160000 +0000">
 		<title>The Media Show - Meet the Meat Proxies</title>
-		<desc>The humans who’ve become mouthpieces for text written by AI.</desc>
+		<desc>The humans who've become mouthpieces for text written by AI.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260905160000 +0000" stop="20260905170000 +0000">
@@ -5930,7 +5930,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260905233000 +0000" stop="20260906000000 +0000">
 		<title>The Media Show - Meet the Meat Proxies</title>
-		<desc>The humans who’ve become mouthpieces for text written by AI.</desc>
+		<desc>The humans who've become mouthpieces for text written by AI.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260906000000 +0000" stop="20260906003000 +0000">
@@ -6030,7 +6030,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260906123000 +0000" stop="20260906130000 +0000">
 		<title>The Media Show - Meet the Meat Proxies</title>
-		<desc>The humans who’ve become mouthpieces for text written by AI.</desc>
+		<desc>The humans who've become mouthpieces for text written by AI.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260906130000 +0000" stop="20260906133000 +0000">
@@ -6655,7 +6655,7 @@
 	</programme>
 	<programme channel="bbcnews" start="20260909003000 +0000" stop="20260909010000 +0000">
 		<title>The Media Show - Meet the Meat Proxies</title>
-		<desc>The humans who’ve become mouthpieces for text written by AI.</desc>
+		<desc>The humans who've become mouthpieces for text written by AI.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hrb70c.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260909010000 +0000" stop="20260909013000 +0000">
@@ -7049,7 +7049,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260908091500 +0000" stop="20260908103000 +0000">
-		<title>Select Committees - Select Committees · Lords Science and Technology Committee on ARIA</title>
+		<title>Select Committees - Lords Science and Technology Committee on ARIA</title>
 		<desc>The Lords Science and Technology committee on the Advanced Research and Invention Agency.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
