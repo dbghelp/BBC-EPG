@@ -1970,7 +1970,7 @@
 	<programme channel="bbcfour" start="20260909211500 +0000" stop="20260909224000 +0000">
 		<title>Play for Today - Penda's Fen</title>
 		<desc>An awakened force in the landscape challenges a boy's clear and intense view of the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p7l8y9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8fg5p.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260909224000 +0000" stop="20260909234000 +0000">
 		<title>Operation Grand Canyon with Dan Snow - Episode 1</title>
@@ -5315,7 +5315,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4rpph.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260907183000 +0000" stop="20260907190000 +0000">
-		<title>Sportscene: Scottish Women's Premier League - 2026/27 Highlights: 07/09/2026</title>
+		<title>Sportscene: Scottish Women's Premier League - 07/09/2026</title>
 		<desc>Jane Lewis presents highlights from the weekend's fixtures in the SWPL.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8962j.jpg" />
 	</programme>
@@ -5350,9 +5350,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0grwwgw.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260907220000 +0000" stop="20260907223000 +0000">
-		<title>Scotcast - 07/09/2026</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqwpf.jpg" />
+		<title>Scotcast - Jackdaw decision</title>
+		<desc>Why the UK government is set to approve the Jackdaw gas field off the coast of Aberdeen.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n3hdn8.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260907223000 +0000" stop="20260907230000 +0000">
 		<title>Gary: Tank Commander - Series 1: 6. Stagging On</title>
@@ -5512,7 +5512,7 @@
 	<programme channel="bbcscotland" start="20260910190000 +0000" stop="20260910193000 +0000">
 		<title>Beechgrove Garden - 2026: Episode 24</title>
 		<desc>Brian Cunningham launches an experiment, and Ruth Vichos looks back at two projects.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n7m0bz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8dz03.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260910193000 +0000" stop="20260910200000 +0000">
 		<title>Our Lives - Series 10: Seeing with Sound</title>
@@ -5714,20 +5714,10 @@
 		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
-	<programme channel="bbcnews" start="20260907150000 +0000" stop="20260907153000 +0000">
-		<title>Verified Live - 07/09/2026</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260907153000 +0000" stop="20260907154500 +0000">
-		<title>Business Today - 07/09/2026</title>
-		<desc>The latest business news from London and around the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hvws0j.jpg" />
-	</programme>
-	<programme channel="bbcnews" start="20260907154500 +0000" stop="20260907160000 +0000">
-		<title>Verified Live - 07/09/2026</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
+	<programme channel="bbcnews" start="20260907150000 +0000" stop="20260907160000 +0000">
+		<title>BBC News - 07/09/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260907160000 +0000" stop="20260907163000 +0000">
 		<title>Verified Live - 07/09/2026</title>
@@ -5800,9 +5790,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260907233000 +0000" stop="20260908000000 +0000">
-		<title>Newscast - 07/09/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p86f7y.png" />
+		<title>Newscast - Can the Chancellor's positive vibes limit tax rises?</title>
+		<desc>Chancellor John Healey aims for ‘vibes boost’ in first major economic speech.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8fwk2.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260908000000 +0000" stop="20260908003000 +0000">
 		<title>BBC News - 08/09/2026</title>
@@ -6928,14 +6918,29 @@
 	<programme channel="bbcparliament" start="20260907130000 +0000" stop="20260907133000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister, Emma Little-Pengelly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8f9s7.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260907133000 +0000" stop="20260907143000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
-		<desc>Coverage of questions to Angela Rayner on Monday 15 June.</desc>
+		<desc>Coverage of questions to Angela Rayner on Monday 7 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8fbrw.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260907143000 +0000" stop="20260907153000 +0000">
+		<title>House of Commons - Local Government Reorganisation Statement</title>
+		<desc>Coverage of the statement on local government reorganisation, on Monday 7 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8fjft.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260907153000 +0000" stop="20260907163000 +0000">
+		<title>House of Commons - Dover and Portsmouth Protests Statement</title>
+		<desc>The statement on the weekend's protests in Dover and Portsmouth, on Monday 7 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8flcf.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260907163000 +0000" stop="20260907173000 +0000">
+		<title>House of Commons - Economic Growth Statement</title>
+		<desc>The statement by chief secretary to the treasury Emma Reynolds on economic growth.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260907143000 +0000" stop="20260907213000 +0000">
+	<programme channel="bbcparliament" start="20260907173000 +0000" stop="20260907213000 +0000">
 		<title>House of Commons - 07/09/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Monday 7 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6943,27 +6948,57 @@
 	<programme channel="bbcparliament" start="20260907213000 +0000" stop="20260907221500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister, Emma Little-Pengelly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8f9s7.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260907221500 +0000" stop="20260907230000 +0000">
 		<title>Lords Questions - 07/09/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Monday 7 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260907230000 +0000" stop="20260908060000 +0000">
-		<title>House of Lords - 08/09/2026</title>
-		<desc>Business in the House of Lords on Monday 7 September.</desc>
+	<programme channel="bbcparliament" start="20260907230000 +0000" stop="20260907231000 +0000">
+		<title>House of Lords - Introductions</title>
+		<desc>The introductions of Baroness McAnea and Lord Smith of Ranmoor to the House of Lords.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260908060000 +0000" stop="20260908070000 +0000">
-		<title>House of Commons - Housing, Communities and Local Government Questions</title>
-		<desc>Coverage of questions to Angela Rayner on Monday 15 June.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260907231000 +0000" stop="20260907232500 +0000">
+		<title>House of Lords - Falklands Question</title>
+		<desc>The private notice question in the House of Lords on the future of the Falkland Islands.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260908070000 +0000" stop="20260908091500 +0000">
-		<title>House of Commons - 07/09/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Monday 7 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260907232500 +0000" stop="20260908012500 +0000">
+		<title>House of Lords - Financial Services and Markets Bill, Part 1</title>
+		<desc>The first day of debate on the report stage of the Financial Services and Markets Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260908012500 +0000" stop="20260908032500 +0000">
+		<title>House of Lords - Financial Services and Markets Bill, Part 2</title>
+		<desc>The first day of debate on the report stage of the Financial Services and Markets Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260908032500 +0000" stop="20260908042500 +0000">
+		<title>House of Lords - Financial Services and Markets Bill, Part 3</title>
+		<desc>The first day of debate on the report stage of the Financial Services and Markets Bill.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260908042500 +0000" stop="20260908055500 +0000">
+		<title>House of Lords - Local Government Reorganisation Statement</title>
+		<desc>Coverage of the statement in the House of Lords on local government reorganisation.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260908055500 +0000" stop="20260908070500 +0000">
+		<title>House of Commons - Housing, Communities and Local Government Questions</title>
+		<desc>Coverage of questions to Angela Rayner on Monday 7 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8fbrw.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260908070500 +0000" stop="20260908083500 +0000">
+		<title>Select Committees - Lords Domestic Abuse Act Committee</title>
+		<desc>The Lords Domestic Abuse Act 2021 committee session on the legislation's effectiveness.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8czck.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260908083500 +0000" stop="20260908091500 +0000">
+		<title>Lords Questions - 07/09/2026</title>
+		<desc>Questions in the House of Lords to government ministers on Monday 7 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260908091500 +0000" stop="20260908103000 +0000">
 		<title>Select Committees - Lords Science and Technology Committee on ARIA</title>
@@ -7148,7 +7183,7 @@
 	<programme channel="bbcparliament" start="20260912010000 +0000" stop="20260912014500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to deputy first minister, Emma Little-Pengelly.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8f9s7.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260912014500 +0000" stop="20260912050000 +0000">
 		<title>Northern Ireland Assembly - 11/09/2026</title>
@@ -7833,7 +7868,7 @@
 	<programme channel="s4c" start="20260907091000 +0000" stop="20260907092000 +0000">
 		<title>Blero'n Mynd i Ocido - Cyfres 3: Cosi</title>
 		<desc>Mae ieir Ffermwr Ffred wedi dianc,mae'r plu yn gwneud i Llinos Llosgfynydd cosi. Mae an...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06x2n9w.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8fds2.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260907092000 +0000" stop="20260907093000 +0000">
 		<title>Timpo - Cyfres 1: Un Drws</title>
