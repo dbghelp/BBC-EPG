@@ -123,7 +123,7 @@
 	</programme>
 	<programme channel="bbcone" start="20260909180000 +0000" stop="20260909183000 +0000">
 		<title>The One Show - 09/09/2026</title>
-		<desc>Alex Jones and Vernon Kay bring you the stories that matter from across the country.</desc>
+		<desc>Dame Helen Mirren, Lara Pulver and Martin Compston chat to Alex Jones and Vernon Kay.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p4hsgz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260909183000 +0000" stop="20260909190000 +0000">
@@ -1915,7 +1915,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p5bh6f.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260911190000 +0000" stop="20260911210000 +0000">
-		<title>BBC Proms - 2026: New World Symphony at the Proms</title>
+		<title>BBC Proms - New World Symphony at the Proms</title>
 		<desc>Dvorak’s masterpiece alongside a new triple concerto from BBC Young Musician star alumni.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzdfqm.jpg" />
 	</programme>
@@ -5519,7 +5519,7 @@
 	<programme channel="bbcnews" start="20260909105500 +0000" stop="20260909120000 +0000">
 		<title>Politics Live - 09/09/2026</title>
 		<desc>The big political issues of the day.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcfc71.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8psk5.png" />
 	</programme>
 	<programme channel="bbcnews" start="20260909120000 +0000" stop="20260909130000 +0000">
 		<title>BBC News at One - 09/09/2026</title>
@@ -6648,10 +6648,15 @@
 		<desc>Coverage of a statement by foreign secretary Ed Miliband on Israel and Palestine.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8mfmz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260909083000 +0000" stop="20260909103000 +0000">
+	<programme channel="bbcparliament" start="20260909083000 +0000" stop="20260909094000 +0000">
 		<title>Select Committees - Health and Social Care Committee on the Care Quality Commission</title>
 		<desc>Pre-appointment committee hearing for the role of chair of the Care Quality Commission.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260909094000 +0000" stop="20260909103000 +0000">
+		<title>House of Lords - Criminal Justice Reform</title>
+		<desc>A statement on criminal justice reform and changes to the prisoner release scheme.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8py4r.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260909103000 +0000" stop="20260909110000 +0000">
 		<title>House of Commons - Women and Equalities Questions</title>
@@ -6661,9 +6666,24 @@
 	<programme channel="bbcparliament" start="20260909110000 +0000" stop="20260909113500 +0000">
 		<title>Prime Minister's Questions - 09/09/2026</title>
 		<desc>Coverage of questions to Andy Burnham, the prime minister, on Wednesday 9 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8pyf4.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260909113500 +0000" stop="20260909183000 +0000">
+	<programme channel="bbcparliament" start="20260909113500 +0000" stop="20260909123500 +0000">
+		<title>House of Commons - Summer Health and Resilience Statement</title>
+		<desc>The statement on summer health and resilience by health secretary Yvette Cooper.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260909123500 +0000" stop="20260909133500 +0000">
+		<title>House of Commons - Education and Skills Reform Statement</title>
+		<desc>The statement on education and skills reform by education secretary Lucy Powell.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260909133500 +0000" stop="20260909143500 +0000">
+		<title>House of Commons - Jaguar Land Rover Redundancies Statement</title>
+		<desc>The statement on the redundancies at Jaguar Land Rover, on Wednesday 9 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260909143500 +0000" stop="20260909183000 +0000">
 		<title>House of Commons - 09/09/2026</title>
 		<desc>Coverage of the day's proceedings in the House of Commons on Wednesday 9 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
@@ -6676,7 +6696,7 @@
 	<programme channel="bbcparliament" start="20260909210000 +0000" stop="20260909213500 +0000">
 		<title>Prime Minister's Questions - 09/09/2026</title>
 		<desc>Coverage of questions to Andy Burnham, the prime minister, on Wednesday 9 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8pyf4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260909213500 +0000" stop="20260909222000 +0000">
 		<title>Lords Questions - 09/09/2026</title>
@@ -6931,7 +6951,7 @@
 	<programme channel="bbcparliament" start="20260913144000 +0000" stop="20260913151500 +0000">
 		<title>Prime Minister's Questions - 09/09/2026</title>
 		<desc>Coverage of questions to Andy Burnham, the prime minister, on Wednesday 9 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8pyf4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260913151500 +0000" stop="20260913154500 +0000">
 		<title>Scottish First Minister's Questions - 08/09/2026</title>
@@ -6981,7 +7001,7 @@
 	<programme channel="bbcparliament" start="20260914032500 +0000" stop="20260914040000 +0000">
 		<title>Prime Minister's Questions - 09/09/2026</title>
 		<desc>Coverage of questions to Andy Burnham, the prime minister, on Wednesday 9 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn28.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8pyf4.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260914040000 +0000" stop="20260914043000 +0000">
 		<title>Scottish First Minister's Questions - 08/09/2026</title>
@@ -7736,7 +7756,7 @@
 	<programme channel="s4c" start="20260909190000 +0000" stop="20260909192500 +0000">
 		<title>Pobol y Cwm - Wed, 09 Sep 2026</title>
 		<desc>Ceisiai Mathew berswadio Eileen i newid ei meddwl. Mae Diane wedi cael digon o gyhuddia...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf09k9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8p6ww.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260909192500 +0000" stop="20260909195500 +0000">
 		<title>Cartrefi Cymru - Cyfres 2: Tai Eco-gyfeillgar</title>
@@ -8026,7 +8046,7 @@
 	<programme channel="s4c" start="20260910190000 +0000" stop="20260910192500 +0000">
 		<title>Pobol y Cwm - Thu, 10 Sep 2026</title>
 		<desc>Mae Colin yn derbyn galwadau ffôn amheus ond pwy sydd ar yr ochr arall? Nid yw Sioned y...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf09k9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8p73n.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260910192500 +0000" stop="20260910195500 +0000">
 		<title>Rownd a Rownd - Thu, 10 Sep 2026</title>
@@ -8048,12 +8068,12 @@
 		<desc>Mae Carys angen gofod iddi hi ei hun ac mae Sarra a'r tîm yn creu ail lolfa perffaith. ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nw682h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260910213000 +0000" stop="20260910223500 +0000">
+	<programme channel="s4c" start="20260910213000 +0000" stop="20260910223000 +0000">
 		<title>Radio Fa'ma - Cyfres 2: Penrhyndeudraeth</title>
 		<desc>Y tro hwn, mae'r ddau yn mynd i Benrhyndeudraeth i holi'r bobl leol am brofiadau sydd w...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jrlnjt.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260910223500 +0000" stop="20260911050000 +0000">
+	<programme channel="s4c" start="20260910223000 +0000" stop="20260911050000 +0000">
 		<title>Watch Live</title>
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
@@ -8676,7 +8696,7 @@
 	<programme channel="s4c" start="20260913190000 +0000" stop="20260913200000 +0000">
 		<title>Dechrau Canu Dechrau Canmol - Dechrau Canu, Dechrau Canmol</title>
 		<desc>Ymunwch â Nia Roberts mewn cyfres newydd lle byddwn yn dathlu hanes addysg Gymraeg yng ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxw2cw.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8pfb9.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260913200000 +0000" stop="20260913210000 +0000">
 		<title>Cynefin - Cyfres 5: Cleddau</title>
