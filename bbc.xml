@@ -744,7 +744,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07m0phc.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260912181000 +0000" stop="20260912200000 +0000">
-		<title>BBC Proms - 2026: Last Night of the Proms</title>
+		<title>BBC Proms - Last Night of the Proms</title>
 		<desc>Classical music’s biggest party kicks off in style with superstar pianist Yuja Wang.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p944c1.jpg" />
 	</programme>
@@ -868,32 +868,27 @@
 		<desc>Highlights from Radio 2 in the Park, with Blue, James Blunt, Level 42 and more.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p7tdfz.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260913232000 +0000" stop="20260914002000 +0000">
-		<title>Golf: Solheim Cup - 2026: Day 3 Highlights</title>
-		<desc>Highlights from the final day singles as the 2026 Solheim Cup reaches its conclusion.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p941t0.jpg" />
+	<programme channel="bbctwo" start="20260913232000 +0000" stop="20260914010500 +0000">
+		<title>X+Y</title>
+		<desc>Asa Butterfield stars as a socially awkward teenage maths prodigy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08kddg7.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260914002000 +0000" stop="20260914012000 +0000">
-		<title>Cricket: Today at the Test - England v Pakistan 2026: Third Test, Day 5</title>
-		<desc>Coverage of the 2026 Test series between England and Pakistan.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p95z50.jpg" />
-	</programme>
-	<programme channel="bbctwo" start="20260914012000 +0000" stop="20260914015000 +0000">
+	<programme channel="bbctwo" start="20260914010500 +0000" stop="20260914013500 +0000">
 		<title>Colin from Accounts - Series 3: 1. Receptive Penile</title>
 		<desc>Three years later, a chance encounter in a suburban GP clinic reunites Gordon and Ashley.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p7q84z.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260914015000 +0000" stop="20260914022000 +0000">
+	<programme channel="bbctwo" start="20260914013500 +0000" stop="20260914020500 +0000">
 		<title>Colin from Accounts - Series 3: 2. Clean, Honest, Open, Transparent Love</title>
 		<desc>Ash reunites with Colin at a park, and Gordon invites her to his birthday party.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p7q86s.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260914022000 +0000" stop="20260914032000 +0000">
+	<programme channel="bbctwo" start="20260914020500 +0000" stop="20260914030500 +0000">
 		<title>Saving Lives at Sea - Series 11: 2. Sandbank Shipwreck</title>
 		<desc>A mayday comes in from a yacht that is breaking up on a sandbank off the Norfolk coast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p5b2y5.jpg" />
 	</programme>
-	<programme channel="bbctwo" start="20260914032000 +0000" stop="20260914052000 +0000">
+	<programme channel="bbctwo" start="20260914030500 +0000" stop="20260914052000 +0000">
 		<title>This is BBC Two - This is BBC Two</title>
 		<desc>Highlights of programmes on BBC Two.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs8dg.jpg" />
@@ -1789,9 +1784,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs3yq.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260913180000 +0000" stop="20260913190000 +0000">
-		<title>Cricket: Today at the Test - England v Pakistan 2026: Third Test, Day 5</title>
-		<desc>Coverage of the 2026 Test series between England and Pakistan.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p95z50.jpg" />
+		<title>Golf: Solheim Cup - 2026: Day 3 Highlights</title>
+		<desc>Highlights from the final day singles as the 2026 Solheim Cup reaches its conclusion.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p941t0.jpg" />
 	</programme>
 	<programme channel="bbcfour" start="20260913190000 +0000" stop="20260913210000 +0000">
 		<title>BBC Proms - Unmissable Moments at the Proms 2026</title>
@@ -6966,15 +6961,15 @@
 		<desc>Sealladh ùr bho Alba. A new view from Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260912150000 +0000" stop="20260912170000 +0000">
+	<programme channel="bbcalba" start="20260912150000 +0000" stop="20260912170500 +0000">
 		<title>Rugbaidh air BBC ALBA/Rugby on BBC ALBA - Women's Internationals 2026/27: 1. Scotland v Canada</title>
 		<desc>Live women’s rugby from the WXV Global Series as Scotland host Canada in the opening match</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8s0yq.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20260912170000 +0000" stop="20260912171500 +0000">
-		<title>Binneas - Na Trads - Series 12: Episode 1</title>
-		<desc>Concert set performed by Skipinnish, originally recorded live at the Trad Awards, 2024.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lpd1ng.jpg" />
+	<programme channel="bbcalba" start="20260912170500 +0000" stop="20260912171500 +0000">
+		<title>Abigail - Brunch le Abigail: 1. Cruffins</title>
+		<desc>Tha Abigail a’ dèanamh Cruffins. Abigail makes 'cruffins'.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0lrf30k.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20260912171500 +0000" stop="20260912173000 +0000">
 		<title>An Là - 12/09/2026</title>
