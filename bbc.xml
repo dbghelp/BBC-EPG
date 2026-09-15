@@ -5658,9 +5658,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260915233000 +0000" stop="20260916000000 +0000">
-		<title>Newscast - 15/09/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p86f7y.png" />
+		<title>Newscast - Is the UK state pension unaffordable?</title>
+		<desc>The state pension is set to rise by 3.9%, is the triple lock affordable and fair?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p9s51q.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260916000000 +0000" stop="20260916003000 +0000">
 		<title>BBC News - 16/09/2026</title>
@@ -6804,19 +6804,34 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260916050000 +0000" stop="20260916060000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+		<title>House of Lords - Batteries Regulations</title>
+		<desc>The debate on the Batteries (Placing on the Market) (Northern Ireland) Regulations 2026.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260916060000 +0000" stop="20260916070000 +0000">
+	<programme channel="bbcparliament" start="20260916060000 +0000" stop="20260916070500 +0000">
 		<title>House of Commons - Justice Questions</title>
 		<desc>Coverage of questions to Alex Norris on Tuesday 15 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p9qntc.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260916070000 +0000" stop="20260916093000 +0000">
-		<title>House of Commons - 15/09/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 15 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20260916070500 +0000" stop="20260916075500 +0000">
+		<title>House of Commons - Tourism Tax Urgent Question</title>
+		<desc>An urgent question on the impact of the proposed overnight visitor levy in England.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p9qp2p.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260916075500 +0000" stop="20260916082000 +0000">
+		<title>House of Commons - Saudi Oil Pipeline Urgent Question</title>
+		<desc>An urgent question on the impact of the closure of the Saudi East-West oil pipeline.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p9qpfl.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260916082000 +0000" stop="20260916084500 +0000">
+		<title>House of Commons - English Whisky Urgent Question</title>
+		<desc>An urgent question on the English whisky geographical indication Single Malt definition.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p9qsmy.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260916084500 +0000" stop="20260916093000 +0000">
+		<title>Lords Questions - 15/09/2026</title>
+		<desc>Questions in the House of Lords to government ministers on Tuesday 15 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260916093000 +0000" stop="20260916110000 +0000">
 		<title>Select Committees - Lords Constitution Committee</title>
@@ -7824,9 +7839,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p6tsgg.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260915180000 +0000" stop="20260915183000 +0000">
-		<title>Heno - Tue, 15 Sep 2026</title>
-		<desc>Cawn glywed hanes yr efeilliaid Clem a Grace, sy'n rhan o griw Syrcas NoFit State. Bydd...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260915183000 +0000" stop="20260915190000 +0000">
 		<title>Newyddion S4C - Tue, 15 Sep 2026 19:30</title>
