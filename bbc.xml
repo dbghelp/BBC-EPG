@@ -668,7 +668,7 @@
 	<programme channel="bbcone" start="20260921190000 +0000" stop="20260921193000 +0000">
 		<title>Panorama - Grooming Gangs: Why Were We Ignored?</title>
 		<desc>How organised gangs of abusers preyed on girls while authorities looked the other way.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l25ccf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pb4rcf.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20260921193000 +0000" stop="20260921200000 +0000">
 		<title>Clickbait Clinic with Stacey Dooley - Series 1: 1. Is leg-lengthening surgery safe?</title>
@@ -6042,8 +6042,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260919133000 +0000" stop="20260919140000 +0000">
-		<title>AI Decoded - 19/09/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - AI Armageddon</title>
+		<desc>Has the AI industry finally recognised the dangers of the technology it is building?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260919140000 +0000" stop="20260919143000 +0000">
@@ -6162,8 +6162,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260920023000 +0000" stop="20260920030000 +0000">
-		<title>AI Decoded - 19/09/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - AI Armageddon</title>
+		<desc>Has the AI industry finally recognised the dangers of the technology it is building?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260920030000 +0000" stop="20260920033000 +0000">
@@ -6322,8 +6322,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260920223000 +0000" stop="20260920230000 +0000">
-		<title>AI Decoded - 19/09/2026</title>
-		<desc>Exploring and unpacking the world of artificial intelligence.</desc>
+		<title>AI Decoded - AI Armageddon</title>
+		<desc>Has the AI industry finally recognised the dangers of the technology it is building?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l50q1s.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260920230000 +0000" stop="20260920233000 +0000">
@@ -6716,70 +6716,85 @@
 		<desc>Coverage of the debate in the House of Lords on the mental health of agriculture workers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260917153000 +0000" stop="20260917180000 +0000">
+	<programme channel="bbcparliament" start="20260917153000 +0000" stop="20260917171000 +0000">
 		<title>House of Lords - Prison and Probation Service Debate</title>
 		<desc>The debate in the House of Lords on prison and probation services in England and Wales.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260917180000 +0000" stop="20260917182000 +0000">
+	<programme channel="bbcparliament" start="20260917171000 +0000" stop="20260917174000 +0000">
 		<title>Scottish Parliament - General Questions</title>
 		<desc>Coverage of questions to ministers in the Scottish government, on Thursday 17 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260917182000 +0000" stop="20260917185000 +0000">
+	<programme channel="bbcparliament" start="20260917174000 +0000" stop="20260917181500 +0000">
 		<title>Scottish First Minister's Questions - 17/09/2026</title>
 		<desc>Questions from party leaders to the first minister, John Swinney, on Thursday 17 September</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260917185000 +0000" stop="20260917193000 +0000">
-		<title>Scottish Parliament - 17/09/2026</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 17 September.</desc>
+	<programme channel="bbcparliament" start="20260917181500 +0000" stop="20260917185000 +0000">
+		<title>Scottish Parliament - Education Statement</title>
+		<desc>The statement on the Programme for International Student Assessment (Pisa) 2025.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260917193000 +0000" stop="20260917223000 +0000">
-		<title>Scottish Parliament - 17/09/2026</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 17 September.</desc>
+	<programme channel="bbcparliament" start="20260917185000 +0000" stop="20260917204500 +0000">
+		<title>Scottish Parliament - Health Misinformation Debate</title>
+		<desc>The debate in the Scottish Parliament on addressing the harms of health misinformation.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260917223000 +0000" stop="20260917231000 +0000">
+	<programme channel="bbcparliament" start="20260917204500 +0000" stop="20260917211500 +0000">
+		<title>Scottish Parliament - Ferguson Marine Statement</title>
+		<desc>Coverage of the statement by Stephen Flynn on Ferguson Marine, from Thursday 17 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260917211500 +0000" stop="20260917215500 +0000">
+		<title>House of Commons - Thirlwall Inquiry Statement</title>
+		<desc>The statement on the final report and recommendations of the Thirlwall Inquiry.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p9rjv5.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260917215500 +0000" stop="20260917224000 +0000">
 		<title>Lords Questions - 17/09/2026</title>
 		<desc>Questions in the House of Lords to government ministers on Thursday 17 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pb2jf8.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260917231000 +0000" stop="20260917232000 +0000">
+	<programme channel="bbcparliament" start="20260917224000 +0000" stop="20260917225000 +0000">
 		<title>House of Lords - Introductions</title>
 		<desc>Ceremony to introduce Lord Wormald and Lord McCobb as members of the House of Lords.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pb2zxk.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260917232000 +0000" stop="20260917233000 +0000">
+	<programme channel="bbcparliament" start="20260917225000 +0000" stop="20260917230000 +0000">
 		<title>House of Lords - Tourism Tax Statement</title>
 		<desc>Coverage of the debate on the impact of the proposed overnight visitor levy in England.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pb30sn.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260917233000 +0000" stop="20260918001500 +0000">
+	<programme channel="bbcparliament" start="20260917230000 +0000" stop="20260917233500 +0000">
 		<title>House of Lords - Education and Skills Reform Statement</title>
 		<desc>Statement on education and skills reform by education minister Baroness Smith of Malvern.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pb33nr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260918001500 +0000" stop="20260918003000 +0000">
+	<programme channel="bbcparliament" start="20260917233500 +0000" stop="20260917235000 +0000">
 		<title>House of Lords - Saudi Oil Pipeline Statement</title>
 		<desc>Coverage of a statement on the impact of the closure of the Saudi East-West oil pipeline.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pb379j.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260918003000 +0000" stop="20260918030000 +0000">
+	<programme channel="bbcparliament" start="20260917235000 +0000" stop="20260918015000 +0000">
 		<title>House of Lords - Tax and Independent Schools Debate</title>
 		<desc>Coverage of the debate on the impact of VAT and tax changes on independent schools.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260918030000 +0000" stop="20260918040000 +0000">
+	<programme channel="bbcparliament" start="20260918015000 +0000" stop="20260918024500 +0000">
 		<title>House of Lords - Mental Health in Agriculture Debate</title>
 		<desc>Coverage of the debate in the House of Lords on the mental health of agriculture workers.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260918040000 +0000" stop="20260918063000 +0000">
+	<programme channel="bbcparliament" start="20260918024500 +0000" stop="20260918050000 +0000">
 		<title>House of Lords - Prison and Probation Service Debate</title>
 		<desc>The debate in the House of Lords on prison and probation services in England and Wales.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260918050000 +0000" stop="20260918063000 +0000">
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260918063000 +0000" stop="20260918080000 +0000">
 		<title>Westminster Hall - 14/09/2026</title>
