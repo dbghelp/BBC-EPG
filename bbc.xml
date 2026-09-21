@@ -438,22 +438,22 @@
 </desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dkt7rv.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260923214000 +0000" stop="20260923230000 +0000">
+	<programme channel="bbcone" start="20260923214000 +0000" stop="20260923230500 +0000">
 		<title>Sam Smith: Live at the London Coliseum - Live</title>
 		<desc>Sam Smith takes to the stage for an intimate night of music at the iconic London Coliseum.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p9vnqj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260923230000 +0000" stop="20260923234500 +0000">
+	<programme channel="bbcone" start="20260923230500 +0000" stop="20260923235000 +0000">
 		<title>The Hit List - Series 9: Episode 8</title>
 		<desc>Teams from Ashford, Luton and Glasgow compete to win up to £10,000.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p9p0qf.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260923234500 +0000" stop="20260923235000 +0000">
+	<programme channel="bbcone" start="20260923235000 +0000" stop="20260923235500 +0000">
 		<title>Weather for the Week Ahead - 24/09/2026</title>
 		<desc>Detailed weather forecast.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0dc8npj.jpg" />
 	</programme>
-	<programme channel="bbcone" start="20260923235000 +0000" stop="20260924050000 +0000">
+	<programme channel="bbcone" start="20260923235500 +0000" stop="20260924050000 +0000">
 		<title>Joins BBC News - 24/09/2026</title>
 		<desc>BBC One joins the BBC's rolling news channel for a night of news.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6cmtt.jpg" />
@@ -806,8 +806,8 @@
 	</programme>
 	<programme channel="bbctwo" start="20260921180000 +0000" stop="20260921183000 +0000">
 		<title>Global Eye - Indonesia's Toxic Haze Crisis</title>
-		<desc>Bringing forensic journalism from all corners of the world.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzcsk2.jpg" />
+		<desc>Global Eye reports from Indonesia on a devastating environmental crisis.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbrw9d.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260921183000 +0000" stop="20260921190000 +0000">
 		<title>Mastermind - 2026/27: Episode 9</title>
@@ -3264,7 +3264,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04fhfc9.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260925110500 +0000" stop="20260925112500 +0000">
-		<title>Game on Grandparents - Series 2: 10. Grand Final: Fall Guys</title>
+		<title>Game on Grandparents - Series 2: 10. Grand Final</title>
 		<desc>Who will win the final and be crowned the Game on Grandparents Goat?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jh6cxb.jpg" />
 	</programme>
@@ -5295,7 +5295,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4rpph.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260921183000 +0000" stop="20260921190000 +0000">
-		<title>Sportscene: Scottish Women's Premier League - 2026/27 Highlights: 21/09/2026</title>
+		<title>Sportscene: Scottish Women's Premier League - 21/09/2026</title>
 		<desc>Jane Lewis presents highlights from the weekend's fixtures in the SWPL.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbmcg3.jpg" />
 	</programme>
@@ -5330,9 +5330,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0grwx7y.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260921220000 +0000" stop="20260921223000 +0000">
-		<title>Scotcast - 21/09/2026</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqwpf.jpg" />
+		<title>Scotcast - Marra on Indyref</title>
+		<desc>Discussion on Michael Marra’s position on holding an independence referendum.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mk6vmp.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260921223000 +0000" stop="20260921230000 +0000">
 		<title>Sacked in the Morning - Series 2 - TV: 2. Jason McAteer</title>
@@ -5771,9 +5771,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260921233000 +0000" stop="20260922000000 +0000">
-		<title>Newscast - 21/09/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p86f7y.png" />
+		<title>Newscast - Is Europe Entering A New Level Of Threat?</title>
+		<desc>Plus, why has there been a rise in mental distress among children and young people?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbshy3.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260922000000 +0000" stop="20260922003000 +0000">
 		<title>BBC News - 22/09/2026</title>
@@ -6863,7 +6863,7 @@
 	<programme channel="bbcnews" start="20260926043000 +0000" stop="20260926050000 +0000">
 		<title>The Travel Show - How to Eat Like an Italian</title>
 		<desc>Food enthusiast and baker Briony May Williams travels to Italy. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01s92th.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbrlql.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260921045000 +0000" stop="20260921062500 +0000">
 		<title>Select Committees - Monetary Policy Committee</title>
@@ -6908,72 +6908,97 @@
 	<programme channel="bbcparliament" start="20260921110000 +0000" stop="20260921130000 +0000">
 		<title>Northern Ireland Assembly - 21/09/2026</title>
 		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbs78s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260921130000 +0000" stop="20260921134500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to the first minister, Michelle O'Neill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbs6q3.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260921134500 +0000" stop="20260921143000 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Coverage of questions in Stormont to the health minister, Robbie Butler, on 21 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbs7l6.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260921143000 +0000" stop="20260921170000 +0000">
+	<programme channel="bbcparliament" start="20260921143000 +0000" stop="20260921173500 +0000">
 		<title>Northern Ireland Assembly - 21/09/2026</title>
 		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260921170000 +0000" stop="20260921190000 +0000">
-		<title>Northern Ireland Assembly - 21/09/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
+	<programme channel="bbcparliament" start="20260921173500 +0000" stop="20260921180500 +0000">
+		<title>Northern Ireland Assembly - Members' Statements</title>
+		<desc>Coverage of the members' statements in the Northern Ireland Assembly, on 21 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbs78s.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260921180500 +0000" stop="20260921182000 +0000">
+		<title>Northern Ireland Assembly - British-Irish Council Statement</title>
+		<desc>The statement on the 45th summit of the British-Irish Council, on Monday 21 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260921190000 +0000" stop="20260921194500 +0000">
+	<programme channel="bbcparliament" start="20260921182000 +0000" stop="20260921190500 +0000">
+		<title>Northern Ireland Assembly - Release of Gary Anderson Statement</title>
+		<desc>Coverage of the statement on the temporary release of convicted murderer Gary Anderson.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260921190500 +0000" stop="20260921195000 +0000">
+		<title>Northern Ireland Assembly - Maternity Services Statement</title>
+		<desc>Statement by health minister Robbie Butler on maternity services in the Southern Trust.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260921195000 +0000" stop="20260921203500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to the first minister, Michelle O'Neill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbs6q3.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260921194500 +0000" stop="20260921203000 +0000">
+	<programme channel="bbcparliament" start="20260921203500 +0000" stop="20260921212000 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Coverage of questions in Stormont to the health minister, Robbie Butler, on 21 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbs7l6.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260921212000 +0000" stop="20260921234500 +0000">
+		<title>Northern Ireland Assembly - Tree Protection Bill</title>
+		<desc>The second stage debate on the Tree Protection Bill in the Northern Ireland Assembly.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260921203000 +0000" stop="20260921230000 +0000">
-		<title>Northern Ireland Assembly - 21/09/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20260921234500 +0000" stop="20260922015500 +0000">
+		<title>Select Committees - Environmental Audit Committee on Air Pollution</title>
+		<desc>Coverage of the Environmental Audit select committee session on air pollution in England.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pb3fbr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260921230000 +0000" stop="20260922010000 +0000">
-		<title>Northern Ireland Assembly - 21/09/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20260922010000 +0000" stop="20260922014500 +0000">
+	<programme channel="bbcparliament" start="20260922015500 +0000" stop="20260922024000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to the first minister, Michelle O'Neill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbs6q3.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260922014500 +0000" stop="20260922023000 +0000">
+	<programme channel="bbcparliament" start="20260922024000 +0000" stop="20260922032500 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Coverage of questions in Stormont to the health minister, Robbie Butler, on 21 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbs7l6.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260922032500 +0000" stop="20260922041500 +0000">
+		<title>Northern Ireland Assembly - Release of Gary Anderson Statement</title>
+		<desc>Coverage of the statement on the temporary release of convicted murderer Gary Anderson.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260922023000 +0000" stop="20260922050000 +0000">
-		<title>Northern Ireland Assembly - 21/09/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
+	<programme channel="bbcparliament" start="20260922041500 +0000" stop="20260922050000 +0000">
+		<title>Northern Ireland Assembly - Maternity Services Statement</title>
+		<desc>Statement by health minister Robbie Butler on maternity services in the Southern Trust.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260922050000 +0000" stop="20260922070000 +0000">
-		<title>Northern Ireland Assembly - 21/09/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20260922050000 +0000" stop="20260922051000 +0000">
+		<title>House of Lords - Tourism Tax Statement</title>
+		<desc>Coverage of the debate on the impact of the proposed overnight visitor levy in England.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pb30sn.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260922070000 +0000" stop="20260922093000 +0000">
-		<title>Northern Ireland Assembly - 21/09/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20260922051000 +0000" stop="20260922064000 +0000">
+		<title>House of Commons - Fracking Ban Debate</title>
+		<desc>Coverage of the debate in the House of Commons on the merits of a full ban on fracking.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbsbvc.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260922064000 +0000" stop="20260922093000 +0000">
+		<title>Select Committees - Business and Trade Committee on Industrial Strategy</title>
+		<desc>The Business and Trade select committee session on the government's industrial strategy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260922093000 +0000" stop="20260922120000 +0000">
 		<title>Northern Ireland Assembly - 22/09/2026</title>
@@ -7068,7 +7093,7 @@
 	<programme channel="bbcparliament" start="20260924070000 +0000" stop="20260924074500 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to the first minister, Michelle O'Neill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbs6q3.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260924074500 +0000" stop="20260924084500 +0000">
 		<title>Welsh First Minister's Questions - 22/09/2026</title>
@@ -7118,17 +7143,17 @@
 	<programme channel="bbcparliament" start="20260925014500 +0000" stop="20260925034500 +0000">
 		<title>Northern Ireland Assembly - 21/09/2026</title>
 		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 21 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbs78s.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260925034500 +0000" stop="20260925043000 +0000">
 		<title>Northern Ireland Assembly - Executive Office Questions</title>
 		<desc>Questions in the Northern Ireland Assembly to the first minister, Michelle O'Neill.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbs6q3.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260925043000 +0000" stop="20260925051500 +0000">
 		<title>Northern Ireland Assembly - Health Questions</title>
 		<desc>Coverage of questions in Stormont to the health minister, Robbie Butler, on 21 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbs7l6.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260925051500 +0000" stop="20260925074500 +0000">
 		<title>Northern Ireland Assembly - 21/09/2026</title>
@@ -7993,11 +8018,11 @@
 	<programme channel="s4c" start="20260921173000 +0000" stop="20260921180000 +0000">
 		<title>Rownd a Rownd - Thu, 17 Sep 2026</title>
 		<desc>Mae'r Ks yn wynebu carreg filltir anodd, ac mae gan Lowri newyddion pwysig i'w rannu. T...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b1w6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbrrlr.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260921180000 +0000" stop="20260921183000 +0000">
 		<title>Heno - Mon, 21 Sep 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Byddwn yn clywed hanesion enillwyr Gwobrau Gwneud Gwahaniaeth BBC Cymru, a chawn gwrdd ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260921183000 +0000" stop="20260921190000 +0000">
@@ -8202,7 +8227,7 @@
 	</programme>
 	<programme channel="s4c" start="20260922113000 +0000" stop="20260922120000 +0000">
 		<title>Heno - Mon, 21 Sep 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Byddwn yn clywed hanesion enillwyr Gwobrau Gwneud Gwahaniaeth BBC Cymru, a chawn gwrdd ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260922120000 +0000" stop="20260922123000 +0000">
@@ -8292,7 +8317,7 @@
 	</programme>
 	<programme channel="s4c" start="20260922180000 +0000" stop="20260922183000 +0000">
 		<title>Heno - Tue, 22 Sep 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Rhodri Owen sydd wedi bod ar antur gyda'r cogydd Tomos Parry. Cawn ddathlu pen-blwydd R...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260922183000 +0000" stop="20260922190000 +0000">
@@ -8308,7 +8333,7 @@
 	<programme channel="s4c" start="20260922192500 +0000" stop="20260922195500 +0000">
 		<title>Rownd a Rownd - Tue, 22 Sep 2026</title>
 		<desc>Mae Arthur yn nerfus am ei ddêt gyda Marjorie, ac mae Lowri a Philip yn dathlu newyddio...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b1w6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbrrvw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260922195500 +0000" stop="20260922200000 +0000">
 		<title>Newyddion S4C - Tue, 22 Sep 2026 20:55</title>
@@ -8497,7 +8522,7 @@
 	</programme>
 	<programme channel="s4c" start="20260923113000 +0000" stop="20260923120000 +0000">
 		<title>Heno - Tue, 22 Sep 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Rhodri Owen sydd wedi bod ar antur gyda'r cogydd Tomos Parry. Cawn ddathlu pen-blwydd R...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260923120000 +0000" stop="20260923123000 +0000">
@@ -8583,11 +8608,11 @@
 	<programme channel="s4c" start="20260923173000 +0000" stop="20260923180000 +0000">
 		<title>Rownd a Rownd - Tue, 22 Sep 2026</title>
 		<desc>Mae Arthur yn nerfus am ei ddêt gyda Marjorie, ac mae Lowri a Philip yn dathlu newyddio...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b1w6.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbrrvw.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260923180000 +0000" stop="20260923183000 +0000">
 		<title>Heno - Wed, 23 Sep 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Bydd Kizzy Crawford yn y stiwdio am sgwrs a chân, a chawn glywed am furlun newydd ym Ml...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260923183000 +0000" stop="20260923190000 +0000">
@@ -8792,7 +8817,7 @@
 	</programme>
 	<programme channel="s4c" start="20260924113000 +0000" stop="20260924120000 +0000">
 		<title>Heno - Wed, 23 Sep 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Bydd Kizzy Crawford yn y stiwdio am sgwrs a chân, a chawn glywed am furlun newydd ym Ml...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260924120000 +0000" stop="20260924123000 +0000">
@@ -8877,7 +8902,7 @@
 	</programme>
 	<programme channel="s4c" start="20260924173000 +0000" stop="20260924180000 +0000">
 		<title>Heno - Thu, 24 Sep 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Bydd Bethan Richards yn sôn am ei phodlediad, a bydd Daf Wyn yn y Senedd mewn digwyddia...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260924180000 +0000" stop="20260924182000 +0000">
@@ -9067,7 +9092,7 @@
 	</programme>
 	<programme channel="s4c" start="20260925113000 +0000" stop="20260925120000 +0000">
 		<title>Heno - Thu, 24 Sep 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Bydd Bethan Richards yn sôn am ei phodlediad, a bydd Daf Wyn yn y Senedd mewn digwyddia...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260925120000 +0000" stop="20260925123000 +0000">
@@ -9157,7 +9182,7 @@
 	</programme>
 	<programme channel="s4c" start="20260925180000 +0000" stop="20260925183000 +0000">
 		<title>Heno - Fri, 25 Sep 2026</title>
-		<desc>Rhaglen gylchgrawn nosweithiol gyda straeon o bob cwr o Gymru. Nightly magazine with st...</desc>
+		<desc>Cawn flas ar Laffwyl Caerdydd, a bydd Mared Williams yn y stiwdio i sôn am sioe Pride. ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n8b34r.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260925183000 +0000" stop="20260925190000 +0000">
