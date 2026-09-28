@@ -802,7 +802,7 @@
 	<programme channel="bbctwo" start="20260928173000 +0000" stop="20260928180000 +0000">
 		<title>Strictly - It Takes Two - Series 24: Episode 1</title>
 		<desc>It Takes Two is back with new host Ellie Taylor.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pc205f.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxp0p.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20260928180000 +0000" stop="20260928183000 +0000">
 		<title>Global Eye - The Murder That Changed Malta</title>
@@ -2658,7 +2658,7 @@
 	<programme channel="cbbc" start="20260930100000 +0000" stop="20260930103000 +0000">
 		<title>BBC Live Lessons - Series 8: 500 Words 2026</title>
 		<desc>Interactive programme to support teachers and students in their classrooms.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jvbl60.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcwhxs.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20260930103000 +0000" stop="20260930110000 +0000">
 		<title>Horrible Histories - Specials: Staggering Storytellers</title>
@@ -5220,7 +5220,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4rpph.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260928183000 +0000" stop="20260928190000 +0000">
-		<title>Sportscene: Scottish Women's Premier League - 2026/27 Highlights: 28/09/2026</title>
+		<title>Sportscene: Scottish Women's Premier League - 28/09/2026</title>
 		<desc>Jane Lewis presents highlights from the weekend’s fixtures in the SWPL.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcv51n.jpg" />
 	</programme>
@@ -5250,9 +5250,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0grwxrk.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260928220000 +0000" stop="20260928223000 +0000">
-		<title>Scotcast - 28/09/2026</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqwpf.jpg" />
+		<title>Scotcast - Glasgow Council Dispute</title>
+		<desc>How did we end up with Glasgow City council in dispute with the unions?</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mk6vmp.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20260928223000 +0000" stop="20260928230000 +0000">
 		<title>Sacked in the Morning - Series 2 - TV: 3. Dean Saunders</title>
@@ -5524,7 +5524,7 @@
 	<programme channel="bbcnews" start="20260928070000 +0000" stop="20260928073000 +0000">
 		<title>BBC News - 28/09/2026</title>
 		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxb6q.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260928073000 +0000" stop="20260928080000 +0000">
 		<title>BBC News - 28/09/2026</title>
@@ -5607,9 +5607,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260928150000 +0000" stop="20260928153000 +0000">
-		<title>Verified Live - 28/09/2026</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fpbn2v.jpg" />
+		<title>BBC News - 28/09/2026</title>
+		<desc>The latest news from the BBC.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260928153000 +0000" stop="20260928154500 +0000">
 		<title>Business Today - 28/09/2026</title>
@@ -5784,7 +5784,7 @@
 	<programme channel="bbcnews" start="20260929070000 +0000" stop="20260929073000 +0000">
 		<title>BBC News - 29/09/2026</title>
 		<desc>The latest news from the BBC.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxb6q.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20260929073000 +0000" stop="20260929080000 +0000">
 		<title>BBC News - 29/09/2026</title>
@@ -6824,72 +6824,132 @@
 	<programme channel="bbcparliament" start="20260928110000 +0000" stop="20260928130000 +0000">
 		<title>Northern Ireland Assembly - 28/09/2026</title>
 		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 28 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxdbx.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260928130000 +0000" stop="20260928134500 +0000">
 		<title>Northern Ireland Assembly - Justice Questions</title>
 		<desc>Questions in the Northern Ireland Assembly in Stormont to the justice minister Naomi Long.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxdtr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260928134500 +0000" stop="20260928143000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxffl.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260928143000 +0000" stop="20260928170000 +0000">
+	<programme channel="bbcparliament" start="20260928143000 +0000" stop="20260928162500 +0000">
 		<title>Northern Ireland Assembly - 28/09/2026</title>
 		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 28 September.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260928170000 +0000" stop="20260928190000 +0000">
+	<programme channel="bbcparliament" start="20260928162500 +0000" stop="20260928163000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260928163000 +0000" stop="20260928170000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Scheduled Treatment for Trans Patients</title>
+		<desc>Coverage of the debate on the pause in scheduled treatment for trans patients.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcvcrg.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260928170000 +0000" stop="20260928175000 +0000">
 		<title>Northern Ireland Assembly - 28/09/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 28 September.</desc>
+		<desc>Coverage of proceedings in the Northern Ireland Assembly, on Monday 28 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260928175000 +0000" stop="20260928180000 +0000">
+		<title>Northern Ireland Assembly - Tributes to Paul Butler</title>
+		<desc>Coverage of MLAs making statements following on the death of former MLA Paul Butler.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260928180000 +0000" stop="20260928190000 +0000">
+		<title>Northern Ireland Assembly - Debate on Drumcree</title>
+		<desc>'Matter of the day' debate on the Parades Commission decision on Drumcree.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260928190000 +0000" stop="20260928194500 +0000">
 		<title>Northern Ireland Assembly - Justice Questions</title>
 		<desc>Questions in the Northern Ireland Assembly in Stormont to the justice minister Naomi Long.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxdtr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260928194500 +0000" stop="20260928203000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxffl.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260928203000 +0000" stop="20260928204500 +0000">
+		<title>Northern Ireland Assembly - Code of Conduct</title>
+		<desc>Report on proposed updates to the Assembly Members' Code of Conduct.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260928203000 +0000" stop="20260928230000 +0000">
-		<title>Northern Ireland Assembly - 28/09/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 28 September.</desc>
+	<programme channel="bbcparliament" start="20260928204500 +0000" stop="20260928205000 +0000">
+		<title>Northern Ireland Assembly - Irish-medium Education (Workforce Plan) Bill</title>
+		<desc>Coverage of votes on amendments to the Irish-medium Education (Workforce Plan) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260928230000 +0000" stop="20260929010000 +0000">
-		<title>Northern Ireland Assembly - 28/09/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 28 September.</desc>
+	<programme channel="bbcparliament" start="20260928205000 +0000" stop="20260928224000 +0000">
+		<title>Northern Ireland Assembly - Conversion Practices (Criminalisation) Bill</title>
+		<desc>Second stage debate on the Conversion Practices (Criminalisation) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260929010000 +0000" stop="20260929014500 +0000">
+	<programme channel="bbcparliament" start="20260928224000 +0000" stop="20260929013000 +0000">
+		<title>Westminster Hall - Petition to Hold a Referendum to Nationalise the Water Sector</title>
+		<desc>Debate on a referendum on the water sector should be brought back into public ownership.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcbnl0.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260929013000 +0000" stop="20260929014000 +0000">
+		<title>Northern Ireland Assembly - Tributes to Paul Butler</title>
+		<desc>Coverage of MLAs making statements following on the death of former MLA Paul Butler.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260929014000 +0000" stop="20260929024000 +0000">
+		<title>Northern Ireland Assembly - Debate on Drumcree</title>
+		<desc>'Matter of the day' debate on the Parades Commission decision on Drumcree.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260929024000 +0000" stop="20260929032500 +0000">
 		<title>Northern Ireland Assembly - Justice Questions</title>
 		<desc>Questions in the Northern Ireland Assembly in Stormont to the justice minister Naomi Long.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxdtr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260929014500 +0000" stop="20260929023000 +0000">
+	<programme channel="bbcparliament" start="20260929032500 +0000" stop="20260929041000 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxffl.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260929041000 +0000" stop="20260929042500 +0000">
+		<title>Northern Ireland Assembly - Code of Conduct</title>
+		<desc>Report on proposed updates to the Assembly Members' Code of Conduct.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260929023000 +0000" stop="20260929050000 +0000">
-		<title>Northern Ireland Assembly - 28/09/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 28 September.</desc>
+	<programme channel="bbcparliament" start="20260929042500 +0000" stop="20260929043000 +0000">
+		<title>Northern Ireland Assembly - Irish-medium Education (Workforce Plan) Bill</title>
+		<desc>Coverage of votes on amendments to the Irish-medium Education (Workforce Plan) Bill.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260929050000 +0000" stop="20260929070000 +0000">
-		<title>Northern Ireland Assembly - 28/09/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 28 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20260929043000 +0000" stop="20260929050000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20260929070000 +0000" stop="20260929093000 +0000">
-		<title>Northern Ireland Assembly - 28/09/2026</title>
-		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 28 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20260929050000 +0000" stop="20260929053000 +0000">
+		<title>Scottish First Minister's Questions - 22/09/2026</title>
+		<desc>Questions from backbench MSPs to John Swinney, the first minister, on Tuesday 22 September</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pc203k.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260929053000 +0000" stop="20260929063000 +0000">
+		<title>Westminster Hall - Civil Service Pension Scheme</title>
+		<desc>A Westminster Hall debate on issues concerning the civil service pension scheme.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260929063000 +0000" stop="20260929075500 +0000">
+		<title>Westminster Hall - Sudan's Civil War</title>
+		<desc>A Westminster Hall debate on the ongoing civil war in Sudan, on Tuesday 8 September.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20260929075500 +0000" stop="20260929093000 +0000">
+		<title>Westminster Hall - Safety of the Jewish Community</title>
+		<desc>Coverage of the debate in Westminster Hall on the safety of the Jewish community.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcvmmj.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20260929093000 +0000" stop="20260929120000 +0000">
 		<title>Northern Ireland Assembly - 29/09/2026</title>
@@ -6984,7 +7044,7 @@
 	<programme channel="bbcparliament" start="20261001070000 +0000" stop="20261001074500 +0000">
 		<title>Northern Ireland Assembly - Justice Questions</title>
 		<desc>Questions in the Northern Ireland Assembly in Stormont to the justice minister Naomi Long.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxdtr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261001074500 +0000" stop="20261001084500 +0000">
 		<title>Welsh First Minister's Questions - 29/09/2026</title>
@@ -7034,17 +7094,17 @@
 	<programme channel="bbcparliament" start="20261002014500 +0000" stop="20261002034500 +0000">
 		<title>Northern Ireland Assembly - 28/09/2026</title>
 		<desc>Coverage of proceedings in the Northern Ireland Assembly on Monday 28 September.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxdbx.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261002034500 +0000" stop="20261002043000 +0000">
 		<title>Northern Ireland Assembly - Justice Questions</title>
 		<desc>Questions in the Northern Ireland Assembly in Stormont to the justice minister Naomi Long.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxdtr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261002043000 +0000" stop="20261002051500 +0000">
 		<title>Northern Ireland Assembly - Agriculture, Environment and Rural Affairs Questions</title>
 		<desc>Questions to the agriculture, environment and rural affairs minister, Andrew Muir.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcxffl.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261002051500 +0000" stop="20261002074500 +0000">
 		<title>Northern Ireland Assembly - 28/09/2026</title>
@@ -7848,7 +7908,7 @@
 	</programme>
 	<programme channel="s4c" start="20260928130500 +0000" stop="20260928140000 +0000">
 		<title>Prynhawn Da - Mon, 28 Sep 2026</title>
-		<desc>Cyfres gylchgrawn gydag eitemau am lyfrau, coginio, ffasiwn a chyngor am bopeth o addur...</desc>
+		<desc>Ted Williams, the 2026 BBC Make a Difference's Environmental Award winner, will join us...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260928140000 +0000" stop="20260928140500 +0000">
@@ -7976,40 +8036,40 @@
 		<desc>Mae pobol yn mwynhau casglu pob mathau o bethau, ond moch sy'n diddori Gwawr. People en...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npvg3q.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929053500 +0000" stop="20260929055000 +0000">
+	<programme channel="s4c" start="20260929053500 +0000" stop="20260929054500 +0000">
 		<title>Sion y Chef - Cyfres 1: Merlod Mentrus</title>
 		<desc>Mae Sid Singh yn mynd â'r plant ar drip natur, ond aiff pethau'n draed moch pan mae Mar...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07g3lny.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929055000 +0000" stop="20260929060000 +0000">
+	<programme channel="s4c" start="20260929054500 +0000" stop="20260929055500 +0000">
 		<title>Ein Byd Bach Ni - Cyfres 2: Siapiau a Phatrymau</title>
 		<desc>Yn y rhaglen yma byddwn yn dysgu am siapiau gwahanol, fel cylch, triongl , petryal ac h...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ncqz2m.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929060000 +0000" stop="20260929060500 +0000">
+	<programme channel="s4c" start="20260929055500 +0000" stop="20260929060500 +0000">
 		<title>Nos Da Cyw - Cyfres 2: Dirgelwch Amser Gwely</title>
 		<desc>Sh! Heddiw cawn stori am Jangl a'r dirgelwch amser gwely. Today's story is about Jangl,...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nhtz2l.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929060500 +0000" stop="20260929061500 +0000">
+	<programme channel="s4c" start="20260929060500 +0000" stop="20260929061000 +0000">
 		<title>Blwi - Mam a Dad</title>
 		<desc>Mae Indi a Rysti'n chwarae gêm o Mam a Dad, ond ma' nhw methu cytuno pwy ddylai fynd i'...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pchk60.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929061500 +0000" stop="20260929063000 +0000">
+	<programme channel="s4c" start="20260929061000 +0000" stop="20260929062500 +0000">
 		<title>Dreigiau Cadi - Cyfres 2: Tren Blodau</title>
 		<desc>Mae cystadleuaeth y Trên Blodau yn cyd-fynd â noson arbennig Crugwen a Dai. Ond mae 'na...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns2cpz.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929063000 +0000" stop="20260929064500 +0000">
+	<programme channel="s4c" start="20260929062500 +0000" stop="20260929064500 +0000">
 		<title>Ger a Gu - Ble Mae'r Ystlumod?</title>
 		<desc>Mae'r ystlumod sy'n nythu yn nho sied Tad-cu wedi mynd ar goll! Gall Ger ddod o hyd idd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pc24gx.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260929064500 +0000" stop="20260929070000 +0000">
-		<title>Parc Glan Gwil - Cyfres 1: Pennod 22</title>
-		<desc>Mae Derwena Derbynfa yn edrych mlaen i fynd i chwarae golff, ond mae ei chlybiau golff ...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7d8v.jpg" />
+		<title>Watch Live</title>
+		<desc>Schedule information is currently being updated.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260929070000 +0000" stop="20260929071000 +0000">
 		<title>Cymylaubychain - Cyfres 1: Diwrnod Boslyd Baba Pinc</title>
@@ -8026,37 +8086,37 @@
 		<desc>Mae Nel yn gofyn 'Pam bod adar yn trydar?' ac mae Tad-cu'n ateb gyda stori sili ond ann...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p963j1.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929073500 +0000" stop="20260929075000 +0000">
+	<programme channel="s4c" start="20260929073500 +0000" stop="20260929074500 +0000">
 		<title>Octonots - Cyfres 3: a'r Llyn Cudd</title>
 		<desc>Pan mae'r Octonots yn dod o hyd i lyn dirgel o dan yr Antarctig, mae Cregynnog yn awydd...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04n6x3m.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929075000 +0000" stop="20260929080000 +0000">
+	<programme channel="s4c" start="20260929074500 +0000" stop="20260929075500 +0000">
 		<title>Annibendod - Cyfres 1: Pennaeth Gorau Cymru</title>
 		<desc>Mae Mrs Moss wedi cyrraedd rownd derfynol gwobr Pennaeth Gorau Cymru. Mae Miss Enfys we...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l9pvg4.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929080000 +0000" stop="20260929080500 +0000">
+	<programme channel="s4c" start="20260929075500 +0000" stop="20260929080500 +0000">
 		<title>Y Tralalas - Cyfres 1: Gwyliau</title>
 		<desc>Mae Harmoni, Melodi a Bop yn mynd ar wyliau, hwrê! Maen nhw'n cael gymaint o hwyl fel b...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p7bq0g.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929080500 +0000" stop="20260929082000 +0000">
+	<programme channel="s4c" start="20260929080500 +0000" stop="20260929081500 +0000">
 		<title>Digbi Draig - Cyfres 1: Y Bwystfil Mwd</title>
 		<desc>Does neb eisiau helpu Cochyn i ddod o hyd i'w farcud yn y gors oherwydd y Bwystfil Mwd!...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n0cpjj.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929082000 +0000" stop="20260929083000 +0000">
+	<programme channel="s4c" start="20260929081500 +0000" stop="20260929082500 +0000">
 		<title>Bendibwmbwls - Cyfres 2: Ysgol y Manod</title>
 		<desc>Mae Ben Dant ar antur i ailgylchu sbwriel yn sbeshal. Heddiw bydd e'n ymuno â disgyblio...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9582v.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929083000 +0000" stop="20260929084000 +0000">
+	<programme channel="s4c" start="20260929082500 +0000" stop="20260929083500 +0000">
 		<title>Crawc a'i Ffrindiau - Cyfres 1: Y Gwichdy</title>
 		<desc>Mae Gwich wedi dweud wrth ei frawd fod e'n byw yn y Crawcdy. Felly pan ddaw ei frawd i ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p8kj1h.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929084000 +0000" stop="20260929090000 +0000">
+	<programme channel="s4c" start="20260929083500 +0000" stop="20260929090000 +0000">
 		<title>Waw! - Waw! - Arnofio a Suddo</title>
 		<desc>Beth sy'n arnofio a beth sy'n suddo a pham? Dewch i ddarganfod mwy gyda Awi a'r criw. W...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf118k.jpg" />
@@ -8071,12 +8131,12 @@
 		<desc>Mae Lleucs eisiau rhoi llythyr i'w harwr: Cath Roced! Lleucs wants to give a letter to ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p02j58g9.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929092000 +0000" stop="20260929093500 +0000">
+	<programme channel="s4c" start="20260929092000 +0000" stop="20260929094000 +0000">
 		<title>Ne-wff-ion - Cyfres 2: Pennod 5</title>
 		<desc>Ar y Newffion heddiw, mae cennin yn bwysig iawn i Gymru, ond beth mae'r statws PGI newy...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0npvg3q.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929093500 +0000" stop="20260929095000 +0000">
+	<programme channel="s4c" start="20260929094000 +0000" stop="20260929095000 +0000">
 		<title>Sion y Chef - Cyfres 1: Ble mae Elis?</title>
 		<desc>Mae Mario'n gofalu am Elis, ci Sam Spratt, ond cyn pen dim mae'r ci bach yn rhedeg i ff...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nf1dx8.jpg" />
@@ -8101,12 +8161,12 @@
 		<desc>Mae'r dreigiau yn profi eu Calan Gaeaf cyntaf ac mae'r cyfan yn dipyn o sypreis i'r dre...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ns2ccs.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929103000 +0000" stop="20260929104500 +0000">
+	<programme channel="s4c" start="20260929103000 +0000" stop="20260929104000 +0000">
 		<title>Ger a Gu - Adar o'r Unlliw</title>
 		<desc>Mae'n Wyl y Blodau ym Mhorthoer ac mae pawb yn troi'n gystadleuol - hydnoed y robin goc...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p9lfh0.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929104500 +0000" stop="20260929110000 +0000">
+	<programme channel="s4c" start="20260929104000 +0000" stop="20260929110000 +0000">
 		<title>Parc Glan Gwil - Cyfres 1: Pennod 21</title>
 		<desc>Mae Cai Caffi'n trefnu noson byrgyrs yn y caffi, ond mae Sioned Siop yn cael trafferth ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nh7d8v.jpg" />
@@ -8143,7 +8203,7 @@
 	</programme>
 	<programme channel="s4c" start="20260929130500 +0000" stop="20260929140000 +0000">
 		<title>Prynhawn Da - Tue, 29 Sep 2026</title>
-		<desc>Cyfres gylchgrawn gydag eitemau am lyfrau, coginio, ffasiwn a chyngor am bopeth o addur...</desc>
+		<desc>Bydd Branwen Niclas o elusen Maint Cymru yn sôn am waith diweddaraf yr elusen, a bydd D...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260929140000 +0000" stop="20260929140500 +0000">
@@ -8186,17 +8246,17 @@
 		<desc>Mae Craca Hyll yn twyllo Twmffat a Begonia i feddwl ei fod yn garedig, felly mae nhw'n ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n45x9j.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929161500 +0000" stop="20260929162500 +0000">
+	<programme channel="s4c" start="20260929161500 +0000" stop="20260929162000 +0000">
 		<title>Grisi a'r Lemingod - Arth Coslyd</title>
 		<desc>Mae chwain wedi cymryd drosodd y caban - a all Grisi gael gwared arnyn nhw? Grisi's cab...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p9r0dp.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929162500 +0000" stop="20260929164000 +0000">
+	<programme channel="s4c" start="20260929162000 +0000" stop="20260929163500 +0000">
 		<title>Y Tri Mysgedwr - Mae Miledi yn ol</title>
 		<desc>Mae Miledi yn esgus bod mewn perygl ac yn llochesu yn Ysgol y Cadetiaid - ond i ba bwrp...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pc242n.jpg" />
 	</programme>
-	<programme channel="s4c" start="20260929164000 +0000" stop="20260929170000 +0000">
+	<programme channel="s4c" start="20260929163500 +0000" stop="20260929170000 +0000">
 		<title>Un Cwestiwn - Cyfres 3: Pennod 8</title>
 		<desc>Rhaglen sy'n troi'r fformat cwis ar ei ben. Y cwestiwn cynta' welwch chi yw'r un tynged...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p47hgr.jpg" />
@@ -8438,7 +8498,7 @@
 	</programme>
 	<programme channel="s4c" start="20260930130500 +0000" stop="20260930140000 +0000">
 		<title>Prynhawn Da - Wed, 30 Sep 2026</title>
-		<desc>Cyfres gylchgrawn gydag eitemau am lyfrau, coginio, ffasiwn a chyngor am bopeth o addur...</desc>
+		<desc>Bydd Heledd Haf Evans yn trafod ein hawliau wrth deithio, a chawn ni hefyd gipolwg ar A...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20260930140000 +0000" stop="20260930140500 +0000">
@@ -8738,7 +8798,7 @@
 	</programme>
 	<programme channel="s4c" start="20261001130500 +0000" stop="20261001140000 +0000">
 		<title>Prynhawn Da - Thu, 01 Oct 2026</title>
-		<desc>Cyfres gylchgrawn gydag eitemau am lyfrau, coginio, ffasiwn a chyngor am bopeth o addur...</desc>
+		<desc>Bydd Dr Angharad yn agor drysau'r syrjeri, a byddwn ni hefyd yn cael sesiwn ffitrwydd. ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20261001140000 +0000" stop="20261001140500 +0000">
@@ -9013,7 +9073,7 @@
 	</programme>
 	<programme channel="s4c" start="20261002130500 +0000" stop="20261002140000 +0000">
 		<title>Prynhawn Da - Fri, 02 Oct 2026</title>
-		<desc>Cyfres gylchgrawn gydag eitemau am lyfrau, coginio, ffasiwn a chyngor am bopeth o addur...</desc>
+		<desc>Bydd Michelle yn y gegin gydag awgrymiadau blasus am y bwydydd cysur perffaith, a bydd ...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0hskb44.jpg" />
 	</programme>
 	<programme channel="s4c" start="20261002140000 +0000" stop="20261002140500 +0000">
