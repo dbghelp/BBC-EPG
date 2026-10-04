@@ -62,7 +62,7 @@
 	<programme channel="bbcone" start="20261004080000 +0000" stop="20261004090000 +0000">
 		<title>Sunday with Laura Kuenssberg - Kemi Badenoch, Prison Releases and MP Safety</title>
 		<desc>Laura's guests are Kemi Badenoch, Alex Norris, Katie Amess and Richard Tice.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pdxvhl.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20261004090000 +0000" stop="20261004093000 +0000">
 		<title>Politics London - 04/10/2026</title>
@@ -5570,7 +5570,7 @@
 	<programme channel="bbcnews" start="20261004080000 +0000" stop="20261004090000 +0000">
 		<title>Sunday with Laura Kuenssberg - Kemi Badenoch, Prison Releases and MP Safety</title>
 		<desc>Laura's guests are Kemi Badenoch, Alex Norris, Katie Amess and Richard Tice.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pdxvhl.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20261004090000 +0000" stop="20261004093000 +0000">
 		<title>BBC News - 04/10/2026</title>
@@ -7862,15 +7862,10 @@
 		<desc>Yn rhannu Cyfrinachau'r Llyfrgell y tro yma mae llais Cymru yn America, y newyddiadurwr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jvrnst.jpg" />
 	</programme>
-	<programme channel="s4c" start="20261004120000 +0000" stop="20261004134500 +0000">
+	<programme channel="s4c" start="20261004120000 +0000" stop="20261004140500 +0000">
 		<title>Ralio+ - Cyfres 2026: Ralio+: Cymal Cyffro Sardinia</title>
 		<desc>Cymal Cyffro Byw chweched rownd Pencampwriaeth Rali'r Byd o Sardinia. The Power Stage r...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pdp8wf.jpg" />
-	</programme>
-	<programme channel="s4c" start="20261004134500 +0000" stop="20261004140500 +0000">
-		<title>Sgwrs Ar Y Beic - Elfyn Evans</title>
-		<desc>Sgwrs Ar Y Beic gyda'r gyrrwr rali Elfyn Evans. A chat with the World Rally driver Elfy...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p3w9d6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20261004140500 +0000" stop="20261004150000 +0000">
 		<title>Y Wal - Cyfres 2: Y Ffindir a Rwsia</title>
@@ -7882,10 +7877,15 @@
 		<desc>Cyfres sy'n edrych ar y byd amaeth, yn cynnwys rai o bynciau llosg y diwydiant. A serie...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n9m08j.jpg" />
 	</programme>
-	<programme channel="s4c" start="20261004153000 +0000" stop="20261004171000 +0000">
+	<programme channel="s4c" start="20261004153000 +0000" stop="20261004170500 +0000">
 		<title>Clwb Rygbi URC - Tymor 2026/27: Clwb Rygbi URC:  Dreigiau v Scarlets</title>
 		<desc>Mae'r Scarlets yn wynebu her o'r dwyrain mewn darbi Gymreig. Y Dregiau yw'r gwrthwynebw...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcgstr.jpg" />
+	</programme>
+	<programme channel="s4c" start="20261004170500 +0000" stop="20261004171000 +0000">
+		<title>24 Awr Newidiodd Gymru - Cyfres 1: Cymru Yn Euro 2016</title>
+		<desc>Richard Parks sy'n archwilio cyfnodau allweddol yn hanes Cymru a'r tro hwn yn adrodd st...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kv0l7s.jpg" />
 	</programme>
 	<programme channel="s4c" start="20261004171000 +0000" stop="20261004180000 +0000">
 		<title>Pobol y Cwm - Sun, 04 Oct 2026</title>
