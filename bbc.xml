@@ -5678,9 +5678,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20261004193000 +0000" stop="20261004200000 +0000">
-		<title>Newscast - 04/10/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p86f7y.png" />
+		<title>Newscast - Are the Public Ready to Vote Tory Again?</title>
+		<desc>We look at whether Kemi Badenoch can lead a Conservative comeback.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pdy66x.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20261004200000 +0000" stop="20261004210000 +0000">
 		<title>BBC News - 04/10/2026</title>
@@ -7201,16 +7201,15 @@
 		<desc>Sealladh ùr bho Alba. A new view from Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20261004130000 +0000" stop="20261004151000 +0000">
+	<programme channel="bbcalba" start="20261004130000 +0000" stop="20261004151500 +0000">
 		<title>Scottish Women's Premier League (BBC ALBA) - 2026/27: 6. Hibernian v Hearts</title>
 		<desc>We bring you the first Edinburgh derby of the season as Hibernian take on Hearts.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pc30p8.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20261004151000 +0000" stop="20261004152000 +0000">
-		<title>Losgannan | Froglets - Series 1: 18. Disco</title>
-		<desc>The Froglets turn Alex's chessboard into a dancefloor and bust out their top disco moves!
-</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nm1yrn.jpg" />
+	<programme channel="bbcalba" start="20261004151500 +0000" stop="20261004152000 +0000">
+		<title>Fraochy Bay - Series 1: 13. Fiaclan fiadhaich (The Dinosaur Dentist)</title>
+		<desc>Local schoolchildren present the dentist with a monstrous problem.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01hf2z5.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20261004152000 +0000" stop="20261004153500 +0000">
 		<title>Na Clangairean - Series 1: 12. Cho Aonaranach ri Sgòth</title>
@@ -7862,10 +7861,15 @@
 		<desc>Yn rhannu Cyfrinachau'r Llyfrgell y tro yma mae llais Cymru yn America, y newyddiadurwr...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jvrnst.jpg" />
 	</programme>
-	<programme channel="s4c" start="20261004120000 +0000" stop="20261004140500 +0000">
-		<title>Ralio+ - Cyfres 2026: Ralio+: Cymal Cyffro Sardinia</title>
-		<desc>Cymal Cyffro Byw chweched rownd Pencampwriaeth Rali'r Byd o Sardinia. The Power Stage r...</desc>
+	<programme channel="s4c" start="20261004120000 +0000" stop="20261004134500 +0000">
+		<title>Ralio+ - Cyfres 2026: Ralio+ WRC Sardinia</title>
+		<desc>Cymal Cyffro Pencampwriaeth Rali'r Byd o Sardinia. The Power Stage round of the World R...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pdp8wf.jpg" />
+	</programme>
+	<programme channel="s4c" start="20261004134500 +0000" stop="20261004140500 +0000">
+		<title>Sgwrs Ar Y Beic - Elfyn Evans</title>
+		<desc>Sgwrs Ar Y Beic gyda'r gyrrwr rali Elfyn Evans. A chat with the World Rally driver Elfy...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p3w9d6.jpg" />
 	</programme>
 	<programme channel="s4c" start="20261004140500 +0000" stop="20261004150000 +0000">
 		<title>Y Wal - Cyfres 2: Y Ffindir a Rwsia</title>
@@ -7902,17 +7906,17 @@
 		<desc>Gêm Grwp A4 Cynghrair y Cenhedloedd UEFA 2027 rhwng Cymru a Denmarc. C/G 19:45. 2027 UE...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbx81v.jpg" />
 	</programme>
-	<programme channel="s4c" start="20261004210000 +0000" stop="20261004220000 +0000">
-		<title>Am Le i Fyw - Terry a Catrin</title>
-		<desc>Ar ol bron 4 mis yn yr ysbyty, mae angen llety ar Terry. Ac a fydd Catrin a'i babi yn c...</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pc23bf.jpg" />
+	<programme channel="s4c" start="20261004210000 +0000" stop="20261004224500 +0000">
+		<title>Ralio+ - Cyfres 2026: Ralio+ WRC Sardinia</title>
+		<desc>Cymal Cyffro Pencampwriaeth Rali'r Byd o Sardinia. The Power Stage round of the World R...</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pdp8wf.jpg" />
 	</programme>
-	<programme channel="s4c" start="20261004220000 +0000" stop="20261004223500 +0000">
+	<programme channel="s4c" start="20261004224500 +0000" stop="20261004232000 +0000">
 		<title>Cymry ar Gynfas - Cyfres 4: Kiri Pritchard-McLean</title>
 		<desc>Y comedïwr Kiri Pritchard-Mclean, a'r artist portreadau Corrie Chiswell sy'n gweithio t...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ffbc52.jpg" />
 	</programme>
-	<programme channel="s4c" start="20261004223500 +0000" stop="20261005050000 +0000">
+	<programme channel="s4c" start="20261004232000 +0000" stop="20261005050000 +0000">
 		<title>Watch Live</title>
 		<desc>Schedule information is currently being updated.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
