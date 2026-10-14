@@ -1384,7 +1384,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p09vn37p.jpg" />
 	</programme>
 	<programme channel="bbcthree" start="20261015002500 +0000" stop="20261015012500 +0000">
-		<title>Glastonbury - Nia Archives</title>
+		<title>Glastonbury - Nia Archives (2024)</title>
 		<desc>Leeds producer, songwriter and film-maker fuses jungle rhythms and neo-soul vocals.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0j7hcdm.jpg" />
 	</programme>
@@ -6723,6 +6723,11 @@
 		<desc>Questions in the House of Lords to government ministers on Wednesday 14 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fz9n.jpg" />
 	</programme>
+	<programme channel="bbcparliament" start="20261014223000 +0000" stop="20261014224000 +0000">
+		<title>House of Lords - Prisoner Early Release Statement</title>
+		<desc>The statement by justice minister Lord Lemos on the prisoner early release scheme.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
+	</programme>
 	<programme channel="bbcparliament" start="20261014224000 +0000" stop="20261014232000 +0000">
 		<title>House of Lords - Drumcree Parade Statement</title>
 		<desc>Statement on the decision by the Northern Ireland secretary to ban the Drumcree parade.</desc>
@@ -6753,20 +6758,25 @@
 		<desc>Coverage of the debate on the Trade Union (Rights to Access Workplaces) Regulations 2026.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261015060000 +0000" stop="20261015063000 +0000">
+	<programme channel="bbcparliament" start="20261015060000 +0000" stop="20261015062500 +0000">
 		<title>House of Commons - Attorney General Questions</title>
 		<desc>Coverage of questions to the attorney general, Ellie Reeves, on Wednesday 14 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pgnfff.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261015063000 +0000" stop="20261015070500 +0000">
+	<programme channel="bbcparliament" start="20261015062500 +0000" stop="20261015071000 +0000">
 		<title>Prime Minister's Questions - 14/10/2026</title>
 		<desc>Coverage of questions to Andy Burnham, the prime minister, on Wednesday 14 October.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pglp08.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261015070500 +0000" stop="20261015083000 +0000">
-		<title>House of Commons - 14/10/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Wednesday 14 October.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20261015071000 +0000" stop="20261015081500 +0000">
+		<title>Welsh First Minister's Questions - 13/10/2026</title>
+		<desc>Questions in the Senedd to Rhun ap Iorwerth, the first minister, on Tuesday 13 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pgmsmt.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261015081500 +0000" stop="20261015083000 +0000">
+		<title>Ten Minute Rule Bill - Wet Wipes Labelling</title>
+		<desc>The introduction of a bill on the labelling of wet wipe packets, on Wednesday 14 October.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261015083000 +0000" stop="20261015093000 +0000">
 		<title>House of Commons - Business, Innovation, Science and Trade Questions</title>
