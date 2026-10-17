@@ -866,7 +866,7 @@
 	<programme channel="bbctwo" start="20261018053000 +0000" stop="20261018093000 +0000">
 		<title>Cycling: Track World Championships - Day 5: Women’s Keirin, Men’s Sprint, Men’s Elimination and Women’s Points Race</title>
 		<desc>Clare Balding presents live coverage of the final day in Shanghai.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ph0k3j.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ph9122.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20261018093000 +0000" stop="20261018110000 +0000">
 		<title>Saturday Kitchen Best Bites - 2026: 18/10/2026</title>
@@ -7185,15 +7185,20 @@
 		<desc>Local, national and international news and information from BBC ALBA.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f8dxvk.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20261017162000 +0000" stop="20261017183000 +0000">
+	<programme channel="bbcalba" start="20261017162000 +0000" stop="20261017183500 +0000">
 		<title>SPFL  - 2026/27 Season: 3. League 1 - Airdrie v Hamilton</title>
 		<desc>Live League 1 football as Airdrie meet Hamilton Academical at Albert Bartlett Stadium.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pgmgk5.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20261017183000 +0000" stop="20261017190000 +0000">
-		<title>Gàrraidhean Mòra na h-Alba  - Series 1: Episode 4</title>
-		<desc>Exploring Inverewe garden in Wester Ross. Air feadh Gàrradh Inbhir Iù air Taobh Siar Rois.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p098c648.jpg" />
+	<programme channel="bbcalba" start="20261017183500 +0000" stop="20261017184500 +0000">
+		<title>Binneas - Na Trads - Series 13: Episode 4</title>
+		<desc>Concert set performed by Ellie Beaton at the 2025 Trad Awards.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nn5npz.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20261017184500 +0000" stop="20261017190000 +0000">
+		<title>Binneas - Na Trads - Series 13: Episode 5</title>
+		<desc>Binneas Na Trads le Màiri NicAonghais. With Mairi MacInnes and band at the Trad Awards.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nl4jnd.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20261017190000 +0000" stop="20261017193000 +0000">
 		<title>Dàna | Scotland's Wild Side - Series 2 | ALBA: 4. Rònaigh | Rona</title>
@@ -7785,12 +7790,12 @@
 		<desc>Hanner Marathon Caerdydd 2026: Lowri Morgan a Rhodri Gomer fydd yn ein tywys drwy uchaf...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pgs5pp.jpg" />
 	</programme>
-	<programme channel="s4c" start="20261017183000 +0000" stop="20261017184500 +0000">
+	<programme channel="s4c" start="20261017183000 +0000" stop="20261017184400 +0000">
 		<title>Newyddion S4C - Sat, 17 Oct 2026 19:30</title>
 		<desc>Newyddion S4C a'r Tywydd. S4C News and Weather.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pfftgl.jpg" />
 	</programme>
-	<programme channel="s4c" start="20261017184500 +0000" stop="20261017210500 +0000">
+	<programme channel="s4c" start="20261017184400 +0000" stop="20261017210500 +0000">
 		<title>Clwb Rygbi Ewrop - Tymor 26/27: Clwb Rygbi: Scarlets v Newcastle</title>
 		<desc>Gêm fyw rownd agoriadol Cwpan Her yr EPCR: Scarlets v Newcastle, Parc y Scarlets. C/O 2...</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pglgv7.jpg" />
