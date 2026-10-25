@@ -67,7 +67,7 @@
 	<programme channel="bbcone" start="20261025090000 +0000" stop="20261025100000 +0000">
 		<title>Sunday with Laura Kuenssberg - What to expect from the Budget - and EU/UK relations</title>
 		<desc>Laura talks to Angela Rayner, Daisy Cooper and Robert Jenrick.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pjk18m.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20261025100000 +0000" stop="20261025103000 +0000">
 		<title>Politics London - 25/10/2026</title>
@@ -1199,7 +1199,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m60d4k.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20261028210000 +0000" stop="20261028220000 +0000">
-		<title>Spotlight - Murder in Belfast: Sisters Seeking Justice: Part 1 - An Innocent Man</title>
+		<title>Spotlight - Murder in Belfast: Sisters Seeking Justice. Part 1 - An Innocent Man</title>
 		<desc>A stabbing on a street. Scared witnesses. Who will tell Robert’s family who killed him?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0phn5fl.jpg" />
 	</programme>
@@ -5131,7 +5131,7 @@
 	<programme channel="bbcscotland" start="20261025191500 +0000" stop="20261025200000 +0000">
 		<title>Sportscene: Premiership Highlights - 25/10/2026</title>
 		<desc>Extended highlights of Hibernian v Celtic and Motherwell v Hearts.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfvl6m.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pjkj0b.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20261025200000 +0000" stop="20261025210000 +0000">
 		<title>The Town That Thread Built</title>
@@ -5471,7 +5471,7 @@
 	<programme channel="bbcnews" start="20261025090000 +0000" stop="20261025100000 +0000">
 		<title>Sunday with Laura Kuenssberg - What to expect from the Budget - and EU/UK relations</title>
 		<desc>Laura talks to Angela Rayner, Daisy Cooper and Robert Jenrick.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l7vnvy.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pjk18m.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20261025100000 +0000" stop="20261025103000 +0000">
 		<title>BBC News - 25/10/2026</title>
@@ -5579,9 +5579,9 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0fj0528.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20261025203000 +0000" stop="20261025210000 +0000">
-		<title>Newscast - 25/10/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p86f7y.png" />
+		<title>Newscast - Could A Major Part Of Brexit Be Reversed?</title>
+		<desc>Andy Burnham opens the door to EU free movement, and another Brexit battle.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pjkkpx.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20261025210000 +0000" stop="20261025220000 +0000">
 		<title>BBC News - 25/10/2026</title>
@@ -6963,10 +6963,20 @@
 		<desc>Sealladh ùr bho Alba. A new view from Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4wxql.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20261025160000 +0000" stop="20261025181500 +0000">
-		<title>Scottish Women's Premier League (BBC ALBA) - 2026/27: 8. Partick Thistle v Glasgow City</title>
-		<desc>Live SWPL football action as Partick Thistle host city rivals Glasgow City. </desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0phh7xn.jpg" />
+	<programme channel="bbcalba" start="20261025160000 +0000" stop="20261025173500 +0000">
+		<title>As An Eilean (From the Island)</title>
+		<desc>Two very different love stories set in a remote Scottish island community.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bmbw3.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20261025173500 +0000" stop="20261025180500 +0000">
+		<title>Two Go to Tolsta - Sgeulachd Syd Agus Millie</title>
+		<desc>Remarkable story of two children from Hertfordshire who ran away to their grandparents.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p07wzw9f.jpg" />
+	</programme>
+	<programme channel="bbcalba" start="20261025180500 +0000" stop="20261025181500 +0000">
+		<title>Tha Thu air Aigeann M'Inntinn</title>
+		<desc>A hand-drawn animation about the Iolaire disaster, with first-hand accounts.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p06vbw2j.jpg" />
 	</programme>
 	<programme channel="bbcalba" start="20261025181500 +0000" stop="20261025183000 +0000">
 		<title>An Là - 25/10/2026</title>
