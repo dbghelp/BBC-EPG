@@ -123,7 +123,7 @@
 	</programme>
 	<programme channel="bbcone" start="20261026190000 +0000" stop="20261026193000 +0000">
 		<title>The One Show - 26/10/2026</title>
-		<desc>Clara Amfo and Roman Kemp bring you the stories that matter from across the country.</desc>
+		<desc>Ed Gamble talks Traitors as he and Sue Perkins join Clara Amfo and Angellica Bell.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p4hsgz.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20261026193000 +0000" stop="20261026200000 +0000">
@@ -725,8 +725,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0g6j1tq.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20261026121500 +0000" stop="20261026130000 +0000">
-		<title>Politics Live - 26/10/2026</title>
-		<desc>The big political issues of the day.</desc>
+		<title>Politics Live - A Big Week for the Prime Minister</title>
+		<desc>Andy Burnham’s government delivers its first Budget on Wednesday.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mcfc71.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20261026130000 +0000" stop="20261026134500 +0000">
@@ -777,7 +777,7 @@
 	<programme channel="bbctwo" start="20261026190000 +0000" stop="20261026193000 +0000">
 		<title>Global Eye - Yemen's Frontline City</title>
 		<desc>Nawal Al-Maghafi reports from Yemen's front lines.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzcsk2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pjnc6z.png" />
 	</programme>
 	<programme channel="bbctwo" start="20261026193000 +0000" stop="20261026200000 +0000">
 		<title>Mastermind - 2026/27: Episode 14</title>
@@ -962,7 +962,7 @@
 	<programme channel="bbctwo" start="20261028010500 +0000" stop="20261028020500 +0000">
 		<title>The Celebrity Traitors - Series 2: Episode 8</title>
 		<desc>As fewer players remain in the game, the pressure mounts for all the celebrities.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pcg6k9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pjnvlk.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20261028020500 +0000" stop="20261028023500 +0000">
 		<title>The Celebrity Traitors: Uncloaked - Series 2: Episode 8</title>
@@ -1060,7 +1060,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0m60d4k.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20261028210000 +0000" stop="20261028220000 +0000">
-		<title>Spotlight - Murder in Belfast: Sisters Seeking Justice. Part 1 - An Innocent Man</title>
+		<title>Murder in Belfast: Sisters Seeking Justice - Series 1: 1. An Innocent Man</title>
 		<desc>A stabbing on a street. Scared witnesses. Who will tell Robert’s family who killed him?</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0phn5fl.jpg" />
 	</programme>
@@ -1322,7 +1322,7 @@
 	<programme channel="bbctwo" start="20261030200000 +0000" stop="20261030210000 +0000">
 		<title>Gardeners' World - 2026: Episode 31</title>
 		<desc>As the growing season finishes, it’s time to catch up with Adam Frost in his new garden.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n66dyk.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pjn9hw.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20261030210000 +0000" stop="20261030220000 +0000">
 		<title>Raiders of the Lost Past with Janina Ramirez - Tutankhamun’s Secrets</title>
@@ -5155,10 +5155,15 @@
 		<desc>Bringing you more from the day’s top stories and communities across Scotland.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0n4rpph.jpg" />
 	</programme>
-	<programme channel="bbcscotland" start="20261026193000 +0000" stop="20261026200000 +0000">
+	<programme channel="bbcscotland" start="20261026193000 +0000" stop="20261026194500 +0000">
 		<title>Sportscene: Scottish Women's Premier League - 26/10/2026</title>
 		<desc>Jane Lewis presents highlights from the weekend's fixtures in the SWPL.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0jfyh01.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pjngw2.jpg" />
+	</programme>
+	<programme channel="bbcscotland" start="20261026194500 +0000" stop="20261026200000 +0000">
+		<title>Grand Tours of Scotland's Rivers - Series 3: 1. Quietly Flows the Don</title>
+		<desc>Paul explores the River Don from its source in the Grampian mountains to the North Sea.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0h09kvr.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20261026200000 +0000" stop="20261026203000 +0000">
 		<title>The Great Food Guys - Series 3: Episode 4</title>
@@ -5191,8 +5196,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0kr1cll.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20261026230000 +0000" stop="20261026233000 +0000">
-		<title>Scotcast - 26/10/2026</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler. </desc>
+		<title>Scotcast - Storm season</title>
+		<desc>Martin Geissler asks whether we are prepared for what could be our stormiest winter yet.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mdqwpf.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20261026233000 +0000" stop="20261027000000 +0000">
@@ -6628,7 +6633,7 @@
 	<programme channel="bbcnews" start="20261031023000 +0000" stop="20261031030000 +0000">
 		<title>Global Eye - Yemen's Frontline City</title>
 		<desc>Nawal Al-Maghafi reports from Yemen's front lines.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0nzcsk2.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pjnc6z.png" />
 	</programme>
 	<programme channel="bbcnews" start="20261031030000 +0000" stop="20261031033000 +0000">
 		<title>Newsday - 31/10/2026</title>
@@ -6950,12 +6955,12 @@
 		<desc>Mr Krabs is too scared to get his physical.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pbxkr7.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20261026181000 +0000" stop="20261026182000 +0000">
+	<programme channel="bbcalba" start="20261026181000 +0000" stop="20261026182500 +0000">
 		<title>An Sgoil   - Series 1: Episode 4</title>
 		<desc>It's in-service day for the staff of Sgoil Taobh na Cloiche.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0f4fy38.jpg" />
 	</programme>
-	<programme channel="bbcalba" start="20261026182000 +0000" stop="20261026183500 +0000">
+	<programme channel="bbcalba" start="20261026182500 +0000" stop="20261026183500 +0000">
 		<title>Flix - Series 1: 9. Feachd nan Cat-fiadhaich</title>
 		<desc>Tha Flix ‘son bhith mar shàr chat feireil. Flix wants to be like an ultimate outdoor cat.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0k2qybg.jpg" />
