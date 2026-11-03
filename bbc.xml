@@ -664,7 +664,7 @@
 	</programme>
 	<programme channel="bbcone" start="20261107225500 +0000" stop="20261108000500 +0000">
 		<title>Match of the Day - 07/11/2026</title>
-		<desc>Highlights from five matches, including the top two in the Premier League table.</desc>
+		<desc>Highlights from five games, including matches involving pacesetters Arsenal and Man City.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pkv3g7.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20261108000500 +0000" stop="20261108015500 +0000">
@@ -5276,8 +5276,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pjpn59.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20261103230000 +0000" stop="20261103233000 +0000">
-		<title>Scotcast - 03/11/2026</title>
-		<desc>Conversation about Scotland’s biggest news stories, hosted by Martin Geissler.</desc>
+		<title>Scotcast - Overcrowded prisons</title>
+		<desc>Martin Geissler asks what life is really like inside an overcrowded prison.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mk6vmp.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20261103233000 +0000" stop="20261104000000 +0000">
@@ -5327,7 +5327,7 @@
 	</programme>
 	<programme channel="bbcscotland" start="20261104210000 +0000" stop="20261104220000 +0000">
 		<title>Debate Night - Series 8: 04/11/2026 - Perth</title>
-		<desc>Topical debate on the big issues affecting Scotland and beyond.</desc>
+		<desc>Debate Night is in Perth with an audience and a panel of politicians and public figures.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0brnqkq.jpg" />
 	</programme>
 	<programme channel="bbcscotland" start="20261104220000 +0000" stop="20261104222500 +0000">
@@ -6753,12 +6753,12 @@
 	<programme channel="bbcparliament" start="20261103124500 +0000" stop="20261103133500 +0000">
 		<title>House of Commons - Poundland Urgent Question</title>
 		<desc>Urgent question tabled by Labour MP Gareth Snell on the high street retailer Poundland.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pl49sd.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261103133500 +0000" stop="20261103134500 +0000">
 		<title>Ten Minute Rule Bill - Halal and Kosher Meat</title>
 		<desc>The introduction of a bill on the labelling of halal and kosher meat.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcfns.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pl4d3g.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261103134500 +0000" stop="20261103193000 +0000">
 		<title>House of Commons - Budget Debate, Day 4</title>
@@ -6805,15 +6805,25 @@
 		<desc>Coverage of the debate on a motion to approve new rules on punishments in prisons.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261104070000 +0000" stop="20261104080000 +0000">
+	<programme channel="bbcparliament" start="20261104070000 +0000" stop="20261104081500 +0000">
 		<title>House of Commons - Treasury Questions</title>
 		<desc>Coverage of questions to John Healey on Tuesday 3 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pl43hr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261104080000 +0000" stop="20261104100000 +0000">
-		<title>House of Commons - 03/11/2026</title>
-		<desc>Highlights of proceedings in the House of Commons from Tuesday 3 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyn9.jpg" />
+	<programme channel="bbcparliament" start="20261104081500 +0000" stop="20261104091500 +0000">
+		<title>Welsh First Minister's Questions - 03/11/2026</title>
+		<desc>Questions in the Senedd to Rhun ap Iorwerth, the first minister, on Tuesday 3 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn8g.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261104091500 +0000" stop="20261104095000 +0000">
+		<title>Scottish First Minister's Questions - 03/11/2026</title>
+		<desc>Questions from backbench MSPs to first minister John Swinney, on Tuesday 3 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261104095000 +0000" stop="20261104100000 +0000">
+		<title>This is BBC Parliament - This is BBC Parliament</title>
+		<desc>The top political and parliamentary stories from BBC News.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs71l.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261104100000 +0000" stop="20261104113000 +0000">
 		<title>Select Committees - Education Committee with Lucy Powell</title>
