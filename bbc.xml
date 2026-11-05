@@ -158,8 +158,8 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20261105234000 +0000" stop="20261106001000 +0000">
-		<title>Newscast - Series 7: 05/11/2026</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Newscast - Series 7: 19. The Week: What American Politics Means For The UK</title>
+		<desc>Exploring why cost of living trumps all in the US and the UK.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p86f7y.png" />
 	</programme>
 	<programme channel="bbcone" start="20261106001000 +0000" stop="20261106005500 +0000">
@@ -658,7 +658,7 @@
 	<programme channel="bbcone" start="20261109200000 +0000" stop="20261109210000 +0000">
 		<title>Panorama - Fire and Floods: Our Extreme Weather</title>
 		<desc>Justin Rowlatt investigates the impact of the changing climate on our weather.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0l25ccf.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhxcw.jpg" />
 	</programme>
 	<programme channel="bbcone" start="20261109210000 +0000" stop="20261109220000 +0000">
 		<title>This City Is Ours - Series 2: Episode 6</title>
@@ -3074,7 +3074,7 @@
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0mxvq1g.jpg" />
 	</programme>
 	<programme channel="cbbc" start="20261109084000 +0000" stop="20261109085500 +0000">
-		<title>Odd Squad - Series 6 - UK HQ: 22. I Love it When a Plan Barely Comes Together</title>
+		<title>Odd Squad - Series 6 - UK HQ: 22. I Love It When a Plan Barely Comes Together</title>
 		<desc>Techie Tallulah continues her big evil plan.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0ngtn9z.jpg" />
 	</programme>
@@ -5674,7 +5674,7 @@
 	<programme channel="bbcnews" start="20261106003000 +0000" stop="20261106010000 +0000">
 		<title>Newscast - 06/11/2026</title>
 		<desc>Lighthearted discussion of the day's news.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0p86f7y.png" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pljf1h.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20261106010000 +0000" stop="20261106013000 +0000">
 		<title>BBC News - 06/11/2026</title>
@@ -5954,7 +5954,7 @@
 	<programme channel="bbcnews" start="20261107023000 +0000" stop="20261107030000 +0000">
 		<title>Africa: From Reparations to Action</title>
 		<desc>African leaders push to turn reparations demands into action after UN resolution.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhxtt.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20261107030000 +0000" stop="20261107033000 +0000">
 		<title>BBC News - 07/11/2026</title>
@@ -6369,7 +6369,7 @@
 	<programme channel="bbcnews" start="20261108233000 +0000" stop="20261109000000 +0000">
 		<title>Africa: From Reparations to Action</title>
 		<desc>African leaders push to turn reparations demands into action after UN resolution.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0bvs4dq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhxtt.jpg" />
 	</programme>
 	<programme channel="bbcnews" start="20261109000000 +0000" stop="20261109003000 +0000">
 		<title>BBC News - 09/11/2026</title>
@@ -6754,119 +6754,184 @@
 	<programme channel="bbcparliament" start="20261105133000 +0000" stop="20261105140000 +0000">
 		<title>Scottish Parliament - General Questions</title>
 		<desc>Coverage of questions to ministers in the Scottish government on Thursday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhwzp.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261105140000 +0000" stop="20261105143000 +0000">
 		<title>Scottish First Minister's Questions - 05/11/2026</title>
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhxmr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261105143000 +0000" stop="20261105174000 +0000">
+	<programme channel="bbcparliament" start="20261105143000 +0000" stop="20261105180000 +0000">
 		<title>Scottish Parliament - 05/11/2026</title>
 		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261105174000 +0000" stop="20261105192000 +0000">
+	<programme channel="bbcparliament" start="20261105180000 +0000" stop="20261105194000 +0000">
 		<title>Select Committees - Education Committee with Lucy Powell</title>
 		<desc>The Education select committee evidence session with the education secretary Lucy Powell.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plc2g6.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261105192000 +0000" stop="20261105215000 +0000">
+	<programme channel="bbcparliament" start="20261105194000 +0000" stop="20261105220500 +0000">
 		<title>Select Committees - Home Affairs Committee on the Violence Against Women and Girls Strategy</title>
 		<desc>The Home Affairs committee session on the Violence against Women and Girls Strategy.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pl37hz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261105215000 +0000" stop="20261105230000 +0000">
+	<programme channel="bbcparliament" start="20261105220500 +0000" stop="20261105232000 +0000">
 		<title>House of Commons - Housing, Communities and Local Government Questions</title>
 		<desc>Coverage of questions to Angela Rayner on Monday 2 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pkxfnk.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261105230000 +0000" stop="20261105233000 +0000">
+	<programme channel="bbcparliament" start="20261105232000 +0000" stop="20261105235000 +0000">
 		<title>Scottish Parliament - General Questions</title>
 		<desc>Coverage of questions to ministers in the Scottish government on Thursday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhwzp.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261105233000 +0000" stop="20261106000000 +0000">
+	<programme channel="bbcparliament" start="20261105235000 +0000" stop="20261106002500 +0000">
 		<title>Scottish First Minister's Questions - 05/11/2026</title>
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhxmr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261106000000 +0000" stop="20261106023000 +0000">
-		<title>Scottish Parliament - 05/11/2026</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 5 November.</desc>
+	<programme channel="bbcparliament" start="20261106002500 +0000" stop="20261106010000 +0000">
+		<title>Scottish Parliament - Safeguarding Children Statement</title>
+		<desc>A ministerial statement on safeguarding and protecting children, from Thursday 5 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261106023000 +0000" stop="20261106030000 +0000">
+	<programme channel="bbcparliament" start="20261106010000 +0000" stop="20261106025000 +0000">
+		<title>Scottish Parliament - Scotland's Bus Network</title>
+		<desc>A debate in the Scottish Parliament on ways to strengthen Scotland's bus network.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261106025000 +0000" stop="20261106032000 +0000">
 		<title>Scottish Parliament - General Questions</title>
 		<desc>Coverage of questions to ministers in the Scottish government on Thursday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhwzp.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261106030000 +0000" stop="20261106033000 +0000">
+	<programme channel="bbcparliament" start="20261106032000 +0000" stop="20261106035500 +0000">
 		<title>Scottish First Minister's Questions - 05/11/2026</title>
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhxmr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261106033000 +0000" stop="20261106060000 +0000">
-		<title>Scottish Parliament - 05/11/2026</title>
-		<desc>Coverage of the day's proceedings in the Scottish Parliament on Thursday 5 November.</desc>
+	<programme channel="bbcparliament" start="20261106035500 +0000" stop="20261106060000 +0000">
+		<title>Scottish Parliament - Scotland's Bus Network</title>
+		<desc>A debate in the Scottish Parliament on ways to strengthen Scotland's bus network.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261106060000 +0000" stop="20261106090000 +0000">
+	<programme channel="bbcparliament" start="20261106060000 +0000" stop="20261106080500 +0000">
 		<title>Westminster Hall - 02/11/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Monday 2 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261106090000 +0000" stop="20261106140000 +0000">
-		<title>Select Committees - 06/11/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20261106080500 +0000" stop="20261106105000 +0000">
+		<title>House of Lords - Conflict Mediation Debate</title>
+		<desc>Coverage of a debate on the impact of mediation and conflict prevention globally.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pkh487.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261106105000 +0000" stop="20261106122000 +0000">
+		<title>Westminster Hall - Prostate Screenings</title>
+		<desc>A debate in Westminster Hall on expanding prostate cancer screening programmes.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261106122000 +0000" stop="20261106140000 +0000">
+		<title>House of Commons - Immigration Rules Statement</title>
+		<desc>Statement on proposals to reform indefinite leave to remain, on Monday 2 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pl2tvl.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261106140000 +0000" stop="20261106144500 +0000">
+		<title>House of Commons - Poundland Urgent Question</title>
+		<desc>Urgent question tabled by Labour MP Gareth Snell on the high street retailer Poundland.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pl49sd.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261106144500 +0000" stop="20261106154000 +0000">
+		<title>House of Lords - Prison Punishments Debate</title>
+		<desc>Coverage of a debate on a motion to approve new rules on punishments in prisons.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plc0gx.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261106154000 +0000" stop="20261106155000 +0000">
+		<title>Ten Minute Rule Bill - Halal and Kosher Meat</title>
+		<desc>The introduction of a bill on the labelling of halal and kosher meat.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pl4d3g.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261106155000 +0000" stop="20261106171000 +0000">
+		<title>Select Committees - Lords Communications and Digital Committee on the Online Safety Act</title>
+		<desc>The Lords Communications and Digital committee session examining the Online Safety Act.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261106140000 +0000" stop="20261106180000 +0000">
-		<title>House of Lords - 06/11/2026</title>
-		<desc>Highlights of proceedings in the House of Lords.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fyr1.jpg" />
-	</programme>
-	<programme channel="bbcparliament" start="20261106180000 +0000" stop="20261106210000 +0000">
-		<title>Select Committees - 06/11/2026</title>
-		<desc>Recorded coverage of select committee proceedings.</desc>
+	<programme channel="bbcparliament" start="20261106171000 +0000" stop="20261106185000 +0000">
+		<title>Select Committees - Treasury Committee on the Budget</title>
+		<desc>The Treasury select committee session looking at the Budget, from Tuesday 3 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p04bplqj.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261106210000 +0000" stop="20261106213000 +0000">
+	<programme channel="bbcparliament" start="20261106185000 +0000" stop="20261106193000 +0000">
+		<title>Scottish Parliament - Domestic Abuse Statement</title>
+		<desc>A statement in the Scottish Parliament on support for victims of domestic abuse.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261106193000 +0000" stop="20261106200000 +0000">
+		<title>Scottish Parliament - General Questions</title>
+		<desc>Coverage of questions to ministers in the Scottish government on Thursday 5 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhwzp.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261106200000 +0000" stop="20261106210000 +0000">
+		<title>Scottish Parliament - Safeguarding Children Statement</title>
+		<desc>A ministerial statement on safeguarding and protecting children, from Thursday 5 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261106210000 +0000" stop="20261106213500 +0000">
 		<title>Scottish First Minister's Questions - 03/11/2026</title>
 		<desc>Questions from backbench MSPs to first minister John Swinney, on Tuesday 3 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plbylb.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261106213000 +0000" stop="20261106220000 +0000">
+	<programme channel="bbcparliament" start="20261106213500 +0000" stop="20261106220500 +0000">
 		<title>Scottish First Minister's Questions - 05/11/2026</title>
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhxmr.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261106220000 +0000" stop="20261107010000 +0000">
-		<title>Scottish Parliament - 06/11/2026</title>
-		<desc>Highlights from the Scottish Parliament.</desc>
+	<programme channel="bbcparliament" start="20261106220500 +0000" stop="20261106235500 +0000">
+		<title>Scottish Parliament - Scotland's Bus Network</title>
+		<desc>A debate in the Scottish Parliament on ways to strengthen Scotland's bus network.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lccdz.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261107010000 +0000" stop="20261107020000 +0000">
+	<programme channel="bbcparliament" start="20261106235500 +0000" stop="20261107005500 +0000">
 		<title>Welsh First Minister's Questions - 03/11/2026</title>
 		<desc>Questions in the Senedd to Rhun ap Iorwerth, the first minister, on Tuesday 3 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plbyhk.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261107020000 +0000" stop="20261107043000 +0000">
-		<title>Senedd Cymru - Welsh Parliament - 06/11/2026</title>
-		<desc>Highlights from the Welsh Parliament.</desc>
+	<programme channel="bbcparliament" start="20261107005500 +0000" stop="20261107014000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Covid 19 Review Statement</title>
+		<desc>A statement on the review of government practices during the Covid 19 pandemic.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261107043000 +0000" stop="20261107051500 +0000">
+	<programme channel="bbcparliament" start="20261107014000 +0000" stop="20261107022500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Working with the Third Sector Statement</title>
+		<desc>Statement on the Welsh government's partnerships with charities and the voluntary sector.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261107022500 +0000" stop="20261107025500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - NHS Wales Workforce Strategy</title>
+		<desc>Coverage of a statement on the Welsh government's NHS Wales Workforce Strategy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261107025500 +0000" stop="20261107035500 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Procurement Policy Statement</title>
+		<desc>A statement outlining government criteria and safeguards regarding its procurement policy.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261107035500 +0000" stop="20261107044000 +0000">
+		<title>Senedd Cymru - Welsh Parliament - Future of the Media in Wales</title>
+		<desc>Coverage of a statement on the future of the media in Wales, on Tuesday 3 November.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261107044000 +0000" stop="20261107053000 +0000">
 		<title>Northern Ireland Assembly - Communities Questions</title>
 		<desc>Coverage of questions to the communities minister, Gordon Lyons, on Monday 2 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pkxd80.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261107051500 +0000" stop="20261107060000 +0000">
-		<title>Northern Ireland Assembly - 06/11/2026</title>
-		<desc>Highlights from the Northern Ireland Assembly.</desc>
+	<programme channel="bbcparliament" start="20261107053000 +0000" stop="20261107061500 +0000">
+		<title>Northern Ireland Assembly - Economy Questions</title>
+		<desc>Questions in Stormont to the economy minister Caoimhe Archibald on Monday 2 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261107060000 +0000" stop="20261107110000 +0000">
+	<programme channel="bbcparliament" start="20261107061500 +0000" stop="20261107110000 +0000">
 		<title>Westminster Hall - 03/11/2026</title>
 		<desc>House of Commons proceedings in Westminster Hall, from Tuesday 3 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p01lcnfb.jpg" />
@@ -6884,7 +6949,7 @@
 	<programme channel="bbcparliament" start="20261107120500 +0000" stop="20261107123500 +0000">
 		<title>Scottish First Minister's Questions - 05/11/2026</title>
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhxmr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261107123500 +0000" stop="20261107133500 +0000">
 		<title>Welsh First Minister's Questions - 03/11/2026</title>
@@ -6939,7 +7004,7 @@
 	<programme channel="bbcparliament" start="20261108020000 +0000" stop="20261108023000 +0000">
 		<title>Scottish First Minister's Questions - 05/11/2026</title>
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhxmr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261108023000 +0000" stop="20261108033000 +0000">
 		<title>Welsh First Minister's Questions - 03/11/2026</title>
@@ -7004,7 +7069,7 @@
 	<programme channel="bbcparliament" start="20261108154500 +0000" stop="20261108161500 +0000">
 		<title>Scottish First Minister's Questions - 05/11/2026</title>
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhxmr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261108161500 +0000" stop="20261108171500 +0000">
 		<title>Welsh First Minister's Questions - 03/11/2026</title>
@@ -7049,7 +7114,7 @@
 	<programme channel="bbcparliament" start="20261109043000 +0000" stop="20261109050000 +0000">
 		<title>Scottish First Minister's Questions - 05/11/2026</title>
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhxmr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261109050000 +0000" stop="20261109060000 +0000">
 		<title>Welsh First Minister's Questions - 03/11/2026</title>
@@ -7079,7 +7144,7 @@
 	<programme channel="bbcparliament" start="20261109105500 +0000" stop="20261109112500 +0000">
 		<title>Scottish First Minister's Questions - 05/11/2026</title>
 		<desc>Questions from party leaders to John Swinney, the first minister, on Thursday 5 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080fn4s.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plhxmr.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261109112500 +0000" stop="20261109120000 +0000">
 		<title>Prime Minister's Questions - 04/11/2026</title>
