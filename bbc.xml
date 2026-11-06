@@ -1060,7 +1060,7 @@
 	<programme channel="bbctwo" start="20261109004500 +0000" stop="20261109014500 +0000">
 		<title>Question Time - 2026: US midterms: ’Trumpism was rejected'</title>
 		<desc>Fiona Bruce presents an hour of topical debate from Liverpool.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0d8kjcq.jpg" />
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0plk4fy.jpg" />
 	</programme>
 	<programme channel="bbctwo" start="20261109014500 +0000" stop="20261109024500 +0000">
 		<title>This City Is Ours - Series 2: Episode 4</title>
@@ -6814,15 +6814,20 @@
 		<desc>Coverage of a statement on the future of the media in Wales, on Tuesday 3 November.</desc>
 		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p08cvcml.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261107045000 +0000" stop="20261107053000 +0000">
-		<title>Watch Live</title>
-		<desc>Schedule information is currently being updated.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0c5x10p.jpg" />
+	<programme channel="bbcparliament" start="20261107045000 +0000" stop="20261107053500 +0000">
+		<title>Northern Ireland Assembly - Communities Questions</title>
+		<desc>Coverage of questions to the communities minister, Gordon Lyons, on Monday 2 November. </desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pkxd80.jpg" />
 	</programme>
-	<programme channel="bbcparliament" start="20261107053000 +0000" stop="20261107061500 +0000">
-		<title>Northern Ireland Assembly - Economy Questions</title>
-		<desc>Questions in Stormont to the economy minister Caoimhe Archibald on Monday 2 November.</desc>
-		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p080kls2.jpg" />
+	<programme channel="bbcparliament" start="20261107053500 +0000" stop="20261107055000 +0000">
+		<title>Ten Minute Rule Bill - Halal and Kosher Meat</title>
+		<desc>The introduction of a bill on the labelling of halal and kosher meat.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pl4d3g.jpg" />
+	</programme>
+	<programme channel="bbcparliament" start="20261107055000 +0000" stop="20261107060000 +0000">
+		<title>Ten Minute Rule Bill - Submarines</title>
+		<desc>The introduction a bill under the ten minute rule on the recycling of disused submarines.</desc>
+		<icon src="https://ichef.bbci.co.uk/images/ic/462x260/p0pl3h16.jpg" />
 	</programme>
 	<programme channel="bbcparliament" start="20261107061500 +0000" stop="20261107110000 +0000">
 		<title>Watch Live</title>
